@@ -9,7 +9,7 @@ parent: 2020s
 
 | April |  |  |  |
 |:---|:---|:---|:---|
-| 25th | 13:30 | [Middleton Stoney](/2021/middleton-stoney) | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) |
+| 25th | 13:30 | [Middleton Stoney](middleton-stoney) | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) |
 
 | May |  |  |  |
 |:---|:---|:---|:---|
