@@ -1,3 +1,40 @@
-* {
-  color: red !important;
+/* Default colour for links to Temple Red */
+
+$purple-000: #b30000 !default;
+$purple-100: #990000 !default;
+$purple-200: #800000 !default;
+$purple-300: #660000 !default;
+
+/* Slightly tighter spacing on table cell padding */
+
+th,
+td {
+  @include fs-3;
+  min-width: 100px;
+  padding-top: $sp-1;
+  padding-right: $sp-2;
+  padding-bottom: $sp-1;
+  padding-left: $sp-2;
+  background-color: $table-background-color;
+  border-bottom: $border rgba($border-color, 0.5);
+  border-left: $border $border-color;
+
+  &:first-of-type {
+    border-left: 0;
+  }
+}
+
+tbody {
+  tr {
+    &:last-of-type {
+      th,
+      td {
+        border-bottom: 0;
+      }
+
+      td {
+        padding-bottom: $sp-2;
+      }
+    }
+  }
 }
