@@ -29,15 +29,15 @@ parent: 2020s
 
 | July |  |  |  |
 |:---|:---|:---|:---|
-| 19th | 13:00 | [Kingstonian](/2020/kingstonian) | [KT8 9LU](https//goo.gl/maps/4kwjPyThUMkyQfhe8) | 
+| 19th | 13:00 | [Kingstonian](kingstonian) | [KT8 9LU](https//goo.gl/maps/4kwjPyThUMkyQfhe8) | 
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 2nd | 13:00 | [Railway Taverners](/2020/railway-taverners) | [E17 8AX](https://goo.gl/maps/UC5RuuBUG1feDDhm6) | 
-| 9th | 13:00 | [Banstead](/2020/banstead) | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) | 
+| 2nd | 13:00 | [Railway Taverners](railway-taverners) | [E17 8AX](https://goo.gl/maps/UC5RuuBUG1feDDhm6) | 
+| 9th | 13:00 | [Banstead](banstead) | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) | 
 
 | September |  |  |  |
 |:---|:---|:---|:---|
 | 6th | 13:00 | <del>Woodcoombe CC</del> | [ME10 3RT](https://goo.gl/maps/rMva1ta8sRDV8z768) | 
-| 13th | 13:00 | [Reigate Pilgrims](/2020/reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) | 
+| 13th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) | 
 | 27th | 12:00 | <del>Selling</del> | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
