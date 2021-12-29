@@ -5,7 +5,7 @@ nav_order: 1
 parent: 2020s
 ---
 
-# {{page.game}}
+# {{page.title}}
 
 | April |  |  |  |
 |:---|:---|:---|:---|
