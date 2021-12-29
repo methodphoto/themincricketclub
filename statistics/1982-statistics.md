@@ -1,0 +1,118 @@
+---
+layout: default
+title: 1982 Statistics
+nav_order: 60
+parent: Statistics
+---
+
+{{page.title}}
+
+## Season Batting
+
+| Player | M | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|:--|
+| **James Booth** | 8 | 8 | 1 | 180 | 25.71 |
+| **Robin Emanuel** | 11 | 10 | 2 | 160 | 20 |
+| **Richard Beswick** | 10 | 9 | 2 | 107 | 15.28 |
+| **David Mundy** | 6 | 5 | 0 | 106 | 21.2 |
+| **William Calvert** | 12 | 11 | 1 | 93 | 9.3 |
+| **Jim Grant** | 11 | 9 | 3 | 74 | 12.33 |
+| **Andrew Gallagher** | 7 | 6 | 0 | 63 | 10.5 |
+| **Mark Kirwan** | 12 | 7 | 0 | 60 | 8.57 |
+| **Paul Newcomb** | 2 | 2 | 0 | 59 | 29.5 |
+| **Stuart Watson** | 2 | 2 | 1 | 58 | 58 |
+| **Jerry Wright** | 12 | 7 | 1 | 53 | 8.83 |
+| **Scott Sutherland** | 2 | 2 | 0 | 33 | 16.5 |
+| **Alan Sylvester** | 11 | 7 | 4 | 31 | 10.333 |
+| **Mark Gardiner** | 7 | 5 | 1 | 24 | 6 |
+| **Howard-Wyse** | 1 | 1 | 0 | 23 | 23 |
+| **Colin Chitty** | 3 | 2 | 0 | 20 | 10 |
+| **Peter Butler** | 1 | 1 | 0 | 12 | 12 |
+| **Simon Tanner** | 1 | 1 | 0 | 9 | 9 |
+| **Ken Sullivan** | 3 | 2 | 0 | 6 | 3 |
+| **Shearing** | 1 | 1 | 1 | 6 | - |
+| **Steve Maynard** | 1 | 1 | 0 | 5 | 5 |
+| **Peter Mason** | 1 | 1 | 0 | 1 | 1 |
+| **Emmott** | 1 | 1 | 0 | 1 | 1 |
+| **Reid** | 1 | 1 | 0 | 1 | 1 |
+| **Liam Sheridan** | 2 | 1 | 0 | 0 | 0 |
+| **Johnny Abrahams** | 1 | 1 | 0 | 0 | 0 |
+| **James Cross** | 1 | 0 | 0 | 0 | - |
+| **Simon Beavis** | 1 | 1 | 0 | 0 | 0 |
+
+## Season batting (by ave)
+
+| Player | M | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|:--|
+| **Stuart Watson** | 2 | 2 | 1 | 58 | 58 |
+| **Paul Newcomb** | 2 | 2 | 0 | 59 | 29.5 |
+| **James Booth** | 8 | 8 | 1 | 180 | 25.71 |
+| **Howard-Wyse** | 1 | 1 | 0 | 23 | 23 |
+| **David Mundy** | 6 | 5 | 0 | 106 | 21.2 |
+| **Robin Emanuel** | 11 | 10 | 2 | 160 | 20 |
+| **Scott Sutherland** | 2 | 2 | 0 | 33 | 16.5 |
+| **Richard Beswick** | 10 | 9 | 2 | 107 | 15.28 |
+| **Jim Grant** | 11 | 9 | 3 | 74 | 12.33 |
+| **Peter Butler** | 1 | 1 | 0 | 12 | 12 |
+| **Andrew Gallagher** | 7 | 6 | 0 | 63 | 10.5 |
+| **Alan Sylvester** | 11 | 7 | 4 | 31 | 10.33 |
+| **Colin Chitty** | 3 | 2 | 0 | 20 | 10 |
+| **William Calvert** | 12 | 11 | 1 | 93 | 9.3 |
+| **Simon Tanner** | 1 | 1 | 0 | 9 | 9 |
+| **Jerry Wright** | 12 | 7 | 1 | 53 | 8.83 |
+| **Mark Kirwan** | 12 | 7 | 0 | 60 | 8.57 |
+| **Mark Gardiner** | 7 | 5 | 1 | 24 | 6 |
+| **Steve Maynard** | 1 | 1 | 0 | 5 | 5 |
+| **Ken Sullivan** | 3 | 2 | 0 | 6 | 3 |
+| **Peter Mason** | 1 | 1 | 0 | 1 | 1 |
+| **Emmott** | 1 | 1 | 0 | 1 | 1 |
+| **Reid** | 1 | 1 | 0 | 1 | 1 |
+| **Liam Sheridan** | 2 | 1 | 0 | 0 | 0 |
+| **Johnny Abrahams** | 1 | 1 | 0 | 0 | 0 |
+| **Simon Beavis** | 1 | 1 | 0 | 0 | 0 |
+| **Shearing** | 1 | 1 | 1 | 6 | - |
+| **James Cross** | 1 | 0 | 0 | 0 | - |
+
+## Season Bowling
+
+| Player | M | O | M | R | W | Ave | SR |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| **Mark Kirwan** | 12 | 95.2 | 18 | 309 | 24 | 12.875 | 23.8 |
+| **Jerry Wright** | 12 | 63.4 | 8 | 266 | 18 | 14.77 | 21.13 |
+| **Alan Sylvester** | 11 | 66 | 6 | 306 | 12 | 25.5 | 33 |
+| **Ken Sullivan** | 3 | 23.1 | 5 | 87 | 9 | 9.66 | 15.4 |
+| **William Calvert** | 12 | 32 | 3 | 152 | 7 | 21.71 | 27.42 |
+| **Mark Gardiner** | 7 | 9 | 1 | 39 | 4 | 9.75 | 13.5 |
+| **Richard Beswick** | 10 | 6 | 1 | 37 | 2 | 18.5 | 18 |
+| **Johnny Abrahams** | 1 | 4 | 0 | 17 | 2 | 8.5 | 12 |
+| **Scott Sutherland** | 2 | 9 | 4 | 14 | 2 | 7 | 27 |
+| **Simon Beavis** | 1 | 4 | 1 | 17 | 2 | 8.5 | 12 |
+| **Robin Emanuel** | 11 | 3 | 0 | 26 | 1 | 26 | 18 |
+| **Andrew Gallagher** | 7 | 4 | 0 | 23 | 1 | 23 | 24 |
+| **Liam Sheridan** | 2 | 3 | 0 | 14 | 1 | 14 | 18 |
+| **James Booth** | 8 | 3 | 0 | 20 | 0 | - | - |
+| **Colin Chitty** | 3 | 3 | 0 | 20 | 0 | - | - |
+| **Shearing** | 1 | 2 | 0 | 21 | 0 | - | - |
+| **Simon Tanner** | 1 | 3 | 1 | 24 | 0 | - | - |
+
+## Season Bowling (by ave)
+
+| Player | M | O | M | R | W | Ave | SR |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| **Scott Sutherland** | 2 | 9 | 4 | 14 | 2 | 7 | 27 |
+| **Johnny Abrahams** | 1 | 4 | 0 | 17 | 2 | 8.5 | 12 |
+| **Simon Beavis** | 1 | 4 | 1 | 17 | 2 | 8.5 | 12 |
+| **Ken Sullivan** | 3 | 23.1 | 5 | 87 | 9 | 9.66 | 15.4 |
+| **Mark Gardiner** | 7 | 9 | 1 | 39 | 4 | 9.75 | 13.5 |
+| **Mark Kirwan** | 12 | 95.2 | 18 | 309 | 24 | 12.875 | 23.8 |
+| **Liam Sheridan** | 2 | 3 | 0 | 14 | 1 | 14 | 18 |
+| **Jerry Wright** | 12 | 63.4 | 8 | 266 | 18 | 14.77 | 21.13 |
+| **Richard Beswick** | 10 | 6 | 1 | 37 | 2 | 18.5 | 18 |
+| **William Calvert** | 12 | 32 | 3 | 152 | 7 | 21.71 | 27.42 |
+| **Andrew Gallagher** | 7 | 4 | 0 | 23 | 1 | 23 | 24 |
+| **Alan Sylvester** | 11 | 66 | 6 | 306 | 12 | 25.5 | 33 |
+| **Robin Emanuel** | 11 | 3 | 0 | 26 | 1 | 26 | 18 |
+| **James Booth** | 8 | 3 | 0 | 20 | 0 | - | - |
+| **Colin Chitty** | 3 | 3 | 0 | 20 | 0 | - | - |
+| **Shearing** | 1 | 2 | 0 | 21 | 0 | - | - |
+| **Simon Tanner** | 1 | 3 | 1 | 24 | 0 | - | - |
