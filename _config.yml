@@ -3,5 +3,5 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
 email: richard@method.co.uk
-baseurl: "/themincricketclub" # the subpath of your site, e.g. /blog
-url: "http://methodphoto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://min.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
