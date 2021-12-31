@@ -5,3 +5,7 @@ search_enabled: true
 email: richard@method.co.uk
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://min.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+heading_anchors: false
+aux_links:
+  "Payments":
+    - "/payments/"
