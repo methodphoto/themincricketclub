@@ -15,7 +15,7 @@ parent: 1990s
 
 | June |  |  |  |
 |:---|:---|:---|:---|
-| 13th | 14:00 | [Woking & Horsell](woking-and-horsell) | [Away]() |
+| 13th | 14:00 | [Woking & Horsell](woking-and-horsell) | [Away](https://goo.gl/maps/DwCP4qFZYRwPrzHZA) |
 | 20th | 14:00 | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 
 | July |  |  |  |
