@@ -90,4 +90,4 @@ Played at {{page.location}} on {{page.date}}
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 3 | 7 | 2 | 0 |
+| 3 | 8 | 2 | 0 |
