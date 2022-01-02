@@ -7,6 +7,10 @@ $purple-300: #660000 !important;
 
 $link-color: $purple-300;
 
+#1982-fixtures table td:nth-child(1), #1982-fixtures table td:nth-child(2),#1982-fixtures table td:nth-child(4) {
+	width: 15% !important;
+}
+
 /* Slightly tighter spacing on table cell padding */
 
 th,
