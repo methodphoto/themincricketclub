@@ -7,7 +7,6 @@ parent: Results
 
 # {{page.title}}
 
-
 | 2021 |  |  |
 |:---|:---|:---|
 | 25/04/2021 | [Middleton Stoney](../2021/middleton-stoney) | Lost |
