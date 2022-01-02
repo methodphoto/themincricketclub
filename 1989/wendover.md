@@ -26,8 +26,8 @@ Played at {{page.location}} on {{page.date}}
 | **Jones** | lbw | M Taylor | 20 | 
 | **Moir** | c A Fielding | W Calvert | 5 | 
 | **Atkins** | not out |  | 65 | 
-| **Newell** | b | Gr Wright | 28 |
-| **J Coles** | b | Gr Wright | 1 | 
+| **Newell** | b | G Wright | 28 |
+| **J Coles** | b | G Wright | 1 | 
 | **T Coles** | lbw | W Calvert | 0 |
 | **Carter** | b | W Calvert | 1 | 
 | **Seabrook** | not out |  | 24 | 
@@ -51,7 +51,7 @@ Played at {{page.location}} on {{page.date}}
 | **W Calvert** | 13 | 3 | 25 | 3 | 
 | **J Wright** | 6 | 0 | 37 | 0 | 
 | **A Gallagher** | 1 | 0 | 13 | 0 |
-| **Gr Wright** | 5 | 1 | 22 | 2 |
+| **G Wright** | 5 | 1 | 22 | 2 |
 
 ## The Min Innings
 
@@ -65,7 +65,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | lbw | Shearer | 0 | 
 | **A Fielding** | b | Shearer | 0 | 
 | **D Newman** | b | Jones | 1 | 
-| **Gr Wright** | b | Seabrook | 9 | 
+| **G Wright** | b | Seabrook | 9 | 
 | **E Garland** | b | Jones | 4 | 
 | **J Wright** | lbw | Jones | 0 | 
 | **Extras** | | (8b 5lb 4w 0nb) | 17 | 

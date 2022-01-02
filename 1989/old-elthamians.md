@@ -58,15 +58,15 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Hind** | lbw | Gr Wright | 5 | 
-| **Hart &#8224;** | c Gr Wright | R Olver | 8 | 
+| **Hind** | lbw | G Wright | 5 | 
+| **Hart &#8224;** | c G Wright | R Olver | 8 | 
 | **Guthrie** | c M Gardiner | R Olver | 70 | 
 | **Manchip** | lbw | R Beswick | 37 | 
 | **Wilson** | b | R Olver | 0 | 
-| **Halstead** | b | Gr Wright | 19 |
+| **Halstead** | b | G Wright | 19 |
 | **Malkin** | b | R Beswick | 22 | 
 | **Jenkins** | b | R Beswick | 11 |
-| **Knight** | b | Gr Wright | 6 | 
+| **Knight** | b | G Wright | 6 | 
 | **White** | b | R Beswick | 0 | 
 | **Pearce** | not out |  | 2 |
 | **Extras** | | (9b 4lb 12w 1nb) | 26 | 
@@ -84,7 +84,7 @@ Played at {{page.location}} on {{page.date}}
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **R Beswick** | 12.2 | 2 | 46 | 4 | 
-| **Gr Wright** | 12 | 1 | 53 | 3 | 
+| **G Wright** | 12 | 1 | 53 | 3 | 
 | **R Olver** | 7 | 1 | 22 | 3 | 
 | **I Marshall** | 3 | 0 | 34 | 0 | 
 | **W Calvert** | 4 | 0 | 39 | 0 |

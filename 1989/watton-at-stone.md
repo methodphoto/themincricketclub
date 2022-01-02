@@ -23,8 +23,8 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|---|---:|
 | **C Fursland** | c W Calvert | J Wright | 29 | 
 | **Booker** | c W Calvert | I Marshall | 0 | 
-| **Carter** | c Gr Wright | I Marshall | 1 | 
-| **I Fursland** | b | Gr Wright | 29 | 
+| **Carter** | c G Wright | I Marshall | 1 | 
+| **I Fursland** | b | G Wright | 29 | 
 | **Andrews** | c J Wright | E Garland | 23 | 
 | **M Cakebread** | b | R Beswick | 10 |
 | **Burnell** | c J Grant | R Beswick | 0 | 
@@ -49,7 +49,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | 7 | 3 | 17 | 2 | 
 | **J Skarbek** | 7 | 2 | 24 | 0 | 
 | **J Wright** | 14 | 4 | 28 | 2 | 
-| **Gr Wright** | 7 | 0 | 23 | 1 | 
+| **G Wright** | 7 | 0 | 23 | 1 | 
 | **R Beswick** | 9 | 2 | 11 | 3 |
 | **E Garland* | 3 | 0 | 23 | 2 |
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Gardiner** | b | Andrews | 3 | 
 | **J Skarbek** | c | Ellis | 5 | 
 | **E Garland** | not out |  | 4 | 
-| **Gr Wright** | not out |  | 14 | 
+| **G Wright** | not out |  | 14 | 
 | **Extras** | | (0b 5lb 4w 0nb) | 9 | 
 | **Total** | | (33.5 overs) | 143 for 9 wkts | 
 

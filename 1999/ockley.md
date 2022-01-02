@@ -4,7 +4,7 @@ title: Ockley
 game: Ockley v The Min
 location: Ockley Green
 date: 09/05/1999
-report: Ockley batted first and made 168 for 5 wkts. ThE Min replied with 137 for 8 wkts
+report: Ockley batted first and made 168 for 5 wkts. The Min replied with 137 for 8 wkts
 result: Match Drawn
 parent: 1999 Fixtures
 ---

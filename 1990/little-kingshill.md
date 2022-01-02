@@ -51,7 +51,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Taylor** | 8 | 2 | 15 | 1 | 
 | **E Garland** | 4 | 0 | 43 | 0 | 
 | **R Beswick** | 9.2 | 0 | 58 | 2 |
-| **Gr Wright** | 2 | 0 | 31 | 0 | 
+| **G Wright** | 2 | 0 | 31 | 0 | 
 | **A Gallagher** | 2 | 0 | 15 | 0 | 
 | **R Earney** | 3 | 0 | 33 | 0 |  
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **W Chapman** | c N Chapman | D Chandler | 6 | 
 | **T Horsey** | b | D Chandler | 8 | 
 | **R Earney** | b | M Chandler | 8 | 
-| **Gr Wright** | not out |  | 31 | 
+| **G Wright** | not out |  | 31 | 
 | **N Fincham** | not out |  | 0 | 
 | **W Calvert &#8224;** | dnb |  |  |
 | **Extras** | | (4b 1lb 0w 0nb) | 5 | 

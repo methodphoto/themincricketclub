@@ -7,27 +7,33 @@ parent: Results
 
 # {{page.title}}
 
-| 2021 |  |  |
+## 2021
+
+|  |  |  |
 |:---|:---|:---|
-| 25/04/2021 | [Middleton Stoney](../2021/middleton-stoney) | Lost |
-| 23/05/2021 | [Newington](../2021/newington) | Won |
-| 06/06/2021 | [Bricklayer's Arms](../2021/bricklayers-arms) | Lost |
-| 08/07/2021 | [Blagdon Hill](../2021/blagdon-hill) | Won |
-| 09/07/2021 | [Broadway and Horton](../2021/broadway-and-horton) | Lost |
-| 18/07/2021 | [Kingstonian](../2021/kingstonian) | Won |
-| 15/08/2021 | [Wandering Maniacs](../2021/wandering-maniacs) | Won |
-| 05/09/2021 | [Banstead](../2021/banstead) | Won |
-| 12/09/2021 | [Reigate Pilgrims](../2021/reigate-pilgrims) | Lost |
 | 19/09/2021 | [Selling](../2021/selling) | Won |
+| 12/09/2021 | [Reigate Pilgrims](../2021/reigate-pilgrims) | Lost |
+| 05/09/2021 | [Banstead](../2021/banstead) | Won |
+| 15/08/2021 | [Wandering Maniacs](../2021/wandering-maniacs) | Won |
+| 18/07/2021 | [Kingstonian](../2021/kingstonian) | Won |
+| 09/07/2021 | [Broadway and Horton](../2021/broadway-and-horton) | Lost |
+| 08/07/2021 | [Blagdon Hill](../2021/blagdon-hill) | Won |
+| 06/06/2021 | [Bricklayer's Arms](../2021/bricklayers-arms) | Lost |
+| 23/05/2021 | [Newington](../2021/newington) | Won |
+| 25/04/2021 | [Middleton Stoney](../2021/middleton-stoney) | Lost |
 
-| 2020 |  |  |
+## 2020
+
+|  |  |  |
 |:---|:---|:---|
-| 19/07/2020 | [Kingstonian](../2020/kingstonian) | Won |
-| 02/08/2020 | [Railway Taverners](../2020/railway-taverners) | Won |
-| 09/08/2020 | [Banstead](../2020/banstead) | Won |
 | 13/09/2020 | [Reigate Pilgrims](../2020/reigate-pilgrims) | Lost |
+| 09/08/2020 | [Banstead](../2020/banstead) | Won |
+| 02/08/2020 | [Railway Taverners](../2020/railway-taverners) | Won |
+| 19/07/2020 | [Kingstonian](../2020/kingstonian) | Won |
 
-| 2019 |  |  |
+## 2019
+
+|  |  |  |
 |:---|:---|:---|
 | 21/04/2019 | [Middleton Stoney](../2019/middleton-stoney) | Drawn |
 | 28/04/2019 | [Watton-at-Stone](../2019/watton-at-stone) | Lost |
@@ -41,7 +47,9 @@ parent: Results
 | 01/09/2019 | [Railway Taverners](../2019/railway-taverners) | Won |
 | 15/09/2019 | [Reigate Pilgrims](../2019/reigate-pilgrims) | Drawn |
 
-| 2018 |  |  |
+## 2018
+
+|  |  |  |
 |:---|:---|:---| 
 | 22/04/2018 | [Middleton Stoney](../2018/middleton-stoney) | Drawn |
 | {date} | [Kingstonian](../2018/kingstonian) | Won |
@@ -52,8 +60,10 @@ parent: Results
 | {date} | [Selling](../2018/selling) | Won |
 | {date} | [Reigate Pilgrims](../2018/reigate-pilgrims) | Lost |
 | {date} | [Stoke D’Abernon](../2018/stoke-dabernon) | Lost |
- 
-| 2017 |  |  |
+
+## 2017
+
+|  |  |  |
 |:---|:---|:---| 
 | {date} | [Middleton Stoney](../2017/middleton-stoney) | Lost |
 | {date} | [Kingstonian](../2017/kingstonian) | Lost |
@@ -68,7 +78,9 @@ parent: Results
 | {date} | [Reigate Pilgrims](../2017/reigate-pilgrims) | Lost |
 | {date} | [Selling](../2017/selling) | Lost |
 
-| 2016 |  |  |
+## 2016
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Middleton Stoney](../2016/middleton-stoney) | Won |
 | {date} | [Nightwatchman CC](../2016/nightwatchman-cc) | Lost |
@@ -83,7 +95,9 @@ parent: Results
 | {date} | [Reigate Pilgrims](../2016/reigate-pilgrims) | Drawn |
 | {date} | [Selling](../2016/selling) | Won |
 
-| 2015 |  |  |
+## 2015
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Middleton Stoney](../2015/middleton-stoney) | Lost |
 | {date} | [Britwell Salome](../2015/britwell-salome) | Drawn |
@@ -101,7 +115,9 @@ parent: Results
 | {date} | [Reigate Pilgrims](../2015/reigate-pilgrims) | Won |
 | {date} | [Selling](../2015/selling) | Won |
 
-| 2014 |  |  |
+## 2014
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Hook and Southborough](../2014/hook-and-southborough) | Lost |
 | {date} | [Nightwatchman CC](../2014/nightwatchman-cc) | Won |
@@ -118,7 +134,9 @@ parent: Results
 | {date} | [Brasted Invicta](../2014/brasted-invicta) | Won |
 | {date} | [Reigate Pilgrims](../2014/reigate-pilgrims) | Drawn |
 
-| 2013 |  |  |
+## 2013
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Middleton Stoney](../2013/middleton-stoney) | Drawn |
 | {date} | [Britwell Salome](../2013/britwell-salome) | Lost |
@@ -137,7 +155,9 @@ parent: Results
 | {date} | [Brasted Invicta](../2013/brasted-invicta) | Drawn |
 | {date} | [Selling](../2013/selling) | Lost |
 
-| 2012 |  |  |
+## 2012
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Middleton Stoney](../2012/middleton-stoney) | Won |
 | {date} | [ELCCCC](../2012/elccc) | Lost |
@@ -150,7 +170,9 @@ parent: Results
 | {date} | [Reigate Pilgrims](../2012/reigate-pilgrims) | Drawn |
 | {date} | [Stoke D’Aberdon](../2012/stoke-daberdon) | Lost |
 
-| 2011 |  |  |
+## 2011
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Middleton Stoney](../2011/middleton-stoney) | Drawn |
 | {date} | [Britwell Salome](../2011/britwell-salome) | Won |
@@ -168,7 +190,9 @@ parent: Results
 | {date} | [Reigate Pilgrims](../2011/reigate-pilgrims) | Lost |
 | {date} | [Selling](../2011/selling) | Drawn |
 
-| 2010 |  |  |
+## 2010
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Britwell Salome](../2010/britwell-salome) | Won |
 | {date} | [Trafford Croydon](../2010/trafford-croydon) | Won |
@@ -186,7 +210,9 @@ parent: Results
 | {date} | [Reigate Pilgrims](../2010/reigate-pilgrims) | Won |
 | {date} | [Spencer](../2010/spencer) | Lost |
 
-| 2009 |  |  |
+## 2009
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Britwell Salome](../2009/britwell-salome) | Won |
 | {date} | [Ockley](../2009/ockley) | Drawn |
@@ -203,7 +229,9 @@ parent: Results
 | {date} | [Reigate Pilgrims](../2009/reigate-pilgrims) | Won |
 | {date} | [Selling](../2009/selling) | Lost |
 
-| 2008 |  |  |
+## 2008
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Britwell Salome](../2008/britwell-salome) | Lost |
 | {date} | [Ockley](../2008/ockley) | Won |
@@ -220,7 +248,9 @@ parent: Results
 | {date} | [Reigate Pilgrims](../2008/reigate-pilgrims) | Drawn |
 | {date} | [Selling](../2008/selling) | Won |
 
-| 2007 |  |  |
+## 2007
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Britwell Salome](../2007/britwell-salome) | Won |
 | {date} | [Old Colfeians](../2007/old-colfeians) | Lost |
@@ -230,13 +260,15 @@ parent: Results
 | {date} | [Broadway and Horton](../2007/broadway-and-horton) | Won |
 | {date} | [Kilmington and Stourton](../2007/kilmington-and-stourton) | Won |
 | {date} | [Horningsham](../2007/horningsham) | Drawn |
-| 15/07/2007 | [The Old Min v The Young Min](../2007/(the-old-min-the-young-min)) | Drawn |
+| 15/07/2007 | [The Old Min v The Young Min]((../2007/the-old-min-the-young-min)) | Drawn |
 | {date} | [Selling](../2007/selling) | Lost |
 | {date} | [SB Exiles](../2007/sb-exiles) | Lost |
 | {date} | [Reigate Pilgrims](../2007/reigate-pilgrims) | Drawn |
 | {date} | [Watton-at-Stone](../2007/watton-at-stone) | Won |
 
-| 2006 |  |  |
+## 2006
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Britwell Salome](../2006/britwell-salome) | Won |
 | {date} | [Ockley](../2006/ockley) | Won |
@@ -253,7 +285,9 @@ parent: Results
 | {date} | [Reigate Pilgrims](../2006/reigate-pilgrims) | Lost |
 | {date} | [Sanderstead](../2006/sanderstead) | Won |
 
-| 2005 |  |  |
+## 2005
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Britwell Salome](../2005/britwell-salome) | Drawn |
 | {date} | [Ockley](../2005/ockley) | Won |
@@ -272,7 +306,9 @@ parent: Results
 | {date} | [Reigate Pilgrims](../2005/reigate-pilgrims) | Drawn |
 | {date} | [Hornchurch](../2005/hornchurch) | Won |
 
-| 2004 |  |  |
+## 2004
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Britwell Salome](../2004/britwell-salome) | Lost |
 | {date} | [Old Colfeians](../2004/old-colfeians) | Won |
@@ -288,7 +324,9 @@ parent: Results
 | {date} | [Temple Sheen](../2004/temple-sheen) | Drawn |
 | {date} | [Reigate Pilgrims](../2004/reigate-pilgrims) | Lost |
 
-| 2003 |  |  |
+## 2003
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Ockley](../2003/ockley) | Drawn |
 | {date} | [Old Colfeians](../2003/old-colfeians) | Lost |
@@ -305,7 +343,9 @@ parent: Results
 | {date} | [Spencer](../2003/spencer) | Won |
 | {date} | [Reigate Pilgrims](../2003/reigate-pilgrims) | Drawn |
 
-| 2002 |  |  |
+## 2002
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Ockley](../2002/ockley) | Won |
 | {date} | [Players and Jesters](../2002/players-and-jesters) | Lost |
@@ -321,7 +361,9 @@ parent: Results
 | {date} | [Reigate Pilgrims](../2002/reigate-pilgrims) | Lost |
 | {date} | [Britwell Salome](../2002/britwell-salome) | Won |
 
-| 2001 |  |  |
+## 2001
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Long Ditton](../2001/long-ditton) | Won |
 | {date} | [Players and Jesters](../2001/players-and-jesters) | Lost |
@@ -334,7 +376,9 @@ parent: Results
 | {date} | [Old Colfeians](../2001/old-colfeians) | Won |
 | {date} | [Reigate Pilgrims](../2001/reigate-pilgrims) | Lost |
 
-| 2000 |  |  |
+## 2000
+
+|  |  |  |
 |:---|:---|:---|
 | {date} | [Ockley](../2000/ockley) | Lost |
 | {date} | [Stowting](../2000/stowting) | Won |
@@ -349,25 +393,29 @@ parent: Results
 | {date} | [Old Colfeians](../2000/old-colfeians) | Won |
 | {date} | [Reigate Pilgrims](../2000/reigate-pilgrims) | Won |
 
-| 1999 |  |  |
-|:---|:---|:---|
-| 09/05/1999 | [Ockley](../1999/ockley) | Drawn |
-| 16/05/1999 | [Players and Jesters](../1999/players-and-jesters) | Lost |
-| {date} | [Stowting](../1999/stowting) | Drawn |
-| {date} | [Woking and Horsell](../1999/woking-and-horsell) | Won |
-| {date} | [Watton-at-Stone](../1999/watton-at-stone) | Won |
-| {date} | [Great Braxted](../1999/great-braxted) | Lost |
-| {date} | [Bovington Occasionals](../1999/bovington-occasionals) | Lost |
-| {date} | [Wareham](../1999/wareham) | Won |
-| {date} | [Knapp](../1999/knapp) | Lost |
-| {date} | [Broadway and Horton](../1999/broadway-and-horton) | Lost |
-| {date} | [The Ex-Blues](../1999/the-ex-blues) | Lost |
-| {date} | [Hetairoi](../1999/hetairoi) | Lost |
-| {date} | [Tappers](../1999/tappers) | Lost |
-| {date} | [Old Colfeians](../1999/old-colfeians) | Won |
-| {date} | [Reigate Pilgrims](../1999/reigate-pilgrims) | Lost |
+## 1999
 
-| 1998 |  |  |
+|  |  |  |
+|:---|:---|:---|
+| 09/05/1999 | [Ockley](../2005/ockley) | Drawn |
+| 16/05/1999 | [Players and Jesters](../1999/players-and-jesters) | Lost |
+| 30/05/1999 | [Stowting](../1999/stowting) | Drawn |
+| 13/06/1999 | [Woking and Horsell](../1999/woking-and-horsell) | Won |
+| 20/06/1999 | [Watton-at-Stone](../1999/watton-at-stone) | Won |
+| 11/07/1999 | [Great Braxted](../1999/great-braxted) | Lost |
+| 22/07/1999 | [Bovington Occasionals](../1999/bovington-occasionals) | Lost |
+| 23/07/1999 | [Wareham](../1999/wareham) | Won |
+| 24/07/1999 | [Knapp](../1999/knapp) | Lost |
+| 25/07/1999 | [Broadway and Horton](../1999/broadway-and-horton) | Lost |
+| 01/08/1999 | [Ex-Blues](../1999/ex-blues) | Lost |
+| 15/08/1999 | [Hetairoi](../1999/hetairoi) | Lost |
+| 22/08/1999 | [Tappers](../1999/tappers) | Lost |
+| 05/09/1999 | [Old Colfeians](../1999/old-colfeians) | Won |
+| 12/09/1999 | [Reigate Pilgrims](../1999/reigate-pilgrims) | Lost |
+
+## 1998
+
+|  |  |  |
 |:---|:---|:---|
 | 10/05/1998 | [Ockley](../1998/ockley) | Drawn |
 | 17/05/1998 | [Players and Jesters](../1998/players-and-jesters) | Drawn |
@@ -381,7 +429,9 @@ parent: Results
 | 16/08/1998 | [Hetairoi](../1998/hetairoi) | Lost |
 | 13/09/1998 | [Reigate Pilgrims](../1998/reigate-pilgrims) | Won |
 
-| 1997 |  |  |
+## 1997
+
+|  |  |  |
 |:---|:---|:---|
 | 04/05/1997 | [Valley End](../1997/valley-end) | Lost |
 | 11/05/1997 | [Ockley](../1997/ockley) | Lost |
@@ -399,7 +449,9 @@ parent: Results
 | 14/09/1997 | [Reigate Pilgrims](../1997/reigate-pilgrims) | Won |
 | 21/09/1997 | [Woodlawn CC](../1997/woodlawn-cc) | Drawn |
 
-| 1996 |  |  |
+## 1996
+
+|  |  |  |
 |:---|:---|:---|
 | 12/05/1996 | [Ockley](../1996/ockley) | Drawn |
 | 02/06/1996 | [Stowting](../1996/stowting) | Drawn |
@@ -418,7 +470,9 @@ parent: Results
 | 15/09/1996 | [Great Braxted](../1996/great-braxted) | Won |
 | 22/09/1996 | [Watton-at-Stone](../1996/watton-at-stone) | Drawn |
 
-| 1995 |  |  |
+## 1995
+
+|  |  |  |
 |:---|:---|:---|
 | 07/05/1995 | [Valley End](../1995/valley-end) | Lost |
 | 14/05/1995 | [Ockley](../1995/ockley) | Won |
@@ -435,7 +489,9 @@ parent: Results
 | 03/09/1995 | [White Lion](../1995/white-lion) | Lost |
 | 24/09/1995 | [Watton-at-Stone](../1995/watton-at-stone) | Lost |
 
-| 1994 |  |  |
+## 1994
+
+|  |  |  |
 |:---|:---|:---|
 | 05/06/1994 | [Antilles](../1994/antilles) | Lost |
 | 19/06/1994 | [Great Tew](../1994/great-tew) | Drawn |
@@ -450,7 +506,9 @@ parent: Results
 | 11/09/1994 | [Reigate Pilgrims](../1994/reigate-pilgrims) | Lost |
 | 18/09/1994 | [Watton-at-Stone](../1994/watton-at-stone) | Lost |
 
-| 1993 |  |  |
+## 1993
+
+|  |  |  |
 |:---|:---|:---|
 | 09/05/1993 | [Ockley](../1993/ockley) | Won |
 | 23/05/1993 | [Great Tew](../1993/great-tew) | Drawn |
@@ -462,7 +520,9 @@ parent: Results
 | 08/08/1993 | [Checkendon](../1993/checkendon) | Drawn |
 | 19/09/1993 | [Watton-at-Stone](../1993/watton-at-stone) | Won |
 
-| 1992 |  |  |
+## 1992
+
+|  |  |  |
 |:---|:---|:---|
 | 24/05/1992 | [Old Elthamians](../1992/old-elthamians) | Drawn |
 | 14/06/1992 | [Deando](../1992/deando) | Lost |
@@ -479,7 +539,9 @@ parent: Results
 | 13/09/1992 | [Reigate Pilgrims](../1992/reigate-pilgrims) | Drawn |
 | 20/09/1992 | [Watton-at-Stone](../1992/watton-at-stone) | Lost |
 
-| 1991 |  |  |
+## 1991
+
+|  |  |  |
 |:---|:---|:---|
 | 28/04/1991 | [Hersham](../1991/hersham) | Won |
 | 12/05/1991 | [Ockley](../1991/ockley) | Drawn |
@@ -499,7 +561,9 @@ parent: Results
 | 16/09/1991 | [Reigate Pilgrims](../1991/reigate-pilgrims) | Won |
 | 22/09/1991 | [Watton-at-Stone](../1991/watton-at-stone) | Won |
 
-| 1990 |  |  |
+## 1990
+
+|  |  |  |
 |:---|:---|:---|
 | 13/05/1990 | [Ockley](../1990/ockley) | Lost |
 | 20/05/1990 | [Old Elthamians](../1990/old-elthamians) | Drawn |
@@ -517,7 +581,9 @@ parent: Results
 | 16/09/1990 | [Reigate Pilgrims](../1990/reigate-pilgrims) | Drawn |
 | 22/09/1990 | [Watton-at-Stone](../1990/watton-at-stone) | Won |
 
-| 1989 |  |  |
+## 1989
+
+|  |  |  |
 |:---|:---|:---|
 | 30/04/1989 | [Wendover](../1989/wendover) | Lost |
 | 06/05/1989 | [Putney](../1989/putney) | Drawn |
@@ -539,7 +605,9 @@ parent: Results
 | 24/09/1989 | [Watton-at-Stone](../1989/watton-at-stone) | Won |
 | 30/09/1989 | [Flamingo](../1989/flamingo) | Lost |
 
-| 1988 |  |  |
+## 1988
+
+|  |  |  |
 |:---|:---|:---|
 | 15/05/1988 | [Old Elthamians](../1988/old-elthamians) | Won |
 | 21/05/1988 | [Godstone](../1988/godstone) | Drawn |
@@ -559,7 +627,9 @@ parent: Results
 | 11/09/1988 | [Harpenden](../1988/harpenden) | Drawn |
 | 18/09/1988 | [Watton-at-Stone](../1988/watton-at-stone) | Drawn |
 
-| 1987 |  |  |
+## 1987
+
+|  |  |  |
 |:---|:---|:---|
 | 09/05/1987 | [Crocodiles](../1987/crocodiles) | Drawn |
 | 17/05/1987 | [Old Elthamians](../1987/old-elthamians) | Lost |
@@ -576,7 +646,9 @@ parent: Results
 | 06/09/1987 | [Stowting](../1987/stowting) | Drawn |
 | 12/09/1987 | [Flying Wickets](../1987/flying-wickets) | Won |
 
-| 1986 |  |  |
+## 1986
+
+|  |  |  |
 |:---|:---|:---|
 | 26/04/1986 | [Petts Wood](../1986/petts-wood) | Drawn |
 | 11/05/1986 | [West Wickham](../1986/west-wickham) | Won |
@@ -594,7 +666,9 @@ parent: Results
 | 17/08/1986 | [Harrow 3rd XI](../1986/harrow-3rd-xi) | Drawn |
 | 07/09/1986 | [Stowting](../1986/stowting) | Lost |
 
-| 1985 |  |  |
+## 1985
+
+|  |  |  |
 |:---|:---|:---|
 | 27/04/1985 | [White City Allstars](../1985/white-city-allstars) | Lost |
 | 05/05/1985 | [West Green](../1985/west-green) | Lost |
@@ -613,7 +687,9 @@ parent: Results
 | 08/09/1985 | [Alex Beard’s XI](../1985/alex-beards-xi) | Won |
 | 15/09/1985 | [Hendon Edgware](../1985/hendon-edgware) | Lost |
 
-| 1984 |  |  |
+## 1984
+
+|  |  |  |
 |:---|:---|:---|
 | 12/05/1984 | [West Green](../1984/west-green) | Lost |
 | 13/05/1984 | [Greenford](../1984/greenford) | Won |
@@ -630,7 +706,9 @@ parent: Results
 | 02/09/1984 | [Old Elthamians](../1984/old-elthamians) | Won |
 | 16/09/1984 | [Nigel Hoare’s XI](../1984/nigel-hoares-xi) | Won |
 
-| 1983 |  |  |
+## 1983
+
+|  |  |  |
 |:---|:---|:---|
 | 09/06/1983 | [Lobsters](../1983/lobsters) | Won |
 | 12/06/1983 | [Nick Hoare’s XI](../1983/nigel-hoares-xi) | Won |
@@ -638,7 +716,9 @@ parent: Results
 | 25/06/1983 | [A Good Length](../1983/a-good-length) | Won |
 | 17/06/1983 | [Bathurst Arms](../1983/bathurst-arms) | Won |
 
-| 1982 |  |  |
+## 1982
+
+|  |  |  |
 |:---|:---|:---|
 | 29/04/1982 | [Clifton Hill House](../1982/clifton-hill-house) | Won |
 | 06/05/1982 | [A Good Length](../1982/a-good-length) | Drawn |

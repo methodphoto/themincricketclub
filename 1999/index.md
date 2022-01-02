@@ -15,7 +15,7 @@ parent: 1990s
 
 | June |  |  |  |
 |:---|:---|:---|:---|
-| 13th | 14:00 | [Woking & Horsell](woking-and-horsell) | [Away]() |
+| 13th | 14:00 | [Woking & Horsell](woking-and-horsell) | [Away](https://goo.gl/maps/DwCP4qFZYRwPrzHZA) |
 | 20th | 14:00 | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 
 | July |  |  |  |
@@ -31,7 +31,7 @@ parent: 1990s
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 1st | 14:00 | [The Ex-Blues](the-ex-blues) | [Away]() |
+| 1st | 14:00 | [Ex-Blues](ex-blues) | [Away]() |
 | 15th | 14:00 | [Hetairoi](hetairoi) | [Away](https://goo.gl/maps/AfwCKu9WW93YqXJa6) |
 | 22nd | 14:00 | [Tappers](tappers) | [Away]() |
 

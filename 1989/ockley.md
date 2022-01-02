@@ -31,7 +31,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | lbw | Annand | 7 | 
 | **D Young** | c Pavey | Annand | 0 | 
 | **M Gardiner** | not out |  | 6 |
-| **Gr Wright** | not out |  | 0 | 
+| **G Wright** | not out |  | 0 | 
 | **Extras** | | (0b 0lb 0w 0nb) | 16 | 
 | **Total** | | () | 193 for 9 wkts | 
 
@@ -79,7 +79,7 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Gr Wright** | 7 | 4 | 6 | 0 | 
+| **G Wright** | 7 | 4 | 6 | 0 | 
 | **S Lazell** | 8 | 2 | 12 | 1 | 
 | **W Calvert** | 12 | 0 | 45 | 2 | 
 | **R Beswick** | 9 | 4 | 14 | 3 | 
