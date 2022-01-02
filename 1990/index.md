@@ -22,7 +22,7 @@ parent: 1990s
 |:---|:---|:---|:---|
 | 8th | [Brook](brook) | [Away](https://goo.gl/maps/dQwigbDWBHfwzub68) |
 | 15th | [Abinger Hammer](abinger-hammer) | [Away](https://goo.gl/maps/bnKVBHEMFuJe4KGH9) |
-| 22nd | [The Crocodiles](the-crocodiles) | Away |
+| 22nd | [The Crocodiles](the-crocodiles) | [Away](https://goo.gl/maps/fdXVhyS9CDX9VU1K9) |
 | 29th | [Godstone](godstone) | [Away](https://goo.gl/maps/12XmMyHmXBto8bTV81) |
 
 | August - Tour |  |  |  |

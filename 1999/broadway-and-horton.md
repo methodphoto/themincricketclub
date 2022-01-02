@@ -87,7 +87,7 @@ Broadway and Horton regained The Ashes
 | **S Pratt** | 6 | 2 | 5 | 1 |
 | **R Harvey** | 8 | 5 | 9 | 3 |
 | **J Allen** | 8 | 2 | 27 | 1 |
-| **A Potter** | 5 | 0 | 25 | 04 |
+| **A Potter** | 5 | 0 | 25 | 0 |
 | **T Baigent** | 4.2 | 0 | 15 | 3 |
 | **J Hooper** | 4 | 1 | 16 | 1 |
 

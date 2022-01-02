@@ -35,6 +35,6 @@ parent: 1990s
 
 | September |  |  |  |
 |:---|:---|:---|:---|
-| 6th | [Old Wimbledonians](old-wimbledonians) | [Away]() |
+| 6th | [Old Wimbledonians](old-wimbledonians) | [Away](https://goo.gl/maps/Uf2a5wFN68iZKSE57) |
 | 13th | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 | 20th | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
