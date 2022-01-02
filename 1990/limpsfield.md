@@ -49,7 +49,7 @@ Played at {{page.location}} on {{page.date}}
 | **A MacFarlane** | 16.3 | 0 | 76 | 1 | 
 | **I Marshall** | 16 | 2 | 73 | 2 | 
 | **R Beswick** | 7 | 0 | 41 | 0 | 
-| **Gr Wright** | 7| 0 | 41 | 0 | 
+| **G Wright** | 7| 0 | 41 | 0 | 
 
 ## The Min Innings
 
@@ -62,7 +62,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | lbw | Charriott | 17 | 
 | **W Calvert &#8224;** | c & b | Hicknott | 43 | 
 | **Beswick &#42;** | c Rose | Charriott | 20 | 
-| **Gr Wright** | lbw | Stevens | 7 | 
+| **G Wright** | lbw | Stevens | 7 | 
 | **B Colethorpe** | lbw | Hicknott | 4 | 
 | **A Fielding** | b | Hicknott | 0 | 
 | **Royhead** | not out |  | 0 | 

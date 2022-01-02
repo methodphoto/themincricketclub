@@ -28,7 +28,7 @@ Played at {{page.location}} on {{page.date}}
 | **W Calvert** | b | Remphrey | 4 | 
 | **R Weir** | b | Gurney | 3 | 
 | **T Horsey** | run out |  | 11 | 
-| **Gr Wright** | lbw | Remphrey | 0 | 
+| **G Wright** | lbw | Remphrey | 0 | 
 | **D Newman** | b | Remphrey | 0 | 
 | **Griffiths** | not out |  | 6 | 
 | **R Olver** | c | Frape | 5 | 
@@ -80,7 +80,7 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Gr Wright** | 4 | 1 | 6 | 0 | 
+| **G Wright** | 4 | 1 | 6 | 0 | 
 | **I Marshall** | 4 | 0 | 16 | 0 | 
 | **R Beswick** | 10 | 1 | 37 | 2 | 
 | **R Olver** | 6 | 4 | 10 | 1 | 

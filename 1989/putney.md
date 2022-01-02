@@ -31,7 +31,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Gardiner** | b | 4 | 1 | 
 | **S Hornsby** | b | 4| 0 | 
 | **D Young** | not out |  | 13 | 
-| **Gr Wright** | not out |  | 9 | 
+| **G Wright** | not out |  | 9 | 
 | **Extras** | | (11b 8lb 0w 1nb) | 20 | 
 | **Total** | | (44 overs) | 156 for 9 wkts | 
 
@@ -57,9 +57,9 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Falkner** | c I Marshall | Gr Wright | 4 | 
+| **Falkner** | c I Marshall | G Wright | 4 | 
 | **Bell** | b | P Bentley | 1 | 
-| **Watton** | b | Gr Wright | 0 | 
+| **Watton** | b | G Wright | 0 | 
 | **McVarsh** | b | P Bentley | 9 | 
 | **Cowper** | b | R Beswick | 37 | 
 | **Pegrum** | c D Young | E Garland | 19 |
@@ -83,7 +83,7 @@ Played at {{page.location}} on {{page.date}}
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **P Bentley** | 11 | 0 | 27 | 3 | 
-| **Gr Wright** | 6 | 0 | 12 | 2 | 
+| **G Wright** | 6 | 0 | 12 | 2 | 
 | **I Marshall** | 5 | 1 | 9 | 0 | 
 | **E Garland** | 7 | 0 | 27 | 1 | 
 | **S Hornsby** | 3 | 0 | 22 | 0 |

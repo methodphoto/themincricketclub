@@ -28,7 +28,7 @@ Played at {{page.location}} on {{page.date}}
 | **A MacFarlane** | b | S Barrowcliff | 46 | 
 | **A Fielding** | st | S Hornsby | 3 | 
 | **R Olver** | st | S Hornsby | 15 | 
-| **Gr Wright** | lbw | B Hopewell | 0 | 
+| **G Wright** | lbw | B Hopewell | 0 | 
 | **T Calvert** | not out |  | 11 | 
 | **A  Garthwaite** | b | R Burgess | 0 | 
 |  |  |  |  | 
@@ -86,7 +86,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick** | 9.3 | 4 | 33 | 4 | 
 | **R Olver** | 4 | 0 | 16 | 0 | 
 | **M Gardiner** | 3 | 0 | 8 | 0 |
-| **Gr Wright** | 1 | 0 | 5 | 0 |
+| **G Wright** | 1 | 0 | 5 | 0 |
 
 ## Win/Loss Ratio
 

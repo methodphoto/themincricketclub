@@ -2,7 +2,7 @@
 layout: default
 title: Old Colfeans
 game: Old Colfeans v The Min
-location: 
+location: Horn Park
 date: 
 report: 
 result: 

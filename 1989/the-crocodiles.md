@@ -30,7 +30,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Gardiner** | c Evans | Cooper | 0 | 
 | **D Newman** | b | Lethbridge | 1 | 
 | **E Harcourt** | b | Lethbridge | 1 | 
-| **Gr Wright** | not out |  | 17 | 
+| **G Wright** | not out |  | 17 | 
 | **J Wright** | dnb |  |  | 
 | **Extras** | | (9b 2lb 4w 0nb) | 1 | 
 | **Total** | | (45 overs) | 171 for 8 wkts | 
@@ -80,7 +80,7 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Gr Wright** | 9 | 2 | 25 | 0 | 
+| **G Wright** | 9 | 2 | 25 | 0 | 
 | **I Marshall** | 10.5 | 2 | 27 | 1 | 
 | **W Chapman** | 5 | 0 | 38 | 0 | 
 | **R Beswick** | 10 | 0 | 45 | 3 | 

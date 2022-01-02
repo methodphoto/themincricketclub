@@ -22,10 +22,10 @@ Played at {{page.location}} on {{page.date}}
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **W Chapman** | b | Erskine | 13 | 
-| **J Grant &#8224;** | c S Barrowcliff | Gr Wright | 5 | 
-| **A MacFarlane** | lbw | Gr Wright | 8 | 
+| **J Grant &#8224;** | c S Barrowcliff | G Wright | 5 | 
+| **A MacFarlane** | lbw | G Wright | 8 | 
 | **D Young** | b | Hyde | 15 | 
-| **R Beswick &#42;** | b | Gr Wright | 0 | 
+| **R Beswick &#42;** | b | G Wright | 0 | 
 | **J Mizel** | c S Hornsby | Hyde | 7 | 
 | **M Gardiner** | c S Hornsby | Erskine | 29 | 
 | **W Calvert** | c S Barrowcliff | S Hornsby | 3 | 
@@ -64,7 +64,7 @@ Played at {{page.location}} on {{page.date}}
 | **Erskine** | run out |  | 2 | 
 | **Landers** | b | W Calvert | 1 |
 | **P Barrowcliff** | not out |  | 23 | 
-| **Gr Wright** | dnb |  |  | 
+| **G Wright** | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 3 | 
 | **Total** | | (31 overs) | 197 for 7 wkts | 

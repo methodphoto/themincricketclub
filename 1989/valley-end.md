@@ -47,7 +47,7 @@ Played at {{page.location}} on {{page.date}}
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **A MacFarlane** | 11 | 0 | 49 | 3 | 
-| **Gr Wright** | 7 | 1 | 38 | 0 | 
+| **G Wright** | 7 | 1 | 38 | 0 | 
 | **P Bentley** | 7 | 1 | 19 | 0 | 
 | **R Earney** | 4 | 0 | 25 | 0 | 
 | **J Wright** | 10 | 0 | 40 | 0 |
