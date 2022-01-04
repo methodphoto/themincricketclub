@@ -26,11 +26,3 @@ parent: 1980s
 | 15th |  | [Lobsters](lobsters) | [Away](https://goo.gl/maps/NPBTGjsXm9dr1DBW6) |
 | 16th |  | [A Good Length](a-good-length-2) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
 | 17th |  | [Clifton College XI](clifton-college) | [Away](https://goo.gl/maps/BhH3zz2H1YVCQRZ58) |
-
-
-| April |  |  |  |
-|:---|:---|:---|:---|
-| 29th |  | [Clifton Hill House](clifton-hill-house) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
-| May |  |  |  |
-|:---|:---|:---|:---|
-| 6th |  | [A Good Length](a-good-length) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
