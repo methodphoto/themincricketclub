@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bristol CC
+title: Bristol
 game: Bristol CC v The Min
 location: 
 date: 

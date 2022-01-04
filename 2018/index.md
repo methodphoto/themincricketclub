@@ -38,4 +38,4 @@ parent: 2010s
 | September |  |  |  |
 |:---|:---|:---|:---|
 | 16th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) |
-| 30th | 13:00 | [Stoke D’Abernon](rstoke-dabernon) | [RH5 5AE](http://goo.gl/maps/2RKzj) |
+| 30th | 13:00 | [Stoke D’Abernon](stoke-dabernon) | [RH5 5AE](http://goo.gl/maps/2RKzj) |

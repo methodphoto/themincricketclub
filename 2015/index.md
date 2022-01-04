@@ -27,7 +27,7 @@ parent: 2010s
 |:---|:---|:---|:---|
 | 9th | 14:00 | [Blagdon Hill](blagdon-hill) | [TA3 7SA](https//goo.gl/maps/H6iLZLNcja12) |
 | 10th | 14:00 | [Broadway and Horton](broadway-and-horton) | [TA19 9RA](https://goo.gl/maps/ULbmC6LSX5HSAe8U6) |
-| 11th | 14:00 | [BGS Bedouins](bgs-bedouins) | [BS8 3TL](http://tinyurl.com/q9t3bma) |
+| 11th | 14:00 | [BGS Bedouins](bedouins) | [BS8 3TL](http://tinyurl.com/q9t3bma) |
 | 12th | 13:30 | <del>Kilmington and Stourton</del> | [BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 
 | July |  |  |  |

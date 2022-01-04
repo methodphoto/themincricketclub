@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nightwatchman CC
+title: Nightwatchman
 game: Nightwatchman CC v The Min
 location: 
 date: 

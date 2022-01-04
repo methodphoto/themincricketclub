@@ -14,7 +14,7 @@ parent: 2010s
 | May |  |  |  |
 |:---|:---|:---|:---|
 | 16th | 14:00 | [Trafford](trafford) | [Home](https://goo.gl/maps/w2skeCXwzZTEh7e26) |
-| 24th | 14:00 | [ELCCC](elcc) | [Away]() |
+| 24th | 14:00 | [ELCCC](elccc) | [Away]() |
 
 | June |  |  |  |
 |:---|:---|:---|:---|

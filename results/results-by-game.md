@@ -71,7 +71,7 @@ parent: Results
 | 2016 |  |  |
 |:---|:---|:---|
 | {date} | [Middleton Stoney](../2016/middleton-stoney) | Won |
-| {date} | [Nightwatchman CC](../2016/nightwatchman-cc) | Lost |
+| {date} | [Nightwatchman CC](../2016/nightwatchman) | Lost |
 | {date} | [Newington](../2016/newington) | Won |
 | {date} | [Frensham](../2016/frensham) | Won |
 | {date} | [Watton-at-Stone](../2016/watton-at-stone) | Won |
@@ -87,7 +87,7 @@ parent: Results
 |:---|:---|:---|
 | {date} | [Middleton Stoney](../2015/middleton-stoney) | Lost |
 | {date} | [Britwell Salome](../2015/britwell-salome) | Drawn |
-| {date} | [Nightwatchman CC](../2015/nightwatchman-cc) | Lost |
+| {date} | [Nightwatchman CC](../2015/nightwatchman) | Lost |
 | {date} | [Newington](../2015/newington) | Won |
 | {date} | [Frensham](../2015/frensham) | Lost |
 | {date} | [Newdigate](../2015/newdigate) | Drawn |
@@ -104,7 +104,7 @@ parent: Results
 | 2014 |  |  |
 |:---|:---|:---|
 | {date} | [Hook and Southborough](../2014/hook-and-southborough) | Lost |
-| {date} | [Nightwatchman CC](../2014/nightwatchman-cc) | Won |
+| {date} | [Nightwatchman CC](../2014/nightwatchman) | Won |
 | {date} | [Newington](../2014/newington) | Won |
 | {date} | [Farningham](../2014/farningham) | Won |
 | {date} | [Frensham](../2014/frensham) | Won |
@@ -122,7 +122,7 @@ parent: Results
 |:---|:---|:---|
 | {date} | [Middleton Stoney](../2013/middleton-stoney) | Drawn |
 | {date} | [Britwell Salome](../2013/britwell-salome) | Lost |
-| {date} | [The Nightwatchman CC](../2013/the-nightwatchman-cc) | Won |
+| {date} | [The Nightwatchman CC](../2013/the-nightwatchman) | Won |
 | {date} | [Newington](../2013/newington) | Lost |
 | {date} | [Frensham](../2013/frensham) | Won |
 | {date} | [The Herd](../2013/the-herd) | Lost |
@@ -133,7 +133,7 @@ parent: Results
 | {date} | [Exford](../2013/exford) | Won |
 | {date} | [Horningsham](../2013/horningsham) | Won |
 | {date} | [Newdigate](../2013/newdigate) | Lost |
-| {date} | [Addington 1748](../2013/addington-1748) | Won |
+| {date} | [Addington 1748](../2013/addington-1743) | Won |
 | {date} | [Brasted Invicta](../2013/brasted-invicta) | Drawn |
 | {date} | [Selling](../2013/selling) | Lost |
 
@@ -146,9 +146,9 @@ parent: Results
 | {date} | [Newdigate](../2012/newdigate) | Lost |
 | {date} | [Tower of Dudes](../2012/tower-of-dudes) | Won |
 | {date} | [Wonersh](../2012/wonersh) | Won |
-| {date} | [Brastead Invicta](../2012/brastead-invicta) | Won |
+| {date} | [Brasted Invicta](../2012/brasted-invicta) | Won |
 | {date} | [Reigate Pilgrims](../2012/reigate-pilgrims) | Drawn |
-| {date} | [Stoke D’Aberdon](../2012/stoke-daberdon) | Lost |
+| {date} | [Stoke D’Aberdon](../2012/stoke-dabernon) | Lost |
 
 | 2011 |  |  |
 |:---|:---|:---|
