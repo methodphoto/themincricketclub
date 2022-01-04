@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BGS Bedouins
+title: Bedouins
 game: BGS Bedouins v The Min
 location: Bristol Grammar School, Failand
 date: 11/07/2015

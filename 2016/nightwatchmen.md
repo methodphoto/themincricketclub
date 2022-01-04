@@ -4,6 +4,7 @@ title: Nightwatchmen
 game: Nightwatchmen v The Min
 location: Solefields
 date: 08/05/2016
+report: The Min won the toss and inserted Nightwatchmen, who made 264-5 in 40 overs. The Min made 207-9 (all out) in 37 overs.
 result: Nightwatchmen won by 57 runs
 parent: 2016 Fixtures
 ---
@@ -15,14 +16,6 @@ Played at {{page.location}} on {{page.date}}
 {{page.report}}
 
 **Result:** {{page.result}}
-
-Played at {gameLocation} on {gameDate}
-
-Brook batted first made 217 all out. The Min replied with 163 all out.
-
-Result: {result}
- 
-The Min won the toss and inserted Nightwatchmen, who made 264-5 in 40 overs. The Min made 207-9 (all out) in 37 overs.
 
 ## Nightwatchmen Batting
 

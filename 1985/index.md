@@ -14,7 +14,7 @@ parent: 1980s
 | May |  |  |  |
 |:---|:---|:---|:---|
 | 5th |  | [West Green](west-green) | [Away](https://goo.gl/maps/RuqU3SDAXZkYVKds6) |
-| 11th |  | [Artisans](the-artisans) | Away |
+| 11th |  | [Artisans](artisans) | Away |
 | 19th |  | [Town Cryers](town-cryers) | Away |
 | 26th |  | [Red Bat](red-bat) | Away |
 

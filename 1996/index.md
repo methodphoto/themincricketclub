@@ -25,7 +25,7 @@ parent: 1990s
 
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
-| 25th | 18:00 | [Barrow Hospital](ubht) | Away | 
+| 25th | 18:00 | [Barrow Hospital](barrow-hospital) | Away | 
 | 26th | 14:30 | [Broadway and Horton](broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) | 
 | 27th | 14:30 | [Kilmington and Stourton](kilmington-and-stourton) | [Away](https://goo.gl/maps/37Jcbp5xca4G83S86) | 
 | 28th | 14:30 | [Farnborough](farnborough) | [Away](https://goo.gl/maps/G4iH2NHYzVD4aPhM6) | 

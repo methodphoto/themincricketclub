@@ -14,8 +14,8 @@ parent: 2010s
 
 | May |  |  |  |
 |:---|:---|:---|:---|
-| 12th | 14:00 | [Nightwatchman CC](nightwatchman-cc) | [Home](https://goo.gl/maps/w2skeCXwzZTEh7e26) |
-| 19th | 14:00 | [Newington](newington) | [Home](https://goo.gl/maps/w2skeCXwzZTEh7e26) |00
+| 12th | 14:00 | [Nightwatchman CC](nightwatchman) | [Home](https://goo.gl/maps/w2skeCXwzZTEh7e26) |
+| 19th | 14:00 | [Newington](newington) | [Home](https://goo.gl/maps/w2skeCXwzZTEh7e26) |
 
 | June |  |  |  |
 |:---|:---|:---|:---|
