@@ -9,7 +9,7 @@ parent: 2010s
 
 | April |  |  |  |
 |:---|:---|:---|:---|
-| 17th | 14:00 | [Middleton Stoney](middleton-stoney) | [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) |
+| 17th | 14:00 | [Middleton Stoney](middleton-stoney) | [OX25 4AQ](https://goo.gl/maps/NKG1fHyPgmci55aGA) |
 | 23rd | 14:00 | [Britwell Salome](britwell-salome) | [OX49 5LH](https://goo.gl/maps/CGgpPNyQhotADDFs9) |
 
 | May |  |  |  |

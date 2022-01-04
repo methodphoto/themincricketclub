@@ -9,7 +9,7 @@ parent: 2010s
 
 | April |  |  |  |
 |:---|:---|:---|:---|
-| 23rd | 14:00 | [Middleton Stoney](middleton-stoney) | [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) |
+| 23rd | 14:00 | [Middleton Stoney](middleton-stoney) | [OX25 4AQ](https://goo.gl/maps/NKG1fHyPgmci55aGA) |
 
 | May |  |  |  |
 |:---|:---|:---|:---|

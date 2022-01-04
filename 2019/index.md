@@ -9,7 +9,7 @@ parent: 2010s
 
 | April |  |  |  |
 |:---|:---|:---|:---|
-| 21st | 14:00 | [Middleton Stoney](middleton-stoney) | [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) |
+| 21st | 14:00 | [Middleton Stoney](middleton-stoney) | [OX25 4AQ](https://goo.gl/maps/NKG1fHyPgmci55aGA) |
 | 28th | 13:00 | [Watton-at-Stone](watton-at-stone) | [SG14 3SF](https://goo.gl/maps/2oHFhgW7cVt) |
 
 | May |  |  |  |

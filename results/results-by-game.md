@@ -554,7 +554,7 @@ parent: Results
 | 06/08/1988 | [Barrow-boys](../1988/barrow-boys) | Won |
 | 14/08/1988 | [Newdigate](../1988/newdigate) | Lost |
 | 21/08/1988 | [Brookham Green](../1988/brookham-green) | Drawn |
-| 28/08/1988 | [Bose XI](../1988/bose-xi) | Won |
+| 28/08/1988 | [Bose XI](../1988/mihir-boses-xi) | Won |
 | 04/09/1988 | [Stowting](../1988/stowting) | Won |
 | 11/09/1988 | [Harpenden](../1988/harpenden) | Drawn |
 | 18/09/1988 | [Watton-at-Stone](../1988/watton-at-stone) | Drawn |
