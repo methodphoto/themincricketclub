@@ -77,7 +77,7 @@ parent: Results
 | {date} | [Watton-at-Stone](../2016/watton-at-stone) | Won |
 | {date} | [Blagdon Hill](../2016/blagdon-hill) | Lost |
 | {date} | [Broadway and Horton](../2016/broadway-and-horton) | Lost |
-| {date} | [Bristol 4th XI](../2016/bristol-4th-xi) | Won |
+| {date} | [Bristol 4th XI](../2016/bristol) | Won |
 | {date} | [Kilmington and Stourton](../2016/kilmington-and-stourton) | Lost |
 | {date} | [Brasted Invicta](../2016/brasted-invicta) | Won |
 | {date} | [Reigate Pilgrims](../2016/reigate-pilgrims) | Drawn |
@@ -104,7 +104,7 @@ parent: Results
 | 2014 |  |  |
 |:---|:---|:---|
 | {date} | [Hook and Southborough](../2014/hook-and-southborough) | Lost |
-| {date} | [Nightwatchman CC](../2014/nightwatchman) | Won |
+| {date} | [Nightwatchmen CC](../2014/nightwatchman) | Won |
 | {date} | [Newington](../2014/newington) | Won |
 | {date} | [Farningham](../2014/farningham) | Won |
 | {date} | [Frensham](../2014/frensham) | Won |
@@ -122,7 +122,7 @@ parent: Results
 |:---|:---|:---|
 | {date} | [Middleton Stoney](../2013/middleton-stoney) | Drawn |
 | {date} | [Britwell Salome](../2013/britwell-salome) | Lost |
-| {date} | [The Nightwatchman CC](../2013/the-nightwatchman) | Won |
+| {date} | [The Nightwatchman CC](../2013/nightwatchman) | Won |
 | {date} | [Newington](../2013/newington) | Lost |
 | {date} | [Frensham](../2013/frensham) | Won |
 | {date} | [The Herd](../2013/the-herd) | Lost |
@@ -230,7 +230,7 @@ parent: Results
 | {date} | [Broadway and Horton](../2007/broadway-and-horton) | Won |
 | {date} | [Kilmington and Stourton](../2007/kilmington-and-stourton) | Won |
 | {date} | [Horningsham](../2007/horningsham) | Drawn |
-| 15/07/2007 | [Old Min v Young Min]((../2007/old-min-young-min)) | Drawn |
+| 15/07/2007 | [Old Min v Young Min]((../2007/old-min-young-min) | Drawn |
 | {date} | [Selling](../2007/selling) | Lost |
 | {date} | [SB Exiles](../2007/sb-exiles) | Lost |
 | {date} | [Reigate Pilgrims](../2007/reigate-pilgrims) | Drawn |
@@ -561,7 +561,7 @@ parent: Results
 
 | 1987 |  |  |
 |:---|:---|:---|
-| 09/05/1987 | [Crocodiles](../1987/crocodiles) | Drawn |
+| 09/05/1987 | [Crocodiles](../1987/the-crocodiles) | Drawn |
 | 17/05/1987 | [Old Elthamians](../1987/old-elthamians) | Lost |
 | 25/05/1987 | [Little Kingshill](../1987/little-kingshill) | Lost |
 | 31/05/1987 | [Rhinos](../1987/rhinos) | Won |

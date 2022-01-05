@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Nightwatchmen
-game: Nightwatchmen v The Min
+title: Nightwatchman
+game: Nightwatchman v The Min
 location: 
 date: 
 report: 
 result: 
-parent: 2015 Fixtures
+parent: 2014 Fixtures
 ---
 
 # {{page.game}}

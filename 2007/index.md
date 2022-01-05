@@ -22,7 +22,7 @@ parent: 2000s
 |:---|:---|:---|:---|
 | 3rd | 14:00 | [Tappers](tappers) | [Home]() |
 | 17th | 14:00 | [Newdigate](newdigate) | [Away](https://goo.gl/maps/kQnkUfc3MdtqLyvd8) |
-| 24th | 14:00 | [Watton-at-Stone](watton-at-stone) | c |
+| 24th | 14:00 | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 
 | July |  |  |  |
 |:---|:---|:---|:---|
@@ -44,4 +44,4 @@ parent: 2000s
 |:---|:---|:---|:---|
 | 1st | 14:00 | [SB Exiles](sb-exiles) | [Away]() |
 | 16th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
-| 30th | 12:30 | [Watton-at-Stone](2007-watton-at-stone-2) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
+| 30th | 12:30 | [Watton-at-Stone](watton-at-stone-2) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
