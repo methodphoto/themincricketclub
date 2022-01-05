@@ -14,7 +14,7 @@ parent: 2000s
 
 | June |  |  |  |
 |:---|:---|:---|:---|
-| 8th | 14:00 | [Ballinger](ballinger) | [Away]() |
+| 8th | 14:00 | [Ballinger](ballinger-waggoners) | [Away]() |
 | 15th | 14:00 | [Newdigate](newdigate) | [Away](https://goo.gl/maps/9uAr2nHj19CJDEjw6) |
 | 29th | 14:00 | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 

@@ -4,7 +4,7 @@ title: Captain Scott
 game: The Min v Captain Scott XI
 location: Reigate Grammar School
 date: 10/08/1997
-report: The Min batted first and made 172 for 5 wkts. Captain Scott's XI replied with 75 for 6 wkts
+report: The Min batted first and made 172 for 5 wkts. Captain Scott XI replied with 75 for 6 wkts
 result: Match Drawn
 parent: 1997 Fixtures
 ---
@@ -57,7 +57,7 @@ Partnership  of 102 between J Grant and P Sayer
 | **Chattergee** | 1 | 0 | 4 | 0 |
 | **Bickerdike** | 1 | 0 | 2 | 0 |
 
-## Ockley Innings
+## Captain Scott XI Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

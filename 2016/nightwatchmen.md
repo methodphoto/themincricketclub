@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Nightwatchmen
-game: Nightwatchmen v The Min
+title: Nightwatchman
+game: Nightwatchman v The Min
 location: Solefields
 date: 08/05/2016
-report: The Min won the toss and inserted Nightwatchmen, who made 264-5 in 40 overs. The Min made 207-9 (all out) in 37 overs.
-result: Nightwatchmen won by 57 runs
+report: The Min won the toss and inserted Nightwatchman, who made 264-5 in 40 overs. The Min made 207-9 (all out) in 37 overs.
+result: Nightwatchman won by 57 runs
 parent: 2016 Fixtures
 ---
 
@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Nightwatchmen Batting
+## Nightwatchman Batting
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -73,7 +73,7 @@ Played at {{page.location}} on {{page.date}}
 | **Batsman** | 1 | 2 | 4 | 3 | 6 | 5 | 8 | 7 | 10 |   |
 
 
-## Nightwatchmen Bowling
+## Nightwatchman Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|

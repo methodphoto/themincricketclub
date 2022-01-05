@@ -14,7 +14,7 @@ parent: 2010s
 
 | May |  |  |  |
 |:---|:---|:---|:---|
-| 11th | 13:00 | [Nightwatchmen CC](nightwatchmen) | [TN13 1PR](https://goo.gl/maps/JefoWDSusHs) |
+| 11th | 13:00 | [Nightwatchman CC](nightwatchman) | [TN13 1PR](https://goo.gl/maps/JefoWDSusHs) |
 | 18th | 14:00 | [Newington](newington) | [ME9 7AD](https://goo.gl/maps/KKqTC) |
 
 | June |  |  |  |
