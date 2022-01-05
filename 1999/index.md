@@ -37,5 +37,5 @@ parent: 1990s
 
 | September |  |  |  |
 |:---|:---|:---|:---|
-| 5th | 14:00 | [Old Colfeans](old-colfeans) | [Away](https://goo.gl/maps/G3ZRvFg7gYvB2Fng8) |
+| 5th | 14:00 | [Old Colfeians](old-colfeians) | [Away](https://goo.gl/maps/G3ZRvFg7gYvB2Fng8) |
 | 12th | 13:30 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |

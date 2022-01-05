@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Harcourt** | b | P Oborne | 0 | 
 | **M Gardiner** | c (keeper) | P Oborne | 0 | 
 | **J Wright** | c | A Jacot | 13 | 
-| **N Kawaguchi** | dnb |  |  |  
+| **N Kawaguchi** | dnb |  |  |
 | **Extras** | | (7b 4lb 1w 0nb) | 12 | 
 | **Total** | | (21.4 overs) | 108 for 9 wkts (all out) | 
 

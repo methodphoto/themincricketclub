@@ -214,7 +214,7 @@ parent: Results
 | {date} | [Stowting](../2008/stowting) | Won |
 | {date} | [Broadway and Horton](../2008/broadway-and-horton) | Won |
 | {date} | [Horningsham](../2008/horningsham) | Drawn |
-| {date} | [The Old Min v The Young Min](../2008/the-old-min-the-young-min) | Drawn |
+| {date} | [The Old Min v The Young Min](../2008/old-min-young-min) | Drawn |
 | {date} | [Harrow St Mary’s](../2008/harrow-st-marys) | Won |
 | {date} | [Putney](../2008/putney) | Won |
 | {date} | [Reigate Pilgrims](../2008/reigate-pilgrims) | Drawn |
@@ -230,7 +230,7 @@ parent: Results
 | {date} | [Broadway and Horton](../2007/broadway-and-horton) | Won |
 | {date} | [Kilmington and Stourton](../2007/kilmington-and-stourton) | Won |
 | {date} | [Horningsham](../2007/horningsham) | Drawn |
-| 15/07/2007 | [The Old Min v The Young Min]((../2007/the-old-min-the-young-min)) | Drawn |
+| 15/07/2007 | [Old Min v Young Min]((../2007/old-min-young-min)) | Drawn |
 | {date} | [Selling](../2007/selling) | Lost |
 | {date} | [SB Exiles](../2007/sb-exiles) | Lost |
 | {date} | [Reigate Pilgrims](../2007/reigate-pilgrims) | Drawn |
@@ -393,7 +393,7 @@ parent: Results
 | 25/07/1997 | [Broadway and Horton](../1997/broadway-and-horton) | Lost |
 | 26/07/1997 | [Kilmington and Stourton](../1997/kilmington-and-stourton) | Drawn |
 | 27/07/1997 | [Farnborough](../1997/farnborough) | Won |
-| 10/08/1997 | [Captain Scott’s XI](../1997/captain-scotts-xi) | Drawn |
+| 10/08/1997 | [Captain Scott XI](../1997/captain-scott) | Drawn |
 | 17/08/1997 | [Hetairoi](../1997/hetairoi) | Won |
 | 31/08/1997 | [Slip End](../1997/slip-end) | Lost |
 | 14/09/1997 | [Reigate Pilgrims](../1997/reigate-pilgrims) | Won |
@@ -412,9 +412,9 @@ parent: Results
 | 28/07/1996 | [Broadway and Horton](../1996/broadway-and-horton) | Lost |
 | 29/07/1996 | [Kilmington and Stourton](../1996/kilmington-and-stourton) | Drawn |
 | 30/07/1996 | [Farnborough](../1996/farnborough) | Won |
-| 10/08/1996 | [Captain Scott XI](../1996/captain-scott-xi) | Drawn |
+| 10/08/1996 | [Captain Scott XI](../1996/captain-scott) | Drawn |
 | 17/08/1996 | [Littlewick Green](../1996/littlewick-green) | Drawn |
-| 01/09/1996 | [A Stonor XI](../1996/a-stonor-xi) | Won |
+| 01/09/1996 | [A Stonor XI](../1996/stonor) | Won |
 | 15/09/1996 | [Great Braxted](../1996/great-braxted) | Won |
 | 22/09/1996 | [Watton-at-Stone](../1996/watton-at-stone) | Drawn |
 
@@ -485,9 +485,9 @@ parent: Results
 | 12/05/1991 | [Ockley](../1991/ockley) | Drawn |
 | 19/05/1991 | [Old Elthamians](../1991/old-elthamians) | Won |
 | 02/06/1991 | [Valley End](../1991/valley-end) | Won |
-| 09/06/1991 | [Chenkendon](../1991/chenkendon) | Drawn |
+| 09/06/1991 | [Checkendon](../1991/checkendon) | Drawn |
 | 30/06/1991 | [Antilles](../1991/antilles) | Lost |
-| 07/07/1991 | [Crocodiles](../1991/crocodiles) | Won |
+| 07/07/1991 | [Crocodiles](../1991/the-crocodiles) | Won |
 | 14/07/1991 | [Hamsey Green](../1991/hamsey-green) | Drawn |
 | 21/07/1991 | [Old Texaconians](../1991/old-texaconians) | Won |
 | 02/08/1991 | [Old Tauntonians](../1991/old-tauntonians) | Lost |
@@ -508,7 +508,7 @@ parent: Results
 | 23/06/1990 | [Limpsfield](../1990/limpsfield) | Lost |
 | 08/07/1990 | [Brook](../1990/brook) | Lost |
 | 15/07/1990 | [Abinger Hammer](../1990/abinger-hammer) | Lost |
-| 22/07/1990 | [Crocodiles](../1990/crocodiles) | Won |
+| 22/07/1990 | [Crocodiles](../1990/the-crocodiles) | Won |
 | 29/07/1990 | [Godstone](../1990/godstone) | Won |
 | 03/08/1990 | [Old Tauntonians](../1990/old-tauntonians) | Lost |
 | 09/08/1990 | [T.Calvert’s Collection](../1990/t-calverts-collection) | Won |
@@ -548,12 +548,12 @@ parent: Results
 | 12/06/1988 | [Antilles](../1988/antilles) | Won |
 | 19/06/1988 | [Limpsfield](../1988/limpsfield) | Won |
 | 26/06/1988 | [Blindley Heath](../1988/blindley-heath) | Won |
-| 09/07/1988 | [Ealonians](../1988/ealonians) | Won |
+| 09/07/1988 | [Ealonian](../1988/ealonian) | Won |
 | 17/07/1988 | [Liphook](../1988/liphook) | Won |
 | 30/07/1988 | [Friar’s Oak](../1988/friars-oak) | Won |
 | 06/08/1988 | [Barrow-boys](../1988/barrow-boys) | Won |
 | 14/08/1988 | [Newdigate](../1988/newdigate) | Lost |
-| 21/08/1988 | [Brookham Green](../1988/brookham-green) | Drawn |
+| 21/08/1988 | [Brockham Green](../1988/brockham-green) | Drawn |
 | 28/08/1988 | [Bose XI](../1988/mihir-boses-xi) | Won |
 | 04/09/1988 | [Stowting](../1988/stowting) | Won |
 | 11/09/1988 | [Harpenden](../1988/harpenden) | Drawn |
@@ -582,7 +582,7 @@ parent: Results
 | 11/05/1986 | [West Wickham](../1986/west-wickham) | Won |
 | 18/05/1986 | [Old Elthamians](../1986/old-elthamians) | Won |
 | 26/05/1986 | [Little Kingshill](../1986/little-kingshill) | Won |
-| 07/06/1986 | [White City Allstars](../1986/white-city-allstars) | Lost |
+| 07/06/1986 | [White City All Stars](../1986/white-city-all-stars) | Lost |
 | 14/06/1986 | [Brook](../1986/brook) | Won |
 | 21/06/1986 | [Horningsham](../1986/horningsham) | Lost |
 | 29/06/1986 | [Godstone](../1986/godstone) | Lost |
@@ -596,7 +596,7 @@ parent: Results
 
 | 1985 |  |  |
 |:---|:---|:---|
-| 27/04/1985 | [White City Allstars](../1985/white-city-allstars) | Lost |
+| 27/04/1985 | [White City All Stars](../1985/white-city-all-stars) | Lost |
 | 05/05/1985 | [West Green](../1985/west-green) | Lost |
 | 11/05/1985 | [Artisans](../1985/artisans) | Won |
 | 19/05/1985 | [Town Cryers](../1985/town-cryers) | Won |
@@ -608,7 +608,7 @@ parent: Results
 | 07/07/1985 | [Koh-i-Noor](../1985/koh-i-noor) | Won |
 | 14/07/1985 | [Lobsters](../1985/lobsters) | Lost |
 | 18/08/1985 | [Old Wilsonians](../1985/old-wilsonians) | Won |
-| 25/08/1985 | [Ealonians](../1985/ealonians) | Drawn |
+| 25/08/1985 | [Ealonian](../1985/ealonian) | Drawn |
 | 01/09/1985 | [Old Elthamians](../1985/old-elthamians) | Lost |
 | 08/09/1985 | [Alex Beard’s XI](../1985/alex-beards-xi) | Won |
 | 15/09/1985 | [Hendon Edgware](../1985/hendon-edgware) | Lost |
@@ -625,16 +625,16 @@ parent: Results
 | 22/07/1984 | [Hendon Edgware](../1984/hendon-edgware) | Won |
 | 05/08/1984 | [Logica](../1984/logica) | Won |
 | 11/08/1984 | [Chiswick Flyovers](../1984/chiswick-flyovers) | Lost |
-| 12/08/1984 | [Ealonians](../1984/ealonians) | Lost |
+| 12/08/1984 | [Ealonian](../1984/ealonian) | Lost |
 | 18/08/1984 | [British Legion Rickmansworth](../1984/british-legion-rickmansworth) | Lost |
 | 02/09/1984 | [Old Elthamians](../1984/old-elthamians) | Won |
-| 16/09/1984 | [Nigel Hoare’s XI](../1984/nigel-hoares-xi) | Won |
+| 16/09/1984 | [Nick Hoare’s XI](../1984/nick-hoares-xi) | Won |
 
 | 1983 |  |  |
 |:---|:---|:---|
 | 09/06/1983 | [Lobsters](../1983/lobsters) | Won |
-| 12/06/1983 | [Nick Hoare’s XI](../1983/nigel-hoares-xi) | Won |
-| 17/06/1983 | [UB XI](../1983/ub-xi) | Drawn |
+| 12/06/1983 | [Nick Hoare’s XI](../1983/nick-hoares-xi) | Won |
+| 17/06/1983 | [UB II](../1983/ub-ii) | Drawn |
 | 25/06/1983 | [A Good Length](../1983/a-good-length) | Won |
 | 17/06/1983 | [Bathurst Arms](../1983/bathurst-arms) | Won |
 

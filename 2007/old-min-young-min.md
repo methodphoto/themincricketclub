@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Old Min  v the Young Min
+title: Old Min Young Min
 game: The Old Min  v the Young Min
 location: 
 date: 

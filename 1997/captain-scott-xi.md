@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Captain Scott's XI
-game: The Min v Captain Scott's XI
+title: Captain Scott
+game: The Min v Captain Scott XI
 location: Reigate Grammar School
 date: 10/08/1997
 report: The Min batted first and made 172 for 5 wkts. Captain Scott's XI replied with 75 for 6 wkts
