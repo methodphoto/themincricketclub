@@ -11,7 +11,7 @@ parent: 2000s
 |:---|:---|:---|:---|
 | 28th | 14:00 | [Britwell Salome](britwell-salome) | [OX49 5LH](https://goo.gl/maps/CGgpPNyQhotADDFs9) |
 
-Sunday 29th April 25th Anniversary of The Min
+**Sunday 29th April 25th Anniversary of The Min**
 
 | May |  |  |  |
 |:---|:---|:---|:---|
@@ -34,7 +34,7 @@ Sunday 29th April 25th Anniversary of The Min
 | 12th | 14:30 | [Broadway and Horton](broadway-and-horton) | [Away]() |
 | 13th | 14:00 | [Kilmington and Stourton](kilmington-and-stourton) | [BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 14th | 14:00 | [Horningsham](horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
-| 15th | 14:00 | [The Old Min v The Young Min (for the Rameses II Memorial Trophy)](the-old-min-the-young-min) | [Home]() |
+| 15th | 14:00 | [Old Min v Young Min (for the Rameses II Memorial Trophy)](old-min-young-min) | [Home]() |
 
 | August |  |  |  |
 |:---|:---|:---|:---|

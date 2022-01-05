@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Captain Scott XI
-game: The Min v Captain Scott XI
+title: Captain Scott
+game: The Min v Captain ScottI
 location: Reigate Grammar School
 date: 10/08/1996
 report: The Min batted first and made 158 all out. Rain started at tea and did not abate

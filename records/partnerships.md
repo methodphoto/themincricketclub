@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Hundred Partnerships
+title: Partnerships
+game: Hundred Partnerships
 nav_order: 60
 parent: Records
 ---
 
-# {{page.title}}
+# {{page.game}}
 
 | Year | Batsman and Score | Opponent | Partnership |
 |:---|:---|:---|---:|

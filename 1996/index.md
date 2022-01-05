@@ -32,7 +32,7 @@ parent: 1990s
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 11th | 14:00 | [Captain Scott's XI](captain-scott) | [Home](https://goo.gl/maps/w2skeCXwzZTEh7e26) | 
+| 11th | 14:00 | [Captain Scott XI](captain-scott) | [Home](https://goo.gl/maps/w2skeCXwzZTEh7e26) | 
 | 18th | 14:00 | [Littlewick Green](littlewick-green) | [Away](https://goo.gl/maps/6wrtLmHw26Bca4D59) | 
 
 | September |  |  |  |

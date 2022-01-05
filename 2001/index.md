@@ -26,5 +26,5 @@ parent: 2000s
 
 | September |  |  |  |
 |:---|:---|:---|:---|
-| 9th | 13:30 | [Old Colfeans](old-colfeans) | [Away](https://goo.gl/maps/vhwZEdPcYg4q3f3P8) |
+| 9th | 13:30 | [Old Colfeians](old-colfeians) | [Away](https://goo.gl/maps/vhwZEdPcYg4q3f3P8) |
 | 16th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |

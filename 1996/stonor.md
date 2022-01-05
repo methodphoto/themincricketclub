@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Stonor XI
+title: Stonor
 game: A Stonor XI v The Min
 location: Stonor CC
 date: 01/09/1996

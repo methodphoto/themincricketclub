@@ -19,7 +19,7 @@ parent: 1990s
 
 | July |  |  |  |
 |:---|:---|:---|:---|
-| 7th | 14:30 | [Old Elthamians](old-elthamans) | [Away](https://goo.gl/maps/FQbBNZQTFggEmhfv9) |
+| 7th | 14:30 | [Old Elthamians](old-elthamians) | [Away](https://goo.gl/maps/FQbBNZQTFggEmhfv9) |
 | 16th | 14:00 | [Tappers](tappers) | [Home](https://goo.gl/maps/w2skeCXwzZTEh7e26) |
 
 | July - Tour |  |  |  |

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: The Old Min  v The Young Min
-game: The Old Min  v The Young Min
+title: Ballinger Waggoners
+game: Ballinger v The Min
 location: 
 date: 
 report: 
 result: 
-parent: 2008 Fixtures
+parent: 2003 Fixtures
 ---
 
 # {{page.game}}

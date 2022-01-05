@@ -16,7 +16,7 @@ parent: 1980s
 | June |  |  |  |
 |:---|:---|:---|:---|
 | 3rd |  | [South Nutfield](south-nutfield) | [Away](https://goo.gl/maps/p9X6FKNSZvxeVuEg6) |
-| 12th |  | [Antillies](antillies) | [Away](https://goo.gl/maps/RjBA5EtiWW3gXe3z9) |
+| 12th |  | [Antillies](antilles) | [Away](https://goo.gl/maps/RjBA5EtiWW3gXe3z9) |
 | 19th |  | [Limpsfield](limpsfield) | [Away](https://goo.gl/maps/cQfMoSXGaenFajMf7) |
 | 26th |  | [Blindley Heath](blindley-heath) | [Away](https://goo.gl/maps/DdfEGZ4dTdcXmxB87) |
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Old Elthamans
-game: Old Elthamans v The Min
+title: Old Elthamians
+game: Old Elthamians v The Min
 location: Foxbury
 date: 09/07/1995
-report: Old Elthamans batted first making 236 for 1 wkt. The Min replied with 193 for 6 wkts when time ran out
+report: Old Elthamians batted first making 236 for 1 wkt. The Min replied with 193 for 6 wkts when time ran out
 result: Match Drawn
 parent: 1995 Fixtures
 ---
@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Old Elthamans Innings
+## Old Elthamians Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
