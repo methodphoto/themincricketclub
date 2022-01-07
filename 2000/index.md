@@ -25,11 +25,11 @@ parent: 2000s
 | 20th | 14:15 | [Wareham](wareham) | [Away](https://goo.gl/maps/NCMSJcACC3XVjnR27) |
 | 21st | 14:30 | [Broadway and Horton (for the Ashes)](broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
 | 22nd | 14:00 | [Kilmington and Stourton](kilmington-and-stourton) | [Away](https://goo.gl/maps/2Zj7maXqRmipogRA6) |
-| 23rd | 14:30 | [Shottermill](shottermill) | [Away]() |
+| 23rd | 14:30 | [Shottermill](shottermill) | [Away](https://goo.gl/maps/Hz3yc23H6VbpRMqm8) |
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 6th | 14:30 | [Tappers](tappers) | [Away]() |
+| 6th | 14:30 | [Tappers](tappers) | [Away](https://goo.gl/maps/VrSWAsVDD2Xi4Nxy9) |
 | 20th | 14:00 | [Selling](selling) | [Away](https://goo.gl/maps/pV2tb26PncWLNiBm9) |
 
 | September |  |  |  |
