@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Old Colfeans
-game: Old Colfeans v The Min
+title: Old Colfeians
+game: Old Colfeians v The Min
 location: Horn Park
 date: 05/09/1999
-report: The Min batted first and made 196 for 7 wkts. Old Colfeans replied with 115 all out
+report: The Min batted first and made 196 for 7 wkts. Old Colfeians replied with 115 all out
 result: The Min won by 81 runs
 parent: 1999 Fixtures
 ---
@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Blackwell** | 7 | 0 | 45 | 2 |
 | **Pye** | 11 | 3 | 44 | 3 |
 
-## Old Colfeans Innings
+## Old Colfeians Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

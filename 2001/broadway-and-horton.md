@@ -16,3 +16,4 @@ Played at {{page.location}} on {{page.date}}
 {{page.report}}
 
 **Result:** {{page.result}}
+

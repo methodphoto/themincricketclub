@@ -336,15 +336,15 @@ parent: Results
 
 | 2000 |  |  |
 |:---|:---|:---|
-| {date} | [Ockley](../2000/ockley) | Lost |
-| {date} | [Stowting](../2000/stowting) | **Won** |
-| {date} | [Watton-at-Stone](../2000/watton-at-stone) | **Won** |
-| {date} | [Tatsfield](../2000/tatsfield) | **Won** |
-| {date} | [Wareham](../2000/wareham) | Lost |
-| {date} | [Broadway and Horton](../2000/broadway-and-horton) | **Won** |
-| {date} | [Kilmington and Stourton](../2000/kilmington-and-stourton) | Lost |
-| {date} | [Shottermill](../2000/shottermill) | **Won** |
-| {date} | [Tappers](../2000/tappers) | **Won** |
+| 14/05/2000 | [Ockley](../2000/ockley) | Lost |
+| 04/06/2000 | [Stowting](../2000/stowting) | **Won** |
+| 25/06/2000 | [Watton-at-Stone](../2000/watton-at-stone) | **Won** |
+| 02/07/2000 | [Tatsfield](../2000/tatsfield) | **Won** |
+| 20/07/2000 | [Wareham](../2000/wareham) | Lost |
+| 21/07/2000 | [Broadway and Horton](../2000/broadway-and-horton) | **Won** |
+| 22/07/2000 | [Kilmington and Stourton](../2000/kilmington-and-stourton) | Lost |
+| 23/07/2000 | [Shottermill](../2000/shottermill) | **Won** |
+| 06/08/2000 | [Tappers](../2000/tappers) | **Won** |
 | {date} | [Selling](../2000/selling) | **Won** |
 | {date} | [Old Colfeians](../2000/old-colfeians) | **Won** |
 | {date} | [Reigate Pilgrims](../2000/reigate-pilgrims) | **Won** |

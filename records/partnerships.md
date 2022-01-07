@@ -20,6 +20,7 @@ parent: Records
 | **2005** | R Earney (122&#42;) and A Slight (64) | SB Exiles | **155** |
 | **1995** | R Earney (100) and S Barrowcliff (46) | Ockley | **154** |
 | **2001** | R Earney (106) and R Beswick (44) | Wareham | **151** |
+| **2000** | R Beswick (52) and S Hornsby (130&#42;) | Wareham | **144** |
 | **2005** | R Earney (89) and M Goff (56) | Watton-at-Stone | **140** |
 | **1986** | S Watson (69&#42;) and T Purves (66&#42;) | Horningsham | **139** |
 | **1993** | S Barrowcliff (117) and W Wright (53) | Old Elthamians | **135** |
@@ -61,6 +62,5 @@ parent: Records
 | **1997** | J Grant (33) and P Sayer (68) | Captain Scott's XI | **102** |
 | **1996** | J Hylton (101) and R Beswick (36) | Littlewick Green | **102** |
 | **2017** | M Gupta (100) and S Hornsby (47&#42;) | Frensham | **101** |
-| **2000** | R Beswick (52) and S Hornsby (130&#42;) | Wareham | |
 | **1992** | R Earney (54) and I Marshall (76) | Ballinger | **100** |
 | **1982** | J Booth (72) and D Mundy (36) | J Stimfig's XI | **100** |
