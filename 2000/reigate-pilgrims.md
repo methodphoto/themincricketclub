@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (19b 2lb 3w 4nb) | 28 |
-| **Total** | | (33.5 overs) | 146 for 5 wkts |
+| **Total** | | (32 overs) | 146 for 5 wkts |
 
 ## Fall of Wickets
 
