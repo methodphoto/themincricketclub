@@ -17,19 +17,21 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+I Marshall's 7th five wkt haul for The Min
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Beswick &#42;** | b | Knowles | 8 |
+| **R Beswick &#42;** | b | M Knowles | 8 |
 | **J Grant &#8224;;** | cb | R Smith | 52 |
 | **R Earney** | c | C Ball | 4 |
 | **M Buzzacott** | c | R Smith | 50 |
 | **P Grant** | c | R Smith | 0 |
-| **A Slight** | b | Cox | 21 |
+| **A Slight** | b | M Cox | 21 |
 | **E Garland** | b | R Smith | 14 |
 | **I Marshall** | not out |  | 19 |
-| **R Green** | b | Cox | 5 |
+| **R Green** | b | M Cox | 5 |
 | **G Powell** | not out |  | 2 |
 | **P O'Brien** | dnb |  |  |
 | **Extras** | | (11b 5lb 12w 1nb) | 29 |

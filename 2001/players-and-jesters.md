@@ -4,8 +4,8 @@ title: Players and Jesters
 game: Players and Jesters v The Min
 location: Rothampstead Park
 date: 20/05/2001
-report: {{page.title}} batted first and made 145 for 9 wkts (all out). The Min replied with 110 for 9 wkts (all out)
-result: {{page.title}} won by 35 runs
+report: Players and Jesters batted first and made 145 for 9 wkts (all out). The Min replied with 110 for 9 wkts (all out)
+result: Players and Jesters won by 35 runs
 parent: 2001 Fixtures
 ---
 
