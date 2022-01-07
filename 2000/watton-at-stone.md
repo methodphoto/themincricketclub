@@ -84,8 +84,8 @@ Played at {{page.location}} on {{page.date}}
 |---|---|---|---|---|
 | **B Welch** | 8 | 1 | 38 | 0 |
 | **C Harvey** | 7 | 0 | 37 | 0 |
-| **T Ellis** | 6.3 | 1 | 35 | 31|
-| **M Lane** | 2 | 0 | 12 |04 |
+| **T Ellis** | 6.3 | 1 | 35 | 0 |
+| **M Lane** | 2 | 0 | 12 | 0 |
 
 ## Win/Loss Ratio
 
