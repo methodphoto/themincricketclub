@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-S Hornsby highest score for the Min and club record. 144 partnership between R Beswick and S Hornsby
+S Hornsby, 3rd century, highest score for the Min and club record. 144 partnership between R Beswick and S Hornsby
 
 ## The Min Innings
 

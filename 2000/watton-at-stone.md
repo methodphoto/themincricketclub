@@ -26,7 +26,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Ellis** | c J Grant | I Marshall | 11 |
 | **M Lane** | c A Desaram | R Green | 21 |
 | **B Gibbings** | E Garland | A Desaram | 0 |
-| **R Marsh** | run out (R Earney/J Grant) |   |  | 0 |
+| **R Marsh** | run out (R Earney/J Grant) |   | 0 |
 | **M Tipper** | b | R Beswick | 43 |
 | **C Harvey** | b | R Earney | 1 |
 | **D Chappell** | run out (E Garland/R Beswick) |  | 9 |
