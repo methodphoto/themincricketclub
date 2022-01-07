@@ -23,7 +23,7 @@ Played at {{page.location}} on {{page.date}}
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Earney** | c | R Smith | 12 |
-| **R Beswick &#42;** | c | SR mith | 0 |
+| **R Beswick &#42;** | c | R Smith | 0 |
 | **R Kitson** | c | N Pugh | 18 |
 | **I Marshall** | b | A Crush | 28 |
 | **R Green** | c | B Cox | 14 |
