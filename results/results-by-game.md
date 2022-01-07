@@ -323,9 +323,9 @@ parent: Results
 
 | 2001 |  |  |
 |:---|:---|:---|
-| {date} | [Long Ditton](../2001/long-ditton) | **Won** |
-| {date} | [Players and Jesters](../2001/players-and-jesters) | Lost |
-| {date} | [Stowting](../2001/stowting) | Lost |
+| 13/05/2001 | [Long Ditton](../2001/long-ditton) | **Won** |
+| 20/05/2001 | [Players and Jesters](../2001/players-and-jesters) | Lost |
+| 03/06/2001 | [Stowting](../2001/stowting) | Lost |
 | {date} | [Watton-at-Stone](../2001/watton-at-stone) | Drawn |
 | {date} | [Wareham](../2001/wareham) | **Won** |
 | {date} | [Broadway and Horton](../2001/broadway-and-horton) | **Won** |
@@ -342,12 +342,12 @@ parent: Results
 | 02/07/2000 | [Tatsfield](../2000/tatsfield) | **Won** |
 | 20/07/2000 | [Wareham](../2000/wareham) | Lost |
 | 21/07/2000 | [Broadway and Horton](../2000/broadway-and-horton) | **Won** |
-| 22/07/2000 | [Kilmington and Stourton](../2000/kilmington-and-stourton) | Lost |
+| 22/07/2000 | [Kilmington and Stourton](../2000/kilmington-and-stourton) | **Won** |
 | 23/07/2000 | [Shottermill](../2000/shottermill) | **Won** |
 | 06/08/2000 | [Tappers](../2000/tappers) | **Won** |
-| {date} | [Selling](../2000/selling) | **Won** |
-| {date} | [Old Colfeians](../2000/old-colfeians) | **Won** |
-| {date} | [Reigate Pilgrims](../2000/reigate-pilgrims) | **Won** |
+| 20/08/2000 | [Selling](../2000/selling) | **Won** |
+| 10/09/2000 | [Old Colfeians](../2000/old-colfeians) | **Won** |
+| 17/09/2000 | [Reigate Pilgrims](../2000/reigate-pilgrims) | **Won** |
 
 | 1999 |  |  |
 |:---|:---|:---|
