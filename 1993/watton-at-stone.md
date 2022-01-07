@@ -21,12 +21,12 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **S Barrowcliff** | c  | Welch | 36 | 
+| **S Barrowcliff** | c  | B Welch | 36 | 
 | **E Garland** | lbw | R Clayton | 13 | 
-| **I Marshall &#42;** | c Waight | R Clayton | 94 | 
-| **J Grant** | c & b | Welch | 8 | 
+| **I Marshall &#42;** | c D Waight | R Clayton | 94 | 
+| **J Grant** | c & b | B Welch | 8 | 
 | **E Harcourt** | b | M Tipper | 20 | 
-| **R Beswick** | lbw | Welch | 0 | 
+| **R Beswick** | lbw | B Welch | 0 | 
 | **M Gardiner** | b | M Tipper | 5 | 
 | **P Grant** | lbw | M Tipper | 1 | 
 | **J Stimfig &#8224;** | not out |  | 13 | 

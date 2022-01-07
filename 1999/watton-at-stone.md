@@ -25,7 +25,7 @@ E Garland highest score for The Min
 |:---|:---|---|---:|
 | **Taylor** | b | P O'Mahony | 0 |
 | **D Pirie** | b | I Marshall | 28 |
-| **Waight** | c R Beswick | I Marshall | 0 |
+| **D Waight** | c R Beswick | I Marshall | 0 |
 | **Roberts** | c J Wright | P O'Brien | 3 |
 | **T Ellis** | b | P O'Mahony | 34 |
 | **J Dalrymple** | c J Grant | P O'Mahony | 4 |
