@@ -326,13 +326,13 @@ parent: Results
 | 13/05/2001 | [Long Ditton](../2001/long-ditton) | **Won** |
 | 20/05/2001 | [Players and Jesters](../2001/players-and-jesters) | Lost |
 | 03/06/2001 | [Stowting](../2001/stowting) | Lost |
-| {date} | [Watton-at-Stone](../2001/watton-at-stone) | Drawn |
-| {date} | [Wareham](../2001/wareham) | **Won** |
-| {date} | [Broadway and Horton](../2001/broadway-and-horton) | **Won** |
-| {date} | [ACME](../2001/acme) | Lost |
-| {date} | [Kilmington and Stourton](../2001/kilmington-and-stourton) | **Won** |
-| {date} | [Old Colfeians](../2001/old-colfeians) | **Won** |
-| {date} | [Reigate Pilgrims](../2001/reigate-pilgrims) | Lost |
+| 24/06/2001 | [Watton-at-Stone](../2001/watton-at-stone) | Drawn |
+| 12/07/2001 | [Wareham](../2001/wareham) | **Won** |
+| 13/07/2001 | [Broadway and Horton](../2001/broadway-and-horton) | **Won** |
+| 14/07/2001 | [ACME](../2001/acme) | Lost |
+| 15/07/2001 | [Kilmington and Stourton](../2001/kilmington-and-stourton) | **Won** |
+| 09/09/2001 | [Old Colfeians](../2001/old-colfeians) | **Won** |
+| 09/09/2001 | [Reigate Pilgrims](../2001/reigate-pilgrims) | Lost |
 
 | 2000 |  |  |
 |:---|:---|:---|
