@@ -19,7 +19,7 @@ parent: 2000s
 
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
-| 11th | 14:30 | [Wareham](wareham) | [Away]() |
+| 11th | 14:30 | [Wareham](wareham) | [Away](https://goo.gl/maps/NCMSJcACC3XVjnR27) |
 | 12th | 14:30 | [Broadway and Horton (for the Ashes)](broadway-and-horton) | [TA19 9RA](https://goo.gl/maps/ULbmC6LSX5HSAe8U6) |
 | 13th | 14:00 | [ACME](acme) | [Away]() |
 | 14th | 14:30 | [Hetairoi](hetairoi) | [Away](https://goo.gl/maps/AfwCKu9WW93YqXJa6) |
@@ -34,6 +34,6 @@ parent: 2000s
 
 | September |  |  |  |
 |:---|:---|:---|:---|
-| 1st | 13:30 | [North Holmwood](north-holmwood) | [Away]() |
+| 1st | 13:30 | [North Holmwood](north-holmwood) | [Away](https://goo.gl/maps/KNKirUmBjKEeCoVR8) |
 | 15th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 | 28th | 13:00 | [Britwell Salome](britwell-salome) | [OX49 5LH](https://goo.gl/maps/CGgpPNyQhotADDFs9) |
