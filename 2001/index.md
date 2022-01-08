@@ -21,7 +21,7 @@ parent: 2000s
 |:---|:---|:---|:---|
 | 12th | 14:15 | [Wareham](wareham) | [Away](https://goo.gl/maps/NCMSJcACC3XVjnR27) |
 | 13th | 14:30 | [Broadway and Horton (for the Ashes)](broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
-| 14th | 14:00 | [ACME](acme) | [Away](https://goo.gl/maps/2Zj7maXqRmipogRA6) |
+| 14th | 14:00 | [ACME](acme) | [Home](https://goo.gl/maps/2Zj7maXqRmipogRA6) |
 | 15th | 14:30 | [Kilmington and Stourton](kilmington-and-stourton) | [Away](https://goo.gl/maps/2Zj7maXqRmipogRA6) |
 
 | September |  |  |  |
