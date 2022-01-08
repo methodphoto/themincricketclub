@@ -4,8 +4,8 @@ title: Stowting
 game: Stowting v The Min
 location: Stowting Common
 date: 03/06/2001
-report: The Min batted first and made 204 for 8 wkts. {{page.title}} replied with 208 for 9 wkts
-result: {{page.title}} won by 1 wkt
+report: The Min batted first and made 204 for 8 wkts. Stowting replied with 208 for 9 wkts
+result: Stowting won by 1 wkt
 parent: 2001 Fixtures
 ---
 
@@ -24,7 +24,7 @@ I Marshall's 7th five wkt haul for The Min
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | b | M Knowles | 8 |
-| **J Grant &#8224;;** | cb | R Smith | 52 |
+| **J Grant &#8224;** | cb | R Smith | 52 |
 | **R Earney** | c | C Ball | 4 |
 | **M Buzzacott** | c | R Smith | 50 |
 | **P Grant** | c | R Smith | 0 |

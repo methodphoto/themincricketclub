@@ -4,7 +4,7 @@ title: Watton-at-Stone
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 24/06/2001
-report: {{page.title}} batted first and made 157 for 7 wkts. The Min replied with 121 for 9 wkts, when time ran out
+report: Watton-at-Stone batted first and made 157 for 7 wkts. The Min replied with 121 for 9 wkts, when time ran out
 result: Match Drawn
 parent: 2001 Fixtures
 ---
