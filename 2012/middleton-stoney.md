@@ -19,7 +19,7 @@ Played at {{page.location}} on {{page.date}}
 
 R Earney's 43rd 50 for The Min. Partnership of 112 between M.Goff and R.Earney in 93 mins
 
-![The pot of Min gold]](middleton_stoney.jpg)
+![The pot of Min gold]](../middleton_stoney.jpg)
 
 *from our Cricket Correspondent*
 
@@ -27,12 +27,11 @@ The Min beat the weather to seal a surprisingly emphatic win against perenially 
 
 The day had begun in traditional style - with a withdrawal. But by way of variation it was an injury committed by a two-year-old, as opposed to a traffic warden (Kitson, 2008), an emotionally bereaved sibling (Kitson, 2009) or a chicken drumstick (Kitson, 2010). So for Mo the Min were grateful for Joe, a promising county 13 year old.
 
-After the shock of seeing 11 present for the start of a match The Min won the toss and took the field. Wiggy quickly slipped a full toss past one opener, while the skipper's crafty outswinger induced an edge inadvertently ending up in the Gut of Jel. Then as the bowlers continued to apply the pressure the stylish Stoney number 3 provided the pickled egg moment of the match with a skier to Slighty. The plucky taff circled underneath, collective breath was bated - but really there could only be one winner. Wiggy harrumphed, Will chortled, the culprit apologised.
+After the shock of seeing 11 present for the start of a match, The Min won the toss and took the field. Wiggy quickly slipped a full toss past one opener, while the skipper's crafty outswinger induced an edge inadvertently ending up in the Gut of Jel. Then as the bowlers continued to apply the pressure the stylish Stoney number 3 provided the pickled egg moment of the match with a skier to Slighty. The plucky taff circled underneath, collective breath was bated - but really there could only be one winner. Wiggy harrumphed, Will chortled, the culprit apologised.
 
 **The Only Way is Jel**
 
-And so it proved as the old maestro rolled around his arm for the 30th Min year and the Middleton Stoney middle order obliged like willing teenagers at their first disco, lying down and giving it up for The Man With No Complaints.
-A word here too for the Slippers and his perfectly baked deliveries.
+And so it proved as the old maestro rolled around his arm for the 30th Min year and the Middleton Stoney middle order obliged like willing teenagers at their first disco, lying down and giving it up for The Man With No Complaints. A word here too for the Slippers and his perfectly baked deliveries.
 
 114 looked a straightforward score, but as many darkly remarked Goffy had driven a ridiculous distance to get to the match. Surely he would be rewarded with a duck? Earn walloped, Goffy grafted and the Cassandras were silenced with a fabulous opening partnership of 112 - a masterful exhibition in testing conditions, and victory by 9 wickets.
 
