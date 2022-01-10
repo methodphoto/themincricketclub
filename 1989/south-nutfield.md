@@ -58,7 +58,7 @@ Played at {{page.location}} on {{page.date}}
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c Griffiths | Hughes | 9 | 
-| **J Grant &#8224;** | c Morrison | Finch | 420 | 
+| **J Grant &#8224;** | c Morrison | Finch | 42 | 
 | **D Jones** | c Smith | Winter | 0 | 
 | **R Earney** | c Holt | Hughes | 0 | 
 | **I Marshall** | b | Griffiths | 16 | 
