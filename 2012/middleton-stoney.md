@@ -19,7 +19,7 @@ Played at {{page.location}} on {{page.date}}
 
 R Earney's 43rd 50 for The Min. Partnership of 112 between M.Goff and R.Earney in 93 mins
 
-![The pot of Min gold]](../middleton_stoney.jpg)
+![The pot of Min gold]](/2012/middleton_stoney.jpg)
 
 *from our Cricket Correspondent*
 
