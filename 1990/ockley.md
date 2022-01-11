@@ -27,7 +27,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Scanlon** | b | A MacFarlane | 67 | 
 | **A Godby** | not out |  | 62 | 
 | **W Macguire** | not out |  | 0 | 
-| **Pavey &#8224;** | dnb |  |  |
+| **D Pavey &#8224;** | dnb |  |  |
 | **J Chambers** | dnb |  |  | 
 | **D Potts** | dnb |  |  |
 | **J Yerrell** | dnb |  |  | 
@@ -61,9 +61,9 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | b | J Yerrell | 0 | 
 | **I Marshall** | b | J Chambers | 20 | 
 | **W Calvert** | b | J Yerrell | 2 | 
-| **R Howcroft** | st Pavey  | J Chambers | 16 | 
+| **R Howcroft** | st D Pavey  | J Chambers | 16 | 
 | **A MacFarlane** | b | P Scanlon | 25 | 
-| **R Beswick &#42;** | st Pavey | P Scanlon | 21 | 
+| **R Beswick &#42;** | st D Pavey | P Scanlon | 21 | 
 | **M Gardiner** | b | J Chambers | 7 | 
 | **A Fielding** | b | P Scanlon | 8 | 
 | **D Young** | b | P Scanlon | 2 | 

@@ -61,7 +61,7 @@ Played at {{page.location}} on {{page.date}}
 | **W Calvert** | c & b | S Burgess | 10 |
 | **E Garland** | c A Tomes | S Arnold | 17 |
 | **G Powell** | b | A Tomes | 21 |
-| **A Haslam** | st Pavey | S Arnold | 22 |
+| **A Haslam** | b | S Arnold | 22 |
 | **A Rubie** | b | S Arnold | 11 |
 | **S Patel** | c S Burgess | S Arnold |08 |
 | **R Green** | b | Teague | 7 |

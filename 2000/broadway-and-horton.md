@@ -62,7 +62,7 @@ The Min regained the Ashes
 | **R Beswick &#42;** | lbw | M Merry | 2 |
 | **M Belfrage** | b | R Young | 0 |
 | **S Hornsby** | not out |  | 64 |
-| **P Grant** | st Pavey | Chambers | 22 |
+| **P Grant** | b | R Knight | 22 |
 | **W Calvert** | not out |  | 32 |
 | **I Marshall** | dnb |  |  |
 | **P Beswick** | dnb |  |  |

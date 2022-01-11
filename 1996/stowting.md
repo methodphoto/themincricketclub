@@ -27,7 +27,7 @@ Played at {{page.location}} on {{page.date}}
 | **W Calvert** | b | M Pugh | 27 |
 | **R Beswick** | c | A Hambi | 8 |
 | **A Gordon** | b | A Cozen | 7 |
-| **S Masterson** | st Pavey | Scanlon | 0 |
+| **S Masterson** | st D Pavey | Scanlon | 0 |
 | **J Stimfig** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **M Wright** | dnb |  |  |
