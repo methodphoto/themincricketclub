@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 14 | 2 | 39 | 2 |
 | **A Haslam** | 7 | 0 | 28 | 0 |
 | **G Powell** | 13 | 5 | 36 | 5 |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **M Cakebread** | 19 | 5 | 34 | 5 |
 | **T Ellis** | 9 | 3 | 27 | 2 |
 | **Harvey** | 13 | 1 | 31 | 1 |

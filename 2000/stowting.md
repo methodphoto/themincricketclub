@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **C Ball** | 10 | 5 | 13 | 0 |
 | **R Smith** | 6 | 2 | 26 | 2 |
 | **N Pugh** | 4 | 3 | 22 | 1 |
@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 8.2 | 6 | 4 | 1 |
 | **S Masterson** | 6 | 1 | 10 | 1 |
 | **R Green** | 5 | 2 | 11 | 2 |

@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **A Desarum** | 9.1 | 3 | 35 | 1 |
 | **I Marshall** | 12 | 7 | 14 | 0 |
 | **S Masterson** | 10 | 2 | 24 | 1 |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **Greenwood** | 7 | 2 | 23 | 0 |
 | **Kernick** | 9 | 3 | 14 | 3 |
 | **Teague** | 10 | 0 | 39 | 3 |

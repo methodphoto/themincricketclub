@@ -47,7 +47,7 @@ S Hornsby, 3rd century, highest score for the Min and club record. 144 partnersh
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **J Skipworth** | 4 | 2 | 20 | 0 |
 | **T Clarke** | 7 | 1 | 12 | 1 |
 | **Tulloch** | 6 | 2 | 25 | 0 |
@@ -85,7 +85,7 @@ S Hornsby, 3rd century, highest score for the Min and club record. 144 partnersh
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 8 | 1 | 42 | 1 |
 | **P O'Brien** | 4 | 0 | 24 | 0 |
 | **R Earney** | 7 | 0 | 57 | 1 |

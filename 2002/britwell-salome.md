@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Earney** | 14 | 5 | 41 | 3 |
 | **R Kitson** | 6 | 0 | 29 | 0 |
 | **J Wright** | 10 | 4 | 17 | 0 |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **E Dutton** | 7 | 2 | 21 | 0 |
 | **G Newall** | 5 | 0 | 35 | 0 |
 | **S Greenhalf** | 2 | 0 | 16 | 1 |

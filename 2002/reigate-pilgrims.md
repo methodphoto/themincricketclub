@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **S Greenwood** | 7 | 2 | 23 | 0 |
 | **P Teague** | 9 | 3 | 14 | 3 |
 | **N Buckland** | 10 | 0 | 39 | 3 |
@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 15 | 6 | 44 | 2 |
 | **N Putt** | 9 | 5 | 29 | 1 |
 | **E Garland** | 7 | 0 | 61 | 0 |

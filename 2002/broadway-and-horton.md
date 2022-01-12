@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Beswick** | 8 | 1 | 28 | 0 |
 | **R Earney** | 8 | 3 | 22 | 1 |
 | **W Calvert** | 8 | 0 | 42 | 3 |
@@ -80,7 +80,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **B Grafton** | 2 | 0 | 11 | 0 |
 | **J Bray** | 1 | 0 | 1 | 0 |
 

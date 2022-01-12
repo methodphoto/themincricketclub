@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **Lennox** | 8 | 1 | 22 | 1 |
 | **Roskrow** | 8 | 1 | 18 | 2 |
 | **Black** | 9.1 | 1 | 18 | 3 |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **S Larkin** | 8 | 3 | 18 | 1 |
 | **McCullen** | 6 | 0 | 21 | 0 |
 | **J Wright** | 5 | 1 | 20 | 0 |

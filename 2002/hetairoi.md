@@ -47,7 +47,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **K Robertson** | 8 | 1 | 22 |10 |
 | **B Slade** | 10 | 2 | 44 | 0 |
 | **S Matthews** | 4 | 0 | 22 | 1 |
@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 7 | 1 | 20 | 0 |
 | **C Allchorne** | 9 | 2 | 23 | 0 |
 | **E Garland** | 15 | 2 | 51 | 6 |

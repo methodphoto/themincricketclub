@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **A Parmenter** | 7 | 2 | 23 | 0 |
 | **S Easton** | 9 | 3 | 14 | 3 |
 
@@ -78,7 +78,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 
 ## Win/Loss Ratio
 

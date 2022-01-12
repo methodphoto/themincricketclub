@@ -47,7 +47,7 @@ R Earney's 2nd Century for The Min. Partnership of 151 between R Earney and R Be
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **T Clark** | 9 | 1 | 40 | 0 |
 | **G Durrell** | 4 | 0 | 20 | 0 |
 | **P White** | 6 | 0 | 40 | 0 |
@@ -84,7 +84,7 @@ R Earney's 2nd Century for The Min. Partnership of 151 between R Earney and R Be
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 11.5 | 2 | 31 | 2 |
 | **G Powell** | 5 | 2 | 18 | 0 |
 | **R Earney** | 7 | 1 | 41 | 1 |

@@ -290,8 +290,8 @@ parent: Results
 
 | 2003 |  |  |
 |:---|:---|:---|
-| {date} | [Ockley](../2003/ockley) | Drawn |
-| {date} | [Old Colfeians](../2003/old-colfeians) | Lost |
+| 11/05/2003 | [Ockley](../2003/ockley) | Drawn |
+| 18/05/2003 | [Old Colfeians](../2003/old-colfeians) | Lost |
 | {date} | [Ballinger Waggoners](../2003/ballinger-waggoners) | Drawn |
 | {date} | [Newdigate](../2003/newdigate) | Drawn |
 | {date} | [Watton-at-Stone](../2003/watton-at-stone) | Drawn |

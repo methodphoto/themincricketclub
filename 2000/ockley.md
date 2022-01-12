@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **S Smith** | 7 | 2 | 23 | 0 |
 | **Rogers** | 9 | 3 | 14 | 3 |
 | **C Smith** | 10 | 0 | 39 | 3 |
@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 8 | 4 | 6 | 0 |
 | **R Earney** | 10 | 1 | 30 | 1 |
 | **P O'Brien** | 4 | 0 | 18 | 0 |

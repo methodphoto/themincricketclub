@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **D Gould** | 5 | 0 | 9 | 0 |
 | **P Batstone** | 7 | 1 | 11 | 2 |
 | **D Ellis** | 5 | 0 | 14 | 0 |
@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Beswick** | 8 | 4 | 8 | 3 |
 | **J Wright** | 8 | 2 | 25 | 1 |
 | **R Earney** | 7 | 2 | 20 | 1 |

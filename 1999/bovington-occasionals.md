@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **Craig-Harvey** | 6.3 | 4 | 6 | 2 |
 | **Johnson** | 5 | 2 | 16 | 2 |
 | **Holden-Crawford** | 4 | 0 | 14 | 1 |
@@ -84,7 +84,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Beswick** | 8 | 3 | 19 | 2 |
 | **J Wright** | 12 | 0 | 46 | 2 |
 | **M Petre** | 1 | 0 | 7 | 0 |

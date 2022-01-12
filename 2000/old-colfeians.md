@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 14 | 5 | 20 | 0 |
 | **R Kitson** | 9 | 1 | 19 | 1 |
 | **R Beswick** | 11 | 3 | 20 | 4 |
@@ -80,7 +80,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Sheridan** | 12 | 4 | 25 | 2 |
 | **D Weston** | 9 | 4 | 17 | 1 |
 | **R Sharma** | 4 | 1 | 19 | 0 |

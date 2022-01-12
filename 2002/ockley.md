@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 11 | 2 | 21 | 1 |
 | **R Beswick** | 9 | 2 | 19 | 3 |
 | **N Claassen** | 7 | 1 | 15 | 1 |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **C Owen** | 7 | 3 | 12 | 1 |
 | **J Rogers** | 8 | 1 | 25 | 1 |
 | **P Cooper** | 4 | 0 | 18 | 1 |

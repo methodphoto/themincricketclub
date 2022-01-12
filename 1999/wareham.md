@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **T Clarke** | 13 | 7 | 34 | 2 |
 | **J Quinney** | 7 | 1 | 24 | 0 |
 | **R Newton** | 7 | 1 | 33 | 1 |
@@ -83,7 +83,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 14 | 4 | 31 | 6 |
 | **R Beswick** | 4 | 1 | 13 | 0 |
 | **J Wright** | 8 | 0 | 42 | 0 |

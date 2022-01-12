@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Hull** | 11 | 6 | 15 | 0 |
 | **R Harman** | 9 | 1 | 47 | 2 |
 | **Moore** | 5 | 0 | 20 | 0 |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **P O'Brien** | 9 | 1 | 36 | 3 |
 | **C Williams** | 4 | 3 | 3 | 0 |
 | **R Earney** | 11 | 3 | 32 | 4 |

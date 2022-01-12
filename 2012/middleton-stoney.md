@@ -66,7 +66,7 @@ Joint Min of the Match: Goffy and Earn. Honourable mention for Slighty who thoug
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **P Wigg** | 10 | 2 | 27 | 1 |
 | **R Beswick** | 8 | 2 | 33 | 1 |
 | **J Wright** | 9.3 | 1 | 24 | 4 |
@@ -99,7 +99,7 @@ Joint Min of the Match: Goffy and Earn. Honourable mention for Slighty who thoug
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **O Selway** | 6 | 1 | 17 | 0 |
 | **S Pettit** | 3 | 0 | 15 | 0 |
 | **R Moore** | 5 | 0 | 15 | 0 |

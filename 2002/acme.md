@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **Whiting** | 7 | 2 | 14 | 1 |
 | **Harvey** | 7 | 3 | 10 | 4 |
 | **M Tiny** | 1 | 0 | 1 | 0 |
@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Beswick** | 4 | 4 | 9 | 0 |
 | **R Earney** | 4 | 0 | 10 | 0 |
 | **R Green** | 6 | 0 | 35 | 2 |

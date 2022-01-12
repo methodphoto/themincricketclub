@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **V Davies** | 8 | 0 | 53 | 0 |
 | **C Lewis** | 8 | 0 | 24 | 3 |
 | **Bull** | 8 | 0 | 46 | 0 |
@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **P O'Brien** | 6 | 3 | 8 | 0 |
 | **J Statham** | 6 | 0 | 24 | 2 |
 | **E Garland** | 6 | 0 | 19 | 1 |

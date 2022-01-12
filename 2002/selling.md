@@ -47,7 +47,7 @@ R Earney second century in the season and fourth overall and his highest score f
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **A Woodbridge** | 8 | 3 | 19 | 0 |
 | **J Gower** | 5 | 0 | 28 | 0 |
 | **P West** | 9 | 0 | 45 | 1 |
@@ -83,7 +83,7 @@ R Earney second century in the season and fourth overall and his highest score f
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **P O'Brien** | 7 | 1 | 21 | 20 |
 | **R Beswick** | 10 | 1 | 37 | 2 |
 | **E Garland** | 11.4 | 1 | 64 | 4 |
