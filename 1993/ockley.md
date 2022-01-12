@@ -63,7 +63,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Woods** | b | S Hornsby | 21 |
 | **B Figg** | c R Earney | R Beswick | 5 | 
 | **Smith** | b | S Hornsby | 4 |
-| **Pavey** | not out |  | 1 | 
+| **D Pavey** | not out |  | 1 | 
 | **Hammon** | c A MacFarlane | S Hornsby | 1 | 
 | **J Chambers** | c D Ferguson | S Hornsby | 0 |
 | **Extras** | | (0b 0lb 0w 0nb) | 5 | 

@@ -27,7 +27,7 @@ Played at {{page.location}} on {{page.date}}
 | **Greenwood** | lbw | S Masterson | 16 |
 | **Teague** | c J Grant | R Green | 2 |
 | **Mitchell** | lbw | R Beswick | 14 |
-| **Batey** | run out |   | 6 |
+| **D Batey** | run out |   | 6 |
 | **Kernick** | run out |  | 1 |
 | **S Arnold** | not out |  | 5 |
 | **Forsyth** | dnb |  |  |

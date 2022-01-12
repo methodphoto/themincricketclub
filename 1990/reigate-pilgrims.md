@@ -31,7 +31,7 @@ Played at {{page.location}} on {{page.date}}
 | **Lent** | c M Hetherington | J Wright | 20 |
 | **Forsyth &#8224;** | c C Santer | A MacFarlane | 18 | 
 | **Pine** | b | A MacFarlane | 18 | 
-| **Batey** | not out |  | 8 |
+| **D Batey** | not out |  | 8 |
 | **Extras** | | (5b 8lb 3w 1nb) | 17 | 
 | **Total** | | (46 overs) | 152 all out | 
 
