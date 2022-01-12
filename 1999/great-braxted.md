@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **T Webb** | 14 | 2 | 45 | 2 |
 | **N Webb** | 6 | 2 | 23 | 3 |
 | **S Daly** | 6 | 0 | 31 | 1 |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 12 | 4 | 32 | 3 |
 | **S Larkin** | 5.1 | 1 | 21 | 0 |
 | **J Wallington** | 8 | 0 | 44 | 2 |

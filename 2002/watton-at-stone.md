@@ -17,6 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+R Earney's third century for The Min. Partnership of 158 between R Earney and R Kitson
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
@@ -45,7 +47,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **Trahar** | 8 | 1 | 40 | 1 |
 | **Hall** | 11 | 2 | 50 | 3 |
 | **T Ellis** | 7 | 0 | 56 | 0 |
@@ -80,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 17 | 2 | 52 | 2 |
 | **R Beswick** | 8 | 1 | 22 | 1 |
 | **R Earney** | 9 | 1 | 53 | 3 |

@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Hoeksema** | 5 | 1 | 11 | 0 |
 | **D de Ruyter** | 5 | 0 | 12 | 0 |
 | **J Dowsett** | 8 | 0 | 29 | 2 |
@@ -57,13 +57,13 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Hoeksema** | c | MacFarlane | 22 |
-| **D de Ruyter** | b | Marshall | 24 |
-| **J Dowsett** | b | MacFarlane | 67 |
-| **D Blake** | b | MacFarlane | 62 |
-| **M Woods** | b | MacFarlane | 0 |
-| **T Dasandi** | b | MacFarlane |  |
-| **Bell** | b | MacFarlane |  |
+| **R Hoeksema** | dnb |  |  |
+| **D de Ruyter** | dnb |  |  |
+| **J Dowsett** | dnb |  |  |
+| **D Blake** | dnb |  |  |
+| **M Woods** | dnb |  |  |
+| **T Dasandi** | dnb |  |  |
+| **Bell** | dnb |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 
 ## Win/Loss Ratio
 

@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 11 | 2 | 25 | 1 |
 | **A Desarum** | 12 | 1 | 47 | 2 |
 | **P O'Brien** | 7 | 1 | 22 | 0 |
@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **A Walter** | 15 | 2 | 31 | 1 |
 | **J Huntingford** | 6 | 0 | 44 | 0 |
 | **M Thorpe** | 6 | 0 | 25 | 0 |

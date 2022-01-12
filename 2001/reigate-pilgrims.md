@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **G Powell** | 13 | 3 | 48 | 0 |
 | **R Beswick** | 14 | 3 | 41 | 3 |
 | **R Green** | 12 | 0 | 56 | 2 |
@@ -79,7 +79,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **Prouting** | 6 | 0 | 35 | 0 |
 | **Teague** | 10 | 2 | 24 | 4 |
 | **S Burgess** | 5 | 1 | 14 | 1 |

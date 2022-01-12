@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Beswick** | 9 | 1 | 43 | 1 |
 | **R Earney** | 9 | 2 | 29 | 0 |
 | **R Green** | 9 | 0 | 59 | 0 |
@@ -80,7 +80,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Lyons** | 9 | 0 | 59 | 3 |
 | **D Goff** | 6 | 0 | 52 | 1 |
 | **S Homewood** | 8 | 1 | 61 | 0 |

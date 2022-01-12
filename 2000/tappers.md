@@ -47,7 +47,7 @@ Partnership of 116 between R Earney and R Beswick
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 10 | 6 | 9 | 0 |
 | **A Desaram** | 9 | 2 | 14 | 2 |
 | **C Allchorne** | 7 | 0 | 30 | 1 |
@@ -82,7 +82,7 @@ Partnership of 116 between R Earney and R Beswick
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Brittain** | 11 | 5 | 16 | 0 |
 | **S Speight** | 7 | 1 | 23 | 0 |
 | **A Pedrette** | 6 | 0 | 41 | 0 |

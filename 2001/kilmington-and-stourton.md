@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **J Gale** | 8 | 0 | 27 | 1 |
 | **T Cricell** | 8 | 0 | 41 | 0 |
 | **J Lapham** | 8 | 3 | 9 | 4 |
@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 4 | 1 | 6 | 0 |
 | **P O'Brien** | 8 | 2 | 24 | 1 |
 | **G Powell** | 8 | 2 | 33 | 0 |

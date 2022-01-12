@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **M Tulloch** | 7 | 1 | 12 | 4 |
 | **C Leak** | 6 | 1 | 20 | 0 |
 | **White** | 5 | 0 | 25 | 1 |
@@ -82,11 +82,11 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 14 | 4 | 32 | 1 |
 | **R Beswick** | 4 | 0 | 27 | 0 |
 | **G Powell** | 11 | 0 | 50 | 1 |
-| **J Wright** | 5 | 0 | 27 | 02|
+| **J Wright** | 5 | 0 | 27 | 2 |
 | **R Earney** | 3 | 0 | 18 | 1 |
 
 ## Win/Loss Ratio

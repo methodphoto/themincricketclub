@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **G Powell** | 12 | 3 | 34 | 1 |
 | **R Beswick** | 10 | 3 | 38 | 2 |
 | **R Green** | 12 | 1 | 46 | 2 |
@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **A Shafique** | 7 | 2 | 23 | 0 |
 | **Humes** | 9 | 3 | 14 | 3 |
 | **D Pye** | 10 | 0 | 39 | 3 |

@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 10 | 6 | 8 | 1 |
 | **G Powell** | 11 | 1 | 29 | 2 |
 | **R Earney** | 3 | 0 | 10 | 1 |
@@ -79,7 +79,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 
 
 ## Win/Loss Ratio

@@ -47,7 +47,7 @@ Broadway and Horton regained The Ashes
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 8 | 1 | 14 | 1 |
 | **J Wright** | 8 | 1 | 28 | 1 |
 | **P O'Mahony** | 8 | 2 | 29 | 1 |
@@ -83,7 +83,7 @@ Broadway and Horton regained The Ashes
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **S Pratt** | 6 | 2 | 5 | 1 |
 | **R Harvey** | 8 | 5 | 9 | 3 |
 | **J Allen** | 8 | 2 | 27 | 1 |

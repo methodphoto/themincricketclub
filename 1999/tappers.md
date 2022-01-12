@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Neate** | 5 | 1 | 16 | 0 |
 | **J Fleetwood** | 11 | 5 | 15 | 0 |
 | **R Brittain** | 11 | 5 | 12 | 4 |
@@ -80,7 +80,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 14 | 3 | 44 | 2 |
 | **S Larkin** | 12.3 | 6 | 13 | 4 |
 | **R Beswick** | 6 | 0 | 28 | 0 |

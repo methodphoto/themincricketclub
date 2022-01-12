@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **G Powell** | 9 | 0 | 35 | 2 |
 | **P O'Brien** | 5 | 0 | 46 | 1 |
 | **R Green** | 11 | 0 | 43 | 3 |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **Taylor** | 8 | 0 | 37 | 1 |
 | **Roskrow** | 12 | 3 | 18 | 2 |
 | **Akhurst** | 10.5 | 2 | 38 | 5 |

@@ -47,7 +47,7 @@ The Min regained the Ashes
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 8 | 2 | 33 | 0 |
 | **J Wright** | 8 | 2 | 30 | 1 |
 | **R Beswick** | 8 | 6 | 13 | 4 |
@@ -82,7 +82,7 @@ The Min regained the Ashes
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Young** | 7.4 | 1 | 29 | 1 |
 | **M Merry** | 8 | 0 | 31 | 2 |
 | **J Hooper** | 5 | 1 | 21 | 0 |

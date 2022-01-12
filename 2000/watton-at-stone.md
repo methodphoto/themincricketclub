@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 11 | 7 | 10 | 1 |
 | **A Desaram** | 13 | 6 | 24 | 2 |
 | **R Green** | 11 | 2 | 37 | 1 |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **B Welch** | 8 | 1 | 38 | 0 |
 | **C Harvey** | 7 | 0 | 37 | 0 |
 | **T Ellis** | 6.3 | 1 | 35 | 0 |

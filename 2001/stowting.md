@@ -47,7 +47,7 @@ I Marshall's 7th five wkt haul for The Min
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **C Ball** | 9 | 1 | 30 | 1 |
 | **M Knowles** | 9 | 1 | 49 | 1 |
 | **R Smith** | 13 | 1 | 62 | 4 |
@@ -82,7 +82,7 @@ I Marshall's 7th five wkt haul for The Min
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 15 | 6 | 45 | 5 |
 | **G Powell** | 6 | 0 | 33 | 1 |
 | **R Earney** | 5 | 0 | 39 | 0 |

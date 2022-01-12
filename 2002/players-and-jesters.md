@@ -24,7 +24,7 @@ Played at {{page.location}} on {{page.date}}
 | **Simpson** | lbw | R Beswick | 7 |
 | **Cox** | lbw | R Earney | 27 |
 | **Josephs** | run out |  | 52 |
-| **Ackhurst** | c | R Earney | 221 |
+| **Ackhurst** | c | R Earney | 21 |
 | **Sayers** | b | R Beswick | 47 |
 | **Baines** | b | R Beswick  | 12 |
 | **Mason** | not out |  | 11 |
@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **R Beswick** | 16 | 3 | 52 | 3 |
 | **R Earney** | 13 | 3 | 48 | 2 |
 | **D Ward** | 7 | 0 | 42 | 0 |
@@ -80,7 +80,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **Fielder** | 9.4 | 2 | 23 | 4 |
 | **Ackhurst** | 12 | 2 | 26 | 1 |
 | **Taylor** | 9 | 2 | 29 | 0 |

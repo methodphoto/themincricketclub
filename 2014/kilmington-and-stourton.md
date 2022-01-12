@@ -47,7 +47,7 @@ Partnership of 115 between R Beswick and R Earney
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **P Wigg** | 8 | 2 | 55 | 1 |
 | **T Rutherford** | 3 | 0 | 24 | 0 |
 | **R Earney** | 2 | 0 | 23 | 0 |
@@ -85,7 +85,7 @@ Partnership of 115 between R Beswick and R Earney
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **D Gould** | 4 | 0 | 21 | 0 |
 | **S Snook** | 8 | 1 | 36 | 1 |
 | **M Knight** | 5 | 0 | 45 | 0 |

@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **G Powell** | 8 | 1 | 18 | 1 |
 | **R Beswick** | 8 | 4 | 22 | 1 |
 | **W Calvert** | 5 | 0 | 29 | 3 |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **D de Caires** | 8 | 4 | 7 | 1 |
 | **S Masterson** | 7.4 | 3 | 20 | 3 |
 | **E Clayman** | 8 | 1 | 37 | 2 |

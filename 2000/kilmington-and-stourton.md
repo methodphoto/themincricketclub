@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **J Lapham** | 12 | 2 | 74 | 0 |
 | **J Gayle** | 13 | 1 | 49 | 3 |
 | **N Ward** | 6 | 0 | 29 | 2 |
@@ -80,7 +80,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **P O'Brien** | 6 | 0 | 31 | 2 |
 | **P Beswick** | 6 | 0 | 40 | 0 |
 | **J Wright** | 10 | 1 | 34 | 4 |

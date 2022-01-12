@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **G Powell** | 8 | 1 | 20 | 2 |
 | **W Calvert** | 4 | 0 | 20 | 0 |
 | **J Wright** | 8 | 0 | 19 | 1 |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **M Cowan** | 8 | 3 | 20 | 1 |
 | **R Young** | 8 | 4 | 15 | 1 |
 | **R Baigent** | 2 | 0 | 27 | 0 |

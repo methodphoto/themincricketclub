@@ -47,7 +47,7 @@ R Green, second 5 wkt haul for The Min
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **M Roberts** | 11 | 4 | 31 | 2 |
 | **R Neate** | 6 | 2 | 18 | 0 |
 | **MacDowell** | 5 | 1 | 33 | 2 |
@@ -82,7 +82,7 @@ R Green, second 5 wkt haul for The Min
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 12 | 4 | 32 | 3 |
 | **C Allchorne** | 5 | 1 | 17 | 0 |
 | **R Green** | 13 | 2 | 52 | 5 |

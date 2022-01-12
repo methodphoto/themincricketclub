@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 11 | 1 | 59 | 2 |
 | **R Beswick** | 10 | 1 | 51 | 0 |
 | **J Wright** | 7 | 1 | 30 | 1 |
@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **Nicol** | 7 | 0 | 36 | 2 |
 | **Harris** | 7 | 3 | 14 | 0 |
 | **Tappenden** | 6 | 1 | 35 | 1 |

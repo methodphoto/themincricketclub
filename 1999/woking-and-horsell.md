@@ -47,7 +47,7 @@ M Petre highest score for The Min
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **C Guest** | 5 | 1 | 23 | 1 |
 | **R Shelley** | 8 | 2 | 26 | 1 |
 | **U Zafar** | 4.5 | 0 | 33 | 0 |
@@ -84,7 +84,7 @@ M Petre highest score for The Min
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **P O'Mahony** | 8 | 2 | 16 | 0 |
 | **P 0'Brien** | 5 | 0 | 14 | 1 |
 | **J Wright** | 6 | 1 | 8 | 1 |

@@ -47,7 +47,7 @@ P O'Mahony's best bowling for The Min
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **P O'Mahony** | 5 | 2 | 9 | 4 |
 | **R Beswick** | 5 | 1 | 7 | 0 |
 | **R Green** | 8 | 1 | 20 | 4 |
@@ -81,7 +81,7 @@ P O'Mahony's best bowling for The Min
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **Lovard** | 6 | 1 | 15 | 3 |
 | **Strange** | 10 | 3 | 24 | 2 |
 | **Gower** | 4 | 0 | 21 | 0 |

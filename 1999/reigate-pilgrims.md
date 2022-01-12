@@ -45,7 +45,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 11 | 4 | 23 | 2 |
 | **P O'Brien** | 5 | 0 | 30 | 0 |
 | **R Earney** | 8 | 0 | 52 | 0 |
@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **Ford** | 8 | 4 | 18 | 0 |
 | **Burnside** | 5 | 0 | 5 | 3 |
 | **Tomes** | 9 | 0 | 43 | 3 |

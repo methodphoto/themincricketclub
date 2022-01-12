@@ -47,7 +47,7 @@ P Grant first 50 for The Min. R Green best bowling for The Min
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **D Foster** | 10 | 3 | 32 | 0 |
 | **J Larbey** | 6 | 1 | 33 | 1 |
 | **A Patten** | 6 | 0 | 27 | 0 |
@@ -85,7 +85,7 @@ P Grant first 50 for The Min. R Green best bowling for The Min
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **P O'Brien** | 4 | 0 | 11 | 1 |
 | **R Green** | 12 | 2 | 47 | 6 |
 | **J Wright** | 5 | 0 | 22 | 1 |

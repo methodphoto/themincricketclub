@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **I Marshall** | 7 | 3 | 11 | 0 |
 | **J Wallington** | 7 | 1 | 35 | 0 |
 | **E Garland** | 6 | 0 | 35 | 1 |
@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **B Slade** | 10 | 2 | 16 | 2 |
 | **P Mukherjee** | 6 | 1 | 25 | 1 |
 | **R Franklin** | 6 | 2 | 12 | 3 |

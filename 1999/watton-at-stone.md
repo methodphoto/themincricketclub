@@ -47,7 +47,7 @@ E Garland highest score for The Min
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **P O'Mahony** | 8 | 1 | 50 | 5 |
 | **I Marshall** | 14 | 4 | 37 | 2 |
 | **P O'Brien** | 6 | 0 | 30 | 1 |
@@ -83,7 +83,7 @@ E Garland highest score for The Min
 ## Bowling
 
 | | O | M | R | W |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | **W Welch** | 5 | 1 | 21 | 0 |
 | **T Ellis** | 13 | 2 | 40 | 2 |
 | **Hall** | 14 | 1 | 89 | 1 |
