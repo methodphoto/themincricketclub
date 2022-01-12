@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Brook Innings
+## {{page.game}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -2,7 +2,7 @@
 layout: default
 title: Players and Jesters
 game: Players and Jesters v The Min
-location: Rothamstead Park
+location: Rothamsted Park
 date: 18/05/1997
 report: Players and Jesters batted first and made 170 for 9 wkts. The Min replied with 91 all out
 result: Players and Jesters won by 79 runs

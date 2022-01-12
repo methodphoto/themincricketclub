@@ -4,7 +4,7 @@ title: Players and Jesters
 game: Players and Jesters v The Min
 location: Rothampstead Park
 date: 19/05/2002
-report: Players and Jesters batted first and made 190 for 6 wkts. The Min replied with 103 for 8 wkts (all out)
+report: Players and Jesters batted first and made 190 for 6 wkts. The Min replied with 103 for 8 wkts (all out) with 2 balls left
 result: Players and Jesters won by 87 runs
 parent: 2002 Fixtures
 ---
@@ -21,71 +21,71 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Smith** | c | MacFarlane | 22 |
-| **Cowles** | b | Marshall | 24 |
-| **Scanlon** | b | MacFarlane | 67 |
-| **Godby** | b | MacFarlane | 62 |
-| **Macguire** | b | MacFarlane | 0 |
-| **Pavey** | b | MacFarlane |  |
-| **Chambers** | b | MacFarlane |  |
-| **Potts** | b | MacFarlane |  |
-| **Yerrell** | b | MacFarlane |  |
-| **Scanlon** | b | MacFarlane |  |
-| **Scanlon** | b | MacFarlane |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
+| **Simpson** | lbw | R Beswick | 7 |
+| **Cox** | lbw | R Earney | 27 |
+| **Josephs** | run out |  | 52 |
+| **Ackhurst** | c | R Earney | 221 |
+| **Sayers** | b | R Beswick | 47 |
+| **Baines** | b | R Beswick  | 12 |
+| **Mason** | not out |  | 11 |
+| **Broad** | not out |   | 3 |
+| **Fielder** | dnb |  |  |
+| **Taylor** | dnb |  |  |
+| **Scanlon** | dnb |  |  |
+| **Extras** | | (0b 0lb 2w 0nb) | 2 |
 | **Total** | | (46 overs) | 190 for 6 wkts |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 24 | 36 | 62 | **166** | 166 | 181 |  |  |  |  |
+| **Batsman** | 1 | 2 | 4 | 3 | 5 | 6 |  |  |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
-| **Marshall** | 16 | 4 | 41 | 2 |
-| **Marshall** | 13 | 2 | 46 | 1 |
-| **Wright** | 6 | 0 | 36 | 0 |
-| **Beswick** | 7 | 1 | 34 | 0 |
-| **Howcroft** | 4 | 0 | 25 | 0 |
+| **R Beswick** | 16 | 3 | 52 | 3 |
+| **R Earney** | 13 | 3 | 48 | 2 |
+| **D Ward** | 7 | 0 | 42 | 0 |
+| **R Coyle** | 3 | 0 | 18 | 0 |
+| **S Hornsby** | 6 | 0 | 25 | 0 |
 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Earney** | c & b | Yerrell | 2 |
-| **Grant &#8224;** | b | Yerrell | 0 |
-| **Marshall** | b | Chambers | 20 |
-| **Calvert** | b | Yerrell | 2 |
-| **Howcroft** | st Pavey | Chambers | 16 |
-| **MacFarlane** | b | Scanlon | 25 |
-| **Beswick &#42;** | st Pavey | Scanlon | 21 |
-| **Gardiner** | b | Chambers | 7 |
-| **Fielding** | b | Scanlon | 8 |
-| **Young** | b | Scanlon | 2 |
-| **Wright** | not out |  | 0 |
-| **Extras** | | (9b 2lb 4w 0nb) | 15 |
-| **Total** | | (33.5 overs) | 103 for 8 wkts (all out |
+| **R Earney** | c | Fielder | 71 |
+| **D Ward** | b | Fielder | 4 |
+| **A Slight** | c | Fielder | 0 |
+| **K Barratt** | b | Ackhurst | 0 |
+| **S Hornsby** | b | Fielder | 0 |
+| **R Beswick &#42;** | b | Sayers | 11 |
+| **E Garland** | lbw | Sayers | 0 |
+| **R Coyle** | run out |  | 1 |
+| **B Ford** | not out |  | 0 |
+|  |  |  |  |
+|  |  |  |  |
+| **Extras** | | (13b 2lb 1w 0nb) | 16 |
+| **Total** | | (37.4 overs) | 103 for 8 wkts (all out |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 17 | 17 | 20 | 23 |  |  |  | 103 |  |  |
+| **Batsman** | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 1 |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **Fielder** | 9.4 | 2 | 23 | 4 |
+| **Ackhurst** | 12 | 2 | 26 | 1 |
+| **Taylor** | 9 | 2 | 29 | 0 |
+| **Sayers** | 6 | 0 | 9 | 2 |
+| **Josephs** | 1 | 0 | 1 | 0 |
 
 ## Win/Loss Ratio
 
