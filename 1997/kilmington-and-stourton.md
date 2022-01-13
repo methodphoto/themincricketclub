@@ -84,6 +84,7 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
+| |  |  |  |  |
 
 ## Win/Loss Ratio
 

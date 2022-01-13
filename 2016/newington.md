@@ -122,34 +122,34 @@ Bat
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-
-B.Glenn81182
-J.Ainsley81262
-C.Carter40310
-R.Wheeler30220
-D.Overbury80523
-M.Parsons30130
-J.Sinden1.30190
+| B Glenn | 8 | 1 | 18 | 2 |
+| J Ainsley | 8 | 1 | 26 | 2 |
+| C Carter | 4 | 0 | 31 | 0 |
+| R Wheeler | 3 | 0 | 22 | 0 |
+| D Overbury | 8 | 0 | 52 | 3 |
+| M Parsons | 3 | 0 | 13 | 0 |
+| J Sinden | 1.3 | 0 | 19 | 0 |
 
 
 ### The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-
-R.Beswick *c Keeper b Ainsley0
-R.Earneyc sq leg b Glenn3
-M.Guptab Glenn6
-M.Bowermannot out84
-S.Pitcherlbw D.Overbury47
-S.Mohammed10
-S.Ahmedb D.Overbury8
-W.Calvertb D.Overbury2
-I Miahnot out10
-I.Marshalldid not bat
-J.Wrightdid not bat
+| R Beswick &#42; | c Keeper | Ainsley | 0 |
+| R Earney | c | Glenn  | 3 |
+| M Gupta | b | Glenn | 6 |
+| M Bowerman | not out |  | 84 |
+| S Pitcher | lbw | D Overbury | 47 |
+| S Mohammed | 10 |
+| S Ahmed | b | D Overbury | 8 |
+| W Calvert | b | D Overbury | 2 |
+| I Miah | not out | 10 |
+| I Marshall | dnb |  |  |
+| J Wright | dnb |  |  |
 Extras(9b 5lb 9w 2nb)17
 Total(35.3 overs)194 for 7 wkts
+
+
 Fall of Wickets
 Wkt12345678910
 Score3518106130151161

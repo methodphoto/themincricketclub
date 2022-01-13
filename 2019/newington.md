@@ -82,7 +82,6 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-
 | **L Morgan** | 7 | 0 | 30 | 2 |
 | **D Ward** | 7 | 1 | 21 | 0 |
 | **R Joshi** | 4 | 0 | 41 | 0 |
