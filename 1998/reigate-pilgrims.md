@@ -84,6 +84,7 @@ N Bezodis, sixfer on debut
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | |  |  |  |  |
+
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
