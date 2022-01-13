@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Hawkins** | dnb |  |  | 
 | **Skitchell** | dnb |  |  |
 | **Extras** | | (9b 1lb 6w 0nb) | 10 | 
-| **Total** | | (42 overs) | 278 for 6 wkts | 
+| **Total** | | (42 overs) | **278 for 6 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | not out |  | 0 | 
 | **A Sylvester** | b | A Connell | 0 | 
 | **Extras** | | (5b 1lb 0w 0nb) | 6 | 
-| **Total** | | (49.3 overs) | 131 all out | 
+| **Total** | | (49.3 overs) | **131 all out** | 
 
 ## Fall of Wickets
 

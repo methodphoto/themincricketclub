@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Cranston** | dnb |  |  |
 | **S Lee** | dnb |  |  |
 | **Extras** | | (6b 4lb 2w 0nb) | 4 | 
-| **Total** | | (39.5 overs) | 119 for 7 wkts | 
+| **Total** | | (39.5 overs) | **119 for 7 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Miah** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (27b 8lb 0w 0nb) | 3 | 
-| **Total** | | (42 overs) | 121 for 5 wkts | 
+| **Total** | | (42 overs) | **121 for 5 wkts** | 
 
 ## Fall of Wickets
 

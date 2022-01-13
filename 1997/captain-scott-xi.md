@@ -35,7 +35,7 @@ Partnership  of 102 between J Grant and P Sayer
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (8b 5lb 5w 0nb) | 15 |
-| **Total** | | (32 overs) | 172 for 5 wkts |
+| **Total** | | (32 overs) | **172 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ Partnership  of 102 between J Grant and P Sayer
 | **Russoff &#8224;** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 0lb 1w 0nb) | 1 |
-| **Total** | | (39 overs) | 75 for 6 wkts |
+| **Total** | | (39 overs) | **75 for 6 wkts** |
 
 ## Fall of Wickets
 

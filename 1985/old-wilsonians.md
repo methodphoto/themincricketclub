@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Wells** | not out |  | 6 | 
 | **Batey** | c & b | Barrowclough | 1 | 
 | **Extras** | | (0b 0lb 0w 0nb) | 18 | 
-| **Total** | | (29.5 overs) | 94 all out | 
+| **Total** | | (29.5 overs) | **94 all out** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Sylvester** | dnb |  |  | 
 | **J Wright** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 12 | 
-| **Total** | | (42 overs) | 95 for 4 wkts | 
+| **Total** | | (42 overs) | **95 for 4 wkts** | 
 
 ## Fall of Wickets
 

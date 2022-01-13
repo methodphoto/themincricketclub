@@ -3,9 +3,9 @@ layout: default
 title: Stowting
 game: Stowting v The Min
 location: Stowting Common
-date: 
-report: 
-result: 
+date: 06/07/2003
+report: The Min batted first and made 191 for 9 wkts. Stowting replied with 136 for 8 wkts when time ran out
+result: Match Drawn
 parent: 2003 Fixtures
 ---
 
@@ -23,74 +23,76 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | b | Yerrell | 2 |
-| **I Marshall** | b | Yerrell | 0 |
-| **J Smith** | b | Chambers | 20 |
-| **D Ward** | b | Yerrell | 2 |
-| **J Grant &#8224;** | b | Chambers | 16 |
-| **R Coyle** | b | Scanlon | 25 |
-| **A Slight** | b | Scanlon | 21 |
-| **R Beswick &#42;** | b | Chambers | 7 |
-| **H Ingham** | b | Scanlon | 8 |
-| **G Powell** | b | Scanlon | 2 |
+| **R Earney** | b | A Harrison | 67 |
+| **I Marshall** | st | A Harrison | 37 |
+| **J Smith** | c | D Bland | 12 |
+| **D Ward** | b | D Bland | 2 |
+| **J Grant &#8224;** | c | A Harrison | 17 |
+| **R Coyle** | c | A Harrison | 0 |
+| **A Slight** | run out |  | 4 |
+| **R Beswick &#42;** | run out |  | 21 |
+| **H Ingham** | not out |  | 12 |
+| **G Powell** | run out |  | 1 |
 | **J Wright** | not out |  | 0 |
-| **Extras** | | (9b 2lb 4w 0nb) | 15 |
-| **Total** | | (33.5 overs) | 118 all out |
+| **Extras** | | (7b 6lb 5w 0nb) | 18 |
+| **Total** | | (47 overs) | **191 for 9 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 94 | 123 | 129 | 135 | 144 | 151 | 176 | 177 | 181 |  |
+| **Batsman** | 2 | 1 | 3 | 4 | 6 | 5 | 7 | 8 | 10 |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **D Bland** | 15 | 5 | 54 | 2 |
+| **S Jackson** | 7 | 1 | 16 | 0 |
+| **A Parmenter** | 6 | 1 | 36 | 0 |
+| **M Medhurst** | 7 | 2 | 27 |01 |
+| **A Harrison** | 9 | 4 | 23 | 4 |
+| **M Jackson** | 3 | 1 | 22 | 0 |
 
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Smith** | b | Marshall | 22 |
-| **Cowles** | b | Marshall | 24 |
-| **Scanlon** | b | Marshall | 67 |
-| **Godby** | b | Marshall | 62 |
-| **Macguire** | b | Marshall | 0 |
-| **Pavey** | b | Marshall  |  |
-| **Chambers** | b | Marshall |  |
-| **Potts** | b | Marshall |  |
-| **Yerrell** | b | Marshall |  |
-| **Scanlon** | dnb |  |  |
-| **Scanlon** | dnb |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (46 overs) | 195 for 3 wkts |
+| **D Jackson** | b | G Powell | 20 |
+| **M Medhurst** | b | H Ingham | 16 |
+| **C Ball** | b | J Wright | 22 |
+| **J Bull** | b | J Wright | 17 |
+| **A Parmenter** | b | J Wright | 9 |
+| **I Bull** | b | J Wright  | 14 |
+| **D Bland** | c | J Wright | 0 |
+| **A Harrison** | c J Grant | J Smith | 21 |
+| **P Camine** | not out |  | 1 |
+| **S Jackson** | not out |  | 1 |
+| **M Jackson** | dnb |  |  |
+| **Extras** | | (5b 7lb 4w 1nb) | 17 |
+| **Total** | | (43 overs) | **136 for 8 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 26 | 44 | 82 | 90 | 95 | 100 | 121 | 131 |  |  |
+| **Batsman** | 2 | 1 | 3 | 4 | 5 | 7 | 6 | 8 |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **MacFarlane** | 16 | 4 | 41 | 2 |
-| **Marshall** | 13 | 2 | 46 | 1 |
-| **Wright** | 6 | 0 | 36 | 0 |
-| **Beswick** | 7 | 1 | 34 | 0 |
-| **Howcroft** | 4 | 0 | 25 | 0 |
+| **G Powell** | 9 | 1 | 36 | 1 |
+| **H Ingham** | 13 | 4 | 31 | 1 |
+| **J Wright** | 12 | 4 | 24 | 5 |
+| **I Marshall** | 5 | 3 | 5 | 0 |
+| **J Smith** | 4 | 0 | 30 | 1 |
+| **R Earney** | 1 | 1 | 0 | 0 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 0 | 1 | 4 | 0 |
+| 0 | 1 | 5 | 0 |

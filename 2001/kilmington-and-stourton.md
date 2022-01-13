@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | dnb |  |  |
 | **P O'Brien** | dnb |  |  |
 | **Extras** | | (12b 4lb 16w 1nb) | 43 |
-| **Total** | | (40 overs) | 192 for 6 wkts |
+| **Total** | | (40 overs) | **192 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Lapham** | not out |  | 4 |
 | **A Leigh** | b | E Garland |1  |
 | **Extras** | | (6b 4lb 7w 1nb) | 18 |
-| **Total** | | (32 overs) | 130 all out |
+| **Total** | | (32 overs) | **130 all out** |
 
 ## Fall of Wickets
 

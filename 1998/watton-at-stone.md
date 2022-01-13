@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Cakebread** | b | S Masterson | 1 |
 | **R Clayton** | not out |  | 9 |
 | **Extras** | | 9b 5lb 9w 0nb) | 23 |
-| **Total** | | (48 overs) | 150 for 9 wkts |
+| **Total** | | (48 overs) | **150 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Masterson** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (4b 2lb 1w 0nb) | 7 |
-| **Total** | | (39.5 overs) | 151 for 4 wkts |
+| **Total** | | (39.5 overs) | **151 for 4 wkts** |
 
 ## Fall of Wickets
 

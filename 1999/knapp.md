@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Cunningham** | not out |  | 0 |
 |  |  |  |  |
 | **Extras** | | (7b 0lb 1w 1nb) | 9 |
-| **Total** | | (31.5 overs) | 106 for 9 wkts (all out) |
+| **Total** | | (31.5 overs) | **106 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Hollow** | dnb |  |  |
 | **Scanlon** | dnb |  |  |
 | **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (46 overs) | 107 for 8 wkts |
+| **Total** | | (46 overs) | **107 for 8 wkts** |
 
 ## Fall of Wickets
 

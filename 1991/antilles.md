@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  | 
 | **Extras** | | (9b 4lb 2w 1nb) | 16 | 
-| **Total** | | (40 overs) | 143 for 8 wkts | 
+| **Total** | | (40 overs) | **143 for 8 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (7b 3lb 5w 0nb) | 15 | 
-| **Total** | | (28.5 overs) | 144 for 4 wkts | 
+| **Total** | | (28.5 overs) | **144 for 4 wkts** | 
 
 ## Fall of Wickets
 

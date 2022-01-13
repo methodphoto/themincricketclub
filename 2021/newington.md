@@ -35,7 +35,7 @@ Jim Carroll, first 50 and highest score for The Min
 | **L Morgan &#42;** | not out |  | 0 | 
 | **B Glenn** | absent |  |  | 
 | **Extras** | | (2b 4lb 8w 1nb) | **15** | 
-| **Total** | | (35.4 overs) | **126 for 9 wkts (all out)** | 
+| **Total** | | (35.4 overs) | ****126 for 9 wkts (all out)**** | 
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Jim Carroll, first 50 and highest score for The Min
 | **C Wright** | dnb |  |  |  
 | ** ** | not out |  | 0 | 
 | **Extras** | | (11b 0lb 4w 4nb) | **19** | 
-| **Total** | | (29.5 overs) | **127 for 5 wkts** |
+| **Total** | | (29.5 overs) | ****127 for 5 wkts**** |
 
 ## Fall of Wickets
 

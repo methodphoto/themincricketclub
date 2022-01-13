@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Smith** | not out |  | 3 |
 | **M Osbourne** | dnb |  |  |
 | **Extras** | | (0b 2lb 3w 0nb) | 5 |
-| **Total** | | (46 overs) | 144 for 8 wkts |
+| **Total** | | (46 overs) | **144 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | b | Scanlon | 0 |
 | **J Wright** | not out |  | 0 |
 | **Extras** | | (6b 6lb 6w 0nb) | 18 |
-| **Total** | | (36.1 overs) | 119 all out |
+| **Total** | | (36.1 overs) | **119 all out** |
 
 ## Fall of Wickets
 

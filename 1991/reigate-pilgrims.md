@@ -35,7 +35,7 @@ Played at {{page.location}} on {{page.date}}
 | **Wise** | dnb |  |  | 
 | **Long** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 9 | 
-| **Total** | | (36 overs) | 224 for 7 wkts | 
+| **Total** | | (36 overs) | **224 for 7 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | lbw | Arnold | 1 | 
 | **J McIntosh** | not out |  | 1 | 
 | **Extras** | | (0b 1lb 1w 0nb) | 2 | 
-| **Total** | | (45.4 overs) | 225 for 9 wkts | 
+| **Total** | | (45.4 overs) | **225 for 9 wkts** | 
 
 ## Fall of Wickets
 

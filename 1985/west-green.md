@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Doeh** | dnb |  |  | 
 | **Gordon** | dnb |  |  | 
 | **Extras** | | (0b 0lb 0w 0nb) | 16 | 
-| **Total** | | (45 overs) | 130 for 6 wkts | 
+| **Total** | | (45 overs) | **130 for 6 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | lbw | M Harvey | 0 | 
 | **J Wright** | b | M Harvey | 5 | 
 | **Extras** | | (1b 1lb 2w 0nb) | 4 | 
-| **Total** | | (27.3 overs) | 89 all out | 
+| **Total** | | (27.3 overs) | **89 all out** | 
 
 ## Fall of Wickets
 

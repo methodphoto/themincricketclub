@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **S McGuichian** | b | Parkinson | 0 | 
 |  |  |  |  | 
 | **Extras** | | (0b 0lb 0w 0nb) | 10 | 
-| **Total** | | (32 overs) | 69 all out | 
+| **Total** | | (32 overs) | **69 all out** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  | 
 |  |  |  |  | 
 | **Extras** | | (0b 0lb 0w 0nb) | 7 | 
-| **Total** | | (26.1 overs) | 72 for 5 wkts | 
+| **Total** | | (26.1 overs) | **72 for 5 wkts** | 
 
 ## Fall of Wickets
 

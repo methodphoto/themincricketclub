@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  | 
 | **Extras** | | (11b 7lb 10w 1nb) | 29 | 
-| **Total** | | (40 overs) | 248 for 7 wkts | 
+| **Total** | | (40 overs) | **248 for 7 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **White** | b | R Beswick | 0 | 
 | **Pearce** | not out |  | 2 |
 | **Extras** | | (9b 4lb 12w 1nb) | 26 | 
-| **Total** | | (38.2 overs) | 206 all out | 
+| **Total** | | (38.2 overs) | **206 all out** | 
 
 ## Fall of Wickets
 

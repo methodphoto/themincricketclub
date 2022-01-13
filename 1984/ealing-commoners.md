@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Sylvester** | dnb |  | | 
 | **M Kirwan** | dnb | |  | 
 | **Extras** | | (1b 1lb 4w 0nb) | 6 | 
-| **Total** | | (40 overs) | 137 for 7 wkts | 
+| **Total** | | (40 overs) | **137 for 7 wkts** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **Thornton** | dnb | | 2 | 
 | **Phillipson** | dnb | | 0 | 
 | **Extras** | | (3b 1lb 2w 0nb) | 6 | 
-| **Total** | | (42 overs) | 72 for 6 wkts | 
+| **Total** | | (42 overs) | **72 for 6 wkts** | 
 
 ## Fall of Wickets
 

@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Milne** |  |  |  |
 |  |  |  |  |
 | **Extras** | | (10b 0lb 1w 0nb) | 11 |
-| **Total** | | (46 overs) | 195 for 3 wkts |
+| **Total** | | (46 overs) | **195 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (1b 3lb 0w 0nb) | 4 |
-| **Total** | | (41 overs) | 133 for 7 wkts |
+| **Total** | | (41 overs) | **133 for 7 wkts** |
 
 ## Fall of Wickets
 

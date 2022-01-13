@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Seed** | lbw | M Kirwan | 5 | |
 | **K Rush** | b | M Kirwan | 1 | |
 | **Extras** | | (11b 2lb 8w 4nb) | 25 | |
-| **Total** | | (34.2 overs) | 175 all out | |
+| **Total** | | (34.2 overs) | **175 all out |** |
 
 
 ## Fall of Wickets
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Kirwan** | b | E Pratchett | 11 | |
 | **A Sylvester** | not out| | 4 | |
 | **Extras** | | (8b 1lb 3w 0nb)| 12 | |
-| **Total** | | (34.5 overs) | 82 all out| |
+| **Total** | | (34.5 overs) | **82 all out|** |
 
 ## Fall of Wickets
 

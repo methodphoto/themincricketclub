@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | dnb |  |  | 
 |  |  |  |  | 
 | **Extras** | | (9b 2lb 4w 0nb) | 15 | 
-| **Total** | | (38.1 overs) | 178 for 6 wkts | 
+| **Total** | | (38.1 overs) | **178 for 6 wkts** | 
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **Cooper** | b | J Skaabek | 0 | 
 | **Archman** | not out |  | 0 |
 | **Extras** | | (1b 1lb 0w 1nb) | 3 | 
-| **Total** | | (30.5 overs) | 52 all out | 
+| **Total** | | (30.5 overs) | **52 all out** | 
 
 ## Fall of Wickets
 

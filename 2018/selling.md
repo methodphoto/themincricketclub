@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Amin** | b  | Latham | 15 |
 |  |  |  |  |
 | **Extras** | | (1nb 1w 3b 0lb 0p) | **5** |
-| **Total** | | (34 overs) | **188 all out** |
+| **Total** | | (34 overs) | ****188 all out**** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Beckett** | not out |  | 12 |
 | **** |  |  |  |
 | **Extras** | | (1nb 1w 3b 0lb 0p) | **5** |
-| **Total** | | (36 overs) | **133 all out** |
+| **Total** | | (36 overs) | ****133 all out**** |
 
 ## Fall of Wickets
 

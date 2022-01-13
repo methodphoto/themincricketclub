@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Stimfig** | c Who | Allen | 8 |
 | **J Wright** | not out |  | 3 |
 | **Extras** | | (4b 3lb 3w 4nb) | 11 |
-| **Total** | | (40 overs) | 158 all out |
+| **Total** | | (40 overs) | **158 all out** |
 
 ## Fall of Wickets
 

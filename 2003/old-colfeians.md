@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Prasher** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (6b 3lb 3w 0nb) | 12 |
-| **Total** | | (40 overs) | 175 for 6 wkts |
+| **Total** | | (40 overs) | **175 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | not out |  | 13 |
 |  |  |  |  |
 | **Extras** | | (2b 1lb 4w 0nb) | 7 |
-| **Total** | | (38.3 overs) | 128 for 9 wkts (all out) |
+| **Total** | | (38.3 overs) | **128 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 

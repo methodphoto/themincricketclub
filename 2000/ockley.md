@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **P O'Brien** | hit wkt | D Mansel | 4 |
 | **D Runnals** | not out |  | 0 |
 | **Extras** | | (1b 2lb 1w 0nb) | 4 |
-| **Total** | | (43.5 overs) | 103 all out |
+| **Total** | | (43.5 overs) | **103 all out** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Gray** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (37 overs) | 107 for 4 wkts |
+| **Total** | | (37 overs) | **107 for 4 wkts** |
 
 ## Fall of Wickets
 

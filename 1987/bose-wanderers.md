@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | b | A Beard | 7 | 
 | **R Olver** | not out |  | 0 | 
 | **Extras** | | (0b 3lb 4w 1nb) | 8 | 
-| **Total** | | (32 overs) | 166 all out | 
+| **Total** | | (32 overs) | **166 all out** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Davies** | not out |  | 0 | 
 | **S Davies** | c T Horsey | A Gallagher | 0 |
 | **Extras** | | (1b 0lb 0w 0nb) | 1 | 
-| **Total** | | (30.4 overs) | 78 all out | 
+| **Total** | | (30.4 overs) | **78 all out** | 
 
 ## Fall of Wickets
 

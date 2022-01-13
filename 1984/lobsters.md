@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Sylvester** | not out | | 7 | 
 | **J Wright** | st | T Cottrell | 8 | 
 | **Extras** | | (10b 4lb 2w 3nb) | 19 | 
-| **Total** | | (36 overs) | 142 all out | 
+| **Total** | | (36 overs) | **142 all out** | 
 
 ## Fall of Wickets
 
@@ -74,7 +74,7 @@ Played at {{page.location}} on {{page.date}}
 | **Sprutenburg** | b | S Watson | 0 | 
 | **Vincent** | b | S Watson | 0 | 
 | **Extras** | | (11b 5lb 0w 0nb) | 16 | 
-| **Total** | | (30.2 overs) | 136 all out | 
+| **Total** | | (30.2 overs) | **136 all out** | 
 
 ## Fall of Wickets
 

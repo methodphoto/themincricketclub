@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Wooton** | c A Gallagher | J Mizel | 0 | 
 | **Buckfield** | c A Gallagher | J Mizel | 0 |
 | **Extras** | | (0b 0lb 0w 0nb) | 23 | 
-| **Total** | | (30.1 overs) | 140 all out | 
+| **Total** | | (30.1 overs) | **140 all out** | 
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | dnb |  |  | 
 | **R Olver** | dnb |  |  | 
 | **Extras** | | (0b 0lb 0w 0nb) | 15 | 
-| **Total** | | (31.1 overs) | 141 for 6 wkts | 
+| **Total** | | (31.1 overs) | **141 for 6 wkts** | 
 
 ## Fall of Wickets
 

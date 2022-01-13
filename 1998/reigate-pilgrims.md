@@ -35,7 +35,7 @@ N Bezodis, sixfer on debut
 | **Cattell** | b | P O'Mahony | 0 |
 | **Bate** | b | J Wright | 0 |
 | **Extras** | | (0b 0lb 0w 0nb) | 1 |
-| **Total** | | (46 overs) | 124 all out |
+| **Total** | | (46 overs) | **124 all out** |
 
 ## Fall of Wickets
 

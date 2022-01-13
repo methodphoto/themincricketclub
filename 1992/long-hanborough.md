@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Harcourt** | dnb |  |  | 
 |  |  |  |  | 
 | **Extras** | | (3b 8lb 11w 2nb) | 24 | 
-| **Total** | | (43 overs) | 160 for 6 wkts | 
+| **Total** | | (43 overs) | **160 for 6 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Smith** | dnb |  |  | 
 | **N Bright** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 2 | 
-| **Total** | | (14 overs) | 54 for 1 wkts | 
+| **Total** | | (14 overs) | **54 for 1 wkts** | 
 
 ## Fall of Wickets
 

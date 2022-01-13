@@ -37,7 +37,7 @@ J Stimfig fielded and P Grant batted
 | **D Walcott** | dnb |  |  |
 | **D Manley** | dnb |  |  |
 | **Extras** | | (23b 4lb 7w 0nb) | 34 |
-| **Total** | | (40 overs) | 239 for 7 wkts |
+| **Total** | | (40 overs) | **239 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -74,7 +74,7 @@ J Stimfig fielded and P Grant batted
 | **E Garland** | not out |  | 2 |
 | **J Wright** | c L Warr | D Walcott | 0 |
 | **Extras** | | (0b 2lb 0w 0nb) | 2 |
-| **Total** | | (23.3 overs) | 76 all out |
+| **Total** | | (23.3 overs) | **76 all out** |
 
 ## Fall of Wickets
 

@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Olver** | not out |   | 6 | 
 | **J Wright** | c Cook | Hardy | 17 | 
 | **Extras** | | (5b 2lb 2w 0nb) | 9 | 
-| **Total** | | (42 overs) | 186 all out | 
+| **Total** | | (42 overs) | **186 all out** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 3 | 
-| **Total** | | (25.1 overs) | 43 for 8 wkts | 
+| **Total** | | (25.1 overs) | **43 for 8 wkts** | 
 
 ## Fall of Wickets
 

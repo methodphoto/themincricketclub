@@ -35,7 +35,7 @@ Partnership of 116 between J Grant and J Hylton. J Grant's highest score for The
 | **S Masterson** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (4b 1lb 8w 12nb) | 25 |
-| **Total** | | (36 overs) | 249 for 4 wkts |
+| **Total** | | (36 overs) | **249 for 4 wkts** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Partnership of 116 between J Grant and J Hylton. J Grant's highest score for The
 | **M Tonkiss** | not out |  | 12 |
 |  |  |  |  |
 | **Extras** | | (2b 3lb 10w 0nb) | 15 |
-| **Total** | | (40.1 overs) | 165 for 9 wkts (all out) |
+| **Total** | | (40.1 overs) | **165 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 

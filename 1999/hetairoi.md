@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Franklin** | dnb |  |  |
 | **M Tonkiss** | dnb |  |  |
 | **Extras** | | (4b 3lb 0w 1nb) | 8 |
-| **Total** | | (44 overs) | 161 for 4 wkts |
+| **Total** | | (44 overs) | **161 for 4 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | b | A Cunningham | 0 |
 | **P O'Mahony** | not out |  | 2 |
 | **Extras** | | (0b 3lb 3w 2nb) | 8 |
-| **Total** | | (32 overs) | 93 all out |
+| **Total** | | (32 overs) | **93 all out** |
 
 ## Fall of Wickets
 

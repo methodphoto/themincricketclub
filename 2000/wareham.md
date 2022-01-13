@@ -35,7 +35,7 @@ S Hornsby, 3rd century, highest score for the Min and club record. 144 partnersh
 | **N Beswick** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (9b 3lb 2w 3nb) | 15 |
-| **Total** | | (33.5 overs) | 207 for 4 wkts |
+| **Total** | | (33.5 overs) | **207 for 4 wkts** |
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ S Hornsby, 3rd century, highest score for the Min and club record. 144 partnersh
 | **J Tulloch** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (7b 2lb 10w 0nb) | 19 |
-| **Total** | | (28.3 overs) | 208 for 3 wkts |
+| **Total** | | (28.3 overs) | **208 for 3 wkts** |
 
 ## Fall of Wickets
 

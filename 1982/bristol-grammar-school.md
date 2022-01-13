@@ -35,7 +35,7 @@ J Booth and D Mundy: partnership of 100
 | **J Wright** | not out | | 19 |
 | **A Sylvester** | b | T Cooper | 2 |
 | **Extras** | | (7b 3lb 3w 0nb) | 13 |
-| **Total** | | (35.1 overs) | 171 all out |
+| **Total** | | (35.1 overs) | **171 all out** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ J Booth and D Mundy: partnership of 100
 | **A Hartog** | b | W Calvert | 1 |
 | **T Brimble** | not out | | 0 |
 | **Extras** | | (2b 1lb 3w 0nb) | 6 |
-| **Total** | | (38 overs) | 129 all out |
+| **Total** | | (38 overs) | **129 all out** |
 
 ## Fall of Wickets
 

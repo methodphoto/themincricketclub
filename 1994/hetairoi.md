@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Olver** | not out |  | 1 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (3b 7lb 2w 2nb) | 14 |
-| **Total** | | (44.4 overs) | 184 for 8 wkts |
+| **Total** | | (44.4 overs) | **184 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **Slade** | dnb |  |  |
 | **Goddard** | dnb |  |  |
 | **Extras** | | (5b 0lb 6w 0nb) | 8 |
-| **Total** | | (34 overs) | 185 for 3 wkts |
+| **Total** | | (34 overs) | **185 for 3 wkts** |
 
 ## Fall of Wickets
 

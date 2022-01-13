@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Seabrook** | not out |  | 24 | 
 | **Robinson** | dnb |  |  |
 | **Extras** | | (19b 4lb 6w 1nb) | 30 | 
-| **Total** | | (46.2 overs) | 203 for 8 wkts | 
+| **Total** | | (46.2 overs) | **203 for 8 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | b | Jones | 4 | 
 | **J Wright** | lbw | Jones | 0 | 
 | **Extras** | | (8b 5lb 4w 0nb) | 17 | 
-| **Total** | | (33.5 overs) | 175 all out | 
+| **Total** | | (33.5 overs) | **175 all out** | 
 
 ## Fall of Wickets
 

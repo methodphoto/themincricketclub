@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Knight &#42; &#8224;** | dnb |  |  |
 | **D Knight** | dnb |  |  |
 | **Extras** | | (10b 9lb 16w 8nb 0p) | **44** |
-| **Total** | | (40 overs) | **256 for 6 wkts** |
+| **Total** | | (40 overs) | ****256 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;**| not out | 2 |
 | **J Wright** | b | R Jennings | 1 |
 | **Extras** | | (4b 2lb 10w 3nb 0p) | *19* |
-| **Total** | | (36.5 overs) | **217 all out** |
+| **Total** | | (36.5 overs) | ****217 all out**** |
 
 ## Fall of Wickets
 

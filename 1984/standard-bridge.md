@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | | | | | 
 | | | | | 
 | **Extras** | | (14b 2lb 3w 0nb) | 19 | 
-| **Total** | | (27.3 overs) | 103 for 8 wkts (all out) | 
+| **Total** | | (27.3 overs) | **103 for 8 wkts (all out)** | 
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **H Lubienski** | dnb | | | 
 | | | | | 
 | **Extras** | | (6b 10lb 4w 0nb) | 20 | 
-| **Total** | | (23.1 overs) | 106 for 4 wkts | 
+| **Total** | | (23.1 overs) | **106 for 4 wkts** | 
 
 ## Fall of Wickets
 

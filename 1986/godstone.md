@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Knight** | not out |  | 10 | 
 | **M Knight** | not out |  | 18 | 
 | **Extras** | | (5b 4lb 4w 0nb) | 13 | 
-| **Total** | | (45 overs) | 170 for 9 wkts | 
+| **Total** | | (45 overs) | **170 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | lbw | Webb | 2 | 
 |  |  |  |  |
 | **Extras** | | (2b 0lb 2w 0nb) | 4 | 
-| **Total** | | (28.3 overs) | 67 for 9 (all out) | 
+| **Total** | | (28.3 overs) | **67 for 9 (all out)** | 
 
 ## Fall of Wickets
 

@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **C.Wright** | run out |  | 2 |
 |  |  |  |  | 	 
 | **Extras** | | (7b 4lb 5w 1nb 0p) | **17** |
-| **Total** | | (34.1 overs) | **208 for 9 wkts (all out)** |
+| **Total** | | (34.1 overs) | ****208 for 9 wkts (all out)**** |
 
 ## Fall of Wickets
 

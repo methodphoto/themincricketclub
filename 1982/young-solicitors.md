@@ -73,7 +73,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Kirwan** | dnb | | |
 | **A Sylvester** | dnb | | |
 | **Extras** | | (8b 1lb 3w 0nb) | 14 | |
-| **Total** | | (20 overs) | 104 for 5 wkts| |
+| **Total** | | (20 overs) | **104 for 5 wkts|** |
 
 ## Fall of Wickets
 

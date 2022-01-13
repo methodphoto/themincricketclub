@@ -35,7 +35,7 @@ E Garland highest score for The Min
 | **Vincent** | c P O'Brien | R Beswick | 0 |
 | **J Pirie** | lbw | R Earney | 8 |
 | **Extras** | | (3b 1lb 3w 2nb) | 27 |
-| **Total** | | (46.4 overs) | 180 all out |
+| **Total** | | (46.4 overs) | **180 all out** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ E Garland highest score for The Min
 | **P O'Mahony** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (4b 2lb 2w 1nb) | 9 |
-| **Total** | | (37 overs) | 184 for 6 wkts |
+| **Total** | | (37 overs) | **184 for 6 wkts** |
 
 ## Fall of Wickets
 

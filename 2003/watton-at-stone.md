@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **P O'Mahony** | not out |  | 9 |
 | **J Wright** | not out |  | 5 |
 | **Extras** | | (4b 6lb 7w 10nb) | 27 |
-| **Total** | | (44 overs) | 194 for 9 wkts |
+| **Total** | | (44 overs) | **194 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Vincent** | not out |  | 4 |
 |  |  |  |  |
 | **Extras** | | (0b 3lb 3w 1nb) | 7 |
-| **Total** | | (426 overs) | 142 for 8 wkts |
+| **Total** | | (426 overs) | **142 for 8 wkts** |
 
 ## Fall of Wickets
 

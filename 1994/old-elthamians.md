@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | lbw | Saunders | 0 |
 | **J Wright** | not out |  | 0 |
 | **Extras** | | (10b 3lb 4w 4nb) | 15 |
-| **Total** | | (39 overs) | 130 all out |
+| **Total** | | (39 overs) | **130 all out** |
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **Saunders** | dnb |  |  |
 | **Payne** | dnb |  |  |
 | **Extras** | | (2b 3lb 2w 0nb) | 7 |
-| **Total** | | (29.1 overs) | 131 for 3 wkts |
+| **Total** | | (29.1 overs) | **131 for 3 wkts** |
 
 ## Fall of Wickets
 

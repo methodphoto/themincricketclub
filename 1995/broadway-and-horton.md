@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Allen** | not out |  | 1 |
 | **G Knight &#42; &#8224;** | not out |  | 2 |
 | **Extras** | | (11b 2lb 18w 0nb) | 31 |
-| **Total** | | (40 overs) | 147 for 9 wkts |
+| **Total** | | (40 overs) | **147 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (12b 9lb 16w 1nb) | 38 |
-| **Total** | | (33.5 overs) | 152 for 7 wkts |
+| **Total** | | (33.5 overs) | **152 for 7 wkts** |
 
 ## Fall of Wickets
 

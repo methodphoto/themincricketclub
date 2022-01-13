@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Goff** | dnb |  |  |
 | **A Head** | dnb |  |  |
 | **Extras** | | (6b 5lb 6w 6nb) | 23 |
-| **Total** | | (43 overs) | 256 for 4 wkts |
+| **Total** | | (43 overs) | **256 for 4 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Grant** | run out |  | 14 |
 | **M Bell** | not out |  | 2 |
 | **Extras** | | (7b 1lb 0w 0nb) | 8 |
-| **Total** | | (38 overs) | 244 all out |
+| **Total** | | (38 overs) | **244 all out** |
 
 ## Fall of Wickets
 

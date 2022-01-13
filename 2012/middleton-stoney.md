@@ -54,7 +54,7 @@ Joint Min of the Match: Goffy and Earn. Honourable mention for Slighty who thoug
 | **S Pettit** | b | J Wright | 0 |
 | **O Selway** | c R Beswick | J Wright | 0 |
 | **Extras** | | (5b 0lb 6w 0nb) | 9 |
-| **Total** | | (35.3 overs) | 114 all out |
+| **Total** | | (35.3 overs) | **114 all out** |
 
 ## Fall of Wickets
 
@@ -87,7 +87,7 @@ Joint Min of the Match: Goffy and Earn. Honourable mention for Slighty who thoug
 | **J Wright** | dnb |  |  |
 | **P Wigg** | dnb |  |  |
 | **E Garland** | | (9b 2lb 4w 0nb) | 9 |
-| **Total** | | (33.5 overs) | 118 for 1 wkt |
+| **Total** | | (33.5 overs) | **118 for 1 wkt** |
 
 ## Fall of Wickets
 

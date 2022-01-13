@@ -35,7 +35,7 @@ R Earney's 2nd Century for The Min. Partnership of 151 between R Earney and R Be
 | **G Powell** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (11b 9lb 8w 1nb) | 29 |
-| **Total** | | (40 overs) | 259 for 3 wkts |
+| **Total** | | (40 overs) | **259 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ R Earney's 2nd Century for The Min. Partnership of 151 between R Earney and R Be
 | **T Thomas** | not out |  | 10 |
 |  |  |  |  |
 | **Extras** | | (2b 2lb 46w 0nb) | 8 |
-| **Total** | | (34.5 overs) | 119 for 9 wkts (all out) |
+| **Total** | | (34.5 overs) | **119 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 

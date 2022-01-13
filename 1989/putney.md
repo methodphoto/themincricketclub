@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | not out |  | 13 | 
 | **G Wright** | not out |  | 9 | 
 | **Extras** | | (11b 8lb 0w 1nb) | 20 | 
-| **Total** | | (44 overs) | 156 for 9 wkts | 
+| **Total** | | (44 overs) | **156 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **Sid** | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (4b 1lb 3w 0nb) | 8 | 
-| **Total** | | (37 overs) | 129 for 7 wkts | 
+| **Total** | | (37 overs) | **129 for 7 wkts** | 
 
 ## Fall of Wickets
 

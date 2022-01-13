@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Walters** | b | Erskine | 0 | 
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 7 | 
-| **Total** | | (33.5 overs) | 125 for 9 wkts (all out) | 
+| **Total** | | (33.5 overs) | **125 for 9 wkts (all out)** | 
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 3 | 
-| **Total** | | (31 overs) | 197 for 7 wkts | 
+| **Total** | | (31 overs) | **197 for 7 wkts** | 
 
 ## Fall of Wickets
 

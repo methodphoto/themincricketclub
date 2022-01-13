@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | not out |  | 20 | 
 |  |  |  |  |
 | **Extras** | | (0b 2lb 4w 0nb) | 6 | 
-| **Total** | | (43 overs) | 151 for 8 wkts | 
+| **Total** | | (43 overs) | **151 for 8 wkts** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Taylor** | not out |  | 0 | 
 | **A N Other** | dnb |  |  |
 | **Extras** | | (2b 6lb 0w 1nb) | 9 | 
-| **Total** | | (43 overs) | 100 for 8 wkts | 
+| **Total** | | (43 overs) | **100 for 8 wkts** | 
 
 ## Fall of Wickets
 

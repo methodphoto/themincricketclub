@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | run out | 1 | 
 |  |  |  |  |
 | **Extras** | | (0b 1lb 11w 0nb) | 12 | 
-| **Total** | | (36.1 overs) | 126 for 8 wkts (all out) | 
+| **Total** | | (36.1 overs) | **126 for 8 wkts (all out)** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 
 |  |  |  |  |
 | **Extras** | | (3b 0lb 2w 0nb) | 5 | 
-| **Total** | | (34 overs) | 127 for 2 wkts | 
+| **Total** | | (34 overs) | **127 for 2 wkts** | 
 
 ## Fall of Wickets
 

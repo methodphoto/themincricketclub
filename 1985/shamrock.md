@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **D young** | c Johnson | Chase | 0 | 
 | **J Wright** | c Johnson | Chase | 0 | 
 | **Extras** | | (1b 0lb 0w 0nb) | 1 | 
-| **Total** | | (42 overs) | 53 all out | 
+| **Total** | | (42 overs) | **53 all out** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **Atkinson** | dnb |  |  |
 | **Richardson** | dnb |  |  | 
 | **Extras** | | (0b 0lb 1w 0nb) | 1 | 
-| **Total** | | (7 overs) | 33 for 1 wkt | 
+| **Total** | | (7 overs) | **33 for 1 wkt** | 
 
 ## Fall of Wickets
 

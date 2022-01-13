@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Wright** | dnb |  |  |
 | **J Grant &#8224;** | dnb |  |  |
 | **Extras** | | (5b 5lb 9w 6nb 0p) | **25** | 
-| **Total** | | (35 overs) | **197 for 6 wkts** | 
+| **Total** | | (35 overs) | ****197 for 6 wkts**** | 
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Pedlar** | not out |  | 2 | 
 | **A Dummett** | lbw | E Garland | 1 | 
 | **Extras** | | (1b 0lb 3w 0nb) | 4 | 
-| **Total** | | (17.3 overs) | **33 all out** | 
+| **Total** | | (17.3 overs) | ****33 all out**** | 
 
 ## Fall of Wickets
 

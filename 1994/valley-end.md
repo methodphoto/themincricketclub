@@ -35,7 +35,7 @@ Partnership of 133 for Valley End between M Aggar and Chadwich
 | **Davison** | dnb |  |  |
 | **Baker** | dnb |  |  |
 | **Extras** | | (4b 1lb 3w 0nb) | 8 |
-| **Total** | | (48 overs) | 207 for 4 wkts |
+| **Total** | | (48 overs) | **207 for 4 wkts** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Partnership of 133 for Valley End between M Aggar and Chadwich
 | **J Wright** | run out |  | 2 |
 |  |  |  |  |
 | **Extras** | | (2b 2lb 11w 0nb) | 15 |
-| **Total** | | (40.4 overs) | 194 for 9 wkts (all out) |
+| **Total** | | (40.4 overs) | **194 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 

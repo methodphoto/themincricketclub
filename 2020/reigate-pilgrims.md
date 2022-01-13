@@ -37,7 +37,7 @@ M Wright batted, Charlotte Wright and Harry Earney fielded
 | **C Wright** | not out |  | 7 | 
 | **M Wright** | not out |  | 7 | 
 | **Extras** | | (10b 4lb 7w 1nb) | **22** | 
-| **Total** | | (42 overs) | **144 for 9 wkts** | 
+| **Total** | | (42 overs) | ****144 for 9 wkts**** | 
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ M Wright batted, Charlotte Wright and Harry Earney fielded
 | **J Hoy** | dnb |  |  | 
 | **A Bushe** | dnb | |  | 
 | **Extras** | | (4b 0lb 5w 4nb) | **13** | 
-| **Total** | | (37.3 overs) | **145 for 7 wkts** | 
+| **Total** | | (37.3 overs) | ****145 for 7 wkts**** | 
 
 ## Fall of Wickets
 

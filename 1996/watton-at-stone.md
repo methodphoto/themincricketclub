@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Cakebread** | not out |  | 10 |
 | **B Welch** | dnb |  |  |
 | **Extras** | | (7b 0lb 3w 0nb) | 10 |
-| **Total** | | (38 overs) | 197 for 8 wkts |
+| **Total** | | (38 overs) | **197 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | not out |  | 3 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (4b 0lb 2w 4nb) | 10 |
-| **Total** | | (39 overs) | 159 for 9 wkts |
+| **Total** | | (39 overs) | **159 for 9 wkts** |
 
 ## Fall of Wickets
 

@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Wright** | run out |  | 0 | 
 | **M Carlton** | not out |  | 2 | 
 | **Extras** | | (7b 3lb 15w 12nb) | 37 | 
-| **Total** | | (28.3 overs) | 179 all out | 
+| **Total** | | (28.3 overs) | **179 all out** | 
  
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Staw** | c L Gallagher | P Wigg | 1 | 
 | **G Katakos** | run out |  | 0 | 
 | **Extras** | | (13b 0lb 10w 1nb) | 24 | 
-| **Total** | | (35.1 overs) | 148 all out | 
+| **Total** | | (35.1 overs) | **148 all out** | 
 
 ## Fall of Wickets
 

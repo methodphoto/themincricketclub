@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Chisholm** | b | R Beswick | 4 | 
 | **Smith** | not out | | 2 | 
 | **Extras** | | (0b 0lb 0w 0nb) | 11 | 
-| **Total** | | (42 overs) | 146 all out | 
+| **Total** | | (42 overs) | **146 all out** | 
 
 ## Fall of Wickets
 
@@ -66,7 +66,7 @@ Played at {{page.location}} on {{page.date}}
 | **N Flint** | dnb |  |  | 
 | **D Young** | dnb |  |  | 
 | **Extras** | | (3b 1lb 0w 0nb) | 4 | 
-| **Total** | | (33.1 overs) | 163 for 8 wkts | 
+| **Total** | | (33.1 overs) | **163 for 8 wkts** | 
 
 ## Fall of Wickets
 

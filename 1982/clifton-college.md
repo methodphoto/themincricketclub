@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Matthews** | dnb | | |
 | **Kendal-Carpenter** | dnb | | |
 | **Extras** | | (0b 1lb 2w 0nb) | **3** |
-| **Total** | | (40 overs) | **200 for 5 wkts** |
+| **Total** | | (40 overs) | ****200 for 5 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Sylvester** | not out | | 10 |
 | **J Grant &#8224;** | not out | | 1 |
 | **Extras** | | (5b 5lb 10w 5nb) | **25** |
-| **Total** | | (36 overs) | **94 for 9 wkts** |
+| **Total** | | (36 overs) | ****94 for 9 wkts**** |
 
 ## Bowling
 

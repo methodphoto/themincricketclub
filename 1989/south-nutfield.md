@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Hughes** | dnb |  |  | 
 | **Winter** |  |  |  |
 | **Extras** | | (10b 4lb 4w 0nb) | 18 | 
-| **Total** | | (35 overs) | 175 for 1 wkt | 
+| **Total** | | (35 overs) | **175 for 1 wkt** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Hickman** | not out |  | 0 | 
 | **J Wright** | not out |  | 8 | 
 | **Extras** | | (9b 2lb 4w 0nb) | 6 | 
-| **Total** | | (33.5 overs) | 178 for 9 wkts | 
+| **Total** | | (33.5 overs) | **178 for 9 wkts** | 
 
 ## Fall of Wickets
 

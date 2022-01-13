@@ -35,7 +35,7 @@ M Petre highest score for The Min
 | **P O'Brien** | b | R Shelley | 1 |
 | **P O'Mahony** | not out |  | 12 |
 | **Extras** | | (6b 2lb 16w 1nb) | 30 |
-| **Total** | | (39.5 overs) | 223 all out |
+| **Total** | | (39.5 overs) | **223 all out** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ M Petre highest score for The Min
 | **U Zafar** | c J Grant | R Beswick | 11 |
 | **P Smith** | not out |  | 1 |
 | **Extras** | | (4b 0lb 5w 6nb) | 15 |
-| **Total** | | (40 overs) | 138 all out |
+| **Total** | | (40 overs) | **138 all out** |
 
 ## Fall of Wickets
 

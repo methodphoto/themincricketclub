@@ -294,9 +294,9 @@ parent: Results
 | 18/05/2003 | [Old Colfeians](../2003/old-colfeians) | Lost |
 | 08/06/2003 | [Ballinger Waggoners](../2003/ballinger-waggoners) | Drawn |
 | 15/06/2003 | [Newdigate](../2003/newdigate) | Drawn |
-| {date} | [Watton-at-Stone](../2003/watton-at-stone) | Drawn |
-| {date} | [Stowting](../2003/stowting) | Drawn |
-| {date} | [Wareham](../2003/wareham) | Drawn |
+| 27/06/2003 | [Watton-at-Stone](../2003/watton-at-stone) | Drawn |
+| 06/07/2003 | [Stowting](../2003/stowting) | Drawn |
+| 10/07/2003 | [Wareham](../2003/wareham) | Drawn |
 | {date} | [Broadway and Horton](../2003/broadway-and-horton) | Lost |
 | {date} | [Land Warfare XI](../2003/land-warfare-xi) | **Won** |
 | {date} | [Honor Oak](../2003/honor-oak) | Drawn |

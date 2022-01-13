@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **W Sherman** | not out |  | 4 | 
 | **Fairbrother** | run out |  | 2 |
 | **Extras** | | (16b 4lb 5w 0nb) | 25 | 
-| **Total** | | (51.3 overs) | 165 all out | 
+| **Total** | | (51.3 overs) | **165 all out** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Olver** | not out |  | 34 | 
 | **J Wright** | not out |  | 5 | 
 | **Extras** | | (4b 1lb 2w 0nb) | 7 | 
-| **Total** | | (33.5 overs) | 138 for 9 wkts | 
+| **Total** | | (33.5 overs) | **138 for 9 wkts** | 
 
 ## Fall of Wickets
 

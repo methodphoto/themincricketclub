@@ -35,7 +35,7 @@ R Green, second 5 wkt haul for The Min
 | **C Allchorne** | not out |  | 2 |
 | **E Garland** | dnb |  |  |
 | **Extras** | | (8b 5lb 1w 1nb) | 15 |
-| **Total** | | (33.5 overs) | 166 for 8 wkts |
+| **Total** | | (33.5 overs) | **166 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ R Green, second 5 wkt haul for The Min
 | **Glazier** | not out |  | 6 |
 | **S Speight** | not out |  | 0 |
 | **Extras** | | (1b 0lb 4w 0nb) | 5 |
-| **Total** | | (37 overs) | 140 for 9 wkts |
+| **Total** | | (37 overs) | **140 for 9 wkts** |
 
 ## Fall of Wickets
 

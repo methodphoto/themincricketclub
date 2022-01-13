@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Clayton** | c & b | I Marshall | 2 | 
 |  |  |  |  |
 | **Extras** | | (9b 1lb 3w 0nb) | 13 | 
-| **Total** | | (30.5 overs) | 133 for 9 wkts (all out) | 
+| **Total** | | (30.5 overs) | **133 for 9 wkts (all out)** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb |  |  |
 |  |  |  |  | 
 | **Extras** | | (12b 0lb 8w 0nb) | 20 | 
-| **Total** | | (36.1 overs) | 137 for 5 wkts | 
+| **Total** | | (36.1 overs) | **137 for 5 wkts** | 
 
 ## Fall of Wickets
 

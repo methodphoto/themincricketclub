@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Noble** | not out |  | 0 |
 | **J Earney** | did not bat |  |  |
 | **Extras** | | (0nb 18w 3b 0lb 0p) | **21** |
-| **Total** | | (40 overs) | **139 for 8 wkts** |
+| **Total** | | (40 overs) | ****139 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Davidson** | did not bat |  |  |
 | **D Wright** | did not bat |  |  |
 | **Extras** | | (0nb 18w 3b 0lb 0p) | **21** |
-| **Total** | | (26 overs) | **145 for 5 wkts** |
+| **Total** | | (26 overs) | ****145 for 5 wkts**** |
 
 ## Fall of Wickets
 

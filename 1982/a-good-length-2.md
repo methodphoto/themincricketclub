@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Lawson** | c & b | S Beavis | 0 |
 | **Fraser** | not out | | 1 |
 | **Extras** | | (2b 0lb 1w 1nb) | **4** |
-| **Total** | | (35.3 overs) | **116 all out** |
+| **Total** | | (35.3 overs) | ****116 all out**** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb | | |
 | **M Kirwan** | dnb | | |
 | **Extras** | | (7b 2lb 5w 0nb) | **14** |
-| **Total** | | (35 overs) | **117 for 6 wkts** |
+| **Total** | | (35 overs) | ****117 for 6 wkts**** |
 
 ## Bowling
 
