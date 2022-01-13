@@ -122,8 +122,7 @@ Bat
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-
-B.Glenn81182
+| |  |  |  |  |B.Glenn81182
 J.Ainsley81262
 C.Carter40310
 R.Wheeler30220
