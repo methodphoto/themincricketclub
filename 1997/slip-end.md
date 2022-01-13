@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **L Clark** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (2b 1lb 2w 0nb) | 5 |
-| **Total** | | (47 overs) | 157 for 7 wkts |
+| **Total** | | (47 overs) | **157 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | c P Croxford | T Hatt | 0 |
 |  |  |  |  |
 | **Extras** | | (2b 0lb 2w 0nb) | 4 |
-| **Total** | | (32 overs) | 81 all out |
+| **Total** | | (32 overs) | **81 all out** |
 
 ## Fall of Wickets
 

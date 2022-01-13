@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Another Mans Meat
-title: The Min v Another Man's Meat
+title: Another Mans Meat
+game: The Min v Another Man's Meat
 location: Coombe Dingle
 date: 08/05/1982
 report: The Min scored 134 all out and had Another Man's Meat all out for 100
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Sylvester** | c | B Colethorpe | 15 |
 | **J Wright** | not out | | 10 |
 | **Extras** | | (12b 1lb 3w 0nb) | **16** |
-| **Total** | | (38.3 overs) | **134 all out** |
+| **Total** | | (38.3 overs) | ****134 all out**** |
 
 ### Fall of Wickets
 
@@ -73,7 +73,7 @@ Played at {{page.location}} on {{page.date}}
 | **B Colethorpe** | b | J Wright | 0 |
 | **S Boyle** | not out | | 1 |
 | **Extras** | | (1b 0lb 1w 0nb) | **2** |
-| **Total** | | (26 overs) | **100 all out** |
+| **Total** | | (26 overs) | ****100 all out**** |
 
 ### Fall of Wickets
 

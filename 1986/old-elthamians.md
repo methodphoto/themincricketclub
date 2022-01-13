@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Old Elthamians
-title: Old Elthamians v The Min
+title: Old Elthamians
+game: Old Elthamians v The Min
 location: Foxbury
 date: 18/05/1986
 report: Old Elthamians batted first and scored 200 for 7 wkts. The Min replied with 201 for 4 wkts.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Wright** | not out |  | 1 | 
 | **P Magstone** | dnb |  |  |
 | **Extras** | | (1b 5lb 0w 0nb) | 6 | 
-| **Total** | | (43 overs) | 200 for 7 wkts | 
+| **Total** | | (43 overs) | **200 for 7 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  | 
 | **Extras** | | (9b 2lb 8w 0nb) | 19 | 
-| **Total** | | (27.3 overs) | 201 for 4 wkts | 
+| **Total** | | (27.3 overs) | **201 for 4 wkts** | 
 
 ## Fall of Wickets
 

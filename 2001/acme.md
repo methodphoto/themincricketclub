@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **N Reid** | not out |  | 5 |
 | **F Early** | not out |  | 2 |
 | **Extras** | | (5b 1lb 12w 2nb) | 20 |
-| **Total** | | (40 overs) | 157 for 9 wkts |
+| **Total** | | (40 overs) | **157 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick** | c & b | S Masterson | 0 |
 | **J Wright** | b | S Masterson | 11 |
 | **Extras** | | (9b 2lb 4w 0nb) | 15 |
-| **Total** | | (38.4 overs) | 143 all out |
+| **Total** | | (38.4 overs) | **143 all out** |
 
 ## Fall of Wickets
 

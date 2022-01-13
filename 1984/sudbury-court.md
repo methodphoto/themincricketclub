@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Sudbury Court
-title: Sudbury Court v The Min
+title: Sudbury Court
+game: Sudbury Court v The Min
 location: Sudbury Court
 date: 15/07/1994
 report: The Min batted first, scoring 184 for 9 wkts. Sudbury Court replied with 115 all out.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | run out | | 4 | 
 | **M Kirwan** | not out | | 14 | 
 | **Extras** | | (2b 1lb 1w 0nb) | 3 | 
-| **Total** | | (27.3 overs) | 184 for 9 wkts | 
+| **Total** | | (27.3 overs) | **184 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **Benning-Syngh** | c M Kirwan | W Calvert | 0 | 
 | **Gibbs** | b | W Calvert | 1 | 
 | **Extras** | | (8b 1lb 4w 0nb) | 13 | 
-| **Total** | | (41.3 overs) | 115 all out | 
+| **Total** | | (41.3 overs) | **115 all out** | 
 
 ## Fall of Wickets
 

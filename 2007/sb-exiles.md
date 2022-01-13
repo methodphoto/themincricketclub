@@ -1,7 +1,7 @@
 ---
 layout: default
-game: SB Exiles
-title: SB Exiles v The Min
+title: SB Exiles
+game: SB Exiles v The Min
 location: 
 date: 
 report: 

@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **G McNeil** | not out |  | 1 |
 | **L Bromley-Gardiner** | c | Craig-Harvey | 0 |
 | **Extras** | | (2b 1lb 14w 3nb) | 20 |
-| **Total** | | (34.3 overs) | 143 all out |
+| **Total** | | (34.3 overs) | **143 all out** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Played at {{page.location}} on {{page.date}}
 | **Johnson** | dnb |  |  |
 | **Bromley-Gardiner** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 1nb) | 1 |
-| **Total** | | (32.1 overs) | 144 for 7 wkts |
+| **Total** | | (32.1 overs) | **144 for 7 wkts** |
 
 ## Fall of Wickets
 

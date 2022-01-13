@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Spencer** | dnb |  |  |
 | **N Richardson** | dnb |  |  |
 | **Extras** | | (0b 1lb 7w 1nb) | 9 |
-| **Total** | | (12.2 overs) | 69 for 5 wkts |
+| **Total** | | (12.2 overs) | **69 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 0 |
-| **Total** | | (0 overs) |  |
+| **Total** | | (0 overs) | **** |
 
 ## Fall of Wickets
 

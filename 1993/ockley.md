@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Fielding** | b | Smith |02 | 
 | **G Wright** | lbw | J Chambers | 2 | 
 | **Extras** | | (9b 2lb 4w 0nb) | 18 | 
-| **Total** | | (31.5 overs) | 146 all out | 
+| **Total** | | (31.5 overs) | **146 all out** | 
 
 ## Fall of Wickets
 

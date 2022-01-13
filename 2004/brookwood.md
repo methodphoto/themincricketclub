@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Brookwood
-title: Brookwood v The Min
+title: Brookwood
+game: Brookwood v The Min
 location: Brookwood
 date: 
 report: 

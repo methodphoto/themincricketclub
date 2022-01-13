@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | b | A Trollope | 10 |
 | **JWright** | not out |  | 2 |
 | **Extras** | | (1b 4lb 1w 1nb) | 7 |
-| **Total** | | (40.3 overs) | 157 all out |
+| **Total** | | (40.3 overs) | **157 all out** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Lovett** | b | R Beswick | 0 |
 | **M Young** | not out |  | 8 |
 | **Extras** | | (4b 2lb 0w 0nb) | 6 |
-| **Total** | | (42 overs) | 123 for 9 wkts |
+| **Total** | | (42 overs) | **123 for 9 wkts** |
 
 ## Fall of Wickets
 

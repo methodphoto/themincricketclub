@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Logica
-title: Logica v The Min
+title: Logica
+game: Logica v The Min
 location: Wimbledon Park
 date: 05/08/1984
 report: Logica batted first and scored 153 all out. The Min replied with 154 for 7.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Yoxall** | not out |  | 1 | 
 | **Ashad** | b | R Beswick | 0 | 
 | **Extras** | | (5b 2lb 3w 1nb) | 11 | 
-| **Total** | | (38.3 overs) | 153 all out | 
+| **Total** | | (38.3 overs) | **153 all out** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb | |  | 
 | **J Cross** | dnb | |  | 
 | **Extras** | | (12b 2lb 14w 1nb) | 29 | 
-| **Total** | | (43 overs) | 154 for 7 wkts | 
+| **Total** | | (43 overs) | **154 for 7 wkts** | 
 
 ## Fall of Wickets
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Reigate Pilgrims
-title: Reigate Pilgrims v The Min
+title: Reigate Pilgrims
+game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 16/09/2018
 report: Reigate Pilgrims won the toss and inserted The Min, who made 184-6  Reigate Pilgrims made 189-5 when they batted so won by 5 wkts
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **** |  |  |  |
 | **** |  |  |  |
 | **Extras** | | (0nb 5w 6b 13lb 0p) | **24** |
-| **Total** | | (42 overs) | **184 for 6 wkts** |
+| **Total** | | (42 overs) | ****184 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Nicholls &#8224;** | did not bat |  |  |
 | **J Hoy** | did not bat |  |  |
 | **Extras** | | (0nb 5w 6b 13lb 0p) | **24** |
-| **Total** | | (42 overs) | **184 for 6 wkts** |
+| **Total** | | (42 overs) | ****184 for 6 wkts**** |
 
 ## Fall of Wickets
 

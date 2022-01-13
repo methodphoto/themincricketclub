@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Scanlon** | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (5b 0lb 6w 0nb) | 11 | 
-| **Total** | | (46 overs) | 195 for 3 wkts | 
+| **Total** | | (46 overs) | **195 for 3 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | b | P Scanlon | 2 | 
 | **G Wright** | not out |  | 0 | 
 | **Extras** | | (9b 2lb 4w 0nb) | 15 | 
-| **Total** | | (33.5 overs) | 118 all out | 
+| **Total** | | (33.5 overs) | **118 all out** | 
 
 ## Fall of Wickets
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Watton-at-Stone
-title: Watton-at-Stone v The Min
+title: Watton-at-Stone
+game: Watton-at-Stone v The Min
 location: The Meadow
 date: 20/07/1986
 report: Watton-at-Stone batted first and made 237 for 5 wkts. The Min replied with 142 for 9 (all out)
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Burnell** | dnb |  |  | 
 | **R Clayton** | dnb |  |  |
 | **Extras** | | (6b 2lb 0w 4nb) | 12 | 
-| **Total** | | (38 overs) | 237 for 5 wkts | 
+| **Total** | | (38 overs) | **237 for 5 wkts** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Chitty** | b | Spinks | 0 | 
 |  |  |  |  |
 | **Extras** | | (2b 1lb 1w 0nb) | 4 | 
-| **Total** | | (44.2 overs) | 142 for 9 (all out) | 
+| **Total** | | (44.2 overs) | **142 for 9 (all out)** | 
 
 ## Fall of Wickets
 

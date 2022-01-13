@@ -1,7 +1,7 @@
 ---
 layout: default
-game: White City All Stars
-title: White City All Stars v The Min
+title: White City All Stars
+game: White City All Stars v The Min
 location: Gunnersbury Park
 date: 07/06/1986
 report: White City All Stars batted first and were bowled out for 161. The Min replied with 144 all out.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **John** | not out |  | 8 | 
 | **Luke** | c | J Wright | 4 | 
 | **Extras** | | (1b 0lb 1w 0nb) | 2 | 
-| **Total** | | (20.5 overs) | 161 all out | 
+| **Total** | | (20.5 overs) | **161 all out** | 
 
 ## Fall of Wickets
 

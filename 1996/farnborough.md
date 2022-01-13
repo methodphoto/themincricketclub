@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | not out |  | 23 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (10b 4lb 9w 1nb) | 24 |
-| **Total** | | (41 overs) | 159 for 8 wkts |
+| **Total** | | (41 overs) | **159 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Syrett** | dnb |  | 0 |
 | **M Hare** | b | R Beswick | 2 |
 | **Extras** | | (4b 0lb 1w 0nb) | 5 |
-| **Total** | | (34.4 overs) | 122 all out |
+| **Total** | | (34.4 overs) | **122 all out** |
 
 ## Fall of Wickets
 

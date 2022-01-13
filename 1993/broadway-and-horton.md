@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb |  |  |
 | **G Wright** | absent |  |  | 
 | **Extras** | | (15b 5lb 4w 1nb) | 5 | 
-| **Total** | | (45 overs) | 184 for 5 wkts | 
+| **Total** | | (45 overs) | **184 for 5 wkts** | 
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Baker** | dnb |  |  | 
 | **S Pratt** | dnb |  |  |
 | **Extras** | | (0b 2lb 2w 0nb) | 4 | 
-| **Total** | | (39 overs) | 167 for 7 wkts | 
+| **Total** | | (39 overs) | **167 for 7 wkts** | 
 
 ## Fall of Wickets
 

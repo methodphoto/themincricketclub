@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Old Elthamians
-title: Old Elthamians v The Min
+title: Old Elthamians
+game: Old Elthamians v The Min
 location: Foxbury
 date: 02/09/1984
 report: Old Elthamians batted first and were bowled out for 157. The Min replied with 161 for 8 wkts.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **K Gilmour**  | b | R Beswick | 0 |
 |  |  |  |  |
 | **Extras** | | (3b 0lb 2w 0nb) | 15 | 
-| **Total** | | (34.1 overs) | 157 for 9 wkts | 
+| **Total** | | (34.1 overs) | **157 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Kirwan** | not out |  | 13 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (18b 1lb 5w 0nb) | 24 | 
-| **Total** | | (36.1 overs) | 161 for 8 wkts | 
+| **Total** | | (36.1 overs) | **161 for 8 wkts** | 
 
 ## Fall of Wickets
 

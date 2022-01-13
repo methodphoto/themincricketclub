@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Antilles
-title: Antilles v The Min
+title: Antilles
+game: Antilles v The Min
 location: Canon's Park
 date: 27/06/1993
 report: The Min batted first and made 192 for 8 wkts. Antilles replied with 193 for 8 wkts
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Ferguson** | not out |  | 1 | 
 | **J Stimfig &#8224;** | dnb |  |  | 
 | **Extras** | | (9b 6lb 2w 2nb) | 19 | 
-| **Total** | | (33.5 overs) | 192 for 8 wkts | 
+| **Total** | | (33.5 overs) | **192 for 8 wkts** | 
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Callender** | not out |  | 4 |
 | **W Murrell** | dnb |  |  |
 | **Extras** | | (3b 7lb 3w 0nb) | 12 | 
-| **Total** | | (37.5 overs) | 193 for 8 wkts | 
+| **Total** | | (37.5 overs) | **193 for 8 wkts** | 
 
 ## Fall of Wickets
 

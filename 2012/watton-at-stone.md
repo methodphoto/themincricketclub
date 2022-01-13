@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Watton-at-Stone
-title: Watton-at-Stone v The Min
+title: Watton-at-Stone
+game: Watton-at-Stone v The Min
 location: The Meadow
 date: 
 report: 

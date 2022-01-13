@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Davis** | dnb |  |  | 
 | **Harris** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 1181 | 
-| **Total** | | (43 overs) | 198 for 7 wkts | 
+| **Total** | | (43 overs) | **198 for 7 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | not out |  | 0 | 
 |  |  |  |  |
 | **Extras** | | (3b 3lb 0w 0nb) | 6 | 
-| **Total** | | (40.4 overs) | 174 for 9 wkts (all out) | 
+| **Total** | | (40.4 overs) | **174 for 9 wkts (all out)** | 
 
 ## Fall of Wickets
 

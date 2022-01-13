@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Davies** | not out |  | 8 |
 | **K Dix** | dnb |  |  |
 | **Extras** | | (9b 3lb 1w 0nb) | 13 |
-| **Total** | | (42 overs) | 177 for 8 wkts |
+| **Total** | | (42 overs) | **177 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | not out |  | 5 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (4b 4lb 4w 0nb) | 12 |
-| **Total** | | (41.3 overs) | 178 for 8 wkts |
+| **Total** | | (41.3 overs) | **178 for 8 wkts** |
 
 ## Fall of Wickets
 

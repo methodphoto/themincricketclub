@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | not out |  | 0 | 
 | **S Barrowcliff** | b | G Fernando | 4 | 
 | **Extras** | | (7b 1lb 3w 0nb) | 11 | 
-| **Total** | | (45.5 overs) | 106 all out | 
+| **Total** | | (45.5 overs) | **106 all out** | 
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Clayton** | b | A MacFarlane | 0 | 
 | **J Booker** | not out |  | 3 |
 | **Extras** | | (6b 1lb 2w 7nb) | 16 | 
-| **Total** | | (46 overs) | 103 all out | 
+| **Total** | | (46 overs) | **103 all out** | 
 
 ## Fall of Wickets
 

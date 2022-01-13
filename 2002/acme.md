@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | b | 7 | 4 |
 | **E Garland** | not out |  | 3 |
 | **Extras** | | (4b 5lb 4w 1nb) | 14 |
-| **Total** | | (33.5 overs) | 73 all out |
+| **Total** | | (33.5 overs) | **73 all out** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **Harvey** | dnb |  |  |
 | **Johnson** | dnb |  |  |
 | **Extras** | | (1b 0lb 4w 1nb) | 6 |
-| **Total** | | (18 overs) | 74 for 2 wkts |
+| **Total** | | (18 overs) | **74 for 2 wkts** |
 
 ## Fall of Wickets
 

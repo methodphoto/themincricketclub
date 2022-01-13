@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Shamrock
-title: Shamrock v The Min
+title: Shamrock
+game: Shamrock v The Min
 location: Meridian Cricket Ground
 date: 24/06/1985
 report: The Min batted first and were all out for 53. Shamrock were 33 for 1 when rain stopped play.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **D young** | c Johnson | Chase | 0 | 
 | **J Wright** | c Johnson | Chase | 0 | 
 | **Extras** | | (1b 0lb 0w 0nb) | 1 | 
-| **Total** | | (42 overs) | 53 all out | 
+| **Total** | | (42 overs) | **53 all out** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **Atkinson** | dnb |  |  |
 | **Richardson** | dnb |  |  | 
 | **Extras** | | (0b 0lb 1w 0nb) | 1 | 
-| **Total** | | (7 overs) | 33 for 1 wkt | 
+| **Total** | | (7 overs) | **33 for 1 wkt** | 
 
 ## Fall of Wickets
 

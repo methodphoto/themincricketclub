@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (19b 1lb 5w 0nb) | 25 |
-| **Total** | | (39.2 overs) | 1163 for 8 wkts |
+| **Total** | | (39.2 overs) | **1163 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Lapham** | not out |  | 32 |
 | **J Lapham** | dnb |  |  |
 | **Extras** | | (3b 0lb 9w 0nb) | 12 |
-| **Total** | | (36 overs) | 126 for 8 wkts |
+| **Total** | | (36 overs) | **126 for 8 wkts** |
 
 ## Fall of Wickets
 

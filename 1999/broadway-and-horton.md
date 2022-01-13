@@ -35,7 +35,7 @@ Broadway and Horton regained The Ashes
 | **K Hoddinott** |not out |  | 7 |
 | **A Potter** | dnb |  |  |
 | **Extras** | | (4b 1lb 1w 0nb) | 6 |
-| **Total** | | (40 overs) | 141 for 8 wkts |
+| **Total** | | (40 overs) | **141 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Broadway and Horton regained The Ashes
 | **P O'Mahony** | not out |  | 1 |
 | **N Beswick** | lbw | T Baigent | 0 |
 | **Extras** | | (15b 1lb 0w 1nb) | 17 |
-| **Total** | | (35.2 overs) | 113 all out |
+| **Total** | | (35.2 overs) | **113 all out** |
 
 ## Fall of Wickets
 

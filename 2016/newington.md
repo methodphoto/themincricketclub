@@ -38,7 +38,7 @@ Result: {result}
 | **Saunders** | run out |  | 2 | 
 | **Mayo** | not out | | 2 | 
 | **Extras** | | (6b 4lb 2w 0nb) | 12 | 
-| **Total** | | (39.5 overs) | 162 all out | 
+| **Total** | | (39.5 overs) | **162 all out** | 
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Result: {result}
 | **D Young** | st | Davey | 8 | 
 | **J Wright** | lbw | Davey | 1 | 
 | **Extras** | | (27b 8lb 0w 0nb) | 35 | 
-| **Total** | | (42 overs) | 163 all out | 
+| **Total** | | (42 overs) | **163 all out** | 
 
 ## Fall of Wickets
 

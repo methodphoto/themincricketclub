@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Nick Hoares XI
-title: The Min v Nick Hoare's XI
+title: Nick Hoares XI
+game: The Min v Nick Hoare's XI
 location: Coombe Dingle
 date: 12/06/1983
 report: Lobsters batted first and scored 125 for 7 wkts. The Min replied with 97 for 9 wkts (all out)
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Sylvester** | not out | | 0 | 
 | **D Young** | dnb | | | 
 | **Extras** | | (7b 2lb 0w 0nb) | 9 | 
-| **Total** | | (20 overs) | 140 for 7 wkts | 
+| **Total** | | (20 overs) | **140 for 7 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Whitehead** | b | M Kirwan | 0 | 
 | **V Carana** | not out | | 0 | 
 | **Extras** | | (1b 0lb 5w 6nb) | 12 | 
-| **Total** | | (21 overs) | 97 for 9 wkts | 
+| **Total** | | (21 overs) | **97 for 9 wkts** | 
 
 ## Fall of Wickets
 

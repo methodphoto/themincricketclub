@@ -1,7 +1,7 @@
 ---
 layout: default
-game: UB II
-title: The Min v UB II
+title: UB II
+game: The Min v UB II
 location: Coombe Dingle
 date: 17/06/1983
 report: UB II batted first and scored 155 for 5 wkts. The Min scored 147 for 9 wkts before time ran out
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Ellis** | dnb | | | 
 | **R Olver** | dnb | | | 
 | **Extras** | | (3b 7lb 4w 1nb) | **15** | 
-| **Total** | | (37.1 overs) | 155 for 5 wkts | 
+| **Total** | | (37.1 overs) | **155 for 5 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Sylvester** | b | Roberts | 19 | 
 | **J Grant &#8224;** | not out | | 4 | 
 | **Extras** | | (8b 2lb 7w 0nb) | 17 | 
-| **Total** | | (34 overs) | 147 for 9 wkts | 
+| **Total** | | (34 overs) | **147 for 9 wkts** | 
 
 ## Fall of Wickets
 

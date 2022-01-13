@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Ealonian
-title: Ealonian v The Min
+title: Ealonian
+game: Ealonian v The Min
 location: Ealonian
 date: 25/08/1985
 report: Ealonian batted first made 182 for 4 wkts. The Min replied with 116 for 8 wkts.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Reyal** | dnb |  |  |
 | **Large** | dnb |  |  | 
 | **Extras** | | (0b 0lb 0w 0nb) | 10 | 
-| **Total** | | (39.5 overs) | 182 for 4 wkts | 
+| **Total** | | (39.5 overs) | **182 for 4 wkts** | 
 
 ## Fall of Wickets
 

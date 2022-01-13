@@ -1,7 +1,7 @@
 ---
 layout: default
-game: A Good Length
-title: The Min v A Good Length
+title: A Good Length
+game: The Min v A Good Length
 location: Coombe Dingle
 date: 06/05/1982
 report: A Good Length scored 134 all out. The Min were 44-0 when Rain Stopped Play.
@@ -35,7 +35,7 @@ Ken Sullivan - Best Bowling by The Min
 | **G Stuart** | b | k Sullivan | 0 |
 | **M Davis** | c J Wright | K Sullivan | 3 |
 | **Extras** | | (2b 0lb 1w 0nb) | **3** |
-| **Total** | | (15.1 overs) | **134 all out** |
+| **Total** | | (15.1 overs) | ****134 all out**** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Ken Sullivan - Best Bowling by The Min
 | **M Kirwan** | dnb | | |
 | **J Wright** | dnb | | |
 | **Extras** | | (5b 0lb 0w 0nb) | **5** |
-| **Total** | | (15.1 overs) | **44 for 0 wkts** |
+| **Total** | | (15.1 overs) | ****44 for 0 wkts**** |
 
 ## Fall of Wickets
 

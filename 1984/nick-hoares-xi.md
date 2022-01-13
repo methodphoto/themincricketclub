@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Nick Hoares XI
-title: Nick Hoare's XI v The Min
+title: Nick Hoares XI
+game: Nick Hoare's XI v The Min
 location: Gravesend
 date: 19/09/1984
 report: Nick Hoare's XI batted first and made 154 for 5 wkts. The Min replied with 158 for 5 wkts.
@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **Sellcombe** | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 24 | 
-| **Total** | | (28 overs) | 154 for 5 wkts | 
+| **Total** | | (28 overs) | **154 for 5 wkts** | 
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Whelans** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 16 | 
-| **Total** | | (30.1 overs) | 158 for 5 wkts | 
+| **Total** | | (30.1 overs) | **158 for 5 wkts** | 
 
 ## Fall of Wickets
 

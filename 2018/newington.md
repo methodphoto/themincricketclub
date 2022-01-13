@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Newington
-title: Newington v The Min
+title: Newington
+game: Newington v The Min
 location: Bobbing Court
 date: 20/05/2018
 report: Newington won the toss and inserted The Min who made 201 for 9 wkts in 40 overs. Newington made 198-8 in reply in their 40 overs.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | not out |   | 19 | 
 | **J Wright** | not out |   | 1 | 
 | **Extras** | | (8b 8lb 8w 3nb 0p) | **27** | 
-| **Total** | | (40 overs) | **201 for 9 wkts** | 
+| **Total** | | (40 overs) | ****201 for 9 wkts**** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Rasheed** | not out |  | 1 |
 | **AJ Rasheed** | did not bat |  |  |
 | **Extras** | | (16b 6lb 2w 1nb 0p) | **25** | 
-| **Total** | | (40 overs) | **198 for 8 wkts** | 
+| **Total** | | (40 overs) | ****198 for 8 wkts**** | 
 
 ## Fall of Wickets
 

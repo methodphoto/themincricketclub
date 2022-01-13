@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Kingstonian
-title: Kingstonian v The Min
+title: Kingstonian
+game: Kingstonian v The Min
 location: KCL
 date: 07/05/2017
 report: The Min batted first and scored 200-8 (all out). Kingstonian replied with 204 for 4 wkts
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **** |  |  |  |
 | **** |  |  |  |
 | **Extras** | | (6b 5b 18w 2nb 0p) | **31** |
-| **Total** | | (33.3 overs) | **200 for 8 wkts (all out)** |
+| **Total** | | (33.3 overs) | ****200 for 8 wkts (all out)**** |
 
 ## Bowling
 

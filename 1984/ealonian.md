@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Ealonian
-title: Ealonian v The Min
+title: Ealonian
+game: Ealonian v The Min
 location: Gunnersbury Park
 date: 12/08/1994
 report: The Min batted first and were bowled out for 107. Ealonians replied with 111 for 6.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Harcourt** | not out |  | 0 | 
 | **J Wright** | c | Filmer | 0 | 
 | **Extras** | | (0b 1lb 11w 0nb) | 12 | 
-| **Total** | | (36.1 overs) | 107 fall out | 
+| **Total** | | (36.1 overs) | **107 fall out** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **Caudle** | dnb |  |  | 
 | **Morgan** | dnb |  |  | 
 | **Extras** | | (3b 2lb 0w 0nb) | 5 | 
-| **Total** | | (27.2 overs) | 111 for 6 wkts | 
+| **Total** | | (27.2 overs) | **111 for 6 wkts** | 
 
 ## Fall of Wickets
 

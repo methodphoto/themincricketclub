@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Lobsters
-title: Lobsters v The Min
+title: Lobsters
+game: Lobsters v The Min
 location: New Field, Clifton School
 date: 15/06/1982
 report: Lobsters batted first and scored 125 for 7 wkts. The Min replied with 97 for 9 wkts (all out)
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Willis** | dnb | | | 
 | **Heald** | dnb | | | 
 | **Extras** | | (4b 1lb 1w 0nb) | 6 | 
-| **Total** | | (20 overs) | 125 for 7 wkts | 
+| **Total** | | (20 overs) | **125 for 7 wkts** | 
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Sylvester** | not out | | 0 | 
 | **J Cross** | dnb | | | 
 | **Extras** | | (8b 2lb 7w 0nb) | 17 | 
-| **Total** | | (20 overs) | 97 for 9 wkts (all out) | 
+| **Total** | | (20 overs) | **97 for 9 wkts (all out)** | 
 
 ## Fall of Wickets
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Middleton Stoney
-title: Middleton Stoney v The Min
+title: Middleton Stoney
+game: Middleton Stoney v The Min
 location: Middleton Park
 date: 22/04/2018
 report: The Min won the toss and inserted Middleton Stoney who scored 188-7. The Min replied with 107-8 when time ran out
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Watson** | dnb |  |  |
 | **T Cranston** | dnb |  |  |
 | **Extras** | | (6b 3lb 13w 1nb 0p) | **23** |
-| **Total** | | (38 overs) | **188 7wkts** |
+| **Total** | | (38 overs) | ****188 7wkts**** |
 
 ## Bowling
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | not out |  | 4 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (6b 3lb 13w 1nb 0p) | **23** |
-| **Total** | | (38 overs) | **107 for 8 wkts** |
+| **Total** | | (38 overs) | ****107 for 8 wkts**** |
 
 ## Fall of Wickets
 

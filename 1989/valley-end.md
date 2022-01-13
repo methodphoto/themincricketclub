@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **LeClreq** | dnb |  |  | 
 | **S Tidbury** |  |  |  |
 | **Extras** | | (2b 3lb 1w 1nb) | 7 | 
-| **Total** | | (43 overs) | 201 for 3 wkts | 
+| **Total** | | (43 overs) | **201 for 3 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | b | P Scanlon | 2 | 
 | **G Wright** | not out |  | 0 | 
 | **Extras** | | (9b 2lb 4w 0nb) | 15 | 
-| **Total** | | (33.5 overs) | 137 for 7 wkts | 
+| **Total** | | (33.5 overs) | **137 for 7 wkts** | 
 
 ## Fall of Wickets
 

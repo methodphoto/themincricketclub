@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Britwell Salome
-title: Britwell Salome v The Min
+title: Britwell Salome
+game: Britwell Salome v The Min
 location: 
 date: 
 report: 

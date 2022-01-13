@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Selling
-title: Selling v The Min
+title: Selling
+game: Selling v The Min
 location: Cadman's Meadow
 gameDate: "24/9/2017"
 report: Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 159-9 (all out) in 32 overs
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Hamlyn** | did not bat |  |  |
 | **T Carter** | did not bat |  |  |
 | **Extras** | | (2b 5lb 6w 0nb 0p) | **13** |
-| **Total** | | (40 overs) | **248 for 6 wkts** |
+| **Total** | | (40 overs) | ****248 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | b | Strickland | 2 |
 | **** |  |  |  |
 | **Extras** | | (10b 2lb 0w 0nb 0p) | **13** |
-| **Total** | | (32 overs) | **159 for 9 wkts (all out)** |
+| **Total** | | (32 overs) | ****159 for 9 wkts (all out)**** |
 
 ## Fall of Wickets
 

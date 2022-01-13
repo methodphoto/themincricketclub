@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | dnb | | |
 | **R Beswick &#42;** | dnb | | |
 | **Extras** | | (0b 2lb 24w 2nb 0p) | **28** |
-| **Total** | | (20 overs) | **153 for 6 wkts** |
+| **Total** | | (20 overs) | ****153 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **D England** | not out | | 0 |
 |  |  |  |  |
 | **Extras** | | (4b 0lb 2w 1nb 0p) | **7** |
-| **Total** | | (20 overs) | **93 for 8 wkts** |
+| **Total** | | (20 overs) | ****93 for 8 wkts**** |
 
 ## Fall of Wickets
 

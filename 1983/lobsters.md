@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Lobsters
-title: Lobsters v The Min
+title: Lobsters
+game: Lobsters v The Min
 location: New Field, Clifton School
 date: 09/06/1983
 report: The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in reply.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | dnb | | |
 | **A Sylvester** | dnb | | |
 | **Extras** | | (3b 5lb 0w 0nb) | **8** |
-| **Total** | | (20 overs) | **133 for 5 wkts** |
+| **Total** | | (20 overs) | ****133 for 5 wkts**** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Played at {{page.location}} on {{page.date}}
 | **Walkins** | not out | | 0 |
 | **Milligan** | dnb |  | 3 |
 | **Extras** | | (3b 2lb 4w 2nb) | *11* |
-| **Total** | | (20 overs) | **104 for 8 wkts** |
+| **Total** | | (20 overs) | ****104 for 8 wkts**** |
 
 ## Fall of Wickets
 

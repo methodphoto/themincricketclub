@@ -35,7 +35,7 @@ R Earney second century in the season and fourth overall and his highest score f
 | **P O'Brien** | dnb |  |  |
 | **E Garland** | dnb |  |  |
 | **Extras** | | (4b 4lb 9w 1nb) | 18 |
-| **Total** | | (38 overs) | 200 for 4 wkts |
+| **Total** | | (38 overs) | **200 for 4 wkts** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ R Earney second century in the season and fourth overall and his highest score f
 | **J Gower** | st J Grant | E Garland | 17 |
 | **T Gower** | c D Ward | E Garland | 0 |
 | **Extras** | | (0b 2lb 4w 0nb) | 6 |
-| **Total** | | (46 overs) | 150 all out |
+| **Total** | | (46 overs) | **150 all out** |
 
 ## Fall of Wickets
 

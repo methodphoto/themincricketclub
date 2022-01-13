@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Little Kingshill
-title: Little Kingshill v The Min
+title: Little Kingshill
+game: Little Kingshill v The Min
 location: Little Kingshill CC
 date: 26/05/1986
 report: Little Kingshill batted first and scored 177 for 4 wkts. The Min replied with 178 for 4 wkts
@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Lee** | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (11b 1lb 4w 2nb) | 5 | 
-| **Total** | | (40 overs) | 177 for 4 wkts | 
+| **Total** | | (40 overs) | **177 for 4 wkts** | 
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb | |  | 
 |  |  |  |  |
 | **Extras** | | (0b 7lb 0w 0nb) | 7 | 
-| **Total** | | (42 overs) | 178 for 4 wkts | 
+| **Total** | | (42 overs) | **178 for 4 wkts** | 
 
 ## Fall of Wickets
 

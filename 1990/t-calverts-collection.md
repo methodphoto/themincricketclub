@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Nige** | not out |   10 | 
 |  |  |  |  |
 | **Extras** | | (4b 2lb 14w 1nb) | 22 | 
-| **Total** | | (33 overs) | 170 for 8 wkts | 
+| **Total** | | (33 overs) | **170 for 8 wkts** | 
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ Played at {{page.location}} on {{page.date}}
 | **Norris** | b | I Marshall | 1 |
 | **Fred** | not out |  | 3 |
 | **Extras** | | (5b 4lb 6w 0nb) | 15 | 
-| **Total** | | (31.2 overs) | 154 for 11 all out | 
+| **Total** | | (31.2 overs) | **154 for 11 all out** | 
 
 ## Fall of Wickets
 

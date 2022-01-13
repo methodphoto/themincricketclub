@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Bayfield** | dnb |  |  | 
 | **Rogers** |  |  |  |
 | **Extras** | | (5b 0lb 6w 0nb) | 4 | 
-| **Total** | | (49.3 overs) | 241 for 1 wkts | 
+| **Total** | | (49.3 overs) | **241 for 1 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Barrowcliff** | lbw | Lunn | 2 | 
 |  |  |  |  | 
 | **Extras** | | (16b 2lb 0w 0nb) | 18 | 
-| **Total** | | (34.4 overs) | 170 for 9 | 
+| **Total** | | (34.4 overs) | **170 for 9** | 
 
 ## Fall of Wickets
 

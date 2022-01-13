@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Lunnon** | dnb |  |  | 
 | **J Spiers** | dnb |  |  |
 | **Extras** | | (7b 1lb 1w 1nb) | 10 | 
-| **Total** | | (31.1 overs) | 130 for 7 wkts | 
+| **Total** | | (31.1 overs) | **130 for 7 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Fielding** | dnb |  |  || 
 | **The Boy John** | dnb |  |  | 
 | **Extras** | | (0b 0lb 0w 0nb) | 0 | 
-| **Total** | | (0 overs) | 0 | 
+| **Total** | | (0 overs) | **0** | 
 
 ## Fall of Wickets
 

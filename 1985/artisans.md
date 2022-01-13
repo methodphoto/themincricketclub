@@ -1,7 +1,7 @@
 ---
 layout: default
-game: The Artisans
-title: The Artisans v The Min
+title: The Artisans
+game: The Artisans v The Min
 location: Surbiton
 date: 11/05/1985
 report: The Min batted first and made 181 for 4 wkts. The Artisans replied with 59 for 9 wkts (all out).
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | dnb |  |  | 
 | **A Beard** | dnb |  |  | 
 | **Extras** | | (1b 2lb 1w 0nb) | 4 | 
-| **Total** | | (38 overs) | 181 for 4 wkts | 
+| **Total** | | (38 overs) | **181 for 4 wkts** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **Baker** | b | D Mundy | 2 | 
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 0 | 
-| **Total** | | (39.5 overs) | 59 for 9 wkts (all out) | 
+| **Total** | | (39.5 overs) | **59 for 9 wkts (all out)** | 
 
 ## Fall of Wickets
 

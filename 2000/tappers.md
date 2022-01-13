@@ -35,7 +35,7 @@ Partnership of 116 between R Earney and R Beswick
 | **S Speight** | not out |  | 1 |
 | **B Whitby** | lbw | R Beswick | 0 |
 | **Extras** | | (5b 3lb 0w 0nb) | 8 |
-| **Total** | | (43.4 overs) | 115 all out |
+| **Total** | | (43.4 overs) | **115 all out** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Partnership of 116 between R Earney and R Beswick
 | **J Grant &#8224;** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (14b 2lb 2w 0nb) | 18 |
-| **Total** | | (33.5 overs) | 116 for 1 wkt |
+| **Total** | | (33.5 overs) | **116 for 1 wkt** |
 
 ## Fall of Wickets
 

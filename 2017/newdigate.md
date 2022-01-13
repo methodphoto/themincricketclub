@@ -1,8 +1,8 @@
 ---
 layout: default
-game: Newdigate
-title: Newdigate v The Min
-location: Sellicks Green
+title: Newdigate
+game: Newdigate v The Min
+location: The Brocus
 date: 11/06/2017
 report: The Min won the toss and inserted Newdigate who made 196 for 7 wkts  The Min replied with 175 for 8 wkts when time ran out
 result: Match Drawn
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Ruben** | dnb |  |  |
 | **Monjur** | dnb |  |  |
 | **Extras** | | (1b 4lb 5w 1nb 0p) | **11** |
-| **Total** | | (33 overs) | **196 for 7 wkts** |
+| **Total** | | (33 overs) | ****196 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | not out |  | 0 |
 | **** |  |  |  |
 | **Extras** | | (1b 4lb 5w 1nb 0p) | **11** |
-| **Total** | | (44 overs) | **175 for 8 wkts** |
+| **Total** | | (44 overs) | ****175 for 8 wkts**** |
 
 ## Fall of Wickets
 

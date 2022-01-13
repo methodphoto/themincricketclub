@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Broadway and Horton
-title: Broadway and Horton v The Min
+title: Broadway and Horton
+game: Broadway and Horton v The Min
 location: The Pound
 date: 06/07/2018
 report: Broadway and Horton won the toss and batted first making 184 all out in 39.2 overs. The Min replied with 185 for 6 in 36.2 overs
@@ -71,7 +71,7 @@ S Barrowcliff 50 off 68 balls
 | **J Purefoy** | did not bat |  |  |
 | **** |  |  |  |
 | **Extras** | | (0nb 2w 1b 3lb 0p) | **6** |
-| **Total** | | (39.2 overs) | **185 for 6** |
+| **Total** | | (39.2 overs) | ****185 for 6**** |
 
 ## Fall of Wickets
 

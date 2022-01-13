@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Sheen** | run out |  | 4 |
 | **R Cole** | b | P Bentley | 2 | 
 | **Extras** | | (8b 2lb 0w 0nb) | 10 | 
-| **Total** | | (35.5 overs) | 111 all out | 
+| **Total** | | (35.5 overs) | **111 all out** | 
 
 ## Fall of Wickets
 

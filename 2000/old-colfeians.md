@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Prendergast** | not out |  | 7 |
 |  |  |  |  |
 | **Extras** | | (4b 2lb 10w 0nb) | 16 |
-| **Total** | | (49 overs) | 121 for 8 wkts |
+| **Total** | | (49 overs) | **121 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Jones** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (4b 0lb 0w 0nb) | 4 |
-| **Total** | | (33.5 overs) | 122 for 7 wkts |
+| **Total** | | (33.5 overs) | **122 for 7 wkts** |
 
 ## Fall of Wickets
 

@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Pentreath** | b | R Beswick | 0 |
 | **A Dube** | not out |  | 0 | 
 | **Extras** | | (1b 3lb 6w 0nb 0pen) | 10 | 
-| **Total** | | (35 overs) | 192 for 9 wkts | 
+| **Total** | | (35 overs) | **192 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | lbw | R Parsons | 5 |
 | **J Wright** | c A Goodland | T Stroud-Caules | 2 |
 | **Extras** | | (3b 5lb 11w 1nb) | 20 | 
-| **Total** | | (33.5 overs) | 191 all out | 
+| **Total** | | (33.5 overs) | **191 all out** | 
 
 ## Fall of Wickets
 

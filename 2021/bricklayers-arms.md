@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Hampton** | not out |  |  | 
 | **M Otley** | dnb | | 0 | 
 | **Extras** | | (2b 1lb 27w 4nb) | **34** | 
-| **Total** | | (35 overs) | **216 for 8 wkts** | 
+| **Total** | | (35 overs) | ****216 for 8 wkts**** | 
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Wright** | c S Imran | W Gujjar | 5 | 
 | **J Grant &#8224;** | not out |  | 0 |
 | **Extras** | | (8b 1lb 24w 3nb) | **36** | 
-| **Total** | | (35 overs) | **173 for 9 wkts** | 
+| **Total** | | (35 overs) | ****173 for 9 wkts**** | 
 
 ## Fall of Wickets
 

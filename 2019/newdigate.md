@@ -1,8 +1,8 @@
 ---
 layout: default
-game: Newdigate
-title: Newdigate v The Min
-location: Newdigate
+title: Newdigate
+game: Newdigate v The Min
+location: The Brocus
 date: 09/06/2019
 report: The Min won the toss and for some reason batted first on a sticky wicket. They were duly all out for 79. Newdigate replied with 85 for 2 wkts
 result: Newdigate won by 8 wkts
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **B Crook** | dnb |  |  |
 | **I Kehl** | dnb |  |  |
 | **Extras** |  | (0b 1lb 0w 0nb 0p) | 1 |
-| **Total** | | (15.4 overs) | 84 for 2 wkts |
+| **Total** | | (15.4 overs) | **84 for 2 wkts** |
 
 ## Fall of Wickets
 

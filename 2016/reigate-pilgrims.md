@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Wigg** | dnb |  |  | 
 | **J Grant &#8224;** | dnb |  |  | 
 | **Extras** | | (20b 3lb 6w 0nb) | **29** | 
-| **Total** | | (40 overs) | **184 for 5 wkts** | 
+| **Total** | | (40 overs) | ****184 for 5 wkts**** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Jordan** | dnb |  |  |
 | **D Batey** | dnb |  |  |
 | **Extras** | | (5b 1lb 7w 0nb) | **8** | 
-| **Total** | | (40 overs) | **123 for 7 wkts** | 
+| **Total** | | (40 overs) | ****123 for 7 wkts**** | 
 
 ## Fall of Wickets
 

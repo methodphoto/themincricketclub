@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Frensham
-title: Frensham v The Min
+title: Frensham
+game: Frensham v The Min
 location: Hollowdene Recreation Ground
 date: 04/06/2017
 report: The Min won the toss and inserted Frensham, who made 198-7  The Min replied with 199 for 3 wkts
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Frost** | dnb |  |  |
 | **N Weller** | dnb |  |  |
 | **Extras** | | (10b 6lb 5w 0nb 0p) | **21** |
-| **Total** | | (37 overs) | **198 for 7 wkts** |
+| **Total** | | (37 overs) | ****198 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (11b 2lb 8w 3nb 0p) | **24** |
-| **Total** | | (29.4 overs) | **199 for 3 wkts** |
+| **Total** | | (29.4 overs) | ****199 for 3 wkts**** |
 
 ## Fall of Wickets
 

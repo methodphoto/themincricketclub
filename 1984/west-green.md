@@ -1,7 +1,7 @@
 ---
 layout: default
-game: West Green
-title: West Green v The Min
+title: West Green
+game: West Green v The Min
 location: Belmont Recreation Ground
 date: 12/05/1984
 report: The Min batted first and scored 126 for 9 wkts. West Green replied with 127 for 4 wkts. 
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | c Khursheed | J Harvey | 1 | 
 | **J Wright** | not out | | 20 | 
 | **Extras** | | (12b 8lb 0w 0nb) | 20 | 
-| **Total** | | (35 overs) | 126 for 9 wkts | 
+| **Total** | | (35 overs) | **126 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Harvey** | dnb | | | 
 | **N/A** | dnb | | | 
 | **Extras** | | (6b 2lb 3w 0nb) | 11 | 
-| **Total** | | (24.4 overs) | 128 for 4 wkts | 
+| **Total** | | (24.4 overs) | **128 for 4 wkts** | 
 
 ## Fall of Wickets
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Kingstonian
-title: Kingstonian v The Min
+title: Kingstonian
+game: Kingstonian v The Min
 location: KCL
 date: 06/05/2018
 report: The Min won the toss and inserted Kingstonian who made 171 all out in 32 overs  The Min scored 172-4 in 34.2 overs 
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Jim** | not out |  | 0 |
 | **Temy** | b | P Beswick | 1 |
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
-| **Total** | | (32 overs) | **171 all out** |
+| **Total** | | (32 overs) | ****171 all out**** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Wright** | did not bat |  |  |
 | **J Wright** | did not bat |  |  |
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
-| **Total** | | (34.2 overs) | **172 for 4 wkts** |
+| **Total** | | (34.2 overs) | ****172 for 4 wkts**** |
 
 ## Fall of Wickets
 

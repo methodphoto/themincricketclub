@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wootton** | b | M Gardiner | 0 | 
 | **D Stacey** | b | R Beswick | 11 |
 | **Extras** | | (0b 2lb 0w 0nb) | 2 | 
-| **Total** | | (31.1 overs) | 60 all out | 
+| **Total** | | (31.1 overs) | **60 all out** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | dnb |  |  | 
 | **A Swann** | dnb |  |  | 
 | **Extras** | | (9b 2lb 4w 0nb) | 15 | 
-| **Total** | | (33.5 overs) | 61 for 5 wkts | 
+| **Total** | | (33.5 overs) | **61 for 5 wkts** | 
 
 ## Fall of Wickets
 

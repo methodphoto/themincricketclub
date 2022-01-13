@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Wills Hall
-title: The Min v Wills Hall
+title: Wills Hall
+game: The Min v Wills Hall
 location: Coombe Dingle
 date: 10/06/1982
 report: The Min scored 103 for 4 wkts. Wills Hall were 56 for 7 when time ran out.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | dnb | |
 | **L Sheridan** | dnb | |
 | **Extras** | | (1b 2lb 6w 0nb) | **9** |
-| **Total** | | (15 overs) | **103 for 4 wkts** |
+| **Total** | | (15 overs) | ****103 for 4 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **Shearing** | dnb | |
 | **Reid** | dnb | |
 | **Extras** | | (4b 0lb 3w 0nb) | **7** |
-| **Total** | | (38 overs) | **56 for 7 wkts** |
+| **Total** | | (38 overs) | ****56 for 7 wkts**** |
 
 ## Fall of Wickets
 

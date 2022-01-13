@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Selling
-title: Selling v The Min
+title: Selling
+game: Selling v The Min
 location: Cadman's Meadow
 date: 21/07/2018
 report: The Min won the toss and batted first scoring 188 all out (34 overs). Selling were bowled out for 133
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Amin** | b  | Latham | 15 |
 |  |  |  |  |
 | **Extras** | | (1nb 1w 3b 0lb 0p) | **5** |
-| **Total** | | (34 overs) | **188 all out** |
+| **Total** | | (34 overs) | ****188 all out**** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Beckett** | not out |  | 12 |
 | **** |  |  |  |
 | **Extras** | | (1nb 1w 3b 0lb 0p) | **5** |
-| **Total** | | (36 overs) | **133 all out** |
+| **Total** | | (36 overs) | ****133 all out**** |
 
 ## Fall of Wickets
 

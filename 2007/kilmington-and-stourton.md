@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Kilmington and Stourton
-title: Kilmington and Stourton v The Min
+title: Kilmington and Stourton
+game: Kilmington and Stourton v The Min
 location: Stourhead
 date: 
 report: 

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Petts Wood
-title: Petts Wood CC v The Min
+title: Petts Wood
+game: Petts Wood CC v The Min
 location: Willett Recreation Ground
 date: 26/04/1986
 report: Petts Wood made 190 for 3 wkts. The Min replied with 190 for 6 wkts when time ran out with scores level.
@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (b 0b 0w 0nb) | 11 | 
-| **Total** | | (44 overs) | 190 for 3 wkts | 
+| **Total** | | (44 overs) | **190 for 3 wkts** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | dnb | |  | 
 | **J Wright** | dnb | |  | 
 | **Extras** | | (0b 7lb 3w 1nb) | 11 | 
-| **Total** | | (45 overs) | 190 for 6 wkts | 
+| **Total** | | (45 overs) | **190 for 6 wkts** | 
 
 ## Fall of Wickets
 

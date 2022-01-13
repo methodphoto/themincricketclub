@@ -35,7 +35,7 @@ R Beswick retired hurt with the score on 100
 | **J Fleetwood** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (4b 3lb 1w 1nb) | 9 |
-| **Total** | | (40 overs) | 191 for 3 wkts |
+| **Total** | | (40 overs) | **191 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ R Beswick retired hurt with the score on 100
 | **Sutton** | dnb |  |  |
 | **Taylor** | dnb |  |  |
 | **Extras** | | (12b 1lb 4w 5nb) | 22 |
-| **Total** | | (39 overs) | 141 for 7 wkts |
+| **Total** | | (39 overs) | **141 for 7 wkts** |
 
 ## Fall of Wickets
 

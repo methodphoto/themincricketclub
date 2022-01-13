@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Logica
-title: Logica v The Min
+title: Logica
+game: Logica v The Min
 location: Dundonald Recreation Ground
 date: 30/06/1985
 report: The Min batted first and scored 123 for 9 wkts (all out). Logica were bowled out in reply for 78 runs.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | not out |  | 14 | 
 |  |  |  |  |
 | **Extras** | | (3b 3lb 4w 1nb) | 11 | 
-| **Total** | | (38 overs) | 123 for 9 wkts (all out) | 
+| **Total** | | (38 overs) | **123 for 9 wkts (all out)** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **Harrah** | b | M Gardiner | 0 | 
 | **Fieldhouse** | not out |  | 0 | 
 | **Extras** | | (2b 5lb 8w 0nb) | 15 | 
-| **Total** | | (36.3 overs) | 78 all out | 
+| **Total** | | (36.3 overs) | **78 all out** | 
 
 ## Fall of Wickets
 

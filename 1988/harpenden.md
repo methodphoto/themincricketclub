@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **Thomas** | run out |  | 2 | 
 | **Tyerman** | dnb |  |  |
 | **Extras** | | (14b 7lb 7w 1nb) | 29 | 
-| **Total** | | (45 overs) | 197 for 9 wkts | 
+| **Total** | | (45 overs) | **197 for 9 wkts** | 
 
 ## Fall of Wickets
 

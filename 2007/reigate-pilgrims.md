@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Reigate Pilgrims
-title: Reigate Pilgrims v The Min
+title: Reigate Pilgrims
+game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 
 report: 

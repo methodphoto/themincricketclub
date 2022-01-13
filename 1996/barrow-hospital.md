@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Warin** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (6b 0lb 4w 0nb) | 10 |
-| **Total** | | (20 overs) | 125 for 7 wkts |
+| **Total** | | (20 overs) | **125 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **Dougal** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (2b 0lb 3w 0nb) | 5 |
-| **Total** | | (18 overs) | 126 for 3 wkts |
+| **Total** | | (18 overs) | **126 for 3 wkts** |
 
 ## Fall of Wickets
 

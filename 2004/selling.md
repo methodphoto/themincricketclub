@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Selling
-title: Selling v The Min
+title: Selling
+game: Selling v The Min
 location: Cadman's Meadow
 date: 
 report: 

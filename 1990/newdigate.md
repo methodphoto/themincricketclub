@@ -2,7 +2,7 @@
 layout: default
 title: Newdigate
 game: Newdigate v The Min
-location: Newdigate
+location: The Brocus
 date: 12/08/1990
 report: The Min batted first and made 203 for 6 wkts. Newdigate were 150 for 9 wkts when time ran out
 result: Match Drawn
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | dnb |  |  |
 |  |  |  |  | 
 | **Extras** | | (3b 4lb 3w 0nb) | 10 | 
-| **Total** | | (38.1 overs) | 203 for 6 wkts | 
+| **Total** | | (38.1 overs) | **203 for 6 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Twaites** | not out |  | 0 | 
 | **L Vizard** | not out |  | 0 |
 | **Extras** | | (0b 0lb 0w 0nb) | 22 | 
-| **Total** | | (40 overs) | 150 for 9 wkts | 
+| **Total** | | (40 overs) | **150 for 9 wkts** | 
 
 ## Fall of Wickets
 

@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Chambers** | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 13 | 
-| **Total** | | (44.4 overs) | 212 for 3 wkts | 
+| **Total** | | (44.4 overs) | **212 for 3 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 20 | 
-| **Total** | | (42 overs) | 96 for 6 wkts | 
+| **Total** | | (42 overs) | **96 for 6 wkts** | 
 
 ## Fall of Wickets
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Alex Beard's XI
-title: Alex Beard's XI v The Min
+title: Alex Beard's XI
+game: Alex Beard's XI v The Min
 location: Regent's Park
 date: 08/09/1985
 report: The Min batted first and made 124 all out. Brook replied with 163 all out.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Maynard** | c | 6 | 8 | 
 | **J Wright** | not out |  | 1 | 
 | **Extras** | | (20b 0lb 5w 0nb) | 25 | 
-| **Total** | | (25 overs) | 124 for 9 wkts | 
+| **Total** | | (25 overs) | **124 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  | 
 |  |  |  |  |
 | **Extras** | | (9b 0lb 7w 0nb) | 16 | 
-| **Total** | | (18 overs) | 40 for 8 wkts (all out) | 
+| **Total** | | (18 overs) | **40 for 8 wkts (all out)** | 
 
 ## Fall of Wickets
 

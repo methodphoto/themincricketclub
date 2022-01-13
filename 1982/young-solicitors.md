@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Young Solicitors 
-title: The Min v Bristol Young Solicitors
+title: Young Solicitors 
+game: The Min v Bristol Young Solicitors
 location: Coombe Dingle
 date: 14/06/1982
 report: Bristol Young Solicitors batted first and scored 103 for 9 wkts. The Min replied with 82 all out
@@ -73,7 +73,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Kirwan** | dnb | | |
 | **A Sylvester** | dnb | | |
 | **Extras** | | (8b 1lb 3w 0nb) | 14 | |
-| **Total** | | (20 overs) | 104 for 5 wkts| |
+| **Total** | | (20 overs) | **104 for 5 wkts|** |
 
 ## Fall of Wickets
 

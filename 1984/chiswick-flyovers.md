@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Chiswick Flyovers
-title: Chiswick Flyovers v The Min
+title: Chiswick Flyovers
+game: Chiswick Flyovers v The Min
 location: Chiswick
 date: 12/08/1984
 report: Chiswick Flyovers batted first and made 135 for 8 wkts. The Min were bundled out for 60.
@@ -35,7 +35,7 @@ Result: {result}
 |  |  |  |  | 
 |  |  |  |  |
 | **Extras** | | (18b 3lb 6w 0nb) | 27 | 
-| **Total** | | (31.5 overs) | 135 for 8 wkts |
+| **Total** | | (31.5 overs) | **135 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Result: {result}
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (9b 3lb 2w 5nb) | 18 | 
-| **Total** | | (40 overs) | 60 for 7 wkts (all out) | 
+| **Total** | | (40 overs) | **60 for 7 wkts (all out)** | 
 
 ## Fall of Wickets
 

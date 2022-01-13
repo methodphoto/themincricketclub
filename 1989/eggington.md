@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Olver** | dnb |  |  | 
 | **J Wright** | dnb |  |  |
 | **Extras** | | (0b 3lb 1w 0nb) | 4 | 
-| **Total** | | (37 overs) | 118 all out | 
+| **Total** | | (37 overs) | **118 all out** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **Evans** | not out |  | 7 | 
 | **Piper** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 16 | 
-| **Total** | | (44 overs) | 120 for 8 wkts | 
+| **Total** | | (44 overs) | **120 for 8 wkts** | 
 
 ## Fall of Wickets
 

@@ -35,7 +35,7 @@ P Grant first 50 for The Min. R Green best bowling for The Min
 | **J Grant &#8224;** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (1b 0lb 9w 0nb) | 10 |
-| **Total** | | (33.5 overs) | 203 for 6 wkts |
+| **Total** | | (33.5 overs) | **203 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ P Grant first 50 for The Min. R Green best bowling for The Min
 | **T Howard** | b | R Green | 0 |
 | **M Denman** | not out |  | 0 |
 | **Extras** | | (5b 2lb 2w 1nb) | 10 |
-| **Total** | | (33.4 overs) | 154 all out |
+| **Total** | | (33.4 overs) | **154 all out** |
 
 ## Fall of Wickets
 

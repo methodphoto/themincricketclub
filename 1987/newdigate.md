@@ -2,7 +2,7 @@
 layout: default
 title: Newdigate
 game: Newdigate v The Min
-location: Newdigate
+location: The Brocus
 date: 09/08/1987
 report: Newdigate batted first and made 195 for 3 wkts. The Min replied with 172 for 7 wkts, when time ran out
 result: Match Drawn
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Sherman** | not out |  | 1 | 
 | **Greenwell** | dnb |  |  | 
 | **Extras** | | (10b 2lb 3w 0nb) | 15 | 
-| **Total** | | (39 overs) | 195 for 3 wkts | 
+| **Total** | | (39 overs) | **195 for 3 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Calver** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
 | **Extras** | | (5b 4lb 0w 0nb) | 9 | 
-| **Total** | | (41.5 overs) | 172 for 7 wkts | 
+| **Total** | | (41.5 overs) | **172 for 7 wkts** | 
 
 ## Fall of Wickets
 

@@ -2,7 +2,7 @@
 layout: default
 title: Ballinger Waggoners
 game: Ballinger Waggoners v The Min
-location: 
+location: Ballinger Waggoners CC
 date: 
 report: 
 result: 

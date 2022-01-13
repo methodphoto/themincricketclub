@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Old Elthamians
-title: Old Elthamians v The Min
+title: Old Elthamians
+game: Old Elthamians v The Min
 location: Foxbury
 date: 01/09/1985
 report: The Min batted first and made 104 all out. Old Elthamians made with 108 for 7 wkts in reply.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Kirwan** | not out |  | 12 | 
 | **J Wright** | run out |  | 0 | 
 | **Extras** | | (2b 3lb 5w 0nb) | 10 | 
-| **Total** | | (34 overs) | 104 all out | 
+| **Total** | | (34 overs) | **104 all out** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **K Gilmour** | dnb |  |  | 
 | **R Minto** | dnb |  |  | 
 | **Extras** | | (4b 3lb 2w 0nb) | 9 | 
-| **Total** | | (39.5 overs) | 108 for 7 wkts | 
+| **Total** | | (39.5 overs) | **108 for 7 wkts** | 
 
 ## Fall of Wickets
 

@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Breakspear** | c J Grant | J Wright | 1 |
 | **J Westcar** | not out |  | 0 |
 | **Extras** | | (4b 2lb 0w 1nb) | 7 |
-| **Total** | | (28.5 overs) | 45 all out |
+| **Total** | | (28.5 overs) | **45 all out** |
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (2b 1lb 0w 0nb) | 3 |
-| **Total** | | (14.2 overs) | 48 for 0 wkts |
+| **Total** | | (14.2 overs) | **48 for 0 wkts** |
 
 ## Fall of Wickets
 

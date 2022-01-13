@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Watton-at-Stone
-title: Watton-at-Stone v The Min
+title: Watton-at-Stone
+game: Watton-at-Stone v The Min
 location: The Meadow
 date: 28/04/2019
 report: The Min won the toss and batted first in a 35 over game. The Min made 159 for 8 wkts. Watton-at-Stone made 160 for 2 wkts in reply.
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Wright** | not out |   | 1 |
 | **J Wright** | dnb | | |
 | **Extras** | | (7b 2lb 3w 3nb 0p) | **15** |
-| **Total** | | (35 overs) | **159 for 8 wkts** |
+| **Total** | | (35 overs) | ****159 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 |  | dnb |   |   |
 |  | dnb |   |   |
 | **Extras** | | (4b 0lb 5w 4nb 0p) | *13* |
-| **Total** | | (31.2 overs) | **160 for 2 wkts** |
+| **Total** | | (31.2 overs) | ****160 for 2 wkts**** |
 
 ## Fall of Wickets
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: A Good Length
-title: A Good Length v The Min
+title: A Good Length
+game: A Good Length v The Min
 location: Bramley
 date: 25/06/1982
 report: A Good Length batted first and were bowled out for 81. The Min knocked off the runs without losing a wicket. 
@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Horner** | st J Stimfig | J Grant | 1 | 
 | **G Powers** | not out | | 1 | 
 | **Extras** | | (6b 1lb 4w 4nb) | 15 | 
-| **Total** | | (18.3 overs) | 81 all out | 
+| **Total** | | (18.3 overs) | **81 all out** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Sylvester** | dnb | | | 
 | **M Kirwan** | dnb | | | 
 | **Extras** | | (3b 0lb 5w 0nb) | 8 | 
-| **Total** | | (20 overs) | 82 for 0 wkts | 
+| **Total** | | (20 overs) | **82 for 0 wkts** | 
 
 ## Fall of Wickets
 

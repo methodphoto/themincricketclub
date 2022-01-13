@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Broadway and Horton
-title: Broadway and Horton v The Min
+title: Broadway and Horton
+game: Broadway and Horton v The Min
 location: The Pound
 date: 
 report: 

@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Fielding** | b | White | 0 | 
 | **A Swann** | c | Pearce | 6 | 
 | **Extras** | | (13b 3lb 11w 0nb) | 27 | 
-| **Total** | | (44.2 overs) | 112 all out | 
+| **Total** | | (44.2 overs) | **112 all out** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **White** | not out |  | 5 | 
 | **M Wright** | not out | | 4 | 
 | **Extras** | | (5b 1lb 2w 0nb) | 8 | 
-| **Total** | | (41 overs) | 86 for 9 wkts | 
+| **Total** | | (41 overs) | **86 for 9 wkts** | 
 
 ## Fall of Wickets
 
