@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Newington
-title: Newington v The Min
+title: Newington
+game: Newington v The Min
 location: Bobbing Court
 date: 20/05/2018
 report: Newington won the toss and inserted The Min who made 201 for 9 wkts in 40 overs. Newington made 198-8 in reply in their 40 overs.

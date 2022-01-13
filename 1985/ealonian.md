@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Ealonian
-title: Ealonian v The Min
+title: Ealonian
+game: Ealonian v The Min
 location: Ealonian
 date: 25/08/1985
 report: Ealonian batted first made 182 for 4 wkts. The Min replied with 116 for 8 wkts.

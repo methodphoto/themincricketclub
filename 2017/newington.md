@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Newington
-title: Newington v The Min
+title: Newington
+game: Newington v The Min
 location: Bobbing Court
 date: 21/05/2017
 report: Newington won the toss and inserted The Min who made 130 for 9 wkts (all out)  Newington scored 130 for 3 wkts in reply

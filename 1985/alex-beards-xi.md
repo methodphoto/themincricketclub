@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Alex Beard's XI
-title: Alex Beard's XI v The Min
+title: Alex Beard's XI
+game: Alex Beard's XI v The Min
 location: Regent's Park
 date: 08/09/1985
 report: The Min batted first and made 124 all out. Brook replied with 163 all out.

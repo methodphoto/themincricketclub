@@ -1,7 +1,7 @@
 ---
 layout: default
-game: J Stimfigs XI
-title: The Min v J Stimfig's XI
+title: J Stimfigs XI
+game: The Min v J Stimfig's XI
 location: Coombe Dingle
 date: 07/06/1982
 report: The Min scored 183 all out. J Stimfig's XI replied with 184 for 5 wkts.

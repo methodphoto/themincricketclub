@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Strenue
-title: Strenue v The Min
+title: Strenue
+game: Strenue v The Min
 location: 
 date: 27/07/1986
 report: Strenue batted first and made 186 for 2 wkts. The Min were all out for 153 in reply.

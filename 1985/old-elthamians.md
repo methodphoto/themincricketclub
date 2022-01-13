@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Old Elthamians
-title: Old Elthamians v The Min
+title: Old Elthamians
+game: Old Elthamians v The Min
 location: Foxbury
 date: 01/09/1985
 report: The Min batted first and made 104 all out. Old Elthamians made with 108 for 7 wkts in reply.

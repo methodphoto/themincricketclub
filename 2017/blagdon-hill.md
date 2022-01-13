@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Blagdon Hill
-title: Blagdon Hill v The Min
+title: Blagdon Hill
+game: Blagdon Hill v The Min
 location: Blagdon Hill
 date: 06/07/2017
 report: The Min won the toss and inserted Blagdon Hill who scored 256-6 in their 40 overs. The Min replied with 217 all out in 36.5 overs.

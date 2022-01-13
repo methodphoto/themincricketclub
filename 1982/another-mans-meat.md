@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Another Mans Meat
-title: The Min v Another Man's Meat
+title: Another Mans Meat
+game: The Min v Another Man's Meat
 location: Coombe Dingle
 date: 08/05/1982
 report: The Min scored 134 all out and had Another Man's Meat all out for 100

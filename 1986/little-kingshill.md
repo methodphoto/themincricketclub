@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Little Kingshill
-title: Little Kingshill v The Min
+title: Little Kingshill
+game: Little Kingshill v The Min
 location: Little Kingshill CC
 date: 26/05/1986
 report: Little Kingshill batted first and scored 177 for 4 wkts. The Min replied with 178 for 4 wkts

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Horningsham
-title: Horningsham v The Min
+title: Horningsham
+game: Horningsham v The Min
 location: Horningsham
 date: 21/06/1986
 report: The Min batted first and scored 187 for 2 wkts. Horningsham replied with 192 for 9 wkts.

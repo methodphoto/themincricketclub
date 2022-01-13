@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Middleton Stoney
-title: Middleton Stoney v The Min
+title: Middleton Stoney
+game: Middleton Stoney v The Min
 location: Middleton Park
 date: 23/04/2017
 report: Middleton Stoney won the toss and batted first. They were all out for 223. The Min were 180 all out with 2.3 overs left.

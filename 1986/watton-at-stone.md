@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Watton-at-Stone
-title: Watton-at-Stone v The Min
+title: Watton-at-Stone
+game: Watton-at-Stone v The Min
 location: The Meadow
 date: 20/07/1986
 report: Watton-at-Stone batted first and made 237 for 5 wkts. The Min replied with 142 for 9 (all out)

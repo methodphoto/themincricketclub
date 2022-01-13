@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Brook
-title: Brook v The Min
+title: Brook
+game: Brook v The Min
 location: The Pirrie Hall Recreation Ground
 date: 14/06/1986
 report: Brook batted first and all out for 123. The Min replied with 125 for 6 wkts.

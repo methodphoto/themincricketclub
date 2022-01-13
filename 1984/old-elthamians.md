@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Old Elthamians
-title: Old Elthamians v The Min
+title: Old Elthamians
+game: Old Elthamians v The Min
 location: Foxbury
 date: 02/09/1984
 report: Old Elthamians batted first and were bowled out for 157. The Min replied with 161 for 8 wkts.

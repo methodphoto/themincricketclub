@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Blagdon Hill
-title: Blagdon Hill v The Min
+title: Blagdon Hill
+game: Blagdon Hill v The Min
 location: Blagdon Hill
 date: 05/07/2018
 report: The Min won the toss and batted first but only made 139 for 8 wkts in their 40 overs  Blagdon Hill knocked off the runs and replied with 145 for 5 wkts in 26 overs

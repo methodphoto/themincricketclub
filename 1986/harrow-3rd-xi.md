@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Harrow 3rd XI
-title: Harrow 3rd XI v The Min
+title: Harrow 3rd XI
+game: Harrow 3rd XI v The Min
 location: Harrow
 date: 17/08/1986
 report: The Min batted first made 182 for 8 wkts. Harrow 3rd XI replied with 143 for 9 wkts.

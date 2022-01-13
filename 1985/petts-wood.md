@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Petts Wood
-title: Petts Wood v The Min
+title: Petts Wood
+game: Petts Wood v The Min
 location: Willett Recreation Ground
 date: 02/06/1985
 report: Petts Wood batted first made 146 all out. The Min replied with 145 for 5 wkts.

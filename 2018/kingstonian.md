@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Kingstonian
-title: Kingstonian v The Min
+title: Kingstonian
+game: Kingstonian v The Min
 location: KCL
 date: 06/05/2018
 report: The Min won the toss and inserted Kingstonian who made 171 all out in 32 overs  The Min scored 172-4 in 34.2 overs 

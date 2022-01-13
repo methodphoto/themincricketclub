@@ -1,7 +1,7 @@
 ---
 layout: default
-game: A Good Length
-title: The Min v A Good Length
+title: A Good Length
+game: The Min v A Good Length
 location: Coombe Dingle
 date: 06/05/1982
 report: A Good Length scored 134 all out. The Min were 44-0 when Rain Stopped Play.

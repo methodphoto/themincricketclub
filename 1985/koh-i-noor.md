@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Koh-i-noor
-title: Koh-i-noor v The Min
+title: Koh-i-noor
+game: Koh-i-noor v The Min
 location: Cowgate Lane
 date: 07/07/1985
 report: The Min batted first and made 217 all out. Koh-i-noor replied with 71 for 7 wkts (all out).

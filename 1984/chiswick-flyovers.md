@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Chiswick Flyovers
-title: Chiswick Flyovers v The Min
+title: Chiswick Flyovers
+game: Chiswick Flyovers v The Min
 location: Chiswick
 date: 12/08/1984
 report: Chiswick Flyovers batted first and made 135 for 8 wkts. The Min were bundled out for 60.

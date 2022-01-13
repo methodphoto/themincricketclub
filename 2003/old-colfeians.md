@@ -4,8 +4,8 @@ title: Old Colfeians
 game: Old Colfeians v The Min
 location: Horn Park
 date: 18/05/2003
-report: 
-result: 
+report: Old Colfeians batted first and made 175 for 6 wkts. The Min replied with 128 for 9 wkts (all out)
+result: Old Colfeians won by 47 runs
 parent: 2003 Fixtures
 ---
 
@@ -21,74 +21,75 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Smith** | c | MacFarlane | 22 |
-| **Cowles** | b | Marshall | 24 |
-| **Scanlon** | b | MacFarlane | 67 |
-| **Godby** | b | MacFarlane | 62 |
-| **Macguire** | b | MacFarlane | 0 |
-| **Pavey** | b | MacFarlane |  |
-| **Chambers** | b | MacFarlane |  |
-| **Potts** | b | MacFarlane |  |
-| **Yerrell** | b | MacFarlane |  |
-| **Scanlon** | b | MacFarlane |  |
-| **Scanlon** | b | MacFarlane |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (46 overs) | 195 for 3 wkts |
+| **Kelleher** | c J Wright | G Powell | 12 |
+| **Teal** | b | H Ingham | 6 |
+| **Ragg** | c | J Smith | 78 |
+| **Walker** | c & b | J Wright | 4 |
+| **R Hull** | c & b | J Wright | 23 |
+| **Clayton** | not out |  | 23 |
+| **Bushell** | lbw | H Ingham | 12 |
+| **P Ragg** | not out |  | 5 |
+| **Bond** | dnb |  |  |
+| **Prasher** | dnb |  |  |
+|  |  |  |  |
+| **Extras** | | (6b 3lb 3w 0nb) | 12 |
+| **Total** | | (40 overs) | 175 for 6 wkts |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** |  | 42 |  |  |  |  |  |  |  |  |
+| **Batsman** |  | 2 |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Marshall** | 16 | 4 | 41 | 2 |
-| **Marshall** | 13 | 2 | 46 | 1 |
-| **Wright** | 6 | 0 | 36 | 0 |
-| **Beswick** | 7 | 1 | 34 | 0 |
-| **Howcroft** | 4 | 0 | 25 | 0 |
+| **G Powell** | 9 | 0 | 28 | 1 |
+| **H Ingham** | 11 | 2 | 42 | 2 |
+| **J Wright** | 11 | 1 | 46 | 2 |
+| **J Smith** | 9 | 0 | 45 | 1 |
 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Earney** | b | Yerrell | 2 |
-| **Grant** | b | Yerrell | 0 |
-| **Marshall** | b | Chambers | 20 |
-| **Calvert** | b | Yerrell | 2 |
-| **Howcroft** | b | Chambers | 16 |
-| **MacFarlane** | b | Scanlon | 25 |
-| **Beswick** | b | Scanlon | 21 |
-| **Gardiner** | b | Chambers | 7 |
-| **Fielding** | b | Scanlon | 8 |
-| **Young** | b | Scanlon | 2 |
-| **Wright** | not out |  | 0 |
-| **Extras** | | (9b 2lb 4w 0nb) | 15 |
-| **Total** | | (33.5 overs) | 118 all out |
+| **R Beswick &#42;** | c | Prasher | 17 |
+| **R Kitson** | b | Ragg | 13 |
+| **A Slight** | run out |  | 10 |
+| **J Smith** | c | Bushell | 15 |
+| **H Ingham** | c | Ragg | 1 |
+| **R Coyle** | b | Bushell | 1 |
+| **J Grant &#8224;** | c & b | Walker | 20 |
+| **P Grant** | c | Bond | 2 |
+| **G Powell** | b | Ragg | 28 |
+| **J Wright** | not out |  | 13 |
+|  |  |  |  |
+| **Extras** | | (2b 1lb 4w 0nb) | 7 |
+| **Total** | | (38.3 overs) | 128 for 9 wkts (all out) |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 21 | 41 | 42 | 44 | 46 | 75 | 83 |  |  |  |
+| **Batsman** | 2 | 1 | 3 | 5 | 6 | 4 | 7 |  |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **Ragg** | 9.3 | 4 | 17 | 3 |
+| **Prasher** | 9 | 0 | 28 | 1 |
+| **Clayton** | 7 | 2 | 16 | 0 |
+| **Bushell** | 5 | 0 | 22 | 2 |
+| **Walker** | 1 | 1 | 0 | 0 |
+| **Bond** | 4 | 0 | 24 | 1 |
+| **Kelleher** | 3 | 0 | 16 | 0 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 0 | 0 | 1 | 0 |
+| 0 | 1 | 1 | 0 |

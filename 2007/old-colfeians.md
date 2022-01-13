@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Old Colfeians
-title: Old Colfeians v The Min
+title: Old Colfeians
+game: Old Colfeians v The Min
 location: 
 date: 
 report: 

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Kingstonian
-title: Kingstonian v The Min
+title: Kingstonian
+game: Kingstonian v The Min
 location: KCL
 date: 07/05/2017
 report: The Min batted first and scored 200-8 (all out). Kingstonian replied with 204 for 4 wkts

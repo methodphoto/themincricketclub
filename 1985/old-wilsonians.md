@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Old Wilsonians
-title: Old Wilsonians v The Min
+title: Old Wilsonians
+game: Old Wilsonians v The Min
 location: Bramley
 date: 18/08/1985
 report: Old Wilsonians batted first made 94 all out. The Min replied with 95 for 4 wkts.

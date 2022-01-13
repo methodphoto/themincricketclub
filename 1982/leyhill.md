@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Leyhill
-title: Leyhill v The Min
+title: Leyhill
+game: Leyhill v The Min
 location: Leyhill
 date: 12/06/1982
 report: Leyhill batted first and scored 175 all out. The Min replied with 82 all out

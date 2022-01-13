@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Broadway and Horton
-title: Broadway and Horton v The Min
+title: Broadway and Horton
+game: Broadway and Horton v The Min
 location: The Pound
 date: 06/07/2018
 report: Broadway and Horton won the toss and batted first making 184 all out in 39.2 overs. The Min replied with 185 for 6 in 36.2 overs

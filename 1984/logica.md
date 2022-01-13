@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Logica
-title: Logica v The Min
+title: Logica
+game: Logica v The Min
 location: Wimbledon Park
 date: 05/08/1984
 report: Logica batted first and scored 153 all out. The Min replied with 154 for 7.

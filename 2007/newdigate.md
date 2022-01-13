@@ -1,8 +1,8 @@
 ---
 layout: default
-game: Newdigate
-title: Newdigate v The Min
-location: Newdigate
+title: Newdigate
+game: Newdigate v The Min
+location: The Brocus
 date: 
 report: 
 result: 

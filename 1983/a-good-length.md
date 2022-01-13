@@ -1,7 +1,7 @@
 ---
 layout: default
-game: A Good Length
-title: A Good Length v The Min
+title: A Good Length
+game: A Good Length v The Min
 location: Bramley
 date: 25/06/1982
 report: A Good Length batted first and were bowled out for 81. The Min knocked off the runs without losing a wicket. 

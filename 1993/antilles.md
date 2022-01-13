@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Antilles
-title: Antilles v The Min
+title: Antilles
+game: Antilles v The Min
 location: Canon's Park
 date: 27/06/1993
 report: The Min batted first and made 192 for 8 wkts. Antilles replied with 193 for 8 wkts

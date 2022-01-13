@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Clifton Hill House
-title: The Min v Clifton Hill House 
+title: Clifton Hill House
+game: The Min v Clifton Hill House 
 location: Coombe Dingle
 date: 29/04/1982
 report: The Min scored 111-5 in their 20 overs. Clifton Hill House were 83-9 after 20 overs.

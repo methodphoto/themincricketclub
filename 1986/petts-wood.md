@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Petts Wood
-title: Petts Wood CC v The Min
+title: Petts Wood
+game: Petts Wood CC v The Min
 location: Willett Recreation Ground
 date: 26/04/1986
 report: Petts Wood made 190 for 3 wkts. The Min replied with 190 for 6 wkts when time ran out with scores level.

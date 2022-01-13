@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Godstone
-title: Godstone v The Min
+title: Godstone
+game: Godstone v The Min
 location: Godstone
 date: 29/06/2018
 report: Godstone batted first and made 170 for 9 wkts. The Min replied with 67 for 9 (all out).

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Greenford
-title: Greenford v The Min
+title: Greenford
+game: Greenford v The Min
 location: Perivale
 date: 13/05/1984
 report: The Min batted first, scoring 192 for 6 wkts. Greenford were dismissed for 85.

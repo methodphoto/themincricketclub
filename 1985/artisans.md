@@ -1,7 +1,7 @@
 ---
 layout: default
-game: The Artisans
-title: The Artisans v The Min
+title: The Artisans
+game: The Artisans v The Min
 location: Surbiton
 date: 11/05/1985
 report: The Min batted first and made 181 for 4 wkts. The Artisans replied with 59 for 9 wkts (all out).

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Logica
-title: Logica v The Min
+title: Logica
+game: Logica v The Min
 location: Dundonald Recreation Ground
 date: 30/06/1985
 report: The Min batted first and scored 123 for 9 wkts (all out). Logica were bowled out in reply for 78 runs.

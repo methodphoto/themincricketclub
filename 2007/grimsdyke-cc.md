@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Grimsdyke CC
-title: Grimsdyke CC v The Min
+title: Grimsdyke CC
+game: Grimsdyke CC v The Min
 location: 
 date: 
 report: 

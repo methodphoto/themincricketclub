@@ -1,7 +1,7 @@
 ---
 layout: default
-game: West Wickham
-title: West Wickham v The Min
+title: West Wickham
+game: West Wickham v The Min
 location: West Wickham
 date: 12/05/1986
 report: West Wickham batted first made 162 all out. The Min replied with 163 for 8 wkts.

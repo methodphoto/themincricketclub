@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Lobsters
-title: Lobsters v The Min
+title: Lobsters
+game: Lobsters v The Min
 location: New Field, Clifton School
 date: 24/06/1984
 report: The Min batted first and made 142 all out. Lobsters were all out for 136

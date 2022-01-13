@@ -1,7 +1,7 @@
 ---
 layout: default
-game: A Good Length 2
-title: The Min v A Good Length 
+title: A Good Length 2
+game: The Min v A Good Length 
 location: Coombe Dingle
 date: 16/06/1982
 report: A Good Length were all out for 116. The Min replied with 117 for 6 wkts.

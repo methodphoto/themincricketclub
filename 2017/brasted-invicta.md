@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Brasted Invicta
-title: Brasted Invicta v The Min
+title: Brasted Invicta
+game: Brasted Invicta v The Min
 location: Upper Neville Ground, Tunbridge Wells
 date: 10/09/2017
 report: The Min won the toss and batted first scoring 215 for 5 wkts in 35 overs. Brasted were bowled out for 30

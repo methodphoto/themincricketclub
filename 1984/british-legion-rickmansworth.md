@@ -1,7 +1,7 @@
 ---
 layout: default
-game: British Legion Rickmansworth
-title: British Legion Rickmansworth v The Min
+title: British Legion Rickmansworth
+game: British Legion Rickmansworth v The Min
 location: Scotsridge Field
 date: 18/08/1984
 report: The Min batted first and were bowled out for 126. British Legion Rickmansworth made 127 for 2 in reply.

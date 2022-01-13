@@ -2,7 +2,7 @@
 layout: default
 title: Newdigate
 game: Newdigate v The Min
-location: Newdigate
+location: The Brocus
 date: 12/08/1990
 report: The Min batted first and made 203 for 6 wkts. Newdigate were 150 for 9 wkts when time ran out
 result: Match Drawn

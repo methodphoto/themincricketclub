@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Red Bat
-title: Red Bat v The Min
+title: Red Bat
+game: Red Bat v The Min
 location: Dulwich Park
 date: 26/05/1985
 report: The Min batted first and scored 123 for 8 wkts. Red Bat replied with 82 for 9 wkts.

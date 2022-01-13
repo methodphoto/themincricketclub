@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Hendon-Edgware
-title: Hendon-Edgware v The Min
+title: Hendon-Edgware
+game: Hendon-Edgware v The Min
 location: Mill Hill Park
 date: 15/09/1985
 report: Hendon-Edgware batted first made 184 for 8 wkts. The Min replied with 164 all out.

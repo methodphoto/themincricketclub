@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Ealing Commoners
-title: Ealing Commoners v The Min
+title: Ealing Commoners
+game: Ealing Commoners v The Min
 location: Ealing
 date: 13/05/1984
 report: The Min batted first, scoring 137 for 7 wkts. Ealing Commoners made 72 for 6 in reply before time ran out.

@@ -1,8 +1,8 @@
 ---
 layout: default
-game: Stoke Daberdon
-title: Stoke D'Aberdon v The Min
-location: Newdigate
+title: Stoke Daberdon
+game: Stoke D'Aberdon v The Min
+location: The Brocus
 date: 30/09/2018
 report: In a 35 over game Stoke D'Aberdon batted first and scored 251-6. The Min replied with 196 all out
 result: Stoke D'Aberdon won by 55 runs

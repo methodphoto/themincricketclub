@@ -2,7 +2,7 @@
 layout: default
 title: Newdigate
 game: Newdigate v The Min
-location: Newdigate
+location: The Brocus
 date: 14/08/1988
 report: Newdigate batted first and scored 203 for 9 wkts. The Min were bowled out for 186.
 result: Newdigate won by 17 runs

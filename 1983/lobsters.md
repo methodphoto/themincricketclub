@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Lobsters
-title: Lobsters v The Min
+title: Lobsters
+game: Lobsters v The Min
 location: New Field, Clifton School
 date: 09/06/1983
 report: The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in reply.

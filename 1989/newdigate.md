@@ -2,7 +2,7 @@
 layout: default
 title: Newdigate
 game: Newdigate v The Min
-location: Newdigate
+location: The Brocus
 date: 13/08/1989
 report: Newdigate batted first and made 165 all out. The Min replied with 138 for 9 wkts, when time ran out
 result: Match Drawn

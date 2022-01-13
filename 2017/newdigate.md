@@ -1,8 +1,8 @@
 ---
 layout: default
-game: Newdigate
-title: Newdigate v The Min
-location: Sellicks Green
+title: Newdigate
+game: Newdigate v The Min
+location: The Brocus
 date: 11/06/2017
 report: The Min won the toss and inserted Newdigate who made 196 for 7 wkts  The Min replied with 175 for 8 wkts when time ran out
 result: Match Drawn

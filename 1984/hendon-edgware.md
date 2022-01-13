@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Hendon-Edgware
-title: Hendon-Edgware v The Min
+title: Hendon-Edgware
+game: Hendon-Edgware v The Min
 location: Mill Hill Park
 date: 22/07/1984
 report: Hendon-Edgware batted first and were bowled out for 62. The Min replied with 63 for 2 wkts

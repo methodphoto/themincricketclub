@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Clifton College
-title: A Clifton College XI v The Min
+title: Clifton College
+game: A Clifton College XI v The Min
 location: The Close
 date: 17/06/1982
 report: A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 94 for 9 wkts.

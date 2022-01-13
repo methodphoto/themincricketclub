@@ -1,7 +1,7 @@
 ---
 layout: default
-game: White City All Stars
-title: White City All Stars v The Min
+title: White City All Stars
+game: White City All Stars v The Min
 location: Gunnersbury Park
 date: 27/04/1985
 report: White City All Stars batted first and made 163 for 9 wkts. The Min replied with 108 for 9 wkts (all out).

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Frensham
-title: Frensham v The Min
+title: Frensham
+game: Frensham v The Min
 location: Hollowdene Recreation Ground
 date: 04/06/2017
 report: The Min won the toss and inserted Frensham, who made 198-7  The Min replied with 199 for 3 wkts

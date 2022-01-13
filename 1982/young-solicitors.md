@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Young Solicitors 
-title: The Min v Bristol Young Solicitors
+title: Young Solicitors 
+game: The Min v Bristol Young Solicitors
 location: Coombe Dingle
 date: 14/06/1982
 report: Bristol Young Solicitors batted first and scored 103 for 9 wkts. The Min replied with 82 all out

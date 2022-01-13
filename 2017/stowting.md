@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Stowting
-title: Stowting v The Min
+title: Stowting
+game: Stowting v The Min
 location: Dawes Field
 date: 28/08/2017
 report: Stowting won the toss and batted scoring 166 for 9 wkts  The Min made 153 all out in reply

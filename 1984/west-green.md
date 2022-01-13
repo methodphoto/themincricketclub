@@ -1,7 +1,7 @@
 ---
 layout: default
-game: West Green
-title: West Green v The Min
+title: West Green
+game: West Green v The Min
 location: Belmont Recreation Ground
 date: 12/05/1984
 report: The Min batted first and scored 126 for 9 wkts. West Green replied with 127 for 4 wkts. 

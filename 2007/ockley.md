@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Ockley
-title: Ockley v The Min
+title: Ockley
+game: Ockley v The Min
 location: 
 date: 
 report: 

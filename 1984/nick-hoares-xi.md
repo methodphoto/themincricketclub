@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Nick Hoares XI
-title: Nick Hoare's XI v The Min
+title: Nick Hoares XI
+game: Nick Hoare's XI v The Min
 location: Gravesend
 date: 19/09/1984
 report: Nick Hoare's XI batted first and made 154 for 5 wkts. The Min replied with 158 for 5 wkts.

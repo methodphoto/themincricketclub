@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Bristol Grammar School
-title: Bristol Grammar School II XI v The Min
+title: Bristol Grammar School
+game: Bristol Grammar School II XI v The Min
 location: Failand Road
 date: 13/05/1982
 report: The Min scored 171 all out. Bristol Grammar School made 129 all out in reply.

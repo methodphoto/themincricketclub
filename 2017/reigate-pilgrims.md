@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Reigate Pilgrims
-title: Reigate Pilgrims v The Min
+title: Reigate Pilgrims
+game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 17/09/2017
 report: Reigate won the toss and inserted The Min, who made 140-9 (all out)  Reigate replied with 141 for 5 wkts

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Town Cryers
-title: Town Cryers v The Min
+title: Town Cryers
+game: Town Cryers v The Min
 location: Wandsworth Park
 date: 19/05/1985
 report: Town Cryers batted first but made 51 for 8 (all out). The Min replied with 52 for 6 wkts.

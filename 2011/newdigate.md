@@ -2,7 +2,7 @@
 layout: default
 title: Newdigate
 game: Newdigate v The Min
-location: 
+location: The Brocus
 date: 
 report: 
 result: 

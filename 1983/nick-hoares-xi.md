@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Nick Hoares XI
-title: The Min v Nick Hoare's XI
+title: Nick Hoares XI
+game: The Min v Nick Hoare's XI
 location: Coombe Dingle
 date: 12/06/1983
 report: Lobsters batted first and scored 125 for 7 wkts. The Min replied with 97 for 9 wkts (all out)

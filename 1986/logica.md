@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Logica
-title: Logica v The Min
+title: Logica
+game: Logica v The Min
 location: Wimbledon Park
 date: 13/07/1986
 report: Logica batted first and were all out for 102. The Min replied with 103 for 2 wkts.

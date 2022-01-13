@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Sudbury Court
-title: Sudbury Court v The Min
+title: Sudbury Court
+game: Sudbury Court v The Min
 location: Sudbury Court
 date: 15/07/1994
 report: The Min batted first, scoring 184 for 9 wkts. Sudbury Court replied with 115 all out.

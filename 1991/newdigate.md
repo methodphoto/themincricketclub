@@ -2,7 +2,7 @@
 layout: default
 title: Newdigate
 game: Newdigate v The Min
-location: Newdigate
+location: The Brocus
 date: 11/08/1991
 report: The Min batted first and made 186 for 6 wkts. Newdigate were 35 for 5 wkts when rain stopped play
 result: Match Abandoned

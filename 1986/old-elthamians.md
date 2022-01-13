@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Old Elthamians
-title: Old Elthamians v The Min
+title: Old Elthamians
+game: Old Elthamians v The Min
 location: Foxbury
 date: 18/05/1986
 report: Old Elthamians batted first and scored 200 for 7 wkts. The Min replied with 201 for 4 wkts.

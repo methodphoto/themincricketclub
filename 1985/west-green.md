@@ -1,7 +1,7 @@
 ---
 layout: default
-game: West Green
-title: West Green v The Min
+title: West Green
+game: West Green v The Min
 location: Wood Green
 date: 05/05/1985
 report: West Green batted first and scored 130 for 6 wkts. The Min were bowled out for 89.

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Watton-at-Stone
-title: Watton-at-Stone v The Min
+title: Watton-at-Stone
+game: Watton-at-Stone v The Min
 location: The Meadow
 date: 28/04/2019
 report: The Min won the toss and batted first in a 35 over game. The Min made 159 for 8 wkts. Watton-at-Stone made 160 for 2 wkts in reply.

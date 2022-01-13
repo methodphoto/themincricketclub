@@ -1,7 +1,7 @@
 ---
 layout: default
-game: UB II
-title: The Min v UB II
+title: UB II
+game: The Min v UB II
 location: Coombe Dingle
 date: 17/06/1983
 report: UB II batted first and scored 155 for 5 wkts. The Min scored 147 for 9 wkts before time ran out

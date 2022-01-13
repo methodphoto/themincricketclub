@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Lobsters
-title: Lobsters v The Min
+title: Lobsters
+game: Lobsters v The Min
 location: New Field, Clifton School
 gameDate: "14/07.1985"
 report: Lobsters batted first made 183 for 7 wkts. The Min replied with 164 all out.

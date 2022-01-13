@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Middleton Stoney
-title: Middleton Stoney v The Min
+title: Middleton Stoney
+game: Middleton Stoney v The Min
 location: Middleton Park
 date: 17/04/2016
 report: Middleton Stoney won the toss and batted first, making 119 for 7. The Min replied with 121-5

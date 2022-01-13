@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Middleton Stoney
-title: Middleton Stoney v The Min
+title: Middleton Stoney
+game: Middleton Stoney v The Min
 location: Middleton Park
 date: 22/04/2018
 report: The Min won the toss and inserted Middleton Stoney who scored 188-7. The Min replied with 107-8 when time ran out

@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Selling
-title: Selling v The Min
+title: Selling
+game: Selling v The Min
 location: Cadman's Meadow
 gameDate: "24/9/2017"
 report: Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 159-9 (all out) in 32 overs

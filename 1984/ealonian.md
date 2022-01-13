@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Ealonian
-title: Ealonian v The Min
+title: Ealonian
+game: Ealonian v The Min
 location: Gunnersbury Park
 date: 12/08/1994
 report: The Min batted first and were bowled out for 107. Ealonians replied with 111 for 6.

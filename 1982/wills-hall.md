@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Wills Hall
-title: The Min v Wills Hall
+title: Wills Hall
+game: The Min v Wills Hall
 location: Coombe Dingle
 date: 10/06/1982
 report: The Min scored 103 for 4 wkts. Wills Hall were 56 for 7 when time ran out.

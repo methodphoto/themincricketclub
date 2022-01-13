@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Standard Bridge
-title: Standard Bridge v The Min
+title: Standard Bridge
+game: Standard Bridge v The Min
 location: Bishop's Park
 date: 08/07/1984
 report: The Min batted first, scoring 103 for 8 wkts all out. Standard Bridge scored 106 for 4.

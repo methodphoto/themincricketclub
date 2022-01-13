@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Bathurst Arms
-title: Bathurst Arms v The Min
+title: Bathurst Arms
+game: Bathurst Arms v The Min
 location: North Cerney CC
 date: 17/06/1983
 report: Bathurst Arms batted first scoring 85 all out. The Min replied with 89 for 6 wkts.

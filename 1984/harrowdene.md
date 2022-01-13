@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Harrowdene
-title: Harrowdene v The Min
+title: Harrowdene
+game: Harrowdene v The Min
 location: Harrowdene
 date: 01/07/1984
 report: Harrowdene batted first and made 85 all out. The Min replied with 86 for the loss of one wicket.

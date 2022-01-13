@@ -1,7 +1,7 @@
 ---
 layout: default
-game: Shamrock
-title: Shamrock v The Min
+title: Shamrock
+game: Shamrock v The Min
 location: Meridian Cricket Ground
 date: 24/06/1985
 report: The Min batted first and were all out for 53. Shamrock were 33 for 1 when rain stopped play.
