@@ -4,7 +4,7 @@ title: Great Tew
 game: Great Tew v The Min
 location: Great Tew
 date: 23/05/1993
-report: The Min batted first and made 178 for 9 wkts. Great Tew replied with 
+report: The Min batted first and made 178 for 9 wkts. Great Tew replied with 153 for 8 wkts
 result: Match Drawn
 parent: 1993 Fixtures
 ---
