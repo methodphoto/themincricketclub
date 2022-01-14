@@ -35,7 +35,7 @@ William Calvert - Highest Score for The Min. James Booth - First duck for The Mi
 | **J Wright** | dnb | | |
 | **M Kirwan** | dnb | | |
 | **Extras** | | (8b 1lb 0w 0nb) | **9** |
-| **Total** | | (20 overs) | ****111 for 5 wkts**** |
+| **Total** | | (20 overs) | **111 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ William Calvert - Highest Score for The Min. James Booth - First duck for The Mi
 | **S Ames** | c & b | M Gardiner | 0 |
 | **K Crisp** | not out |  | 3 |
 | **Extras** | | (12b 0lb 1w 0nb) | *13* |
-| **Total** | | (20 overs) | ****83 for 9 wkts**** |
+| **Total** | | (20 overs) | **83 for 9 wkts** |
 
 ## Fall of Wickets
 

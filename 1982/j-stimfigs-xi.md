@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Kirwan** | lbw | Swift | 0 | 
 | **A Sylvester** | not out | | 4 | 
 | **Extras** | | (1b 5lb 3w 2nb) | **11** | 
-| **Total** | | (37.2 overs) | ****183 all out**** | 
+| **Total** | | (37.2 overs) | **183 all out** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | | dnb| | |
 | | dnb| | |
 | **Extras** | | (13b 10lb 2w 0nb) | **25** |
-| **Total** | | (38 overs) | ****184 for 5 wkts**** | 
+| **Total** | | (38 overs) | **184 for 5 wkts** | 
 
 ## Fall of Wickets
 

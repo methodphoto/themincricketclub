@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Passingham** | dnb |  |  |
 | **S Vincent** | dnb |  |  |
 | **Extras** |  | (2b 2lb 2w 0nb 0p) | **6** |
-| **Total** | | (21.2 overs) | ****109 for 3 wkts**** |
+| **Total** | | (21.2 overs) | **109 for 3 wkts** |
 
 ## Fall of Wickets
 

@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Ja Frost** | not out |  | 12 | 
 | **Ju Frost** | not out | | 0 | 
 | **Extras** | | (2b 4lb 2w 0nb) | **8** | 
-| **Total** | | (41 overs) | ****192 all out**** | 
+| **Total** | | (41 overs) | **192 all out** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | dnb |  |  | 
 | **I Miah** | dnb |  |  | 
 | **Extras** | | (15b 6lb 14w 5nb) | **40** | 
-| **Total** | | (34 overs) | ****196 for 6 wkts**** | 
+| **Total** | | (34 overs) | **196 for 6 wkts** | 
 
 ## Fall of Wickets
 

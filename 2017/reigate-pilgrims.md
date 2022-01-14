@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | run out |  | 7 |
 | **J Wright &#42;** | dnb |  |  |
 | **Extras** | | (7b 0lb 9w 2nb 0p) | **18** |
-| **Total** | | (41.5 overs) | ****140 for 9 wkts**** |
+| **Total** | | (41.5 overs) | **140 for 9 wkts** |
 
 ## Fall of Wickets
 

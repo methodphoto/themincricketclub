@@ -35,7 +35,7 @@ Ken Sullivan - Best Bowling by The Min
 | **G Stuart** | b | k Sullivan | 0 |
 | **M Davis** | c J Wright | K Sullivan | 3 |
 | **Extras** | | (2b 0lb 1w 0nb) | **3** |
-| **Total** | | (15.1 overs) | ****134 all out**** |
+| **Total** | | (15.1 overs) | **134 all out** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Ken Sullivan - Best Bowling by The Min
 | **M Kirwan** | dnb | | |
 | **J Wright** | dnb | | |
 | **Extras** | | (5b 0lb 0w 0nb) | **5** |
-| **Total** | | (15.1 overs) | ****44 for 0 wkts**** |
+| **Total** | | (15.1 overs) | **44 for 0 wkts** |
 
 ## Fall of Wickets
 
