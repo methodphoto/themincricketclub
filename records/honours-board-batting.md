@@ -222,7 +222,7 @@ parent: Records
 | **1998** | Richard Earney | v [Broadway and Horton](../1998/broadway-and-horton) | **67&#42;** |
 | **1998** | Richard Earney | v [Watton-at-Stone](../1998/watton-at-stone) | **62&#42;** |
 | **1997** | James Hylton | v [Hetairoi](../1997/hetairoi) | **82&#42;** |
-| **1997** | Paul Sayer | v [Captain Scott’s XI](../1997/captain-scott-xi) | **68** |
+| **1997** | Paul Sayer | v [Captain Scott XI](../1997/captain-scott) | **68** |
 | **1997** | Stephen Hornsby | v [Tappers](../1997/tappers) | **50&#42;** |
 | **1997** | Simon Barrowcliff | v [Stowting](../1997/stowting) | **55** |
 | **1997** | Jim Grant | v [Hetairoi](../1997/hetairoi) | **87** |
@@ -235,8 +235,8 @@ parent: Records
 | **1996** | Jim Grant | v [Stowting](../1996/stowting) | **73** |
 | **1996** | Phil Bentley | v [Great Braxted](../1996/great-braxted) | **89** |
 | **1996** | Phil Bentley | v [Valley End](../1996/valley-end) | **76** |
-| **1996** | Simon Barrowcliff | v [A Stonor XI](../1996/a-stonor-xi) | **53** |
-| **1996** | Richard Earney | v [Captain Scott XI](../1996/captain-scott-xi) | **54** |
+| **1996** | Simon Barrowcliff | v [A Stonor XI](../1996/stonor) | **53** |
+| **1996** | Richard Earney | v [Captain Scott XI](../1996/captain-scott) | **54** |
 | **1996** | Richard Earney | v [Wickford](../1996/wickford) | **57** |
 | **1995** | Will Wright | v [Old Elthamians](../1995/old-elthamians) | **91** |
 | **1995** | Simon Barrowcliff | v [Farnborough](../1995/farnborough) | **77** |
@@ -251,9 +251,9 @@ parent: Records
 | **1994** | Stephen Hornsby | v [Farnborough](../1994/farnborough) | **64&#42;** |
 | **1994** | Stephen Hornsby | v [Great Tew](../1994/great-tew) | **116** |
 | **1994** | Richard Beswick | v [Hetairoi](../1994/hetairoi) | **53** |
-| **1994** | Richard Beswick | v [Polytechnic III XI](../1994/polytechnic-iii-xi) | **54&#42;** |
+| **1994** | Richard Beswick | v [Polytechnic III XI](../1994/polytechnic-iii) | **54&#42;** |
 | **1994** | Richard Beswick | v [Great Tew](../1994/great-tew) | **54&#42;** |
-| **1994** | Richard Earney | v [Polytechnic III XI](../1994/polytechnic-iii-xi) | **82** |
+| **1994** | Richard Earney | v [Polytechnic III XI](../1994/polytechnic-iii) | **82** |
 | **1993** | Will Wright | v [Old Elthamians](../1993/old-elthamians) | **53** |
 | **1993** | Ian Marshall | v [Watton-at-Stone](../1993/watton-at-stone) | **94** |
 | **1993** | Simon Barrowcliff | v [Queen Camel](../1993/queen-camel) | **64** |
@@ -321,7 +321,7 @@ parent: Records
 | **1986** | Jim Grant | v [Harrow 3rd XI](../1986/harrow-3rd-xi) | **52** |
 | **1986** | Jim Grant | v [Old Elthamians](../1986/old-elthamians) | **63** |
 | **1986** | Andrew Gallagher | v [Watton-at-Stone](../1986/watton-at-stone) | **59** |
-| **1985** | Alan Sylvester | v [Brook 2nd XI](../1985/brook-2nd-xi) | **56** |
+| **1985** | Alan Sylvester | v [Brook 2nd XI](../1985/brook) | **56** |
 | **1985** | John Packenham-Walsh | v [Petts Wood](../1985/petts-wood) | **70** |
 | **1985** | Andrew Fielding | v [Koh-i-Noor](../1985/koh-i-noor) | **58** |
 | **1985** | William Calvert  | v [Old Elthamians](../1985/old-elthamians) | **50** |
@@ -336,5 +336,5 @@ parent: Records
 | **1984** | Andrew Gallagher | v [Sudbury Court](../1984/sudbury-court) | **84** |
 | **1983** | James Booth | v [Bathurst Arms](../1983/bathurst-arms) | **53** |
 | **1983** | Andrew Gallagher | v [A Good Length](../1983/a-good-length) | **50** |
-| **1983** | Andrew Gallagher | v [N. Hoare’s XI](../1983/n-hoares-xi) | **81** |
+| **1983** | Andrew Gallagher | v [Nick Hoare’s XI](../1983/nick-hoares-xi) | **81** |
 | **1982** | James Booth | v [J. Stimfig’s XI](../1982/j-stimfigs-xi) | **72** |
