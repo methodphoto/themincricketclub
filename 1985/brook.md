@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Brook
-game: Brook v The Min
+game: Brook 2nd XI v The Min
 location: The Pirrie Hall Recreation Ground
 date: 15/05/1985
 report: Brook batted first made 217 all out. The Min replied with 163 all out.
