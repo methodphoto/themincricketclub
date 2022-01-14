@@ -61,8 +61,8 @@ Played at {{page.location}} on {{page.date}}
 | **N Claassen** | b | A Head | 40 |
 | **R Beswick &#42;** | run out |  | 14 |
 | **A Slight** | c | R Lyons | 6 |
-| **R Coyle** | c & b | R Lyons | 54 |
-| **J Grant &#8224;** | b | T Dunn | 0 |
+| **R Coyle** | c & b | R Lyons | 0 |
+| **J Grant &#8224;** | b | T Dunn | 54 |
 | **M Mason** | run out |  | 0 |
 | **S Hinton-Smith** | b | R Lyons | 1 |
 | **P Grant** | run out |  | 14 |
