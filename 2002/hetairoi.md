@@ -63,7 +63,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Oliver** | c R Earney | E Garland | 0 |
 | **S Matthews** | c R Earney | E Garland | 4 |
 | **A Cunningham** | c C Allchorne | R Earney | 6 |
-| **K Whitehead** | c I Marshall | E Garland  |24|
+| **K Whitehead** | c I Marshall | E Garland  | 24 |
 | **T Ball** | not out |  | 19 |
 | **K Robertson** | c C Allchorne | E Garland | 2 |
 | **B Slade** | not out |  | 20 |
