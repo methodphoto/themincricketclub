@@ -63,7 +63,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | b Pav 2 |
 |  |  |  |  |
 | **Extras** | | (5b 5lb 5w 2nb 0p) | **17** | 
-| **Total** | | (37 overs) | ****207 for 9 wkts (all out)**** | 
+| **Total** | | (37 overs) | **207 for 9 wkts (all out)** | 
 
 ## Fall of Wickets
 

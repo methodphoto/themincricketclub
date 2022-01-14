@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Payne** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (5b 1lb 7w 0nb) | **13** | 
-| **Total** | | (35 overs) | ****109 for 7 wkts**** | 
+| **Total** | | (35 overs) | **109 for 7 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Beswick** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
 | **Extras** | | (1b 3lb 3w 0nb) | **7** | 
-| **Total** | | (20.2 overs) | ****110 for 5 wkts**** | 
+| **Total** | | (20.2 overs) | **110 for 5 wkts** | 
 
 ## Fall of Wickets
 

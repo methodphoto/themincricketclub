@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Vincent** | did not bat |  |  |
 | **** |  |  |  |
 | **Extras** | | (12w 12b 4lb 1nb  0p) | **29** |
-| **Total** | | (40 overs) | ****295  for 3 wkts**** |
+| **Total** | | (40 overs) | **295  for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **Johnstone** | b  | S Vincent | 0 |
 | **J Wright** | not out |  | 0 |
 | **Extras** | | (12w 12b 4lb 1nb  0p) | **29** |
-| **Total** | | (33 overs) | ****168  all out**** |
+| **Total** | | (33 overs) | **168  all out** |
 
 ## Fall of Wickets
 

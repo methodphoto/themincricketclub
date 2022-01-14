@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **** |  |  |  |
 | **** |  |  |  |
 | **Extras** | | (0nb 5w 6b 13lb 0p) | **24** |
-| **Total** | | (42 overs) | ****184 for 6 wkts**** |
+| **Total** | | (42 overs) | **184 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Nicholls &#8224;** | did not bat |  |  |
 | **J Hoy** | did not bat |  |  |
 | **Extras** | | (0nb 5w 6b 13lb 0p) | **24** |
-| **Total** | | (42 overs) | ****184 for 6 wkts**** |
+| **Total** | | (42 overs) | **184 for 6 wkts** |
 
 ## Fall of Wickets
 

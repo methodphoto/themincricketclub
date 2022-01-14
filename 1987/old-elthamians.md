@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Sylvester** | not out |  | 13 |
 | **J Wright** | b | Pearce | 3 | 
 | **Extras** | | (2b 0lb 1w 0nb) | **3** | 
-| **Total** | | (43 overs) | ****136 all out**** | 
+| **Total** | | (43 overs) | **136 all out** | 
 
 ## Fall of Wickets
 
