@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Polytechnic III
-game: Polytechnic III v The Min
+game: Polytechnic III XI v The Min
 location: Quintin Hogg Memorial Ground
 date: 17/07/1994
 report: Polytechnic III batted first and scored 169 for 7 wkts. The Min replied with 173 for 3 wkts
