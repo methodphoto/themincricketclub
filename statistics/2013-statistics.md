@@ -5,7 +5,7 @@ nav_order: 29
 parent: Statistics
 ---
 
-{{page.title}}
+# {{page.title}}
 
 ## Season Batting
 
