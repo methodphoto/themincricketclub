@@ -26,8 +26,8 @@ Played at {{page.location}} on {{page.date}}
 | **Hodgson** | run out |  | 1 |
 | **Prouting** | b | R Beswick | 5 |
 | **S Arnold** | b | R Beswick | 0 |
-| **Copestake** | lbw | R Earney | 18 |
-| **Teague** | c A Rubie | R Green | 0 |
+| **K Copestake** | lbw | R Earney | 18 |
+| **P Teague** | c A Rubie | R Green | 0 |
 | **Perryman** | c J Grant | R Earney | 9 |
 | **D Baty** | not out |  | 26 |
 | **A Tomes** | run out |  | 6 |
@@ -55,16 +55,16 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | c | Teague | 0 |
-| **J Grant &#8224;** | b | Teague | 30 |
-| **A Slight** | lbw | Teague | 11 |
+| **R Earney** | c | P Teague | 0 |
+| **J Grant &#8224;** | b | P Teague | 30 |
+| **A Slight** | lbw | P Teague | 11 |
 | **W Calvert** | c & b | S Burgess | 10 |
 | **E Garland** | c A Tomes | S Arnold | 17 |
 | **G Powell** | b | A Tomes | 21 |
 | **A Haslam** | b | S Arnold | 22 |
 | **A Rubie** | b | S Arnold | 11 |
 | **S Patel** | c S Burgess | S Arnold |08 |
-| **R Green** | b | Teague | 7 |
+| **R Green** | b | P Teague | 7 |
 | **R Beswick &#42;** | not out |  | 0 |
 | **Extras** | | (12b 10lb 2w 1nb) | 25 |
 | **Total** | | (38.3 overs) | **154 all out** |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **Prouting** | 6 | 0 | 35 | 0 |
-| **Teague** | 10 | 2 | 24 | 4 |
+| **P Teague** | 10 | 2 | 24 | 4 |
 | **S Burgess** | 5 | 1 | 14 | 1 |
 | **A Tomes** | 9 | 0 | 26 | 1 |
 | **D Baty** | 4 | 0 | 11 | 0 |

@@ -122,7 +122,7 @@ parent: Results
 |:---|:---|:---|
 | {date} | [Middleton Stoney](../2013/middleton-stoney) | Drawn |
 | {date} | [Britwell Salome](../2013/britwell-salome) | Lost |
-| {date} | [The Nightwatchman CC](../2013/nightwatchman) | **Won** |
+| {date} | [Nightwatchman CC](../2013/nightwatchman) | **Won** |
 | {date} | [Newington](../2013/newington) | Lost |
 | {date} | [Frensham](../2013/frensham) | **Won** |
 | {date} | [The Herd](../2013/the-herd) | Lost |
@@ -297,13 +297,13 @@ parent: Results
 | 27/06/2003 | [Watton-at-Stone](../2003/watton-at-stone) | Drawn |
 | 06/07/2003 | [Stowting](../2003/stowting) | Drawn |
 | 10/07/2003 | [Wareham](../2003/wareham) | Drawn |
-| {date} | [Broadway and Horton](../2003/broadway-and-horton) | Lost |
-| {date} | [Land Warfare XI](../2003/land-warfare-xi) | **Won** |
-| {date} | [Honor Oak](../2003/honor-oak) | Drawn |
-| {date} | [Tappers](../2003/tappers) | Lost |
-| {date} | [Selling](../2003/selling) | Lost |
-| {date} | [Spencer](../2003/spencer) | **Won** |
-| {date} | [Reigate Pilgrims](../2003/reigate-pilgrims) | Drawn |
+| 11/07/2003 | [Broadway and Horton](../2003/broadway-and-horton) | Lost |
+| 12/07/2003 | [Land Warfare XI](../2003/land-warfare-xi) | **Won** |
+| 13/07/2003| [Honor Oak](../2003/honor-oak) | Drawn |
+| 03/08/2003 | [Tappers](../2003/tappers) | Lost |
+| 17/08/2003 | [Selling](../2003/selling) | Lost |
+| 31/08/2003 | [Spencer](../2003/spencer) | **Won** |
+| 14/09/2003 | [Reigate Pilgrims](../2003/reigate-pilgrims) | Drawn |
 
 | 2002 |  |  |
 |:---|:---|:---|

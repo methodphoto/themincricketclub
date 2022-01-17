@@ -23,9 +23,9 @@ Played at {{page.location}} on {{page.date}}
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **S Burgess** | b | A Desarum | 7 |
-| **Copestake** | b | R Beswick | 79 |
+| **K Copestake** | b | R Beswick | 79 |
 | **Greenwood** | lbw | S Masterson | 16 |
-| **Teague** | c J Grant | R Green | 2 |
+| **P Teague** | c J Grant | R Green | 2 |
 | **Mitchell** | lbw | R Beswick | 14 |
 | **D Batey** | run out |   | 6 |
 | **Kernick** | run out |  | 1 |
@@ -84,7 +84,7 @@ Played at {{page.location}} on {{page.date}}
 |---|:---|:---|:---|:---|
 | **Greenwood** | 7 | 2 | 23 | 0 |
 | **Kernick** | 9 | 3 | 14 | 3 |
-| **Teague** | 10 | 0 | 39 | 3 |
+| **P Teague** | 10 | 0 | 39 | 3 |
 | **A Tomes** | 7 | 0 | 32 | 1 |
 
 ## Win/Loss Ratio

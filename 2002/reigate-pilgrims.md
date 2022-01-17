@@ -21,10 +21,10 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | c Copestake | P Teague | 10 |
+| **R Earney** | c K Copestake | P Teague | 10 |
 | **R Kitson** | b | N Buckland | 37 |
 | **R Beswick &#42;** | run out |  | 2 |
-| **S Hornsby** | lbw | Copestake | 83 |
+| **S Hornsby** | lbw | K Copestake | 83 |
 | **W Calvert** | b | W Seldon | 5 |
 | **I Marshall** | b | A Tomes | 3 |
 | **J Grant &#8224;** | not out |  | 25 |
@@ -52,13 +52,13 @@ Played at {{page.location}} on {{page.date}}
 | **W Seldon** | 7 | 0 | 32 | 1 |
 | **A Tomes** | 7 | 0 | 32 | 1 |
 | **D Batey** | 7 | 0 | 32 | 1 |
-| **Copestake** | 7 | 0 | 32 | 1 |
+| **K Copestake** | 7 | 0 | 32 | 1 |
 
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Copestake** | run out (R Beswick) |  | 56 |
+| **K Copestake** | run out (R Beswick) |  | 56 |
 | **Price** | c J Grant | I Marshall | 0 |
 | **S Burgess** | c J Grant | I Marshall | 2 |
 | **S Greenwood** | c I Marshall | N Putt | 64 |

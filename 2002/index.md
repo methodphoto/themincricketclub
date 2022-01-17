@@ -14,7 +14,7 @@ parent: 2000s
 
 | June |  |  |  |
 |:---|:---|:---|:---|
-| 9th | 14:00 | [Streatham](streatham) | [Away](https://goo.gl/maps/885iyAeU7LffFmLw8) |
+| 9th | 14:00 | [Streatham](streatham) | [Away](https://g.page/smcricketclub?share) |
 | 23rd | 14:00 | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 
 | July - Tour |  |  |  |

@@ -24,16 +24,16 @@ parent: 2000s
 
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
-| 10th | 14:30 | [Wareham](wareham) | [Away]() |
+| 10th | 14:30 | [Wareham](wareham) | [Away](https://goo.gl/maps/ZAQ2sHnhykNNozJHA) |
 | 11th | 14:30 | [Broadway and Horton (for the Ashes)](broadway-and-horton) | [TA19 9RA](https://goo.gl/maps/ULbmC6LSX5HSAe8U6) |
-| 12th | 14:00 | [Land Warfare XI](land-warfare-xi) | [Away]() |
-| 13th | 14:30 | [Honor Oak](honor-oak) | [Away]() |
+| 12th | 14:00 | [Land Warfare XI](land-warfare-xi) | [Away](https://goo.gl/maps/3n6nMAbWdLDRPhGU8) |
+| 13th | 14:30 | [Honor Oak](honor-oak) | [Away](https://goo.gl/maps/H34z1fKvzwkLUNp69) |
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 3rd | 14:30 | [Tappers](tappers) | [Away]() |
+| 3rd | 14:30 | [Tappers](tappers) | [Away](https://goo.gl/maps/VrSWAsVDD2Xi4Nxy9) |
 | 17th | 14:00 | [Selling](selling) | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
-| 31th | 14:00 | [Spencer](spencer) | [Away]() |
+| 31th | 14:00 | [Spencer](spencer) | [Away](https://goo.gl/maps/JYJF2XUSYvjAnaEZ9) |
 
 | September |  |  |  |
 |:---|:---|:---|:---|
