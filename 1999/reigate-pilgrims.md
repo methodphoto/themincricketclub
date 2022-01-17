@@ -22,13 +22,13 @@ Played at {{page.location}} on {{page.date}}
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Curtis** | c & b | I Marshall | 4 |
-| **Copestake** | c J Grant | I Marshall | 7 |
-| **Burnside** | b | J Wright | 53 |
+| **K Copestake** | c J Grant | I Marshall | 7 |
+| **R Burnside** | b | J Wright | 53 |
 | **S Burgess** | c & b | J Wright | 49 |
-| **Tomes** | c & b | R Beswick | 38 |
+| **A Tomes** | c & b | R Beswick | 38 |
 | **Boers** | not out |  | 55 |
 | **Bates** | lbw | R Beswick | 8 |
-| **Teague** | not out |  | 12 |
+| **P Teague** | not out |  | 12 |
 | **Ford** | dnb |  |  |
 | **Kingsbury** | dnb |  |  |
 |  |  |  |  |
@@ -58,10 +58,10 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | b | Tomes | 30 |
-| **R Beswick &#42;** | lbw | Tomes | 18 |
+| **R Earney** | b | A Tomes | 30 |
+| **R Beswick &#42;** | lbw | A Tomes | 18 |
 | **S Hornsby** | c | Kingsbury | 45 |
-| **M Petre** | c | Tomes | 10 |
+| **M Petre** | c | A Tomes | 10 |
 | **P Grant** | c (keeper) | Kingsbury | 4 |
 | **W Calvert** | b | Curtis | 7 |
 | **J Grant &#8224;** | run out |  | 6 |
@@ -84,8 +84,8 @@ Played at {{page.location}} on {{page.date}}
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **Ford** | 8 | 4 | 18 | 0 |
-| **Burnside** | 5 | 0 | 5 | 3 |
-| **Tomes** | 9 | 0 | 43 | 3 |
+| **R Burnside** | 5 | 0 | 5 | 3 |
+| **A Tomes** | 9 | 0 | 43 | 3 |
 | **Kingsbury** | 13 | 2 | 51 | 2 |
 | **Curtis** | 6.2 | 1 | 32 | 4 |
 

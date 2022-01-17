@@ -28,8 +28,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | c Rowlinson | Kingsbury | 23 |
 | **P Grant** | b | Seldon | 4 |
 | **D Jones** | c Rowlinson | Kingsbury | 23 |
-| **J Wallington** | c Kingsbury | Tomes | 23 |
-| **T Shore** | b | Tomes | 3 |
+| **J Wallington** | c Kingsbury | A Tomes | 23 |
+| **T Shore** | b | A Tomes | 3 |
 | **J Wright** | not out |  | 5 |
 | **P O'Mahony** | not out |  | 1 |
 | **Extras** | | (0b 0lb 0w 0nb) | 29 |
@@ -51,7 +51,7 @@ Played at {{page.location}} on {{page.date}}
 | **Seldon** | 8 | 2 | 6 | 1 |
 | **Durnside** | 9 | 3 | 20 | 0 |
 | **Kingsbury** | 13.2 | 3 | 36 | 3 |
-| **Tomes** | 7 | 1 | 25 | 1 |
+| **A Tomes** | 7 | 1 | 25 | 1 |
 
 ## Reigate Pilgrims Innings
 
@@ -64,8 +64,8 @@ Played at {{page.location}} on {{page.date}}
 | **Forsyth** | c J Wallington | P O'Mahony | 15 |
 | **Drummond** | b | R Earney | 12 |
 | **Rowlinson** | b | J Wright | 10 |
-| **Burnside** | b | R Earney | 0 |
-| **Tomes** | run out |  | 27 |
+| **R Burnside** | b | R Earney | 0 |
+| **A Tomes** | run out |  | 27 |
 | **S Arnold** | b | R Earney | 3 |
 | **Kingsbury** | not out |  | 1 |
 | **Extras** | | (0b 0lb 5w 1nb) | 6 |

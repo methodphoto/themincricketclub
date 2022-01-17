@@ -23,7 +23,7 @@ N Bezodis, sixfer on debut
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Copestake** | st J Grant | N Bezodis | 28 |
+| **K Copestake** | st J Grant | N Bezodis | 28 |
 | **Pullen** | st J Grant | N Bezodis | 38 |
 | **S Burgess** | c J Wright | N Bezodis | 7 |
 | **Armstrong** | b | N Bezodis | 0 |
@@ -58,7 +58,7 @@ N Bezodis, sixfer on debut
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Beswick** | c Copestake |  | 19 |
+| **R Beswick** | c K Copestake |  | 19 |
 | **M Petre;** | c |  | 38 |
 | **J Hylton** | not out |  | 59 |
 | **E Garland** | not out |  | 8 |

@@ -43,4 +43,4 @@ parent: 2010s
 | 5th | 14.00 | [SB Exiles](sb-exiles) | [Home]() |
 | 12th | 13:30 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 | 19th | 13:00 | <del>Selling</del> | [Away]() |
-| 26th | 12:30 | [Spencer](spencer) | [Away]() |
+| 26th | 12:30 | [Spencer](spencer) | [Away]([Spencer](spencer)) |
