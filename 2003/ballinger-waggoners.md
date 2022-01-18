@@ -26,14 +26,14 @@ Played at {{page.location}} on {{page.date}}
 | **A Slight** | b |  | 0 |
 | **R Beswick &#42;** | not out |  | 0 |
 | **H Ingham** | dnb |  |  |
-| **J Grant &#8224;** | bdnb |  |  |
+| **J Grant &#8224;** | dnb |  |  |
 | **R Coyle** | dnb |  |  |
 | **P Grant** | dnb |  |  |
 | **N Putt** | dnb |  |  |
 | **G Powell** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 0 |
-| **Total** | | (4.4 overs) | **118 all out** |
+| **Total** | | (4.4 overs) | **17 for 2 wkts** |
 
 ## Fall of Wickets
 

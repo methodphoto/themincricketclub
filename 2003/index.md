@@ -10,11 +10,11 @@ parent: 2000s
 | May |  |  |  |
 |:---|:---|:---|:---|
 | 11th | 14:30 | [Ockley](ockley) | [Away](https://goo.gl/maps/vmhvFhbrVZGrsXAAA) |
-| 18th | 14:00 | [Old Colfeians](old-colfeians) | [Away]() |
+| 18th | 14:00 | [Old Colfeians](old-colfeians) | [Away](https://goo.gl/maps/vhwZEdPcYg4q3f3P8) |
 
 | June |  |  |  |
 |:---|:---|:---|:---|
-| 8th | 14:00 | [Ballinger](ballinger-waggoners) | [Away]() |
+| 8th | 14:00 | [Ballinger](ballinger-waggoners) | [Away](https://goo.gl/maps/wvVwTSGVsLV3zrDX8) |
 | 15th | 14:00 | [Newdigate](newdigate) | [Away](https://goo.gl/maps/9uAr2nHj19CJDEjw6) |
 | 29th | 14:00 | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 

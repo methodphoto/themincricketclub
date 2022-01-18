@@ -56,7 +56,7 @@ Played at {{page.location}} on {{page.date}}
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Earney** | dnb |  |  |
-| **D Hambidge** | bdnb |  |  |
+| **D Hambidge** | dnb |  |  |
 | **R Beswick** | dnb |  |  |
 | **W Calvert &#8224;** | dnb |  |  |
 | **A Haslam** | dnb |  |  |
