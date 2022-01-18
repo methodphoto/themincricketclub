@@ -19,6 +19,8 @@ Played at {{page.location}} on {{page.date}}
 
 ## {{page.title}} Innings
 
+J Wright, 3rd 5 wkt haul for The Min
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
@@ -51,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Bland** | 15 | 5 | 54 | 2 |
 | **S Jackson** | 7 | 1 | 16 | 0 |
 | **A Parmenter** | 6 | 1 | 36 | 0 |
-| **M Medhurst** | 7 | 2 | 27 |01 |
+| **M Medhurst** | 7 | 2 | 27 | 1 |
 | **A Harrison** | 9 | 4 | 23 | 4 |
 | **M Jackson** | 3 | 1 | 22 | 0 |
 

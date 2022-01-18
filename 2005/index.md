@@ -14,7 +14,7 @@ parent: 2000s
 | May |  |  |  |
 |:---|:---|:---|:---|
 | 8th | 14:30 | [Ockley](ockley) | [Away](https://goo.gl/maps/vmhvFhbrVZGrsXAAA) |
-| 15th | 14:00 | [Old Colfeians](old-colfeians) | [Away]() |
+| 15th | 14:00 | [Old Colfeians](old-colfeians) | [Away](https://goo.gl/maps/vhwZEdPcYg4q3f3P8) |
 
 | June |  |  |  |
 |:---|:---|:---|:---|
@@ -29,7 +29,7 @@ parent: 2000s
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
 | 7th | 14:30 | [Broadway and Horton](broadway-and-horton) | [TA19 9RA](https://goo.gl/maps/ULbmC6LSX5HSAe8U6) |
-| 8th | 14:00 | [Kilmington and Stourton](kilmington-and-stourton) | BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
+| 8th | 14:00 | [Kilmington and Stourton](kilmington-and-stourton) | [BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 9th | 14:00 | [Warminster Garrison](warminster-garrison) | Home |
 | 10th | 14:00 | [Horningsham](horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 

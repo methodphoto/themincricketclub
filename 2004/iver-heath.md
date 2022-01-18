@@ -2,7 +2,7 @@
 layout: default
 title: Iver Heath
 game: Iver Heath v The Min
-location: 
+location: Farnham Royal Cricket Club
 date: 
 report: 
 result: 

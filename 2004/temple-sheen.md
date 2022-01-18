@@ -2,7 +2,7 @@
 layout: default
 title: Temple Sheen
 game: Temple Sheen v The Min
-location: 
+location: Sheen Common
 date: 
 report: 
 result: 

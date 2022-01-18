@@ -83,7 +83,7 @@ Played at {{page.location}} on {{page.date}}
 |---|:---|:---|:---|:---|
 | **H Ingham** | 7 | 1 | 18 | 1 |
 | **R Osbourne** | 12 | 2 | 35 | 2 |
-| **P O'Mahony** | 6 | 0 | 33 |00 |
+| **P O'Mahony** | 6 | 0 | 33 | 0 |
 | **J Wright** | 9 | 1 | 23 | 4 |
 | **R Earney** | 4 | 0 | 12 | 1 |
 | **I Marshall** | 4 | 0 | 18 | 0 |
