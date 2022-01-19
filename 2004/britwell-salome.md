@@ -2,10 +2,10 @@
 layout: default
 title: Britwell Salome
 game: Britwell Salome v The Min
-location: 
-date: 
-report: 
-result: 
+location: Britwell Salome
+date: 24/04/2004
+report:  The Min batted first and made 108 all out. Britwell Salome replied with 109 for 4 wkts
+result: Britwell Salome won by 6 wkts
 parent: 2004 Fixtures
 ---
 
@@ -21,73 +21,74 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Earney** | b | Yerrell | 2 |
-| **Grant** | b | Yerrell | 0 |
-| **Marshall** | b | Chambers | 20 |
-| **Calvert** | b | Yerrell | 2 |
-| **Howcroft** | b | Chambers | 16 |
-| **MacFarlane** | b | Scanlon | 25 |
-| **Beswick** | b | Scanlon | 21 |
-| **Gardiner** | b | Chambers | 7 |
-| **Fielding** | b | Scanlon | 8 |
-| **Young** | b | Scanlon | 2 |
-| **Wright** | not out |  | 0 |
+| **R Beswick &#42;** | c | E Dutton | 5 |
+| **J Smith** | lbw | B Tyler | 20 |
+| **S Barrowcliff** | run out |  | 52 |
+| **R Earney** | b | E Dutton | 0 |
+| **S Masterson** | c | E Dutton | 3 |
+| **P Jones** | b | B Tyler | 0 |
+| **J Wright** | c & b | B Tyler | 3 |
+| **P Grant** | c | J Morgan | 0 |
+| **M Gardiner** | not out |  | 7 |
+| **G Wright** | b | B Bilson | 1 |
+| **R Coyle** | b | B Bilson | 1 |
 | **Extras** | | (2b 2lb 5w 6nb) | 15 |
-| **Total** | | (33.5 overs) | 118 all out |
-
-| %Calculate%byes+legByes+wides+noBalls+penalites% |
+| **Total** | | (39.3 overs) | 108 all out |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 12 | 55 | 56 | 69 | 76 | 92 | 92 | 92 | 104 | 108 |
+| **Batsman** | 1 | 2 | 3 | 5 | 6 | 4 | 8 | 7 | 10 | 11 |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **S Greenhart** | 9 | 0 | 23 | 0 |
+| **E Dutton** | 13 | 3 | 27 | 3 |
+| **B Tyler** | 9 | 2 | 25 | 3 |
+| **J Morgan** | 5 | 0 | 24 | 1 |
+| **J Greenhart** | 2 | 1 | 4 | 0 |
+| **B Bilson** | 1.3 | 0 | 4 | 2 |
 
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Smith** | b | Marshall | 22 |
-| **Cowles** | b | Marshall | 24 |
-| **Scanlon** | b | Marshall | 67 |
-| **Godby** | b | Marshall | 62 |
-| **Macguire** | b | Marshall | 0 |
-| **Pavey** | b | Marshall  |  |
-| **Chambers** | b | Marshall |  |
-| **Potts** | b | Marshall |  |
-| **Yerrell** | b | Marshall |  |
-| **Scanlon** | dnb |  |  |
-| **Scanlon** | dnb |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (46 overs) | 195 for 3 wkts |
+| **C Pullen** | c | S Masterson | 30 |
+| **D Ewan** | b | S Masterson | 5 |
+| **R Prior** | lbw | J Smith | 11 |
+| **B Tyler** | c | G Wright | 40 |
+| **B Clark** | not out |  | 0 |
+| **S Greenhart** | not out |  | 3 |
+| **J Greenhart** | dnb |  |  |
+| **B Bilson** | dnb |  |  |
+| **T Powell** | dnb |  |  |
+| **J Morgan** | dnb |  |  |
+| **E Dutton** | dnb |  |  |
+| **Extras** | | (5b 2lb 11w 2nb) | 20 |
+| **Total** | | (37 overs) | 109 for 4 wkts |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 8 | 47 | 72 | 83 |  |  |  |  |  |  |
+| **Batsman** | 2 | 1 | 3 | 3 |  |  |  |  |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **MacFarlane** | 16 | 4 | 41 | 2 |
-| **Marshall** | 13 | 2 | 46 | 1 |
-| **Wright** | 6 | 0 | 36 | 0 |
-| **Beswick** | 7 | 1 | 34 | 0 |
-| **Howcroft** | 4 | 0 | 25 | 0 |
+| **S Masterson** | 11 | 1 | 23 | 2 |
+| **J Wright** | 6 | 0 | 24 | 0 |
+| **G Wright** | 8 | 2 | 15 | 1 |
+| **J Smith** | 4 | 0 | 17 | 1 |
+| **R Beswick** | 4 | 3 | 4 | 0 |
+| **R Earney** | 3 | 0 | 9 | 0 |
+| **M Gardiner** | 1 | 0 | 9 | 0 |
 
 ## Win/Loss Ratio
 

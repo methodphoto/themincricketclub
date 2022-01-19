@@ -31,8 +31,8 @@ E Garland highest score for The Min
 | **J Dalrymple** | c J Grant | P O'Mahony | 4 |
 | **Hall** | c & b | P O'Mahony | 52 |
 | **Welch** | not out |  | 20 |
-| **Bunyan** | c J Wright | P O'Mahony | 4 |
-| **Vincent** | c P O'Brien | R Beswick | 0 |
+| **P Bunyan** | c J Wright | P O'Mahony | 4 |
+| **S Vincent** | c P O'Brien | R Beswick | 0 |
 | **J Pirie** | lbw | R Earney | 8 |
 | **Extras** | | (3b 1lb 3w 2nb) | 27 |
 | **Total** | | (46.4 overs) | **180 all out** |
@@ -63,8 +63,8 @@ E Garland highest score for The Min
 | **H Archer** | lbw | T Ellis | 7 |
 | **R Beswick &#42;** | c J Dalrymple | Hall | 14 |
 | **E Garland** | b | T Ellis | 53 |
-| **N Hawtrey** | c | Bunyan | 0 |
-| **M Seignior** | lbw | Bunyan | 0 |
+| **N Hawtrey** | c | P Bunyan | 0 |
+| **M Seignior** | lbw | P Bunyan | 0 |
 | **I Marshall** | not out |  | 75 |
 | **J Grant &#8224;** | not out |  | 11 |
 | **P O'Brien** | dnb |  |  |
@@ -87,7 +87,7 @@ E Garland highest score for The Min
 | **W Welch** | 5 | 1 | 21 | 0 |
 | **T Ellis** | 13 | 2 | 40 | 2 |
 | **Hall** | 14 | 1 | 89 | 1 |
-| **Bunyan** | 5 | 0 | 32 | 2 |
+| **P Bunyan** | 5 | 0 | 32 | 2 |
 
 ## Win/Loss Ratio
 

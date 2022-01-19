@@ -59,7 +59,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Ellis** | not out |  | 52 |
 | **M Cakebread** | not out |  | 23 |
 | **M Tipper** | dnb |  |  |
-| **Gibbins** | dnb |  |  |
+| **B Gibbins** | dnb |  |  |
 | **D Waight** | dnb |  |  |
 | **Wheeler** | dnb |  |  |
 | **C Fursland** | dnb |  |  |
