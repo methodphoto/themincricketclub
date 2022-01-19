@@ -256,7 +256,7 @@ parent: Results
 | 2005 |  |  |
 |:---|:---|:---|
 | {date} | [Britwell Salome](../2005/britwell-salome) | Drawn |
-| {date} | [Ockley](../2005/ockley) | **Won** |
+| 08/05/2005 | [Ockley](../2005/ockley) | **Won** |
 | {date} | [Old Colfeians](../2005/old-colfeians) | Lost |
 | {date} | [Tappers](../2005/tappers) | Lost |
 | {date} | [Newdigate](../2005/newdigate) | Lost |
