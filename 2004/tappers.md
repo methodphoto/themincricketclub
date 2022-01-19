@@ -4,8 +4,8 @@ title: Tappers
 game: Tappers v The Min
 location: Pembroke College, Oxford
 date: 15/08/2004
-report: 
-result: 
+report: Tappers batted first and made 192 all out. The Min replied with 73 for 8 wkts (all out)
+result: Tappers won by 119 runs
 parent: 2004 Fixtures
 ---
 
@@ -29,7 +29,7 @@ Played at {{page.location}} on {{page.date}}
 | **N Spence** | b | R Green | 21 |
 | **M Rowden** | c sub | J Wright | 6 |
 | **N Darling** | c & b | E Garland | 33 |
-| **A Morton** | c J Wright | E Garland | 20 |
+| **A Morton &#8224;** | c J Wright | E Garland | 20 |
 | **R Neate** | not out |  | 3 |
 | **R Brittain** | b | R Green | 2 |
 | **Extras** | | (1b 5lb 4w 0nb) | 10 |
@@ -56,39 +56,38 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Earney** | b | Yerrell | 2 |
-| **Grant** | b | Yerrell | 0 |
-| **Marshall** | b | Chambers | 20 |
-| **Calvert** | b | Yerrell | 2 |
-| **Howcroft** | b | Chambers | 16 |
-| **MacFarlane** | b | Scanlon | 25 |
-| **Beswick** | b | Scanlon | 21 |
-| **Gardiner** | b | Chambers | 7 |
-| **Fielding** | b | Scanlon | 8 |
-| **Young** | b | Scanlon | 2 |
-| **Wright** | not out |  | 0 |
-| **Extras** | | (9b 2lb 4w 0nb) | 15 |
-| **Total** | | (33.5 overs) | 118 all out |
+| **R Earney** | b | M Roberts | 19 |
+| **J Smith** | lbw | M Roberts | 2 |
+| **R Green** | b | M Roberts | 7 |
+| **W Calvert &#8224;** | c A Morton | R Brittain | 9 |
+| **T Horsey** | b | R Brittain | 0 |
+| **R Owen** | b | R Brittain | 0 |
+| **E Garland** | not out |  | 9 |
+| **G Powell** | b | R Brittain | 0 |
+| **J Wright &#42;** | c A Morton | F Althaus | 16 |
+|  |  |  |  |
+|  |  |  |  |
+| **Extras** | | (7b 0lb 3w 0nb) | 10 |
+| **Total** | | (24 overs) | 73 for 8 wkts (all out) |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 11 | 28 | 41 | 45 | 45 | 45 | 46 | 73 |  |  |
+| **Batsman** | 2 | 1 | 4 | 5 | 6 | 3 | 8 | 9 |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **R Brittain** | 10 | 1 | 21 | 4 |
+| **M Roberts** | 9 | 3 | 18 | 3 |
+| **F Althaus** | 3 | 0 | 17 | 1 |
+| **N Spence** | 2 | 0 | 9 | 0 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 5 | 3 | 3 | 0 |
+| 5 | 4 | 3 | 0 |

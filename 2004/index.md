@@ -9,7 +9,7 @@ parent: 2000s
 
 | April |  |  |  |
 |:---|:---|:---|:---|
-| 24th | 14:00 | [Britwell Salome](britwell-salome) | [OX49 5LH](https://goo.gl/maps/CGgpPNyQhotADDFs9) |
+| 24th | 14:00 | [Britwell Salome](britwell-salome) | [Away](https://goo.gl/maps/CGgpPNyQhotADDFs9) |
 
 | May |  |  |  |
 |:---|:---|:---|:---|
@@ -28,13 +28,13 @@ parent: 2000s
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
 | 8th | 14:00 | <del>Broadway and Horton</del> | [Away](https://goo.gl/maps/ULbmC6LSX5HSAe8U6) |
-| 9th | 14:00 | [Kilmington and Stourton](kilmington-and-stourton) | [BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
+| 9th | 14:00 | [Kilmington and Stourton](kilmington-and-stourton) | [Away](https://goo.gl/maps/6q53XChZh9A2) |
 | 10th | 14:00 | [The Gents](the-gents) | [Away](https://goo.gl/maps/C6PZsUWo7FTHxd157) |
 | 11th | 14:00 | [Brookwood](brookwood) | [Away](https://goo.gl/maps/2T7QNFUSx1v9bzPY7) |
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 1st | 14:30 | [Selling](selling) | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
+| 1st | 14:30 | [Selling](selling) | [Away](https//goo.gl/maps/QeLhjBkEbJr) |
 | 15th | 14:00 | [Tappers](tappers) | [Away](https://goo.gl/maps/VrSWAsVDD2Xi4Nxy9) |
 
 | September |  |  |  |

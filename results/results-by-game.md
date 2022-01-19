@@ -274,19 +274,19 @@ parent: Results
 
 | 2004 |  |  |
 |:---|:---|:---|
-| {date} | [Britwell Salome](../2004/britwell-salome) | Lost |
-| {date} | [Old Colfeians](../2004/old-colfeians) | **Won** |
-| {date} | [Ballinger Waggoners](../2004/ballinger-waggoners) | Lost |
-| {date} | [Newdigate](../2004/newdigate) | **Won** |
-| {date} | [Watton-at-Stone](../2004/watton-at-stone) | **Won** |
-| {date} | [Stowting](../2004/stowting) | Drawn |
-| {date} | [Kilmington and Stourton](../2004/kilmington-and-stourton) | Won (D/L Method) |
-| {date} | [The Gents](../2004/the-gents) | Drawn |
-| {date} | [Brookwood](../2004/brookwood) | Drawn |
-| {date} | [Selling](../2004/selling) | **Won** |
-| {date} | [Tappers](../2004/tappers) | Lost |
-| {date} | [Temple Sheen](../2004/temple-sheen) | Drawn |
-| {date} | [Reigate Pilgrims](../2004/reigate-pilgrims) | Lost |
+| 24/04/2004 | [Britwell Salome](../2004/britwell-salome) | Lost |
+| 16/05/2004 | [Old Colfeians](../2004/old-colfeians) | **Won** |
+| 06/06/2004 | [Ballinger Waggoners](../2004/ballinger-waggoners) | Lost |
+| 13/06/2004 | [Newdigate](../2004/newdigate) | **Won** |
+| 27/06/2004 | [Watton-at-Stone](../2004/watton-at-stone) | **Won** |
+| 04/07/2004 | [Stowting](../2004/stowting) | Drawn |
+| 09/07/2004 | [Kilmington and Stourton](../2004/kilmington-and-stourton) | Won (D/L Method) |
+| 10/07/2004 | [The Gents](../2004/the-gents) | Drawn |
+| 11/07/2004 | [Brookwood](../2004/brookwood) | Drawn |
+| 01/08/2004 | [Selling](../2004/selling) | **Won** |
+| 15/08/2004 | [Tappers](../2004/tappers) | Lost |
+| 05/09/2004 | [Temple Sheen](../2004/temple-sheen) | Drawn |
+| 12/09/2004 | [Reigate Pilgrims](../2004/reigate-pilgrims) | Lost |
 
 | 2003 |  |  |
 |:---|:---|:---|
