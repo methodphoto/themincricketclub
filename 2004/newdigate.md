@@ -17,9 +17,10 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+M Goff's 1st 50 for The Min
+
 ## {{page.title}} Innings
 
-M Goff's 1st 50 for The Min
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
