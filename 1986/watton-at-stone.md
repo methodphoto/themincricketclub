@@ -27,9 +27,9 @@ Played at {{page.location}} on {{page.date}}
 | **Stevens** | c J Grant | A Sylvester | 9 | 
 | **I Fursland** | not out |  | 56 | 
 | **Underdown** | run out |  | 14 | 
-| **Dalrymple** | not out |  | 10 | 
+| **O Dalrymple** | not out |  | 10 | 
 | **Darcy** | dnb |  |  | 
-| **Bunyan** | dnb |  |  | 
+| **P Bunyan** | dnb |  |  | 
 | **Burnell** | dnb |  |  | 
 | **R Clayton** | dnb |  |  |
 | **Extras** | | (6b 2lb 0w 4nb) | 12 | 
@@ -59,7 +59,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Gallagher** | b | R Clayton | 59 | 
 | **J Grant &#8224;** | b | Underdown | 1 | 
 | **A Fielding** | b | Underdown | 0 | 
-| **W Calvert** | c Bunyan | I Fursland | 34 | 
+| **W Calvert** | c P Bunyan | I Fursland | 34 | 
 | **M Kirwan** | b  | R Clayton | 11 | 
 | **M Gardiner** | c & b | Spinks | 23 | 
 | **R Scotts** | b | R Clayton | 4 | 

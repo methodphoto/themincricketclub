@@ -63,7 +63,7 @@ Played at {{page.location}} on {{page.date}}
 | **Alastair** | c B Williams | J Wing | 49 |
 | **R Damaze** | c & b | J Wing | 29 |
 | **S Hornsby** | b | A Gundy | 1 |
-| **W Calvert &dagger;** | b | J Wing | 5 |
+| **W Calvert  &#8224;** | b | J Wing | 5 |
 | **P Beswick** | run out | (B Williams) | 6 |
 | **S Amin** | b | J Wing | 10 |
 | **E Garland** | run out | (R Ansell) | 0 |
