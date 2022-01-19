@@ -287,6 +287,7 @@ parent: Results
 | 15/08/2004 | [Tappers](../2004/tappers) | Lost |
 | 05/09/2004 | [Temple Sheen](../2004/temple-sheen) | Drawn |
 | 12/09/2004 | [Reigate Pilgrims](../2004/reigate-pilgrims) | Lost |
+| 26/09/2004 | [Iver Heath](../2004/iver-heath) | Lost |
 
 | 2003 |  |  |
 |:---|:---|:---|

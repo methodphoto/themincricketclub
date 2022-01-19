@@ -41,4 +41,4 @@ parent: 2000s
 |:---|:---|:---|:---|
 | 5th | 13:30 | [Temple Sheen](temple-sheen) | [Away](https://goo.gl/maps/whF2qFeESXHLkTnM9) |
 | 12th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
-| 26th | 114:30 | [Iver Heath](iver-heath) | [Away](https://g.page/FRCCUK?share) |
+| 26th | 13:00 | [Iver Heath](iver-heath) | [Away](https://g.page/FRCCUK?share) |
