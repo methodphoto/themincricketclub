@@ -17,6 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+M Goff's 2nd 50 for The Min and highest score
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
