@@ -3,9 +3,9 @@ layout: default
 title: Temple Sheen
 game: Temple Sheen v The Min
 location: Sheen Common
-date: 
-report: 
-result: 
+date: 05/09/2004
+report: Temple Sheen batted first and made 173 for 5 wkts. The Min replied with 137 for 8 wkts
+result: Match Drawn
 parent: 2004 Fixtures
 ---
 
@@ -17,80 +17,79 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-
-
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Smith** | c | MacFarlane | 22 |
-| **Cowles** | b | Marshall | 24 |
-| **Scanlon** | b | MacFarlane | 67 |
-| **Godby** | b | MacFarlane | 62 |
-| **Macguire** | b | MacFarlane | 0 |
-| **Pavey** | b | MacFarlane |  |
-| **Chambers** | b | MacFarlane |  |
-| **Potts** | b | MacFarlane |  |
-| **Yerrell** | b | MacFarlane |  |
-| **Scanlon** | b | MacFarlane |  |
-| **Scanlon** | b | MacFarlane |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 | 
-| **Total** | | (46 overs) | 195 for 3 wkts |
+| **S Coggins** | b | J Wright | 57 |
+| **Richardson** | st J Grant | P Webb | 12 |
+| **Cook** | not out |  | 62 |
+| **Breslin** | c P Grant | P Webb | 1 |
+| **Ledger** | b | P Webb | 1 |
+| **I Coggins** | st J Grant | J Wright | 19 |
+| **Hathaway** | not out |  | 5 |
+| **Redford** | dnb |  |  |
+| **T Coggins** | dnb |  |  |
+| **Cornish** | dnb |  |  |
+|  |  |  |  |
+| **Extras** | | (6b 3lb 1w 0nb) | 10 |
+| **Total** | | (48 overs) | 173 for 5 wkts |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 50 | 84 | 93 | 109 | 149 |  |  |  |  |  |
+| **Batsman** | 1 | 2 | 4 | 5 | 3 |  |  |  |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Marshall** | 16 | 4 | 41 | 2 |
-| **Marshall** | 13 | 2 | 46 | 1 |
-| **Wright** | 6 | 0 | 36 | 0 |
-| **Beswick** | 7 | 1 | 34 | 0 |
-| **Howcroft** | 4 | 0 | 25 | 0 |
+| **H Ingham** | 13 | 3 | 28 | 0 |
+| **R Beswick** | 9 | 2 | 25 | 0 |
+| **P Webb** | 12 | 1 | 59 | 3 |
+| **J Wright** | 12 | 2 | 38 | 2 |
+| **R Earney** | 3 | 0 | 13 | 0 |
 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Earney** | b | Yerrell | 2 |
-| **Grant** | b | Yerrell | 0 |
-| **Marshall** | b | Chambers | 20 |
-| **Calvert** | b | Yerrell | 2 |
-| **Howcroft** | b | Chambers | 16 |
-| **MacFarlane** | b | Scanlon | 25 |
-| **Beswick** | b | Scanlon | 21 |
-| **Gardiner** | b | Chambers | 7 |
-| **Fielding** | b | Scanlon | 8 |
-| **Young** | b | Scanlon | 2 |
-| **Wright** | not out |  | 0 |
-| **Extras** | | (9b 2lb 4w 0nb) | 15 |
-| **Total** | | (33.5 overs) | 118 all out |
+| **R Earney** | b | Cornish | 0 |
+| **A Slight** | c Breslin | Richardson | 19 |
+| **R Beswick &#42;** | not out |  | 65 |
+| **M Mason** | b | Richardson | 0 |
+| **P Grant** | lbw | I Coggins | 1 |
+| **H Ingham** | b | Richardson | 24 |
+| **J Grant &#8224;** | c & b | I Coggins | 2 |
+| **P Webb** | b | I Coggins | 10 |
+| **A Naunton-Davies** | b | T Coggins | 0 |
+| **J Naunton-Davies** | not out |  | 0 |
+| **J Wright** | dnb |  |  |
+| **Extras** | | (4b 3lb 3w 1nb) | 11 |
+| **Total** | | (37 overs) | 137 for 8 wkts |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 1 | 50 | 50 | 56 | 97 | 103 | 124 | 126 |  |  |
+| **Batsman** | 1 | 2 | 4 | 5 | 6 | 7 | 8 | 9 |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **Redford** | 8 | 1 | 13 | 0 |
+| **Cornish** | 8 | 0 | 32 | 1 |
+| **Richardson** | 10 | 0 | 56 | 3 |
+| **I Coggins** | 8 | 1 | 19 | 3 |
+| **T Coggins** | 2 | 0 | 9 | 1 |
+| **Ledger** | 1 | 0 | 2 | 0 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-https://www.bbc.co.uk/sounds/play/m0013tyh
+| 5 | 4 | 4 | 0 |
