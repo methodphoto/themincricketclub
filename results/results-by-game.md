@@ -280,7 +280,7 @@ parent: Results
 | 13/06/2004 | [Newdigate](../2004/newdigate) | **Won** |
 | 27/06/2004 | [Watton-at-Stone](../2004/watton-at-stone) | **Won** |
 | 04/07/2004 | [Stowting](../2004/stowting) | Drawn |
-| 09/07/2004 | [Kilmington and Stourton](../2004/kilmington-and-stourton) | Won (D/L Method) |
+| 09/07/2004 | [Kilmington and Stourton](../2004/kilmington-and-stourton) | **Won (D/L Method)** |
 | 10/07/2004 | [The Gents](../2004/the-gents) | Drawn |
 | 11/07/2004 | [Brookwood](../2004/brookwood) | Drawn |
 | 01/08/2004 | [Selling](../2004/selling) | **Won** |

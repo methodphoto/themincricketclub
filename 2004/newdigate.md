@@ -19,6 +19,8 @@ Played at {{page.location}} on {{page.date}}
 
 ## {{page.title}} Innings
 
+M Goff's 1st 50 for The Min
+
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Bettesworth** | c | P O'Mahony | 12 |
