@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Earney's 27th 50 for The Min. A Slight's 2nd 50 for The Min. Partnership of 132 between R Earney and A Slight
+R Earney's 23rd 50 for The Min. A Slight's 2nd 50 for The Min. Partnership of 132 between R Earney and A Slight
 
 ## The Min Innings
 

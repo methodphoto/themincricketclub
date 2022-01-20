@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Earney's 24th 50 for The Min. R Green's 2nd 50 for The Min
+R Earney's 20th 50 for The Min. R Green's 2nd 50 for The Min
 
 ## {{page.title}} Innings
 

@@ -55,7 +55,6 @@ parent: Records
 | **2017** | Steven Hornsby | v [Brasted Invicta](../2017/brasted-invicta) | **50&#42;** |
 | **2017** | Richard Earney | v [Blagdon Hill](../2017/blagdon-hill) | **64** |
 | **2017** | Richard Beswick | v [Newdigate](../2017/newdigate) | **74** |
-| **2017** | Mohit Gupta | v [Frensham](../2017/frensham) | **100** |
 | **2017** | Richard Beswick | v [Kingstonian](../2017/kingstonian) | **59** |
 | **2016** | Richard Earney | v [Reigate Pilgrims](../2016/reigate-pilgrims) | **88** |
 | **2016** | Richard Beswick | v [Kilmington and Stourton](../2016/kilmington-and-stourton) | **72** |
@@ -137,8 +136,6 @@ parent: Records
 | **2007** | Patrick Wigg | v [Grimsdyke](../2007/grimsdyke) | **53&#42;** |
 | **2007** | Richard Earney | v [Britwell Salome](../2007/britwell-salome) | **54** |
 | **2006** | Martin Goff | v [Sanderstead](../2006/sanderstead) | **82** |
-| **2006** | Martin Goff | v [SB Exiles](../2006/sb-exiles) | **100** |
-| **2006** | Richard Earney | v [SB Exiles](../2006/sb-exiles) | **102** |
 | **2006** | Jim Grant | v [Old Mid-Whitgiftians](../2006/old-mid-whitgiftians) | **52** |
 | **2006** | Richard Beswick | v [Horningsham](../2006/horningsham) | **50&#42;** |
 | **2006** | Richard Earney | v [Horningsham](../2006/horningsham) | **56** |
@@ -172,7 +169,6 @@ parent: Records
 | **2004** | Martin Goff | v [Newdigate](../2004/newdigate) | **67** |
 | **2004** | Richard Earney | v [Ballinger Waggoners](../2004/ballinger-waggoners) | **57** |
 | **2004** | Simon Barrowcliff | v [Britwell Salome](../2004/britwell-salome) | **52** |
-| **2003** | Richard Earney | v [Land Warfare XI](../2003/land-warfare-xi) | **115** |
 | **2003** | Ian Marshall | v [Wareham](../2003/wareham) | **59&#42;** |
 | **2003** | Richard Earney | v [Stowting](../2003/stowting) | **67** |
 | **2003** | Richard Beswick | v [Newdigate](../2003/newdigate) | **52** |
@@ -186,7 +182,6 @@ parent: Records
 | **2002** | Stephen Hornsby | v [Hetairoi](../2002/hetairoi) | **67** |
 | **2002** | Richard Earney | v [Selling](../2002/selling) | **112&#42;** |
 | **2002** | Richard Earney | v [Hetairoi](../2002/hetairoi) | **69** |
-| **2002** | Richard Earney | v [Watton-at-Stone](../2002/watton-at-stone) | **101** |
 | **2002** | Richard Earney | v [Abbey Players](../2002/abbey-players) | **71** |
 | **2002** | Richard Earney | v [Ockley](../2002/ockley) | **53&#42;** |
 | **2001** | Matt Buzzacott | v [Stowting](../2001/stowting) | **50** |
@@ -194,7 +189,6 @@ parent: Records
 | **2001** | Jim Grant | v [Broadway and Horton](../2001/broadway-and-horton) | **65** |
 | **2001** | Jim Grant | v [Stowting](../2001/stowting) | **52** |
 | **2001** | Andrew Slight | v [Old Colfeians](../2001/old-colfeians) | **51** |
-| **2001** | Richard Earney | v [Wareham](../2001/wareham) | **106** |
 | **2001** | Richard Earney | v [Long Ditton](../2001/long-ditton) | **52** |
 | **2000** | James Hylton | v [Reigate Pilgrims](../2000/reigate-pilgrims) | **54** |
 | **2000** | Stephen Hornsby | v [Broadway and Horton](../2000/broadway-and-horton) | **64&#42;** |
@@ -216,7 +210,6 @@ parent: Records
 | **1999** | Richard Earney | v [Wareham](../1999/wareham) | **89** |
 | **1998** | Aiden Roker | v [Ipswich and East Suffolk](../1998/ipswich-and-east-suffolk) | **71** |
 | **1998** | James Hylton | v [Reigate Pilgrims](../1998/reigate-pilgrims) | **59&#42;** |
-| **1998** | James Hylton | v [Knapp](../1998/knapp) | **116** |
 | **1998** | Richard Beswick | v [Ipswich and East Suffolk](../1998/ipswich-and-east-suffolk) | **52** |
 | **1998** | Richard Beswick | v [Abbey Players](../1998/abbey-players) | **52** |
 | **1998** | Richard Earney | v [Broadway and Horton](../1998/broadway-and-horton) | **67&#42;** |
@@ -227,7 +220,6 @@ parent: Records
 | **1997** | Simon Barrowcliff | v [Stowting](../1997/stowting) | **55** |
 | **1997** | Jim Grant | v [Hetairoi](../1997/hetairoi) | **87** |
 | **1996** | Ben Jones | v [Watton-at-Stone](../1996/watton-at-stone) | **55** |
-| **1996** | James Hylton | v [Littlewick Green](../1996/littlewick-green) | **101** |
 | **1996** | James Hylton | v [Erratics](../1996/erratics) | **96** |
 | **1996** | David Swann | v [Great Tew](../1996/great-tew) | **69** |
 | **1996** | Ian Marshall | v [Stowting](../1996/stowting) | **52** |
@@ -246,10 +238,8 @@ parent: Records
 | **1995** | Phil Bentley | v [Hetairoi](../1995/hetairoi) | **66** |
 | **1995** | Phil Bentley | v [Valley End](../1995/valley-end) | **54** |
 | **1995** | Richard Earney | v [White Lion](../1995/white-lion) | **50** |
-| **1995** | Richard Earney | v [Ockley](../1995/ockley) | **100** |
 | **1994** | Stephen Hornsby | v [Reigate Pilgrims](../1994/reigate-pilgrims) | **89** |
 | **1994** | Stephen Hornsby | v [Farnborough](../1994/farnborough) | **64&#42;** |
-| **1994** | Stephen Hornsby | v [Great Tew](../1994/great-tew) | **116** |
 | **1994** | Richard Beswick | v [Hetairoi](../1994/hetairoi) | **53** |
 | **1994** | Richard Beswick | v [Polytechnic III XI](../1994/polytechnic-iii) | **54&#42;** |
 | **1994** | Richard Beswick | v [Great Tew](../1994/great-tew) | **54&#42;** |
@@ -263,7 +253,6 @@ parent: Records
 | **1992** | Richard Beswick | v [Yateley](../1992/yateley) | **55** |
 | **1992** | Ian Marshall | v [Dowlish Wake](../1992/dowlish-wake) | **108&#42;** |
 | **1992** | Ian Marshall | v [Ballinger](../1992/ballinger) | **76** |
-| **1992** | Stephen Hornsby | v [Shepton Beauchamp](../1992/shepton-beauchamp) | **111** |
 | **1992** | Simon Barrowcliff | v [Dowlish Wake](../1992/dowlish-wake) | **66&#42;** |
 | **1992** | Simon Barrowcliff | v [Deando](../1992/deando) | **56** |
 | **1992** | Richard Earney | v [Ballinger](../1992/ballinger) | **54** |
