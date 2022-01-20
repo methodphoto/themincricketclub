@@ -21,17 +21,17 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Walker** | b | J Wright | 22 |
-| **N Weston** | b | I Marshall | 24 |
-| **R Hull** | b | I Marshall | 67 |
-| **McKiernon** | c J Grant | N Putt | 62 |
-| **Blackwell** | b | N Putt | 0 |
-| **Bowen** | b | H Ingham |  |
-| **Lorimer** | b | E Garland |  |
-| **Phillips** | b | E Garland |  |
-| **Bushel** | b | J Wright |  |
-| **Dome** | not out |  |  |
-| **Bond** | b | J Wright |  |
+| **Walker** | b | J Wright | 47 |
+| **N Weston** | b | I Marshall | 15 |
+| **R Hull** | b | I Marshall | 1 |
+| **McKiernon** | c J Grant | N Putt | 1 |
+| **Blackwell** | b | N Putt | 2 |
+| **Bowen** | b | H Ingham | 8 |
+| **Lorimer** | b | E Garland | 1 |
+| **Phillips** | b | E Garland | 2 |
+| **Bushel** | b | J Wright | 5 |
+| **Dome** | not out |  | 0 |
+| **Bond** | b | J Wright | 0 |
 | **Extras** | | (2b 4lb 9w 0nb) | 15 |
 | **Total** | | (44 overs) | 97 all out |
 

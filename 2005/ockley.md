@@ -17,6 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+R Earney's 25th 50 for The Min
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
