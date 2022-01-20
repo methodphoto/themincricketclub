@@ -17,7 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-S Barrowcliff first Min century. Partnership of 135 between S Barrowcliff and W Wright
+S Barrowcliff first Min century.<br />
+Partnership of 135 between S Barrowcliff and W Wright
 
 ## Old Elthamians Innings
 

@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-Partnership of 103 between G Fenn and W Jones
+Partnership of 103 between G Fenn and W Jones<br />
 Partnership of 108 between E Garland and P Bentley
 
 ## Hetairoi Innings

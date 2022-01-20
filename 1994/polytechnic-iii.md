@@ -17,7 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Earney highest score. R Earney and R Beswick partnership of 131
+R Earney highest score..<br />
+R Earney and R Beswick partnership of 131
 
 ## Polytechnic III Innings
 
