@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Beswick's 15th 50 for The Min. H Ingham's first 50 for The Min.\Partnership of 186 between R Beswick and H Ingham. Highest Min Partnership.
+R Beswick's 15th 50 for The Min. H Ingham's first 50 for The Min.\ Partnership of 186 between R Beswick and H Ingham. Highest Min Partnership.
 
 ## {{page.title}} Innings
 
