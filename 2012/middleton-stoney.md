@@ -21,6 +21,8 @@ R Earney's 43rd 50 for The Min. Partnership of 112 between M.Goff and R.Earney i
 
 ![The pot of Min gold]](/2012/middleton_stoney.jpg)
 
+<img src="/2012/middleton_stoney.jpg" alt="The pot of Min gold" />
+
 *from our Cricket Correspondent*
 
 The Min beat the weather to seal a surprisingly emphatic win against perenially tough opponents Middleton Stoney.
