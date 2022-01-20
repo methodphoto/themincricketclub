@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **N Bright** | 11 | 3 | 22 | 00| 
+| **N Bright** | 11 | 3 | 22 | 0 | 
 | **G Winstone** | 7 | 1 | 30 | 0 | 
 | **S Smith** | 8 | 5 | 8 | 1 | 
 | **M Busby** | 6 | 3 | 18 | 2 | 

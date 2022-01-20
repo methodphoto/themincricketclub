@@ -88,7 +88,7 @@ R Earney’s 19th 50 for The Min
 | **H Ingham** | 15 | 6 | 24 | 1 |
 | **N Putt** | 7 | 0 | 29 | 2 |
 | **J Wright** | 11 | 1 | 39 | 3 |
-| **A Routley** | 3 | 0 | 19 | 01|
+| **A Routley** | 3 | 0 | 19 | 1 |
 | **R Beswick** | 3 | 0 | 11 | 0 |
 
 ## Win/Loss Ratio

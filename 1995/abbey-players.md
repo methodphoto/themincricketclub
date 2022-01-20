@@ -53,7 +53,7 @@ Partnership of 129 between S Barrowcliff and R Beswick
 | **R Brittain** | 6 | 1 | 37 | 0 |
 | **J Wright** | 6 | 0 | 29 | 1 |
 | **E Garland** | 4 | 0 | 23 | 0 |
-| **R Earney** | 9 | 0 | 52 | 00 |
+| **R Earney** | 9 | 0 | 52 | 0 |
 | **S Speight** | 8 | 1 | 47 | 3 |
 
 ## The Min Innings

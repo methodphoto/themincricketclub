@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Cook** | 2 | 0 | 12 | 0 |
 | **T Wilson** | 4 | 0 | 16 | 1 |
 | **A Dummet** | 4 | 0 | 39 | 1 |
-| **H Payne** | 3 | 0 | 10 | 01 |
+| **H Payne** | 3 | 0 | 10 | 1 |
 
  ## Broadway and Horton Innings
 
