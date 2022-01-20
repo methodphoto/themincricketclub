@@ -51,7 +51,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Olver** | 3 | 1 | 7 | 0 | 
 | **J Wright** | 4 | 2 | 5 | 2 | 
 | **B Lee** | 5 | 0 | 20 | 0 |
-| **W Calvert** | 6 | 1 | 31 | 01|
+| **W Calvert** | 6 | 1 | 31 | 1 |
 | **W Chapman** | 4 | 0 | 12 | 1 |
 | **N Holcombe** | 1 | 1 | 0 | 1 |
 | **A Sylvester** | 2 | 1 | 4 | 1 |

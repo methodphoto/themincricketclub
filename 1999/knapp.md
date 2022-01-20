@@ -58,19 +58,19 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **G Davis** | c | MacFarlane | 22 |
-| **C Lawton** | b | Marshall | 24 |
-| **J Wadham** | b | MacFarlane | 67 |
-| **D Gould** | not out |  | 62 |
-| **D Ellis** | not out |  | 0 |
-| **P Denslow** | dnb |  |  |
-| **P Batstone** | dnb |  |  |
-| **D Llovel** | dnb |  |  |
-| **A Gould** | dnb |  |  |
-| **T Hollow** | dnb |  |  |
+| **G Davis** | c J Grant | R Beswick | 7 |
+| **C Lawton** | st J Grant | J Wright | 1 |
+| **J Wadham** | st J Grant | E Garland | 27 |
+| **D Gould** | c E Garland | R Beswick | 22 |
+| **D Ellis** | c & b | R Earney | 1 |
+| **P Denslow** | c R Earney | P Grant | 18 |
+| **P Batstone** | c sub (Lawton) | R Beswick | 1 |
+| **D Llovel** | not out |  | 2 |
+| **A Gould** | c P Grant | M Belfrage | 0 |
+| **T Hollow** | not out |  | 13 |
 | **Scanlon** | dnb |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (46 overs) | **107 for 8 wkts** |
+| **Extras** | | (3b 3lb 9w 0nb) | 15 |
+| **Total** | | (37 overs) | **107 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -87,8 +87,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | 8 | 2 | 25 | 1 |
 | **R Earney** | 7 | 2 | 20 | 1 |
 | **E Garland** | 5 | 0 | 21 | 1 |
-| **P Grant** | 3 | 0 | 8 | 01 |
-| **M Belfraget** | 6 | 0 | 12 | 1 |
+| **P Grant** | 3 | 0 | 8 | 1 |
+| **M Belfrage** | 6 | 0 | 12 | 1 |
 
 ## Win/Loss Ratio
 

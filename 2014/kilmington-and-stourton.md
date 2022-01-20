@@ -93,7 +93,7 @@ Partnership of 115 between R Beswick and R Earney
 | **S Churchill** | 8 | 0 | 36 | 1 |
 | **F Barton** | 3 | 0 | 22 | 0 |
 | **T Barton** | 3 | 0 | 14 | 3 |
-| **G Routledge** | 1 | 0 | 15 | 01 |
+| **G Routledge** | 1 | 0 | 15 | 0 |
 
 ## Win/Loss Ratio
 
