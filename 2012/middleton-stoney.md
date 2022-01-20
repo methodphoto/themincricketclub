@@ -17,7 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Earney's 43rd 50 for The Min. Partnership of 112 between M.Goff and R.Earney in 93 mins
+R Earney's 43rd 50 for The Min.<br />
+Partnership of 112 between M.Goff and R.Earney in 93 mins
 
 <img src="/2012/middleton_stoney.jpg" height="356" width="500" alt="The pot of Min gold" />
 

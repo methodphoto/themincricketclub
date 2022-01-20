@@ -17,7 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-Partnership of 116 between J Grant and J Hylton. J Grant's highest score for The Min
+J Grant's highest score for The Min.<br />
+Partnership of 116 between J Grant and J Hylton. 
 
 ## The Min Innings
 

@@ -17,7 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Earney's third century for The Min. Partnership of 158 between R Earney and R Kitson
+R Earney's third century for The Min.<br />
+Partnership of 158 between R Earney and R Kitson
 
 ## The Min Innings
 
