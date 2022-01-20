@@ -17,6 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+<img src="min-broadway-1992.jpg" width="100%" alt="Team Photo" />
+
 ## Broadway and Horton Innings
 
 | Batsman | Dismissal |  | Runs |
