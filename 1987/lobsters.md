@@ -17,6 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+R Beswick's 1st 50 for The Min
+
 ## Lobsters Innings
 
 | Batsman | Dismissal |  | Runs |

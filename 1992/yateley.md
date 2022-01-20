@@ -17,6 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+R Earney's 1st 50 for The Min. R Beswick's 3rd 50 for The Min
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
