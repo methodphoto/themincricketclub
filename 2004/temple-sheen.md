@@ -17,6 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+R Beswick's 17th 50 for The Min
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |

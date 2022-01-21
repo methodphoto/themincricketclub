@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **B Kotecha** | 11 | 0 | 26 | 03|
+| **B Kotecha** | 11 | 0 | 26 | 3 |
 | **M Johnson** | 8 | 0 | 19 | 0 |
 | **J Martin** | 5 | 0 | 21 | 4 |
 | **J Littely** | 3 | 0 | 14 | 0 |
