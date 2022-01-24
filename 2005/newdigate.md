@@ -3,9 +3,9 @@ layout: default
 title: Newdigate
 game: Newdigate v The Min
 location: The Brocus
-date: 
-report: 
-result: 
+date: 12/06/2005
+report: Newdigate batted first and made 272 for 4 wkts. The Min replied with 167 for 9 wkts (all out)
+result: Newdigate won by 105 runs
 parent: 2005 Fixtures
 ---
 
@@ -17,23 +17,25 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+D Hambidge 1st 50
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Smith** | c | MacFarlane | 22 |
-| **Cowles** | b | Marshall | 24 |
-| **Scanlon** | b | MacFarlane | 67 |
-| **Godby** | b | MacFarlane | 62 |
-| **Macguire** | b | MacFarlane | 0 |
-| **Pavey** | b | MacFarlane |  |
-| **Chambers** | b | MacFarlane |  |
-| **Potts** | b | MacFarlane |  |
-| **Yerrell** | b | MacFarlane |  |
-| **Scanlon** | b | MacFarlane |  |
-| **Scanlon** | b | MacFarlane |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (46 overs) | 195 for 3 wkts |
+| **R Calcut** | not out |  | 111 |
+| **J Penfold** | b | P O'Mahony | 10 |
+| **P Pople** | b | H Ingham | 44 |
+| **Angelo** | c J Grant | E Ingham | 5 |
+| **Armand** | b | W Calvert | 47 |
+| **F Steyn** | not out |  | 39 |
+| **Scowden** | dnb |  |  |
+| **W Bowley** | dnb |  |  |
+| **T Pople** | dnb |  |  |
+| **Rance** | dnb |  |  |
+|  |  |  |  |
+| **Extras** | | (0b 0lb 0w 0nb) | 26 |
+| **Total** | | (40 overs) | 272 for 4 wkts |
 
 ## Fall of Wickets
 
@@ -46,29 +48,29 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Marshall** | 16 | 4 | 41 | 2 |
-| **Marshall** | 13 | 2 | 46 | 1 |
-| **Wright** | 6 | 0 | 36 | 0 |
-| **Beswick** | 7 | 1 | 34 | 0 |
-| **Howcroft** | 4 | 0 | 25 | 0 |
+| **P O'Mahony** | 11 | 1 | 73 | 1 |
+| **H Ingham** | 17 | 3 | 92 | 1 |
+| **E Ingham** | 7 | 0 | 47 | 1 |
+| **W Calvert** | 3 | 0 | 36 | 1 |
+| **F Ingham** | 2 | 0 | 15 | 0 |
 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Earney** | b | Yerrell | 2 |
-| **Grant** | b | Yerrell | 0 |
-| **Marshall** | b | Chambers | 20 |
-| **Calvert** | b | Yerrell | 2 |
-| **Howcroft** | b | Chambers | 16 |
-| **MacFarlane** | b | Scanlon | 25 |
-| **Beswick** | b | Scanlon | 21 |
-| **Gardiner** | b | Chambers | 7 |
-| **Fielding** | b | Scanlon | 8 |
-| **Young** | b | Scanlon | 2 |
-| **Wright** | not out |  | 0 |
-| **Extras** | | (9b 2lb 4w 0nb) | 15 |
-| **Total** | | (33.5 overs) | 118 all out |
+| **J Grant &#8224;** | c Rance | F Steyn | 25 |
+| **A Slight** | b | T Pople | 4 |
+| **H Ingham** | c W Bowley | J Penfold | 35 |
+| **D Hambidge** | c R Calcut | F Steyn | 55 |
+| **W Calvert** | c J Penfold | Scowden | 4 |
+| **E Ingham** | c Rance | W Bowley | 2 |
+| **F Ingham** | b | P Pople | 23 |
+| **A Holmes** | b | Angelo | 0 |
+| **P O'Mahony** | c Calcut | Armand | 0 |
+| **R Ingham** | not out |  | 0 |
+|  |  |  |  |
+| **Extras** | | (0b 0lb 0w 0nb) | 19 |
+| **Total** | | (45.25 overs) | 167 for 9 wkts (all out) |
 
 ## Fall of Wickets
 
@@ -81,11 +83,14 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **F Steyn** |  |  |  | 2 |
+| **T Pople** |  |  |  | 1 |
+| **J Penfold** |  |  |  | 1 |
+| **W Bowley** |  |  |  | 1 |
+| **Scowden** |  |  |  | 1 |
+| **P Pople** |  |  |  | 1 |
+| **Angelo** |  |  |  | 1 |
+| **Armand** |  |  |  | 1 |
 
 ## Win/Loss Ratio
 

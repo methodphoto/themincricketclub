@@ -19,7 +19,7 @@ Played at {{page.location}} on {{page.date}}
 
 ## {{page.title}} Innings
 
-J Wright, 3rd 5 wkt haul for The Min
+J Wright, 3rd 5 wkt haul
 
 ## The Min Innings
 

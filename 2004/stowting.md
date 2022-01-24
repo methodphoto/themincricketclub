@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Earney's 20th 50 for The Min. R Green's 2nd 50 for The Min
+R Earney's 20th 50. R Green's 2nd 50
 
 ## {{page.title}} Innings
 
@@ -28,10 +28,10 @@ R Earney's 20th 50 for The Min. R Green's 2nd 50 for The Min
 | **A Harrison** | not out |  | 34 |
 | **I Bull** | c R Beswick | R Earney | 15 |
 | **C Ball** | not out |  | 26 |
-| **D Parminter** | dnb |  |  |
+| **D Parmenter** | dnb |  |  |
 | **D Cox** | dnb |  |  |
 | **M Pugh** | dnb |  |  |
-| **I Bartlett** | dnb |  |  |
+| **I Artlett** | dnb |  |  |
 | **M Cox** | dnb |  |  |
 | **D Bland** | dnb |  |  |
 | **Extras** | | (1b 3lb 4w 1nb) | 9 |
@@ -61,11 +61,11 @@ R Earney's 20th 50 for The Min. R Green's 2nd 50 for The Min
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Earney** | b | M Medhurst | 64 |
-| **J Smith** | c I Bartlett | M Pugh | 6 |
+| **J Smith** | c I Artlett | M Pugh | 6 |
 | **R Beswick &#42;** | lbw | M Medhurst | 14 |
-| **A Slight** | b | D Parminter | 0 |
-| **J Grant &#8224;** | b | D Parminter | 0 |
-| **W Calvert** | b | D Parminter | 1 |
+| **A Slight** | b | D Parmenter | 0 |
+| **J Grant &#8224;** | b | D Parmenter | 0 |
+| **W Calvert** | b | D Parmenter | 1 |
 | **R Coyle** | not out |  | 18 |
 | **D James** | st | M Medhurst | 1 |
 | **R Green** | not out |  | 50 |
@@ -87,10 +87,10 @@ R Earney's 20th 50 for The Min. R Green's 2nd 50 for The Min
 |---|:---|:---|:---|:---|
 | **M Pugh** | 6 | 3 | 21 | 1 |
 | **D Bland** | 5 | 1 | 23 | 0 |
-| **D Parminter** | 11 | 4 | 74 | 3 |
+| **D Parmenter** | 11 | 4 | 74 | 3 |
 | **M Medhurst** | 9 | 2 | 30 | 3 |
 | **A Harrison** | 5 | 1 | 22 | 0 |
-| **I Bartlett** | 4 | 0 | 21 | 0 |
+| **I Artlett** | 4 | 0 | 21 | 0 |
 
 ## Win/Loss Ratio
 

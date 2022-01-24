@@ -17,8 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Beswick best bowling for The Min
-
+R Beswick best bowling<br />
 Partnership of 109 between J Grant and D Swann
 
 ## Great Tew Innings

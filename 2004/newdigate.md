@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-M Goff's 1st 50 for The Min
+M Goff's 1st 50
 
 ## {{page.title}} Innings
 

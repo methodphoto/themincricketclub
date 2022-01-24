@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Earney's 24th 50 for The Min. R Beswick's 16th 50 for The Min.<br />
+R Earney's 24th 50. R Beswick's 16th 50.<br />
 Partnership of 126 between R Earney and R Beswick
 
 ## {{page.title}} Innings

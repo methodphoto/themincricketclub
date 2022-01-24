@@ -255,22 +255,22 @@ parent: Results
 
 | 2005 |  |  |
 |:---|:---|:---|
-| {date} | [Britwell Salome](../2005/britwell-salome) | Drawn |
+| 25/04/2005 | [Britwell Salome](../2005/britwell-salome) | Drawn |
 | 08/05/2005 | [Ockley](../2005/ockley) | **Won** |
-| {date} | [Old Colfeians](../2005/old-colfeians) | Lost |
-| {date} | [Tappers](../2005/tappers) | Lost |
-| {date} | [Newdigate](../2005/newdigate) | Lost |
-| {date} | [Watton-at-Stone](../2005/watton-at-stone) | Drawn |
-| {date} | [Stowting](../2005/stowting) | **Won** |
-| {date} | [Broadway and Horton](../2005/broadway-and-horton) | **Won** |
-| {date} | [Kilmington and Stourton](../2005/kilmington-and-stourton) | **Won** |
-| {date} | [Warminster Garrison](../2005/warminster-garrison) | **Won** |
-| {date} | [Horningsham](../2005/horningsham) | **Won** |
-| {date} | [Selling](../2005/selling) | Lost |
-| {date} | [Ballinger Waggoners](../2005/ballinger-waggoners) | Drawn |
-| {date} | [SB Exiles](../2005/sb-exiles) | **Won** |
-| {date} | [Reigate Pilgrims](../2005/reigate-pilgrims) | Drawn |
-| {date} | [Hornchurch](../2005/hornchurch) | **Won** |
+| 15/05/2005 | [Old Colfeians](../2005/old-colfeians) | Lost |
+| 05/06/2005 | [Tappers](../2005/tappers) | Lost |
+| 12/06/2005 | [Newdigate](../2005/newdigate) | Lost |
+| 26/06/2005 | [Watton-at-Stone](../2005/watton-at-stone) | Drawn |
+| 03/07/2005 | [Stowting](../2005/stowting) | **Won** |
+| 07/07/2005 | [Broadway and Horton](../2005/broadway-and-horton) | **Won** |
+| 08/07/2005 | [Kilmington and Stourton](../2005/kilmington-and-stourton) | **Won** |
+| 09/07/2005 | [Warminster Garrison](../2005/warminster-garrison) | **Won** |
+| 10/07/2005 | [Horningsham](../2005/horningsham) | **Won** |
+| 31/07/2005 | [Selling](../2005/selling) | Lost |
+| 21/08/2005 | [Ballinger Waggoners](../2005/ballinger-waggoners) | Drawn |
+| 04/09/2005 | [SB Exiles](../2005/sb-exiles) | **Won** |
+| 11/09/2005 | [Reigate Pilgrims](../2005/reigate-pilgrims) | Drawn |
+| 25/09/2005 | [Hornchurch](../2005/hornchurch) | **Won** |
 
 | 2004 |  |  |
 |:---|:---|:---|
@@ -300,7 +300,7 @@ parent: Results
 | 10/07/2003 | [Wareham](../2003/wareham) | Drawn |
 | 11/07/2003 | [Broadway and Horton](../2003/broadway-and-horton) | Lost |
 | 12/07/2003 | [Land Warfare XI](../2003/land-warfare-xi) | **Won** |
-| 13/07/2003| [Honor Oak](../2003/honor-oak) | Drawn |
+| 13/07/2003 | [Honor Oak](../2003/honor-oak) | Drawn |
 | 03/08/2003 | [Tappers](../2003/tappers) | Lost |
 | 17/08/2003 | [Selling](../2003/selling) | Lost |
 | 31/08/2003 | [Spencer](../2003/spencer) | **Won** |

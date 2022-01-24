@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Earney's 2nd Century for The Min.<br />
+R Earney's 2nd Century.<br />
 Partnership of 151 between R Earney and R Beswick
 
 ## The Min Innings

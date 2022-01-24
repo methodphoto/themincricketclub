@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-J Hylton first hundred for the Min.<br />
+J Hylton first hundred.<br />
 Partnership of 102 between J Hylton and R Beswick
 
 ## The Min Innings

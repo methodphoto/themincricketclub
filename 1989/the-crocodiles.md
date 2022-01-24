@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Beswick's 2nd 50 for The Min
+R Beswick's 2nd 50
 
 ## The Min Innings
 
