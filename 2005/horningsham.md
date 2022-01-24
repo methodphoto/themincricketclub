@@ -60,18 +60,18 @@ The second ever 4 win Tour
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **D O'Connor** | c J Grant | H Ingham | 22 |
-| **Chadwick** | b | J Wright | 24 |
-| **J Oborne** | b | J Wright | 67 |
-| **Fricker** | b | H Ingham | 62 |
-| **G Oborne** | c P O'Mahony | A Slight | 0 |
-| **White** | b | A Slight  |  |
-| **Gunning** | b | H Ingham |  |
-| **Lock** | c P O'Mahony | A Slight |  |
-| **Sam** | b | A Slight |  |
+| **D O'Connor** | c J Grant | H Ingham | 30 |
+| **Chadwick** | b | J Wright | 8 |
+| **J Oborne** | b | J Wright | 30 |
+| **Fricker** | b | H Ingham | 6 |
+| **G Oborne** | c P O'Mahony | A Slight | 14 |
+| **White** | b | A Slight  | 1 |
+| **Gunning** | b | H Ingham | 2 |
+| **Lock** | c P O'Mahony | A Slight | 3 |
+| **Sam** | b | A Slight | 0 |
 | **Matt** | b | P Beswick | 2 |
 | **Finn** | not out |  | 0 |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
+| **Extras** | | (3b 4lb 6w 2nb) | 15 |
 | **Total** | | (25 overs) | 111 all out |
 
 ## Fall of Wickets
