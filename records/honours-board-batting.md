@@ -143,6 +143,7 @@ parent: Records
 | **2006** | Richard Earney | v [Broadway and Horton](../2006/broadway-and-horton) | **80** |
 | **2006** | Martin Goff | v [HSBC](../2006/hsbc) | **52** |
 | **2006** | Richard Earney | v [Tappers](../2006/tappers) | **62&#42;** |
+| **2005** | Richard Beswick | v [Hornchurch](../2005/hornchurch) | **69** |
 | **2005** | Andrew Slight | v [SB Exiles](../2005/sb-exiles) | **64** |
 | **2005** | Richard Earney | v [SB Exiles](../2005/sb-exiles) | **122&#42;** |
 | **2005** | Richard Kitson | v [Horningsham](../2005/horningsham) | **75** |

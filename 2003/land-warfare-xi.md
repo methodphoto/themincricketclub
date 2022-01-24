@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Earney, 5th Century for The Min
+R Earney, 5th Century
 
 ## The Min Innings
 

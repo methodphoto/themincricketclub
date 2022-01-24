@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-P Grant first 50 for The Min. R Green best bowling for The Min
+P Grant first 50. R Green best bowling for The Min
 
 ## The Min Innings
 

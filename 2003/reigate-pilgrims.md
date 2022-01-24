@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-J Wright's 4th 5 wkt haul for The Min
+J Wright's 4th 5 wkt haul
 
 ## {{page.title}} Innings
 

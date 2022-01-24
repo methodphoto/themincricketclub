@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Earney's 21st 50 for The Min
+R Earney's 21st 50
 
 ## The Min Innings
 

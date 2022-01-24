@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-Phil Bentley, first centurion for The Min
+Phil Bentley, first centurion
 
 ## The Min Innings
 

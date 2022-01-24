@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-I Marshall first century for The Min.<br />
+I Marshall first century.<br />
 Partnership of 160 between I Marshall and S Barrowcliff
 
 ## The Min Innings

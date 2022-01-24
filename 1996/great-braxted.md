@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-P Bentley best bowling for The Min
+P Bentley best bowling
 
 ## Great Braxted Innings
 

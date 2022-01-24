@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-I Marshall's 7th five wkt haul for The Min
+I Marshall's 7th five wkt haul
 
 ## The Min Innings
 

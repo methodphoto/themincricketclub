@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-S Barrowcliff's 12th 50 for The Min
+S Barrowcliff's 12th 50
 
 ## The Min Innings
 

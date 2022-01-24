@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-Tony Purves: best bowling for The Min 
+Tony Purves: best bowling
 
 ## The Min Innings
 

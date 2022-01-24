@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-William Calvert - Highest Score for The Min. James Booth - First duck for The Min. William Calvert - Best Bowling for The Min
+William Calvert - Highest Score . James Booth - First duck. William Calvert - Best Bowling
 
 ## The Min Innings
 
