@@ -23,14 +23,14 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|---|---:|
 | **R Prendergast** | c H Ingham | R O'Hagan | 89 |
 | **S Prasher** | c R Green | P O'Mahony | 12 |
-| **W Shafique** | b | MacFarlane | 0 |
-| **Greeff** | b | MacFarlane | 0 |
-| **Singleton** | b | MacFarlane | 0 |
-| **Seal** | b | MacFarlane | 1 |
-| **Smit** | b | MacFarlane | 0 |
-| **Singleton** | b | MacFarlane | 2 |
-| **Patel** | b | MacFarlane | 12 |
-| **Sharma** | b | MacFarlane | 0 |
+| **W Shafique** | c R Green | P O'Mahony | 0 |
+| **Greeff** | lbw | P O'Mahony | 0 |
+| **Singleton** | b | P O'Mahony | 0 |
+| **Seal** | b | R Earney | 1 |
+| **Smit** | lbw | R Earney | 0 |
+| **Singleton** | b | J Wright | 2 |
+| **Patel** | run out (A Slight/R Green) |  | 12 |
+| **Sharma** | b | R Earney | 0 |
 | **Pye** | not out |  | 7 |
 | **Extras** | | (7b 4lb 18w 0nb) | 29 |
 | **Total** | | (40 overs) | 157 all out |
