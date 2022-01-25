@@ -17,7 +17,10 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-The Min regained the Ashes 
+The Min regained the Ashes
+
+<img src="broadway2005.jpg" width="100%" alt="The Ashes regained" />
+
 
 ## The Min Innings
 

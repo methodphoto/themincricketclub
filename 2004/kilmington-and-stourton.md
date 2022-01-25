@@ -19,6 +19,8 @@ Played at {{page.location}} on {{page.date}}
 
 R Earney's 21st 50
 
+<img src="kands2004.jpg" width="100%" alt="At Stourhead" />
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

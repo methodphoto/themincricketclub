@@ -19,6 +19,8 @@ Played at {{page.location}} on {{page.date}}
 
 R Earney's 28th 50
 
+<img src="kilmington2005.jpg" width="100%" alt="At Stourhead" />
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
