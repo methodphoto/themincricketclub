@@ -16,3 +16,5 @@ Played at {{page.location}} on {{page.date}}
 {{page.report}}
 
 **Result:** {{page.result}}
+
+<img src="horningsham2006.jpg" width="100%" alt="The 3 Wise Monkeys" />

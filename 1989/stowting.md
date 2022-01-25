@@ -2,7 +2,7 @@
 layout: default
 title: Stowting
 game: Stowting v The Min
-location: Stowting Common
+location: Dawes Field
 date: 03/09/1989
 report: The Min batted first and made 225 for 5 wkts. Stowting were 151 for 9 wkts when time ran out
 result: Match Drawn

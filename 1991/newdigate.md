@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Skaabek** | dnb |  |  | 
 | **C Mills** | dnb |  |  | 
 | **McIntosh** | dnb |  |  | 
-| **Extras** | | (0b 0lb 0w 0nb) |515 | 
+| **Extras** | | (0b 0lb 0w 0nb) | 15 | 
 | **Total** | | (40.1 overs) | **186 for 6 wkts** | 
 
 ## Fall of Wickets

@@ -27,7 +27,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Jones** | b | R Crombie | 1 | 
 | **K Sullivan** | b | P Whitehead | 2 | 
 | **J Grant &#8224;** | b | R Crombie | 16 | 
-| **M Owen** | b | R Crombie |1| 
+| **M Owen** | b | R Crombie | 1 | 
 | **M Kirwan** | not out | | 16 | 
 | **D Newman** | not out | | 2 | 
 | **A Sylvester** | not out | | 0 | 

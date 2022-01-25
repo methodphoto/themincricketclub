@@ -2,7 +2,7 @@
 layout: default
 title: Stowting
 game: Stowting v The Min
-location: Stowting Common
+location: Dawes Field
 date: 01/06/1997
 report: Stowting batted first and made 176 all out. The Min replied with 177 for 5 wkts
 result: The Min won by 5 wkts

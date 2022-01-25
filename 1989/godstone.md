@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 |---|:---|:---|:---|:---|
 | **Elliot** | 15 | 1 | 52 | 6 | 
 | **Page** | 5 | 2 | 21 | 0 | 
-| **Atkins** | 7 | 2 | 24 |03 | 
+| **Atkins** | 7 | 2 | 24 | 0 | 
 | **Horrocks** | 2.1 | 0 | 19 | 0 | 
 | **Horrocks** | 2 | 1 | 2 | 0 | 
 

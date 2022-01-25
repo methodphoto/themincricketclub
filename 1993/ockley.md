@@ -30,7 +30,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Horsey** | not out |  | 3 | 
 | **A MacFarlane** | c (keeper) | Smith | 2 | 
 | **J Bristow** | b | Smith | 0 | 
-| **A Fielding** | b | Smith |02 | 
+| **A Fielding** | b | Smith | 2 | 
 | **G Wright** | lbw | J Chambers | 2 | 
 | **Extras** | | (9b 2lb 4w 0nb) | 18 | 
 | **Total** | | (31.5 overs) | **146 all out** | 

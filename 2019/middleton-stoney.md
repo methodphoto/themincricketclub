@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **W Calvert** | b |J Morris | 3 |
 | **R Beswick &#42;** | lbw b | .Williams | 5 |
 | **J Stimfig  &#8224;** | not out | | 12 |
-| **J Grant &#8224;** | not out | |0 |
+| **J Grant &#8224;** | not out | | 0 |
 | **J Wright** | dnb | | |
 | **Extras** | | (4b 2lb 7w 2nb 0p) | **15** |
 | **Total** | | (33 overs) | **111 for 8 wkts** |
@@ -78,19 +78,19 @@ Played at {{page.location}} on {{page.date}}
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 8 | | | | |
-| **Batsman** | 1 | 3 | 2 | 4 |5  | 7 | 8 | |
+| **Batsman** | 1 | 3 | 2 | 4 | 5 | 7 | 8 | |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **S Pettit** |5 |1 |6 |2 |
-| **AK Kamal** |8 |4 |24 |0 |
-| **E Barton** |4 |0 |16 |1 |
-| **J Morris** |8 |1 |21 |3 |
-| **J Williams** |4 |0 |36 |1 |
-| **J Moorman** |3 |1 |4 |1 |
-| **T Riley** | 1 | 1 | 0| 0 |
+| **S Pettit** | 5 | 1 | 6 | 2 |
+| **AK Kamal** | 8 | 4 | 24 | 0 |
+| **E Barton** | 4 | 0 | 16 | 1 |
+| **J Morris** | 8 | 1 | 21 | 3 |
+| **J Williams** | 4 | 0 | 36 | 1 |
+| **J Moorman** | 3 | 1 | 4 | 1 |
+| **T Riley** | 1 | 1 | 0 | 0 |
 
 ## Season Win/Loss Record
 

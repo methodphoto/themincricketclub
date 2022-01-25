@@ -84,7 +84,7 @@ Played at {{page.location}} on {{page.date}}
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **S Smith** | 14 | 1 | 27 | 3 |
-| **M Osbourne** | 7 | 0 | 27 |13 |
+| **M Osbourne** | 7 | 0 | 27 | 1 |
 | **M Williams** | 4 | 1 | 25 | 1 |
 | **B McGuire** | 5 | 0 | 17 | 0 |
 | **N Holt** | 4.1 | 1 | 13 | 3 |

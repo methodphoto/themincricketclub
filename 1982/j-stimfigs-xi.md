@@ -81,10 +81,10 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **M Kirwan** | 15 | 4 | 55 | 1|
-| **A Sylvester** | 16 | 2 | 71 | 3|
-| **J Wright** | 3 | 0 | 31 | 0|
-| **W Calvert** | 4 | 1 | 16 | 1|
+| **M Kirwan** | 15 | 4 | 55 | 1 |
+| **A Sylvester** | 16 | 2 | 71 | 3 |
+| **J Wright** | 3 | 0 | 31 | 0 |
+| **W Calvert** | 4 | 1 | 16 | 1 |
 
 ### Win/Loss Ratio
 

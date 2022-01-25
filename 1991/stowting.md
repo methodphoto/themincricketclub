@@ -2,7 +2,7 @@
 layout: default
 title: Stowting
 game: Stowting v The Min
-location: Stowting Common
+location: Dawes Field
 date: 01/09/1991
 report: Stowing batted first and made 152 all out. The Min replied with 153 for 4 wkts
 result: The Min won by 6 wkts

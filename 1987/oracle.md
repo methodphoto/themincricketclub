@@ -59,7 +59,7 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **A Gallagher** | not out |   |55 | 
+| **A Gallagher** | not out |   | 55 | 
 | **Clift** | b | Garwood | 1 | 
 | **S Sagar** | c | (3) | 12 | 
 | **S Calver** | b | Brooke | 3 | 

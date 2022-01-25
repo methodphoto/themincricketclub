@@ -65,7 +65,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Gardiner** | run out |  | 11 |
 | **S Masterson** | c Seymour | Clare | 21 |
 | **R Coyle** | st | Taylor | 7 |
-| **G Powell** | x | Mitchell | 1 |
+| **G Powell** | c | Mitchell | 1 |
 | **J Wright** | not out |  | 6 |
 | **Extras** | | (4b 1lb 0w 1nb) | 6 |
 | **Total** | | (38.1 overs) | 133 all out |
@@ -81,7 +81,7 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Vigar** | 8 | 3 | 13 |10 |
+| **Vigar** | 8 | 3 | 13 | 1 |
 | **Stanfield** | 8 | 3 | 21 | 1 |
 | **Williams** | 4 | 0 | 27 | 0 |
 | **A Seymour** | 8 | 4 | 22 | 3 |

@@ -83,7 +83,7 @@ J Wright's 4th 5 wkt haul
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **G Mitchell** | 11 | 2 | 20 | 2 |
-| **P Teague** | 11 | 3 | 31 |03 |
+| **P Teague** | 11 | 3 | 31 | 0 |
 | **A Tomes** | 9 | 0 | 39 | 4 |
 | **A Forsyth** | 5 | 0 | 32 | 1 |
 | **R Burnside** | 2 | 0 | 6 | 0 |

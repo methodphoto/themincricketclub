@@ -2,7 +2,7 @@
 layout: default
 title: Stowting
 game: Stowting v The Min
-location: Stowting
+location: Dawes Field
 date: 02/09/1990
 report: The Min made 213 for 7 wkts. Stowting replied with 122 for 8 wkts when time ran out
 result: Match Drawn

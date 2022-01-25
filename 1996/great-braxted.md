@@ -85,7 +85,7 @@ P Bentley best bowling
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **N Webb** | 11 | 2 | 33 | 1 |
-| **R Croxon** | 8 | 0 | 34 |2 |
+| **R Croxon** | 8 | 0 | 34 | 2 |
 | **T Croxon** | 10 | 0 | 43 | 2 |
 | **C Alcock** | 7.2 | 0 | 39 | 3 |
 

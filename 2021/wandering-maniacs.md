@@ -75,7 +75,6 @@ R Damaze 50 off 35 balls
 | **Extras** | | (2b 2lb 8w 2nb) | **12** | 
 | **Total** | | (25.4 overs) | **102 for 8 wkts (all out)** | 
 
-<div class=“fow”>
 
 ## Fall of Wickets
 

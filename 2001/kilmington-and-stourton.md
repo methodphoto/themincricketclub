@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Walker** | b | R Beswick | 0 |
 | **D French** | b | E Garland | 0 |
 | **M Lapham** | not out |  | 4 |
-| **A Leigh** | b | E Garland |1  |
+| **A Leigh** | b | E Garland | 1 |
 | **Extras** | | (6b 4lb 7w 1nb) | 18 |
 | **Total** | | (32 overs) | **130 all out** |
 

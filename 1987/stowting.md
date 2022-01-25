@@ -2,7 +2,7 @@
 layout: default
 title: Stowting
 game: Stowting v The Min
-location: Stowting Common
+location: Dawes Field
 date: 30/08/1987
 report: Stowting batted first and were all out
 result: Rain stopped play, match drawn

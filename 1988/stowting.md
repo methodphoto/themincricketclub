@@ -2,7 +2,7 @@
 layout: default
 title: Stowting
 game: Stowting v The Min
-location: Stowting Common
+location: Dawes Field
 date: 04/09/1988
 report: The Min batted first and made 200 for 7 wkts. Stowting replied with 109 all out
 result: The Min won by 89 runs

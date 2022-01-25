@@ -26,7 +26,7 @@ Played at {{page.location}} on {{page.date}}
 | **Wilson** | c D Newman | R Olver | 33 | 
 | **Byers** | c A Sylvester | A Gallagher | 57 | 
 | **Page** | c D Young | M Gardiner | 4 | 
-| **J Edwards** | c J Grant | M Taylor |32|
+| **J Edwards** | c J Grant | M Taylor | 32 |
 | **Williams** | c M Gardiner | M Taylor | 7 | 
 | **Malkin** | c J Grant | M Taylor | 8 |
 | **Pearce** | b | M Taylor | 3 | 
