@@ -20,6 +20,9 @@ Played at {{page.location}} on {{page.date}}
 R Earney's 23rd 50. A Slight's 2nd 50.<br />
 Partnership of 132 between R Earney and A Slight
 
+<img src="jim_brookwood2004.jpg" width="100%" alt="Jim at Brookwood" />
+<img src="brookwood2004.jpg" width="100%" alt="Bes meanders back" />
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
