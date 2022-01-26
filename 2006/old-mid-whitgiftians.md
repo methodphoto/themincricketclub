@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Old Mid Whitgiftians
-game: Old Mid Whitgiftians v The Min
+title: Old Mid-Whitgiftians
+game: Old Mid-Whitgiftians v The Min
 location: Trinity Sanderstead Sports Club
 date: 16/07/2006
-report: Old Mid Whitgiftians batted first and made 231 for 5 wkts. The Min replied with 153 all out
-result: Old Mid Whitgiftians won by 78 runs
+report: Old Mid-Whitgiftians batted first and made 231 for 5 wkts. The Min replied with 153 all out
+result: Old Mid-Whitgiftians won by 78 runs
 parent: 2006 Fixtures
 ---
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Slight** | not out |  | 0 |
 | **E Ingham** | lbw | B Andrews | 0 |
 | **Extras** | | (0b 6lb 11w 2nb) | 19 |
-| **Total** | | (33.5 overs) | **118 all out** |
+| **Total** | | (33.5 overs) | **153 all out** |
 
 ## Fall of Wickets
 

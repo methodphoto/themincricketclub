@@ -88,7 +88,7 @@ Partnership of 179 between R Earney and M Goff.
 | **T Rutherford** | 5 | 0 | 22 | 2 |
 | **P O'Mahony** | 7 | 1 | 34 | 1 |
 | **E Garland** | 7 | 1 | 31 | 3 |
-| **J Wright** | 6 | 0 | 33 | 01|
+| **J Wright** | 6 | 0 | 33 | 1 |
 | **A Gallagher** | 3 | 0 | 18 | 0 |
 | **G Williams** | 2 | 0 | 17 | 1 |
 | **R Beswick** | 1 | 0 | 7 | 1 |

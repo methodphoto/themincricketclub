@@ -4,7 +4,7 @@ title: Broadway and Horton
 game: Broadway and Horton v The Min
 location: The Pound
 date: 13/07/2006
-report: The Min batted first and made 223 for 10 wkts. Broadway and Horton replied with 188 for 10
+report: The Min batted first and made 223 for 10 wkts in 40 overs. Broadway and Horton replied with 188 for 10 wkts in 40 overs
 result: The Min won by 35 runs
 parent: 2006 Fixtures
 ---
@@ -39,7 +39,7 @@ Partnership of 135 between R Earney and R Beswick
 | **G Powell** | not out |  | 4 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (10b 3lb 6w 1nb) | 20 |
-| **Total** | | (33.5 overs) | **223 for 10wkts ** |
+| **Total** | | (40 overs) | **223 for 10 wkts** |
 
 ## Fall of Wickets
 
@@ -63,19 +63,20 @@ Partnership of 135 between R Earney and R Beswick
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Smith** | b | Marshall | 22 |
-| **Cowles** | b | Marshall | 24 |
-| **Scanlon** | b | Marshall | 67 |
-| **Godby** | b | Marshall | 62 |
-| **Macguire** | b | Marshall | 0 |
-| **Pavey** | b | Marshall  |  |
-| **Chambers** | b | Marshall |  |
-| **Potts** | b | Marshall |  |
-| **Yerrell** | b | Marshall |  |
-| **Scanlon** | dnb |  |  |
-| **Scanlon** | dnb |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (46 overs) | **195 for 3 wkts** |
+| **M Ingham** | c T Rutherford | P Wigg | 9 |
+| **M Guest** | c R Beswick | P Wigg | 35 |
+| **I MacHattie jr** | c T Rutherford | I Marshall | 35 |
+| **D Sparks** | c J Wright | H Ingham | 2 |
+| **C Medland** | c T Rutherford | J Wright | 15 |
+| **D Garland** | b | I Marshall  | 20 |
+| **M Grabham** | c J Grant | I Marshall |8  |
+| **R Young** | b | T Rutherford | 42 |
+| **T Hill** | st J Grant | E Garland | 2 |
+| **D Baker** | c J Wright | E Garland | 7 |
+| **A Wilshire** | not out |  | 1 |
+| **I MacHattie** | not out |  | 0 |
+| **Extras** | | (5b 0lb 5w 2nb) | 12 |
+| **Total** | | (40 overs) | **188 for 10 wkts** |
 
 ## Fall of Wickets
 
