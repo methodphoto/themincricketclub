@@ -4,7 +4,7 @@ title: Broadway and Horton
 game: Broadway and Horton v The Min
 location: The Pound
 date: 13/07/2006
-report: The Min batted first and made 223 for 10. Broadway and Horton replied with 188 for 10
+report: The Min batted first and made 223 for 10 wkts. Broadway and Horton replied with 188 for 10
 result: The Min won by 35 runs
 parent: 2006 Fixtures
 ---
@@ -39,7 +39,7 @@ Partnership of 135 between R Earney and R Beswick
 | **G Powell** | not out |  | 4 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (10b 3lb 6w 1nb) | 20 |
-| **Total** | | (33.5 overs) | 223 for 10 |
+| **Total** | | (33.5 overs) | **223 for 10wkts ** |
 
 ## Fall of Wickets
 
@@ -75,7 +75,7 @@ Partnership of 135 between R Earney and R Beswick
 | **Scanlon** | dnb |  |  |
 | **Scanlon** | dnb |  |  |
 | **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (46 overs) | 195 for 3 wkts |
+| **Total** | | (46 overs) | **195 for 3 wkts** |
 
 ## Fall of Wickets
 

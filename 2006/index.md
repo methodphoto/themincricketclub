@@ -14,7 +14,7 @@ parent: 2000s
 | May |  |  |  |
 |:---|:---|:---|:---|
 | 14th | 14:30 | [Ockley](ockley) | [Away](https://goo.gl/maps/vmhvFhbrVZGrsXAAA) |
-| 21st | 14:00 | [Old Colfeians](old-colfeians) | [Away](https://goo.gl/maps/vhwZEdPcYg4q3f3P8) |
+| 21st | 14:00 | <del>Old Colfeians</del> | [Away](https://goo.gl/maps/vhwZEdPcYg4q3f3P8) |
 
 | June |  |  |  |
 |:---|:---|:---|:---|
