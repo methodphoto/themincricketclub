@@ -31,7 +31,7 @@ parent: 2000s
 | 13th | 14:30 | [Broadway and Horton](broadway-and-horton) | [TA19 9RA](https://goo.gl/maps/ULbmC6LSX5HSAe8U6) |
 | 14th | 14:00 | [Kilmington and Stourton](kilmington-and-stourton) | [BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 15th | 14:00 | [Horningsham](horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
-| 16th | 14:00 | [Old Mid-Whitgiftians](old-mid-whitgiftians) | [Away](https://goo.gl/maps/SunYPvjYZGzovVBN8) |
+| 16th | 14:00 | [Old Mid-Whitgiftians](old-mid-whitgiftians) | [Away](https://goo.gl/maps/SvHFQjeeCEr6FTMp9) |
 
 | August |  |  |  |
 |:---|:---|:---|:---|

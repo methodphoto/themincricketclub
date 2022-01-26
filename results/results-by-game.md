@@ -244,10 +244,10 @@ parent: Results
 | 18/06/2006 | [Newdigate](../2006/newdigate) | Lost |
 | 02/07/2006 | [HSBC](../2006/hsbc) | Lost |
 | 09/07/2006 | [Stowting](../2006/stowting) | Lost |
-| {date} | [Broadway and Horton](../2006/broadway-and-horton) | **Won** |
-| {date} | [Kilmington and Stourton](../2006/kilmington-and-stourton) | Lost |
-| {date} | [Horningsham](../2006/horningsham) | Drawn |
-| {date} | [Old Mid-Whitgiftians](../2006/old-mid-whitgiftians) | Lost |
+| 13/07/2006 | [Broadway and Horton](../2006/broadway-and-horton) | **Won** |
+| 14/07/2006 | [Kilmington and Stourton](../2006/kilmington-and-stourton) | Lost |
+| 15/07/2006 | [Horningsham](../2006/horningsham) | Drawn |
+| 16/07/2006 | [Old Mid-Whitgiftians](../2006/old-mid-whitgiftians) | Lost |
 | {date} | [Selling](../2006/selling) | Lost |
 | {date} | [SB Exiles](../2006/sb-exiles) | **Won** |
 | {date} | [Reigate Pilgrims](../2006/reigate-pilgrims) | Lost |
