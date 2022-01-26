@@ -22,7 +22,7 @@ Played at {{page.location}} on {{page.date}}
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **C Pullen** | c T Rutherford | P O'Mahony | 19 |
-| **j Chittenden** | c S Barrowcliff | P O'Mahony | 6 |
+| **J Chittenden** | c S Barrowcliff | P O'Mahony | 6 |
 | **B Tyler** | lbw | J Wright | 40 |
 | **A Bloomfield** | run out |  | 6 |
 | **D Bloomfield** | c J Wright | T Rutherford | 0 |
