@@ -2,7 +2,7 @@
 layout: default
 title: Stowting
 game: Stowting v The Min
-location: Stowting Common
+location: Dawes Field
 date: 04/06/2000
 report: The Min batted first and made 109 all out
 result: The Min won by 44 runs

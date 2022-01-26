@@ -42,7 +42,7 @@ Partnership of 133 for Valley End between M Aggar and Chadwich
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 32 | 47 | 74 |  |  |  |  |  |  |
-| **Batsman** | 1 | 2 |4  | 3 |  |  |  |  |  |  |
+| **Batsman** | 1 | 2 | 4 | 3 |  |  |  |  |  |  |
 
 ## Bowling
 

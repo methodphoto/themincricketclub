@@ -106,7 +106,7 @@ parent: Statistics
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
-| **James Hylton** |23.3 | 7 | 66 | 9 | 7.33 |	15.53
+| **James Hylton** | 23.3 | 7 | 66 | 9 | 7.33 |	15.53
 | **Pete Grant	7** | 1 | 23 | 3 | 7.66 |	14
 | **Paul Sayer	6** | 0 | 23 | 3 | 7.66 |	12
 | **Jonathan Hylton	12	4** | 22 | 2 | 11 | 36 |

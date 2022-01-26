@@ -238,16 +238,16 @@ parent: Results
 
 | 2006 |  |  |
 |:---|:---|:---|
-| {date} | [Britwell Salome](../2006/britwell-salome) | **Won** |
-| {date} | [Ockley](../2006/ockley) | **Won** |
-| {date} | [Tappers](../2006/tappers) | **Won** |
-| {date} | [Newdigate](../2006/newdigate) | Lost |
-| {date} | [HSBC](../2006/hsbc) | Lost |
-| {date} | [Stowting](../2006/stowting) | Lost |
-| {date} | [Broadway and Horton](../2006/broadway-and-horton) | **Won** |
-| {date} | [Kilmington and Stourton](../2006/kilmington-and-stourton) | Lost |
-| {date} | [Horningsham](../2006/horningsham) | Drawn |
-| {date} | [Old Mid-Whitgiftians](../2006/old-mid-whitgiftians) | Lost |
+| 29/04/2006 | [Britwell Salome](../2006/britwell-salome) | **Won** |
+| 14/05/2006 | [Ockley](../2006/ockley) | **Won** |
+| 04/06/2006 | [Tappers](../2006/tappers) | **Won** |
+| 18/06/2006 | [Newdigate](../2006/newdigate) | Lost |
+| 02/07/2006 | [HSBC](../2006/hsbc) | Lost |
+| 09/07/2006 | [Stowting](../2006/stowting) | Lost |
+| 13/07/2006 | [Broadway and Horton](../2006/broadway-and-horton) | **Won** |
+| 14/07/2006 | [Kilmington and Stourton](../2006/kilmington-and-stourton) | Lost |
+| 15/07/2006 | [Horningsham](../2006/horningsham) | Drawn |
+| 16/07/2006 | [Old Mid-Whitgiftians](../2006/old-mid-whitgiftians) | Lost |
 | {date} | [Selling](../2006/selling) | Lost |
 | {date} | [SB Exiles](../2006/sb-exiles) | **Won** |
 | {date} | [Reigate Pilgrims](../2006/reigate-pilgrims) | Lost |

@@ -35,8 +35,6 @@ Played at {{page.location}} on {{page.date}}
 | **Extras** | | (5b 2lb 11w 1nb) | **19** | 
 | **Total** | | (32.4 overs) | **110 for 9 wkts (all out)** | 
 
-<div class=“fow”>
-
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |

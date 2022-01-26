@@ -51,7 +51,7 @@ Played at {{page.location}} on {{page.date}}
 | **Hind** | 8 | 3 | 18 | 2 | 
 | **Manchip** | 4 | 0 | 30 | 0 | 
 | **Wilson** | 8 | 1 | 58 | 2 | 
-| **Knight** | 2 | 0 | 28 | 40| 
+| **Knight** | 2 | 0 | 28 | 0 | 
 | **Guthrie** | 7 | 1 | 26 | 1 | 
 
 ## Old Elthamians Innings

@@ -2,7 +2,7 @@
 layout: default
 title: Stowting
 game: Stowting v The Min
-location: Stowting Common
+location: Dawes Field
 date: 06/07/2003
 report: The Min batted first and made 191 for 9 wkts. Stowting replied with 136 for 8 wkts when time ran out
 result: Match Drawn

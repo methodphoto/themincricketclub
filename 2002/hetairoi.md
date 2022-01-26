@@ -48,7 +48,7 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **K Robertson** | 8 | 1 | 22 |10 |
+| **K Robertson** | 8 | 1 | 22 | 1 |
 | **B Slade** | 10 | 2 | 44 | 0 |
 | **S Matthews** | 4 | 0 | 22 | 1 |
 | **K Whitehead** | 11 | 0 | 47 | 0 |

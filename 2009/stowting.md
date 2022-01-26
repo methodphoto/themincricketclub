@@ -2,7 +2,7 @@
 layout: default
 title: Stowting
 game: Stowting v The Min
-location: Stowting Common
+location: Dawes Field
 date: 
 report: 
 result: 

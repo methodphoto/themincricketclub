@@ -86,7 +86,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Johnson** | 8 | 0 | 19 | 0 |
 | **J Martin** | 5 | 0 | 21 | 4 |
 | **J Littely** | 3 | 0 | 14 | 0 |
-| **J Peak** | 2 | 0 | 10 |01 |
+| **J Peak** | 2 | 0 | 10 | 0 |
 | **J Green** | 2 | 0 | 8 | 0 |
 | **J Newall** | 4 | 0 | 13 | 1 |
 

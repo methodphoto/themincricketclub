@@ -66,7 +66,7 @@ First Tied match in Min history
 | **S Masterson** | b | D Windgatt | 0 |
 | **T Horsey** | b | Batt | 0 |
 | **P Sayer** | not out |  | 48 |
-| **I Marshall** | b | Batt |37 |
+| **I Marshall** | b | Batt | 37 |
 | **J Stimfig &#8224;** | b | Batt | 0 |
 | **J Wright** | b | M Everitt | 5 |
 | **A Gordon** | absent |  |  |

@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Harcourt** | st | M Bose | 1 | 
 | **N Beswick** | c | P Oborne | 0 | 
 | **L Dennes** | not out |  | 0 | 
-| **Extras** | | (8b 4lb 7w 1nb) |200 | 
+| **Extras** | | (8b 4lb 7w 1nb) | 20 |
 | **Total** | | (36.1 overs) | **149 all out** | 
 
 ## Fall of Wickets

@@ -63,7 +63,7 @@ Played at {{page.location}} on {{page.date}}
 | **Tucker** | c A Fielding | S Hornsby | 6 | 
 | **Adams** | c &  b | S Hornsby | 2 |
 | **Baints** | b | M Taylor | 13 | 
-| **Cardon** | c D Young | E Garland |4  |
+| **Cardon** | c D Young | E Garland | 4 |
 | **Book** | not out |  |  7| 
 | **Evans** | not out |  | 7 | 
 | **Piper** | dnb |  |  |

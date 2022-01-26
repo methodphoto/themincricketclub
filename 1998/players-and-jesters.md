@@ -48,7 +48,7 @@ R Beswick retired hurt with the score on 100
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Lennox** | 10 |32 | 47 | 1 |
+| **Lennox** | 10 | 3 | 47 | 1 |
 | **Rossgrove** | 7 | 3 | 21 | 1 |
 | **Sutton** | 7 | 2 | 23 | 0 |
 | **Bussell** | 11 | 3 | 44 | 0 |

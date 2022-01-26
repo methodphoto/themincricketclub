@@ -48,7 +48,7 @@ Played at {{page.location}} on {{page.date}}
 |---|:---|:---|:---|:---|
 | **T Ellis** | 19 | 3 | 38 | 3 | 
 | **N Ibbetson** | 12 | 7 | 25 | 2 | 
-| **R Clayton** | 10 |20 | 20 | 2 | 
+| **R Clayton** | 10 | 0 | 20 | 2 | 
 | **G Fernando** | 4.4 | 0 | 15 | 2 | 
 
 ## Watton-at-Stone Innings

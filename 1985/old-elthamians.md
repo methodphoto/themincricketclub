@@ -84,7 +84,7 @@ Played at {{page.location}} on {{page.date}}
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **M Kirwan** | 8 | 2 | 35 | 0 | 
-| **A Sylvester** | 12 | 5 | 32 | 24| 
+| **A Sylvester** | 12 | 5 | 32 | 4 | 
 | **J Wright** | 5 | 1 | 11 | 1 | 
 | **W Calvert** | 3 | 0 | 14 | 1 | 
 | **A Gallagher** | 2.2 | 1 | 9 | 1 | 

@@ -48,7 +48,7 @@ Played at {{page.location}} on {{page.date}}
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **W Wright** | 12 | 3 | 46 | 2 | 
-| **R Olver** | 15 | 7 | 25 | 4 | 
+| **R Olver** | 15 | 7 | 25 | 4 |
 | **R Beswick** | 2 | 0 | 13 | 0 | 
 | **T Purves** | 6 | 0 | 53 | 0 | 
 | **J Wright** | 6 | 0 | 42 | 0 |

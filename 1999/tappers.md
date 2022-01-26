@@ -1,6 +1,6 @@
 ---
 layout: default
-title: c
+title: Tappers
 game: Tappers v The Min
 location: Pembroke College, Oxford
 date: 22/08/1999

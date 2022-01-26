@@ -63,7 +63,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Powell** | b | A Tomes | 21 |
 | **A Haslam** | b | S Arnold | 22 |
 | **A Rubie** | b | S Arnold | 11 |
-| **S Patel** | c S Burgess | S Arnold |08 |
+| **S Patel** | c S Burgess | S Arnold | 8 |
 | **R Green** | b | P Teague | 7 |
 | **R Beswick &#42;** | not out |  | 0 |
 | **Extras** | | (12b 10lb 2w 1nb) | 25 |

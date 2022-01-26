@@ -30,7 +30,7 @@ The Min regained the Ashes
 | **L Bayliss** | b | R Beswick | 0 |
 | **G Knight** | c R Earney | R Beswick | 1 |
 | **R Young** | run out |  | 45 |
-| **J Hooper** | c J Grant | P O'Brien |0  |
+| **J Hooper** | c J Grant | P O'Brien | 0 |
 | **G White** | not out |  | 13 |
 | **M Merry** | c & b | R Earney | 0 |
 | **C Knight** | dnb |  | 0 |

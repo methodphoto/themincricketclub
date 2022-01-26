@@ -2,7 +2,7 @@
 layout: default
 title: Stowting
 game: Stowting v The Min
-location: Stowting
+location: Dawes Field
 date: 07/09/1986
 report: Stowting batted first made 170 all out. The Min were all out for 96 in reply.
 result: Stowting won by 74 runs

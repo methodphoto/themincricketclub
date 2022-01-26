@@ -2,7 +2,7 @@
 layout: default
 title: Stowting
 game: Stowting v The Min
-location: Stowting Common
+location: Dawes Field
 date: 03/07/2005
 report: Stowting batted first and made 171 for 9 wkts. The Min replied with 172 for 9 wkts
 result: The Min won by 1 wkt
@@ -76,7 +76,7 @@ R Earney's 27th 50
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 30 | 45 | 60 | 112 | 146 | 147 | 163 | 169 | 170 |  |
-| **Batsman** | 2 |3  | 4 | 5 | 6 | 7 | 1 | 8 | 10 |  |
+| **Batsman** | 2 | 3 | 4 | 5 | 6 | 7 | 1 | 8 | 10 |  |
 
 ## Bowling
 

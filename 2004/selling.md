@@ -86,7 +86,7 @@ Partnership of 126 between R Earney and R Beswick
 |---|:---|:---|:---|:---|
 | **T Homersham** | 9 | 0 | 41 | 0 |
 | **H Alexander** | 8 | 1 | 39 | 1 |
-| **D King** | 3 | 0 | 21 | 3 0|
+| **D King** | 3 | 0 | 21 | 3 |
 | **J Gower** | 4 | 0 | 25 | 0 |
 | **Joe Gower** | 4 | 0 | 21 | 1 |
 | **N Rigden** | 2.3 | 0 | 15 | 1 |

@@ -81,9 +81,9 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **R Olver** | 10 | 6 | 5 | 3 | 
-| **R Beswick** | 7 | 2 | 21 | 0 | 
-| **E Garland** | 8 | 0 | 24 | 4 | 
+| **R Olver** | 10 | 6 | 5 | 3 |
+| **R Beswick** | 7 | 2 | 21 | 0 |
+| **E Garland** | 8 | 0 | 24 | 4 |
 | **A Gallagher** | 5.4 | 0 | 28 | 3 |
 
 ## Win/Loss Ratio

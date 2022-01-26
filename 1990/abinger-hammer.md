@@ -63,7 +63,7 @@ Played at {{page.location}} on {{page.date}}
 | **Jackson** | not out |  | 12 | 
 | **Robertson** | c I Marshall | W Calvert | 1 | 
 | **Dillamore** | run out |  | 3 |
-| **C Waller** | not out |  |1  | 
+| **C Waller** | not out |  | 1 | 
 | **G Foster** | dnb |  |  |
 | **Smith** | dnb |  |  | 
 | **S  Fickling** | dnb |  |  | 

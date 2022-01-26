@@ -85,7 +85,7 @@ Played at {{page.location}} on {{page.date}}
 |---|:---|:---|:---|:---|
 | **M Mings** | 57 | 1 | 19 | 1 |
 | **T Nichold** | 8 | 0 | 55 | 2 |
-| **Chandler** | 5 | 0 | 23 |23 |
+| **Chandler** | 5 | 0 | 23 | 2 |
 | **S Collins** | 5 | 0 | 39 | 1 |
 | **K Gibbons** | 5 | 0 | 19 | 1 |
 | **H Cadogan** | 3 | 0 | 17 | 1 |
