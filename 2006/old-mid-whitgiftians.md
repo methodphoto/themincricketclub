@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Jackman** | dnb |  |  |
 | **Asbury** | dnb |  |  |
 | **Extras** | | (12b 2lb 15w 3nb) | 32 |
-| **Total** | | (40.4 overs) | 231 for 5 wkts |
+| **Total** | | (40.4 overs) | **231 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Slight** | not out |  | 0 |
 | **E Ingham** | lbw | B Andrews | 0 |
 | **Extras** | | (0b 6lb 11w 2nb) | 19 |
-| **Total** | | (33.5 overs) | 118 all out |
+| **Total** | | (33.5 overs) | **118 all out** |
 
 ## Fall of Wickets
 

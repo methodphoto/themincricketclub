@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Pugh** | lbw | E Garland | 0 |
 | **D Jackson** | not out |  | 5 |
 | **Extras** | | (6b 2lb 4w 0nb) | 12 |
-| **Total** | | (42 overs) | 209 for 9 wkts |
+| **Total** | | (42 overs) | **209 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | not out |  | 12 |
 | **J Wright** | b | D Bland | 80 |
 | **Extras** | | (2b 3lb 4w 3nb) | 12 |
-| **Total** | | (38.5 overs) | 109 all out |
+| **Total** | | (38.5 overs) | ***109 all out*** |
 
 ## Fall of Wickets
 

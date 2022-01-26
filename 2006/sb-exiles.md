@@ -36,7 +36,7 @@ Partnership of 179 between R Earney and M Goff.
 | **A Beswick** | dnb |  |  |
 | **P O'Mahony** | dnb |  |  |
 | **Extras** | | (14b 5lb 20w 8nb) | 47 |
-| **Total** | | (33.5 overs) | 293 for 2 wkts |
+| **Total** | | (33.5 overs) | **293 for 2 wkts** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Partnership of 179 between R Earney and M Goff.
 | **Bruton** | not out |  | 4 |
 | **J Reddish** | c A Slight | R Beswick | 0 |
 | **Extras** | | (1b 1lb 12w 1nb) | 15 |
-| **Total** | | (32 overs) | 170 for 3 wkts |
+| **Total** | | (32 overs) | **170 for 3 wkts** |
 
 ## Fall of Wickets
 

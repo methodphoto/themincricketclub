@@ -248,10 +248,10 @@ parent: Results
 | 14/07/2006 | [Kilmington and Stourton](../2006/kilmington-and-stourton) | Lost |
 | 15/07/2006 | [Horningsham](../2006/horningsham) | Drawn |
 | 16/07/2006 | [Old Mid-Whitgiftians](../2006/old-mid-whitgiftians) | Lost |
-| {date} | [Selling](../2006/selling) | Lost |
-| {date} | [SB Exiles](../2006/sb-exiles) | **Won** |
-| {date} | [Reigate Pilgrims](../2006/reigate-pilgrims) | Lost |
-| {date} | [Sanderstead](../2006/sanderstead) | **Won** |
+| 06/08/2006 | [Selling](../2006/selling) | Lost |
+| 03/09/2006 | [SB Exiles](../2006/sb-exiles) | **Won** |
+| 17/09/2006 | [Reigate Pilgrims](../2006/reigate-pilgrims) | Lost |
+| 24/09/2006 | [Sanderstead](../2006/sanderstead) | **Won** |
 
 | 2005 |  |  |
 |:---|:---|:---|
