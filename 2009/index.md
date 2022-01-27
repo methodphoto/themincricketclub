@@ -29,7 +29,7 @@ parent: 2000s
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
 | 9th | 14:30 | [Broadway and Horton](broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
-| 10th | 14:00 | [Kilmington and Stourton](kilmington-and-stourton) | BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
+| 10th | 14:00 | [Kilmington and Stourton](kilmington-and-stourton) | [BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 11th | 13:00 | [Horningsham](horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 | 12th | 14:00 | [Islip](islip) | [NN14 3LH](https://goo.gl/maps/ceJApjnpXCpYJQC97) |
 
@@ -40,6 +40,6 @@ parent: 2000s
 
 | September |  |  |  |
 |:---|:---|:---|:---|
-| 6th | 14:00 | [Tower of Dudes](tower-of-dudes) | [Away]() |
+| 6th | 14:00 | [Tower of Dudes](tower-of-dudes) | [Away](https://goo.gl/maps/UnwyEb5nVKuf4sHe8) |
 | 13th | 13:30 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 | 20th | 13:00 | [Selling](selling) | [Away](https://goo.gl/maps/pV2tb26PncWLNiBm9) |

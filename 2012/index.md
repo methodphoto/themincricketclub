@@ -31,8 +31,8 @@ Sunday 29th April. 30th Anniversary of The Min
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
 | 12th | 14:30 | <del>Broadway and Horton</del> | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
-| 13th | 14:00 | <del>Kilmington and Stourton</del> | [Away]() |
-| 14th | 14:00 | <del>Exford</del> | [Away]() |
+| 13th | 14:00 | <del>Kilmington and Stourton</del> | [Away](https://goo.gl/maps/6q53XChZh9A2) |
+| 14th | 14:00 | <del>Exford</del> | [Away](https://goo.gl/maps/fF9q6YYzDXm3mtrf6) |
 | 15th | 14:00 | [Horningsham](horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 
 | July |  |  |  |
@@ -45,8 +45,8 @@ Sunday 29th April. 30th Anniversary of The Min
 
 | September |  |  |  |
 |:---|:---|:---|:---|
-| 2nd | 14:00 | [Wonersh](wonersh) | [Away]() |
+| 2nd | 14:00 | [Wonersh](wonersh) | [Away](https://goo.gl/maps/CyANaeGNBaq4dTzV7) |
 | 9th | 13:00 | [Brasted Invicta](brasted-invicta) | [Away]() |
 | 16th | 13:30 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
-| 23rd | 13:00 | <del>Selling</del> | [Away]() |
-| 30th | 12:30 | [Stoke D’Abernon](stoke-dabernon) | [Away]() |
+| 23rd | 13:00 | <del>Selling</del> | [Away](https://goo.gl/maps/pV2tb26PncWLNiBm9) |
+| 30th | 12:30 | [Stoke D’Abernon](stoke-dabernon) | [Away](https://goo.gl/maps/TZ6dc1jPisurqYf49) |
