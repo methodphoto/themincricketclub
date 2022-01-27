@@ -20,7 +20,7 @@ parent: 2010s
 | June |  |  |  |
 |:---|:---|:---|:---|
 | 9th | 14:00 | [Frensham](frensham) | [Away](https://goo.gl/maps/NKG1fHyPgmci55aGA) |
-| 16th | 14:00 | [The Herd](the-herd) | [Away]() |
+| 16th | 14:00 | [The Herd](the-herd) | [Away](https://goo.gl/maps/w2skeCXwzZTEh7e26) |
 | 30th | 14:00 | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 
 | July |  |  |  |
@@ -40,7 +40,7 @@ parent: 2010s
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 10th | 14:00 | [Addington 1743](addington-1743) | [Away]() |
+| 10th | 14:00 | [Addington 1743](addington-1743) | [Away](https://goo.gl/maps/R8xcTWDgF3ZPmChc6) |
 
 | September |  |  |  |
 |:---|:---|:---|:---|

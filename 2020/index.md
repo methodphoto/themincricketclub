@@ -7,6 +7,8 @@ parent: 2020s
 
 # {{page.title}}
 
+Many games cancelled due to Covid-19 restrictions
+
 | April |  |  |  |
 |:---|:---|:---|:---|
 | 26th | 13:30 | <del>Middleton Stoney</del> | [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) | 
