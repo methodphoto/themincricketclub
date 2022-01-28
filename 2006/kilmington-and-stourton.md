@@ -82,7 +82,7 @@ Played at {{page.location}} on {{page.date}}
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **J Cosby** | 4 | 0 | 18 | 1 |
-| **D French** | 4 | 2 | 21 | 30|
+| **D French** | 4 | 2 | 21 | 0 |
 | **R Norman** | 6 | 0 | 26 | 1 |
 | **D Lapham** | 4 | 0 | 19 | 2 |
 | **S Snook** | 5 | 0 | 13 | 3 |
