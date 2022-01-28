@@ -2,7 +2,7 @@
 layout: default
 title: Old Min Young Min
 game: The Old Min v The Young Min
-location: 
+location: Solefields
 date: 
 report: 
 result: 
@@ -16,3 +16,5 @@ Played at {{page.location}} on {{page.date}}
 {{page.report}}
 
 **Result:** {{page.result}}
+
+<img src="tom-joy.jpg" width="100%" alt="Tom Joy - Bes Rueful" />

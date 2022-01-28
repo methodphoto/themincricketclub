@@ -57,19 +57,19 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **W Chapman** | c & b | J Yerrell | 2 | 
-| **J Grant &#8224;** | b | J Yerrell | 0 | 
-| **I Marshall** | b | J Chambers | 20 | 
-| **W Calvert** | b | J Yerrell | 2 | 
-| **R Howcroft** | st Pavey  | J Chambers | 16 | 
-| **A MacFarlane** | b | P Scanlon | 25 | 
-| **R Beswick &#42;** | st Pavey | P Scanlon | 21 | 
-| **M Gardiner** | b | J Chambers | 7 | 
-| **A Fielding** | b | P Scanlon | 8 | 
-| **D Young** | b | P Scanlon | 2 | 
-| **G Wright** | not out |  | 0 | 
-| **Extras** | | (9b 2lb 4w 0nb) | 15 | 
-| **Total** | | (33.5 overs) | **137 for 7 wkts** | 
+| **A Gallagher** | c Mahoney | L Tidbury | 15 | 
+| **R Beswick &#42;** | b | L Tidbury | 0 | 
+| **P Bentley** | run out |  | 19 | 
+| **A MacFarlane** | run out |  | 36 | 
+| **W Wright** | c McCulley | J Goulden | 36 | 
+| **R Earney** | c | L Tidbury | 12 | 
+| **T Horsey** | not out |  | 4 | 
+| **R Weir** | b | S Tidbury | 1 | 
+| **K Newman** | not out |  | 2 | 
+| **G Wright** | dnb |  |  | 
+| **J Wright** | dnb |  |  | 
+| **Extras** | | (5b 3lb 2w 3nb) | 13 |
+| **Total** | | (43 overs) | **137 for 7 wkts** | 
 
 ## Fall of Wickets
 

@@ -16,3 +16,5 @@ Played at {{page.location}} on {{page.date}}
 {{page.report}}
 
 **Result:** {{page.result}}
+
+<img src="broadway-team-2007.jpg" width="100%" alt="Team against Broadway" />
