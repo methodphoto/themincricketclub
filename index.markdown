@@ -20,7 +20,7 @@ nav_order: 1
 | 5th | 13:30 | Stowting | [TN25 6BD](https://goo.gl/maps/5KNmaMe6Wb42) |
 | 19th | 13:00 | Frensham | [GU10 3BJ](https://goo.gl/maps/4gohPpn1stdT6fnY7) |
 
-| July - Min Tour |  |  |  |
+| July - Tour |  |  |  |
 |:---|:---|:---|:---|
 | 6th | 18:00 | Ilton | [TA19 9EN](https://goo.gl/maps/ic4ipRMjEteck7KE9)  |
 | 7th | 14:00 | Blagdon Hill | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) |
