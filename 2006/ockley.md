@@ -63,7 +63,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Coyle** | b | J Fletcher | 8 |
 | **R Beswick &#42;** | b | J Fletcher | 6 |
 | **W Calvert** | b | J Rogers | 2 |
-| **A Slight &#8224;** | not out |   7 |
+| **A Slight &#8224;** | not out |  | 7 |
 | **T Rutherford** | dnb |  |  |
 | **H Ingham** | dnb |  |  |
 | **E Garland** | dnb |  |  |
