@@ -16,3 +16,7 @@ Played at {{page.location}} on {{page.date}}
 {{page.report}}
 
 **Result:** {{page.result}}
+
+<img src="jim-horningsham.jpg" width="100%" alt="Jim Swipes" />
+
+<img src="team-horningsham.jpg" width="100%" alt="Team against Horningsham" />

@@ -19,6 +19,8 @@ Played at {{page.location}} on {{page.date}}
 
 R Earney's 33rd 50. R Beswick's 20th 50. P O'Mahony 45 off 18 balls for his highest score
 
+<img src="horningsham2006-2.jpg" width="100%" alt="Team Photo" />
+
 <img src="horningsham2006.jpg" width="100%" alt="The 3 Wise Monkeys" />
 
 ## The Min Innings
