@@ -10,6 +10,8 @@ nav_order: 1
 |:---|:---|:---|:---|
 | 24th | 13:30 | Middleton Stoney | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) |
 
+29th April [40th Anniversary of The Min](../1982/clifton-hill-house)
+
 | May |  |  |  |
 |:---|:---|:---|:---|
 | 15th | 13:30 | Bricklayer's Arms | [SW19 3DE](https://goo.gl/maps/PMzZkRR9hcDF5ZGHA) |
