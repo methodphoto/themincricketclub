@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **W Bowley** | b | T Rutherford | 0 |
 | **S Gabriel** | c P Wigg | J Wright | 0 |
 | **T Spencer** | not out |  | 0 |
-| **Extras** | | (3b 4lb 2w 3nb) | 12 |
+| **Extras** | | (3b 4lb 2w 3nb 0p) | 12 |
 | **Total** | | (27.5 overs) | **92 all out** |
 
 ## Fall of Wickets
@@ -66,7 +66,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | not out |  | 10 |
 | **P O'Mahony** | b | S Macdonald | 0 |
 |  |  |  |  |
-| **Extras** | | (3b 1lb 2w 0nb) | 6 |
+| **Extras** | | (3b 1lb 2w 0nb 0p) | 6 |
 | **Total** | | (19 overs) | **47 for 9 wkts (all out)** |
 
 ## Fall of Wickets

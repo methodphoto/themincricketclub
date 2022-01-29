@@ -35,7 +35,7 @@ Partnership of 113 between M Goff and R Beswick
 | **P Grant** | b | M Handley | 0 |
 | **P Wigg** | not out |  | 4 |
 | **P O'Mahony** | dnb |  |  |
-| **Extras** | | (1b 2lb 8w 3nb) | 14 |
+| **Extras** | | (1b 2lb 8w 3nb 0p) | 14 |
 | **Total** | | (35 overs) | **159 for 8 wkts** |
 
 ## Fall of Wickets
@@ -71,7 +71,7 @@ Partnership of 113 between M Goff and R Beswick
 | **S Marsh** | not out |  | 2 |
 | **M Dawson &#8224;** | not out |  | 2 |
 | **M Coates** | dnb |  |  |
-| **Extras** | | (1b 2lb 11w 5nb) | 19 |
+| **Extras** | | (1b 2lb 11w 5nb 0p) | 19 |
 | **Total** | | (35 overs) | **140 for 9 wkts** |
 
 ## Fall of Wickets

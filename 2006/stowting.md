@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Medhurst** | not out |  |  58|
 | **M Pugh** | lbw | E Garland | 0 |
 | **D Jackson** | not out |  | 5 |
-| **Extras** | | (6b 2lb 4w 0nb) | 12 |
+| **Extras** | | (6b 2lb 4w 0nb 0p) | 12 |
 | **Total** | | (42 overs) | **209 for 9 wkts** |
 
 ## Fall of Wickets
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Wigg** | c C Ball | M Pugh | 9 |
 | **E Garland** | not out |  | 12 |
 | **J Wright** | b | D Bland | 8 |
-| **Extras** | | (2b 3lb 4w 3nb) | 12 |
+| **Extras** | | (2b 3lb 4w 3nb 0p) | 12 |
 | **Total** | | (38.5 overs) | ***109 all out*** |
 
 ## Fall of Wickets

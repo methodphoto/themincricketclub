@@ -37,7 +37,7 @@ parent: 2010s
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 24th | 14:00 | [Wimbledon United](wimbledon-united) | [Away]() |
+| 24th | 14:00 | [Wimbledon United](wimbledon-united) | [Away](https://goo.gl/maps/CuFBTpvCUFPfbR3j7) |
 
 | September |  |  |  |
 |:---|:---|:---|:---|

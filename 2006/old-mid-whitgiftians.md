@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **Blount** | dnb |  |  |
 | **Jackman** | dnb |  |  |
 | **Asbury** | dnb |  |  |
-| **Extras** | | (12b 2lb 15w 3nb) | 32 |
+| **Extras** | | (12b 2lb 15w 3nb 0p) | 32 |
 | **Total** | | (40.4 overs) | **231 for 5 wkts** |
 
 ## Fall of Wickets
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Coyle** | b | B Andrews | 2 |
 | **A Slight** | not out |  | 0 |
 | **E Ingham** | lbw | B Andrews | 0 |
-| **Extras** | | (0b 6lb 11w 2nb) | 19 |
+| **Extras** | | (0b 6lb 11w 2nb 0p) | 19 |
 | **Total** | | (33.5 overs) | **153 all out** |
 
 ## Fall of Wickets
