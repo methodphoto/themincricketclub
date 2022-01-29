@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Khan** | c T Rutherford | J Wright | 8 |
 | **W Van Zeel** | run out |  | 17 |
 | **J Mills** | not out |  | 0 |
-| **Extras** | | (6b 8lb 4w 0nb) | 18 |
+| **Extras** | | (6b 8lb 4w 0nb 0p) | 18 |
 | **Total** | | (40 overs) | ***191 for 9 wkts*** |
 
 ## Fall of Wickets
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | not out |  | 10 |
 | **J Wright** | run out |  | 4 |
 | **P O'Mahony** | not out |  | 10 |
-| **Extras** | | (13b 9lb 23w 0nb) | 45 |
+| **Extras** | | (13b 9lb 23w 0nb 0p) | 45 |
 | **Total** | | (33.5 overs) | **186 for 9 wkts** |
 
 ## Fall of Wickets

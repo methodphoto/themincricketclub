@@ -2,7 +2,7 @@
 layout: default
 title: Wimbledon United
 game: Wimbledon United v The Min
-location: 
+location: Cottenham Park
 date: 
 report: 
 result: 

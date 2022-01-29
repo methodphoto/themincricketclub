@@ -19,7 +19,6 @@ Played at {{page.location}} on {{page.date}}
 
 <img src="britwell-team.jpg" width="100%" alt="Team against Britwell" />
 
-
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
@@ -35,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Coyle** | not out |  | 0 |
 | **P Beswick** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (35b 2lb 15w 0nb) | 52 |
+| **Extras** | | (35b 2lb 15w 0nb 0p) | 52 |
 | **Total** | | (46 overs) | 212 for 7 wkts |
 
 ## Fall of Wickets
@@ -61,36 +60,37 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Smith** | b | Marshall | 22 |
-| **Cowles** | b | Marshall | 24 |
-| **Scanlon** | b | Marshall | 67 |
-| **Godby** | b | Marshall | 62 |
-| **Macguire** | b | Marshall | 0 |
-| **Pavey** | b | Marshall  |  |
-| **Chambers** | b | Marshall |  |
-| **Potts** | b | Marshall |  |
-| **Yerrell** | b | Marshall |  |
-| **Scanlon** | dnb |  |  |
-| **Scanlon** | dnb |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (46 overs) | 195 for 3 wkts |
+| **J Chittenden** | c & b | T Rutherford | 68 |
+| **A Bloomfield** | c | T Rutherford | 4 |
+| **B Tyler** | b | P Wigg | 26 |
+| **A Warman** | lbw | T Rutherford | 29 |
+| **D Bloomfield** | b | P Wigg | 08 |
+| **T Tomblin** | b | P Wigg  | 0 |
+| **S Symes** | c J Grant | P Wigg | 2 |
+| **N Humphries** | b | T Rutherford | 0 |
+| **N Lawrence** | b | T Rutherford | 8 |
+| **D Ewan** | run out |  | 13 |
+| **C McKnd** | not out |  | 8 |
+| **Extras** | | (12b 9lb 13w 1nb 0p) | 35 |
+| **Total** | | (37.1 overs) | 205 all out |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** |  |  |  |  |  |  |  | 168 | 188 | 205 |
+| **Batsman** |  |  |  |  |  |  |  | 7 | 9 | 10 |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **MacFarlane** | 16 | 4 | 41 | 2 |
-| **Marshall** | 13 | 2 | 46 | 1 |
-| **Wright** | 6 | 0 | 36 | 0 |
-| **Beswick** | 7 | 1 | 34 | 0 |
-| **Howcroft** | 4 | 0 | 25 | 0 |
+| **T Rutherford** | 12 | 2 | 49 | 5 |
+| **R Beswick** | 5.1 | 1 | 24 | 0 |
+| **J Wright** | 5 | 0 | 15 | 0 |
+| **P Wigg** | 12 | 0 | 47 | 4 |
+| **P Beswick** | 2 | 0 | 18 | 0 |
+| **R Earney** | 1 | 0 | 2 | 0 |
 
 ## Win/Loss Ratio
 

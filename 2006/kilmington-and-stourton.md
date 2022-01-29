@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Snook** | not out |  | 3 |
 | **D Lapham** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (2b 12lb 18w 2nb) | 34 |
+| **Extras** | | (2b 12lb 18w 2nb 0p) | 34 |
 | **Total** | | (40 overs) | **195 for 3 wkts** |
 
 ## Fall of Wickets
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **H Ingham** | b | J Lapham | 8 |
 | **T Rutherford** | b | R Norman | 2 |
 | **G Powell** | b | D Cordingley | 0 |
-| **Extras** | | (0b 4lb 27w 2nb) | 33 |
+| **Extras** | | (0b 4lb 27w 2nb 0p) | 33 |
 | **Total** | | (31.3 overs) | **121 all out** |
 
 ## Fall of Wickets

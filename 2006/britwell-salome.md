@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Warman** | b | R Earney | 5 |
 | **N Gadd** | b | J Wright | 0 |
 |  |  |  |  |
-| **Extras** | | (18b 4lb 4w 2nb) | 28 |
+| **Extras** | | (18b 4lb 4w 2nb 0p) | 28 |
 | **Total** | | (41 overs) | **134 for 9 wkts (all out)** |
 
 ## Fall of Wickets
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **P O'Mahony** | dnb |  |  |
-| **Extras** | | (7b 16lb 6w 1nb) | 30 |
+| **Extras** | | (7b 16lb 6w 1nb 0p) | 30 |
 | **Total** | | (33.5 overs) | **135 for 4 wkts** |
 
 ## Fall of Wickets
