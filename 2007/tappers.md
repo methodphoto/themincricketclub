@@ -51,7 +51,7 @@ Played at {{page.location}} on {{page.date}}
 | **Holme** | 6 | 0 | 27 | 0 |
 | **J Fleetwood** | 3.2 | 0 | 12 | 1 |
 | **Mainwaring** | 9 | 0 | 30 | 5 |
-| **Drew** | 3 | 0 | 3 |01 |
+| **Drew** | 3 | 0 | 3 | 0 |
 | **A Pedrette** | 6 | 0 | 17 | 3 |
 
 ## {{page.title}} Innings

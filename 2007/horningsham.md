@@ -83,7 +83,7 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **T Rutherford** | 11 | 2 | 16 | 02 |
+| **T Rutherford** | 11 | 2 | 16 | 2 |
 | **P O'Mahony** | 11 | 1 | 23 | 2 |
 | **J Wright** | 10 | 3 | 12 | 3 |
 | **P Wigg** | 7 | 2 | 19 | 2 |
