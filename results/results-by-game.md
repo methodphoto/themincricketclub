@@ -222,19 +222,19 @@ parent: Results
 
 | 2007 |  |  |
 |:---|:---|:---|
-| {date} | [Britwell Salome](../2007/britwell-salome) | **Won** |
-| {date} | [Old Colfeians](../2007/old-colfeians) | Lost |
-| {date} | [Tappers](../2007/tappers) | Lost |
-| {date} | [Newdigate](../2007/newdigate) | **Won** |
-| {date} | [Grimsdyke CC](../2007/grimsdyke-cc) | **Won** |
-| {date} | [Broadway and Horton](../2007/broadway-and-horton) | **Won** |
-| {date} | [Kilmington and Stourton](../2007/kilmington-and-stourton) | **Won** |
-| {date} | [Horningsham](../2007/horningsham) | Drawn |
+| 28/04/2007 | [Britwell Salome](../2007/britwell-salome) | **Won** |
+| 20/05/2007 | [Old Colfeians](../2007/old-colfeians) | Lost |
+| 03/06/2007 | [Tappers](../2007/tappers) | Lost |
+| 17/06/2007 | [Newdigate](../2007/newdigate) | **Won** |
+| 08/07/2007 | [Grimsdyke CC](../2007/grimsdyke-cc) | **Won** |
+| 12/07/2007 | [Broadway and Horton](../2007/broadway-and-horton) | **Won** |
+| 13/07/2007 | [Kilmington and Stourton](../2007/kilmington-and-stourton) | **Won** |
+| 14/07/2007 | [Horningsham](../2007/horningsham) | Drawn |
 | 15/07/2007 | [Old Min v Young Min]((../2007/old-min-young-min) | Drawn |
-| {date} | [Selling](../2007/selling) | Lost |
-| {date} | [SB Exiles](../2007/sb-exiles) | Lost |
-| {date} | [Reigate Pilgrims](../2007/reigate-pilgrims) | Drawn |
-| {date} | [Watton-at-Stone](../2007/watton-at-stone) | **Won** |
+| 05/08/2007 | [Selling](../2007/selling) | Lost |
+| 01/09/2007 | [SB Exiles](../2007/sb-exiles) | Lost |
+| 16/09/2007 | [Reigate Pilgrims](../2007/reigate-pilgrims) | Drawn |
+| 30/09/2007 | [Watton-at-Stone](../2007/watton-at-stone) | **Won** |
 
 | 2006 |  |  |
 |:---|:---|:---|

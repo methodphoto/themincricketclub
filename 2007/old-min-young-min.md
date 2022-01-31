@@ -93,8 +93,6 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 5 | 2 | 2 | 0 |
 
-<img src="<img src="anniversary-14.jpg" width="100%" alt="Young v Old Team and Supporters" />
-
 <img src="<img src="anniversary-1.jpg" width="100%" alt="Sheltering" />
 
 <img src="<img src="anniversary-2.jpg" width="100%" alt="Bes, Mark and Ian" />
