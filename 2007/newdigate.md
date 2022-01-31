@@ -30,7 +30,7 @@ P Wigg best bowling
 | **P Wigg** | b | C Jones | 19 |
 | **T Rutherford** | c | C Jones | 2 |
 | **E Garland** | b | S Gabriel | 16 |
-| **A Slight** | not out |  2 |
+| **A Slight** | not out |  | 2 |
 | **P Grant** | dnb |  |  |
 | **G Powell** | dnb |  |  |
 | **J Wright** | dnb |  |  |
