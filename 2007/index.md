@@ -15,14 +15,13 @@ parent: 2000s
 
 | May |  |  |  |
 |:---|:---|:---|:---|
-| 13th | 14:30 | [Ockley](ockley) | [Away](https://goo.gl/maps/vmhvFhbrVZGrsXAAA) |
+| 13th | 14:30 | <del>Ockley</del> | [Away](https://goo.gl/maps/vmhvFhbrVZGrsXAAA) |
 | 20th | 14:00 | [Old Colfeians](old-colfeians) | [Away](https://goo.gl/maps/vhwZEdPcYg4q3f3P8) |
 
 | June |  |  |  |
 |:---|:---|:---|:---|
 | 3rd | 14:00 | [Tappers](tappers) | [Home](https://goo.gl/maps/w2skeCXwzZTEh7e26) |
 | 17th | 14:00 | [Newdigate](newdigate) | [Away](https://goo.gl/maps/kQnkUfc3MdtqLyvd8) |
-| 24th | 14:00 | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 
 | July |  |  |  |
 |:---|:---|:---|:---|
@@ -44,4 +43,4 @@ parent: 2000s
 |:---|:---|:---|:---|
 | 1st | 14:00 | [SB Exiles](sb-exiles) | [Away](https://goo.gl/maps/LsVjW3EdzWvbPAWN8) |
 | 16th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
-| 30th | 12:30 | [Watton-at-Stone](watton-at-stone-2) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
+| 30th | 12:30 | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |

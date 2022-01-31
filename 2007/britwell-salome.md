@@ -17,6 +17,9 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+R Earney's 34th 50.<br />
+Partnership of 105 between R Earney and S Barrowcliff
+
 <img src="britwell-team.jpg" width="100%" alt="Team against Britwell" />
 
 ## The Min Innings
