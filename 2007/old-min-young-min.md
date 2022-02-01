@@ -30,8 +30,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Rutherford &#42;** | run out |  | 5 |
 | **A Slight** | b | I Marshall | 9 |
 | **R Coyle** | c J Grant | R Earney | 5 |
-| **R Kitson &#8224;** | b | MacFarlane | 11 |
-| **P Wigg** | b | MacFarlane | 0 |
+| **R Kitson &#8224;** | not out |  | 11 |
+| **P Wigg** | not out |  | 0 |
 | **P Beswick** | dnb |  |  |
 | **A Fitzgerald** | dnb |  |  |
 | **R O'Hagan** | dnb |  |  |
@@ -39,7 +39,7 @@ Played at {{page.location}} on {{page.date}}
 | **P O'Mahony** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 2lb 6w 0nb 0p) | 8 |
-| **Total** | | (46 overs) | 38 for 3 wkts |
+| **Total** | | (8.2 overs) | 38 for 3 wkts |
 
 ## Fall of Wickets
 
