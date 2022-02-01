@@ -25,8 +25,8 @@ parent: Records
 | **1996** | R Beswick | v [Great Tew](../1996/great-tew) | **12-0-61-6** |
 | **1996** | P Bentley | v [Great Braxted](../1996/great-braxted) | **12-5-15-6** |
 | **1994** | R Earney | v [Reigate Pilgrims](../1994/reigate-pilgrims) | **9.5-0-44-6** |
-| **1992** | I Marshall | v [Old ElthamIs](../1992/old-elthamIs) | **16.4-5-42-6** |
-| **1991** | I Marshall | v [Old TexaconIs](../1991/old-texaconIs) | **13-5-22-6** |
+| **1992** | I Marshall | v [Old Elthamians](../1992/old-elthamians) | **16.4-5-42-6** |
+| **1991** | I Marshall | v [Old Texaconians](../1991/old-texaconians) | **13-5-22-6** |
 | **1984** | T Purves | v [Greenford](../1984/greenford) | **2.3-1-14-6** |
 | **1984** | W Calvert | v [Chiswick Flyovers](../1984/chiswick-flyovers) | **13-3-40-6** |
 
@@ -58,7 +58,7 @@ parent: Records
 | **1992** | G Wright | v [Yateley](../1992/yateley) | **12-0-29-5** |
 | **1992** | W Calvert | v [Broadway and Horton](../1992/broadway-and-horton) | **7-2-29-5** |
 | **1991** | J Wright | v [Valley End](../1991/valley-end) | **6.2-5-3-5** |
-| **1990** | T Thirlwall | v [Old ElthamIs](../1990/old-elthamIs) | **11.3-1-18-5** |
+| **1990** | T Thirlwall | v [Old Elthamians](../1990/old-elthamians) | **11.3-1-18-5** |
 | **1990** | A MacFarlane | v [Reigate Pilgrims](../1990/reigate-pilgrims) | **12.1-5-29-5** |
 | **1990** | I Marshall | v [T. Calvert’s Collection](../1990/t-calverts-collection) | **9.2-4-19-5** |
 | **1989** | I Marshall | v [Blindley Heath](../1989/blindley-heath) | **5-0-10-5** |
@@ -160,29 +160,29 @@ parent: Records
 | **1991** | J Skarbek | v [Long Marston](../1991/long-marston) | **10-2-25-4** | 
 | **1991** | S Hornsby | v [Stowting](../1991/stowting) | **11-4-20-4** | 
 | **1991** | A MacFarlane | v [Hamsey Green](../1991/hamsey-green) | **13-2-36-4** | 
-| **1991** | A Sylvester | v [Old ElthamIs](../1991/old-elthamIs) | **7.1-2-19-4** | 
+| **1991** | A Sylvester | v [Old Elthamians](../1991/old-elthamians) | **7.1-2-19-4** | 
 | **1990** | I Marshall | v [Watton-at-Stone](../1990/watton-at-stone) | **8.5-0-36-4** | 
 | **1990** | R Beswick | v [Stowting](../1990/stowting) | **12-5-21-4** | 
 | **1990** | R Beswick | v [Newdigate](../1990/newdigate) | **10-2-27-4** | 
-| **1990** | W Calvert | v [Old TauntonIs](../1990/old-tauntonIs) | **6-1-47-4** | 
+| **1990** | W Calvert | v [Old Tauntonians](../1990/old-tauntonians) | **6-1-47-4** | 
 | **1990** | I Marshall | v [Godstone](../1990/godstone) | **12-8-9-4** | 
 | **1990** | R Beswick | v [University College, Oxford](../1990/university-college-oxford) | **6-1-18-4** | 
 | **1989** | R Beswick | v [Flamingo](../1989/flamingo) | **9.3-4-33-4** | 
 | **1989** | R Beswick | v [Stowting](../1989/stowting) | **12-5-27-4** |
 | **1989** | J Mizel | v [Godstone](../1989/godstone) | **7.1-1-35-4** |
-| **1989** | R Beswick | v [Old ElthamIs](../1989/old-elthamIs) | **12.2-2-46-4** | 
+| **1989** | R Beswick | v [Old Elthamians](../1989/old-elthamians) | **12.2-2-46-4** | 
 | **1988** | W Chapman | v [Liphook](../1988/liphook) | **6-0-15-4** |
-| **1988** | M Taylor | v [Old ElthamIs](../1988/old-elthamIs) | **11-1-33-4** | 
+| **1988** | M Taylor | v [Old Elthamians](../1988/old-elthamians) | **11-1-33-4** | 
 | **1987** | E Garland | v [Bose Wanderers](../1987/bose-wanderers) | **8-0-24-4** |
 | **1987** | T Purves | v [Horningsham](../1987/horningsham) | **10-0-56-4** | 
 | **1987** | M Gardiner | v [Horningsham](../1987/horningsham) | **6-0-32-4** |
 | **1987** | R Beswick | v [Little Kingshill](../1987/little-kingshill) | **11-3-25-4** | 
-| **1987** | E Garland | v [Old ElthamIs](../1987/old-elthamIs) | **8-1-17-4** |
+| **1987** | E Garland | v [Old Elthamians](../1987/old-elthamians) | **8-1-17-4** |
 | **1986** | R Beswick | v [Newdigate](../1986/newdigate) | **8-4-4-4** | 
-| **1986** | R Olver | v [Old ElthamIs](../1986/old-elthamIs) | **15-7-25-4** |
+| **1986** | R Olver | v [Old Elthamians](../1986/old-elthamians) | **15-7-25-4** |
 | **1986** | M Taylor | v [Valley End](../1986/valley-end) | **10-1-43-4** | 
 | **1986** | W Wright | v [West Wickham](../1986/west-wickham) | **8.5-2-15-4** |
-| **1985** | A Sylvester | v [Old ElthamIs](../1985/old-elthamIs) | **12-5-32-4** | 
+| **1985** | A Sylvester | v [Old Elthamians](../1985/old-elthamians) | **12-5-32-4** | 
 | **1985** | R Beswick | v [Logica](../1985/logica) | **3.3-0-10-4** | 
 | **1985** | M Kirwan | v [White City All Stars](../1985/white-city-all-stars) | **13-0-38-4** | 
 | **1984** | W Calvert | v [EalonI](../1984/ealonI) | **11-0-33-4** | 
