@@ -23,7 +23,7 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|---|---:|
 | **R Earney** | lbw | J Fleetwood | 19 |
 | **M Goff** | c R Brittain | Mainwaring | 48 |
-| **D Griffiths** | c Trevelyan | Mainwaring | 11 |
+| **D Griffiths** | c R Trevelyan | Mainwaring | 11 |
 | **R Beswick &#42;** | b | Mainwaring | 17 |
 | **I Marshall** | b | Mainwaring | 4 |
 | **P Beswick** | lbw | A Pedrette | 1 |
@@ -62,7 +62,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Pedrette** | c E Garland | I Marshall | 11 |
 | **Mainwaring** | b | I Marshall | 0 |
 | **A Ruxton** | b | I Marshall | 0 |
-| **Trevelyan** | b | T Rutherford | 39 |
+| **R Trevelyan** | b | T Rutherford | 39 |
 | **Holme** | b | I Marshall  | 0 |
 | **Diggle** | b | T Rutherford | 25 |
 | **R Neate** | not out |  | 14 |
