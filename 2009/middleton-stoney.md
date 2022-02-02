@@ -2,7 +2,7 @@
 layout: default
 title: Middleton Stoney
 game: Middleton Stoney v The Min
-location: 
+location: Middleton Park
 date: 
 report: 
 result: 

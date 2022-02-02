@@ -59,7 +59,7 @@ R Green, second 5 wkt haul for The Min
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Beavan** | c A Slight | I Marshall | 1 |
-| **Trevelyan** | b | Marshall | 53 |
+| **R Trevelyan** | b | Marshall | 53 |
 | **M Roberts** | c R Earney | R Green | 42 |
 | **M Rowden** | lbw | R Green | 0 |
 | **A Ruxton** | b | R Earney | 3 |
