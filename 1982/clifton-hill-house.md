@@ -95,3 +95,5 @@ William Calvert - Highest Score . James Booth - First duck. William Calvert - Be
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
+
+Next game: [A Good Length](a-good-length)
