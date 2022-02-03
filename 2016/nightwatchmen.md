@@ -91,4 +91,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 1 | 1 | 0 | 0 |
 
-Next game: [{{page.next}}]({{page.nextLink}})
+[Next game:]({{page.next}})

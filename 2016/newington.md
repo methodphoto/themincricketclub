@@ -97,7 +97,7 @@ Result: {result}
 |:---|:---|:---|---:|
 | 3 | 3 | 0 | 0 |
 
-Next game: [{{page.next}}]({{page.nextLink}})
+[Next game:]({{page.next}})
 
 
 D Overburyb I Marshall30

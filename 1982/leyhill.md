@@ -6,8 +6,7 @@ location: Leyhill
 date: 12/06/1982
 report: Leyhill batted first and scored 175 all out. The Min replied with 82 all out
 result: Leyhill won by 93 runs
-next: Bristol Young Solicitors
-nextLink: bristol-young-solicitors
+next: bristol-young-solicitors
 parent: 1982 Fixtures
 ---
 
@@ -96,4 +95,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 3 | 2 | 1 | 0 |
 
-Next game: [{{page.next}}]({{page.nextLink}})
+[Next game:]({{page.next}})

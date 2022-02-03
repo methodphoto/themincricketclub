@@ -45,4 +45,4 @@ parent: 2010s
 | 14th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) |
 | 21st | 13:00 | [Headley Down](headley-down) | [KT18 6QA](https://goo.gl/maps/pn4ojVfCN722) |
 
-Next season [2015](../2015)
+[Next season](../2015)

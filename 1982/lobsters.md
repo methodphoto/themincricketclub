@@ -6,8 +6,7 @@ location: New Field, Clifton School
 date: 15/06/1982
 report: Lobsters batted first and scored 125 for 7 wkts. The Min replied with 97 for 9 wkts (all out)
 result: Lobsters won by 28 runs
-next: A Good Length
-nextLink: a-good-length-2
+next: a-good-length-2
 parent: 1982 Fixtures
 ---
 
@@ -104,4 +103,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 5 | 3 | 1 | 0 |
 
-Next game: [{{page.next}}]({{page.nextLink}})
+[Next game:]({{page.next}})

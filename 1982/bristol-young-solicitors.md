@@ -6,8 +6,7 @@ location: Coombe Dingle
 date: 14/06/1982
 report: Bristol Young Solicitors batted first and scored 103 for 9 wkts. The Min replied with 82 all out
 result: The Min won by 5 wkts
-next: Lobsters
-nextLink: lobsters
+next: lobsters
 parent: 1982 Fixtures
 ---
 
@@ -101,4 +100,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 5 | 2 | 1 | 0 |
 
-Next game: [{{page.next}}]({{page.nextLink}})
+[Next game:]({{page.next}})

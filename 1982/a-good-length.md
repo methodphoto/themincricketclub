@@ -6,8 +6,7 @@ location: Coombe Dingle
 date: 06/05/1982
 report: A Good Length scored 134 all out. The Min were 44-0 when Rain Stopped Play.
 result: Match Drawn
-next: Another Man’s Meat
-nextLink: another-mans-meat
+next: another-mans-meat
 parent: 1982 Fixtures
 ---
 
@@ -94,4 +93,4 @@ Ken Sullivan - Best Bowling by The Min
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |
 
-Next game: [{{page.next}}]({{page.nextLink}})
+[Next game:]({{page.next}})

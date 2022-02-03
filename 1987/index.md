@@ -36,4 +36,4 @@ parent: 1980s
 | 6th |  | [Stowting](stowting) | [Away](https://goo.gl/maps/3Br4woRQXRqh9Uje8) |
 | 12th |  | [Flying Wickets](flying-wickets) | [Home](https://goo.gl/maps/fdXVhyS9CDX9VU1K9) |
 
-Next season [1988](../1988)
+[Next season](../1988)

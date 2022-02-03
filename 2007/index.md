@@ -45,4 +45,4 @@ parent: 2000s
 | 16th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 | 30th | 12:30 | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 
-Next season [2008](../2008)
+[Next season](../2008)
