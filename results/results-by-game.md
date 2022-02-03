@@ -215,7 +215,7 @@ parent: Results
 | 10/07/2008 | [Broadway and Horton](../2008/broadway-and-horton) | **Won** |
 | 12/07/2008 | [Horningsham](../2008/horningsham) | Drawn |
 | 13/07/2008 | [The Old Min v The Young Min](../2008/old-min-young-min) | Drawn |
-| 27/07/2008 | [Harrow St Mary’s](../2008/harrow-st-marys) | **Won** |
+| {date} | [Harrow St Mary’s](../2008/harrow-st-marys) | **Won** |
 | {date} | [Putney](../2008/putney) | **Won** |
 | {date} | [Reigate Pilgrims](../2008/reigate-pilgrims) | Drawn |
 | {date} | [Selling](../2008/selling) | **Won** |
