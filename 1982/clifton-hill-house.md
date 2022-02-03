@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-William Calvert - Highest Score . James Booth - First duck. William Calvert - Best Bowling
+William Calvert - Highest Score, James Booth - First duck, William Calvert - Best Bowling
 
 ## The Min Innings
 
