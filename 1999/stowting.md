@@ -6,6 +6,7 @@ location: Dawes Field
 date: 30/05/1999
 report: The Min batted first and were 33 for 1 wkt, when rain stopped play
 result: Match abandoned as a Draw
+next: woking-and-horsell
 parent: 1999 Fixtures
 ---
 

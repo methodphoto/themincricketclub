@@ -6,6 +6,7 @@ location: The Pound
 date: 03/07/1998
 report: Broadway and Horton batted first and made 111 for 9 wkts (all out). The Min replied with 115 for 2 wkts
 result: The Min won by 8 wkts
+next: knapp
 parent: 1998 Fixtures
 ---
 

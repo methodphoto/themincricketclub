@@ -6,6 +6,7 @@ location: Ockley Green
 date: 10/05/1998
 report: The Min batted first and made 131 all out. Ockley replied with 130 for 8 wkts, before time ran out
 result: Match Drawn
+next: players-and-jesters
 parent: 1998 Fixtures
 ---
 

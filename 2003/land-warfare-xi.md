@@ -4,8 +4,9 @@ title: Land Warfare XI
 game: Land Warfare XI v The Min
 location: Warminster
 date: 12/07/2003
-report: The Min batted first and made 204 for 8 wkts. Name replied with
-result: 
+report: The Min batted first and made 204 for 8 wkts. Land Warfare XI replied with 112 all out
+result: The Min won by 92 runs
+next: honor-oak
 parent: 2003 Fixtures
 ---
 

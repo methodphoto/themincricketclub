@@ -6,6 +6,7 @@ location: Copdock
 date: 06/08/1998
 report: Copdock & Old Ipswichian CC batted first and made 187 for 7 wkts. The Min replied with 132 for 9 wkts (all out)
 result: Copdock & Old Ipswichian CC won by 55 runs
+next: ipswich-and-east-suffolk
 parent: 1998 Fixtures
 ---
 

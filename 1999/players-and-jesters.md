@@ -6,6 +6,7 @@ location: Rothhamstead Park
 date: 16/05/1999
 report: The Min batted first and made 124 for 9 wkts (all out). Players and Jesters replied with 127 for 1 wkts 
 result: Players and Jesters won by 9 wkts
+next: stowting
 parent: 1999 Fixtures
 ---
 

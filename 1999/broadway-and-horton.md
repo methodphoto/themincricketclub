@@ -6,6 +6,7 @@ location: The Pound
 date: 25/07/1999
 report: Broadway and Horton batted first and made 141 for 8 wkts (40 overs). The Min were all out for 113 in reply
 result: Broadway and Horton won by 28 runs
+next: ex-blues
 parent: 1999 Fixtures
 ---
 

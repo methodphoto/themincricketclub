@@ -6,6 +6,7 @@ location: Woking and Horsell CC
 date: 13/06/1999
 report: The Min batted first and made 223 all out (in 39.5 overs). Woking and Horsell replied with 138 all out
 result: The Min won by 85 runs
+next: watton-at-stone
 parent: 1999 Fixtures
 ---
 

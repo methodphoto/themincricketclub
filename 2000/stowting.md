@@ -6,6 +6,7 @@ location: Dawes Field
 date: 04/06/2000
 report: The Min batted first and made 109 all out
 result: The Min won by 44 runs
+next: 
 parent: 2000 Fixtures
 ---
 

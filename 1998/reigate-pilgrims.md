@@ -91,4 +91,4 @@ N Bezodis, sixfer on debut
 |:---|:---|:---|---:|
 | 5 | 2 | 5 | 0 |
 
-[Next game:]({{page.next}})
+[Next season](../1999)

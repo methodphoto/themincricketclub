@@ -6,6 +6,7 @@ location: The Meadow
 date: 24/06/2001
 report: Watton-at-Stone batted first and made 157 for 7 wkts. The Min replied with 121 for 9 wkts, when time ran out
 result: Match Drawn
+next: wareham
 parent: 2001 Fixtures
 ---
 

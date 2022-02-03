@@ -6,6 +6,7 @@ location: Wadham College Sports Ground
 date: 28/07/2002
 report: The Min batted first and made 166 for 8 wkts. Tappers replied with 140 for 9 wkts
 result: Match Drawn
+next: selling
 parent: 2002 Fixtures
 ---
 

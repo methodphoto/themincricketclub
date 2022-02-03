@@ -6,6 +6,7 @@ location: Rothamsted Park
 date: 17/05/1998
 report: The Min batted first and made 191 for 3 wkts. Players and Jesters replied with 141 for 7 wkts
 result: Match Drawn
+next: stowting
 parent: 1998 Fixtures
 ---
 

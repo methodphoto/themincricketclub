@@ -6,6 +6,7 @@ location: Great Braxted
 date: 11/07/1999
 report: The Min batted first and made 151 all out. Great Braxted replied with 154 for 6 wkts
 result: Great Braxted won by 4 wkts
+next: bovington-occasionals
 parent: 1999 Fixtures
 ---
 

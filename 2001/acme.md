@@ -6,6 +6,7 @@ location: Stourhead
 date: 14/07/2001
 report: ACME batted first and made 157 for 9 wkts. The Min replied with 143 all out
 result: ACME won by 14 runs
+next: kilmington-and-stourton
 parent: 2001 Fixtures
 ---
 

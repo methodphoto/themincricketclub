@@ -6,6 +6,7 @@ location: Chantry Park
 date: 07/08/1998
 report: The Min batted first and made 206 for 4 wkts Ipswich and East Suffolk replied with 207 for 8 wkts
 result: Ipswich and East Suffolk won by 2 wkts
+next: hetairoi
 parent: 1998 Fixtures
 ---
 

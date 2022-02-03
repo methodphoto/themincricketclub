@@ -6,6 +6,7 @@ location: Cranleigh School
 date: 14/07/12
 report: The Min batted first and made 209 for 6 wkts. Hetairoi replied with 168 for 7 wkts
 result: Match Drawn
+next: tappers
 parent: 2002 Fixtures
 ---
 

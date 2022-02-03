@@ -6,6 +6,7 @@ location: Ockley Green
 date: 09/05/1999
 report: Ockley batted first and made 168 for 5 wkts. The Min replied with 137 for 8 wkts
 result: Match Drawn
+next: players-and-jesters
 parent: 1999 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: Horn Park
 date: 05/09/1999
 report: The Min batted first and made 196 for 7 wkts. Old Colfeians replied with 115 all out
 result: The Min won by 81 runs
+next: reigate-pilgrims
 parent: 1999 Fixtures
 ---
 

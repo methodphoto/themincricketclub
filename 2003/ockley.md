@@ -6,6 +6,7 @@ location: Ockley Green
 date: 11/05/2003
 report: Ockley batted first and made 64 for 5 wkts when rain stopped play
 result: Match Abandoned as a Draw
+next: old-colfeians
 parent: 2003 Fixtures
 ---
 

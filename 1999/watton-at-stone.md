@@ -6,6 +6,7 @@ location: The Meadow
 date: 20/06/1999
 report: Watton-at-Stone batted first and made 180 all out. The Min replied with 184 for 6 wkts
 result: The Min won by 4 wkts
+next: great-braxted
 parent: 1999 Fixtures
 ---
 

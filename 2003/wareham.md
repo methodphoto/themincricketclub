@@ -6,6 +6,7 @@ location: Bovington Camp
 date: 10/07/2003
 report: Wareham batted first and made 254 for 7 wkts (all out). The Min replied with 193 for 8 wkts when time ran out
 result: Match Drawn
+next: broadway-and-horton
 parent: 2003 Fixtures
 ---
 

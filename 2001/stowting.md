@@ -6,6 +6,7 @@ location: Dawes Field
 date: 03/06/2001
 report: The Min batted first and made 204 for 8 wkts. Stowting replied with 208 for 9 wkts
 result: Stowting won by 1 wkt
+next: watton-at-stone
 parent: 2001 Fixtures
 ---
 

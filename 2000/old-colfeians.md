@@ -6,6 +6,7 @@ location: Horn Park
 date: 10/09/2000
 report: Old Colfeians batted first and made 121 for 8 wkts. The Min replied with 122 for 7 wkts
 result: The Min won by 3 wkts
+next: 
 parent: 2000 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: The Pound
 date: 11/07/2003
 report: Broadway and Horton batted first and made 204 for 7 wkts in 40 overs. The Min replied with 183 all out in 37.4 overs
 result: Broadway and Horton won by 21 runs
+next: land-warfare-xi
 parent: 2003 Fixtures
 ---
 

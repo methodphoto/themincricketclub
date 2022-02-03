@@ -6,6 +6,7 @@ location: The Meadow
 date: 25/06/2000
 report: Watton-at-Stone batted first and made 128 for 8 wkts. The Min replied with 127 for 1 wkt
 result: The Min won by 9 wkts
+next: 
 parent: 2000 Fixtures
 ---
 

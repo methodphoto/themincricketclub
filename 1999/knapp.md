@@ -6,6 +6,7 @@ location: Knapp
 date: 24/07/1999
 report: The Min batted first and made 106 all out. Knapp replied with 107 for 8 wkts
 result: Knapp won by 2 wkts
+next: broadway-and-horton
 parent: 1999 Fixtures
 ---
 

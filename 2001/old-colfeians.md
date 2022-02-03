@@ -6,6 +6,7 @@ location: Horn Park
 date: 09/09/2001
 report: Old Colfeians batted first and made 170 for 7 wkts. The Min replied with 174 for 4 wkts
 result: The Min won by 6 wkts
+next: reigate-pilgrims
 parent: 2001 Fixtures
 ---
 

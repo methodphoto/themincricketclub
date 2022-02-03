@@ -4,8 +4,9 @@ title: Shottermill
 game: Shottermill v The Min
 location: Woolmer Hill Sports Ground
 date: 23/07/2000
-report: The Min batted first and made 203 for 6 wkts
-result: 
+report: The Min batted first and made 203 for 6 wkts. Shottermill were all out for 154 in reply
+result: The Min won by 49 runs
+next: tappers
 parent: 2000 Fixtures
 ---
 

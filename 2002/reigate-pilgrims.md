@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 15/09/2002
 report: The Min batted first and made 201 for 6 wkts. Reigate Pilgrims replied with 202 for 4 wkts
 result: Reigate Pilgrims won by 6 wkts
+next: britwell-salome
 parent: 2002 Fixtures
 ---
 

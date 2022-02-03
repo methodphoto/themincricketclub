@@ -6,6 +6,7 @@ location: Dawes Field
 date: 31/05/1998
 report: Stowting batted first and made 177 for 7 wkts. The Min replied with 119 for 8 wkts
 result: Match Drawn
+next: watton-at-stone
 parent: 1998 Fixtures
 ---
 

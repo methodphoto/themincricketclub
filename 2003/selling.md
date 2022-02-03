@@ -6,6 +6,7 @@ location: Cadman's Meadow
 date: 17/08/2003
 report: The Min batted first and made 113 all out in 29.2 overs. Selling replied with 114 for 6 wkts in 27.2 overs
 result: Selling won by 4 wkts
+next: spencer
 parent: 2003 Fixtures
 ---
 

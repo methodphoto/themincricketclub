@@ -4,8 +4,9 @@ title: Tappers
 game: Tappers v The Min
 location: Pembroke College, Oxford
 date: 22/08/1999
-report: The Min batted first and made 114 all out. Tappers replied with
-result: 
+report: Tappers batted first and made 195 for 3 wkts. The Min replied with 114 all out
+result: Tappers won by 
+next: old-colfeians
 parent: 1999 Fixtures
 ---
 
@@ -33,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Larkin** | c R Neate | S Turner | 6 |
 |  |  |  |  |
 | **Extras** | | (5b 8lb 2w 0nb) | 15 |
-| **Total** | | (46.5 overs) | **118 all out** |
+| **Total** | | (46.5 overs) | **114 all out** |
 
 ## Fall of Wickets
 

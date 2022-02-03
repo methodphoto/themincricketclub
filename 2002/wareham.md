@@ -6,6 +6,7 @@ location: Wareham
 date: 11/07/2002
 report: The Min batted first and made 156 all out. Wareham replied with 160 for 5 wkts
 result: Wareham won by 5 wkts
+next: broadway-and-horton
 parent: 2002 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: Pembroke College, Oxford
 date: 03/08/2003
 report: Tappers batted first and made 179 all out. The Min replied with 107 for 9 wkts (all out)
 result: Tappers won by 72 runs
+next: selling
 parent: 2003 Fixtures
 ---
 

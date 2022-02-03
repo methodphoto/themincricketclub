@@ -6,6 +6,7 @@ location: Southwark Sports Ground
 date: 13/07/2003
 report: Honor Oak batted first and made 188 for 7 wkts. The Min replied with 130 for 9 wkts when time ran out
 result: Match Drawn
+next: tappers
 parent: 2003 Fixtures
 ---
 

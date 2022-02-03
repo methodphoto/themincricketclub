@@ -6,6 +6,7 @@ location: Cadman's Meadow
 date: 20/08/2000
 report: Selling batted first and were all out for 65. The Min replied with 71 for 5 wkts
 result: The Min won by 5 wkts
+next: 
 parent: 2000 Fixtures
 ---
 

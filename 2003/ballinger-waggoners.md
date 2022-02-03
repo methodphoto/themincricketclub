@@ -6,6 +6,7 @@ location: Ballinger Waggoners CC
 date: 08/06/2003
 report: The Min batted first and were 17 for 2 wkts when rain stopped play
 result: Match abandoned as a Draw
+next: newdigate
 parent: 2003 Fixtures
 ---
 

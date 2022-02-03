@@ -6,6 +6,7 @@ location: Bovington Camp
 date: 22/07/1999
 report: The Min batted first and made 143 all out. Bovington Occasionals replied with 144 for 7 wkts
 result: Bovington Occasionals won by 3 wkts
+next: wareham
 parent: 1999 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: Spencer CC
 date: 31/08/2003
 report: Spencer batted first and made 76 all out. The Min replied with 78 for 4 wkts
 result: The Min won by 6 wkts
+next: reigate-pilgrims
 parent: 2003 Fixtures
 ---
 

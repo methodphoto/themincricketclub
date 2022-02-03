@@ -6,6 +6,7 @@ location: Long Ditton CC
 date: 13/05/2001
 report: Long Ditton batted first and made 150 for 6 wkts. The Min replied with 151 for 1 wkt
 result: The Min won by 9 wkts
+next: players-and-jesters
 parent: 2001 Fixtures
 ---
 

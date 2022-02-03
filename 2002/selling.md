@@ -6,6 +6,7 @@ location: Cadman's Meadow
 date: 18/08/2002
 report: The Min batted first and made 200 for 4 wkts. Selling replied with 150 all out
 result: The Min won by 50 runs
+next: north-holmwood
 parent: 2002 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: The Brocus
 date: 15/06/2003
 report: The Min batted first and made 208 for 7 wkts. Newdigate replied with 135 for 8 wkts when time ran out
 result: Match Drawn
+next: watton-at-stone
 parent: 2003 Fixtures
 ---
 

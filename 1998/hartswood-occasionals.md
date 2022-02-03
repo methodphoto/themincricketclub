@@ -6,6 +6,7 @@ location: Reigate Grammar School
 date: 25/07/1998
 report: Hartswood Occasionals batted first and made 176 for 6 wkts. The Min replied with 112 for 8 wkts
 result: Match Drawn
+next: copdock
 parent: 1998 Fixtures
 ---
 

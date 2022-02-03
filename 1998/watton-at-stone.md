@@ -6,6 +6,7 @@ location: The Meadow
 date: 21/06/1998
 report: Watton-at-Stone batted first and made 150 for 9 wkts. The Min replied with 151 for 4 wkts
 result: The Min won by 6 wkts
+next: broadway-and-horton
 parent: 1998 Fixtures
 ---
 

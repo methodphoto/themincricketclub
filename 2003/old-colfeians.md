@@ -6,6 +6,7 @@ location: Horn Park
 date: 18/05/2003
 report: Old Colfeians batted first and made 175 for 6 wkts. The Min replied with 128 for 9 wkts (all out)
 result: Old Colfeians won by 47 runs
+next: ballinger-waggoners
 parent: 2003 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: The Pound
 date: 21/07/2000
 report: Broadway and Horton batted first and made 157 for 9 wkts. The Min replied with 160 for 4 wkts
 result: The Min won by 6 wkts 
+next: 
 parent: 2000 Fixtures
 ---
 

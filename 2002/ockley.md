@@ -6,6 +6,7 @@ location: Ockley Green
 date: 12/05/2002
 report: Ockley batted first and made 91 all out. The Min replied with 94 for 5 wkts
 result: The Min won by 5 wkts
+next: players-and-jesters
 parent: 2002 Fixtures
 ---
 

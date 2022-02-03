@@ -6,6 +6,7 @@ location: The Pound
 date: 12/07/2002
 report: Broadway and Horton batted first and made 148 for 7 wkts (40 overs). The Min were 12 for 0 wkts when rain stopped play
 result: Match Abandoned as a Draw
+next: acme
 parent: 2002 Fixtures
 ---
 

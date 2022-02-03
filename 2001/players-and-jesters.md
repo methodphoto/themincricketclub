@@ -6,6 +6,7 @@ location: Rothampstead Park
 date: 20/05/2001
 report: Players and Jesters batted first and made 145 for 9 wkts (all out). The Min replied with 110 for 9 wkts (all out)
 result: Players and Jesters won by 35 runs
+next: stowting
 parent: 2001 Fixtures
 ---
 

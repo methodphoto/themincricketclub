@@ -6,6 +6,7 @@ location: The Meadow
 date: 27/06/2003
 report: The Min batted first and made 194 for 9 wkts. Watton-at-Stone replied with 142 for 8 wkts when time ran out
 result: Match Drawn
+next: stowting
 parent: 2003 Fixtures
 ---
 

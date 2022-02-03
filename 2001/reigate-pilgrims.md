@@ -93,4 +93,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 5 | 4 | 1 | 0 |
 
-[Next game:]({{page.next}})
+[Next season](../2002)

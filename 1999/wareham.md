@@ -6,6 +6,7 @@ location: Wareham
 date: 23/07/1999
 report: The Min batted first and made 200 for 7 wkts. Wareham replied with 176 all out
 result: The Min won by 24 runs
+next: knapp
 parent: 1999 Fixtures
 ---
 

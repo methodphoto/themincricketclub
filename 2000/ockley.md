@@ -6,6 +6,7 @@ location: Ockley Green
 date: 14/05/2000
 report: The Min batted first and made 103 all out. Ockley made 107 for 4 wkts in reply
 result: Ockley won by 6 wkts
+next: 
 parent: 2000 Fixtures
 ---
 

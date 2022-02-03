@@ -6,6 +6,7 @@ location: North Holmwood CC
 date: 01/09/2002
 report: North Holmwood batted first and made 256 for 4 wkts in 43 of their 45 overs. The Min replied with 244 all out in 38 overs
 result: North Holmwood won by 12 runs
+next: reigate-pilgrims
 parent: 2002 Fixtures
 ---
 

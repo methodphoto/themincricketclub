@@ -6,6 +6,7 @@ location: Cranleigh School
 date: 15/08/1999
 report: Hetairoi batted first and made 161 for 4 wkts. The Min replied with 93 all out
 result: Hetairoi won by 68 runs
+next: tappers
 parent: 1999 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: The Meadow
 date: 21/06/2002
 report: The Min batted first and made 249 for 4 wkts. Watton-at-Stone replied with 213 for 7 wkts, when time ran out
 result: Match Drawn
+next: wareham
 parent: 2002 Fixtures
 ---
 

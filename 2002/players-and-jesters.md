@@ -6,6 +6,7 @@ location: Rothampstead Park
 date: 19/05/2002
 report: Players and Jesters batted first and made 190 for 6 wkts. The Min replied with 103 for 8 wkts (all out) with 2 balls left
 result: Players and Jesters won by 87 runs
+next: 
 parent: 2002 Fixtures
 ---
 

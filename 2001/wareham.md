@@ -6,6 +6,7 @@ location: Wareham CC
 date: 12/07/2001
 report: The Min batted first and made 259 for 3 wkts. Wareham replied with 119 for 9 wkts (all out)
 result: The Min won by 140 runs
+next: broadway-and-horton
 parent: 2001 Fixtures
 ---
 
