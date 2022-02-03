@@ -6,6 +6,7 @@ location: Coombe Dingle
 date: 29/04/1982
 report: The Min scored 111-5 in their 20 overs. Clifton Hill House were 83-9 after 20 overs.
 result: The Min won by 28 runs
+next: A Good Length
 parent: 1982 Fixtures
 ---
 
@@ -96,4 +97,4 @@ William Calvert - Highest Score . James Booth - First duck. William Calvert - Be
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
 
-Next game: [A Good Length](a-good-length)
+Next game: [{{page.next}}]({{page.next}})
