@@ -87,3 +87,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 3 | 2 | 0 |
+
+Next game: [1983](../1983/)

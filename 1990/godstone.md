@@ -6,6 +6,8 @@ location: Godstone
 date: 29/07/1990
 report: Godstone batted first and made 60 all out. The Min made 61 for 5 wkts in reply
 result: The Min won by 5 wkts
+next: 
+nextLink: 
 parent: 1990 Fixtures
 ---
 
@@ -91,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 5 | 2 | 0 |
+
+Next game: [{{page.next}}]({{page.nextLink}})

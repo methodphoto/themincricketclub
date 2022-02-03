@@ -6,6 +6,8 @@ location: Bramley
 date: 25/06/1982
 report: A Good Length batted first and were bowled out for 81. The Min knocked off the runs without losing a wicket. 
 result: The Min won by 10 wkts
+next: Bathurst Arms
+nextLink: bathurst-arms
 parent: 1983 Fixtures
 ---
 
@@ -96,3 +98,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 0 | 1 | 0 |
+
+Next game: [{{page.next}}]({{page.nextLink}})

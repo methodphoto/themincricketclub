@@ -6,6 +6,8 @@ location: Middleton Park
 date: 21/04/2019
 report: Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 111-8 when time ran out.
 result: Match Drawn
+next: 
+nextLink: 
 parent: 2019 Fixtures
 ---
 
@@ -97,3 +99,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
+
+Next game: [{{page.next}}]({{page.nextLink}})

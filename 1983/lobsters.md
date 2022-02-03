@@ -6,6 +6,8 @@ location: New Field, Clifton School
 date: 09/06/1983
 report: The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in reply.
 result: The Min won by 29 runs
+next: Nick Hoare’s XI
+nextLink: nick-hoares-xi
 parent: 1983 Fixtures
 ---
 
@@ -101,3 +103,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
+
+Next game: [{{page.next}}]({{page.nextLink}})

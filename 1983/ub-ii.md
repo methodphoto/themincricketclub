@@ -6,6 +6,8 @@ location: Coombe Dingle
 date: 17/06/1983
 report: UB II batted first and scored 155 for 5 wkts. The Min scored 147 for 9 wkts before time ran out
 result: Match Drawn
+next: A Good Length
+nextLink: a-good-length
 parent: 1983 Fixtures
 ---
 
@@ -95,3 +97,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 0 | 1 | 0 |
+
+Next game: [{{page.next}}]({{page.nextLink}})

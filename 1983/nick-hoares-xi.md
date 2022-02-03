@@ -6,6 +6,8 @@ location: Coombe Dingle
 date: 12/06/1983
 report: Lobsters batted first and scored 125 for 7 wkts. The Min replied with 97 for 9 wkts (all out)
 result: The Min won by 43 runs
+next: UB II
+nextLink: ub-ii
 parent: 1983 Fixtures
 ---
 
@@ -94,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 0 | 0 | 0 |
+
+Next game: [{{page.next}}]({{page.nextLink}})
