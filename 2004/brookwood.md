@@ -6,6 +6,7 @@ location: Brookwood
 date: 11/07/2004
 report: The Min batted first and made 216 for 8 wkts. Brookwood replied with 149 for 7 wkts, when time ran out
 result: Match Drawn
+next: selling
 parent: 2004 Fixtures
 ---
 

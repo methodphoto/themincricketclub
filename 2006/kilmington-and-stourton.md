@@ -6,6 +6,7 @@ location: Stourhead
 date: 14/07/2006
 report: Kilmington and Stourton batted first and made 195 for 7 wkts in 40 overs. The Min replied with 121 all out
 result: Kilmington and Stourton won by 74 runs
+next: horningsham
 parent: 2006 Fixtures
 ---
 

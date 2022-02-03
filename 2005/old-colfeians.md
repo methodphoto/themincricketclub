@@ -6,6 +6,7 @@ location: Horn Park
 date: 15/05/2005
 report: Old Colfeians batted first and made 157 all out. The Min replied with 103 all out
 result: Old Colfeians won by 54 runs
+next: tappers
 parent: 2005 Fixtures
 ---
 

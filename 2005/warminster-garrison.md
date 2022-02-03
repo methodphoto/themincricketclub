@@ -6,6 +6,7 @@ location: Bishopstrow
 date: 09/07/2005
 report: The Min batted first and made 168 for 8 wkts. Warminster Garrison replied with 124 for 8 wkts
 result: The Min won by 44 runs
+next: horningsham
 parent: 2005 Fixtures
 ---
 

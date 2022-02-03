@@ -6,6 +6,7 @@ location: Horningsham
 date: 10/07/2005
 report: The Min batted first and made 228 for 6 wkts. Horningsham replied with 111 all out
 result: The Min won by 117 runs
+next: selling
 parent: 2005 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: Ballinger Common
 date: 21/08/2005
 report: Ballinger Waggoners batted first and made 240 for 3 wkts. The Min replied with 149 for 6 wkts
 result: Match Drawn
+next: sb-exiles
 parent: 2005 Fixtures
 ---
 

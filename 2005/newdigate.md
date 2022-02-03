@@ -6,6 +6,7 @@ location: The Brocus
 date: 12/06/2005
 report: Newdigate batted first and made 272 for 4 wkts. The Min replied with 167 for 9 wkts (all out)
 result: Newdigate won by 105 runs
+next: watton-at-stone
 parent: 2005 Fixtures
 ---
 

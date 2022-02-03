@@ -6,6 +6,7 @@ location: Cadman's Meadow
 date: 31/07/2005
 report: Selling batted first and made 181 for 6 wkts in 40 overs. The Min replied with 94 all out
 result: Selling won by 87 runs
+next: ballinger-waggoners
 parent: 2005 Fixtures
 ---
 

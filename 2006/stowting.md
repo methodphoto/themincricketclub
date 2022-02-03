@@ -6,6 +6,7 @@ location: Dawes Field
 date: 09/07/2006
 report: Stowting batted first and made 209 for 9 wkts. The Min replied with 109 all out
 result: Stowting won by 100 runs
+next: broadway-and-horton
 parent: 2006 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: The Brocus
 date: 18/06/2006
 report: Newdigate batted first and made 92 all out. The Min replied with 47 for 9 wkts (all out)
 result: Newdigate won by 45 runs
+next: hsbc
 parent: 2006 Fixtures
 ---
 

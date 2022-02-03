@@ -6,6 +6,7 @@ location: University of Bath Sports Ground
 date: 10/07/2004
 report: The Min batted first and made 211 for 2 wkts in 31 overs (out of 35). The Gents replied with 43 for 1 wkt in 10.2 overs before rain stopped play
 result: Match abandoned as a Draw
+next: brookwood
 parent: 2004 Fixtures
 ---
 

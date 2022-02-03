@@ -6,6 +6,7 @@ location: Greenwich Park
 date: 03/09/2006
 report: The Min batted first and made 293 for 2 wkts in 35 overs. SB Exiles replied with 170 for 3 wkts
 result: The Min won by 123 runs
+next: reigate-pilgrims
 parent: 2006 Fixtures
 ---
 

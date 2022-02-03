@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 12/09/2004
 report: The Min batted first and made 169 for 9 wkts (all out) . Reigate Pilgrims replied with 172 for 3 wkts
 result: Reigate Pilgrims won by 7 wkts
+next: iver-heath
 parent: 2004 Fixtures
 ---
 

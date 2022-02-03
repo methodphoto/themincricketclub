@@ -6,6 +6,7 @@ location: Stourhead
 date: 08/07/2005
 report: Kilmington and Stourton batted first and made 176 for 4 wkts in 35 overs. The Min replied with 177 for 8 wkts in 34 overs
 result: The Min won by 2 wkts
+next: warminster-garrison
 parent: 2005 Fixtures
 ---
 

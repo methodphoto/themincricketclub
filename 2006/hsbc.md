@@ -6,6 +6,7 @@ location: HSBC London Sports & Social Club
 date: 02/07/2006
 report: HSBC batted first and made 191 for 9 wkts in 40 overs. The Min replied with 186 for 9 wkts in 40 overs
 result: HSBC won by 5 runs
+next: stowting
 parent: 2006 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: Greenwich Park
 date: 01/09/2007
 report: SB Exiles batted first and made 201 for 9 wkts. The Min replied with 71 all out
 result: SB Exiles won by 138 runs
+next: reigate-pilgrims
 parent: 2007 Fixtures
 ---
 

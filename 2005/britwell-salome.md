@@ -6,6 +6,7 @@ location: Britwell Salome
 date: 25/04/2005
 report: The Min batted first and made 206 for 6 wkts. Britwell Salome replied with 163 for 3 wkts
 result: Match Drawn
+next: ockley
 parent: 2005 Fixtures
 ---
 

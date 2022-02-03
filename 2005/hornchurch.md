@@ -99,4 +99,4 @@ G Powell best bowling. R Beswick's 18th 50
 |:---|:---|:---|---:|
 | 8 | 4 | 4 | 0 |
 
-[Next game:]({{page.next}})
+[Next season](../2006)

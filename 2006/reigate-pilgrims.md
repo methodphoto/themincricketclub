@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 17/09/2006
 report: Reigate Pilgrims batted first and made 198 for 5 wkts. The Min replied with 149 all out
 result: Reigate Pilgrims won by 49 runs
+next: sanderstead
 parent: 2006 Fixtures
 ---
 

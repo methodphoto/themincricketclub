@@ -6,6 +6,7 @@ location: Pembroke College, Oxford
 date: 15/08/2004
 report: Tappers batted first and made 192 all out. The Min replied with 73 for 8 wkts (all out)
 result: Tappers won by 119 runs
+next: temple-sheen
 parent: 2004 Fixtures
 ---
 

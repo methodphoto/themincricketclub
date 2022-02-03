@@ -6,6 +6,7 @@ location: Solefields
 date: 05/06/2005
 report: Tappers batted first and made 159 all out. The Min replied with 113 all out
 result: Tappers won by 46 runs
+next: newdigate
 parent: 2005 Fixtures
 ---
 

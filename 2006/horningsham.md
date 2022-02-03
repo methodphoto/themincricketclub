@@ -6,6 +6,7 @@ location: Horningsham
 date: 15/07/2006
 report: The Min batted first and made 232 for 8 wkts. Horningsham replied with 214 for 3 wkts, when time ran out
 result: Match Drawn
+next: old-mid-whitgiftians
 parent: 2006 Fixtures
 ---
 

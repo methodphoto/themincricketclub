@@ -6,6 +6,7 @@ location: Abingdon Vale CC
 date: 04/09/2005
 report: The Min batted first and made 241 for 2 wkts. SB Exiles replied with 199 all out
 result: The Min won by 42 runs
+next: reigate-pilgrims
 parent: 2005 Fixtures
 ---
 

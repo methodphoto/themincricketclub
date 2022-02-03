@@ -6,6 +6,7 @@ location: The Brocus
 date: 13/06/2004
 report: Newdigate batted first and made 184 for 3 wkts. The Min replied with 185 for 5 wkts
 result: The Min won by 5 wkts
+next: watton-at-stone
 parent: 2004 Fixtures
 ---
 

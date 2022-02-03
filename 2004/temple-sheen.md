@@ -6,6 +6,7 @@ location: Sheen Common
 date: 05/09/2004
 report: Temple Sheen batted first and made 173 for 5 wkts. The Min replied with 137 for 8 wkts
 result: Match Drawn
+next: reigate-pilgrims
 parent: 2004 Fixtures
 ---
 

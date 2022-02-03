@@ -6,6 +6,7 @@ location: Ockley Green
 date: 14/05/2006
 report: Ockley batted first and made 104 all out. The Min replied with 109 for 5 wkts
 result: The Min won by 5 wkts
+next: tappers
 parent: 2006 Fixtures
 ---
 

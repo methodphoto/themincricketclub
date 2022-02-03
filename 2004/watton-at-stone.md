@@ -6,6 +6,7 @@ location: The Meadow
 date: 27/06/2004
 report: Watton-at-Stone batted first and made 210 for 7 wkts. The Min replied with 211 for 3 wkts
 result: The Min won by 7 wkts
+next: stowting
 parent: 2004 Fixtures
 ---
 

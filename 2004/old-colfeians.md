@@ -6,6 +6,7 @@ location: Horn Park
 date: 16/05/2004
 report: Old Colfeians batted first and made 97 all out. The Min replied with 98 for 5 wkts
 result: The Min won by 5 wkts
+next: ballinger-waggoners
 parent: 2004 Fixtures
 ---
 

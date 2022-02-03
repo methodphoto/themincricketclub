@@ -6,6 +6,7 @@ location: The Brocus
 date: 17/06/2007
 report: The Min batted first and made 170 for 7 wkts. Newdigate were bowled out for 81 in reply
 result: The Min won by 89 runs
+next: grimsdyke-cc
 parent: 2007 Fixtures
 ---
 

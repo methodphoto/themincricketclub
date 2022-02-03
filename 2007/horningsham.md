@@ -6,6 +6,7 @@ location: Horningsham
 date: 14/07/2007
 report: The Min batted first and made 159 for 9 wkts. Horningsham replied with 99 for 8 wkts
 result: Match Drawn
+next: old-min-young-min
 parent: 2007 Fixtures
 ---
 

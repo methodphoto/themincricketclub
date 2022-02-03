@@ -6,6 +6,7 @@ location: The Pound
 date: 07/07/2005
 report: The Min batted first and made 202 all out. Broadway and Horton replied with 107 for 9 wkts (all out)
 result: The Min won by 95 runs
+next: kilmington-and-stourton
 parent: 2005 Fixtures
 ---
 

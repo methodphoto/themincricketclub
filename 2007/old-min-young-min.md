@@ -6,6 +6,7 @@ location: Barnes
 date: 15/07/2007
 report: The Young Min batted first and were 38 for 3 when the Gods intervened and rain stopped play
 result: Match Abandoned as a Draw
+next: selling
 parent: 2007 Fixtures
 ---
 

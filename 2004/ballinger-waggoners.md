@@ -6,6 +6,7 @@ location: Ballinger Waggoners CC
 date: 06/06/2004
 report: The Min batted first and made 129 all out. Ballinger Waggoners replied with 133 for 7 wkts
 result: Ballinger Waggoners won by 3 wkts
+next: newdigate
 parent: 2004 Fixtures
 ---
 

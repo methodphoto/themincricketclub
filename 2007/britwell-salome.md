@@ -6,6 +6,7 @@ location: Britwell Salome CC
 date: 28/04/2007
 report: The Min batted first and made 212 for 7 wkts. Britwell Salome replied with 205 all out
 result: The Min won by 7 runs
+next: old-colfeians
 parent: 2007 Fixtures
 ---
 

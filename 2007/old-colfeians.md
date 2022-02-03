@@ -6,6 +6,7 @@ location: Horn Park
 date: 20/05/2007
 report: The Min batted first and made 122 all out. Old Colfeians replied with 124 for 9 wkts
 result: Old Colfeians won by 1 wkt
+next: tappers
 parent: 2007 Fixtures
 ---
 

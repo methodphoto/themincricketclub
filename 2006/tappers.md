@@ -6,6 +6,7 @@ location: Solefields
 date: 04/06/2006
 report: Tappers batted first and made 126 all out. The Min replied with 129 for 0 wkts
 result: The Min won by 10 wkts
+next: newdigate
 parent: 2006 Fixtures
 ---
 

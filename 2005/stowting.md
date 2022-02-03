@@ -6,6 +6,7 @@ location: Dawes Field
 date: 03/07/2005
 report: Stowting batted first and made 171 for 9 wkts. The Min replied with 172 for 9 wkts
 result: The Min won by 1 wkt
+next: broadway-and-horton
 parent: 2005 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: Britwell Salome CC
 date: 29/04/2006
 report: Britwell Salome batted first and made 134 for 9 wkts (all out). The Min replied with 135 for 4 wkts
 result: The Min won by 6 wkts
+next: ockley
 parent: 2006 Fixtures
 ---
 

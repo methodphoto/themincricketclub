@@ -6,6 +6,7 @@ location: Stourhead
 date: 13/07/2007
 report: Kilmington and Stourton batted first and made 180 for 6 wkts. The Min replied with 181 for 9 wkts
 result: The Min won by 1 wkt
+next: horningsham
 parent: 2007 Fixtures
 ---
 

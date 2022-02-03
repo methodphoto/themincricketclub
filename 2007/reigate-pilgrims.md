@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 16/09/2007
 report: Reigate Pilgrims batted first and made 160 all out. The Min replied with 141 for 8 wkts
 result: Match Drawn
+next: watton-at-stone
 parent: 2007 Fixtures
 ---
 

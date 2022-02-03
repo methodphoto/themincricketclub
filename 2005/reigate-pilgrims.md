@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 11/09/2005
 report: Reigate Pilgrims batted first and made 195 for 3 wkts. The Min replied with 133 for 8 wkts
 result: Match Drawn
+next: hornchurch
 parent: 2005 Fixtures
 ---
 

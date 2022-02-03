@@ -95,4 +95,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 5 | 5 | 4 | 0 |
 
-[Next game:]({{page.next}})
+[Next season](../2005)

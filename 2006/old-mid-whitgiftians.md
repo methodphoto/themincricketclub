@@ -6,6 +6,7 @@ location: Trinity Sanderstead Sports Club
 date: 16/07/2006
 report: Old Mid-Whitgiftians batted first and made 231 for 5 wkts. The Min replied with 153 all out
 result: Old Mid-Whitgiftians won by 78 runs
+next: selling
 parent: 2006 Fixtures
 ---
 

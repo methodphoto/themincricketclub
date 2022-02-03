@@ -6,6 +6,7 @@ location: Ockley Green
 date: 08/05/2005
 report: Ockley batted first and made 153 for 8 wkts. The Min replied with 154 for 5 wkts 
 result: The Min won by 5 wkts
+next: old-colfeians
 parent: 2005 Fixtures
 ---
 

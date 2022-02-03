@@ -6,6 +6,7 @@ location: Cadman's Meadow
 date: 06/08/2006
 report: The Min batted first and made 205 all out in 39.3 overs. Selling replied with 206 for 4 wkts in 35.5 overs
 result: Selling won by 6 wkts
+next: sb-exiles
 parent: 2006 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: Solefields
 date: 03/06/2007
 report: The Min batted first and made 164 all out. Tappers replied with 165 for 7 wkts
 result: Tappers won by 3 wkts
+next: newdigate
 parent: 2007 Fixtures
 ---
 

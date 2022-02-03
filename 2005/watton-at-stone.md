@@ -6,6 +6,7 @@ location: The Meadow
 date: 26/06/2005
 report: Watton-at-Stone batted first and made 238 for 1 wkt. The Min replied with 218 for 7 wkts, before time ran out
 result: Match Drawn
+next: stowting
 parent: 2005 Fixtures
 ---
 

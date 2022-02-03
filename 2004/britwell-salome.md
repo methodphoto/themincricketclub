@@ -6,6 +6,7 @@ location: Britwell Salome
 date: 24/04/2004
 report:  The Min batted first and made 108 all out. Britwell Salome replied with 109 for 4 wkts
 result: Britwell Salome won by 6 wkts
+next: old-colfeians
 parent: 2004 Fixtures
 ---
 

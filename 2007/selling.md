@@ -6,6 +6,7 @@ location: Cadman's Meadow
 date: 05/08/2007
 report: Selling batted first and made 239 for 5 wkts. The Min replied with 139 all out
 result: Selling won by 100 runs
+next: sb-exiles
 parent: 2007 Fixtures
 ---
 

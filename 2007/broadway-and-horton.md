@@ -6,6 +6,7 @@ location: The Pound
 date: 12/07/2007
 report: The Min batted first and made 176 for 9 wkts in 40 overs. Broadway and Horton were 110 all out in reply 
 result: The Min won by 66 runs
+next: kilmington-and-stourton
 parent: 2007 Fixtures
 ---
 

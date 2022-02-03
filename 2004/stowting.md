@@ -6,6 +6,7 @@ location: Dawes Field
 date: 04/07/2004
 report: Stowting batted first and made 207 for 3 wkts. The Min replied with 165 for 7 wkts
 result: Match Drawn
+next: kilmington-and-stourton
 parent: 2004 Fixtures
 ---
 

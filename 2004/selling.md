@@ -6,6 +6,7 @@ location: Cadman's Meadow
 date: 01/08/2004
 report: Selling Cavaliers batted first and made 177 for 6 wkts. The Min replied with 178 for 3 wkts
 result: The Min won by 7 wkts
+next: tappers
 parent: 2004 Fixtures
 ---
 
