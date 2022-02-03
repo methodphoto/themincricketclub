@@ -36,3 +36,5 @@ parent: 2010s
 |:---|:---|:---|:---|
 | 13th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) |
 | 27th | 12:00 | <del>Selling</del> | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
+
+Next season [2020](../2020)

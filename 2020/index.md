@@ -43,3 +43,5 @@ Many games cancelled due to Covid-19 restrictions
 | 6th | 13:00 | <del>Woodcoombe CC</del> | [ME10 3RT](https://goo.gl/maps/rMva1ta8sRDV8z768) | 
 | 13th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) | 
 | 27th | 12:00 | <del>Selling</del> | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
+
+Next season [2021](../2021)

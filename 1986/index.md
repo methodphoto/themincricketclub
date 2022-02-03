@@ -39,3 +39,5 @@ parent: 1980s
 | September |  |  |  |
 |:---|:---|:---|:---|
 | 7th |  | [Stowting](stowting) | [Away](https://goo.gl/maps/3Br4woRQXRqh9Uje8) |
+
+Next season [1987](../1987)
