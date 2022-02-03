@@ -97,3 +97,5 @@ S Barrowcliff's 12th 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 0 | 0 |
+
+[Next game:]({{page.next}})

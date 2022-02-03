@@ -6,6 +6,7 @@ location: Foxbury
 date: 01/09/1985
 report: The Min batted first and made 104 all out. Old Elthamians made with 108 for 7 wkts in reply.
 result: Old Elthamians won by 3 wkts
+next: alex-beards-xi
 parent: 1985 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 7 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

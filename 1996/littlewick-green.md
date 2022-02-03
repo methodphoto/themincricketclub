@@ -6,6 +6,7 @@ location: Littlewick Green
 date: 17/08/1996
 report: The Min batted first and made 201 all out. Littlewick Green replied with 140 for 8 wkts
 result: Match Drawn
+next: stonor
 parent: 1996 Fixtures
 ---
 
@@ -99,3 +100,5 @@ Partnership of 102 between J Hylton and R Beswick
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 1 | 5 | 1 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Foxbury
 date: 20/05/1990
 report: The Min batted first and made 112 all out. Old Elthamians replied with 86 for 9 wkts
 result: Match Drawn
+next: little-kingshill
 parent: 1990 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Surbiton
 date: 11/05/1985
 report: The Min batted first and made 181 for 4 wkts. The Artisans replied with 59 for 9 wkts (all out).
 result: The Min won by 122 runs
+next: town-cryers
 parent: 1985 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

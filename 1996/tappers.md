@@ -6,6 +6,7 @@ location: Wadham College, Oxford
 date: 07/07/1996
 report: The Min batted first and made 144 all out. Tappers replied with 128 all out
 result: The Min won by 16 runs
+next: erratics
 parent: 1996 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 0 | 2 | 1 |
+
+[Next game:]({{page.next}})

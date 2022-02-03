@@ -6,6 +6,7 @@ location: Long Marston
 date: 08/09/1991
 report: Long Marston batted first and made 123 for 5 wkts. The Min replied with 124 for 5 wkts
 result: The Min won by 5 wkts
+next: reigate-pilgrims
 parent: 1991 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 9 | 2 | 5 | 0 |
+
+[Next game:]({{page.next}})

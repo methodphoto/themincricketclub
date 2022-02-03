@@ -96,3 +96,5 @@ Partnership of 113 between M Goff and R Beswick
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 7 | 1 | 0 |
+
+[Next game:]({{page.next}})

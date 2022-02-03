@@ -6,6 +6,7 @@ location: Godstone
 date: 28/06/1987
 report: Godstone batted first and were 132 all out. The Min made 133 for 2 wkts in reply
 result: The Min won by 8 wts
+next: valley-end
 parent: 1987 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 3 | 1 | 0 |
+
+[Next game:]({{page.next}})

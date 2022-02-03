@@ -6,6 +6,7 @@ location: Westerham
 date: 07/07/1991
 report: The Min batted first and made 178 for 6 wkts. The Crocodiles were bowled out for 52
 result: The Min won by 26 runs
+next: hamsey-green
 parent: 1991 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

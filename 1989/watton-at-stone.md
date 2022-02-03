@@ -6,6 +6,7 @@ location: The Meadow
 date: 24/09/1989
 report: Watton-at-Stone batted first and were all out for 139. The Min made 143 for 9 in reply
 result: The Min won by 1 wkt
+next: flamingo
 parent: 1989 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 6 | 8 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Valley End
 date: 05/07/1987
 report: Valley End batted first and scored 146 all out. The Min replied with 150 for 5 wkts
 result: The Min won by 5 wkts
+next: lobsters
 parent: 1987 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 3 | 1 | 0 |
+
+[Next game:]({{page.next}})

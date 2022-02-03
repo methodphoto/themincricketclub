@@ -6,6 +6,7 @@ location: Ockley Green
 date: 12/05/1996
 report: The Min batted first and made 180 for 9 wkts. Ockley replied with 118 for 9 wkts
 result: Match Drawn
+next: stowting
 parent: 1996 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

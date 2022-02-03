@@ -6,6 +6,7 @@ location: Wandsworth Park
 date: 19/05/1985
 report: Town Cryers batted first but made 51 for 8 (all out). The Min replied with 52 for 6 wkts.
 result: The Min won by 4 wkts
+next: red-bat
 parent: 1985 Fixtures
 ---
 
@@ -90,3 +91,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

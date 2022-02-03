@@ -97,3 +97,5 @@ R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 4 | 1 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Regent's Park
 date: 08/09/1985
 report: The Min batted first and made 124 all out. Brook replied with 163 all out.
 result: The Min won by 84 runs
+next: hendon-edgware
 parent: 1985 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 8 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

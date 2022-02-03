@@ -6,6 +6,7 @@ location: The Pound
 date: 29/07/1994
 report: The Min batted first and made 182 for 8 wkts in 40 overs. Broadway and Horton replied with 143 all out
 result: The Min won by 39 runs
+next: horningsham
 parent: 1994 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 2 | 1 | 0 |
+
+[Next game:]({{page.next}})

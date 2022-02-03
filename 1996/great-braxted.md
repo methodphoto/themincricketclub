@@ -6,6 +6,7 @@ location: Great Braxted
 date: 15/09/1996
 report: Great Braxted batted first and made 168 for 7 wkts. The Min replied with 169 for 7 wkts
 result: The Min won by 3 wkts
+next: watton-at-stone
 parent: 1996 Fixtures
 ---
 
@@ -94,3 +95,5 @@ P Bentley best bowling
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 7 | 1 | 5 | 1 |
+
+[Next game:]({{page.next}})

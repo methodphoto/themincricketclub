@@ -6,6 +6,7 @@ location: Cowgate Lane
 date: 07/07/1985
 report: The Min batted first and made 217 all out. Koh-i-noor replied with 71 for 7 wkts (all out).
 result: The Min won by 146 runs
+next: lobsters
 parent: 1985 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 3 | 1 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Foxbury
 date: 04/07/1993
 report: Old Elthamians batted first and made 238 for 4 wkts. The Min replied with 242 for 4 wkts
 result: The Min won by 6 wkts
+next: icl-bracknell
 parent: 1993 Fixtures
 ---
 
@@ -94,4 +95,6 @@ Partnership of 135 between S Barrowcliff and W Wright
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 2 | 1 | 1 | 0 | |
+| 2 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}}) |

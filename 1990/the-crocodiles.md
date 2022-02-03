@@ -6,6 +6,7 @@ location: Emmanuel School
 date: 22/07/1990
 report: The Crocodiles batted first and scored 143 for 7 wkts. The Min replied with 147 for 2 wkts
 result: The Min won by 8 wkts
+next: godstone
 parent: 1990 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Cranleigh School
 date: 17/08/1997
 report: The Min batted first and made 249 for 4 wkts. Hetairoi replied with 165 for 9 wkts (all out)
 result: The Min won by 84 runs
+next: slip-end
 parent: 1997 Fixtures
 ---
 
@@ -98,3 +99,5 @@ Partnership of 116 between J Grant and J Hylton.
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 6 | 4 | 0 |
+
+[Next game:]({{page.next}})

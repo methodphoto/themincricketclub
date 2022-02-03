@@ -99,3 +99,5 @@ R Damaze 50 off 35 balls
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 3 | 0 | 0 |
+
+[Next game:]({{page.next}})

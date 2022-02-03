@@ -6,6 +6,7 @@ location: Dundonald Recreation Ground
 date: 30/06/1985
 report: The Min batted first and scored 123 for 9 wkts (all out). Logica were bowled out in reply for 78 runs.
 result: The Min won by 45 runs
+next: koh-i-noor
 parent: 1985 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 3 | 1 | 0 |
+
+[Next game:]({{page.next}})

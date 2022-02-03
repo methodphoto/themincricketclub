@@ -6,6 +6,7 @@ location: Ockley Green
 date: 13/05/1989
 report: The Min batted first and made 193 for 9 wkts. Ockley replied with 119 for 9 wkts
 result: Match Drawn
+next: old-elthamians
 parent: 1989 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

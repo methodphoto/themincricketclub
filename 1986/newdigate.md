@@ -6,6 +6,7 @@ location: The Brocus
 date: 10/08/1986
 report: Newdigate batted first made 54 all out. The Min replied with 57 for 5 wkts.
 result: The Min won by 5 wkts
+next: harrow-3rd-xi
 parent: 1986 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

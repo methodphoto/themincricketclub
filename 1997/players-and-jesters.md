@@ -6,6 +6,7 @@ location: Rothamsted Park
 date: 18/05/1997
 report: Players and Jesters batted first and made 170 for 9 wkts. The Min replied with 91 all out
 result: Players and Jesters won by 79 runs
+next: stowting
 parent: 1997 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 3 | 0 | 0 |
+
+[Next game:]({{page.next}})

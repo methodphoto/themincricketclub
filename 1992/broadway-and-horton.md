@@ -6,6 +6,7 @@ location: The Pound
 date: 31/07/1992
 report: Broadway and Horton batted first and made 163 all out. The Min replied with 146 all out
 result: Broadway and Horton won by 17 runs
+next: shepton-beauchamp
 parent: 1992 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 4 | 2 | 0 |
+
+[Next game:]({{page.next}})

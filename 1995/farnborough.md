@@ -6,6 +6,7 @@ location: Farnborough
 date: 30/07/1995
 report: Farnborough batted first and made 155 all out. The Min replied with 156 for 6 wkts
 result: The Min won by 4 wkts
+next: checkendon
 parent: 1995 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 2 | 3 | 0 |
+
+[Next game:]({{page.next}})

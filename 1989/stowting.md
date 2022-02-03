@@ -6,6 +6,7 @@ location: Dawes Field
 date: 03/09/1989
 report: The Min batted first and made 225 for 5 wkts. Stowting were 151 for 9 wkts when time ran out
 result: Match Drawn
+next: south-nutfield
 parent: 1989 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 6 | 7 | 0 |
+
+[Next game:]({{page.next}})

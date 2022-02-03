@@ -6,6 +6,7 @@ location: Barrow Hospital
 date: 25/07/1996
 report: Barrow Hospital batted first and made 125 for 7 wkts in 20 overs. The Min replied 126 for 3 wkts
 result: The Min won by 7 wkts
+next: broadway-and-horton
 parent: 1996 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 0 | 3 | 1 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Springview Mental Hospital
 date: 28/08/1988
 report: The Min batted first and made 149 all out. Mihir Bose's XI were all out for 126 in reply
 result: The Min won by 23 runs
+next: stowting
 parent: 1988 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 8 | 2 | 4 | 0 |
+
+[Next game:]({{page.next}})

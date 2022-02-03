@@ -6,6 +6,7 @@ location: Foxbury
 date: 21/05/1989
 report: The Min batted first and scored 248 for 7 wkts. Old Elthamians were bowled out for 206
 result: The Min won by 40 runs
+next: little-kingshill
 parent: 1989 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

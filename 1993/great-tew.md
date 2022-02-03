@@ -6,6 +6,7 @@ location: Great Tew
 date: 23/05/1993
 report: The Min batted first and made 178 for 9 wkts. Great Tew replied with 153 for 8 wkts
 result: Match Drawn
+next: antilles
 parent: 1993 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

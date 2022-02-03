@@ -6,6 +6,7 @@ location: Godstone
 date: 29/06/2018
 report: Godstone batted first and made 170 for 9 wkts. The Min replied with 67 for 9 (all out).
 result: Godstone won by 103 runs
+next: valley-end
 parent: 1986 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 3 | 1 | 0 |
+
+[Next game:]({{page.next}})

@@ -97,3 +97,5 @@ R Earney's 20th 50. R Green's 2nd 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 2 | 1 | 0 |
+
+[Next game:]({{page.next}})

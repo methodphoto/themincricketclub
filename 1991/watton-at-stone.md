@@ -90,3 +90,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 10 | 2 | 5 | 0 |
+
+[Next season](../1992)

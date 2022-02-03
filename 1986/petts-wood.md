@@ -6,6 +6,7 @@ location: Willett Recreation Ground
 date: 26/04/1986
 report: Petts Wood made 190 for 3 wkts. The Min replied with 190 for 6 wkts when time ran out with scores level.
 result: Match Drawn
+next: west-wickham
 parent: 1986 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

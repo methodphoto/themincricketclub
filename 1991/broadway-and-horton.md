@@ -6,6 +6,7 @@ location: The Pound
 date: 04/08/1991
 report: The Min batted first and made 174 for 6 wkts. Broadway and Horton were 162 for 9 wkts when time ran out
 result: Match Drawn
+next: newdigate
 parent: 1991 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 2 | 4 | 0 |
+
+[Next game:]({{page.next}})

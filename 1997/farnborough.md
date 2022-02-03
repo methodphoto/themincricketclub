@@ -6,6 +6,7 @@ location: Farnborough
 date: 27/07/1997
 report: The Min batted first and made 168 for 8 wkts. Farnborough replied with 111 for 9 wkts (all out)
 result: The Min won by 57 runs
+next: captain-scott
 parent: 1997 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 6 | 3 | 0 |
+
+[Next game:]({{page.next}})

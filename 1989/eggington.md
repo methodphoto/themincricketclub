@@ -6,6 +6,7 @@ location: Toddington Manor
 date: 17/09/1989
 report: The Min batted first and made 189 for 5 wkts. Eggington replied with 120 for 8 wkts when  time  ran out
 result: Match Drawn
+next: watton-at-stone
 parent: 1989 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 6 | 8 | 0 |
+
+[Next game:]({{page.next}})

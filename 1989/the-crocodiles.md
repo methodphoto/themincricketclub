@@ -6,6 +6,7 @@ location: Toddington Manor
 date: 11/06/1989
 report: The Min batted first and made 171 for 8 wkts. The Crocodiles replied with 172 for 6 wkts
 result: The Crocodiles won by 4 wkts
+next: durranti
 parent: 1989 Fixtures
 ---
 
@@ -93,3 +94,5 @@ R Beswick's 2nd 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 2 | 3 | 0 |
+
+[Next game:]({{page.next}})

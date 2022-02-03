@@ -6,6 +6,7 @@ location: Godstone
 date: 21/05/1988
 report: Godstone batted first and scored 211 for 7 wkts. The Min replied with 162 for 5 wkts when time ran out
 result: Match Drawn
+next: little-kingshill
 parent: 1988 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

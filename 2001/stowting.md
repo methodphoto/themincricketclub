@@ -95,3 +95,5 @@ I Marshall's 7th five wkt haul
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

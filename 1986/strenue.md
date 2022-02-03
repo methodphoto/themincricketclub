@@ -6,6 +6,7 @@ location:
 date: 27/07/1986
 report: Strenue batted first and made 186 for 2 wkts. The Min were all out for 153 in reply.
 result: Strenue won by 33 runs
+next: newdigate
 parent: 1986 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

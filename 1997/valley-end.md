@@ -6,6 +6,7 @@ location: Valley End Cricket Club
 date: 04/05/1997
 report: The Min batted first and made 167 all out. Valley End replied with 168 for 2 wkts
 result: Valley End won by 8 wkts
+next: ockley
 parent: 1997 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 0 | 0 |
+
+[Next game:]({{page.next}})

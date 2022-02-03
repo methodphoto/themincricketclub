@@ -92,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 7 | 5 | 0 |
+
+[Next season](../1998)

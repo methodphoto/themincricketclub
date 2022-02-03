@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 16/09/1991
 report: Reigate Pilgrims batted first and scored 225 for 7 wkts. The Min replied with 225 for 9 wkts
 result: The Min won by 1 wkt
+next: watton-at-stone
 parent: 1991 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 10 | 2 | 5 | 0 |
+
+[Next game:]({{page.next}})

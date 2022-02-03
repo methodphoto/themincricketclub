@@ -6,6 +6,7 @@ location: Little Kingshill CC
 date: 26/05/1986
 report: Little Kingshill batted first and scored 177 for 4 wkts. The Min replied with 178 for 4 wkts
 result: The Min won by 6 wkts
+next: white-city-all-stars
 parent: 1986 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Chiswick
 date: 12/08/1984
 report: Chiswick Flyovers batted first and made 135 for 8 wkts. The Min were bundled out for 60.
 result: Chiswick Flyovers won by 75 runs
+next: ealonian
 parent: 1984 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Result: {result}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 3 | 2 | 0 |
+
+[Next game:]({{page.next}})

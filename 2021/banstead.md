@@ -99,3 +99,5 @@ R Beswick 8000 runs for The Min
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 3 | 0 | 0 |
+
+[Next game:]({{page.next}})

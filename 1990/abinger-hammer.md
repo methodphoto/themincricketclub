@@ -6,6 +6,7 @@ location: Abinger Hammer
 date: 15/07/1990
 report: The Min  batted first and were all out for 116. Abinger Hammer replied with 117 for 5 wkts
 result: Abinger Hammer won by 5 wkts
+next: the-crocodiles
 parent: 1990 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

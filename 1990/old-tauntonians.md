@@ -6,6 +6,7 @@ location: Taunton School
 date: 03/08/1990
 report: Old Tauntonians baatted first and scored 203 for 9 wkts. The Min replied with 138 for 9 wkts (all out)
 result: Old Tauntonians won by 65 runs
+next: t-calverts-collection
 parent: 1990 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 6 | 2 | 0 |
+
+[Next game:]({{page.next}})

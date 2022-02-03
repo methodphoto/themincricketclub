@@ -97,3 +97,5 @@ Jim Carroll, first 50 and highest score for The Min
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 0 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Great Tew
 date: 18/06/1995
 report: The Min batted first and made 187 for 9 wkts. Great Tew replied with 189 for 6 wkts
 result: Great Tew won by 4 wkts
+next: abbey-players
 parent: 1995 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})

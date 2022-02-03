@@ -6,6 +6,7 @@ location: Dawes Field
 date: 02/06/1996
 report: The Min batted first and made 190 for 5 wkts. Stowting replied with 163 for 7 wkts, when time ran out
 result: Match Drawn
+next: valley-end
 parent: 1996 Fixtures
 ---
 

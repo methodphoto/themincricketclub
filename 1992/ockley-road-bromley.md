@@ -6,6 +6,7 @@ location: Ockley Road, Bromley
 date: 11/07/1992
 report: The Min batted first and scraped to 69 all out. Ockley Road replied with 72 for 5 wkts
 result: Ockley Road, Bromley won by 5 wkts
+next: broadway-and-horton
 parent: 1992 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 3 | 2 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Old Wimbledonians
 date: 06/09/1992
 report: The Min batted first and made 151 for 8 wkts. Old Wimbledonians replied with 100 for 8 wkts
 result: Match Drawn
+next: reigate-pilgrims
 parent: 1992 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 5 | 4 | 0 |
+
+[Next game:]({{page.next}})

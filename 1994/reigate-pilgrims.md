@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 11/09/1994
 report: The Min batted first and made 173 for 9 wkts (all out). Reigate Pilgrims replied with 174 for 8 wkts
 result: Reigate Pilgrims won by 2 wkts
+next: watton-at-stone
 parent: 1994 Fixtures
 ---
 
@@ -94,3 +95,5 @@ R Earney best bowling
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 6 | 2 | 0 |
+
+[Next game:]({{page.next}})

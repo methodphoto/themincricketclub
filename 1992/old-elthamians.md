@@ -6,6 +6,7 @@ location: Foxbury
 date: 24/05/1992
 report: Old Elthamians batted first and made 187 all out. The Min replied with 160 for 8 wkts
 result: Match Drawn
+next: deando
 parent: 1992 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

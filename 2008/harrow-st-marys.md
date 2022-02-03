@@ -96,3 +96,5 @@ R Earney's 35th 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 7 | 2 | 2 | 0 |
+
+[Next game:]({{page.next}})

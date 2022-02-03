@@ -93,6 +93,8 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 5 | 2 | 2 | 0 |
 
+[Next game:]({{page.next}})
+
 <img src="<img src="anniversary-1.jpg" width="100%" alt="Sheltering" />
 
 <img src="<img src="anniversary-2.jpg" width="100%" alt="Bes, Mark and Ian" />

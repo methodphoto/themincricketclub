@@ -6,6 +6,7 @@ location: Harrow
 date: 17/08/1986
 report: The Min batted first made 182 for 8 wkts. Harrow 3rd XI replied with 143 for 9 wkts.
 result: Match Drawn
+next: stowting
 parent: 1986 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 5 | 3 | 0 |
+
+[Next game:]({{page.next}})

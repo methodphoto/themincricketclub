@@ -97,3 +97,5 @@ Partnership of 132 between R Earney and A Slight
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 2 | 3 | 0 |
+
+[Next game:]({{page.next}})

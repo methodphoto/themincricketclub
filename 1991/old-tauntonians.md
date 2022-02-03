@@ -6,6 +6,7 @@ location: Taunton School
 date: 02/08/1991
 report: Old Tauntonians batted first and made 278 for 6 wkts. The Min replied with 131 all out
 result: Old Tauntonians won by 147 runs
+next: broadway-and-horton
 parent: 1991 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 2 | 3 | 0 |
+
+[Next game:]({{page.next}})

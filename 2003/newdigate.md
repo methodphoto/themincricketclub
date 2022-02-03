@@ -96,3 +96,5 @@ Partnership of 134 between R Beswick and J Grant
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

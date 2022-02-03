@@ -6,6 +6,7 @@ location: Scotsridge Field
 date: 18/08/1984
 report: The Min batted first and were bowled out for 126. British Legion Rickmansworth made 127 for 2 in reply.
 result: British Legion Rickmansworth won by 8 wkts
+next: old-elthamians
 parent: 1984 Fixtures
 ---
 
@@ -40,7 +41,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 6 | 76 | 103 | 107 | 109 | 110 | 112 | 126 |  |  | 
 | **Batsman** | 2 | 1 | 3 | 4 | 6 | 7 |  5 | 9 |  |  | 
-
 
 ## Bowling
 
@@ -94,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

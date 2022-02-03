@@ -6,6 +6,7 @@ location: Ballinger Waggoners CC
 date: 04/07/1992
 report: The Min batted first and made193 for 9 wkts (all out). Ballinger Waggoners were 119 for 8 wkts, when time ran out
 result: Match Drawn
+next: ockley-road-bromley
 parent: 1992 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 2 | 2 | 0 |
+
+[Next game:]({{page.next}})

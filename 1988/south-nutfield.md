@@ -6,6 +6,7 @@ location: South Nutfield
 date: 03/06/1988
 report: The Min batted first and scored 201 for 6 wkts. South Nutfield were 175 for 9 wkts when time ran out
 result: Match Drawn
+next: antilles
 parent: 1988 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

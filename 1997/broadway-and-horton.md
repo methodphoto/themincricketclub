@@ -6,6 +6,7 @@ location: The Pound
 date: 25/07/1997
 report: Broadway and Horton batted first and made 165 all out. The Min replied with 97 all out
 result: Broadway and Horton won by 68 runs and retained the Ashes
+next: kilmington-and-stourton
 parent: 1997 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 6 | 2 | 0 |
+
+[Next game:]({{page.next}})

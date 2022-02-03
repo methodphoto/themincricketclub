@@ -6,6 +6,7 @@ location: Ockley Green
 date: 09/05/1993
 report: The Min batted first and made 146 all out. Ockley replied with 106 all out
 result: The Min won by 40 runs
+next: great-tew
 parent: 1993 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Stonor CC
 date: 01/09/1996
 report: The Min batted first and made 212 for 6 wkts. A Stonor XI replied with 114 all out
 result: The Min won by 98 runs
+next: great-braxted
 parent: 1996 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 1 | 5 | 1 |
+
+[Next game:]({{page.next}})

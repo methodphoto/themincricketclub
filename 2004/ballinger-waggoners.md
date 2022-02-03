@@ -96,3 +96,5 @@ R Earney’s 19th 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

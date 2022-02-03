@@ -6,6 +6,7 @@ location: Brockham Green
 date: 21/08/1988
 report: The Min batted first and made 169 all out. Brockham Green were 134 for 9 wkts when time ran out
 result: Match Drawn
+next: mihir-boses-xi
 parent: 1988 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 8 | 2 | 3 | 0 |
+
+[Next game:]({{page.next}})

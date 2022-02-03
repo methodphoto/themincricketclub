@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 14/09/1997
 report: The Min batted first and made 135 for 9 wkts. Reigate Pilgrims replied with 94 all out
 result: The Min won by 41 runs
+next: woodlawn-cc
 parent: 1997 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 7 | 4 | 0 |
+
+[Next game:]({{page.next}})

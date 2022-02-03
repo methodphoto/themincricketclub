@@ -6,6 +6,7 @@ location: Little Kingshill CC
 date: 25/05/1990
 report: Little Kingshill batted first made 235 for 3 wkts. The Min replied with 183 for 8 wkts.
 result: Match Drawn
+next: university-college-oxford
 parent: 1990 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

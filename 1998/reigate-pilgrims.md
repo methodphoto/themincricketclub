@@ -90,3 +90,5 @@ N Bezodis, sixfer on debut
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 2 | 5 | 0 |
+
+[Next game:]({{page.next}})

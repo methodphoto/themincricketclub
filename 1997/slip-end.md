@@ -6,6 +6,7 @@ location:
 date: 31/08/1997
 report: Slip End batted first and made 157 for 7 wkts. The Min replied with 81 all out
 result: Slip End won by 76 runs
+next: reigate-pilgrims
 parent: 1997 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 7 | 4 | 0 |
+
+[Next game:]({{page.next}})

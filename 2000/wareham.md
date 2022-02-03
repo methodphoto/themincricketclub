@@ -98,3 +98,5 @@ S Hornsby, 3rd century, highest score for the Min and club record. 144 partnersh
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

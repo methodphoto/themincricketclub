@@ -6,6 +6,7 @@ location: Horningsham
 date: 30/07/1994
 report: The Min batted first and made 157 all out. Horningsham replied with 123 for 9 wkts
 result: Match Drawn
+next: farnborough
 parent: 1994 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 2 | 2 | 0 |
+
+[Next game:]({{page.next}})

@@ -100,3 +100,5 @@ The Min regained the Ashes
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 3 | 2 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Dawes Field
 date: 30/08/1987
 report: Stowting batted first and were all out
 result: Rain stopped play, match drawn
+next: flying-wickets
 parent: 1987 Fixtures
 ---
 
@@ -89,3 +90,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 5 | 3 | 0 |
+
+[Next game:]({{page.next}})

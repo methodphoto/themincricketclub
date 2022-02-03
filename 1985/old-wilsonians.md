@@ -6,6 +6,7 @@ location: Bramley
 date: 18/08/1985
 report: Old Wilsonians batted first made 94 all out. The Min replied with 95 for 4 wkts.
 result: The Min won by 6 wkts
+next: ealonian
 parent: 1985 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 7 | 4 | 1 | 0 |
+
+[Next game:]({{page.next}})

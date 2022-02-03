@@ -6,6 +6,7 @@ location: Gunnersbury Park
 date: 07/06/1986
 report: White City All Stars batted first and were bowled out for 161. The Min replied with 144 all out.
 result: White City All Stars won by 17 runs
+next: brook
 parent: 1986 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})

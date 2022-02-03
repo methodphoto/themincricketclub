@@ -91,3 +91,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 7 | 1 | 6 | 1 |
+
+[Next season](../1997)

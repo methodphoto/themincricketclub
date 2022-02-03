@@ -5,7 +5,7 @@ game: Flamingo v The Min
 location: The Holt
 date: 30/09/1989
 report: The Min batted first and made 128 for 9 wkts. Flamingo replied with 134 for 9 wkts
-result: Flamingo won by 1  wkt
+result: Flamingo won by 1wkt
 parent: 1989 Fixtures
 ---
 
@@ -92,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 
 | Won | Lost | Drawn | Tied |
 | 4 | 7 | 8 | 0 |
+
+[Next season](../1990)

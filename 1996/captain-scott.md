@@ -6,6 +6,7 @@ location: Reigate Grammar School
 date: 10/08/1996
 report: The Min batted first and made 158 all out. Rain started at tea and did not abate
 result: Match Abandoned
+next: littlewick-green
 parent: 1996 Fixtures
 ---
 
@@ -88,3 +89,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 1 | 5 | 1 |
+
+[Next game:]({{page.next}})

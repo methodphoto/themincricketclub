@@ -6,6 +6,7 @@ location: Hamsey Green
 date: 14/07/1991
 report: Hamsey Green batted first and made 203 for 8 wkts. The Min replied with 152 for 6 wkts when time ran out
 result: Match Drawn
+next: old-texaconians
 parent: 1991 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 1 | 3 | 0 |
+
+[Next game:]({{page.next}})

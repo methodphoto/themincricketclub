@@ -6,6 +6,7 @@ location: The Brocus
 date: 09/08/1987
 report: Newdigate batted first and made 195 for 3 wkts. The Min replied with 172 for 7 wkts, when time ran out
 result: Match Drawn
+next: oracle
 parent: 1987 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

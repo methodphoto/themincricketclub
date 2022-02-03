@@ -6,6 +6,7 @@ location: The Brocus
 date: 12/08/1990
 report: The Min batted first and made 203 for 6 wkts. Newdigate were 150 for 9 wkts when time ran out
 result: Match Drawn
+next: stowting
 parent: 1990 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 6 | 3 | 0 |
+
+[Next game:]({{page.next}})

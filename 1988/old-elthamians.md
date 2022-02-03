@@ -6,6 +6,7 @@ location: Foxbury
 date: 15/05/1988
 report: Old Elthamians batted first and made 190 all out. The Min replied with 193 for 4 wkts
 result: The Min won by 6 wkts
+next: godstone
 parent: 1988 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
+
+[Next game:]({{page.next}})

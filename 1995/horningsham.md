@@ -6,6 +6,7 @@ location: Horningsham
 date: 29/07/1995
 report: Horningsham batted first and made 177 for 8 wkts. The Min replied with 178 for 8 wkts
 result: The Min won by 2 wkts
+next: farnborough
 parent: 1995 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 2 | 3 | 0 |
+
+[Next game:]({{page.next}})

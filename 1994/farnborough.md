@@ -6,6 +6,7 @@ location: Farnborough
 date: 31/07/1994
 report: The Min batted first and made 162 for 8 wkts. Farnborough replied with 166 for 8 wkts
 result: Farnborough won by 2 wkts
+next: checkendon
 parent: 1994 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 3 | 2 | 0 |
+
+[Next game:]({{page.next}})

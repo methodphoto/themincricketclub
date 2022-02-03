@@ -6,6 +6,7 @@ location: Gunnersbury Park
 date: 12/08/1994
 report: The Min batted first and were bowled out for 107. Ealonians replied with 111 for 6.
 result: Ealonians won by 4 wkts
+next: british-legion-rickmansworth
 parent: 1984 Fixtures
 ---
 
@@ -90,3 +91,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 4 | 2 | 0 |
+
+[Next game:]({{page.next}})

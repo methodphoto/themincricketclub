@@ -6,6 +6,7 @@ location: South Nutfield
 date: 10/09/1989
 report: South Nutfield batted first and scored 175 for 1 wkt. The Min replied with 178 for 9 wkts
 result: The Min won by 1 wkt
+next: eggington
 parent: 1989 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 6 | 7 | 0 |
+
+[Next game:]({{page.next}})

@@ -94,3 +94,5 @@ R Beswick retired hurt with the score on 100
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 0 | 2 | 0 |
+
+[Next game:]({{page.next}})

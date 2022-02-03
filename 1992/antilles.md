@@ -6,6 +6,7 @@ location: Canon's Park
 date: 28/06/1992
 report: Antilles batted first and made 210 for 8 wkts in 40 overs. The Min replied with 199 for 8 wkts in 40 overs
 result: Antilles won by 11 runs
+next: ballinger-waggoners
 parent: 1992 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 2 | 1 | 0 |
+
+[Next game:]({{page.next}})

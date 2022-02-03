@@ -6,6 +6,7 @@ location: Ockley Green
 date: 13/05/1990
 report: Ockley batted first made 195 for 3 wkts. The Min replied with 118 all out
 result: Ockley won by 77 runs
+next: old-elthamians
 parent: 1990 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 0 | 0 |
+
+[Next game:]({{page.next}})

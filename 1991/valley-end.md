@@ -6,6 +6,7 @@ location: Valley End
 gameDate: 02/06/1991
 report: Valley End batted first and were bowled out for 88. The Min replied with 89 for 6 wkts
 result: The Min won by 4 wkts
+next: checkendon
 parent: 1991 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

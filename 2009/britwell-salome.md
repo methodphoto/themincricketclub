@@ -110,3 +110,5 @@ Pickled Egg - Richard Beswick for a dropped catch.
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

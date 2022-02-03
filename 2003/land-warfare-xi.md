@@ -98,3 +98,5 @@ R Earney, 5th Century
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 2 | 6 | 0 |
+
+[Next game:]({{page.next}})

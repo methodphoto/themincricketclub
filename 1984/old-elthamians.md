@@ -6,6 +6,7 @@ location: Foxbury
 date: 02/09/1984
 report: Old Elthamians batted first and were bowled out for 157. The Min replied with 161 for 8 wkts.
 result: The Min won by 2 wkts
+next: nick-hoares-xi
 parent: 1984 Fixtures
 ---
 
@@ -97,3 +98,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

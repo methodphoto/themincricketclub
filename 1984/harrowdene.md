@@ -6,6 +6,7 @@ location: Harrowdene
 date: 01/07/1984
 report: Harrowdene batted first and made 85 all out. The Min replied with 86 for the loss of one wicket.
 result: The Min won by 9 wkts
+next: standard-bridge
 parent: 1984 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

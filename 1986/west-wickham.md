@@ -6,6 +6,7 @@ location: West Wickham
 date: 12/05/1986
 report: West Wickham batted first made 162 all out. The Min replied with 163 for 8 wkts.
 result: The Min won by 2 wkts
+next: old-elthamians
 parent: 1986 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Andrew Gallagher and Phill Goult: 100 partnership
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

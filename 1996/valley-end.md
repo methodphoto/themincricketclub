@@ -6,6 +6,7 @@ location: Valley End Cricket Club
 date: 13/06/1996
 report: Valley End batted first and made 181 for 9 wkts in 45 overs. The Min replied with 182 for 4 wkts
 result: The Min won by 6 wkts
+next: great-tew
 parent: 1996 Fixtures
 ---
 

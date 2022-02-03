@@ -6,6 +6,7 @@ location: Little Kingshill
 date: 29/05/1989
 report: The Min batted first and made 215 for 8 wkts. Little Kingshill replied with 161 for 7 wkts
 result: Match Drawn
+next: the-crocodiles
 parent: 1989 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 3 | 0 |
+
+[Next game:]({{page.next}})

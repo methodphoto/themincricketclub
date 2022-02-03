@@ -6,6 +6,7 @@ location: Cranleigh School
 date: 20/08/1995
 report: Hetairoi batted first and made 191 for 8 wkts. The Min replied with 195 for 5 wkts
 result: The Min won by 5 wkts
+next: white-lion
 parent: 1995 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Partnership of 108 between E Garland and P Bentley
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 3 | 3 | 0 |
+
+[Next game:]({{page.next}})

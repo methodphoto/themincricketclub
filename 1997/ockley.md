@@ -6,6 +6,7 @@ location: Ockley Green
 date: 11/05/1997
 report: Ockely batted first and made 144 for 8 wkts. The Min replied with 119 all out
 result: Ockely won by 25 runs
+next: players-and-jesters
 parent: 1997 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

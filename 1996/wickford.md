@@ -6,6 +6,7 @@ location: Wickford
 date: 12/05/1996
 report: Wickford batted first and made 152 all out. The Min replied with 118 for 9 wkts
 result: Match Tied
+next: tappers
 parent: 1996 Fixtures
 ---
 
@@ -95,3 +96,5 @@ First Tied match in Min history
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 0 | 2 | 1 |
+
+[Next game:]({{page.next}})

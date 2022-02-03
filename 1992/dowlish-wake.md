@@ -6,6 +6,7 @@ location: Lawrence Kellett Playing Field, Dowlish Wake
 date: 02/08/1992
 report: The Min batted first and made 228 for 1 wkt. Dowlish Wake were bowled out for 69
 result: The Min won by 159 runs
+next: checkendon
 parent: 1992 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Partnership of 160 between I Marshall and S Barrowcliff
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 4 | 2 | 0 |
+
+[Next game:]({{page.next}})

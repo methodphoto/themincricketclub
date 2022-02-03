@@ -6,6 +6,7 @@ location: Belmont Recreation Ground
 date: 12/05/1984
 report: The Min batted first and scored 126 for 9 wkts. West Green replied with 127 for 4 wkts. 
 result: West Green won by 6 wkts
+next: greenford
 parent: 1984 Fixtures
 ---
 
@@ -41,7 +42,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 14 | 18 | 21 | 25 | 45 | 46 | 60 | 84 | 89 | | 
 | **Batsman** | 1 | 2 | 3 | 5 | 6 | 7 | 8 | 9 | 10 | | 
-
 
 ## Bowling
 
@@ -93,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

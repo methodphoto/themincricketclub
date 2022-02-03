@@ -6,6 +6,7 @@ location: The Pirrie Hall Recreation Ground
 date: 15/05/1985
 report: Brook batted first made 217 all out. The Min replied with 163 all out.
 result: Brook won by 64 runs
+next: shamrock
 parent: 1985 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 3 | 0 | 0 |
+
+[Next game:]({{page.next}})

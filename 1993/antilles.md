@@ -6,6 +6,7 @@ location: Canon's Park
 date: 27/06/1993
 report: The Min batted first and made 192 for 8 wkts. Antilles replied with 193 for 8 wkts
 result: Antilles won by 2 wkts
+next: old-elthamians
 parent: 1993 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})

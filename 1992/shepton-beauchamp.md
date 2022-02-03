@@ -6,6 +6,7 @@ location: Shepton Beauchamp
 date: 01/08/1992
 report: The Min batted first and made 225 all out. Shepton Beauchamp replied with 127 all out
 result: The Min won by 98 runs
+next: dowlish-wake
 parent: 1992 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 4 | 2 | 0 |
+
+[Next game:]({{page.next}})

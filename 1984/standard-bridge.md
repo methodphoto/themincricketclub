@@ -6,6 +6,7 @@ location: Bishop's Park
 date: 08/07/1984
 report: The Min batted first, scoring 103 for 8 wkts all out. Standard Bridge scored 106 for 4.
 result: Standard Bridge won by 6 wkts
+next: sudbury-court
 parent: 1984 Fixtures
 ---
 
@@ -97,3 +98,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 2 | 2 | 0 |
+
+[Next game:]({{page.next}})

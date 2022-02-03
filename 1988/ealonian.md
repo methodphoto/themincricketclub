@@ -6,6 +6,7 @@ location: Gunnersbury Park
 date: 09/07/1988
 report: Ealonian batted first and were all out for 70. The Min replied with 71 for 7 wkts
 result: The Min won by 3 wkts
+next: liphook
 parent: 1988 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

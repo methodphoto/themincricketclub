@@ -97,3 +97,5 @@ The second ever 4 win Tour
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 3 | 2 | 0 |
+
+[Next game:]({{page.next}})

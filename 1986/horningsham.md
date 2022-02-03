@@ -6,6 +6,7 @@ location: Horningsham
 date: 21/06/1986
 report: The Min batted first and scored 187 for 2 wkts. Horningsham replied with 192 for 9 wkts.
 result: Horningsham won by 1 wkt
+next: godstone
 parent: 1986 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 2 | 1 | 0 |
+
+[Next game:]({{page.next}})

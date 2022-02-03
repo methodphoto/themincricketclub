@@ -95,3 +95,5 @@ Partnership of 109 between M Tipper and W Emsley
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 7 | 2 | 0 |
+
+[Next season](../1995)

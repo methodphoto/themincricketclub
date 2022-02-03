@@ -6,6 +6,7 @@ location: Reigate Grammar School
 date: 14/07/1996
 report: The Min batted first and made 209 for 8 wkts. Erratics replied with 117 for 9 wkts
 result: Match Drawn
+next: barrow-hospital
 parent: 1996 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 0 | 3 | 1 |
+
+[Next game:]({{page.next}})

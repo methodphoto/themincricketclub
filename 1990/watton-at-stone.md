@@ -6,6 +6,7 @@ location: The Meadow
 date: 22/09/1990
 report: Watton-at-Stone batted first and made 133 for 9 wkts (all out). The Min replied with 137 for 5 wkts
 result: The Min won by 5 wkts
+next: 
 parent: 1990 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 6 | 5 | 0 |
+
+[Next season](../1991)

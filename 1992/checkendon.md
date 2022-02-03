@@ -6,6 +6,7 @@ location: Checkendon
 date: 09/08/1992
 report: The Min batted first and were dismissed for 26. Checkendon replied with 27 for 1 wkt
 result: Checkendon won by 9 wkts
+next: long-hanborough
 parent: 1992 Fixtures
 ---
 
@@ -89,3 +90,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

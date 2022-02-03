@@ -97,3 +97,5 @@ J Carroll, 2nd Min 50 and a hattrick (over two overs)
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

@@ -100,3 +100,5 @@ E Garland 5 wkts (2nd match in a row)
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 3 | 0 | 0 |
+
+[Next game:]({{page.next}})

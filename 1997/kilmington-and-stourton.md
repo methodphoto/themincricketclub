@@ -6,6 +6,7 @@ location: Stourhead
 date: 26/07/1997
 report: Kilmington and Stourton made 69 for 5 wkts of 12.2 overs (out of 20), before rain stopped play
 result: Match Abandoned
+next: farnborough
 parent: 1997 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 6 | 3 | 0 |
+
+[Next game:]({{page.next}})

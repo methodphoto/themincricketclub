@@ -95,3 +95,5 @@ R Simpson scored 128* and was dropped several times
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 0 | 0 |
+
+[Next game:]({{page.next}})

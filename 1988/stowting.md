@@ -6,6 +6,7 @@ location: Dawes Field
 date: 04/09/1988
 report: The Min batted first and made 200 for 7 wkts. Stowting replied with 109 all out
 result: The Min won by 89 runs
+next: harpenden
 parent: 1988 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 9 | 2 | 4 | 0 |
+
+[Next game:]({{page.next}})

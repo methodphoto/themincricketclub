@@ -96,3 +96,5 @@ Grandstand finish by H Ingham and P O'Mahony
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

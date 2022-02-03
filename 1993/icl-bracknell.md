@@ -6,6 +6,7 @@ location: Holme Park
 date: 18/07/1993
 report: ICL Bracknell batted first and made 95 all out. The Min replied with 99 for 6 wkts
 result: The Min won by 4 wkts
+next: broadway-and-horton
 parent: 1993 Fixtures
 ---
 
@@ -94,3 +95,5 @@ R Earney first 5 wkt haul for The Min
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})

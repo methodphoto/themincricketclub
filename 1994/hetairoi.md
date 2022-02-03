@@ -6,6 +6,7 @@ location: Cranleigh School
 date: 21/08/1994
 report: The Min batted first and made 184 for 8 wkts. Hetairoi replied with 185 for 3 wkts
 result: Hetairoi won by 7 wkts
+next: valley-end
 parent: 1994 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 4 | 2 | 0 |
+
+[Next game:]({{page.next}})

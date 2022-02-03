@@ -100,3 +100,5 @@ A Gallagher: 54* off 45 balls
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
+
+[Next game:]({{page.next}})

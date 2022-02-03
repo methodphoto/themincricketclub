@@ -6,6 +6,7 @@ location: Pembroke College, Oxford
 date: 06/07/1997
 report: The Min batted first and made 155 all out. Tappers replied with 156 for 8 wkts
 result: Tappers won by 2 wkts
+next: great-braxted
 parent: 1997 Fixtures
 ---
 
@@ -95,3 +96,5 @@ R Earney 3rd 5 wkt haul for The Min
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 5 | 0 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Canon's Park
 date: 05/06/1994
 report: Antilles batted first and made 282 for 9 wkts. The Min repled with 195 all out
 result: Antilles won by 87 runs
+next: great-tew
 parent: 1994 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 0 | 0 |
+
+[Next game:]({{page.next}})

@@ -98,3 +98,5 @@ P Grant first 50. R Green best bowling for The Min
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

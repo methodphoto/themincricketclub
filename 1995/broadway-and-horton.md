@@ -6,6 +6,7 @@ location: The Pound
 date: 28/07/1995
 report: Broadway and Horton batted first and made 147 for 9 wkts in 40 overs. The Min replied with 152 for 7 wkts
 result: The Min won by 3 wkts
+next: horningsham
 parent: 1995 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 2 | 3 | 0 |
+
+[Next game:]({{page.next}})

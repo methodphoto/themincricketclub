@@ -6,6 +6,7 @@ location: Ockley Green
 date: 14/05/1995
 report: Ockley batted first and made 190 for 5 wkts. The Min replied with 191 for 2 wkts
 result: The Min won by 8 wkts
+next: great-tew
 parent: 1995 Fixtures
 ---
 
@@ -93,3 +94,5 @@ R Earney highest score and first hundred for the Min.<br />Partnership of 154 be
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

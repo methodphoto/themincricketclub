@@ -6,6 +6,7 @@ location: Wood Green
 date: 05/05/1985
 report: West Green batted first and scored 130 for 6 wkts. The Min were bowled out for 89.
 result: West Green won by 41 runs
+next: artisans
 parent: 1985 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

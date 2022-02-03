@@ -6,6 +6,7 @@ location: Perivale
 date: 13/05/1984
 report: The Min batted first, scoring 192 for 6 wkts. Greenford were dismissed for 85.
 result: The Min won by 107 runs
+next: ealing-commoners
 parent: 1984 Fixtures
 ---
 
@@ -98,3 +99,5 @@ Tony Purves: best bowling
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 0 | 0 |
+
+[Next game:]({{page.next}})

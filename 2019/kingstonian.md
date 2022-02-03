@@ -100,3 +100,5 @@ A Beswick 86* Highest score for The Min
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 4 | 1 | 0 |
+
+[Next game:]({{page.next}})

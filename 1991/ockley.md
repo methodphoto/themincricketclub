@@ -6,6 +6,7 @@ location: Ockley Green
 date: 12/05/1991
 report: Ockley batted first and made 212 for 3 wkts. The Min replied with 96 for 6 wkts
 result: Match Drawn
+next: old-elthamians
 parent: 1991 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

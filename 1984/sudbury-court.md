@@ -6,6 +6,7 @@ location: Sudbury Court
 date: 15/07/1994
 report: The Min batted first, scoring 184 for 9 wkts. Sudbury Court replied with 115 all out.
 result: The Min won by 69 runs
+next: hendon-edgware
 parent: 1984 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 2 | 2 | 0 |
+
+[Next game:]({{page.next}})

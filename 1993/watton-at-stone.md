@@ -6,6 +6,7 @@ location: The Meadow
 date: 19/09/1993
 report: The Min batted first and made 195 for 8 wkts. Watton-at-Stone replied with 149 all out
 result: The Min won by 46 runs
+next: 
 parent: 1993 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 1 | 3 | 0 |
+
+[Next season](../1994)

@@ -6,6 +6,7 @@ location: Ealing
 date: 13/05/1984
 report: The Min batted first, scoring 137 for 7 wkts. Ealing Commoners made 72 for 6 in reply before time ran out.
 result: Match Drawn
+next: lobsters
 parent: 1984 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})

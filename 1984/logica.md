@@ -6,6 +6,7 @@ location: Wimbledon Park
 date: 05/08/1984
 report: Logica batted first and scored 153 all out. The Min replied with 154 for 7.
 result: The Min won by 3 wkts
+next: chiswick-flyovers
 parent: 1984 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 2 | 2 | 0 |
+
+[Next game:]({{page.next}})

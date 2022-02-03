@@ -6,6 +6,7 @@ location: Great Tew
 date: 16/06/1996
 report: Great Tew batted first and made 184 for 9 wkts. The Min replied with 118 for 9 wkts
 result: The Min won by 4 wkts
+next: wickford
 parent: 1996 Fixtures
 ---
 

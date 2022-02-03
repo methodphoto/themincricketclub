@@ -6,6 +6,7 @@ location: Foxbury
 date: 17/05/1987
 report: The Min scored 136 all out. Old Elthamians replied with 137 for 4 wkts
 result: Old Elthamians won by 6 wkts
+next: little-kingshill
 parent: 1987 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})

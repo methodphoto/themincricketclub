@@ -94,3 +94,5 @@ Partnership of 116 between R Earney and R Beswick
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 7 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

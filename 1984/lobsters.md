@@ -6,6 +6,7 @@ location: New Field, Clifton School
 date: 24/06/1984
 report: The Min batted first and made 142 all out. Lobsters were all out for 136
 result: The Min won by 6 runs
+next: harrowdene
 parent: 1984 Fixtures
 ---
 
@@ -102,3 +103,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

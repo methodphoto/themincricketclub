@@ -6,6 +6,7 @@ location: Toddington
 date: 09/05/1987
 report: The Min batted first and scored 206 for 7 wkts. The Crocodiles were 115 for 8 wkts when time ran out
 result: Match Drawn
+next: old-elthamians
 parent: 1987 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

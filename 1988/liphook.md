@@ -6,6 +6,7 @@ location: Liphook
 date: 17/07/1988
 report: The Min batted first and scored 154 all out. Liphook were 111 all out in reply
 result: The Min won by 43 runs
+next: friars-oak
 parent: 1988 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Foxbury
 date: 19/05/1991
 report: Old Elthamians batted first and scored 102 for 11 wkts (all out). The Min made 104 for 7 wkts in reply
 result: The Min won by 3 wkts
+next: valley-end
 parent: 1991 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

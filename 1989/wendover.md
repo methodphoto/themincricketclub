@@ -6,6 +6,7 @@ location: Wendover
 date: 30/04/1989
 report: Wendover batted first and made 203 for 8 wkts. The Min replied with 175 all out
 result: Wendover won by 28 runs
+next: putney
 parent: 1989 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 0 | 0 |
+
+[Next game:]({{page.next}})

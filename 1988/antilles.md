@@ -6,6 +6,7 @@ location: Canon's Park
 date: 12/06/1988
 report: In a 35 over game, Antillies batted first scoring 162 for 7 wkts. The Min replied with 163 for 5 wkts
 result: The Min won by 5 wkts
+next: limpsfield
 parent: 1988 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

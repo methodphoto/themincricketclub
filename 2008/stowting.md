@@ -95,3 +95,5 @@ R Earney's 35th 50. T Rutherford's 1st 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

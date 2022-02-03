@@ -6,6 +6,7 @@ location: Great Tew
 date: 19/06/1994
 report: Great Tew batted first and made 240 for 8 wkts. The Min replied with 232 for 9 wkts when time ran out
 result: Match Drawn
+next: old-elthamians
 parent: 1994 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})

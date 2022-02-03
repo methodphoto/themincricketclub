@@ -97,3 +97,5 @@ D Hambidge 1st 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 3 | 1 | 0 |
+
+[Next game:]({{page.next}})

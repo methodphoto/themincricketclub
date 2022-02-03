@@ -6,6 +6,7 @@ location: Little Bredy
 date: 06/08/1988
 report: Barrow-Boys batted first and were all out for 105. The Min replied with 105 for 5 wkts
 result: The Min won by 5 wkts
+next: newdigate
 parent: 1988 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 8 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Queen Camel Playing Field
 date: 31/07/1993
 report: The Min batted first and made 225 for 7 wkts in 40 overs. Queen Camel replied with 126 for 7 wkts in 40 overs
 result: The Min won by 99 runs
+next: checkendon
 parent: 1993 Fixtures
 ---
 
@@ -99,3 +100,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

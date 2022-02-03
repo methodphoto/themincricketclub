@@ -92,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 7 | 5 | 2 | 0 |
+
+[Next season](../1985)

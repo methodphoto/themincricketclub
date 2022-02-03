@@ -6,6 +6,7 @@ location: The Pound
 date: 30/07/1993
 report: The Min batted first and made 184 for 5 wkts. Broadway and Horton replied with 167 for 7 wkts when time ran out
 result: Match Drawn
+next: queen-camel
 parent: 1993 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Great Braxted
 date: 13/07/1997
 report: Great Braxted batted first and made 197 for 5 wkts. The Min replied with 133 for 7 wkts
 result: Match Drawn
+next: wincanton-casuals
 parent: 1997 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

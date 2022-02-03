@@ -6,6 +6,7 @@ location: Limpsfield
 date: 19/06/1988
 report: Limpsfield batted first scoring 210 for 6 wkts. The Min replied with 211 for 7 wkts
 result: The Min won by 3 wkts
+next: blindley-heath
 parent: 1988 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

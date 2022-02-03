@@ -6,6 +6,7 @@ location: Emmanuel School
 date: 31/05/1987
 report: Rhinos batted first and were all out for 142. The Min replied with 143 for 5 wkts
 result: The Min won by 5 wkts
+next: horningsham
 parent: 1987 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 2 | 1 | 0 |
+
+[Next game:]({{page.next}})

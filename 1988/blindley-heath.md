@@ -6,6 +6,7 @@ location: Blindley Heath
 date: 26/06/1988
 report: The Min batted first and scored 163 for 7 wkts. Blindley Heath were all out for 134
 result: The Min won by 29 runs
+next: ealonian
 parent: 1988 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

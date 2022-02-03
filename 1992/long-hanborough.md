@@ -6,6 +6,7 @@ location: Long Hanborough
 date: 23/08/1992
 report: The Min batted first and made 160 for 6 wkts. Long Hanborough were 54 for 1 wkt when rain stopped play
 result: Match Abandoned
+next: old-wimbledonians
 parent: 1992 Fixtures
 ---
 
@@ -90,3 +91,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 5 | 3 | 0 |
+
+[Next game:]({{page.next}})

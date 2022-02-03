@@ -101,3 +101,5 @@ Brother fought brother for the second year in a row, but they could not be separ
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 2 | 2 | 0 |
+
+[Next game:]({{page.next}})

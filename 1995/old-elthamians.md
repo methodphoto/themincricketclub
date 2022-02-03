@@ -6,6 +6,7 @@ location: Foxbury
 date: 09/07/1995
 report: Old Elthamians batted first making 236 for 1 wkt. The Min replied with 193 for 6 wkts when time ran out
 result: Match Drawn
+next: tappers
 parent: 1995 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 3 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Littlebredy
 date: 05/08/1989
 report: The Min batted first and made 125 for 9 wkts (all out). Barrow-boys replied with 127 for 7 wkts
 result: Barrow-boys won by 3 wkts
+next: newdigate
 parent: 1989 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 5 | 5 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Dulwich Park
 date: 26/05/1985
 report: The Min batted first and scored 123 for 8 wkts. Red Bat replied with 82 for 9 wkts.
 result: The Min won by 41 runs
+next: petts-wood
 parent: 1985 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

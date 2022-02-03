@@ -103,3 +103,5 @@ Partnership of 135 between R Earney and R Beswick
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 3 | 0 | 0 |
+
+[Next game:]({{page.next}})

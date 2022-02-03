@@ -88,4 +88,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 6 | 3 | 2 | 0 |
 
-Next game: [1983](../1983/)
+[Next season](../1983)

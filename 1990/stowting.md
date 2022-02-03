@@ -6,6 +6,7 @@ location: Dawes Field
 date: 02/09/1990
 report: The Min made 213 for 7 wkts. Stowting replied with 122 for 8 wkts when time ran out
 result: Match Drawn
+next: reigate-pilgrims
 parent: 1990 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 6 | 4 | 0 |
+
+[Next game:]({{page.next}})

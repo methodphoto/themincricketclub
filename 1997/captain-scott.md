@@ -6,6 +6,7 @@ location: Reigate Grammar School
 date: 10/08/1997
 report: The Min batted first and made 172 for 5 wkts. Captain Scott XI replied with 75 for 6 wkts
 result: Match Drawn
+next: hetairoi
 parent: 1997 Fixtures
 ---
 
@@ -97,3 +98,5 @@ Partnership  of 102 between J Grant and P Sayer
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 6 | 4 | 0 |
+
+[Next game:]({{page.next}})

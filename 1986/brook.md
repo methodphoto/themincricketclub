@@ -6,6 +6,7 @@ location: The Pirrie Hall Recreation Ground
 date: 14/06/1986
 report: Brook batted first and all out for 123. The Min replied with 125 for 6 wkts.
 result: The Min won by 4 wkts
+next: horningsham
 parent: 1986 Fixtures
 ---
 
@@ -95,3 +96,5 @@ E Garland: Best bowling
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})

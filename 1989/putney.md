@@ -6,6 +6,7 @@ location: Putney
 date: 06/05/1989
 report: The Min batted first and scored 156 for 9 wkts. Putney made 129 for 7 wkts when time ran out
 result: Match Drawn
+next: ockley
 parent: 1989 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})

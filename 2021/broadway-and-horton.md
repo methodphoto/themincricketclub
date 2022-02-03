@@ -101,3 +101,5 @@ E Garland 5 wkts
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 3 | 0 | 0 |
+
+[Next game:]({{page.next}})

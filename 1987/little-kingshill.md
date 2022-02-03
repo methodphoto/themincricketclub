@@ -6,6 +6,7 @@ location: Little Kingshill CC
 date: 25/05/1987
 report: Little Kingshill batted first and made 170 all out. The Min were bowled out for 52
 result: Little Kingshill won by 118 runs
+next: rhinos
 parent: 1987 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 2 | 1 | 0 |
+
+[Next game:]({{page.next}})

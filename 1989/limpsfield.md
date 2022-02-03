@@ -6,6 +6,7 @@ location: Limpsfield
 date: 25/06/1989
 report: Limpsfield batted first and scored 246 for 3 wkts. The Min replied with 187 all out
 result: Limpsfield won by 59 runs
+next: blindley-heath
 parent: 1989 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 4 | 3 | 0 |
+
+[Next game:]({{page.next}})

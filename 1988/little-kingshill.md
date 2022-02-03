@@ -6,6 +6,7 @@ location: Little Kingshill
 date: 20/05/1988
 report: The Min batted first and were all out for 103. Little Kingshill made 104 for 6 wkts in reply
 result: Little Kingshill won by 4 wkts
+next: south-nutfield
 parent: 1988 Fixtures
 ---
 
@@ -89,3 +90,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})

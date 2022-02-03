@@ -6,6 +6,7 @@ location: Quintin Hogg Memorial Ground
 date: 21/07/1991
 report: The Min batted first and made 128 for 9 wkts (all out). Old Texaconians were bowled out for 88
 result: The Min won by 40 runs
+next: old-tauntonians
 parent: 1991 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 1 | 3 | 0 |
+
+[Next game:]({{page.next}})

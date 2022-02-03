@@ -97,3 +97,5 @@ P Wigg best bowling
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

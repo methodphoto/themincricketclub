@@ -99,3 +99,5 @@ Partnership of 179 between R Earney and M Goff.
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 6 | 1 | 0 |
+
+[Next game:]({{page.next}})

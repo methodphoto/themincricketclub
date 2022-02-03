@@ -97,3 +97,5 @@ R Beswick's 21st 50. W Calvert's 7th 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 1 | 0 | 0 |
+
+[Next game:]({{page.next}})

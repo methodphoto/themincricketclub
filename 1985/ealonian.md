@@ -6,6 +6,7 @@ location: Ealonian
 date: 25/08/1985
 report: Ealonian batted first made 182 for 4 wkts. The Min replied with 116 for 8 wkts.
 result: Match Drawn
+next: old-elthamians
 parent: 1985 Fixtures
 ---
 
@@ -90,3 +91,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 7 | 4 | 2 | 0 |
+
+[Next game:]({{page.next}})

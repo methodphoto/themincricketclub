@@ -92,3 +92,5 @@ E Garland's 4th Michelle. R Earney's 35th 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 4 | 3 | 0 |
+
+[Next game:]({{page.next}})

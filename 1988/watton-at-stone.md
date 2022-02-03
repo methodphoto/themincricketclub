@@ -94,3 +94,5 @@ Phil Bentley, first centurion
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 10 | 2 | 5 | 0 |
+
+[Next season](../1989)

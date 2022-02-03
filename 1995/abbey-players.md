@@ -6,6 +6,7 @@ location: Aldenham School
 date: 02/07/1995
 report: Abbey Players batted first and made 211 for 4 wkts. The Min replied with 187 for 7 wkts when time ran out
 result: Match Drawn
+next: old-elthamians
 parent: 1995 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Partnership of 129 between S Barrowcliff and R Beswick
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

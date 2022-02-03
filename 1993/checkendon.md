@@ -6,6 +6,7 @@ location: Checkendon
 date: 08/08/1993
 report: Checkendon batted first and scored 240 for 5 wkts. The Min were 96 for 8 wkts when time ran out
 result: Match Drawn
+next: watton-at-stone
 parent: 1993 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 1 | 3 | 0 |
+
+[Next game:]({{page.next}})

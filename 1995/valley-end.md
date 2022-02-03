@@ -6,6 +6,7 @@ location: Valley End Cricket Club
 date: 07/05/1995
 report: Valley End batted first and scored 209 for 3 wkts. The Min replied with 153 for 8 wkts
 result: Match Drawn
+next: ockley
 parent: 1995 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

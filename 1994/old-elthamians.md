@@ -6,6 +6,7 @@ location: Foxbury
 date: 03/07/1994
 report: The Min batted first and were all out for 130. Old Elthamiansreplied with 131 for 6 wkts
 result: Old Elthamians won by 4 wkts
+next: polytechnic-iii
 parent: 1994 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 2 | 1 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: The Brocus
 date: 14/08/1988
 report: Newdigate batted first and scored 203 for 9 wkts. The Min were bowled out for 186.
 result: Newdigate won by 17 runs
+next: brockham-green
 parent: 1988 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 8 | 2 | 2 | 0 |
+
+[Next game:]({{page.next}})

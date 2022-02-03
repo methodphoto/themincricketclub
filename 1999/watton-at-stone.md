@@ -94,3 +94,5 @@ E Garland highest score for The Min
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

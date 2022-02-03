@@ -6,6 +6,7 @@ location: Stourhead
 date: 27/07/1996
 report: The Min batted first and made 163 for 8 wkts. Kilmington and Stourton replied with 126 for 8 wkts
 result: Match Drawn
+next: farnborough
 parent: 1996 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 1 | 4 | 1 |
+
+[Next game:]({{page.next}})

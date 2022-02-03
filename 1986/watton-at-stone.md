@@ -6,6 +6,7 @@ location: The Meadow
 date: 20/07/1986
 report: Watton-at-Stone batted first and made 237 for 5 wkts. The Min replied with 142 for 9 (all out)
 result: Watton-at-Stone won by 95 runs
+next: strenue
 parent: 1986 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 4 | 2 | 0 |
+
+[Next game:]({{page.next}})

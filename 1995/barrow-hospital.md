@@ -6,6 +6,7 @@ location: Barro Hospital
 date: 27/07/1995
 report: Barrow Hospital batted first and made 119 for 6 wkts in 20 overs. The Min replied with 120 for 6 wkts in exactly 20 overs
 result: The Min won by 4 wkts
+next: broadway-and-horton
 parent: 1995 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 2 | 3 | 0 |
+
+[Next game:]({{page.next}})

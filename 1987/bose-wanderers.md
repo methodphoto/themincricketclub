@@ -6,6 +6,7 @@ location:
 date: 23/08/1987
 report: The Min batted first and made 166 all out. Bose Wanderers were all out for 78
 result: The Min won by 88 runs
+next: stowting
 parent: 1987 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

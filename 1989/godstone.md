@@ -6,6 +6,7 @@ location: Godstone
 date: 30/07/1989
 report: Godstone batted first and were bowled out for 140. The Min replied with 141 for 6 wkts
 result: The Min won by 4 wkts
+next: barrow-boys
 parent: 1989 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 4 | 5 | 0 |
+
+[Next game:]({{page.next}})

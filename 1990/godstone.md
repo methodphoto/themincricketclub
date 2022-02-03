@@ -6,7 +6,7 @@ location: Godstone
 date: 29/07/1990
 report: Godstone batted first and made 60 all out. The Min made 61 for 5 wkts in reply
 result: The Min won by 5 wkts
-next: 
+next: old-tauntonians
 parent: 1990 Fixtures
 ---
 

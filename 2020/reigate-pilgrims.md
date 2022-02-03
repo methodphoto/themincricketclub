@@ -99,3 +99,5 @@ M Wright batted, Charlotte Wright and Harry Earney fielded
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 1 | 0 | 0 |
+
+[Next game:]({{page.next}})

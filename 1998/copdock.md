@@ -96,3 +96,5 @@ R Earney, 4th 5 wicket haul for The Min
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 1 | 4 | 0 |
+
+[Next game:]({{page.next}})

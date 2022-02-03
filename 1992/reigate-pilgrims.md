@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 13/09/1992
 report: Reigate Pilgrims batted first and made 30 for 1 wkt, when rain stopped play
 result: Match Abandoned
+next: watton-at-stone
 parent: 1992 Fixtures
 ---
 
@@ -87,3 +88,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 5 | 5 | 0 |
+
+[Next game:]({{page.next}})

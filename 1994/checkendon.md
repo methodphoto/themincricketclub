@@ -6,6 +6,7 @@ location: Checkendon
 date: 07/08/1994
 report: Checkendon batted first and were bowled out for 45. The Min replied with 48 for 0 wkts
 result: The Min won by 10 wkts
+next: hetairoi
 parent: 1994 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 3 | 2 | 0 |
+
+[Next game:]({{page.next}})

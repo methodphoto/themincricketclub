@@ -6,6 +6,7 @@ location: Mill Hill Park
 date: 22/07/1984
 report: Hendon-Edgware batted first and were bowled out for 62. The Min replied with 63 for 2 wkts
 result: The Min won by 8 wkts
+next: logica
 parent: 1984 Fixtures
 ---
 
@@ -99,3 +100,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 2 | 2 | 0 |
+
+[Next game:]({{page.next}})

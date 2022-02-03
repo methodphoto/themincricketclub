@@ -6,6 +6,7 @@ location: Farnborough
 date: 28/07/1996
 report: The Min batted first and made 157 for 8 wkts. Farnborough replied with 122 all out
 result: The Min won by 35 runs
+next: captain-scott
 parent: 1996 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 1 | 4 | 1 |
+
+[Next game:]({{page.next}})

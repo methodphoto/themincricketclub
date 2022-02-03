@@ -6,6 +6,7 @@ location: Checkendon
 date: 13/08/1995
 report: Checkendon batted first and made 130 for 9 wkts. The Min replied with 
 result: Checkendon won by 76 runs
+next: hetairoi
 parent: 1995 Fixtures
 ---
 
@@ -89,3 +90,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 3 | 3 | 0 |
+
+[Next game:]({{page.next}})

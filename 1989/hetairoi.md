@@ -6,6 +6,7 @@ location: Cranleigh School
 date: 20/08/1989
 report: Hetairoi batted first and scored 225 for 6 wkts. The Min replied with 221 all out
 result: Hetairoi won by 4 runs
+next: stowting
 parent: 1989 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 6 | 6 | 0 |
+
+[Next game:]({{page.next}})

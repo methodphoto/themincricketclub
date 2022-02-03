@@ -6,6 +6,7 @@ location: Wimbledon Park
 date: 13/07/1986
 report: Logica batted first and were all out for 102. The Min replied with 103 for 2 wkts.
 result: The Min won by 8 wkts
+next: watton-at-stone
 parent: 1986 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 56 | 3 | 2 | 0 |
+
+[Next game:]({{page.next}})

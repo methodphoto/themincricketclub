@@ -6,6 +6,7 @@ location: Canon's Park
 date: 30/06/1991
 report: The Min batted first and made 143 for 8 wkts
 result: Antilles won by 6 wkts
+next: the-crocodiles
 parent: 1991 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

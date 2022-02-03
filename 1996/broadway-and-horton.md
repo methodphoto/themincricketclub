@@ -6,6 +6,7 @@ location: The Pound
 date: 28/07/1996
 report: Broadway and Horton batted first and made 239 for 7 wkts. The Min replied with 76 all out
 result: Broadway and Horton won by 163 runs
+next: kilmington-and-stourton
 parent: 1996 Fixtures
 ---
 
@@ -100,3 +101,5 @@ J Stimfig fielded and P Grant batted
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 1 | 3 | 1 |
+
+[Next game:]({{page.next}})

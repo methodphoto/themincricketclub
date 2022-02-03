@@ -6,6 +6,7 @@ location: Valley End
 date: 06/07/1986
 report: Valley End batted first and made 167 for 8 wkts. The Min replied with 132 for 7 wkts before time ran out.
 result: Match Drawn
+next: logica
 parent: 1986 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 3 | 2 | 0 |
+
+[Next game:]({{page.next}})

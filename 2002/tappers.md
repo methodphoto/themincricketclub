@@ -94,3 +94,5 @@ R Green, second 5 wkt haul for The Min
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 3 | 5 | 0 |
+
+[Next game:]({{page.next}})

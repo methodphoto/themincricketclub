@@ -6,6 +6,7 @@ location: Gunnersbury Park
 date: 27/04/1985
 report: White City All Stars batted first and made 163 for 9 wkts. The Min replied with 108 for 9 wkts (all out).
 result: White City All Stars won by 55 runs
+next: west-green
 parent: 1985 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 0 | 0 |
+
+[Next game:]({{page.next}})

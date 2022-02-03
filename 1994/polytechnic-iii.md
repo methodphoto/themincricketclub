@@ -6,6 +6,7 @@ location: Quintin Hogg Memorial Ground
 date: 17/07/1994
 report: Polytechnic III batted first and scored 169 for 7 wkts. The Min replied with 173 for 3 wkts
 result: The Min won by 7 wkts
+next: broadway-and-horton
 parent: 1994 Fixtures
 ---
 
@@ -97,3 +98,5 @@ R Earney and R Beswick partnership of 131
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 2 | 1 | 0 |
+
+[Next game:]({{page.next}})

@@ -96,3 +96,5 @@ Partnership of 158 between R Earney and R Kitson
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

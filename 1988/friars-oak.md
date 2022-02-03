@@ -6,6 +6,7 @@ location: Friar's Oak
 date: 30/07/1988
 report: The Min batted first and made 152 for 8 wkts (all out). Friar's Oak replied with 126 for 9 wkts (all out)
 result: The Min won by 26 runs
+next: barrow-boys
 parent: 1988 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 7 | 1 | 2 | 0 |
+
+[Next game:]({{page.next}})

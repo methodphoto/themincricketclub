@@ -6,6 +6,7 @@ location: Bishop's Park
 date: 15/08/1987
 report: Oracle batted first and made 91 for 8 wkts (all out). The Min made 95 for 3 wkts
 result: The Min won by 7 wkts
+next: bose-wanderers
 parent: 1987 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

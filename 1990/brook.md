@@ -6,6 +6,7 @@ location: The Pirrie Hall Recreation Ground
 date: 08/07/1990
 report: Brook scored 241 for 1 wkt. The Min replied with 170 for 9 wkts (all out)
 result: Brook won by 71 runs
+next: abinger-hammer
 parent: 1990 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 4 | 2 | 0 |
+
+[Next game:]({{page.next}})

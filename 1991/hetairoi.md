@@ -6,6 +6,7 @@ location: Hetairoi
 date: 18/08/1991
 report: Hetairoi batted first and made 185 for 9 wkts. The Min replied with 188 for 6 wkts
 result: The Min won by 4 wkts
+next: stowting
 parent: 1991 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Steven Hornsby first 5 wkt haul for The Min
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 2 | 5 | 0 |
+
+[Next game:]({{page.next}})

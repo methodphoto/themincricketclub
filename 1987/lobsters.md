@@ -6,6 +6,7 @@ location: New Field, Bristol
 date: 12/07/1987
 report: Lobsters batted first and scored 199 for 5 wkts. The Min were 98 all out in reply
 result: Lobsters won by 101 runs
+next: friars-oak
 parent: 1987 Fixtures
 ---
 
@@ -96,3 +97,5 @@ R Beswick's 1st 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 4 | 1 | 0 |
+
+[Next game:]({{page.next}})

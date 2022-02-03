@@ -6,6 +6,7 @@ location: Reigate Grammar School
 date: 16/07/1995
 report: Tappers batted first and made 230 for 8 wkts. The Min replied with 165 for 6 wkts before time ran out
 result: Match Drawn
+next: barrow-hospital
 parent: 1995 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 2 | 3 | 0 |
+
+[Next game:]({{page.next}})

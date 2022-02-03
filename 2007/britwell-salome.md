@@ -100,3 +100,5 @@ Partnership of 105 between R Earney and S Barrowcliff
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
+
+[Next game:]({{page.next}})

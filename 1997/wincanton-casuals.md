@@ -6,6 +6,7 @@ location: Wincanton
 date: 24/07/1997
 report: The Min batted first and made 134 for 7 wkts in 16 overs. Wincanton Casuals replied with 88 for 5 wkts in 16 overs
 result: The Min won by 46 runs
+next: broadway-and-horton
 parent: 1997 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

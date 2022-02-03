@@ -6,6 +6,7 @@ location: Toddington Manor
 date: 18/06/1989
 report: The Min batted first and were all out for 119. Durranti made 120 for 5 wkts in reply
 result: Durranti won by 5 wkts
+next: limpsfield
 parent: 1989 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 3 | 3 | 0 |
+
+[Next game:]({{page.next}})

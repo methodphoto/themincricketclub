@@ -115,3 +115,5 @@ Joint Min of the Match: Goffy and Earn. Honourable mention for Slighty who thoug
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Dawes Field
 date: 01/09/1991
 report: Stowing batted first and made 152 all out. The Min replied with 153 for 4 wkts
 result: The Min won by 6 wkts
+next: long-marston
 parent: 1991 Fixtures
 ---
 
@@ -96,3 +97,5 @@ D Swann 74 off 47 balls (50 off 31)
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 7 | 2 | 5 | 0 |
+
+[Next game:]({{page.next}})

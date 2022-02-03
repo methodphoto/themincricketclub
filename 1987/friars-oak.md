@@ -6,6 +6,7 @@ location: Friar's Oak
 date: 26/07/1987
 report: Friar's Oak batted first and scored 113 for 9 wkts. The Min were all out for 104
 result: Friar's Oak won by 9 runs
+next: newdigate
 parent: 1987 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 5 | 1 | 0 |
+
+[Next game:]({{page.next}})

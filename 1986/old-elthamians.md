@@ -6,6 +6,7 @@ location: Foxbury
 date: 18/05/1986
 report: Old Elthamians batted first and scored 200 for 7 wkts. The Min replied with 201 for 4 wkts.
 result: The Min won by 6 wkts
+next: little-kingshill
 parent: 1986 Fixtures
 ---
 
@@ -97,3 +98,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

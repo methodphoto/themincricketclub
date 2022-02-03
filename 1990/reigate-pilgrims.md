@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 16/09/1990
 report: Reigate Pilgrims were 142 all out. The Min were 128 for 9 wkts when time ran out
 result: Match Drawn
+next: watton-at-stone
 parent: 1990 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 6 | 5 | 0 |
+
+[Next game:]({{page.next}})

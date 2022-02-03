@@ -5,7 +5,8 @@ game: Newdigate v The Min
 location: The Brocus
 date: 11/08/1991
 report: The Min batted first and made 186 for 6 wkts. Newdigate were 35 for 5 wkts when rain stopped play
-result: Match Abandoned
+result: Match Abandoned as a draw
+next: hetairoi
 parent: 1991 Fixtures
 ---
 
@@ -90,3 +91,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 5 | 2 | 5 | 0 |
+
+[Next game:]({{page.next}})

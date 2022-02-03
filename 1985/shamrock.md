@@ -6,6 +6,7 @@ location: Meridian Cricket Ground
 date: 24/06/1985
 report: The Min batted first and were all out for 53. Shamrock were 33 for 1 when rain stopped play.
 result: Match Drawn
+next: logica
 parent: 1985 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 3 | 1 | 0 |
+
+[Next game:]({{page.next}})

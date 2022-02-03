@@ -6,6 +6,7 @@ location: Valley End Cricket Club
 date: 04/09/1994
 report: Valley End batted first and made 207 for 4 wkts. The Min replied with 194 for 9 wkts (all out)
 result: Valley End won by 13 runs
+next: reigate-pilgrims
 parent: 1994 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Partnership of 133 for Valley End between M Aggar and Chadwich
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 5 | 2 | 0 |
+
+[Next game:]({{page.next}})

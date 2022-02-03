@@ -96,3 +96,5 @@ J Wright's 5th Fivefer
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 7 | 4 | 3 | 0 |
+
+[Next game:]({{page.next}})

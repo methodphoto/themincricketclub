@@ -6,6 +6,7 @@ location: Blindley Heath
 date: 09/07/1989
 report: The Min batted first and made 170 for 8 wkts. Blindley Heath replied with 111 for 9 wkts
 result: Match Drawn
+next: valley-end
 parent: 1989 Fixtures
 ---
 
@@ -95,3 +96,5 @@ I Marshall hattrick off the last 3 balls of the game
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 4 | 4 | 0 |
+
+[Next game:]({{page.next}})

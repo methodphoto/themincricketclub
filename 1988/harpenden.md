@@ -6,6 +6,7 @@ location: Toddington Manor
 date: 11/09/1988
 report: The Min batted first and scored 199 for 6 wkts. Harpenden were 197 for 9 wkts when time ran out
 result: Match Drawn
+next: watton-at-stone
 parent: 1988 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 10 | 2 | 4 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Hersham
 date: 28/04/1991
 report: The Min batted first and made 161 all out. Hersham were bowled out for 92
 result: The Min won by 69 runs
+next: ockley
 parent: 1991 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
+
+[Next game:]({{page.next}})

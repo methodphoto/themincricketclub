@@ -6,6 +6,7 @@ location: Aberley
 date: 04/08/1990
 report: The Min batted first and scored 170 for 8 wkts. T Calvert's Collection made 154 for 11 (all out)in reply
 result: The Min won by 16 runs
+next: newdigate
 parent: 1990 Fixtures
 ---
 
@@ -98,3 +99,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 6 | 2 | 0 |
+
+[Next game:]({{page.next}})

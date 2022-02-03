@@ -100,4 +100,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 4 | 0 | 1 | 0 |
 
-Next game: [1984](../1984/)
+[Next season](../1984)

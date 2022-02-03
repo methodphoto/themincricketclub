@@ -6,6 +6,7 @@ location: Limpsfield
 date: 23/06/1990
 report: Limpsfield batted first and made 251 for 3 wkts. The Min were all out for 123
 result: Limpsfield won by 128 runs
+next: brook
 parent: 1990 Fixtures
 ---
 
@@ -90,3 +91,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 3 | 2 | 0 |
+
+[Next game:]({{page.next}})

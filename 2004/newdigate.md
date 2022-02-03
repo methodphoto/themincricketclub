@@ -95,3 +95,5 @@ M Goff's 1st 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: St Albans
 date: 03/09/1995
 report: The Min batted first and made 136 all out. White Lion replied with 137 for 9 wkts
 result: White Lion won by 1 wkt
+next: watton-at-stone
 parent: 1995 Fixtures
 ---
 
@@ -92,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 4 | 3 | 0 |
+
+[Next game:]({{page.next}})

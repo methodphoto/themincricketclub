@@ -93,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 8 | 6 | 2 | 0 |
+
+[Next season](../1986)

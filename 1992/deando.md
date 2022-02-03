@@ -6,6 +6,7 @@ location: Tolworth Court Sports Ground
 date: 14/07/1992
 report: The Min batted first and scored 163 all out. Deando replied with 155 for 3 wkts
 result: Deando won by 7 wkts
+next: yateley
 parent: 1992 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: University College Sports Ground
 date: 10/06/1990
 report: University College, Oxford batted first and made 198 for 7 wkts. The Min replied with 173 for 9 wkts (all out)
 result: University College, Oxford won by 24 runs
+next: limpsfield
 parent: 1990 Fixtures
 ---
 
@@ -93,3 +94,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 2 | 2 | 0 |
+
+[Next game:]({{page.next}})

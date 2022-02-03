@@ -6,6 +6,7 @@ location: Horningsham
 date: 20/06/1987
 report: Horningsham batted first and scored 168 for 9 wkts. The Min replied with 52 for 9 wkts (all out)
 result: Horningsham won by 116 runs
+next: godstone
 parent: 1987 Fixtures
 ---
 
@@ -91,3 +92,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 3 | 1 | 0 |
+
+[Next game:]({{page.next}})

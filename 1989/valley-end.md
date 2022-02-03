@@ -6,6 +6,7 @@ location: Valley End
 date: 09/07/1989
 report: Valley End batted first and scored 201 for 3 wkts. The Min were 137 for 7 wkts when time ran out
 result: Match Drawn
+next: godstone
 parent: 1989 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 4 | 5 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: Bramshall Police College
 date: 21/06/1992
 report: The Min batted first scoring 189 for 7 wkts. Yateley replied with 121 for 9 wkts (all out)
 result: The Min won by 68 runs
+next: antilles
 parent: 1992 Fixtures
 ---
 
@@ -97,3 +98,5 @@ R Earney's 1st 50. R Beswick's 3rd 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})
