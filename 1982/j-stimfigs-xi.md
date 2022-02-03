@@ -6,6 +6,8 @@ location: Coombe Dingle
 date: 07/06/1982
 report: The Min scored 183 all out. J Stimfig's XI replied with 184 for 5 wkts.
 result: J Stimfig's XI won by 5 wkts
+next: Wills Hall
+nextLink: wills-hall
 parent: 1982 Fixtures
 ---
 
@@ -91,3 +93,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 1 | 1 | 0 |
+
+Next game: [{enclosed text}]({{page.nextLink}})

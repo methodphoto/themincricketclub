@@ -22,7 +22,7 @@ parent: 1980s
 | 7th |  | [J.Stimpfig’s XI](j-stimfigs-xi) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
 | 10th |  | [Wills Hall](wills-hall) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
 | 12th |  | [Leyhill](leyhill) | [Away](https://goo.gl/maps/mudR5WzrihNWezwD7) |
-| 14th |  | [Bristol Young Solicitors](young-solicitors) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
+| 14th |  | [Bristol Young Solicitors](bristol-young-solicitors) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
 | 15th |  | [Lobsters](lobsters) | [Away](https://goo.gl/maps/NPBTGjsXm9dr1DBW6) |
 | 16th |  | [A Good Length](a-good-length-2) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
 | 17th |  | [Clifton College XI](clifton-college) | [Away](https://goo.gl/maps/BhH3zz2H1YVCQRZ58) |

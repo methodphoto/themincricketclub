@@ -6,6 +6,8 @@ location: Coombe Dingle
 date: 08/05/1982
 report: The Min scored 134 all out and had Another Man's Meat all out for 100
 result: The Min won by 34 runs
+next: Bristol Grammar School
+nextLink: bristol-grammar-school
 parent: 1982 Fixtures
 ---
 
@@ -96,3 +98,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 0 | 1 | 0 |
+
+Next game: [{{page.next}}]({{page.nextLink}})

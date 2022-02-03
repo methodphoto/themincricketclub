@@ -90,3 +90,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 0 | 0 |
+
+Next game: [{{page.next}}]({{page.nextLink}})

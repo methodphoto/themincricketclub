@@ -6,6 +6,8 @@ location: Failand Road
 date: 13/05/1982
 report: The Min scored 171 all out. Bristol Grammar School made 129 all out in reply.
 result: The Min won by 42 runs
+next: J.Stimpfig’s XI
+nextLink: j-stimfigs-xi
 parent: 1982 Fixtures
 ---
 
@@ -94,3 +96,5 @@ J Booth and D Mundy: partnership of 100
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 0 | 1 | 0 |
+
+Next game: [{{page.next}}]({{page.nextLink}})

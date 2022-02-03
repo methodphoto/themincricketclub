@@ -6,6 +6,8 @@ location: Coombe Dingle
 date: 16/06/1982
 report: A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 result: The Min won by 4 wkts
+next: Clifton College XI
+nextLink: clifton-college
 parent: 1982 Fixtures
 ---
 
@@ -89,3 +91,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 3 | 1 | 0 |
+
+Next game: [{enclosed text}]({{page.nextLink}})

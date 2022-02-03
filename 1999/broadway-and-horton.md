@@ -96,3 +96,5 @@ Broadway and Horton regained The Ashes
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 5 | 2 | 0 |
+
+Next game: [{{page.next}}]({{page.nextLink}})

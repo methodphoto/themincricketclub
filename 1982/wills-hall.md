@@ -6,6 +6,8 @@ location: Coombe Dingle
 date: 10/06/1982
 report: The Min scored 103 for 4 wkts. Wills Hall were 56 for 7 when time ran out.
 result: The Min won by 47 runs
+next: Leyhill
+nextLink: leyhill
 parent: 1982 Fixtures
 ---
 
@@ -97,3 +99,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 1 | 1 | 0 |
+
+Next game: [{{page.next}}]({{page.nextLink}})

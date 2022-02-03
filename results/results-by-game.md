@@ -648,7 +648,7 @@ parent: Results
 | 07/06/1982 | [J Stimfig’s XI](../1982/j-stimfigs-xi) | Lost |
 | 10/06/1982 | [Wills Hall](../1982/wills-hall) | **Won** |
 | 12/06/1982 | [Leyhill](../1982/leyhill) | Lost |
-| 14/06/1982 | [Young Solicitors](../1982/young-solicitors) | **Won** |
+| 14/06/1982 | [Young Solicitors](../1982/bristol-young-solicitors) | **Won** |
 | 15/06/1982 | [Lobsters](../1982/lobsters) | Lost |
 | 16/06/1982 | [A Good Length](../1982/a-good-length) | **Won** |
 | 17/06/1982 | [Clifton College XI](../1982/clifton-college) | Drawn |
