@@ -5,7 +5,7 @@ game: Putney v The Min
 location: Putney CC
 date: 17/08/2008
 report: The Min batted first and made 158 for 5 wkts in 20 over. Putney replied with 117 all out
-result: The Min won by 
+result: The Min won by 41 runs
 next: reigate-pilgrims
 parent: 2008 Fixtures
 ---
