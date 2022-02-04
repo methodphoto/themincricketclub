@@ -94,4 +94,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 6 | 4 | 0 | 0 |
 
-[Next game:]({{page.next}})
+[Next season:](/)
