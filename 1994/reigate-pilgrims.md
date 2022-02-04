@@ -49,7 +49,7 @@ R Earney best bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Wise** | 9 | 0 | 38 | 0 |
+| **C Wise** | 9 | 0 | 38 | 0 |
 | **S Arnold** | 23 | 3 | 61 | 4 |
 | **S Burgess** | 3 | 0 | 18 | 0 |
 | **Cheetham** | 2 | 0 | 21 | 0 |
@@ -65,7 +65,7 @@ R Earney best bowling
 | **M Hetherington** | c D Young | R Earney | 10 |
 | **P Hetherington** | c J Stimfig | R Earney | 4 |
 | **Bennett** | lbw | R Earney | 4 |
-| **Wise** | b | R Earney | 20 |
+| **C Wise** | b | R Earney | 20 |
 | **Cheetham** | b | I Marshall | 12 |
 | **Forsyth** | not out |  | 7 |
 | **Steed** | not out |  | 2 |

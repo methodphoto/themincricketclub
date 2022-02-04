@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **McGrath** | c D Swann | J McIntosh | 2 |
 | **Brown** | b | W Calvert | 8 | 
 | **Forsyth** | not out |  | 11 |
-| **Arnold** | not out |  | 3 | 
-| **Wise** | dnb |  |  | 
+| **S Arnold** | not out |  | 3 | 
+| **C Wise** | dnb |  |  | 
 | **Long** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 9 | 
 | **Total** | | (36 overs) | **224 for 7 wkts** | 
@@ -60,12 +60,12 @@ Played at {{page.location}} on {{page.date}}
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Mills** | c Long | Thesiger | 5 | 
-| **J Grant &#8224;** | b | Wise | 0 | 
+| **J Grant &#8224;** | b | C Wise | 0 | 
 | **S Barrowcliff** | c Forsyth | Thesiger | 0 | 
 | **D Swann** | c Parry-Jones | Buckley | 87 | 
 | **S Hornsby** | not out |  | 95 | 
 | **W Calvert** | c Long | Arnold | 25 | 
-| **R Beswick &#42;** | b | Wise | 1 | 
+| **R Beswick &#42;** | b | C Wise | 1 | 
 | **M Gardiner** | c Long | Arnold | 2 | 
 | **D Young** | c Long | Arnold | 6 | 
 | **G Wright** | lbw | Arnold | 1 | 
@@ -84,7 +84,7 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Wise** | 10.4 | 1 | 38 | 2 | 
+| **C Wise** | 10.4 | 1 | 38 | 2 | 
 | **Thesiger** | 9 | 1 | 29 | 32 | 
 | **Lent** | 6 | 0 | 45 | 0 | 
 | **Arnold** | 14 | 1 | 64 | 4 | 
