@@ -6,6 +6,7 @@ location: The Brocus
 date: 30/09/2018
 report: In a 35 over game Stoke D'Aberdon batted first and scored 251-6. The Min replied with 196 all out
 result: Stoke D'Aberdon won by 55 runs
+next: 
 parent: 2018 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 4 | 4 | 1 | 0 |
+
+[Next game:]({{page.next}})

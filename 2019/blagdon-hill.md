@@ -6,6 +6,7 @@ location: Sellicks Green
 date: 04/07/2019
 report: Blagdon Hill won the toss and batted first. They made 213 for 9 wkts in 35 overs. The Min replied with 202 all out in 33.3 overs
 result: Blagdon Hill won by 11 runs
+next: broadway-and-horton
 parent: 2019 Fixtures
 ---
 

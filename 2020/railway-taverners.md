@@ -6,6 +6,7 @@ location: Low Hall Sports Ground
 date: 02/08/2020
 report: The Min batted first and made 179 all out in 38.3 overs. Railway Taverners made 148 all out in reply
 result: The Min won by 31 runs
+next: banstead
 parent: 2020 Fixtures
 ---
 

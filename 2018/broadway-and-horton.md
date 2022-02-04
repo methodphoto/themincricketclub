@@ -6,6 +6,7 @@ location: The Pound
 date: 06/07/2018
 report: Broadway and Horton won the toss and batted first making 184 all out in 39.2 overs. The Min replied with 185 for 6 in 36.2 overs
 result: The Min won by 4 wkts
+next: selling
 parent: 2018 Fixtures
 ---
 
@@ -97,3 +98,5 @@ S Barrowcliff 50 off 68 balls
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 3 | 2 | 1 | 0 |
+
+[Next game:]({{page.next}})

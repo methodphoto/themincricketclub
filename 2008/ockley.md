@@ -5,7 +5,8 @@ game: Ockley v The Min
 location: Ockley Green
 date: 11/05/2008
 report: Ockley batted first and made 95 all out. The Min replied with 96 for 5 wkts
-result: The min won by 5 wkts
+result: The Min won by 5 wkts
+next: tappers
 parent: 2008 Fixtures
 ---
 

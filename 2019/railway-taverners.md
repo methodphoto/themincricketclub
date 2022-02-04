@@ -6,6 +6,7 @@ location: North Middlesex CC
 date: 01/09/2019
 report: Railway Taverners scored 178 all out. The Min replied with 180 for 7 wkts
 result: The Min won by 3 wkts
+next: cerne-valley
 parent: 2019 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: Britwell Salome
 date: 26/04/2008
 report: The Min batted first and made 146 for 7 wkts. Britwell Salome replied with 148 for 8 wkts 
 result: Britwell Salome won by 2 wkts
+next: ockley
 parent: 2008 Fixtures
 ---
 

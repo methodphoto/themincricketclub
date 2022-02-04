@@ -6,6 +6,7 @@ location: Stourhead
 date: 
 report: 
 result: 
+next: horningsham
 parent: 2008 Fixtures
 ---
 

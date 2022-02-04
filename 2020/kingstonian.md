@@ -6,6 +6,7 @@ location: Old Tiffinians Association Sports Ground
 date: 10/07/2020
 report: The Min batted first and made 176 for 6 wkts. Kingstonian made 143 all out in reply.
 result: The Min won by 33 runs
+next: railway-taverners
 parent: 2020 Fixtures
 ---
 

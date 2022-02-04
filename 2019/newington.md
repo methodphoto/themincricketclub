@@ -6,6 +6,7 @@ location: Bobbing Court
 date: 19/05/2019
 report: Newington won the toss and batted first in a 35 over game. They scored 223 for 3 wkts. The Min replied with 203 for 9 wkts (all out)
 result: Newington won by 20 runs
+next: frensham
 parent: 2019 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: KCL
 date: 06/05/2018
 report: The Min won the toss and inserted Kingstonian who made 171 all out in 32 overs  The Min scored 172-4 in 34.2 overs 
 result: THe Min won by 6 wkts
+next: newington
 parent: 2018 Fixtures
 ---
 
@@ -96,3 +97,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 1 | 0 | 1 | 0 |
+
+[Next game:]({{page.next}})

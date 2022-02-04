@@ -6,6 +6,7 @@ location: Banstead
 date: 09/08/2020
 report: Banstead won the toss and batted first making 170 for 9 wkts in 35 overs. The Min replied with 172 for 7 wkts
 result: The Min won by 3 wkts
+next: reigate-pilgrims
 parent: 2020 Fixtures
 ---
 

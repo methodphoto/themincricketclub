@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 
 report: 
 result: 
+next: selling
 parent: 2008 Fixtures
 ---
 

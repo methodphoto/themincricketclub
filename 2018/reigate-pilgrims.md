@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 16/09/2018
 report: Reigate Pilgrims won the toss and inserted The Min, who made 184-6  Reigate Pilgrims made 189-5 when they batted so won by 5 wkts
 result: Reigate Pilgrims won by 5 wkts
+next: stoke-dabernon
 parent: 2018 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 4 | 3 | 1 | 0 |
+
+[Next season](../2019)

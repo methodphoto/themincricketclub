@@ -6,6 +6,7 @@ location:
 date: 
 report: 
 result: 
+next: reigate-pilgrims
 parent: 2008 Fixtures
 ---
 

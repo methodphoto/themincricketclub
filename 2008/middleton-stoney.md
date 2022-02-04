@@ -6,6 +6,7 @@ location: Middleton Park
 date: 08/06/2008
 report: Middleton Stoney batted first and made 97 all out. The Min replied with 98 for 5 wkts
 result: The Min won by 5 wkts
+next: newdigate
 parent: 2008 Fixtures
 ---
 

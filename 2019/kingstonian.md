@@ -6,6 +6,7 @@ location: Old Tiffinians Association Sports Ground
 gameDate: 04/07/2019
 report: Kingstonian won the toss and inserted The Min who scored 198 for 9 wkts in 35 overs. Kingstonian replied with 139 for 4 wkts
 result: The Min won by 59 runs
+next: reigate-pilgrims
 parent: 2019 Fixtures
 ---
 

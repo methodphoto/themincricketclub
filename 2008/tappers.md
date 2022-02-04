@@ -6,6 +6,7 @@ location: Solefields
 date: 18/05/2008
 report: Tappers batted first and made 117 all out. The Min replied with 118 for 6 wkts
 result: The Min won by 4 wkts
+next: middleton-stoney
 parent: 2008 Fixtures
 ---
 

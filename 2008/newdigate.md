@@ -6,6 +6,7 @@ location: The Brocus
 date: 16/06/2008
 report: The Min batted first and made 202 for 8 wkts. Newdigate replied with 66 all out
 result: The Min won by 136 runs
+next: watton-at-stone
 parent: 2008 Fixtures
 ---
 

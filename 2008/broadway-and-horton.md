@@ -6,6 +6,7 @@ location: The Pound
 date: 10/07/2008
 report: The Min batted first and made 131 for 8 wkts. Broadway and Horton replied with 124 all out
 result: The Min won by 7 runs
+next: kilmington-and-stourton
 parent: 2008 Fixtures
 ---
 

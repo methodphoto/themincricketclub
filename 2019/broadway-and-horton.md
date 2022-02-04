@@ -6,6 +6,7 @@ location: The Pound
 date: 05/07/2019
 report: The Min won the tosss and batted first making 197 for 6 in 35 overs. Broadway and Horton replied with 33 all out.
 result: The Min won by 164 runs
+next: kingstonian
 parent: 2019 Fixtures
 ---
 

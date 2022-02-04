@@ -6,6 +6,7 @@ location: Solefields
 date: 13/07/2008
 report: The Old Min batted first and made 166 for 5 wkts. The Young Min replied with 98 for 8 wkts when time ran out
 result: Match Drawn
+next: harrow-st-marys
 parent: 2008 Fixtures
 ---
 

@@ -6,6 +6,7 @@ location: Bobbing Court
 date: 20/05/2018
 report: Newington won the toss and inserted The Min who made 201 for 9 wkts in 40 overs. Newington made 198-8 in reply in their 40 overs.
 result: The Min won by 3 runs
+next: watton-at-stone
 parent: 2018 Fixtures
 ---
 

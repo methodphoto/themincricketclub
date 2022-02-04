@@ -6,6 +6,7 @@ location: The Meadow
 date: 24/06/2018
 report: The Min won the toss and inserted Watton who made a rather large 295-3 in 40 overs. The Min were all out for 168 (including 3 run outs)
 result: Watton won by 127 runs
+next: blagdon-hill
 parent: 2018 Fixtures
 ---
 
@@ -94,3 +95,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 2 | 1 | 1 | 0 |
+
+[Next game:]({{page.next}})

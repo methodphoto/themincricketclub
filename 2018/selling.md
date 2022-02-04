@@ -6,6 +6,7 @@ location: Cadman's Meadow
 date: 21/07/2018
 report: The Min won the toss and batted first scoring 188 all out (34 overs). Selling were bowled out for 133
 result: The Min won by 55 runs
+next: reigate-pilgrims
 parent: 2018 Fixtures
 ---
 
@@ -95,3 +96,5 @@ Played at {{page.location}} on {{page.date}}
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 4 | 2 | 1 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,7 +6,7 @@ location: Middleton Park
 date: 21/04/2019
 report: Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 111-8 when time ran out.
 result: Match Drawn
-next: 
+next: watton-at-stone
 parent: 2019 Fixtures
 ---
 

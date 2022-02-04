@@ -6,6 +6,7 @@ location: Cerne Abbas
 date: 03/07/2019
 report: Cerne Valley won the toss, inserted The Min who made 153 from their 20 overs. Cerne made 93 for 8 wkts in reply
 result: The Min won by 60 runs
+next: blagdon-hill
 parent: 2019 Fixtures
 ---
 

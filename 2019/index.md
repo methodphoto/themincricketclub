@@ -20,6 +20,7 @@ parent: 2010s
 | June |  |  |  |
 |:---|:---|:---|:---|
 | 2nd | 14:00 | [Frensham](frensham)| [GU10 3BJ](https//goo.gl/maps/xBUZvPU1vnK2) |
+| 9th | 14:00 | [Newdigate](newdigate)| [RH5 5AE](http://goo.gl/maps/2RKzj) |
 | 21st | 13:30 | [Railway Taverners](railway-taverners) | [N8 8JJ](https//goo.gl/maps/BuCf1MgUwJTViZ4YA) |
 
 | July – The Min Tour |  |  |  |

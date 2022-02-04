@@ -6,6 +6,7 @@ location: Hollowdene Recreation Ground
 date: 02/06/2019
 report: Frensham batted first and made 192 for 9. The Min replied with 196 for 6.
 result: The Min won by 4 wkts
+next: newdigate
 parent: 2019 Fixtures
 ---
 

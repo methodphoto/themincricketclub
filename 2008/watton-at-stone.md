@@ -6,6 +6,7 @@ location: The Meadow
 date: 22/06/2008
 report: The Min batted first and made 206 for 8 wkts. Watton-at-Stone replied with 213 for 3 wkts
 result: Watton-at-Stone won by 7 wkts
+next: stowting
 parent: 2008 Fixtures
 ---
 
