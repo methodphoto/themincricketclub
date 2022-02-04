@@ -29,7 +29,7 @@ parent: 2000s
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
 | 10th | 14:30 | [Broadway and Horton](broadway-and-horton) | [TA19 9RA](https://goo.gl/maps/ULbmC6LSX5HSAe8U6) |
-| 11th | 14:00 | [Kilmington and Stourton](kilmington-and-stourton) | [BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
+| 11th | 14:00 | <del>Kilmington and Stourton</del> | [BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 12th | 13:00 | [Horningsham](horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 | 13th | 14:00 | [Old Min v Young Min (for the Rameses II Memorial Trophy)](old-min-young-min) | [Home](https://goo.gl/maps/w2skeCXwzZTEh7e26) |
 
