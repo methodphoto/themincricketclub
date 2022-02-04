@@ -6,7 +6,7 @@ location: Stourhead
 date: 22/07/2000
 report: The Min batted first and made 216 for 7 wkts. Kilmington and Stourton replied with 145 for 9 wkts (all out)
 result: The Min won by 71 runs
-next: 
+next: shottermill
 parent: 2000 Fixtures
 ---
 

@@ -6,7 +6,7 @@ location: Tatsfield Village CC
 date: 02/07/2000
 report: The Min batted first and made 209 all out. Tatsfield replied with 92 all out
 result: The Min won by 117 runs
-next: 
+next: wareham
 parent: 2000 Fixtures
 ---
 

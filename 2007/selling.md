@@ -31,7 +31,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Burnage** | dnb |  |  |
 | **N Woodbridge** | dnb |  |  |
 | **T Gower** | dnb |  |  |
-| **M Whiting** | dnb |  |  |
+| **M Whitling** | dnb |  |  |
 | **T Carter** | dnb |  |  |
 | **Extras** | | (8b 7lb 4w 1nb 0p) | 20 |
 | **Total** | | (40 overs) | 239 for 5 wkts |
@@ -59,16 +59,16 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | b | M Whiting | 14 |
-| **R Beswick &#42;** | c M Brutsch | M Whiting | 25 |
+| **R Earney** | b | M Whitling | 14 |
+| **R Beswick &#42;** | c M Brutsch | M Whitling | 25 |
 | **I Marshall** | c T Gower | T Carter | 16 |
-| **A Fraser** | run out (M Whiting) |  | 8 |
+| **A Fraser** | run out (M Whitling) |  | 8 |
 | **A Slight** | b | N Woodbridge | 36 |
 | **A Beswick &#8224;** | b | T Carter | 0 |
 | **A Woodbridge** | c T Carter | N Woodbridge | 6 |
 | **T Simmonds** | not out |  | 2 |
 | **C Wright** | b | A Burnage | 0 |
-| **J Wright** | c M Whiting | N Woodbridge | 11 |
+| **J Wright** | c M Whitling | N Woodbridge | 11 |
 | **P Beswick** | b | A Burnage | 0 |
 | **Extras** | | (3b 6lb 10w 2nb 0p) | 21 |
 | **Total** | | (35.2 overs) | 139 all out |
@@ -84,7 +84,7 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **M Whiting** | 7 | 1 | 30 | 4 |
+| **M Whitling** | 7 | 1 | 30 | 4 |
 | **T Gower** | 8 | 4 | 15 | 0 |
 | **T Carter** | 8 | 2 | 21 | 2 |
 | **P Quinnell** | 6 | 0 | 46 | 0 |

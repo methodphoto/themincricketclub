@@ -6,7 +6,7 @@ location: Wareham
 date: 20/07/2000
 report: The Min batted first and made 207 for 4 wkts. Wareham replied with 208 for 3 wkts
 result: Wareham won by 7 wkts
-next: 
+next: broadway-and-horton
 parent: 2000 Fixtures
 ---
 

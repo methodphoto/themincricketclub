@@ -6,7 +6,7 @@ location: Pembroke College, Oxford
 date: 06/08/2000
 report: Tappers batted first and were all out for 115. The Min replied with 116 for 1 wkt
 result: The Min won by 9 wkts
-next: 
+next: selling
 parent: 2000 Fixtures
 ---
 
