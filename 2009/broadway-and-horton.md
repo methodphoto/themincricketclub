@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **H Payne** | dnb |  |  |
 | **C MacHattie** | dnb |  |  ||
 | **Extras** | | (2b 3lb 11w 0nb 0p) | 16 |
-| **Total** | | (40 overs) | 202 for 6 wkts |
+| **Total** | | (40 overs) | **202 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **L Barrowcliff** | c R Young | T Hill | 5 |
 | **J Wright** | not out |  | 9 |
 | **Extras** | | (8b 2lb 13w 2nb 0p) | 25 |
-| **Total** | | (38.1 overs) | 183 all out |
+| **Total** | | (38.1 overs) | **183 all out** |
 
 ## Fall of Wickets
 

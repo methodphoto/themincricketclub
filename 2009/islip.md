@@ -36,7 +36,7 @@ D Wigg highest score. A Beswick best bowling
 | **J Grant &#8224;** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (14b 2lb 5w 2nb 0p) | 23 |
-| **Total** | | (40 overs) | 202 for 7 wkts |
+| **Total** | | (40 overs) | **202 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ D Wigg highest score. A Beswick best bowling
 | **F Butler** | b | A Beswick | 0 |
 | **S Nelson** | not out |  | 0 |
 | **Extras** | | (5b 1lb 5w 2nb 0p) | 13 |
-| **Total** | | (29.3 overs) | 71 all out |
+| **Total** | | (29.3 overs) | **71 all out** |
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **B Sweeting** | dnb |  |  |
 | **W Hinkley** | dnb |  |  |
 | **Extras** | | (3b 2lb 3w 5nb 0p) | 13 |
-| **Total** | | (40 overs) | 283 for 6 wkts |
-
+| **Total** | | (40 overs) | **283 for 6 wkts |
+**
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright &#42;t** | not out |  | 0 |
 |  |  |  |  |
 | **Extras** | | (4b 4lb 17w 3nb 0p) | 28 |
-| **Total** | | (38 overs) | 277 for 8 wkts |
+| **Total** | | (38 overs) | **277 for 8 wkts** |
 
 ## Fall of Wickets
 

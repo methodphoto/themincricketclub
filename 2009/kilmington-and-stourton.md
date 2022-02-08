@@ -36,7 +36,7 @@ R Beswick's 22nd 50 and highest score
 | **J Wright** | b | Knapp | 6 |
 | **P O'Mahony** | not out |  | 1 |
 | **Extras** | | (10b 2lb 34w 3nb 0p) | 49 |
-| **Total** | | (33.5 overs) | 215 all out |
+| **Total** | | (33.5 overs) | **215 all out** |
 
 ## Fall of Wickets
 
@@ -74,7 +74,7 @@ R Beswick's 22nd 50 and highest score
 | **S Churchill** | dnb |  |  |
 | **Parish** | dnb |  |  |
 | **Extras** | | (2b 0lb 18w 1nb 0p) | 21 |
-| **Total** | | (19.5 overs) | 160 for 3 wkts |
+| **Total** | | (19.5 overs) | **160 for 3 wkts** |
 
 ## Fall of Wickets
 

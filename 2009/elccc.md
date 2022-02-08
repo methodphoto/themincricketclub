@@ -36,7 +36,7 @@ M Gupta's 2nd Michelle and a Hat trick and 4th 50
 | **Ali** | b | M Gupta |  0|
 | **Ashish** | b | M Gupta | 0 |
 | **Extras** | | (12b 4lb 9w 4nb 0p) | 29 |
-| **Total** | | (38.3 overs) | 282 all out |
+| **Total** | | (38.3 overs) | **282 all out** |
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ M Gupta's 2nd Michelle and a Hat trick and 4th 50
 | **G Powell** | run out |  | 1 |
 | **J Grant &#8224;** | not out |  | 0 |
 | **Extras** | | (8b 7lb 12w 2nb 0p) | 29 |
-| **Total** | | (35.1 overs) | 215 all out |
+| **Total** | | (35.1 overs) | **215 all out** |
 
 ## Fall of Wickets
 
