@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-#### Match Report</h3>
+#### Match Report
 
 *from our Cricket Correspondent*
 
@@ -65,7 +65,7 @@ R Earney's 40th 50
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **N Humphries** | 6 | 0 | 43 |20 |
+| **N Humphries** | 6 | 0 | 43 | 2 |
 | **N Lawrence** | 10 | 1 | 44 | 0 |
 | **B Tyler** | 9 | 0 | 32 | 0 |
 | **J Morgan** | 6 | 0 | 31 | 1 |

@@ -6,6 +6,7 @@ location: Greenwich Park
 date: 23/08/2009
 report: The Min batted first and made 203 all out in 33.5 overs. SB Exiles replied with 208 for 7 wkts in 34 overs
 result: SB Exiles won by 3 wkts
+next: tower-of-dudes
 parent: 2009 Fixtures
 ---
 
@@ -48,7 +49,7 @@ Played at {{page.location}} on {{page.date}}
 |---|:---|:---|:---|:---|
 | **H Wallis** | 8 | 2 | 31 | 2 |
 | **C Hutton** | 8 | 2 | 33 | 4 |
-| **G Young** | 7 | 0 | 31 | 30|
+| **G Young** | 7 | 0 | 31 | 0 |
 | **S McCormack** | 3 | 0 | 27 | 0 |
 | **Henderson** | 7.3 | 0 | 27 | 2 |
 | **M Boteju** | 8 | 0 | 39 | 2 |

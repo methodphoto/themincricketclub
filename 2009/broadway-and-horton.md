@@ -6,6 +6,7 @@ location: The Pound
 date: 09/07/2009
 report: Broadway and Horton batted first and made 202 for 6 wkts. The Min replied with 183 all out
 result: Broadway and Horton won by 19 runs
+next: kilmington-and-stourton
 parent: 2009 Fixtures
 ---
 

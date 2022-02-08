@@ -6,6 +6,7 @@ location: Hampstead Heath Extension
 date: 06/09/2009
 report: Tower of Dudes batted first and made 179 all out. The Min replied with 180 for 1 wkt
 result: The Min won by 9 wkts
+next: reigate-pilgrims
 parent: 2009 Fixtures
 ---
 
@@ -90,7 +91,7 @@ Partnership of 179&#42; between R Earney and M Gupta
 | **Dutton** | 5 | 0 | 26 | 0 |
 | **Booth** | 3 | 0 | 29 | 0 |
 | **Breen** | 2 | 0 | 17 | 0 |
-| **C Horne** | 2.1 | 0 | 20 | 1 |
+| **C Horne** | 2.1 | 0 | 20 | 0 |
 
 ## Win/Loss Ratio
 

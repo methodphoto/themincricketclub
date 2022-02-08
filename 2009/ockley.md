@@ -76,19 +76,19 @@ M Gupta's 2nd 50. R Earney'5 5th Michelle
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Herbert** | c H Ingham | R Earney | 22 |
-| **B Relf** | st J Grant | R Earney | 24 |
-| **P Moir** | lbw | R Earney | 67 |
-| **F Belfrage** | not out |  | 62 |
-| **P Hogarth** | lbw | R Earney | 0 |
-| **A Gunner** | lbw | R Earney  |  |
-| **S Hopkins** | b | M Gupta |  |
-| **M Houghton** | b | P Wigg |  |
-| **J Whitehead** | lbw | R Beswick |  |
-| **J Bulbeck** | c J Grant | R Beswick |  |
+| **R Herbert** | c H Ingham | R Earney | 13 |
+| **B Relf** | st J Grant | R Earney | 7 |
+| **P Moir** | lbw | R Earney | 6 |
+| **F Belfrage** | not out |  | 25 |
+| **P Hogarth** | lbw | R Earney | 4 |
+| **A Gunner** | lbw | R Earney  | 0 |
+| **S Hopkins** | b | M Gupta | 15 |
+| **M Houghton** | b | P Wigg | 5 |
+| **J Whitehead** | lbw | R Beswick | 5 |
+| **J Bulbeck** | c J Grant | R Beswick | 0 |
 | **L Figg** | dnb |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (46 overs) | 195 for 3 wkts |
+| **Extras** | | (5b 6lb 0w 0nb 0p) | 11 |
+| **Total** | | (39 overs) | 195 for 3 wkts |
 
 ## Fall of Wickets
 

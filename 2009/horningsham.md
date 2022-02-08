@@ -6,6 +6,7 @@ location: Horningsham
 date: 11/07/2009
 report: The Min batted first and made 196 for 8 wkts in 40 overs. Horningsham replied with 140 for 9 wkts in 40 overs
 result: The Min won by 56 runs
+next: islip
 parent: 2009 Fixtures
 ---
 

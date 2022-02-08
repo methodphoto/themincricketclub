@@ -14,11 +14,9 @@ parent: 2000s
 | May |  |  |  |
 |:---|:---|:---|:---|
 | 10th | 14:30 | [Ockley](ockley) | [Away](https://goo.gl/maps/vmhvFhbrVZGrsXAAA) |
-| 17th | 14:00 | [Tappers](tappers) | [Home](https://goo.gl/maps/w2skeCXwzZTEh7e26) |
 
 | June |  |  |  |
 |:---|:---|:---|:---|
-| 7th | 14:00 | [Middleton Stoney](middleton-stoney) | [Away](https://goo.gl/maps/NKG1fHyPgmci55aGA) |
 | 14th | 14:00 | [Newdigate](newdigate) | [Away](https://goo.gl/maps/kQnkUfc3MdtqLyvd8) |
 | 21th | 14:00 | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 

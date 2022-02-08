@@ -6,6 +6,7 @@ location: Islip
 date: 12/07/2009
 report: The Min batted first and made 204 for 8 wkts in 40 overs. Islip replied with 71 all out in 29.3 overs
 result: The Min won by 133 runs
+next: elccc
 parent: 2009 Fixtures
 ---
 

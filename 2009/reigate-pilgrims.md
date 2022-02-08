@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 13/09/2009
 report: Reigate Pilgrims batted first and were all out for 104. The Min replied with 107 for 8 wkts
 result: The Min won by 2 wkts
+next: selling
 parent: 2009 Fixtures
 ---
 

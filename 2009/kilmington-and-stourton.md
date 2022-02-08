@@ -6,6 +6,7 @@ location: Stourhead
 date: 10/07/2009
 report: The Min batted first and made 215 all out in 33.5 overs. Kilmington and Stourton were 160 for 3 wkts after 19.5 overs when rain stopped play
 result: Match abandoned as a Draw
+next: horningsham
 parent: 2009 Fixtures
 ---
 
@@ -49,7 +50,7 @@ R Beswick's 22nd 50 and highest score
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **C Spencer** | 5 | 0 | 8 | 1 |
-| **J Cosby** | 5 | 0 | 36 | 32|
+| **J Cosby** | 5 | 0 | 36 | 2 |
 | **King** | 5 | 0 | 27 | 1 |
 | **Parish** | 5 | 0 | 36 | 2 |
 | **S Churchill** | 5 | 0 | 31 | 1 |

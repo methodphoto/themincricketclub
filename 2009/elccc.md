@@ -6,6 +6,7 @@ location: Victoria Park
 date: 16/08/2009
 report: ELCCC batted first and made 282 all out in 38.3 overs. The Min replied with 215 all out in 35.1 overs
 result: ELCCC won by 67 runs
+next: sb-exiles
 parent: 2009 Fixtures
 ---
 
