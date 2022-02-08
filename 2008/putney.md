@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Powell** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 22 |
-| **Total** | | (23 overs) | 158 for 5 wkts |
+| **Total** | | (20 overs) | 158 for 5 wkts |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Oliver** | run out |  | 0 |
 | **C Henson** | c W Calvert | R O'Hagan | 3 |
 | **Extras** | | (0b 0lb 0w 0nb) | 22 |
-| **Total** | | (46 overs) | 195 for 3 wkts |
+| **Total** | | (16.2 overs) | 117 all out |
 
 ## Fall of Wickets
 

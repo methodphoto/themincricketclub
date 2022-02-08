@@ -29,9 +29,9 @@ The second ever 4 win Tour
 | **A Slight** | b | J Oborne | 3 |
 | **R Kitson** | st D O'Connor | Simpson | 75 |
 | **P Beswick** | b | J Oborne | 1 |
-| **R Coyle** | c & b | Lock | 42 |
+| **R Coyle** | c & b | S Lock | 42 |
 | **R Beswick &#42;** | not out |  | 21 |
-| **P O'Mahony** | st D O'Connor | Lock | 1 |
+| **P O'Mahony** | st D O'Connor | S Lock | 1 |
 | **H Ingham** | not out |  | 3 |
 | **J Wright** | dnb |  |  |
 | **J Grant** | dnb |  |  |
@@ -51,10 +51,10 @@ The second ever 4 win Tour
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **J Oborne** | 7 | 2 | 35 | 3 |
-| **Lock** | 7 | 1 | 53 | 2 |
+| **S Lock** | 7 | 1 | 53 | 2 |
 | **Fricker** | 7 | 1 | 31 | 0 |
-| **White** | 7 | 1 | 47 | 0 |
-| **Gunning** | 2 | 0 | 16 | 0 |
+| **B White** | 7 | 1 | 47 | 0 |
+| **R Gunning** | 2 | 0 | 16 | 0 |
 | **Simpson** | 3 | 0 | 27 | 1 |
 
 ## {{page.title}} Innings
@@ -66,9 +66,9 @@ The second ever 4 win Tour
 | **J Oborne** | b | J Wright | 30 |
 | **Fricker** | b | H Ingham | 6 |
 | **G Oborne** | c P O'Mahony | A Slight | 14 |
-| **White** | b | A Slight  | 1 |
-| **Gunning** | b | H Ingham | 2 |
-| **Lock** | c P O'Mahony | A Slight | 3 |
+| **B White** | b | A Slight  | 1 |
+| **R Gunning** | b | H Ingham | 2 |
+| **S Lock** | c P O'Mahony | A Slight | 3 |
 | **Sam** | b | A Slight | 0 |
 | **Matt** | b | P Beswick | 2 |
 | **Finn** | not out |  | 0 |

@@ -4,8 +4,9 @@ title: Newdigate
 game: Newdigate v The Min
 location: The Brocus
 date: 14/06/2009
-report: The Min batted first and made 209 for 9 wkts. Newdigate replied with 
-result: 
+report: The Min batted first and made 209 for 9 wkts. Newdigate replied with 164 all out
+result: The Min won by 45 runs
+next: watton-at-stone
 parent: 2009 Fixtures
 ---
 
@@ -51,7 +52,7 @@ M Gupta's 3rd 50. E Garland's 6th Michelle and best bowling
 | **E Garland** | b | J Bowley | 23 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (8b 5lb 2w 1nb 0p) | 16 |
-| **Total** | | (42 overs) | 209 for 9 wkts |
+| **Total** | | (42 overs) | **209 for 9 wkts** |
 
 ## Fall of Wickets
 

@@ -6,6 +6,7 @@ location: The Meadow
 date: 21/06/2009
 report: Watton-at-Stone batted first and made 204 for 5 wkts. The Min replied with 205 for 8 wkts
 result: The Min won by 2 wkts
+next: stowting
 parent: 2009 Fixtures
 ---
 
@@ -76,15 +77,15 @@ Alas, one of the great face-offs in Min history was curtailed by Mo tamely offer
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | c | B Welch | 2 |
-| **J Grant &#8224;** | b | T Drake | 0 |
-| **R Beswick** | lbw | T Ellis | 20 |
+| **R Earney** | c | B Welch | 19 |
+| **J Grant &#8224;** | b | T Drake | 43 |
+| **R Beswick** | lbw | T Ellis | 7 |
 | **M Gupta** | c & b | R Clayton | 2 |
-| **D Wigg** | c | T Drake | 16 |
-| **S Ahmed** | not out |  | 25 |
-| **P Wigg** | c | R Burnell | 21 |
-| **I Marshall** | run out |  | 7 |
-| **R Wilkinson** | c (keeper) | R Burnell | 8 |
+| **D Wigg** | c | T Drake | 24 |
+| **S Ahmed** | not out |  | 42 |
+| **P Wigg** | c | R Burnell | 13 |
+| **I Miah** | run out |  | 3 |
+| **R Wilkinson** | c (keeper) | R Burnell | 0 |
 | **E Garland** | not out |  | 1 |
 | **J Wright &#42;** | dnb |  |  |
 | **Extras** | | (36b 4lb 5w 6nb 0p) | 51 |

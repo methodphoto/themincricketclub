@@ -188,20 +188,20 @@ parent: Results
 
 | 2009 |  |  |
 |:---|:---|:---|
-| {date} | [Britwell Salome](../2009/britwell-salome) | **Won** |
-| {date} | [Ockley](../2009/ockley) | Drawn |
-| {date} | [Newdigate](../2009/newdigate) | **Won** |
-| {date} | [Watton-at-Stone](../2009/watton-at-stone) | **Won** |
-| {date} | [Stowting](../2009/stowting) | Drawn |
-| {date} | [Broadway and Horton](../2009/broadway-and-horton) | Lost |
-| {date} | [Kilmington and Stourton](../2009/kilmington-and-stourton) | Drawn |
-| {date} | [Horningsham](../2009/horningsham) | **Won** |
-| {date} | [Islip](../2009/islip) | **Won** |
-| {date} | [ELCCCC](../2009/elccc) | Lost |
-| {date} | [SB Exiles](../2009/sb-exiles) | Lost |
-| {date} | [Tower of Dudes](../2009/tower-of-dudes) | **Won** |
-| {date} | [Reigate Pilgrims](../2009/reigate-pilgrims) | **Won** |
-| {date} | [Selling](../2009/selling) | Lost |
+| 25/04/2005 | [Britwell Salome](../2009/britwell-salome) | **Won** |
+| 12/05/1991 | [Ockley](../2009/ockley) | Drawn |
+| 14/06/2009 | [Newdigate](../2009/newdigate) | **Won** |
+| 21/06/2009 | [Watton-at-Stone](../2009/watton-at-stone) | **Won** |
+| 05/07/2009 | [Stowting](../2009/stowting) | Drawn |
+| 09/07/2009 | [Broadway and Horton](../2009/broadway-and-horton) | Lost |
+| 10/07/2009 | [Kilmington and Stourton](../2009/kilmington-and-stourton) | Drawn |
+| 11/07/2009 | [Horningsham](../2009/horningsham) | **Won** |
+| 12/07/2009 | [Islip](../2009/islip) | **Won** |
+| 16/08/2009 | [ELCCC](../2009/elccc) | Lost |
+| 23/08/2009 | [SB Exiles](../2009/sb-exiles) | Lost |
+| 06/09/2009 | [Tower of Dudes](../2009/tower-of-dudes) | **Won** |
+| 13/09/2009 | [Reigate Pilgrims](../2009/reigate-pilgrims) | **Won** |
+| 20/09/2009} | [Selling](../2009/selling) | Lost |
 
 | 2008 |  |  |
 |:---|:---|:---|

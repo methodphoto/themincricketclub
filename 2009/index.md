@@ -31,12 +31,12 @@ parent: 2000s
 | 9th | 14:30 | [Broadway and Horton](broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
 | 10th | 14:00 | [Kilmington and Stourton](kilmington-and-stourton) | [BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 11th | 13:00 | [Horningsham](horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
-| 12th | 14:00 | [Islip](islip) | [NN14 3LH](https://goo.gl/maps/ceJApjnpXCpYJQC97) |
+| 12th | 14:00 | [Islip](islip) | [Away](https://goo.gl/maps/8ZjLvDXiWFpMG5yG8) |
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 16th | 14:00 | [ELCCC](elccc) | [Away]() |
-| 23rd | 14:00 | [SB Exiles](sb-exiles) | [Away]() |
+| 16th | 14:00 | [ELCCC](elccc) | [Away](https://goo.gl/maps/BFLUXGFwEYSkE69y8) |
+| 23rd | 14:00 | [SB Exiles](sb-exiles) | [Away](https://goo.gl/maps/LsVjW3EdzWvbPAWN8) |
 
 | September |  |  |  |
 |:---|:---|:---|:---|

@@ -48,7 +48,7 @@ R Earney's 40th 50
 | **D Wigg** | not out |  | 34 |
 | **R O'Hagan** | b | N Humphries | 0 |
 | **P Wigg** | not out |  | 7 |
-| **I Marshall** | dnb |  |  |
+| **I Miah** | dnb |  |  |
 | **E Garland** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (5b 6lb 6w 0nb 0p) | 17 |
@@ -83,7 +83,7 @@ R Earney's 40th 50
 | **Penny** | c S Barrowcliff | R O'Hagan | 41 |
 | **C Pullen** | c & b | I Miah | 7 |
 | **N Humphries** | b | M Gupta | 46 |
-| **N Lawrence** | db | M Gupta | 1 |
+| **N Lawrence** | b | M Gupta | 1 |
 | **Ewan** | b | P Wigg | 1 |
 | **J Morgan** | not out |  | 2 |
 | **S Chittenden** | b | E Garland | 0 |
@@ -104,7 +104,7 @@ R Earney's 40th 50
 | **P Wigg** | 10 | 0 | 29 | 3 |
 | **M Gupta** | 10 | 1 | 21 | 2 |
 | **J Wright** | 9 | 1 | 36 | 0 |
-| **I Marshall** | 9 | 0 | 44 | 2 |
+| **I Miah** | 9 | 0 | 44 | 2 |
 | **E Garland** | 4 | 1 | 18 | 1 |
 | **R O'Hagan** | 3 | 0 | 21 | 1 |
 
