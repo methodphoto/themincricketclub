@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **B Sweeting** | dnb |  |  |
 | **W Hinkley** | dnb |  |  |
 | **Extras** | | (3b 2lb 3w 5nb 0p) | 13 |
-| **Total** | | (40 overs) | **283 for 6 wkts |
-**
+| **Total** | | (40 overs) | **283 for 6 wkts** |
+
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |

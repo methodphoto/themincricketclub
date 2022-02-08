@@ -140,7 +140,7 @@ parent: Results
 | 2012 |  |  |
 |:---|:---|:---|
 | {date} | [Middleton Stoney](../2012/middleton-stoney) | **Won** |
-| {date} | [ELCCCC](../2012/elccc) | Lost |
+| {date} | [ELCCC](../2012/elccc) | Lost |
 | {date} | [Newington](../2012/newington) | **Won** |
 | {date} | [Horningsham](../2012/horningsham) | Lost |
 | {date} | [Newdigate](../2012/newdigate) | Lost |
@@ -155,7 +155,7 @@ parent: Results
 | {date} | [Middleton Stoney](../2011/middleton-stoney) | Drawn |
 | {date} | [Britwell Salome](../2011/britwell-salome) | **Won** |
 | {date} | [Newington](../2011/newington) | Lost |
-| {date} | [ELCCCC](../2011/elccc) | Lost |
+| {date} | [ELCCC](../2011/elccc) | Lost |
 | {date} | [Frensham](../2011/frensham) | Drawn |
 | {date} | [Watton-at-Stone](../2011/watton-at-stone) | **Won** |
 | {date} | [Stowting](../2011/stowting) | **Won** |
@@ -170,9 +170,9 @@ parent: Results
 
 | 2010 |  |  |
 |:---|:---|:---|
-| {date} | [Britwell Salome](../2010/britwell-salome) | **Won** |
+| 24/04/2010 | [Britwell Salome](../2010/britwell-salome) | **Won** |
 | {date} | [Trafford Croydon](../2010/trafford-croydon) | **Won** |
-| {date} | [ELCCCC](../2010/elccc) | **Won** |
+| {date} | [ELCCC](../2010/elccc) | **Won** |
 | {date} | [Middleton Stoney](../2010/middleton-stoney) | Drawn |
 | {date} | [Newdigate](../2010/newdigate) | **Won** |
 | {date} | [Watton-at-Stone](../2010/watton-at-stone) | Lost |
