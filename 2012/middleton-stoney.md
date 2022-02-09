@@ -79,7 +79,7 @@ Joint Min of the Match: Goffy and Earn. Honourable mention for Slighty who thoug
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **M Goff** | c Selway | Williams | 44 |
+| **M Goff** | c O Selway | Williams | 44 |
 | **R Earney** | not out |  | 65 |
 | **J Moorman** | not out |  |  |
 | **W Calvert** | dnb |  |  |

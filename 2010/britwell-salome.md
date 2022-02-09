@@ -2,10 +2,11 @@
 layout: default
 title: Britwell Salome
 game: Britwell Salome v The Min
-location: 
-date: 
-report: 
-result: 
+location: Britwell Salome CC
+date: 24/04/2010
+report: Britwell Salome batted first and made 134 all out. The Min replied with 137 for 4 wkts
+result: The Min won by 6 wkts
+next: trafford-croydon
 parent: 2010 Fixtures
 ---
 
@@ -17,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-Match Report
+#### Match Report
 
 *from our Cricket Correspondent*
 
@@ -36,3 +37,84 @@ It is always morale-boosting for a batting side to be able to include a man call
 An excellent victory was followed by something very strange: a curry in Watlington's House of Spice - without the ordering of a cucumber raita. What next, West Ham survive in the Premier League and Gordo triumphs at the polls?
 
 One seems a little more likely than the other…
+
+
+## {{page.title}} Innings
+
+| Batsman | Dismissal |  | Runs |
+|:---|:---|---|---:|
+| **D Ewan** | b | R Beswick | 9 |
+| **C Pullen** | b | P Wigg | 4 |
+| **J Smith** | c S Barrowcliff | R Beswick | 5 |
+| **D Bloomfield** | b | R Beswick | 4 |
+| **Treacher** | b | R Beswick | 0 |
+| **Dennis** | b | J Wright | 1 |
+| **P Lawrence** | b | J Wright | 17 |
+| **N Humphries** | b | J Wright | 0 |
+| **Penny** | run out |  | 50 |
+| **A Worman** | b | E Garland | 13 |
+| **N Lawrence** | not out |  | 8 |
+| **Extras** | | (10b 4lb 9w 0nb 0p) | 23 |
+| **Total** | | (33.4 overs) | **195 for 3 wkts** |
+
+## Fall of Wickets
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Score** | 15 | 15 | 21 | 21 | 31 | 50 | 50 | 70 | 118 | 134 |
+| **Batsman** | 2 | 1 | 4 | 5 | 3 | 6 | 8 | 7 | 9 | 10 |
+
+## Bowling
+
+| | O | M | R | W |
+|---|:---|:---|:---|:---|
+| **P Wigg** | 8 | 1 | 23 | 1 |
+| **R Beswick** | 6 | 3 | 9 | 4 |
+| **J Wright** | 8 | 2 | 26 | 3 |
+| **M Gupta** | 7 | 2 | 32 | 0 |
+| **E Garland** | 4.4 | 0 | 28 | 10 |
+
+## The Min Innings
+
+| Batsman | Dismissal |  | Runs |
+|:---|:---|---|---:|
+| **R Earney** | b | N Lawrence | 36 |
+| **S Barrowcliff** | b | P Lawrence | 5 |
+| **T Hammond** | c A Worman | N Humphries | 41 |
+| **S Hornsby** | c N Humphries | Treacher | 34 |
+| **W Calvert** | not out |  | 5 |
+| **M Gupta** | not out |  | 10 |
+| **P Wigg** | dnb |  |  |
+| **R Beswick** | dnb |  |  |
+| **E Garland** | dnb |  |  |
+| **J Wright** | dnb |  |  |
+|  |  |  |  |
+| **Extras** | | (3b 0lb 2w 1nb 0p) | 6 |
+| **Total** | | (26.4 overs) | **137 for 4 wkts** |
+
+## Fall of Wickets
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Score** | 12 | 84 | 122 |  123|  |  |  |  |  |  |
+| **Batsman** | 2 | 3 | 4 | 1 |  |  |  |  |  |  |
+
+## Bowling
+
+| | O | M | R | W |
+|---|:---|:---|:---|:---|
+| **Dennis** | 5 | 0 | 17 | 0 |
+| **P Lawrence** | 6 | 2 | 25 | 1 |
+| **N Humphries** | 5 | 1 | 21 | 1 |
+| **A Worman** | 3 | 0 | 18 | 0 |
+| **N Lawrence** | 4 | 1 | 16 | 1 |
+| **Penny** | 5 | 0 | 31 | 0 |
+| **Treacher** | 1.4 | 0 | 6 | 1 |
+
+## Win/Loss Ratio
+
+| Won | Lost | Drawn | Tied |
+|:---|:---|:---|---:|
+| 1 | 0 | 0 | 0 |
+
+[Next game:]({{page.next}})
