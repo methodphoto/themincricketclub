@@ -183,8 +183,8 @@ parent: Results
 | 11/07/2010 | [Islip](../2010/islip) | Lost |
 | 22/08/2010 | [Hampton Wick](../2010/hampton-wick) | Lost |
 | 05/09/2010 | [SB Exiles](../2010/sb-exiles) | Drawn |
-| {date} | [Reigate Pilgrims](../2010/reigate-pilgrims) | **Won** |
-| {date} | [Spencer](../2010/spencer) | Lost |
+| 12/09/2010 | [Reigate Pilgrims](../2010/reigate-pilgrims) | **Won** |
+| 26/09/2010 | [Spencer](../2010/spencer) | Lost |
 
 | 2009 |  |  |
 |:---|:---|:---|
