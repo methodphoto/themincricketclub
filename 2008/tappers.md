@@ -70,7 +70,7 @@ M Gupta's 1st 50
 | **R Green** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (3b 1lb 2w 0nb 0p) | 6 |
-| **Total** | | (32.5 overs) | 118 all out |
+| **Total** | | (32.5 overs) | 118 for 6 wkts |
 
 ## Fall of Wickets
 

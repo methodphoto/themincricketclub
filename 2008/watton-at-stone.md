@@ -26,7 +26,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Earney** | run out |  | 8 |
 | **M Gupta** | c | C Harvey | 21 |
 | **R Beswick** | c | R Clayton  | 31 |
-| **T Rutherford** | c P Wigg | C Harvey | 38 |
+| **T Rutherford** | c (keeper) | C Harvey | 38 |
 | **S Ahmed** | st | T Ellis | 36 |
 | **C Horne** | st | C Harvey | 1 |
 | **A Beswick** | st | C Harvey | 4 |
