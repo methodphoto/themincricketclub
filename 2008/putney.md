@@ -59,12 +59,12 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **D Hadaway** | c & b | G Powell | 22 |
-| **O Rose** | b | M Gupta | 24 |
-| **S Mallick** | lbw | P Wigg | 67 |
-| **J Peters** | c & b | M Gupta | 62 |
+| **D Hadaway** | c & b | G Powell | 0 |
+| **O Rose** | b | M Gupta | 34 |
+| **S Mallick** | lbw | P Wigg | 14 |
+| **J Peters** | c & b | M Gupta | 12 |
 | **S Iqbal** | c A Slight | J Wright | 0 |
-| **B Brook** | st J Grant | J Wright  |  |
+| **B Brook** | st J Grant | J Wright  | 11 |
 | **R Leighton** | not out |  | 31 |
 | **B Perinparaja** | b | J Wright | 4 |
 | **S Field** | run out |  | 1 |
