@@ -72,7 +72,7 @@ One seems a little more likely than the other…
 | **R Beswick** | 6 | 3 | 9 | 4 |
 | **J Wright** | 8 | 2 | 26 | 3 |
 | **M Gupta** | 7 | 2 | 32 | 0 |
-| **E Garland** | 4.4 | 0 | 28 | 10 |
+| **E Garland** | 4.4 | 0 | 28 | 1 |
 
 ## The Min Innings
 
@@ -96,7 +96,7 @@ One seems a little more likely than the other…
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 12 | 84 | 122 |  123|  |  |  |  |  |  |
+| **Score** | 12 | 84 | 122 | 123 |  |  |  |  |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 |  |  |  |  |  |  |
 
 ## Bowling

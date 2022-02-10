@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Nicholls** | not out |  | 0 |
 | **Charlton** | b | H Ingham | 0 |
 | **Extras** | | (1b 3lb 11w 5nb 0p) | 20 |
-| **Total** | | (37.2 overs) | **162 all out** | 14
+| **Total** | | (37.2 overs) | **162 all out** |
 
 ## Fall of Wickets
 

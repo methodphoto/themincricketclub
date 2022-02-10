@@ -29,7 +29,7 @@ parent: 2010s
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
 | 8th | 14:30 | [Broadway and Horton](broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
-| 9th | 14:00 | [Kilmington and Stourton](kilmington-and-tourton) | [Away](https://goo.gl/maps/6q53XChZh9A2) |
+| 9th | 14:00 | [Kilmington and Stourton](kilmington-and-stourton) | [Away](https://goo.gl/maps/6q53XChZh9A2) |
 | 10th | 13:00 | [Horningsham](horningsham) | [Away](https://goo.gl/maps/zQYhDWCLU1dZieXp7) |
 | 11th | 14:30 | [Islip](islip) | [Away](https://goo.gl/maps/8ZjLvDXiWFpMG5yG8) |
 

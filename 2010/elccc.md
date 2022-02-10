@@ -63,7 +63,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | lbw | M Elwin | 8 |
 | **T Carden** | b | S Habib | 21 |
 | **S Hornsby** | b | G Weekes | 8 |
-| **Ijaz** | b | Juber | 15 |
+| **I Manjra** | b | Juber | 15 |
 | **T Rutherford** | not out |  | 6 |
 | **M Gupta** | not out |  | 10 |
 | **R Beswick** | dnb |  |  |

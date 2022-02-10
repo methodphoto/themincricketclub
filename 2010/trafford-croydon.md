@@ -50,7 +50,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Gupta** | 5 | 3 | 2 | 1 |
 | **P Wigg** | 6 | 1 | 15 | 1 |
 | **I Marshall** | 6.5 | 1 | 23 | 1 |
-| **J Wright** | 6 | 1 | 30 | 02|
+| **J Wright** | 6 | 1 | 30 | 2 |
 | **R Beswick** | 4 | 3 | 8 | 3 |
 | **T Rutherford** | 5 | 1 | 12 | 1 |
 | **T Carden** | 4 | 0 | 18 | 0 |

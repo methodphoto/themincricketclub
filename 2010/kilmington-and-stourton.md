@@ -29,7 +29,7 @@ Played at {{page.location}} on {{page.date}}
 | **Ross** | c R Beswick | E Garland | 12 |
 | **Hills** | c R Coyle | E Garland | 33 |
 | **Knapp** | c J Wright | E Garland | 22 |
-| **T Spencer** | c T Hammond | E Garland |  5|
+| **T Spencer** | c T Hammond | E Garland | 5 |
 | **Chant** | st J Grant | R Earney | 17 |
 | **S Snook** | b | T Rutherford | 10 |
 | **C Spencer** | not out |   | 0 |

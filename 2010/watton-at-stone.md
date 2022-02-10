@@ -25,7 +25,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Earney** | b | Burnell | 9 |
 | **T Rutherford** | b | Sunich | 2 |
 | **M Gupta** | c | H Dalrymple | 24 |
-| **A Slight** | c Burnell | R Clayton |72 |
+| **A Slight** | c Burnell | R Clayton | 72 |
 | **W Calvert &#8224;** | c | Sunich | 49 |
 | **R Beswick &#42;** | c O Dalrymple | Burnell | 36 |
 | **Harrison** | b | R Clayton | 38 |
