@@ -12,6 +12,8 @@ parent: 1982 Fixtures
 
 # {{page.game}}
 
+{{site.data.date}}
+
 Played at {{page.location}} on {{page.date}}
 
 {{page.report}}
