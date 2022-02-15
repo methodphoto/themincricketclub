@@ -46,7 +46,7 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **J Appleton** | 6 | 2 | 15 | 10 |
+| **J Appleton** | 6 | 2 | 15 | 1 |
 | **JK** | 5.4 | 4 | 8 | 2 |
 | **Mishra** | 8 | 1 | 26 | 3 |
 | **L Price** | 8 | 4 | 45 | 4 |
