@@ -55,7 +55,7 @@ One seems a little more likely than the other…
 | **A Worman** | b | E Garland | 13 |
 | **N Lawrence** | not out |  | 8 |
 | **Extras** | | (10b 4lb 9w 0nb 0p) | 23 |
-| **Total** | | (33.4 overs) | **195 for 3 wkts** |
+| **Total** | | (33.4 overs) | **134 all out** |
 
 ## Fall of Wickets
 
