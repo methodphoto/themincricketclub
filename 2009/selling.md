@@ -4,7 +4,7 @@ title: Selling
 game: Selling v The Min
 location: Cadman's Meadow
 date: 20/09/2009
-report:  Selling batted first and made 283 for 6 wkts. The Min replied with 277 for 8 wkts
+report:  Selling batted first and made 283 for 6 wkts in 40 overs. The Min replied with 277 for 8 wkts in 40 overs
 result: Selling won by 6 runs
 parent: 2009 Fixtures
 ---
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright &#42;t** | not out |  | 0 |
 |  |  |  |  |
 | **Extras** | | (4b 4lb 17w 3nb 0p) | 28 |
-| **Total** | | (38 overs) | **277 for 8 wkts** |
+| **Total** | | (40 overs) | **277 for 8 wkts** |
 
 ## Fall of Wickets
 

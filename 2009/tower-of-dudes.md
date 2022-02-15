@@ -32,7 +32,7 @@ Partnership of 179&#42; between R Earney and M Gupta
 | **Dutton** | lbw | E Garland | 45 |
 | **Key** | b | J Wright | 6 |
 | **Ward** | lbw | E Garland | 0 |
-| **Williams** | not out | 13 |  |
+| **Williams** | not out |  | 13 |
 | **Breen** | c M Gupta | J Wright | 0 |
 | **Paguero** | c & b | E Garland | 11 |
 | **Penn** | run out |  | 3 |

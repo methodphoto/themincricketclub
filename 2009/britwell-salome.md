@@ -4,8 +4,8 @@ title: Britwell Salome
 game: Britwell Salome v The Min
 location: Britwell Salome
 date: 25/04/2005
-report: The Min batted first and made 235 for 6 wkts. Britwell Salome replied with 189 for 3 wkts
-result: Match Drawn
+report: The Min batted first and made 235 for 6 wkts. Britwell Salome replied with 189 all out
+result: The Min won by 46 runs
 next: ockley
 parent: 2009 Fixtures
 ---
@@ -28,7 +28,7 @@ With his colleagues' strict instructions (who was that fool who said he wanted 1
 
 There then followed two and a half hours of the kind of pleasure that Min supporters rarely enjoy. Earn thumped and Barrow stroked their way to a 50 partnership. When Barrow was out Mo (celebrating the arrival of Mikhail by playing 4 games in 7 days) played excellently for 40. Earn reached 50 and then Will and the Skip thrashed around merrily before the entrance of exciting new signing David Wigg. It would be fair to say his abilities had not been over-hyped by his older brother. 'He might make 10'. Wigg,D, is definitely the artist to Wigg, P's craftsman (meow, apologies). Looking as if he might have stepped out of a sepia photograph of the Kent team c 1910 he hit a very elegant 34*. The end result was a sturdy score of 235.
 
-When Britwell batted the Wiggs were again making headlines as the home side were quickly pegged back by mean and hostile bowling from Patrick and Mo. It took a magnificent catch by Mo at deep square leg off Iqbal to effectively end the Britwell challenge, though some hefty late-order tonking sent a flutter through the typically complacent Min ranks. Mention should be made of the five catches  dropped, with the highlight undoubtedly being the skip's, even granted that it came like a tracer bullet out of the sun; he must be highly commended for getting a hand on it.
+When Britwell batted the Wiggs were again making headlines as the home side were quickly pegged back by mean and hostile bowling from Patrick and Mo. It took a magnificent catch by Mo at deep square leg off Iqbal to effectively end the Britwell challenge, though some hefty late-order tonking sent a flutter through the typically complacent Min ranks. Mention should be made of the five catches dropped, with the highlight undoubtedly being the skip's, even granted that it came like a tracer bullet out of the sun; he must be highly commended for getting a hand on it.
 
 A very satisfactory day ended, some might say unsurprisingly, with an uneaten cucumber raita.
 
@@ -88,7 +88,7 @@ R Earney's 40th 50
 | **J Morgan** | not out |  | 2 |
 | **S Chittenden** | b | E Garland | 0 |
 | **Extras** | | (10b 1lb 8w 2nb 0p) | 21 |
-| **Total** | | (45 overs) | **189 all out** |
+| **Total** | | (45 overs) | **189 all out** | 19
 
 ## Fall of Wickets
 
