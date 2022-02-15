@@ -12,7 +12,7 @@ parent: 2010s
 | 22nd | 14:30 | [Middleton Stoney](middleton-stoney) | [Away](https://goo.gl/maps/NKG1fHyPgmci55aGA) |
 | 29th | 14:00 | <del>Britwell Salome</del> | [Away]() |
 
-Sunday 29th April. 30th Anniversary of The Min
+**Sunday 29th April. 30th Anniversary of The Min**
 
 | May |  |  |  |
 |:---|:---|:---|:---|

@@ -59,7 +59,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Earney** | c S Burgess | G Mitchell | 46 |
 | **T Carden** | b | C Wise | 0 |
 | **J Grant &#8224;** | c D Steele | G Mitchell | 17 |
-| **S Hornsby** | c S Burgess | S Arnold | 52 |
+| **S Hornsby** | c S Burgess | S Arnold | 5 |
 | **W Calvert** | lbw | G Mitchell | 15 |
 | **R Beswick &#42;** | lbw | G Mitchell | 0 |
 | **M Gupta** | c M Wood | S Arnold | 3 |
