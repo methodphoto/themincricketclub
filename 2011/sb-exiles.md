@@ -5,7 +5,8 @@ game: SB Exiles v The Min
 location: 
 date: 
 report: 
-result: 
+result:  
+next: reigate-pilgrims
 parent: 2011 Fixtures
 ---
 

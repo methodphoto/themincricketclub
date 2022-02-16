@@ -5,7 +5,8 @@ game: Stowting v The Min
 location: Dawes Field
 date: 
 report: 
-result: 
+result:  
+next: broadway-and-horton
 parent: 2011 Fixtures
 ---
 

@@ -5,7 +5,8 @@ game: Kilmington and Stourton v The Min
 location: Stourhead
 date: 
 report: 
-result: 
+result:  
+next: horningsham
 parent: 2011 Fixtures
 ---
 

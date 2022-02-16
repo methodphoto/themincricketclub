@@ -5,7 +5,8 @@ game: Clapton & Oval v The Min
 location: 
 date: 
 report: 
-result: 
+result:  
+next: sb-exiles
 parent: 2011 Fixtures
 ---
 

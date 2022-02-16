@@ -5,7 +5,8 @@ game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 
 report: 
-result: 
+result:  
+next: selling
 parent: 2011 Fixtures
 ---
 

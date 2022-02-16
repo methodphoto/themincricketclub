@@ -5,7 +5,7 @@ game: Horningsham v The Min
 location: 
 date: 
 report: 
-result: 
+result: sac-xi
 parent: 2011 Fixtures
 ---
 

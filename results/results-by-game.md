@@ -152,13 +152,13 @@ parent: Results
 
 | 2011 |  |  |
 |:---|:---|:---|
-| {date} | [Middleton Stoney](../2011/middleton-stoney) | Drawn |
-| {date} | [Britwell Salome](../2011/britwell-salome) | **Won** |
-| {date} | [Newington](../2011/newington) | Lost |
-| {date} | [ELCCC](../2011/elccc) | Lost |
-| {date} | [Frensham](../2011/frensham) | Drawn |
-| {date} | [Watton-at-Stone](../2011/watton-at-stone) | **Won** |
-| {date} | [Stowting](../2011/stowting) | **Won** |
+| 17/04/2011 | [Middleton Stoney](../2011/middleton-stoney) | Drawn |
+| 24/04/2011 | [Britwell Salome](../2011/britwell-salome) | **Won** |
+| 15/05/2011 | [Newington](../2011/newington) | Lost |
+| 22/05/2011 | [ELCCC](../2011/elccc) | Lost |
+| 05/06/2011 | [Frensham](../2011/frensham) | Drawn |
+| 19/06/2011 | [Watton-at-Stone](../2011/watton-at-stone) | **Won** |
+| 03/07/2011 | [Stowting](../2011/stowting) | Lost |
 | {date} | [Broadway and Horton](../2011/broadway-and-horton) | **Won** |
 | {date} | [Kilmington and Stourton](../2011/kilmington-and-stourton) | Lost |
 | {date} | [Horningsham](../2011/horningsham) | **Won** |

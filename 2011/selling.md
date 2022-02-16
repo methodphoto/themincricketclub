@@ -16,3 +16,7 @@ Played at {{page.location}} on {{page.date}}
 {{page.report}}
 
 **Result:** {{page.result}}
+
+
+
+[Next season](../2012)

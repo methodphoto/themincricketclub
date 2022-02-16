@@ -5,7 +5,7 @@ game: SAC XI v The Min
 location: 
 date: 
 report: 
-result: 
+result: clapton-and-oval
 parent: 2011 Fixtures
 ---
 
