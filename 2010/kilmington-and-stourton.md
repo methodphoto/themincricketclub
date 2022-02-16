@@ -63,7 +63,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | c | S Snook | 0 |
 | **A Slight** | b | Chant | 5 |
 | **R Coyle** | c R Rose | Chant | 11 |
-| **T Hammond** | lbw | J Latham | 48 |
+| **T Hammond** | lbw | J Lapham | 48 |
 | **W Calvert** | c | C Spencer | 4 |
 | **J Grant &#8224;** | c | C Spencer | 0 |
 | **E Garland** | c | J Lapham | 6 |
