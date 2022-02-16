@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Weekes** | b | Ingrall | 0 |
 | **H Ingham** | b | Ingrall | 0 |
 | **S Sorsa** | b | Ingrall | 2 |
-| **J Wright** | not out |  |  | 0 |
+| **J Wright** | not out |  | 0  |
 | **Extras** | | (5b 1lb 7w 0nb 0p) | 13 |
 | **Total** | | (37.1 overs) | **139 all out** |
 
