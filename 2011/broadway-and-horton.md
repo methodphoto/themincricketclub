@@ -4,7 +4,7 @@ title: Broadway and Horton
 game: Broadway and Horton v The Min
 location: The Pound
 date: 07/07/2011
-report: The Min batted first and made 187 all out in 39.4 overs. Broadway and Horton replied with 156 all out
+report: The Min batted first and made 187 all out in 39.4 overs. Broadway and Horton replied with 156 all out in 35 overs
 result:  The Min won by 31 runs
 next: kilmington-and-stourton
 parent: 2011 Fixtures
@@ -21,7 +21,7 @@ Played at {{page.location}} on {{page.date}}
 R Beswick's 24th 50<br />
 Partnership of 107 between R Beswick and A Slight
 
-## {{page.title}} Innings
+## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -58,23 +58,23 @@ Partnership of 107 between R Beswick and A Slight
 | **M Grabham** | 4 | 0 | 39 | 0 |
 | **R Young** | 5 | 0 | 28 | 1 |
 
-## The Min Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Earney** | b | Yerrell | 2 |
-| **Grant** | b | Yerrell | 0 |
-| **Marshall** | b | Chambers | 20 |
-| **Calvert** | b | Yerrell | 2 |
-| **Howcroft** | b | Chambers | 16 |
-| **MacFarlane** | b | Scanlon | 25 |
-| **Beswick** | b | Scanlon | 21 |
-| **Gardiner** | b | Chambers | 7 |
-| **Fielding** | b | Scanlon | 8 |
-| **Young** | b | Scanlon | 2 |
-| **Wright** | not out |  | 0 |
-| **Extras** | | (9b 2lb 4w 0nb) | 15 |
-| **Total** | | (33.5 overs) | 118 all out |
+| **T Baigent** | b | P O'Mahony | 20 |
+| **C MacHattie** | c R Beswick | P Wigg | 3 |
+| **D Cook** | st J Grant | J Wright | 24 |
+| **J Jones** | st J Grant | E Garland | 26 |
+| **T Hill** | c T Rutherford | J Wright | 32 |
+| **R Young** | c A Slight | J Wright | 22 |
+| **J Entwhistle** | b | R Earney | 0 |
+| **B Bentley** | not out |  | 10 |
+| **P Weaver** | b | R Beswick | 4 |
+| **M Grabham** | b | P Wigg | 6 |
+| **J Mariner** | b | P Wigg | 0 |
+| **Extras** | | (7b 0lb 1w 1nb 0p) | 9 |
+| **Total** | | (35 overs) | **156 all out** |
 
 ## Fall of Wickets
 
@@ -87,16 +87,17 @@ Partnership of 107 between R Beswick and A Slight
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **P Wigg** | 8 | 2 | 22 | 3 |
+| **P O'Mahony** | 6 | 1 | 31 | 1 |
+| **E Garland** | 6 | 1 | 43 | 1 |
+| **J Wright** | 8 | 1 | 34 | 3 |
+| **R Earney** | 4 | 0 | 20 | 1 |
+| **R Beswick** | 3 | 2 | 1 | 1 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 2 | 3 | 2 | 0 |
+| 3 | 3 | 2 | 0 |
 
 [Next game:]({{page.next}})

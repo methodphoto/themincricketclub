@@ -159,9 +159,9 @@ parent: Results
 | 05/06/2011 | [Frensham](../2011/frensham) | Drawn |
 | 19/06/2011 | [Watton-at-Stone](../2011/watton-at-stone) | **Won** |
 | 03/07/2011 | [Stowting](../2011/stowting) | Lost |
-| {date} | [Broadway and Horton](../2011/broadway-and-horton) | **Won** |
-| {date} | [Kilmington and Stourton](../2011/kilmington-and-stourton) | Lost |
-| {date} | [Horningsham](../2011/horningsham) | **Won** |
+| 07/07/2011 | [Broadway and Horton](../2011/broadway-and-horton) | **Won** |
+| 08/07/2011 | [Kilmington and Stourton](../2011/kilmington-and-stourton) | Lost |
+| 09/07/2011 | [Horningsham](../2011/horningsham) | **Won** |
 | {date} | [SAC XI](../2011/sac-xi) | **Won** |
 | {date} | [Clapton & Oval](../2011/clapton-and-oval) | Lost |
 | {date} | [SB Exiles](../2011/sb-exiles) | **Won** |
