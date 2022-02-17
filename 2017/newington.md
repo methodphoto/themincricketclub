@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **Score** | 13 | 63 | 79 | 88 | 107 | 111 | 117 | 129 | 103 |  |
 | **Batsman** | 1 | 2 | 4 | 5 | 6 | 7 | 8 | 9 | 3 |  |
 
-## Newington Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

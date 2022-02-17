@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Damaze** | 2 | 0 | 6 | 1 |
 | **I Matvad** | 3 3 | 0 | 15 | 1 |
 
-## Selling Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

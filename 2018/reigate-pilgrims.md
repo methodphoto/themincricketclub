@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Hoy** | 3 | 0 | 17 | 0 |
 | **A Periasoamy** | 2 | 0 | 20 | 0 |
 
-## Reigate Pilgrims Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

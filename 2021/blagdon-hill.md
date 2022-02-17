@@ -55,7 +55,7 @@ J Carroll, 2nd Min 50 and a hattrick (over two overs)
 | **R Knight** | 6 | 0 | 33 | 3 |
 | **A Hannam** | 8 | 0 | 57 | 0 |
 
-## Blagdon Hill Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

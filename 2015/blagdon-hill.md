@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Tuffill** | 8 | 1 | 28 | 3 |
 | **A Free** | 4 | 0 | 13 | 1 |
 
-## Ockley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

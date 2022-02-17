@@ -19,7 +19,7 @@ Played at {{page.location}} on {{page.date}}
 
 R Simpson 100 off 46 balls
 
-## Middleton Stoney Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

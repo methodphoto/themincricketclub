@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Batey** | 3 | 0 | 43 | 0 |
 | **G Mitchell** | 2 | 0 | 5 | 2 |
 
-## Reigate Pilgrims nnings
+## {{page.title}} nnings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

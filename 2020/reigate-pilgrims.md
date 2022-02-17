@@ -57,7 +57,7 @@ M Wright batted, Charlotte Wright and Harry Earney fielded
 | **M Nathavani** | 7 | 0 | 30 | 1 |
 | **L Marsh** | 1.1 | 0 | 8 | 0 |
 
-## Reigate Pilgrims Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

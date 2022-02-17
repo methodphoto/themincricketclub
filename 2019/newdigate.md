@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Kehl** | 4.2 | 0 | 16 | 5 |
 | **J Bowley** | 4 | 0 | 8 | 0 | 
 
-## Newdigate Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

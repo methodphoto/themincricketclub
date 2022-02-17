@@ -57,7 +57,7 @@ R Damaze 50 off 35 balls
 | **Jory** | 1 | 0 | 5 | 0 |
 | **Edwards** | 1.2 | 0 | 23 | 1 |
 
-## Wandering Maniacs Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

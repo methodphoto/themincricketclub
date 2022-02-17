@@ -56,7 +56,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Daley** | 3 | 0 | 15 | 1 |
 | **K Peet**| 1 | 0 | 3 | 0 |
 
-## Cerne Valley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

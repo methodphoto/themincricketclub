@@ -19,7 +19,7 @@ Played at {{page.location}} on {{page.date}}
 
 E Garland 5 wkts
 
-## Broadway and Hortonl Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

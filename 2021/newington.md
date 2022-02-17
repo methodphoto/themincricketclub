@@ -19,7 +19,7 @@ Played at {{page.location}} on {{page.date}}
 
 Jim Carroll, first 50 and highest score for The Min
 
-## Newington Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

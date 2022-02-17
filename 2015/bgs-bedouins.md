@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bedouins
+title: BGS Bedouins
 game: BGS Bedouins v The Min
 location: Bristol Grammar School, Failand
 date: 11/07/2015
@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## BGS Bedouins Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

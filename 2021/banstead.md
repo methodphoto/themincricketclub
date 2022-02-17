@@ -57,7 +57,7 @@ R Beswick 8000 runs for The Min
 | **C Estall** | 6 | 0 | 16 | 1 |
 | **M Rasool** | 3 | 0 | 18 | 0 |
 
-## Banstead Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

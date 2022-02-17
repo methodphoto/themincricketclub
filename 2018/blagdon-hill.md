@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | 2 | 0 | 22 | 0 |
 | **S Noble** | 1 | 0 | 4 | 1 |
 
-## Blagdon Hill Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

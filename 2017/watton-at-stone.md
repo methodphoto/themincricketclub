@@ -53,6 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Gundy**  | 1 | 0 | 2 | 0 |
 | **B Taylor**  | 0.5 | 0 | 4 | 2 |
 
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  |  Runs |
 |:---|:---|---|---:|

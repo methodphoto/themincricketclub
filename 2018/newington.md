@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Settu** | 7 | 1 | 34 | 2 |
 | **C Carter** | 6 | 1 | 22 | 3 |
 
- ## Newington Innings
+ ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

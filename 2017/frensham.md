@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Frensham Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -58,7 +58,7 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|---|---:|
 | **R Earney** | b | Baldock | 21 |
 | **R Damaze** | c | P Chuter | 4 |
-| **M Gupta** | c; | D Smith  100 |
+| **M Gupta** | c | D Smith | 100 |
 | **S Hornsby** | not out  |  | 47 |
 | **A Gallagher** | not out  |  | 3 |
 | **W Calvert** | dnb |  |  |
