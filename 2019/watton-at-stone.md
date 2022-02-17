@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **W Pringle** | 6 | 1 | 29 | 1 |
 | **Tate** | 5 | 0 | 28 | 0 |
 
-## Watton-at-Stone Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **Score** | 48 | 109 | 147 | 157 | 167 | 190 | 190 | 200 |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 | 6 | 5 | 7 | 9 |  |  |
 
-## Kingstonian Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

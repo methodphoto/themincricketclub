@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 
-## Railway Taverners Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

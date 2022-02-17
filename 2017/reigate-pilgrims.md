@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **V Kuttikara** | 4 | 0 | 27 | 1 |
 | **W Hodgeson** | 3 | 2 | 1 | 2 |
 
-## Reigate Pilgrims Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

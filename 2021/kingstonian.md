@@ -19,7 +19,7 @@ Played at {{page.location}} on {{page.date}}
 
 E Garland 5 wkts (2nd match in a row)
 
-## Kingstonian Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

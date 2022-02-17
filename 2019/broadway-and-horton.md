@@ -56,7 +56,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Dummet** | 4 | 0 | 39 | 1 |
 | **H Payne** | 3 | 0 | 10 | 1 |
 
- ## Broadway and Horton Innings
+ ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

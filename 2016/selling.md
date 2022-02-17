@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Selling Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Miah** | 3 | 1 | 5 | 0 |
 | **R Beswick** | 2.4 | 2 | 8 | 2 |
 
-## Reigate Pilgrims nnings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

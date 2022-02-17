@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Powles** | 6 | 0 | 43 | 2 |
 | **G Katakos** | 1 | 0 | 6 | 0 |
 
- ## Railway Taverners Innings
+ ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

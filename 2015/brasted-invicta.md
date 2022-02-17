@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **B Young** | 10 | 0 | 60 | 4 | 
 | **Howlett** | 3 | 0 | 27 | 0 |
 
-## Brasted Invicta Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

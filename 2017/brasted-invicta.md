@@ -56,7 +56,7 @@ S Amin best bowling for The Min.
 | **Baker** | 3 | 0 | 20 | 0 |
 | **Campbell** | 2 | 0 | 22 | 2 |
 
-## Brasted Invicta Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

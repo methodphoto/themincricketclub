@@ -19,7 +19,7 @@ Played at {{page.location}} on {{page.date}}
 
 R Simpson scored 128* and was dropped several times
 
-## Middleton Stoney Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

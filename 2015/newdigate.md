@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Newdigate Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

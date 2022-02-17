@@ -58,7 +58,7 @@ A Beswick 86* Highest score for The Min
 | **Callum** | 4 | 0 | 27 | 0 |
 | **Khalid** | 2 | 0 | 14 | 0 |
 
- ## Brook Innings
+ ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

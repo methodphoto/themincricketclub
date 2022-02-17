@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Morris** | 4 | 0 | 14 | 1 |
 | **T Riley** | 4 | 1 | 14 | 0 |
 
-## Middleton Stoney Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

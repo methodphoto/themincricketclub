@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Kingstonian Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

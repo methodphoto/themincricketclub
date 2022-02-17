@@ -17,12 +17,9 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-
-Brook batted first made 217 all out. The Min replied with 163 all out.
-
 Result: {result}
  
-## Newington Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

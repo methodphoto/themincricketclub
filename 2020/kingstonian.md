@@ -58,7 +58,7 @@ A Gallagher: 54* off 45 balls
 | **Sharu** | 3 | 0 | 27 | 0 |
 | **Dhruv** | 2 | 0 | 7 | 0 |
 
- ## Kingstonian Innings
+ ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 [Match report](http://www.middletonstoneycc.co.uk/club-news/2019/mscc-vs-the-min-2019/)
 
-## Middleton Stoney Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

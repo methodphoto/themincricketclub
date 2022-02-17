@@ -22,7 +22,7 @@ Played at {{page.location}} on {{page.date}}
 
 <iframe src="https://player.vimeo.com/video/341233600?h=fc0cf87163" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-## Brook Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

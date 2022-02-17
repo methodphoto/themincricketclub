@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Nightwatchman Batting
+## {{page.title}} Batting
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

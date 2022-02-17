@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 S Barrowcliff 50 off 68 balls
 
-## Broadway and Horton Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
