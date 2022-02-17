@@ -5,7 +5,8 @@ game: Newdigate v The Min
 location: The Brocus
 date: 
 report: 
-result: 
+result:  
+next: watton-at-stone
 parent: 2011 Fixtures
 ---
 
