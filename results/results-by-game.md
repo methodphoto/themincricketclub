@@ -162,10 +162,10 @@ parent: Results
 | 07/07/2011 | [Broadway and Horton](../2011/broadway-and-horton) | **Won** |
 | 08/07/2011 | [Kilmington and Stourton](../2011/kilmington-and-stourton) | Lost |
 | 09/07/2011 | [Horningsham](../2011/horningsham) | **Won** |
-| {date} | [SAC XI](../2011/sac-xi) | **Won** |
-| {date} | [Clapton & Oval](../2011/clapton-and-oval) | Lost |
-| {date} | [SB Exiles](../2011/sb-exiles) | **Won** |
-| {date} | [Reigate Pilgrims](../2011/reigate-pilgrims) | Lost |
+| 14/08/2011 | [SAC XI](../2011/sac-xi) | **Won** |
+| 21/08/2011 | [Clapton & Oval](../2011/clapton-and-oval) | Lost |
+| 04/09/2011 | [SB Exiles](../2011/sb-exiles) | **Won** |
+| 11/09/2011 | [Reigate Pilgrims](../2011/reigate-pilgrims) | Lost |
 | {date} | [Selling](../2011/selling) | Drawn |
 
 | 2010 |  |  |
