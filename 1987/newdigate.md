@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Levinson** | not out |  | 7 |
 | **Sherman** | not out |  | 1 | 
 | **Greenwell** | dnb |  |  | 
-| **Extras** | | (10b 2lb 3w 0nb) | 15 | 
-| **Total** | | (39 overs) | **195 for 3 wkts** | 
+| **Extras** | | (10b 2lb 3w 0nb) | **15** | 
+| **Total** | | (39 overs) | ****195 for 3 wkts**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **Preston** | dnb |  |  | 
 | **S Calver** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (5b 4lb 0w 0nb) | 9 | 
-| **Total** | | (41.5 overs) | **172 for 7 wkts** | 
+| **Extras** | | (5b 4lb 0w 0nb) | **9** | 
+| **Total** | | (41.5 overs) | ****172 for 7 wkts**** | 
 
 ## Fall of Wickets
 

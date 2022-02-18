@@ -36,8 +36,8 @@ Partnership of 109 between J Grant and D Swann
 | **P Catling** | not out |  | 14 |
 | **J Edgington** | st J Grant | J Wright | 23 |
 |  |  |  |  |
-| **Extras** | | (4b 6lb 1w 0nb) | 11 |
-| **Total** | | (39 overs) | **184 for 9 wkts** |
+| **Extras** | | (4b 6lb 1w 0nb) | **11** |
+| **Total** | | (39 overs) | ****184 for 9 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Partnership of 109 between J Grant and D Swann
 | **S Masterson** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (6b 2lb 1w 2nb) | 11 |
-| **Total** | | (32.1 overs) | **185 for 6 wktst** |
+| **Extras** | | (6b 2lb 1w 2nb) | **11** |
+| **Total** | | (32.1 overs) | ****185 for 6 wktst**** |
 
 ## Fall of Wickets
 

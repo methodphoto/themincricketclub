@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Spelis** | b | M Kirwan | 8 | 
 | **Yoxall** | not out |  | 1 | 
 | **Ashad** | b | R Beswick | 0 | 
-| **Extras** | | (5b 2lb 3w 1nb) | 11 | 
-| **Total** | | (38.3 overs) | **153 all out** | 
+| **Extras** | | (5b 2lb 3w 1nb) | **11** | 
+| **Total** | | (38.3 overs) | ****153 all out**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Holmes** | not out |  | 0 | 
 | **J Wright** | dnb | |  | 
 | **J Cross** | dnb | |  | 
-| **Extras** | | (12b 2lb 14w 1nb) | 29 | 
-| **Total** | | (43 overs) | **154 for 7 wkts** | 
+| **Extras** | | (12b 2lb 14w 1nb) | **29** | 
+| **Total** | | (43 overs) | ****154 for 7 wkts**** | 
 
 ## Fall of Wickets
 

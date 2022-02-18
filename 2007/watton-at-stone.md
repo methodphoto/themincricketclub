@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | not out |  | 19 |
 | **A Slight** | b | M Westwood | 11 |
 | **T Rutherford** | not out |  | 5 |
-| **Extras** | | (14b 4lb 15w 2nb 0p) | 35 |
-| **Total** | | (40 overs) | 168 for 9 wkts |
+| **Extras** | | (14b 4lb 15w 2nb 0p) | **35** |
+| **Total** | | (40 overs) | **168 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Westwood** | c M Gupta | A Slight | 5 |
 | **M Westwood** | b | I Miah | 1 |
 | **C Fursland &#8224;** | b | I Miah | 0 |
-| **Extras** | | (0b 0lb 0w 0nb) | 12 |
-| **Total** | | (36.3 overs) | 111 all out |
+| **Extras** | | (0b 0lb 0w 0nb) | **12** |
+| **Total** | | (36.3 overs) | **111 all out** |
 
 ## Fall of Wickets
 

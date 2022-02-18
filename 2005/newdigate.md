@@ -35,8 +35,8 @@ D Hambidge 1st 50
 | **T Pople** | dnb |  |  |
 | **Rance** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 26 |
-| **Total** | | (40 overs) | 272 for 4 wkts |
+| **Extras** | | (0b 0lb 0w 0nb) | **26** |
+| **Total** | | (40 overs) | **272 for 4 wkts** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ D Hambidge 1st 50
 | **P O'Mahony** | c Calcut | Armand | 0 |
 | **R Ingham** | not out |  | 0 |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 19 |
-| **Total** | | (45.25 overs) | 167 for 9 wkts (all out) |
+| **Extras** | | (0b 0lb 0w 0nb) | **19** |
+| **Total** | | (45.25 overs) | **167 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 

@@ -34,8 +34,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Masterson** | dnb |  |  |
 | **P O'Mahony** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 1lb 1w 4nb) | 6 |
-| **Total** | | (9 overs) | **33 for 1 wkt** |
+| **Extras** | | (0b 1lb 1w 4nb) | **6** |
+| **Total** | | (9 overs) | ****33 for 1 wkt**** |
 
 ## Fall of Wickets
 

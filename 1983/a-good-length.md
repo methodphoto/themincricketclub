@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **PR Smith** | b | J Wright | 1 | 
 | **S Horner** | st J Stimfig | J Grant | 1 | 
 | **G Powers** | not out | | 1 | 
-| **Extras** | | (6b 1lb 4w 4nb) | 15 | 
-| **Total** | | (18.3 overs) | **81 all out** | 
+| **Extras** | | (6b 1lb 4w 4nb) | **15** | 
+| **Total** | | (18.3 overs) | ****81 all out**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb | | | 
 | **A Sylvester** | dnb | | | 
 | **M Kirwan** | dnb | | | 
-| **Extras** | | (3b 0lb 5w 0nb) | 8 | 
-| **Total** | | (20 overs) | **82 for 0 wkts** | 
+| **Extras** | | (3b 0lb 5w 0nb) | **8** | 
+| **Total** | | (20 overs) | ****82 for 0 wkts**** | 
 
 ## Fall of Wickets
 

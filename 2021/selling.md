@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Cheeseman** | run out |  | 0 |
 | | | | |
 | **Extras** | | (5b 2lb 11w 1nb) | **19** | 
-| **Total** | | (32.4 overs) | **110 for 9 wkts (all out)** | 
+| **Total** | | (32.4 overs) | ****110 for 9 wkts (all out)**** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Matvid** | dnb |  |  | 
 | **M Gupta** | dnb |  |  |  
 | **Extras** | | (10b 2lb 2w 2nb) | **16** | 
-| **Total** | | (29.2 overs) | **113 for 6 wkts** | 
+| **Total** | | (29.2 overs) | ****113 for 6 wkts**** | 
 
 ## Fall of Wickets
 

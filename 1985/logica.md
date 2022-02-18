@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | b | Ashwin | 7 | 
 | **J Wright** | not out |  | 14 | 
 |  |  |  |  |
-| **Extras** | | (3b 3lb 4w 1nb) | 11 | 
-| **Total** | | (38 overs) | **123 for 9 wkts (all out)** | 
+| **Extras** | | (3b 3lb 4w 1nb) | **11** | 
+| **Total** | | (38 overs) | ****123 for 9 wkts (all out)**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **Arshad** | c R Olver | M Gardiner | 5 |
 | **Harrah** | b | M Gardiner | 0 | 
 | **Fieldhouse** | not out |  | 0 | 
-| **Extras** | | (2b 5lb 8w 0nb) | 15 | 
-| **Total** | | (36.3 overs) | **78 all out** | 
+| **Extras** | | (2b 5lb 8w 0nb) | **15** | 
+| **Total** | | (36.3 overs) | ****78 all out**** | 
 
 ## Fall of Wickets
 

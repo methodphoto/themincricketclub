@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Flower** | not out | 1 | 
 | **W Bowley** | dnb | 
 | **C Moon** | dnb | 
-| **Extras** | | (0b 0lb 0w 0nb) | 29 | 
-| **Total** | | (38 overs) | **226 for 8 wkts** |
+| **Extras** | | (0b 0lb 0w 0nb) | **29** | 
+| **Total** | | (38 overs) | ****226 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **H Ingham** | c | Moon | 0 |
 | **P Wigg** | not out |  4 |
 | **W Calvert** | dnb  |
-| **Extras** | | (0b 0lb 0w 0nb) | 29 | 
-| **Total** | | (41 overs) | **158 for 8 wkts** |
+| **Extras** | | (0b 0lb 0w 0nb) | **29** | 
+| **Total** | | (41 overs) | ****158 for 8 wkts**** |
 
 ## Fall of Wickets
 

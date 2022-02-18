@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Wigg** | dnb |  |  |
 | **G Powell** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 22 |
-| **Total** | | (20 overs) | 158 for 5 wkts |
+| **Extras** | | (0b 0lb 0w 0nb) | **22** |
+| **Total** | | (20 overs) | **158 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Field** | run out |  | 1 |
 | **M Oliver** | run out |  | 0 |
 | **C Henson** | c W Calvert | R O'Hagan | 3 |
-| **Extras** | | (0b 0lb 0w 0nb) | 22 |
-| **Total** | | (16.2 overs) | 117 all out |
+| **Extras** | | (0b 0lb 0w 0nb) | **22** |
+| **Total** | | (16.2 overs) | **117 all out** |
 
 ## Fall of Wickets
 

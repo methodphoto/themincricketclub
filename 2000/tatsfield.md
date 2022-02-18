@@ -34,8 +34,8 @@ Played at {{page.location}} on {{page.date}}
 | **F Barrett** | not out |  | 9 |
 | **P O'Brien** | lbw | Clark | 0 |
 | **J Statham** | b | Clark | 3 |
-| **Extras** | | (8b 1lb 8w 0nb) | 17 |
-| **Total** | | (39.1 overs) | **209 all out** |
+| **Extras** | | (8b 1lb 8w 0nb) | **17** |
+| **Total** | | (39.1 overs) | ****209 all out**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **Pendleton** | c J Grant | R Green | 6 |
 | **Shepherd** | c R Beswick | R Green | 1 |
 | **Carr** | not out |  | 0 |
-| **Extras** | | (0b 4lb 5w 1nb) | 10 |
-| **Total** | | (33 overs) | **92 all out** |
+| **Extras** | | (0b 4lb 5w 1nb) | **10** |
+| **Total** | | (33 overs) | ****92 all out**** |
 
 ## Fall of Wickets
 

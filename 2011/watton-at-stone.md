@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Miller** | dnb |  |  |
 | **R Clayton** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (2b 3lb 10w 1nb 0p) | 16 |
-| **Total** | | (41 overs) | 195 for 3 wkts |
+| **Extras** | | (2b 3lb 10w 1nb 0p) | **16** |
+| **Total** | | (41 overs) | **195 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | dnb |  |  |
 | **J Grant &#8224;** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (7b 2lb 2w 0nb 0p) | 11 |
-| **Total** | | (29.1 overs) | 162 for 4 wkts |
+| **Extras** | | (7b 2lb 2w 0nb 0p) | **11** |
+| **Total** | | (29.1 overs) | **162 for 4 wkts** |
 
 ## Fall of Wickets
 

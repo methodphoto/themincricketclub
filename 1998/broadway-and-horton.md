@@ -35,8 +35,8 @@ The Min gained the Ashes for the first time
 | **D Ellis** | st J Grant | W Calvert | 1 |
 | **H White** | not out |  | 0 |
 |  |  |  |  |
-| **Extras** | | (9b 8lb 4w 1nb) | 22 |
-| **Total** | | (36.3 overs) | **111 for 9 wkts (all out)** |
+| **Extras** | | (9b 8lb 4w 1nb) | **22** |
+| **Total** | | (36.3 overs) | ****111 for 9 wkts (all out)**** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ The Min gained the Ashes for the first time
 | **Fielding** | dnb |  |  |
 | **Young** | dnb |  |  |
 | **Wright** | dnb |  |  |
-| **Extras** | | (9b 2lb 2w 0nb) | 13 |
-| **Total** | | (32 overs) | **115 for 2 wkts** |
+| **Extras** | | (9b 2lb 2w 0nb) | **13** |
+| **Total** | | (32 overs) | ****115 for 2 wkts**** |
 
 ## Fall of Wickets
 

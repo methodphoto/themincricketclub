@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Morton &#8224;** | c J Wright | E Garland | 20 |
 | **R Neate** | not out |  | 3 |
 | **R Brittain** | b | R Green | 2 |
-| **Extras** | | (1b 5lb 4w 0nb) | 10 |
-| **Total** | | (33.4 overs) | 192 all out |
+| **Extras** | | (1b 5lb 4w 0nb) | **10** |
+| **Total** | | (33.4 overs) | **192 all out** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright &#42;** | c A Morton | F Althaus | 16 |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (7b 0lb 3w 0nb) | 10 |
-| **Total** | | (24 overs) | 73 for 8 wkts (all out) |
+| **Extras** | | (7b 0lb 3w 0nb) | **10** |
+| **Total** | | (24 overs) | **73 for 8 wkts (all out)** |
 
 ## Fall of Wickets
 

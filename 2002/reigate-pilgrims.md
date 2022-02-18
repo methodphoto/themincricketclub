@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Slight** | dnb |  |  |
 | **N Putt** | dnb |  |  |
 | **E Garland** | dnb |  |  |
-| **Extras** | | (18b 4lb 4w 0nb) | 26 |
-| **Total** | | (40 overs) | **201 for 6 wkts** |
+| **Extras** | | (18b 4lb 4w 0nb) | **26** |
+| **Total** | | (40 overs) | ****201 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Tomes** | dnb |  |  |
 | **W Seldon** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (4b 4lb 6w 0nb) | 8 |
-| **Total** | | (37.4 overs) | **202 for 4 wkts** |
+| **Extras** | | (4b 4lb 6w 0nb) | **8** |
+| **Total** | | (37.4 overs) | ****202 for 4 wkts**** |
 
 ## Fall of Wickets
 

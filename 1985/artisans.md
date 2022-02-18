@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Gardiner** | dnb |  |  | 
 | **D Young** | dnb |  |  | 
 | **A Beard** | dnb |  |  | 
-| **Extras** | | (1b 2lb 1w 0nb) | 4 | 
-| **Total** | | (38 overs) | **181 for 4 wkts** | 
+| **Extras** | | (1b 2lb 1w 0nb) | **4** | 
+| **Total** | | (38 overs) | ****181 for 4 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **Graves** | not out |  | 11 | 
 | **Baker** | b | D Mundy | 2 | 
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 0 | 
-| **Total** | | (39.5 overs) | **59 for 9 wkts (all out)** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **0** | 
+| **Total** | | (39.5 overs) | ****59 for 9 wkts (all out)**** | 
 
 ## Fall of Wickets
 

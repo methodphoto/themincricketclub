@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | not out |  | 22 | 
 | **D Newman** | not out |  | 1 | 
 | **D Young** | dnb |  |  | 
-| **Extras** | | (0b 2lb 1w 0nb) | 3 | 
-| **Total** | | (33.5 overs) | **215 for 8 wkts** | 
+| **Extras** | | (0b 2lb 1w 0nb) | **3** | 
+| **Total** | | (33.5 overs) | ****215 for 8 wkts**** | 
 
 ## Fall of Wickets
 
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 | **Lee** | dnb |  |  | 
 | **Scanlon** | dnb |  |  | 
 |  |  |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 | 
-| **Total** | | (46 overs) | **195 for 3 wkts** | 
+| **Extras** | | (5b 0lb 6w 0nb) | **11** | 
+| **Total** | | (46 overs) | ****195 for 3 wkts**** | 
 
 ## Fall of Wickets
 

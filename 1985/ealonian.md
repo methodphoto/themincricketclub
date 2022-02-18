@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Scott** | dnb |  |  | 
 | **Reyal** | dnb |  |  |
 | **Large** | dnb |  |  | 
-| **Extras** | | (0b 0lb 0w 0nb) | 10 | 
-| **Total** | | (39.5 overs) | **182 for 4 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **10** | 
+| **Total** | | (39.5 overs) | ****182 for 4 wkts**** | 
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | b | Cox | 7 |
 | **E Harcourt** | not out |  | 0 | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (27b 8lb 0w 0nb) | 20 | 
+| **Extras** | | (27b 8lb 0w 0nb) | **20** | 
 | **Total** | | (-- overs) | 116 for 8 wkts | 
 
 ## Fall of Wickets

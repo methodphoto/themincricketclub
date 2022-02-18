@@ -36,8 +36,8 @@ Partnership of 172 between T Hammond and W Calvert
 | **A Slight** | dnb |  |  |
 | **E Garland** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (22b 4lb 7w 9nb 0p) | 42 |
-| **Total** | | (40 overs) | **220 for 2 wkts** |
+| **Extras** | | (22b 4lb 7w 9nb 0p) | **42** |
+| **Total** | | (40 overs) | ****220 for 2 wkts**** |
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ Partnership of 172 between T Hammond and W Calvert
 | **J Mariner** | b | P Wigg | 0 |
 | **A Vick** | run out |  | 1 |
 |  |  |  |  |
-| **Extras** | | (5b 1lb 3w 0nb 0p) | 9 |
-| **Total** | | (34 overs) | **129 for 9 wkts (all out)** |
+| **Extras** | | (5b 1lb 3w 0nb 0p) | **9** |
+| **Total** | | (34 overs) | ****129 for 9 wkts (all out)**** |
 
 ## Fall of Wickets
 

@@ -35,8 +35,8 @@ R Earney best bowling
 | **I Marshall &#42;** | not out |  | 5 |
 | **J Wright** | st | Hudson | 0 |
 |  |  |  |  |
-| **Extras** | | (7b 1lb 1w 2nb) | 11 |
-| **Total** | | (46.3 overs) | **173 for 9 wkts (all out)** |
+| **Extras** | | (7b 1lb 1w 2nb) | **11** |
+| **Total** | | (46.3 overs) | ****173 for 9 wkts (all out)**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ R Earney best bowling
 | **Forsyth** | not out |  | 7 |
 | **Steed** | not out |  | 2 |
 |  |  |  |  |
-| **Extras** | | (6b 2lb 3w 0nb) | 11 |
-| **Total** | | (46 overs) | **174 for 8 wkts** |
+| **Extras** | | (6b 2lb 3w 0nb) | **11** |
+| **Total** | | (46 overs) | ****174 for 8 wkts**** |
 
 ## Fall of Wickets
 

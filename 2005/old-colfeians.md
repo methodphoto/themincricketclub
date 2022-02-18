@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Patel** | run out (A Slight/R Green) |  | 12 |
 | **Sharma** | b | R Earney | 0 |
 | **Pye** | not out |  | 7 |
-| **Extras** | | (7b 4lb 18w 0nb) | 29 |
-| **Total** | | (40 overs) | 157 all out |
+| **Extras** | | (7b 4lb 18w 0nb) | **29** |
+| **Total** | | (40 overs) | **157 all out** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **R O'Hagan** | b | Sharma | 6 |
 | **J Wright** | c | S Prasher | 4 |
 | **P O'Mahony** | b | W Shafique | 0 |
-| **Extras** | | (8b 2lb 9w 2nb) | 21 |
-| **Total** | | (32.1 overs) | 103 all out |
+| **Extras** | | (8b 2lb 9w 2nb) | **21** |
+| **Total** | | (32.1 overs) | **103 all out** |
 
 ## Fall of Wickets
 

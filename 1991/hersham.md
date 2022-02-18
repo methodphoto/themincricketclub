@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall &#42;** | b | S Bolton | 2 | 
 | **R Earney** | not out |  | 3 | 
 | **R Olver** | lbw | S Bolton | 7 | 
-| **Extras** | | (9b 2lb 4w 0nb) | 17 | 
-| **Total** | | (40.1 overs) | **161 all out** | 
+| **Extras** | | (9b 2lb 4w 0nb) | **17** | 
+| **Total** | | (40.1 overs) | ****161 all out**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **Melham** | b | I Marshall |  | 
 | **Eckersley** | not out |  | 5 | 
 | **M Summers** | run out |  | 7 |
-| **Extras** | | (0b 0lb 0w 0nb) | 17 | 
-| **Total** | | (38 overs) | **92 all out** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **17** | 
+| **Total** | | (38 overs) | ****92 all out**** | 
 
 ## Fall of Wickets
 

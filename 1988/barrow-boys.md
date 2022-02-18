@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Davies** | b | A Sylvester | 0 | 
 | **P Barrowcliff** | b | A Fielding | 0 | 
 | **Marsden** | not out |  | 0 |
-| **Extras** | | (3b 1lb 1w 0nb) | 5 | 
-| **Total** | | (36.1 overs) | **105 for 10 wkts** | 
+| **Extras** | | (3b 1lb 1w 0nb) | **5** | 
+| **Total** | | (36.1 overs) | ****105 for 10 wkts**** | 
 
 ## Fall of Wickets
 
@@ -73,8 +73,8 @@ Played at {{page.location}} on {{page.date}}
 | **W Calvert** | dnb |  |  |
 | **B Lee** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (5b 0lb 5w 0nb) | 10 | 
-| **Total** | | (33.5 overs) | **108 for 5 wkts** | 
+| **Extras** | | (5b 0lb 5w 0nb) | **10** | 
+| **Total** | | (33.5 overs) | ****108 for 5 wkts**** | 
 
 ## Fall of Wickets
 

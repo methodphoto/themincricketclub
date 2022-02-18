@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Jones** | run out |  | 11 |  
 | **Adams** | c T Purves | R Beswick | 5 | 
 | **Wootton** | not out |  | 1 |
-| **Extras** | | (0b 1lb 4w 1nb) | 6 | 
-| **Total** | | (44 overs) | **132 all out** | 
+| **Extras** | | (0b 1lb 4w 1nb) | **6** | 
+| **Total** | | (44 overs) | ****132 all out**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb  |  |  | 
 |  |  |  |  | 
 |  |  |  |  |
-| **Extras** | | (2b 1lb 4w 0nb) | 7 | 
-| **Total** | | (26.2 overs) | **133 for 7 wkts** | 
+| **Extras** | | (2b 1lb 4w 0nb) | **7** | 
+| **Total** | | (26.2 overs) | ****133 for 7 wkts**** | 
 
 ## Fall of Wickets
 

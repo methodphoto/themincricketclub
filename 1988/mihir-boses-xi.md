@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Harcourt** | st | M Bose | 1 | 
 | **N Beswick** | c | P Oborne | 0 | 
 | **L Dennes** | not out |  | 0 | 
-| **Extras** | | (8b 4lb 7w 1nb) | 20 |
-| **Total** | | (36.1 overs) | **149 all out** | 
+| **Extras** | | (8b 4lb 7w 1nb) | **20** |
+| **Total** | | (36.1 overs) | ****149 all out**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **Coles** | b | A Gallagher | 15 | 
 | **M Bose** | c S Lazell | A Gallagher | 10 | 
 | **Jones** | not out |  | 5 |
-| **Extras** | | (0b 0lb 0w 0nb) | 15 | 
-| **Total** | | (41 overs) | **126 all out** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **15** | 
+| **Total** | | (41 overs) | ****126 all out**** | 
 
 ## Fall of Wickets
 

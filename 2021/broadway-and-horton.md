@@ -35,7 +35,7 @@ E Garland 5 wkts
 | **A Dummett** | c A Beswick | J Carroll | 2 | 
 | **J Pedlar** | not out | | 6 | 
 | **Extras** | | (6b 4lb 4w 0nb) | **14** | 
-| **Total** | | (38.3 overs) | **209 all out** | 
+| **Total** | | (38.3 overs) | ****209 all out**** | 
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ E Garland 5 wkts
 | **E Garland** | not out |  | 9 | 
 | **J Grant &#8224;** | not out |  | 9 | 
 | **Extras** | | (2b 1lb 21w 4nb) | **28** | 
-| **Total** | | (40 overs) | **186 for 9 wkts** | 
+| **Total** | | (40 overs) | ****186 for 9 wkts**** | 
 
 ## Fall of Wickets
 

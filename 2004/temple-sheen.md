@@ -35,8 +35,8 @@ R Beswick's 17th 50
 | **T Coggins** | dnb |  |  |
 | **Cornish** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (6b 3lb 1w 0nb) | 10 |
-| **Total** | | (48 overs) | 173 for 5 wkts |
+| **Extras** | | (6b 3lb 1w 0nb) | **10** |
+| **Total** | | (48 overs) | **173 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ R Beswick's 17th 50
 | **A Naunton-Davies** | b | T Coggins | 0 |
 | **J Naunton-Davies** | not out |  | 0 |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (4b 3lb 3w 1nb) | 11 |
-| **Total** | | (37 overs) | 137 for 8 wkts |
+| **Extras** | | (4b 3lb 3w 1nb) | **11** |
+| **Total** | | (37 overs) | **137 for 8 wkts** |
 
 ## Fall of Wickets
 

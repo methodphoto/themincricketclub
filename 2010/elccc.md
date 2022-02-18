@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **I Miah** | lbw | E Garland | 1 |
 | **Juber** | c | Ijaz | 1 |
 |  |  |  |  |
-| **Extras** | | (2b 3lb 12w 0nb 0p) | 17 |
-| **Total** | | (27.4 overs) | **96 for 9 wkts (all out)** |
+| **Extras** | | (2b 3lb 12w 0nb 0p) | **17** |
+| **Total** | | (27.4 overs) | ****96 for 9 wkts (all out)**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (5b 6lb 1w 4nb 0p) | 16 |
-| **Total** | | (33.5 overs) | **100 for 5 wkts** |
+| **Extras** | | (5b 6lb 1w 4nb 0p) | **16** |
+| **Total** | | (33.5 overs) | ****100 for 5 wkts**** |
 
 ## Fall of Wickets
 

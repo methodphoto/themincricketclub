@@ -4,8 +4,8 @@ title: ELCCC
 game: ELCCC v The Min
 location: Victoria Park
 date: 13/05/2012
-report: ELCCC batted first and made 147 all out in 38 overs. The Min replied with 144 for 9 wkts
-result: 
+report: ELCCC batted first and made 147 all out in 38 overs. The Min replied with 144 for 9 wkts in 40 overs
+result: ELCCC won by 3 runs
 next: newington
 parent: 2012 Fixtures
 ---
@@ -22,19 +22,19 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Y Ghayas** | run out |  | 22 |
-| **S Habib** | b | R Beswick | 24 |
-| **I Ahmed** | lbw | M Gupta | 67 |
-| **R Ahmed** | c R Earney | R Beswick | 62 |
-| **S Ahmed** | not out |  | 0 |
-| **I Miah** | c R Earney | R Beswick |  |
-| **M Elwin** | b | R Beswick |  |
-| **M Abu** | b | M Gupta |  |
-| **Maruf** | st J Grant | A Slight |  |
-| **S Ibrahim** | c A Asmal | A Slight |  |
-| **W Khan** | run out |  |  |
+| **Y Ghayas** | run out |  | 4 |
+| **S Habib** | b | R Beswick | 11 |
+| **I Ahmed** | lbw | M Gupta | 14 |
+| **R Ahmed** | c R Earney | R Beswick | 3 |
+| **S Ahmed** | not out |  | 51 |
+| **I Miah** | c R Earney | R Beswick | 0 |
+| **M Elwin** | b | R Beswick | 0 |
+| **M Abu** | b | M Gupta | 1 |
+| **Maruf** | st J Grant | A Slight | 40 |
+| **S Ibrahim** | c A Asmal | A Slight | 0 |
+| **W Khan** | run out |  | 9 |
 | **Extras** | | (1b 1lb 12w 0nb 0p) | **14** |
-| **Total** | | (38 overs) | **147 all out** |
+| **Total** | | (38 overs) | ****147 all out**** |
 
 ## Fall of Wickets
 
@@ -47,51 +47,55 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Marshall** | 16 | 4 | 41 | 2 |
-| **Marshall** | 13 | 2 | 46 | 1 |
-| **Wright** | 6 | 0 | 36 | 0 |
-| **Beswick** | 7 | 1 | 34 | 0 |
-| **Howcroft** | 4 | 0 | 25 | 0 |
+| **P Wigg** | 7 | 0 | 24 | 0 |
+| **R Beswick** | 8 | 2 | 8 | 4 |
+| **M Gupta** | 7 | 1 | 34 | 2 |
+| **G Weekes** | 4 | 0 | 11 | 0 |
+| **T Carden** | 5 | 0 | 29 | 0 |
+| **D Brookfield** | 4 | 0 | 21 | 0 |
+| **A Slight** | 3 | 0 | 16 | 2 |
 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Earney** | b | Yerrell | 2 |
-| **Grant** | b | Yerrell | 0 |
-| **Marshall** | b | Chambers | 20 |
-| **Calvert** | b | Yerrell | 2 |
-| **Howcroft** | b | Chambers | 16 |
-| **MacFarlane** | b | Scanlon | 25 |
-| **Beswick** | b | Scanlon | 21 |
-| **Gardiner** | b | Chambers | 7 |
-| **Fielding** | b | Scanlon | 8 |
-| **Young** | b | Scanlon | 2 |
-| **Wright** | not out |  | 0 |
-| **Extras** | | (9b 2lb 4w 0nb) | 15 |
-| **Total** | | (33.5 overs) | 118 all out |
+| **R Earney** | run out |  | 1 |
+| **S Chatterjee** | c M Elwin | S Ibrahim | 41 |
+| **A Asmal** | c | S Ahmed | 23 |
+| **P Wigg** | b | W Khan | 17 |
+| **G Weekes** | b | Maruf | 5 |
+| **A Slight** | b | M Abu | 0 |
+| **M Gupta** | b | Y Ghayas | 25 |
+| **T Carden** | run out |  | 8 |
+| **D Brookfield** | not out |  | 0 |
+| **R Beswick &#42;** | b | Y Ghayas | 0 |
+| **J Grant &#8224;** | not out |  | 2 |
+| **Extras** | | (3b 1lb 13w 5nb 0p) | **22** |
+| **Total** | | (40 overs) | ****144 for 9 wkts**** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 11 |  | 79 | 87 | 89 | 107 | 129 | 141 | 141 |  |
+| **Batsman** | 1 | 3 | 2 | 5 | 6 | 4 | 8 | 7 | 10 |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **W Khan** | 8 | 2 | 15 | 1 |
+| **M Elwin** | 8 | 0 | 37 | 0 |
+| **S Ibrahim** | 8 | 0 | 22 | 1 |
+| **S Ahmed** | 8 | 0 | 25 | 1 |
+| **Maruf** | 3 | 0 | 12 | 1 |
+| **M Abu** | 2 | 0 | 1 | 1 |
+| **Y Ghayas** | 3 | 0 | 18 | 2 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 1 | 0 | 0 | 0 |
+| 1 | 1 | 0 | 0 |
 
 [Next game:]({{page.next}})

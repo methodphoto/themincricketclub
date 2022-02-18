@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Calvert** | not out |  | 11 | 
 | **A  Garthwaite** | b | R Burgess | 0 | 
 |  |  |  |  | 
-| **Extras** | | (1b 4lb 2w 0nb) | 7 | 
-| **Total** | | (36.3 overs) | **128 for 9 wkts (all out)** | 
+| **Extras** | | (1b 4lb 2w 0nb) | **7** | 
+| **Total** | | (36.3 overs) | ****128 for 9 wkts (all out)**** | 
 
 ## Fall of Wickets
 
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Barrowcliff** | not out |  | 31 | 
 | **B Hopewell** | b | I Marshall | 5 | 
 | **R Burgess** | not out |  | 1 |
-| **Extras** | | (6b 0lb 3w 1nb) | 10 | 
-| **Total** | | (46 overs) | **134 for 9 wkts** | 
+| **Extras** | | (6b 0lb 3w 1nb) | **10** | 
+| **Total** | | (46 overs) | ****134 for 9 wkts**** | 
 
 ## Fall of Wickets
 

@@ -36,8 +36,8 @@ Partnership of 129 between S Barrowcliff and R Beswick
 | **A Wooley** | dnb |  |  |
 | **M Dooley** | dnb |  |  |
 | **Broad** | dnb |  |  |
-| **Extras** | | (3b 2lb 10w 0nb) | 15 |
-| **Total** | | (38 overs) | **211 for 4 wkts** |
+| **Extras** | | (3b 2lb 10w 0nb) | **15** |
+| **Total** | | (38 overs) | ****211 for 4 wkts**** |
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ Partnership of 129 between S Barrowcliff and R Beswick
 | **R Brittain** | not out |  | 2 |
 | **J Wright** | dnb |  |  |
 | **A Gordon** | dnb |  |  |
-| **Extras** | | (7b 3lb 1w 0nb) | 11 |
-| **Total** | | (40 overs) | **187 for 7 wkts** |
+| **Extras** | | (7b 3lb 1w 0nb) | **11** |
+| **Total** | | (40 overs) | ****187 for 7 wkts**** |
 
 ## Fall of Wickets
 

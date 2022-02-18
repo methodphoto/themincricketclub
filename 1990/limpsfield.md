@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Rose** | dnb |  |  | 
 |  |  |  |  | 
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 29 | 
-| **Total** | | (46.3 overs) | **251 for 3 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **29** | 
+| **Total** | | (46.3 overs) | ****251 for 3 wkts**** | 
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **B Colethorpe** | lbw | Hicknott | 4 | 
 | **A Fielding** | b | Hicknott | 0 | 
 | **Royhead** | not out |  | 0 | 
-| **Extras** | | (0b 0lb 0w 0nb) | 2 | 
+| **Extras** | | (0b 0lb 0w 0nb) | **2** | 
 | **Total** | | ( overs) | 123 all out | 
 
 ## Fall of Wickets

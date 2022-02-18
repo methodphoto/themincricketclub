@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Dalrymple** | c M Taylor | I Marshall | 0 | 
 | **R Clayton** | c & b | I Marshall | 2 | 
 |  |  |  |  |
-| **Extras** | | (9b 1lb 3w 0nb) | 13 | 
-| **Total** | | (30.5 overs) | **133 for 9 wkts (all out)** | 
+| **Extras** | | (9b 1lb 3w 0nb) | **13** | 
+| **Total** | | (30.5 overs) | ****133 for 9 wkts (all out)**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Griffiths** | dnb |  |  | 
 | **J Wright** | dnb |  |  |
 |  |  |  |  | 
-| **Extras** | | (12b 0lb 8w 0nb) | 20 | 
-| **Total** | | (36.1 overs) | **137 for 5 wkts** | 
+| **Extras** | | (12b 0lb 8w 0nb) | **20** | 
+| **Total** | | (36.1 overs) | ****137 for 5 wkts**** | 
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | c & b | S Snook | 0 |
 | **I Marshall** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (19b 1lb 5w 0nb) | 25 |
-| **Total** | | (39.2 overs) | **1163 for 8 wkts** |
+| **Extras** | | (19b 1lb 5w 0nb) | **25** |
+| **Total** | | (39.2 overs) | ****1163 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Snook** | not out |  | 24 |
 | **D Lapham** | not out |  | 32 |
 | **J Lapham** | dnb |  |  |
-| **Extras** | | (3b 0lb 9w 0nb) | 12 |
-| **Total** | | (36 overs) | **126 for 8 wkts** |
+| **Extras** | | (3b 0lb 9w 0nb) | **12** |
+| **Total** | | (36 overs) | ****126 for 8 wkts**** |
 
 ## Fall of Wickets
 

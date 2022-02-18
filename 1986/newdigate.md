@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Levinson** | not out |  | 17 | 
 | **Greenwell** | b | J Wright | 0 | 
 | **Brooks** | b | J Wright | 0 | 
-| **Extras** | | (1b 0lb 3w 1nb) | 5 | 
-| **Total** | | (30.5 overs) | **54 all out** | 
+| **Extras** | | (1b 0lb 3w 1nb) | **5** | 
+| **Total** | | (30.5 overs) | ****54 all out**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Newman** | dnb |  |  | 
 | **R Olver** | not out |  | 2 | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (0b 0lb 0w 0nb) | 0 | 
-| **Total** | | (17.2 overs) | **57 for 5 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **0** | 
+| **Total** | | (17.2 overs) | ****57 for 5 wkts**** | 
 
 ## Fall of Wickets
 

@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | c Pavey | Annand | 0 | 
 | **M Gardiner** | not out |  | 6 |
 | **G Wright** | not out |  | 0 | 
-| **Extras** | | (0b 0lb 0w 0nb) | 16 | 
+| **Extras** | | (0b 0lb 0w 0nb) | **16** | 
 | **Total** | | () | 193 for 9 wkts | 
 
 ## Fall of Wickets
@@ -66,8 +66,8 @@ Played at {{page.location}} on {{page.date}}
 | **Parker** | lbw | R Beswick | 7 | 
 | **Barnes** | b | R Beswick | 0 | 
 | **Potts** | not out |  | 1 |
-| **Extras** | | (0b 0lb 0w 0nb) | 8 | 
-| **Total** | | (46 overs) | **119 for 9 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **8** | 
+| **Total** | | (46 overs) | ****119 for 9 wkts**** | 
 
 ## Fall of Wickets
 

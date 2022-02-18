@@ -39,8 +39,8 @@ Brother fought brother for the second year in a row, but they could not be separ
 | **I Marshall** | dnb |  |  |
 | **E Garland** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (0b 1lb 14w 1nb 0p) | 16 |
-| **Total** | | (43 overs) | 166 for 5 wkts |
+| **Extras** | | (0b 1lb 14w 1nb 0p) | **16** |
+| **Total** | | (43 overs) | **166 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -76,8 +76,8 @@ Brother fought brother for the second year in a row, but they could not be separ
 | **I Miah** | b | I Marshall | 5 |
 | **P O'Mahony** | not out |  | 1 |
 |  |  |  |  |
-| **Extras** | | (1b 1lb 1w 0nb 0p) | 3 |
-| **Total** | | (41 overs) | 98 for 8 wkts |
+| **Extras** | | (1b 1lb 1w 0nb 0p) | **3** |
+| **Total** | | (41 overs) | **98 for 8 wkts** |
 
 ## Fall of Wickets
 

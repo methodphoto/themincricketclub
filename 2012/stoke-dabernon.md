@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Ward** | not out | 26 |
 | **R Prytherch** | c S Masterson | M Gardiner | 10 |
 | **R Coleman &#42;** | c E Ingham | R Beswick | 3 |
-| **Extras** | | (0b 0lb 0w 0nb) | 20 |
-| **Total** | | (35.2 overs) | 163 all out |
+| **Extras** | | (0b 0lb 0w 0nb) | **20** |
+| **Total** | | (35.2 overs) | **163 all out** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Wigg** | c | Cooke | 5 |
 | **D Brookfield** | not out | 3 |
 | **H Earney** | run out | 0 |
-| **Extras** | | (0b 0lb 0w 0nb) | 20 |
-| **Total** | | (35.2 overs) | 136 all out |
+| **Extras** | | (0b 0lb 0w 0nb) | **20** |
+| **Total** | | (35.2 overs) | **136 all out** |
 
 ## Fall of Wickets
 

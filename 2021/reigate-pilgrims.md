@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Mitchell** | not out |  | 13 |
 | **M Wood** | not out |  | 5 |
 | **Extras** | | (11b 0lb 10w 4nb) | **25** | 
-| **Total** | | (43 overs) | **150 for 9 wkts** | 
+| **Total** | | (43 overs) | ****150 for 9 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | not out |  | 14 | 
 | **L Holden** | b | P Saikia | 4 |  
 | **Extras** | | (9b 8lb 6w 1nb) | **24** | 
-| **Total** | | (32 overs) | **119 for 9 wkts** | 
+| **Total** | | (32 overs) | ****119 for 9 wkts**** | 
 
 ## Fall of Wickets
 

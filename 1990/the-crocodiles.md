@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Morrish** | not out |  | 18 | 
 | **Anderson** | dnb |  |  | 
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 6 | 
-| **Total** | | (43 overs) | **143 for 7 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **6** | 
+| **Total** | | (43 overs) | ****143 for 7 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Swan** | dnb |  |  |  
 | **J Skarbek** | dnb |  |  |  
 | **R Earney** | dnb |  |  | 
-| **Extras** | | (9b 2lb 4w 0nb) | 15 | 
-| **Total** | | (33.5 overs) | **147 for 2 wkts** | 
+| **Extras** | | (9b 2lb 4w 0nb) | **15** | 
+| **Total** | | (33.5 overs) | ****147 for 2 wkts**** | 
 
 ## Fall of Wickets
 

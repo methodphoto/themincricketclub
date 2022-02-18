@@ -34,8 +34,8 @@ M Goff's 7th 50
 | **P Wigg** | c & b | T Homersham | 13 |
 | **T Carden** | b | B Sweeting | 0 |
 | **J Wright** | not out |  | 10 |
-| **Extras** | | (3b 7lb 6w 0nb 0p) | 16 |
-| **Total** | | (40 overs) | 179 for 9 wkts |
+| **Extras** | | (3b 7lb 6w 0nb 0p) | **16** |
+| **Total** | | (40 overs) | **179 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ M Goff's 7th 50
 | **B Sweeting &#8224;** | b | B Richardson | 31 |
 | **M Whitling** | not out |  | 1 |
 | **T Carter** | not out |  | 0 |
-| **Extras** | | (4b 2lb 7w 6nb 0p) | 19 |
-| **Total** | | (40 overs) | 177 for 9 wkts |
+| **Extras** | | (4b 2lb 7w 6nb 0p) | **19** |
+| **Total** | | (40 overs) | **177 for 9 wkts** |
 
 ## Fall of Wickets
 

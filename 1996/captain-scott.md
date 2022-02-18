@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Grant** | c Who | Dychoff | 16 |
 | **J Stimfig** | c Who | Allen | 8 |
 | **J Wright** | not out |  | 3 |
-| **Extras** | | (4b 3lb 3w 4nb) | 11 |
-| **Total** | | (40 overs) | **158 all out** |
+| **Extras** | | (4b 3lb 3w 4nb) | **11** |
+| **Total** | | (40 overs) | ****158 all out**** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **Russoff** | dnb |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 0 |
+| **Extras** | | (0b 0lb 0w 0nb) | **0** |
 | **Total** | | ( overs) |  |
 
 ## Fall of Wickets

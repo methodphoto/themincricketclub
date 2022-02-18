@@ -35,8 +35,8 @@ R Beswick's 4th Michelle.
 | **M Cox** | b | J Wright | 9 |
 | **D Jackson** | not out |  | 7 |
 | **M Pugh** | not out |   | 3 |
-| **Extras** | | (7b 5lb 1w 0nb 0p) | 13 |
-| **Total** | | (42 overs) | **156 for 9 wkts** |
+| **Extras** | | (7b 5lb 1w 0nb 0p) | **13** |
+| **Total** | | (42 overs) | ****156 for 9 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ R Beswick's 4th Michelle.
 | **H Ingham** | not out |  | 19 |
 | **J Grant** | not out |  | 12 |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (2b 4lb 1w 1nb 0p) | 8 |
-| **Total** | | (37.2 overs) | **157 for 8 wkts** |
+| **Extras** | | (2b 4lb 1w 1nb 0p) | **8** |
+| **Total** | | (37.2 overs) | ****157 for 8 wkts**** |
 
 ## Fall of Wickets
 

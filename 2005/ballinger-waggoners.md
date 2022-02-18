@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **C Wells** | dnb |  |  |
 | **Fullow-Field-Smith** | dnb |  |  |
 | **D Tivey** | dnb |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 13 |
-| **Total** | | (45 overs) | 240 for 3 wkts |
+| **Extras** | | (0b 0lb 0w 0nb) | **13** |
+| **Total** | | (45 overs) | **240 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | b | Scanlon | 8 |
 | **P O'Mahony** | b | Scanlon | 2 |
 | **C Gallagher** | not out |  | 0 |
-| **Extras** | | (9b 2lb 4w 0nb) | 15 |
-| **Total** | | (33.5 overs) | 118 all out |
+| **Extras** | | (9b 2lb 4w 0nb) | **15** |
+| **Total** | | (33.5 overs) | **118 all out** |
 
 ## Fall of Wickets
 

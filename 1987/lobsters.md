@@ -35,8 +35,8 @@ R Beswick's 1st 50
 | **Jones** | b | A Gallagher | 1 |  
 | **Northam** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 4lb 4w 0nb) | 8 | 
-| **Total** | | (35.3 overs) | **199 for 5 wkts** | 
+| **Extras** | | (0b 4lb 4w 0nb) | **8** | 
+| **Total** | | (35.3 overs) | ****199 for 5 wkts**** | 
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ R Beswick's 1st 50
 | **Combs** | b  | Mills | 11 | 
 | **G Cross** | st Hallworth | Mills | 0 | 
 | **E Watkins** | not out |  | 0 |
-| **Extras** | | (1b 0lb 2w 0nb) | 3 | 
+| **Extras** | | (1b 0lb 2w 0nb) | **3** | 
 | **Total** | | ( ) | 98 all out | 
 
 ## Fall of Wickets

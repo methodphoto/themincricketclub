@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Fairbrother** | b | A MacFarlane | 0 | 
 | **Greenwell** | b | A MacFarlane | 1 | 
 | **Henton** | not out |  | 0 |
-| **Extras** | | (6b 3lb 1w 0nb) | 10 | 
-| **Total** | | (50 overs) | **203 for 9 wkts** | 
+| **Extras** | | (6b 3lb 1w 0nb) | **10** | 
+| **Total** | | (50 overs) | ****203 for 9 wkts**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Gardiner** | c Levinson | Soar | 12 | 
 | **D Young** | c Greenwell | Soar | 5 | 
 | **J Wright** | not out |  | 0 | 
-| **Extras** | | (22b 7lb 3w 0nb) | 32 | 
-| **Total** | | (31.2 overs) | **186 all out** | 
+| **Extras** | | (22b 7lb 3w 0nb) | **32** | 
+| **Total** | | (31.2 overs) | ****186 all out**** | 
 
 ## Fall of Wickets
 

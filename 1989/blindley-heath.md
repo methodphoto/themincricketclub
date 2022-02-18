@@ -35,8 +35,8 @@ I Marshall hattrick off the last 3 balls of the game
 | **E Garland** | not out |  | 48 | 
 | **R Earney** | not out |  | 9 | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (4b 4lb 2w 0nb) | 10 | 
-| **Total** | | (47 overs) | **170 for 8 wkts** | 
+| **Extras** | | (4b 4lb 2w 0nb) | **10** | 
+| **Total** | | (47 overs) | ****170 for 8 wkts**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ I Marshall hattrick off the last 3 balls of the game
 | **V Jones** | lbw | I Marshall | 0 | 
 | **R Edwards** | c J Grant | I Marshall | 0 | 
 | **T Burchett** | dnb |  |  |
-| **Extras** | | (0b 0lb 1w 0nb) | 1 | 
-| **Total** | | (40 overs) | **111 for 9 wkts** | 
+| **Extras** | | (0b 0lb 1w 0nb) | **1** | 
+| **Total** | | (40 overs) | ****111 for 9 wkts**** | 
 
 ## Fall of Wickets
 

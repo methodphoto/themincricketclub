@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R O'Hagan** | not out |  | 9 |
 | **P Beswick** | b | J Loveday | 0 |
 | **J Wright** | c A Lorimer | I Begg | 8 |
-| **Extras** | | (5b 4lb 13w 5nb 0p) | 27 |
-| **Total** | | (37.1 overs) | 122 all out |
+| **Extras** | | (5b 4lb 13w 5nb 0p) | **27** |
+| **Total** | | (37.1 overs) | **122 all out** |
 
 ## Fall of Wickets
 
@@ -74,8 +74,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Benjamin** | c J Grant | A Binns | 0 |
 | **M Faizan** | b | J Wright | 0 |
 | **J O'Dowd** | not out |  | 5 |
-| **Extras** | | (2b 1lb 16w 0nb 0p) | 19 |
-| **Total** | | (33.3 overs) | 124 for 9 wkts |
+| **Extras** | | (2b 1lb 16w 0nb 0p) | **19** |
+| **Total** | | (33.3 overs) | **124 for 9 wkts** |
 
 ## Fall of Wickets
 

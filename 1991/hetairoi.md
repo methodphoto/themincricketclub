@@ -35,8 +35,8 @@ Steven Hornsby first 5 wkt haul for The Min
 | **B Hyde-Smith** | c M Gardiner | S Hornsby | 0 | 
 | **J Abel** | c R Earney | S Hornsby | 4 | 
 |  |  |  |  |
-| **Extras** | | (6b 5lb 2w 0nb) | 13 | 
-| **Total** | | (51.2 overs) | **195 for 3 wkts** | 
+| **Extras** | | (6b 5lb 2w 0nb) | **13** | 
+| **Total** | | (51.2 overs) | ****195 for 3 wkts**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Steven Hornsby first 5 wkt haul for The Min
 | **I Marshall** | dnb |  |  |
 | **A Swann** | dnb |  |  | 
 | **G Wright** | dnb |  |  | 
-| **Extras** | | (3b 42lb 2w 0nb) | 9 | 
-| **Total** | | (33.5 overs) | **188 for 6 wkts** | 
+| **Extras** | | (3b 42lb 2w 0nb) | **9** | 
+| **Total** | | (33.5 overs) | ****188 for 6 wkts**** | 
 
 ## Fall of Wickets
 

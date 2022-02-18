@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **C Knight** | c W Calvert | R Beswick | 1 |
 | **I MacHattie** | c I Marshall | R Earney | 1 |
 | **T Hill** | not out |  | 5 |
-| **Extras** | | (5b 3lb 4w 2nb) | 14 |
-| **Total** | | (40 overs) | **129 for 9 wkts** |
+| **Extras** | | (5b 3lb 4w 2nb) | **14** |
+| **Total** | | (40 overs) | ****129 for 9 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Earney** | dnb |  |  |
 | **R Beswick** | dnb |  |  |
 | **G Powell** | dnb |  |  |
-| **Extras** | | (5b 1lb 8w 2nb) | 16 |
-| **Total** | | (28.3 overs) | **131 for 6 wkts** |
+| **Extras** | | (5b 1lb 8w 2nb) | **16** |
+| **Total** | | (28.3 overs) | ****131 for 6 wkts**** |
 
 ## Fall of Wickets
 

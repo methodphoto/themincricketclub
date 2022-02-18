@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Manfield** | not out |  | 10 |
 | **J Wright** | not out |  | 11 |
 | **Ge Wright** | dnb |  |  |
-| **Extras** | | (4b 1lb 5w 1nb) | 11 |
-| **Total** | | (41 overs) | **209 for 8 wkts** |
+| **Extras** | | (4b 1lb 5w 1nb) | **11** |
+| **Total** | | (41 overs) | ****209 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **G Middleton** | c & b | Jon Hylton | 0 |
 | **R Heller** | not out |  | 3 |
 | **Meller** | not out |  | 0 |
-| **Extras** | | (2b 1lb 1w 2nb) | 6 |
-| **Total** | | (46 overs) | **195 for 3 wkts** |
+| **Extras** | | (2b 1lb 1w 2nb) | **6** |
+| **Total** | | (46 overs) | ****195 for 3 wkts**** |
 
 ## Fall of Wickets
 

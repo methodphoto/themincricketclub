@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **L Gallagher** | lbw | T Staw | 0 | 
 | **C Wright** | run out |  | 0 | 
 | **M Carlton** | not out |  | 2 | 
-| **Extras** | | (7b 3lb 15w 12nb) | 37 | 
-| **Total** | | (28.3 overs) | **179 all out** | 
+| **Extras** | | (7b 3lb 15w 12nb) | **37** | 
+| **Total** | | (28.3 overs) | ****179 all out**** | 
  
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Winter** | b | R Beswick | 4 | 
 | **T Staw** | c L Gallagher | P Wigg | 1 | 
 | **G Katakos** | run out |  | 0 | 
-| **Extras** | | (13b 0lb 10w 1nb) | 24 | 
-| **Total** | | (35.1 overs) | **148 all out** | 
+| **Extras** | | (13b 0lb 10w 1nb) | **24** | 
+| **Total** | | (35.1 overs) | ****148 all out**** | 
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **N Grimshaw** | dnb |  |  |
 | **D Bate** | dnb |  |  |
 | **K Briggs** | dnb |  |  |
-| **Extras** | | (2b 2lb 3w 1nb) | 8 |
-| **Total** | | (41 overs) | **176 for 6 wkts** |
+| **Extras** | | (2b 2lb 3w 1nb) | **8** |
+| **Total** | | (41 overs) | ****176 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Beswick** | lbw | J Young | 0 |
 | **P O'Mahony** | not out |  | 0 |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (1b 3lb 3w 2nb) | 9 |
-| **Total** | | (43 overs) | **112 for 8 wkts** |
+| **Extras** | | (1b 3lb 3w 2nb) | **9** |
+| **Total** | | (43 overs) | ****112 for 8 wkts**** |
 
 ## Fall of Wickets
 

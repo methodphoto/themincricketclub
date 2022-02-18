@@ -38,8 +38,8 @@ Partnership of 105 between R Earney and S Barrowcliff
 | **R Coyle** | not out |  | 0 |
 | **P Beswick** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (35b 2lb 15w 0nb 0p) | 52 |
-| **Total** | | (46 overs) | 212 for 7 wkts |
+| **Extras** | | (35b 2lb 15w 0nb 0p) | **52** |
+| **Total** | | (46 overs) | **212 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -75,8 +75,8 @@ Partnership of 105 between R Earney and S Barrowcliff
 | **N Lawrence** | b | T Rutherford | 8 |
 | **D Ewan** | run out |  | 13 |
 | **C McKnd** | not out |  | 8 |
-| **Extras** | | (12b 9lb 13w 1nb 0p) | 35 |
-| **Total** | | (37.1 overs) | 205 all out |
+| **Extras** | | (12b 9lb 13w 1nb 0p) | **35** |
+| **Total** | | (37.1 overs) | **205 all out** |
 
 ## Fall of Wickets
 

@@ -35,8 +35,8 @@ R Earney, 4th 5 wicket haul for The Min
 | **K Mildenhall** | dnb |  |  |
 | **K Clarke** | dnb |  |  |
 | **R Baker** | dnb |  |  |
-| **Extras** | | (5b 5lb 2w 1nb) | 13 |
-| **Total** | | (34.5 overs) | **187 for 7 wkts** |
+| **Extras** | | (5b 5lb 2w 1nb) | **13** |
+| **Total** | | (34.5 overs) | ****187 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ R Earney, 4th 5 wicket haul for The Min
 | **S Masterson** | b | Ja East | 1 |
 | **J Wright** | not out |  | 0 |
 |  |  |  |  |
-| **Extras** | | (3b 2lb 3w 2nb) | 10 |
-| **Total** | | (31.4 overs) | **132 for 9 wkts (all out)** |
+| **Extras** | | (3b 2lb 3w 2nb) | **10** |
+| **Total** | | (31.4 overs) | ****132 for 9 wkts (all out)**** |
 
 ## Fall of Wickets
 

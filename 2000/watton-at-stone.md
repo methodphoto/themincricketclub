@@ -34,8 +34,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Scottt** | not out |  | 13 |
 | **C Fursland** | not out |  | 17 |
 | **B Welch** | dnb |  |  |
-| **Extras** | | (1b 5lb 3w 0nb) | 9 |
-| **Total** | | (47 overs) | **126 for 8 wkts** |
+| **Extras** | | (1b 5lb 3w 0nb) | **9** |
+| **Total** | | (47 overs) | ****126 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Desaram** | dnb |  |  |
 | **I Marshall** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 12lb 8w 0nb) | 20 |
-| **Total** | | (23.3 overs) | **127 for 1 wkt** |
+| **Extras** | | (0b 12lb 8w 0nb) | **20** |
+| **Total** | | (23.3 overs) | ****127 for 1 wkt**** |
 
 ## Fall of Wickets
 

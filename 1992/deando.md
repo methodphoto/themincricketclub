@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Garthwaite** | c Doyle | Beeching | 9 | 
 | **G Wright** | b | Rainford | 13 | 
 | **R Olver** | not out |  | 17 | 
-| **Extras** | | (8b 6lb 3w 0nb) | 17 | 
-| **Total** | | (44 overs) | **163 all out** | 
+| **Extras** | | (8b 6lb 3w 0nb) | **17** | 
+| **Total** | | (44 overs) | ****163 all out**** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **Jones** | dnb |  |  |
 |  |  |  |  | 
 |  |  |  |  | 
-| **Extras** | | (1b 4lb 2w 0nb) | 7 | 
+| **Extras** | | (1b 4lb 2w 0nb) | **7** | 
 | **Total** | | (38.2) | 166 for 3 wkts | 
 
 ## Fall of Wickets

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R O'Hagan** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (9b 3lb 17w 0nb 0p) | 29 |
-| **Total** | | (40 overs) | 146 for 7 wkts |
+| **Extras** | | (9b 3lb 17w 0nb 0p) | **29** |
+| **Total** | | (40 overs) | **146 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **C Abbott** | c S Barrowcliff | J Wright | 2 |
 | **J Madden** | not out |  | 27 |
 | **C McKnd** | dnb |  |  |
-| **Extras** | | (3b 1lb 9w 2nb 0p) | 15 |
-| **Total** | | (33 overs) | 148 for 8 wkts |
+| **Extras** | | (3b 1lb 9w 2nb 0p) | **15** |
+| **Total** | | (33 overs) | **148 for 8 wkts** |
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | b | Davies | 0 | 
 | **Nige** | not out |   10 | 
 |  |  |  |  |
-| **Extras** | | (4b 2lb 14w 1nb) | 22 | 
-| **Total** | | (33 overs) | **170 for 8 wkts** | 
+| **Extras** | | (4b 2lb 14w 1nb) | **22** | 
+| **Total** | | (33 overs) | ****170 for 8 wkts**** | 
 
 ## Fall of Wickets
 
@@ -73,8 +73,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Goodall** | b | I Marshall | 6 | 
 | **Norris** | b | I Marshall | 1 |
 | **Fred** | not out |  | 3 |
-| **Extras** | | (5b 4lb 6w 0nb) | 15 | 
-| **Total** | | (31.2 overs) | **154 for 11 all out** | 
+| **Extras** | | (5b 4lb 6w 0nb) | **15** | 
+| **Total** | | (31.2 overs) | ****154 for 11 all out**** | 
 
 ## Fall of Wickets
 

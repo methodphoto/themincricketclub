@@ -35,8 +35,8 @@ Tony Purves: best bowling
 | **J Grant &#8224;** | dnb | | | 
 | **S Horner** | dnb |  | | 
 | **G Powers** | dnb | |  | 
-| **Extras** | | (7b 2lb 8w 0nb) | 17 | 
-| **Total** | | (40.5 overs) | **192 for 6 wkts** | 
+| **Extras** | | (7b 2lb 8w 0nb) | **17** | 
+| **Total** | | (40.5 overs) | ****192 for 6 wkts**** | 
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ Tony Purves: best bowling
 | **D Nolder** | not out | | 13 | 
 | **N Nolder** | st J Grant | T Purves | 2 | 
 | **Moore** | c E Garland | T Purves | 0 | 
-| **Extras** | | (1b 0lb 3w 2nb) | 6 | 
-| **Total** | | (33.3 overs) | **85 all out** | 
+| **Extras** | | (1b 0lb 3w 2nb) | **6** | 
+| **Total** | | (33.3 overs) | ****85 all out**** | 
 
 ## Fall of Wickets
 

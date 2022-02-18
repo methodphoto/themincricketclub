@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 0 | 
-| **Total** | | (0 overs) | **30 for 1 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **0** | 
+| **Total** | | (0 overs) | ****30 for 1 wkts**** | 
 
 ## Fall of Wickets
 
@@ -66,8 +66,8 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 0 | 
-| **Total** | | (0 overs) | **0** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **0** | 
+| **Total** | | (0 overs) | ****0**** | 
 
 ## Fall of Wickets
 

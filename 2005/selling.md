@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Carter** | b | MacFarlane |  |
 | **M Whitling** | b | MacFarlane |  |
 | **D Simmons** | b | MacFarlane |  |
-| **Extras** | | (4b 1lb 6w 1nb) | 12 |
-| **Total** | | (40 overs) | 191 for 6 wkts |
+| **Extras** | | (4b 1lb 6w 1nb) | **12** |
+| **Total** | | (40 overs) | **191 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Coyle** | b | K Newton | 5 |
 | **G Powell** | not out |  | 2 |
 | **J Wright** | c A Burnage | K Newton | 0 |
-| **Extras** | | (5b 1lb 7w 5nb) | 18 |
-| **Total** | | (20.3 overs) | 94 all out |
+| **Extras** | | (5b 1lb 7w 5nb) | **18** |
+| **Total** | | (20.3 overs) | **94 all out** |
 
 ## Fall of Wickets
 

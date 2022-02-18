@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Hurst** | dnb |  |  | 
 | **LeClreq** | dnb |  |  | 
 | **S Tidbury** |  |  |  |
-| **Extras** | | (2b 3lb 1w 1nb) | 7 | 
-| **Total** | | (43 overs) | **201 for 3 wkts** | 
+| **Extras** | | (2b 3lb 1w 1nb) | **7** | 
+| **Total** | | (43 overs) | ****201 for 3 wkts**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **K Newman** | not out |  | 2 | 
 | **G Wright** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (5b 3lb 2w 3nb) | 13 |
-| **Total** | | (43 overs) | **137 for 7 wkts** | 
+| **Extras** | | (5b 3lb 2w 3nb) | **13** |
+| **Total** | | (43 overs) | ****137 for 7 wkts**** | 
 
 ## Fall of Wickets
 

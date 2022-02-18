@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Driskell** | c I Muntakim | M Gupta | 7 |
 | **T Wilson** | lbw | I Muntakim | 6 |
 | **R Young** | not out | | 2 |
-| **Extras** | | (0b 1lb 7w 0nb 0p) | 10 |
-| **Total** | | (35 overs) | **164 all out** |
+| **Extras** | | (0b 1lb 7w 0nb 0p) | **10** |
+| **Total** | | (35 overs) | ****164 all out**** |
 
 ## Fall of Wickets
 

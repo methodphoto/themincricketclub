@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | dnb |  |  |
 | **A Slight** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (2b 2lb 9w 0nb) | 13 |
-| **Total** | | (29 overs) | **79 for 5 wkts** |
+| **Extras** | | (2b 2lb 9w 0nb) | **13** |
+| **Total** | | (29 overs) | ****79 for 5 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) |  |
-| **Total** | | (0 overs) | **** |
+| **Total** | | (0 overs) | ******** |
 
 ## Fall of Wickets
 

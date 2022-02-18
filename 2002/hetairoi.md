@@ -35,8 +35,8 @@ Played at {{page.location}} on {{page.date}}
 | **C Allchorne** | dnb |  |  |
 | **P O'Brien** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (9b 2lb 4w 0nb) | 32 |
-| **Total** | | (41 overs) | **209 for 6 wkts** |
+| **Extras** | | (9b 2lb 4w 0nb) | **32** |
+| **Total** | | (41 overs) | ****209 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **B Slade** | not out |  | 20 |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 7w 1nb) | 8 |
-| **Total** | | (41 overs) | **168 for 7 wkts** |
+| **Extras** | | (0b 0lb 7w 1nb) | **8** |
+| **Total** | | (41 overs) | ****168 for 7 wkts**** |
 
 ## Fall of Wickets
 

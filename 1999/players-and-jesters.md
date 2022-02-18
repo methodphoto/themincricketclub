@@ -34,8 +34,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | not out |  | 11 |
 | **J Wright** | c | Black | 2 |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 3w 1nb) | 4 |
-| **Total** | | (34.1 overs) | **124 for 9 wkts** |
+| **Extras** | | (0b 0lb 3w 1nb) | **4** |
+| **Total** | | (34.1 overs) | ****124 for 9 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **Gray** | dnb |  |  |
 | **Lennox** | dnb |  |  |
 | **Roskrow** | dnb |  |  |
-| **Extras** | | (5b 3lb 8w 0nb) | 16 |
-| **Total** | | (26.5 overs) | **127 for 1 wkts** |
+| **Extras** | | (5b 3lb 8w 0nb) | **16** |
+| **Total** | | (26.5 overs) | ****127 for 1 wkts**** |
 
 ## Fall of Wickets
 

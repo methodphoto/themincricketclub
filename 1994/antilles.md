@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Callender** | b | R Beswick | 33 | 
 | **Boyle** | b | E Garland | 22 |
 | **McGeary** | not out |  | 0 |
-| **Extras** | | (8b 8lb 8w 0nb) | 24 | 
-| **Total** | | (39 overs) | **282 for 9 wkts** | 
+| **Extras** | | (8b 8lb 8w 0nb) | **24** | 
+| **Total** | | (39 overs) | ****282 for 9 wkts**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | b | K Gibbons | 12 | 
 | **J Grant** | not out |  | 26 | 
 | **J Wright** | b | Boyle | 15 | 
-| **Extras** | | (4b 0lb 5w 5nb) | 14 | 
-| **Total** | | (35.4 overs) | **195 all out** | 
+| **Extras** | | (4b 0lb 5w 5nb) | **14** | 
+| **Total** | | (35.4 overs) | ****195 all out**** | 
 
 ## Fall of Wickets
 

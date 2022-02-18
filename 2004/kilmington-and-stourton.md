@@ -37,8 +37,8 @@ R Earney's 21st 50
 | **J Grant &#8224;** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (4b 6lb 10w 3nb) | 23 |
-| **Total** | | (32 overs) | 173 for 6 wkts |
+| **Extras** | | (4b 6lb 10w 3nb) | **23** |
+| **Total** | | (32 overs) | **173 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -74,8 +74,8 @@ R Earney's 21st 50
 | **C Spencer** | not out |  |  |
 | **S Snook** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (1b 0lb 1w 1nb) | 3 |
-| **Total** | | (21 overs) | 74 for 7 wkts |
+| **Extras** | | (1b 0lb 1w 1nb) | **3** |
+| **Total** | | (21 overs) | **74 for 7 wkts** |
 
 ## Fall of Wickets
 

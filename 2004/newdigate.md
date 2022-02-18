@@ -36,8 +36,8 @@ M Goff's 1st 50
 | **S Macdonald** | dnb |  |  |
 | **W Bowley** | dnb |  |  |
 | **D Jones** |dnb |  |  |
-| **Extras** | | (8b 3lb 6w 2nb) | 19 |
-| **Total** | | (37 overs) | 195 for 3 wkts |
+| **Extras** | | (8b 3lb 6w 2nb) | **19** |
+| **Total** | | (37 overs) | **195 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ M Goff's 1st 50
 | **I Marshall** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **P O'Mahony** | dnb |  |  |
-| **Extras** | | (4b 6lb 5w 4nb) | 19 |
-| **Total** | | (38 overs) | 185 for 5 wkts |
+| **Extras** | | (4b 6lb 5w 4nb) | **19** |
+| **Total** | | (38 overs) | **185 for 5 wkts** |
 
 ## Fall of Wickets
 

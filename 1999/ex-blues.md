@@ -34,8 +34,8 @@ Played at {{page.location}} on {{page.date}}
 | **Ryan** | dnb |  |  |
 | **Nicol** | dnb |  |  |
 | **Tappenden** | dnb |  |  |
-| **Extras** | | (13b 5lb 3w 0nb) | 21 |
-| **Total** | | (40 overs) | **221 for 3 wkts** |
+| **Extras** | | (13b 5lb 3w 0nb) | **21** |
+| **Total** | | (40 overs) | ****221 for 3 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Grant** | b | Collins | 9 |
 | **J Wright** | not out |  | 7 |
 | **Ge Wright** | b | Painter | 0 |
-| **Extras** | | (9b 2lb 4w 0nb) | 10 |
-| **Total** | | (34.5 overs) | **147 all out** |
+| **Extras** | | (9b 2lb 4w 0nb) | **10** |
+| **Total** | | (34.5 overs) | ****147 all out**** |
 
 ## Fall of Wickets
 

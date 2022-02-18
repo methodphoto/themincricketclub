@@ -36,7 +36,7 @@ Partnership of 107 between R Beswick and A Slight
 | **P Wigg** | b | T Hill | 6 |
 | **P O'Mahony** | st J Jones | J Entwhistle | 3 |
 | **J Wright &#42;** | not out |  | 2 |
-| **Extras** | | (6b 0lb 11w 3nb 0p) | 20 |
+| **Extras** | | (6b 0lb 11w 3nb 0p) | **20** |
 | **Total** | | (39.4  overs) | **187 all out** |
 
 ## Fall of Wickets
@@ -73,8 +73,8 @@ Partnership of 107 between R Beswick and A Slight
 | **P Weaver** | b | R Beswick | 4 |
 | **M Grabham** | b | P Wigg | 6 |
 | **J Mariner** | b | P Wigg | 0 |
-| **Extras** | | (7b 0lb 1w 1nb 0p) | 9 |
-| **Total** | | (35 overs) | **156 all out** |
+| **Extras** | | (7b 0lb 1w 1nb 0p) | **9** |
+| **Total** | | (35 overs) | ****156 all out**** |
 
 ## Fall of Wickets
 

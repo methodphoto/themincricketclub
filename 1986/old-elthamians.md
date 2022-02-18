@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Hart** | run out |  | 2 | 
 | **M Wright** | not out |  | 1 | 
 | **P Magstone** | dnb |  |  |
-| **Extras** | | (1b 5lb 0w 0nb) | 6 | 
-| **Total** | | (43 overs) | **200 for 7 wkts** | 
+| **Extras** | | (1b 5lb 0w 0nb) | **6** | 
+| **Total** | | (43 overs) | ****200 for 7 wkts**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Olver** | dnb | |  | 
 |  |  |  |  |
 |  |  |  |  | 
-| **Extras** | | (9b 2lb 8w 0nb) | 19 | 
-| **Total** | | (27.3 overs) | **201 for 4 wkts** | 
+| **Extras** | | (9b 2lb 8w 0nb) | **19** | 
+| **Total** | | (27.3 overs) | ****201 for 4 wkts**** | 
 
 ## Fall of Wickets
 

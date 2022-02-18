@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (b 0b 0w 0nb) | 11 | 
-| **Total** | | (44 overs) | **190 for 3 wkts** | 
+| **Total** | | (44 overs) | ****190 for 3 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | dnb |  |  | 
 | **E Garland** | dnb | |  | 
 | **J Wright** | dnb | |  | 
-| **Extras** | | (0b 7lb 3w 1nb) | 11 | 
-| **Total** | | (45 overs) | **190 for 6 wkts** | 
+| **Extras** | | (0b 7lb 3w 1nb) | **11** | 
+| **Total** | | (45 overs) | ****190 for 6 wkts**** | 
 
 ## Fall of Wickets
 

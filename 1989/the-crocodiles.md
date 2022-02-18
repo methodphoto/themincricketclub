@@ -35,8 +35,8 @@ R Beswick's 2nd 50
 | **E Harcourt** | b | Lethbridge | 1 | 
 | **G Wright** | not out |  | 17 | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (9b 2lb 4w 0nb) | 1 | 
-| **Total** | | (45 overs) | **171 for 8 wkts** | 
+| **Extras** | | (9b 2lb 4w 0nb) | **1** | 
+| **Total** | | (45 overs) | ****171 for 8 wkts**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ R Beswick's 2nd 50
 | **T Anderson** | dnb |  |  | 
 | **N Couchman** | dnb |  |  | 
 | **E Cooper** | dnb |  |  |
-| **Extras** | | (6b 10lb 3w 0nb) | 19 | 
-| **Total** | | (38 overs) | **172 for 6 wkts** | 
+| **Extras** | | (6b 10lb 3w 0nb) | **19** | 
+| **Total** | | (38 overs) | ****172 for 6 wkts**** | 
 
 ## Fall of Wickets
 

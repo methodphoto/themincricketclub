@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Beard** | c & b | J Wright | 2 | 
 | **John** | not out |  | 8 | 
 | **Luke** | c | J Wright | 4 | 
-| **Extras** | | (1b 0lb 1w 0nb) | 2 | 
-| **Total** | | (20.5 overs) | **161 all out** | 
+| **Extras** | | (1b 0lb 1w 0nb) | **2** | 
+| **Total** | | (20.5 overs) | ****161 all out**** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | lbw | A Beard | 7 | 
 | **J Wright** | b | A Beard | 7 | 
 | **E Garland** | not out |  | 14 | 
-| **Extras** | | (2b 3lb 0w 2nb) | 17 | 
+| **Extras** | | (2b 3lb 0w 2nb) | **17** | 
 | **Total** | | | 144 all out | 
 
 ## Fall of Wickets

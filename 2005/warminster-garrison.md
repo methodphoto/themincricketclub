@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | not out |  | 4 |
 | **G Powell** | not out |  | 3 |
 |  |  |  |  |
-| **Extras** | | (71b 5lb 21w 11nb) | 44 |
-| **Total** | | (35 overs) | 168 for 8 wkts |
+| **Extras** | | (71b 5lb 21w 11nb) | **44** |
+| **Total** | | (35 overs) | **168 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **G Hony** | lbw | A Slight | 9 |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (9b 6lb 0w 8nb) | 23 |
-| **Total** | | (24 overs) | 124 for 8 wkts (all out) |
+| **Extras** | | (9b 6lb 0w 8nb) | **23** |
+| **Total** | | (24 overs) | **124 for 8 wkts (all out)** |
 
 ## Fall of Wickets
 

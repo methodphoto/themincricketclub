@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | b | D Seymour | 0 | 
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (3b 1lb 0w 0nb) | 4 | 
-| **Total** | | (20.2 overs) | **26 all out** | 
+| **Extras** | | (3b 1lb 0w 0nb) | **4** | 
+| **Total** | | (20.2 overs) | ****26 all out**** | 
 
 ## Fall of Wickets
 
@@ -66,8 +66,8 @@ Played at {{page.location}} on {{page.date}}
 | **O'Brien** |  |  |  |
 | **Blackburn** |  |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 0 | 
-| **Total** | | (0 overs) | **27 for 1 wkt** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **0** | 
+| **Total** | | (0 overs) | ****27 for 1 wkt**** | 
 
 ## Fall of Wickets
 

@@ -35,7 +35,7 @@ E Garland 5 wkts (2nd match in a row)
 | **Jim** | run out |  | 7 | 
 | **Terry** | not out | | 1 | 
 | **Extras** | | (3b 0lb 7w 2nb) | **12** | 
-| **Total** | | (39.3 overs) | **137 all out** | 
+| **Total** | | (39.3 overs) | ****137 all out**** | 
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ E Garland 5 wkts (2nd match in a row)
 | **C Wright** | dnb |  |  | 
 | **E Garland** | dnb |  |  | 
 | **Extras** | | (3b 4lb 31w 2nb) | **22** | 
-| **Total** | | (27.3 overs) | **140 for 3 wkts** | 
+| **Total** | | (27.3 overs) | ****140 for 3 wkts**** | 
 
 ## Fall of Wickets
 

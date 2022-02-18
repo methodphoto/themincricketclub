@@ -35,8 +35,8 @@ D Swann 74 off 47 balls (50 off 31)
 | **A James** | c I Marshall | D Swann | 34 | 
 | **P Lilley** | b | A Swann | 15 | 
 | **S Souter** | not out |  | 8 |
-| **Extras** | | (1b 1lb 1w 0nb) | 3 | 
-| **Total** | | (46 overs) | **152 all out** | 
+| **Extras** | | (1b 1lb 1w 0nb) | **3** | 
+| **Total** | | (46 overs) | ****152 all out**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ D Swann 74 off 47 balls (50 off 31)
 | **I Marshall** | dnb |  |  | 
 | **A Swann** | dnb |  |  | 
 |  |  |  |  |
-| **Extras** | | (3b 0lb 3w 0nb) | 6 | 
-| **Total** | | (22.2 overs) | **153 for 4 wkts** | 
+| **Extras** | | (3b 0lb 3w 0nb) | **6** | 
+| **Total** | | (22.2 overs) | ****153 for 4 wkts**** | 
 
 ## Fall of Wickets
 

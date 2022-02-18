@@ -35,8 +35,8 @@ P Grant first 50. R Green best bowling for The Min
 | **R Beswick &#42;** | dnb |  |  |
 | **J Grant &#8224;** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (1b 0lb 9w 0nb) | 10 |
-| **Total** | | (33.5 overs) | **203 for 6 wkts** |
+| **Extras** | | (1b 0lb 9w 0nb) | **10** |
+| **Total** | | (33.5 overs) | ****203 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -73,8 +73,8 @@ P Grant first 50. R Green best bowling for The Min
 | **S Roake** | c J Grant | R Green | 0 |
 | **T Howard** | b | R Green | 0 |
 | **M Denman** | not out |  | 0 |
-| **Extras** | | (5b 2lb 2w 1nb) | 10 |
-| **Total** | | (33.4 overs) | **154 all out** |
+| **Extras** | | (5b 2lb 2w 1nb) | **10** |
+| **Total** | | (33.4 overs) | ****154 all out**** |
 
 ## Fall of Wickets
 

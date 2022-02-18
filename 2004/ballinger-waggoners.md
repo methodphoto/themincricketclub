@@ -35,8 +35,8 @@ R Earney’s 19th 50
 | **N Putt** | lbw | T Hardy | 7 |
 | **J Wright** | b | T Hardy | 0 |
 | **S Hinton-Smith** | not out |  | 0 |
-| **Extras** | | (9b 2lb 2w 0nb) | 13 |
-| **Total** | | (36.3 overs) | 129 all out |
+| **Extras** | | (9b 2lb 2w 0nb) | **13** |
+| **Total** | | (36.3 overs) | **129 all out** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ R Earney’s 19th 50
 | **A MacDonald** | dnb |  |  |
 | **F Hardy** | dnb |  |  |
 | **T Hardy** | dnb |  |  |
-| **Extras** | | (7b 3lb 2w 1nb) | 13 |
+| **Extras** | | (7b 3lb 2w 1nb) | **13** |
 | **Total** | | (39) | 133 for 7 wkts |
 
 ## Fall of Wickets

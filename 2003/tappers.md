@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Neate** | b | I Marshall | 1 |
 | **A Chadwick** | run out |  | 15 |
 | **R Brittain** | st A Slight | R Green | 15 |
-| **Extras** | | (1b 4lb 2w 4nb) | 11 |
-| **Total** | | (43 overs) | **179 all out** |
+| **Extras** | | (1b 4lb 2w 4nb) | **11** |
+| **Total** | | (43 overs) | ****179 all out**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Coyle** | lbw | A Ruxton | 8 |
 | **J Wright** | not out |  | 2 |
 |  |  |  |  |
-| **Extras** | | (3b 1lb 4w 4nb) | 12 |
-| **Total** | | (33.5 overs) | **107 for 9 wkts (all out)** |
+| **Extras** | | (3b 1lb 4w 4nb) | **12** |
+| **Total** | | (33.5 overs) | ****107 for 9 wkts (all out)**** |
 
 ## Fall of Wickets
 

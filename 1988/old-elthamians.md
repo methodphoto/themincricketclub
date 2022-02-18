@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Pearce** | b | M Taylor | 3 | 
 | **M Wright** | not out |  | 4 | 
 | **Punnett** | b | W Calvert | 0 |
-| **Extras** | | (0b 3lb 3w 1nb) | 7 | 
-| **Total** | | (42.3 overs) | **190 all out** | 
+| **Extras** | | (0b 3lb 3w 1nb) | **7** | 
+| **Total** | | (42.3 overs) | ****190 all out**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | dnb |  |  | 
 | **M Gardiner** | dnb |  |  |
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (5b 4lb 2w 4nb) | 15 | 
-| **Total** | | (40.2 overs) | **193 for 4 wkts** | 
+| **Extras** | | (5b 4lb 2w 4nb) | **15** | 
+| **Total** | | (40.2 overs) | ****193 for 4 wkts**** | 
 
 ## Fall of Wickets
 

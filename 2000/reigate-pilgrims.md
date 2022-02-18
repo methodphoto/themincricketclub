@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Forsyth** | dnb |  |  |
 | **A Tomes** | dnb |  |  |
 | **Bosman** | dnb |  |  |
-| **Extras** | | (3b 6lb 2w 2nb) | 13 |
-| **Total** | | (45.1 overs) | **143 for 7 wkts** |
+| **Extras** | | (3b 6lb 2w 2nb) | **13** |
+| **Total** | | (45.1 overs) | ****143 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Desarum** | dnb |  |  |
 | **J Grant** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (19b 2lb 3w 4nb) | 28 |
-| **Total** | | (32 overs) | **146 for 5 wkts** |
+| **Extras** | | (19b 2lb 3w 4nb) | **28** |
+| **Total** | | (32 overs) | ****146 for 5 wkts**** |
 
 ## Fall of Wickets
 

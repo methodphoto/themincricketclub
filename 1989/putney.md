@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Hornsby** | b | 4| 0 | 
 | **D Young** | not out |  | 13 | 
 | **G Wright** | not out |  | 9 | 
-| **Extras** | | (11b 8lb 0w 1nb) | 20 | 
-| **Total** | | (44 overs) | **156 for 9 wkts** | 
+| **Extras** | | (11b 8lb 0w 1nb) | **20** | 
+| **Total** | | (44 overs) | ****156 for 9 wkts**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **Tim** | not out |  | 3 | 
 | **Sid** | dnb |  |  | 
 |  |  |  |  |
-| **Extras** | | (4b 1lb 3w 0nb) | 8 | 
-| **Total** | | (37 overs) | **129 for 7 wkts** | 
+| **Extras** | | (4b 1lb 3w 0nb) | **8** | 
+| **Total** | | (37 overs) | ****129 for 7 wkts**** | 
 
 ## Fall of Wickets
 

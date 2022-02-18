@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Butcher** | b | S Turner | 1 |
 | **S Larkin** | c R Neate | S Turner | 6 |
 |  |  |  |  |
-| **Extras** | | (5b 8lb 2w 0nb) | 15 |
-| **Total** | | (46.5 overs) | **114 all out** |
+| **Extras** | | (5b 8lb 2w 0nb) | **15** |
+| **Total** | | (46.5 overs) | ****114 all out**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Fleetwood** | dnb |  |  |
 | **R Neate** | dnb |  |  |
 | **S Lovegrove** | dnb |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (36.3 overs) | **117 for 6 wkts** |
+| **Extras** | | (5b 0lb 6w 0nb) | **11** |
+| **Total** | | (36.3 overs) | ****117 for 6 wkts**** |
 
 ## Fall of Wickets
 

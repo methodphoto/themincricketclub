@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **R O'Hagan** | b | J Appleton | 13 |
 | **P Wigg** | b | JK | 1 |
 | **R Coyle** | not out |  | 0 |
-| **Extras** | | (8b 3lb 0w 0nb 0p) | 11 |
-| **Total** | | (27.4 overs) | **75 all out** |
+| **Extras** | | (8b 3lb 0w 0nb 0p) | **11** |
+| **Total** | | (27.4 overs) | ****75 all out**** |
 
 ## Fall of Wickets
 
@@ -66,8 +66,8 @@ Played at {{page.location}} on {{page.date}}
 | **Redding** | dnb |  |  |
 | **F Butler** | dnb |  |  |
 | **R Henshaw** | dnb |  |  |
-| **Extras** | | (5b 0lb 0w 0nb 0p) | 5 |
-| **Total** | | (22 overs) | **78 for 3 wkts** |
+| **Extras** | | (5b 0lb 0w 0nb 0p) | **5** |
+| **Total** | | (22 overs) | ****78 for 3 wkts**** |
 
 ## Fall of Wickets
 

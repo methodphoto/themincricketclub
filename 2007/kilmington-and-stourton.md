@@ -35,8 +35,8 @@ Grandstand finish by H Ingham and P O'Mahony
 | **S Heyes** | dnb |  |  |
 | **D Lapham** | dnb |  |  |
 | **D French** | dnb |  |  |
-| **Extras** | | (1b 4lb 13w 6nb 0p) | 24 |
-| **Total** | | (40 overs) | 180 for 6 wkts |
+| **Extras** | | (1b 4lb 13w 6nb 0p) | **24** |
+| **Total** | | (40 overs) | **180 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Grandstand finish by H Ingham and P O'Mahony
 | **H Ingham** | not out |  | 27 |
 | **I Marshall** | b | D Barton | 0 |
 | **P O'Mahony** | not out |  | 10 |
-| **Extras** | | (2b 0lb 20w 3nb 0p) | 25 |
-| **Total** | | (33.5 overs) | 181 for 9 wkts |
+| **Extras** | | (2b 0lb 20w 3nb 0p) | **25** |
+| **Total** | | (33.5 overs) | **181 for 9 wkts** |
 
 ## Fall of Wickets
 

@@ -35,8 +35,8 @@ R Beswick's 21st 50. W Calvert's 7th 50
 | **E Garland** | dnb |  |  |
 | **P O'Mahony** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (6b 2lb 7w 1nb 0p) | 16 |
-| **Total** | | (42.5 overs) | 202 for 8 wkts |
+| **Extras** | | (6b 2lb 7w 1nb 0p) | **16** |
+| **Total** | | (42.5 overs) | **202 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ R Beswick's 21st 50. W Calvert's 7th 50
 | **D Keating** | c P Grant | A Beswick | 0 |
 | **S Gabriel** | c J Grant | P Grant | 4 |
 | **M Dilger** | not out |  | 3 |
-| **Extras** | | (2b 2lb 1w 4nb 0p) | 9 |
-| **Total** | | (23.4 overs) | 66 all out |
+| **Extras** | | (2b 2lb 1w 4nb 0p) | **9** |
+| **Total** | | (23.4 overs) | **66 all out** |
 
 ## Fall of Wickets
 

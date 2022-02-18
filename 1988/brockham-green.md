@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Fielding** | lbw | Farmern | 0 | 
 | **J Wright** | run out |  | 9 | 
 | **R Olver** | not out |  | 12 | 
-| **Extras** | | (1b 8lb 1w 1nb) | 11 | 
-| **Total** | | (33.5 overs) | **169 all out** | 
+| **Extras** | | (1b 8lb 1w 1nb) | **11** | 
+| **Total** | | (33.5 overs) | ****169 all out**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **Jordan** | b | A Gallagher | 0 | 
 | **Oakley** | c J Wright | A Gallagher | 5 | 
 | **Haynes** | not out |  | 0 |
-| **Extras** | | (5b 0lb 6w 0nb) | 15 | 
-| **Total** | | (42 overs) | **134 for 9 wkts** | 
+| **Extras** | | (5b 0lb 6w 0nb) | **15** | 
+| **Total** | | (42 overs) | ****134 for 9 wkts**** | 
 
 ## Fall of Wickets
 

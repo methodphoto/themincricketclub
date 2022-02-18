@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | not out |  | 5 | 
 | **R Beswick &#42;** | dnb |  |  |
 | **G Wright** | dnb |  |  | 
-| **Extras** | | (14b 1lb 6w 0nb) | 21 | 
-| **Total** | | (33.5 overs) | **213 for 7 wkts** | 
+| **Extras** | | (14b 1lb 6w 0nb) | **21** | 
+| **Total** | | (33.5 overs) | ****213 for 7 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Vame** | b | G Wright | 0 | 
 | **T Kingston** | not out |  | 1 |
 | **P Lilley** | dnb |  |  | 
-| **Extras** | | (11b 1lb 7w 0nb) | 19 | 
-| **Total** | | (47 overs) | **122 for 8 wkts** | 
+| **Extras** | | (11b 1lb 7w 0nb) | **19** | 
+| **Total** | | (47 overs) | ****122 for 8 wkts**** | 
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **N Buckland** | dnb |  |  |
 | **D Forsyth** | dnb |  |  |
 | **W Seldon** | dnb |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (43 overs) | 195 for 3 wkts |
+| **Extras** | | (5b 0lb 6w 0nb) | **11** |
+| **Total** | | (43 overs) | **195 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Coyle** | lbw | P Saikia | 4 |
 | **R O'Hagan** | not out |  | 0 |
 | **J Wright** |dnb |  |  |
-| **Extras** | | (11b 0lb 4w 0nb) | 15 |
-| **Total** | | (42 overs) | 133 for 8 wkts |
+| **Extras** | | (11b 0lb 4w 0nb) | **15** |
+| **Total** | | (42 overs) | **133 for 8 wkts** |
 
 ## Fall of Wickets
 

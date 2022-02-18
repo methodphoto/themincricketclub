@@ -34,8 +34,8 @@ Played at {{page.location}} on {{page.date}}
 | **I Hamilton** | dnb |  |  |  
 |  |  |  |  | 
 |  |  |  |  |
-| **Extras** | | (5b 7lb 9w 2nb) | 23 | 
-| **Total** | | (35.2 overs) | **235 for 3 wkts** | 
+| **Extras** | | (5b 7lb 9w 2nb) | **23** | 
+| **Total** | | (35.2 overs) | ****235 for 3 wkts**** | 
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | not out |  | 31 | 
 | **N Fincham** | not out |  | 0 | 
 | **W Calvert &#8224;** | dnb |  |  |
-| **Extras** | | (4b 1lb 0w 0nb) | 5 | 
-| **Total** | | (39 overs) | **183 for 8 wkts** | 
+| **Extras** | | (4b 1lb 0w 0nb) | **5** | 
+| **Total** | | (39 overs) | ****183 for 8 wkts**** | 
 
 ## Fall of Wickets
 

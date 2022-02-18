@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | not out |  | 48 |
 | **P O'Brien** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (12b 8lb 13w 1nb) | 34 |
-| **Total** | | (40 overs) | **216 for 7 wkts** |
+| **Extras** | | (12b 8lb 13w 1nb) | **34** |
+| **Total** | | (40 overs) | ****216 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Hooper** | not out |  |  |
 | **N Beswick** | c R Beswick | M Belfrage |  |
 |  |  |  |  |
-| **Extras** | | (2b 0lb 11w 7nb) | 20 |
-| **Total** | | (46 overs) | **145 for 9 wkts (all out)** |
+| **Extras** | | (2b 0lb 11w 7nb) | **20** |
+| **Total** | | (46 overs) | ****145 for 9 wkts (all out)**** |
 
 ## Fall of Wickets
 

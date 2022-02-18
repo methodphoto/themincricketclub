@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **C Harvey** | c M Petre | S Masterson | 0 |
 | **M Cakebread** | not out |  | 10 |
 | **B Welch** | dnb |  |  |
-| **Extras** | | (7b 0lb 3w 0nb) | 10 |
-| **Total** | | (38 overs) | **197 for 8 wkts** |
+| **Extras** | | (7b 0lb 3w 0nb) | **10** |
+| **Total** | | (38 overs) | ****197 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -66,8 +66,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Masterson** | c | M Cakebread | 7 |
 | **J Grant &#8224;** | not out |  | 3 |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (4b 0lb 2w 4nb) | 10 |
-| **Total** | | (39 overs) | **159 for 9 wkts** |
+| **Extras** | | (4b 0lb 2w 4nb) | **10** |
+| **Total** | | (39 overs) | ****159 for 9 wkts**** |
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Callender** | c A MacFarlane | J Cunningham-Rolls | 4 | 
 | **O Selman** | not out |  | 16 | 
 | **T Nicholls** | dnb |  |  |
-| **Extras** | | (9b 9lb 8w 0nb) | 26 | 
-| **Total** | | (40 overs) | **210 for 8 wkts** | 
+| **Extras** | | (9b 9lb 8w 0nb) | **26** | 
+| **Total** | | (40 overs) | ****210 for 8 wkts**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Cunningham-Rolls** | not out |  | 11 | 
 | **R Olver** | not out |  | 20 | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (13b 14lb 7w 2nb) | 36 | 
-| **Total** | | (33.5 overs) | **199 for 8 wkts** | 
+| **Extras** | | (13b 14lb 7w 2nb) | **36** | 
+| **Total** | | (33.5 overs) | ****199 for 8 wkts**** | 
 
 ## Fall of Wickets
 

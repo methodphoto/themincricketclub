@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | not out |   | 11 |
 | **J Wright** | not out |  | 1 |
 | **Kamal** | dnb |  |  |
-| **Extras** | | (12b 4lb 1w 0nb 0p) | 17 |
-| **Total** | | (44 overs) | 206 for 8 wkts |
+| **Extras** | | (12b 4lb 1w 0nb 0p) | **17** |
+| **Total** | | (44 overs) | **206 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **B Gibbings** | dnb |  |  |
 | **R Clayton** | dnb |  |  |
 | **B Welch** | dnb |  |  |
-| **Extras** | | (1b 3lb 4w 7nb 0p) | 15 |
-| **Total** | | (38.2 overs) | 213 for 3 wkts |
+| **Extras** | | (1b 3lb 4w 7nb 0p) | **15** |
+| **Total** | | (38.2 overs) | **213 for 3 wkts** |
 
 ## Fall of Wickets
 

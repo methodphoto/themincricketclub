@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **G Mitchell** | not out |  | 7 |
 | **S Burgess** | not out |  | 2 |
 | **D Baty** | dnb |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 13 |
-| **Total** | | (46 overs) | **166 for 8 wkts** |
+| **Extras** | | (0b 0lb 0w 0nb) | **13** |
+| **Total** | | (46 overs) | ****166 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **P O'Mahony** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **E Garland** | dnb |  |  |
-| **Extras** | | (1b 2lb 9w 1nb 0p) | 13 |
-| **Total** | | (40 overs) | **118 for 6 wkts** |
+| **Extras** | | (1b 2lb 9w 1nb 0p) | **13** |
+| **Total** | | (40 overs) | ****118 for 6 wkts**** |
 
 ## Fall of Wickets
 

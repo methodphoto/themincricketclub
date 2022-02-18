@@ -37,8 +37,8 @@ J Wright's 5th Fivefer
 | **K Gallagher** | dnb |  |  |
 | **C Wright** | dnb |  |  |
 | **C Gallagher** | dnb |  |  |
-| **Extras** | | (3b 3lb 7w 1nb) | 14 |
-| **Total** | | (41 overs) | 241 for 2 wkts |
+| **Extras** | | (3b 3lb 7w 1nb) | **14** |
+| **Total** | | (41 overs) | **241 for 2 wkts** |
 
 ## Fall of Wickets
 
@@ -73,8 +73,8 @@ J Wright's 5th Fivefer
 | **Hassett** | st J Grant | J Wright | 4 |
 | **Kember** | b |  J Wright| 2 |
 | **Other** | not out |  | 0 |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (46 overs) | 199 all out |
+| **Extras** | | (5b 0lb 6w 0nb) | **11** |
+| **Total** | | (46 overs) | **199 all out** |
 
 ## Fall of Wickets
 

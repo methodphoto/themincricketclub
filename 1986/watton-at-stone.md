@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Bunyan** | dnb |  |  | 
 | **Burnell** | dnb |  |  | 
 | **R Clayton** | dnb |  |  |
-| **Extras** | | (6b 2lb 0w 4nb) | 12 | 
-| **Total** | | (38 overs) | **237 for 5 wkts** | 
+| **Extras** | | (6b 2lb 0w 4nb) | **12** | 
+| **Total** | | (38 overs) | ****237 for 5 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | c I Fursland | Spinks | 1 | 
 | **C Chitty** | b | Spinks | 0 | 
 |  |  |  |  |
-| **Extras** | | (2b 1lb 1w 0nb) | 4 | 
-| **Total** | | (44.2 overs) | **142 for 9 (all out)** | 
+| **Extras** | | (2b 1lb 1w 0nb) | **4** | 
+| **Total** | | (44.2 overs) | ****142 for 9 (all out)**** | 
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **G Pepper** | not out |  | 19 |
 | **S Easton** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (6b 1lb 5w 0nb) | 12 |
-| **Total** | | (42 overs) | **177 for 7 wkts** |
+| **Extras** | | (6b 1lb 5w 0nb) | **12** |
+| **Total** | | (42 overs) | ****177 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | not out |  | 6 |
 | **J Fleetwood** | not out |  | 0 |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (11b 1lb 2w 10nb) | 15 |
-| **Total** | | (40 overs) | **119 for 8 wkts** |
+| **Extras** | | (11b 1lb 2w 10nb) | **15** |
+| **Total** | | (40 overs) | ****119 for 8 wkts**** |
 
 ## Fall of Wickets
 

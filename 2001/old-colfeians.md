@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Weston** | not out |  | 5 |
 | **D Walker** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (8b 5lb 10w 3nb) | 26 |
-| **Total** | | (46 overs) | **170 for 7 wkts** |
+| **Extras** | | (8b 5lb 10w 3nb) | **26** |
+| **Total** | | (46 overs) | ****170 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Green** | dnb |  |  |
 | **R Beswick &#42;** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (21b 3lb 3w 4nb) | 31 |
-| **Total** | | (33.5 overs) | **174 for 4 wkts** |
+| **Extras** | | (21b 3lb 3w 4nb) | **31** |
+| **Total** | | (33.5 overs) | ****174 for 4 wkts**** |
 
 ## Fall of Wickets
 

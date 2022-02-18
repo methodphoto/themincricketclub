@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Harcourt** | not out |  | 9 | 
 | **M Gardiner** | not out |  | 16 | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (0b 0lb 0w 0nb) | 10 | 
-| **Total** | | (25 overs) | **123 for 8 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **10** | 
+| **Total** | | (25 overs) | ****123 for 8 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **Pott** | lbw | J Wright | 15 | 
 | **Nolan** | run out | | 0 | 
 | **Hamid** | not out |  | 3 | 
-| **Extras** | | (0b 0lb 0w 0nb) | 14 | 
-| **Total** | | (25 overs) | **82 for 9 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **14** | 
+| **Total** | | (25 overs) | ****82 for 9 wkts**** | 
 
 ## Fall of Wickets
 

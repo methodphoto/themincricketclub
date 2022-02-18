@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Carabache** | run out |  | 7 | 
 | **Millar** | not out |  | 3 | 
 | **R Smith** | dnb |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 16 | 
-| **Total** | | (46 overs) | **203 for 8 wkts** | 
+| **Extras** | | (5b 0lb 6w 0nb) | **16** | 
+| **Total** | | (46 overs) | ****203 for 8 wkts**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | dnb |  |  | 
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (15b 1lb 0w 0nb) | 16 | 
-| **Total** | | (41 overs) | **152 for 6 wkts** | 
+| **Extras** | | (15b 1lb 0w 0nb) | **16** | 
+| **Total** | | (41 overs) | ****152 for 6 wkts**** | 
 
 ## Fall of Wickets
 

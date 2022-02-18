@@ -33,8 +33,8 @@ E Garland's 4th Michelle. R Earney's 35th 50
 | **G Mitchell** | st J Grant | R Green | 34 |
 | **P Teague** | c R Green | E Garland | 14 |
 | **B Seldon** | not out |  | 2 |
-| **Extras** | | (12b 3lb 0w 1nb 0p) | 16 |
-| **Total** | | (41.1 overs) | 160 all out |
+| **Extras** | | (12b 3lb 0w 1nb 0p) | **16** |
+| **Total** | | (41.1 overs) | **160 all out** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ E Garland's 4th Michelle. R Earney's 35th 50
 | **E Garland** | not out |  | 0 |
 | **P O'Mahony** | not out |  | 0 |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (14b 1lb 2w 1nb 0p) | 18 |
-| **Total** | | (38 overs) | 144 for 8 wkts |
+| **Extras** | | (14b 1lb 2w 1nb 0p) | **18** |
+| **Total** | | (38 overs) | **144 for 8 wkts** |
 
 ## Fall of Wickets
 

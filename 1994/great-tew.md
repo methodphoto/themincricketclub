@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Parker** | c A Stitt | S Hornsby | 11 |
 | **Catling** | not out |  | 4 |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 16 |
-| **Total** | | (41 overs) | **240 for 8 wkts** |
+| **Extras** | | (0b 0lb 0w 0nb) | **16** |
+| **Total** | | (41 overs) | ****240 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | c Catling | Parker | 1 |
 | **J Wright** | not out |   1 |
 |  |  |  |  |
-| **Extras** | | (4b 2lb 1w 0nb) | 9 |
-| **Total** | | (41 overs) | **232 for 9 wkts** |
+| **Extras** | | (4b 2lb 1w 0nb) | **9** |
+| **Total** | | (41 overs) | ****232 for 9 wkts**** |
 
 ## Fall of Wickets
 

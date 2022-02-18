@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **G Powell** | b | M Boteju | 5 |
 | **I Miah** | not out |  | 14 |
 | **R Wilkinson** | b | Henderson | 5 |
-| **Extras** | | (11b 11lb 14w 1nb 0p) | 37 |
-| **Total** | | (33.5 overs) | **203 all out** |
+| **Extras** | | (11b 11lb 14w 1nb 0p) | **37** |
+| **Total** | | (33.5 overs) | ****203 all out**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **C Hutton** | not out |  | 26 |
 | **H Wallis** | dnb |  |  |
 | **M Boteju** | dnb |  |  |
-| **Extras** | | (17b 3lb 2w 4nb 0p) | 26 |
-| **Total** | | (34 overs) | **208 for 7 wkts** |
+| **Extras** | | (17b 3lb 2w 4nb 0p) | **26** |
+| **Total** | | (34 overs) | ****208 for 7 wkts**** |
 
 ## Fall of Wickets
 

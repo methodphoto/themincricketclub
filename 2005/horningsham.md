@@ -36,8 +36,8 @@ The second ever 4 win Tour
 | **J Wright** | dnb |  |  |
 | **J Grant** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (10b 4lb 8w 5nb) | 27 |
-| **Total** | | (33 overs) | 228 for 6 wkts |
+| **Extras** | | (10b 4lb 8w 5nb) | **27** |
+| **Total** | | (33 overs) | **228 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ The second ever 4 win Tour
 | **Sam** | b | A Slight | 0 |
 | **Matt** | b | P Beswick | 2 |
 | **Finn** | not out |  | 0 |
-| **Extras** | | (3b 4lb 6w 2nb) | 15 |
-| **Total** | | (25 overs) | 111 all out |
+| **Extras** | | (3b 4lb 6w 2nb) | **15** |
+| **Total** | | (25 overs) | **111 all out** |
 
 ## Fall of Wickets
 

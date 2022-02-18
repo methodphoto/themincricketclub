@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Steward** | b | M Kirwan | 7 |
 | **Skittrell** | not out |  | 4 | 
 | **Connell** | not out |  | 18 | 
-| **Extras** | | (0b 0lb 0w 0nb) | 8 | 
-| **Total** | | (38 overs) | **203 for 9 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **8** | 
+| **Total** | | (38 overs) | ****203 for 9 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | c & b | Wilson | 5 | 
 | **D Young** | not out |  | 0 | 
 |  |  |  |  | 
-| **Extras** | | (6b 5lb 4w 2nb) | 17 | 
-| **Total** | | (33.5 overs) | **138 for 9 wkts (all out)** | 
+| **Extras** | | (6b 5lb 4w 2nb) | **17** | 
+| **Total** | | (33.5 overs) | ****138 for 9 wkts (all out)**** | 
 
 ## Fall of Wickets
 

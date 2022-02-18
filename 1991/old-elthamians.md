@@ -34,8 +34,8 @@ Played at {{page.location}} on {{page.date}}
 | **M White** | not out |  | 2 | 
 | **R Minto** | b |  A Sylvester| 4 |
 | **M Wright** | c W Wright | A Sylvester | 4 |
-| **Extras** | | (7b 1lb 4w 1nb) | 13 | 
-| **Total** | | (38.1 overs) | **102 for 11 wkts (all out)** | 
+| **Extras** | | (7b 1lb 4w 1nb) | **13** | 
+| **Total** | | (38.1 overs) | ****102 for 11 wkts (all out)**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **A MacFarlane** | dnb |  |  |
 | **A Swann** | dnb |  |  | 
 | **R Beswick &#42;** | dnb |  |  |
-| **Extras** | | (9b 7lb 2w 2nb) | 20 | 
-| **Total** | | (35.5 overs) | **104 for 7 wkts** | 
+| **Extras** | | (9b 7lb 2w 2nb) | **20** | 
+| **Total** | | (35.5 overs) | ****104 for 7 wkts**** | 
 
 ## Fall of Wickets
 

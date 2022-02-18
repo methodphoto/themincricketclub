@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **B Meir** | not out |  | 87 |
 | **C Hutton** | b | P Wigg | 16 |
 | **C Meir** | not out |  | 14 |
-| **Extras** | | (6b 2lb 1w 1nb 0p) | 10 |
+| **Extras** | | (6b 2lb 1w 1nb 0p) | **10** |
 | **Total** | | (40  overs) | 201 for 9 wkts |
 
 ## Fall of Wickets
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | not out |  | 4 |
 | **A Beswick** | b | C Meir | 0 |
 |  |  |  |  |
-| **Extras** | | (5b 2lb 3w 1nb 0p) | 11 |
-| **Total** | | (27.4 overs) | 71 all out |
+| **Extras** | | (5b 2lb 3w 1nb 0p) | **11** |
+| **Total** | | (27.4 overs) | **71 all out** |
 
 ## Fall of Wickets
 

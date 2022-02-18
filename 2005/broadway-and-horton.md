@@ -38,8 +38,8 @@ The Min regained the Ashes
 | **R Coyle** | not out |  | 9 |
 | **J Wright** | c C Medland | L Watkins | 7 |
 | **E Garland** | nb | C Medland | 0 |
-| **Extras** | | (44b 2lb 4w 3nb) | 53 |
-| **Total** | | (39 overs) | 202 all out |
+| **Extras** | | (44b 2lb 4w 3nb) | **53** |
+| **Total** | | (39 overs) | **202 all out** |
 
 ## Fall of Wickets
 
@@ -75,8 +75,8 @@ The Min regained the Ashes
 | **C Medland** | b | J Wright | 0 |
 | **T Hill** | c S Barrowcliff | A Slight | 6 |
 |  |  |  |  |
-| **Extras** | | (11b 0lb 2w 3nb) | 16 |
-| **Total** | | (35.2 overs) | 107 for 9 wkts (all out) |
+| **Extras** | | (11b 0lb 2w 3nb) | **16** |
+| **Total** | | (35.2 overs) | **107 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 

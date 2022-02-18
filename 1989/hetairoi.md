@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Brooks** | dnb |  |  | 
 | **S Boddy** | dnb |  |  | 
 | **S Matthews** | dnb |  |  |
-| **Extras** | | (3b 2lb 2w 0nb) | 7 | 
-| **Total** | | (41 overs) | **225 for 6 wkts** | 
+| **Extras** | | (3b 2lb 2w 0nb) | **7** | 
+| **Total** | | (41 overs) | ****225 for 6 wkts**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | b | Matthews | 18 | 
 | **M Gardiner** | b | Matthews | 10 | 
 | **J Wright** | not out |  | 1 | 
-| **Extras** | | (3b 5lb 10w 6nb) | 24 | 
-| **Total** | | (41 overs) | **221 all out** | 
+| **Extras** | | (3b 5lb 10w 6nb) | **24** | 
+| **Total** | | (41 overs) | ****221 all out**** | 
 
 ## Fall of Wickets
 

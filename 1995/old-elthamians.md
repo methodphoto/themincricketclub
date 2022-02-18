@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Saunders** | dnb |  |  |
 | **Paye** | dnb |  |  |
 | **Deal** | dnb |  |  |
-| **Extras** | | (5b 0lb 3w 0nb) | 8 |
-| **Total** | | (38 overs) | **236 for 1 wkt** |
+| **Extras** | | (5b 0lb 3w 0nb) | **8** |
+| **Total** | | (38 overs) | ****236 for 1 wkt**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Lee** | dnb |  |  |
 | **Rollands** | dnb |  |  |
 | **Ge Wright** | dnb |  |  |
-| **Extras** | | (15b 3lb 10w 0nb) | 28 |
-| **Total** | | (33.5 overs) | **193 for 6 wkts** |
+| **Extras** | | (15b 3lb 10w 0nb) | **28** |
+| **Total** | | (33.5 overs) | ****193 for 6 wkts**** |
 
 ## Fall of Wickets
 

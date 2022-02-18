@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Maynard** | b | R Minto | 0 | 
 | **M Kirwan** | not out |  | 12 | 
 | **J Wright** | run out |  | 0 | 
-| **Extras** | | (2b 3lb 5w 0nb) | 10 | 
-| **Total** | | (34 overs) | **104 all out** | 
+| **Extras** | | (2b 3lb 5w 0nb) | **10** | 
+| **Total** | | (34 overs) | ****104 all out**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Manchip** | not out |  | 0 | 
 | **K Gilmour** | dnb |  |  | 
 | **R Minto** | dnb |  |  | 
-| **Extras** | | (4b 3lb 2w 0nb) | 9 | 
-| **Total** | | (39.5 overs) | **108 for 7 wkts** | 
+| **Extras** | | (4b 3lb 2w 0nb) | **9** | 
+| **Total** | | (39.5 overs) | ****108 for 7 wkts**** | 
 
 ## Fall of Wickets
 

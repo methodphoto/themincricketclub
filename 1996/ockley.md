@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | b | L Figg | 13 |
 | **S Masterson** | not out |  | 2 |
 | **J Wright** | not out |  | 3 |
-| **Extras** | | (7b 1lb 2w 0nb) | 10 |
-| **Total** | | (43 overs) | **180 for 9 wkts** |
+| **Extras** | | (7b 1lb 2w 0nb) | **10** |
+| **Total** | | (43 overs) | ****180 for 9 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **B Edwards** | run out |  | 0 |
 | **P Kingfisher** | b | I Marshall | 0 |
 | **J Chambers** | not out |  | 1 |
-| **Extras** | | (2b 0lb 0w 0nb) | 2 |
-| **Total** | | (46 overs) | **118 for 9 wkts** |
+| **Extras** | | (2b 0lb 0w 0nb) | **2** |
+| **Total** | | (46 overs) | ****118 for 9 wkts**** |
 
 ## Fall of Wickets
 

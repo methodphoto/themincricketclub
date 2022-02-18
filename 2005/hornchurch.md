@@ -34,8 +34,8 @@ G Powell best bowling. R Beswick's 18th 50
 | **N Matthews** | lbw | R Green | 0 |
 | **A Freed** | not out |  | 4 |
 | **A King** | dnb |  |  |
-| **Extras** | | (5b 2lb 11w 3nb) | 21 |
-| **Total** | | (35 overs) | 119 for 8 wkts |
+| **Extras** | | (5b 2lb 11w 3nb) | **21** |
+| **Total** | | (35 overs) | **119 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ G Powell best bowling. R Beswick's 18th 50
 | **J Wright** | dnb |  |  |
 | **G Powell** | dnb |  |  |
 | **R O'Hagan** | dnb |  |  |
-| **Extras** | | (2b 4lb 2w 2nb) | 10 |
-| **Total** | | (24.5 overs) | 120 for 3 wkts |
+| **Extras** | | (2b 4lb 2w 2nb) | **10** |
+| **Total** | | (24.5 overs) | **120 for 3 wkts** |
 
 ## Fall of Wickets
 

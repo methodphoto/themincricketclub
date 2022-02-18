@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **Archibald** | c W Calvert | J Wright | 26 |
 | **Preston** | not out |  | 1 |
 | **Horwood** | not out |  | 0 |
-| **Extras** | | (11b 2lb 9w 0nb) | 22 |
+| **Extras** | | (11b 2lb 9w 0nb) | **22** |
 | **Total** | | (44) | 174 for 9 wkts |
 
 ## Fall of Wickets
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright &#42;** | c | Cole | 2 |
 | **P O'Mahony** | b | Archibald | 0 |
 | **M Connor** | not out |  | 1 |
-| **Extras** | | (9b 2lb 4w 0nb) | 15 |
-| **Total** | | (40 overs) | **73 for 9 wkts** |
+| **Extras** | | (9b 2lb 4w 0nb) | **15** |
+| **Total** | | (40 overs) | ****73 for 9 wkts**** |
 
 ## Fall of Wickets
 

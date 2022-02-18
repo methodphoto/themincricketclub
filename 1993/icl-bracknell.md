@@ -35,8 +35,8 @@ R Earney first 5 wkt haul for The Min
 | **Bate** | c M Hyde | R Earney | 12 | 
 | **White** | not out |  | 7 | 
 | **Knight** | c S Barrowcliff | R Earney | 3 |
-| **Extras** | | (1b 0lb 7w 0nb) | 8 | 
-| **Total** | | (31.5 overs) | **95 all out** | 
+| **Extras** | | (1b 0lb 7w 0nb) | **8** | 
+| **Total** | | (31.5 overs) | ****95 all out**** | 
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ R Earney first 5 wkt haul for The Min
 | **R Earney** | dnb |  |  |
 | **I Marshall** | dnb |  |  | 
 |  |  |  |  | 
-| **Extras** | | (4b 0lb 0w 0nb) | 4 | 
-| **Total** | | (33.5 overs) | **99 for 6 wkts** | 
+| **Extras** | | (4b 0lb 0w 0nb) | **4** | 
+| **Total** | | (33.5 overs) | ****99 for 6 wkts**** | 
 
 ## Fall of Wickets
 

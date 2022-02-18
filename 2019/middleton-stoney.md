@@ -36,7 +36,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Barton** | dnb | |
 | **M Ford-Langstaff** | dnb | |
 | **Extras** | | (5b 6lb 10w 3nb 0p) | **24** |
-| **Total** | | (38 overs) | **229 for 6 wkts** |
+| **Total** | | (38 overs) | ****229 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | not out | | 0 |
 | **J Wright** | dnb | | |
 | **Extras** | | (4b 2lb 7w 2nb 0p) | **15** |
-| **Total** | | (33 overs) | **111 for 8 wkts** |
+| **Total** | | (33 overs) | ****111 for 8 wkts**** |
 
 ## Fall of Wickets
 

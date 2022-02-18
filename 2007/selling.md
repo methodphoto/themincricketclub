@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Gower** | dnb |  |  |
 | **M Whitling** | dnb |  |  |
 | **T Carter** | dnb |  |  |
-| **Extras** | | (8b 7lb 4w 1nb 0p) | 20 |
-| **Total** | | (40 overs) | 239 for 5 wkts |
+| **Extras** | | (8b 7lb 4w 1nb 0p) | **20** |
+| **Total** | | (40 overs) | **239 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **C Wright** | b | A Burnage | 0 |
 | **J Wright** | c M Whitling | N Woodbridge | 11 |
 | **P Beswick** | b | A Burnage | 0 |
-| **Extras** | | (3b 6lb 10w 2nb 0p) | 21 |
-| **Total** | | (35.2 overs) | 139 all out |
+| **Extras** | | (3b 6lb 10w 2nb 0p) | **21** |
+| **Total** | | (35.2 overs) | **139 all out** |
 
 ## Fall of Wickets
 

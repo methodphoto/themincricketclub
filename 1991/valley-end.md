@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Tidbury** | b | J Wright | 7 | 
 | **I Wordley** | b | J Wright | 4 | 
 | **L Tidbury** | not out |  | 4 |
-| **Extras** | | (9b 4lb 2w 1nb) | 16 | 
-| **Total** | | (34.2 overs) | **195 for 3 wkts** | 
+| **Extras** | | (9b 4lb 2w 1nb) | **16** | 
+| **Total** | | (34.2 overs) | ****195 for 3 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | dnb |  |  | 
 | **A Sylvester** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (7b 0lb 2w 0nb) | 9 | 
-| **Total** | | (37.4 overs) | **89 for 6 wkts** | 
+| **Extras** | | (7b 0lb 2w 0nb) | **9** | 
+| **Total** | | (37.4 overs) | ****89 for 6 wkts**** | 
 
 ## Fall of Wickets
 

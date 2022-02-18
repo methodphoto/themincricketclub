@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant** | dnb |  |  | 
 | **D Young** | dnb | |  | 
 | **J Wright** | dnb | |  | 
-| **Extras** | | (2b 2lb 0w 1nb) | 5 | 
-| **Total** | | (27.3 overs) | **187 for 2 wkts** | 
+| **Extras** | | (2b 2lb 0w 1nb) | **5** | 
+| **Total** | | (27.3 overs) | ****187 for 2 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Trollope** | st S Watson | T Purves | 4 | 
 | **K Dix** | run out |  | 13 | 
 | **P Lovett** | not out | | 0 | 
-| **Extras** | | (0b 0lb 5w 0nb) | 5 | 
-| **Total** | | (36.4 overs) | **192 for 9 wkts** | 
+| **Extras** | | (0b 0lb 5w 0nb) | **5** | 
+| **Total** | | (36.4 overs) | ****192 for 9 wkts**** | 
 
 ## Fall of Wickets
 

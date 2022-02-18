@@ -35,8 +35,8 @@ P Wigg best bowling
 | **P Grant** | dnb |  |  |
 | **G Powell** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (8b 1lb 10w 2nb 1p) | 22 |
-| **Total** | | (43.1 overs) | 170 for 7 wkts |
+| **Extras** | | (8b 1lb 10w 2nb 1p) | **22** |
+| **Total** | | (43.1 overs) | **170 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ P Wigg best bowling
 | **J de Castro** | not out |  | 0 |
 | **W Bennett** | c T Rutherford | E Garland | 2 |
 | **S Gabriel** | c E Garland | A Slight | 8 |
-| **Extras** | | (3b 2lb 4w 2nb 0p) | 11 |
-| **Total** | | (43 overs) | 81 all out |
+| **Extras** | | (3b 2lb 4w 2nb 0p) | **11** |
+| **Total** | | (43 overs) | **81 all out** |
 
 ## Fall of Wickets
 

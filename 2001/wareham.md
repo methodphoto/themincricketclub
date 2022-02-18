@@ -36,8 +36,8 @@ Partnership of 151 between R Earney and R Beswick
 | **J Grant &#8224;** | dnb |  |  |
 | **G Powell** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (11b 9lb 8w 1nb) | 29 |
-| **Total** | | (40 overs) | **259 for 3 wkts** |
+| **Extras** | | (11b 9lb 8w 1nb) | **29** |
+| **Total** | | (40 overs) | ****259 for 3 wkts**** |
 
 ## Fall of Wickets
 
@@ -73,8 +73,8 @@ Partnership of 151 between R Earney and R Beswick
 | **T Clark** | b | J Wright | 0 |
 | **T Thomas** | not out |  | 10 |
 |  |  |  |  |
-| **Extras** | | (2b 2lb 46w 0nb) | 8 |
-| **Total** | | (34.5 overs) | **119 for 9 wkts (all out)** |
+| **Extras** | | (2b 2lb 46w 0nb) | **8** |
+| **Total** | | (34.5 overs) | ****119 for 9 wkts (all out)**** |
 
 ## Fall of Wickets
 

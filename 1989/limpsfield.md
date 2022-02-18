@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Mackenzie** | dnb |  |  | 
 | **Rose** | dnb |  |  | 
 |  |  |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 10 | 
-| **Total** | | (48.4 overs) | **246 for 3 wkts** | 
+| **Extras** | | (5b 0lb 6w 0nb) | **10** | 
+| **Total** | | (48.4 overs) | ****246 for 3 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | b | Rose | 0 | 
 | **I Marshall** | not out |  | 22 | 
 | **E Garland** | b | Letts | 4 | 
-| **Extras** | | (0b 2lb 3w 0nb) | 5 | 
-| **Total** | | (38 overs) | **187 all out** | 
+| **Extras** | | (0b 2lb 3w 0nb) | **5** | 
+| **Total** | | (38 overs) | ****187 all out**** | 
 
 ## Fall of Wickets
 

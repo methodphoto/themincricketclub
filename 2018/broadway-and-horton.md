@@ -72,7 +72,7 @@ S Barrowcliff 50 off 68 balls
 | **J Purefoy** | did not bat |  |  |
 | **** |  |  |  |
 | **Extras** | | (0nb 2w 1b 3lb 0p) | **6** |
-| **Total** | | (39.2 overs) | **185 for 6** |
+| **Total** | | (39.2 overs) | ****185 for 6**** |
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J King** | b | A Gallagher | 1 |  
 | **L Wordley** | b | R Beswick | 5 | 
 | **R Belcher** | not out |  | 1 |
-| **Extras** | | (5b 4lb 7w 4nb) | 20 | 
-| **Total** | | (44 overs) | **146 all out** | 
+| **Extras** | | (5b 4lb 7w 4nb) | **20** | 
+| **Total** | | (44 overs) | ****146 all out**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Gardiner** | dnb  |  |  | 
 | **A Sylvester** | dnb |  |  | 
 | **J Wright** | dnb |  |  |
-| **Extras** | | (2b 1lb 0w 3nb) | 6 | 
-| **Total** | | (34.1 overs) | **150 for 7 wkts (all out)** | 
+| **Extras** | | (2b 1lb 0w 3nb) | **6** | 
+| **Total** | | (34.1 overs) | ****150 for 7 wkts (all out)**** | 
 
 ## Fall of Wickets
 

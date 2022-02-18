@@ -28,15 +28,15 @@ T Rutherford's 3rd 50 and highest score. A Beswick's 1st 50 and highest score.
 | **J Grant &#8224;** | c Lodge | A Morgan | 31 |
 | **T Rutherford** | st Black | P Morley | 81 |
 | **S Hornsby** | c L Morgan | P Morley | 6 |
-| **A Beswick** | b | S Doncaster | 12 |
-| **R Beswick &#42;** | not out |  | 50 |
+| **A Beswick** | not out |  | 50 |
+| **R Beswick &#42;** | b | S Doncaster | 12 |
 | **I Marshall** | c O'Donnell | P Morley | 7 |
 | **R Green** | not out |  | 5 |
 | **T Carden** | dnb |  |  |
 | **P Wigg** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (7b 2lb 13w 1nb 0p) | 23 |
-| **Total** | | (41.2 overs) | 223 for 6 wkts |
+| **Extras** | | (7b 2lb 13w 1nb 0p) | **23** |
+| **Total** | | (41.2 overs) | **223 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ T Rutherford's 3rd 50 and highest score. A Beswick's 1st 50 and highest score.
 | **S Doncaster** | not out |  | 32 |
 | **L Morgan** | run out |  | 6 |
 | **A Morgan** | not out |  | 14 |
-| **Extras** | | (2b 0lb 17w 0nb 0p) | 19 |
-| **Total** | | (42 overs) | 225 for 9 wkts |
+| **Extras** | | (2b 0lb 17w 0nb 0p) | **19** |
+| **Total** | | (42 overs) | **225 for 9 wkts** |
 
 ## Fall of Wickets
 

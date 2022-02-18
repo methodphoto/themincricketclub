@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Stitt** | run out |  | 0 |
 | **S Masterson** | b | M Holt | 0 |
 | **J Wright** | b | M Holt | 8 |
-| **Extras** | | (4b 0lb 2w 1nb) | 7 |
-| **Total** | | (44.4 overs) | **131 all out** |
+| **Extras** | | (4b 0lb 2w 1nb) | **7** |
+| **Total** | | (44.4 overs) | ****131 all out**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **L Figg** | not out |  | 2 |
 | **W Duffle** | not out |  | 0 |
 | **W Figg** | dnb |  |  |
-| **Extras** | | (3b 1lb 1w 0nb) | 5 |
-| **Total** | | (37 overs) | **130 for 8 wkts** |
+| **Extras** | | (3b 1lb 1w 0nb) | **5** |
+| **Total** | | (37 overs) | ****130 for 8 wkts**** |
 
 ## Fall of Wickets
 

@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **C Leigh** | c J Booth | W Calvert | 6 | 
 | **Charlie** | not out | | 7 | 
 | **T Calvert** | c J Wright | J Booth | 1 | 
-| **Extras** | | (1b 10lb 0w 2nb) | 13 | 
-| **Total** | | (19.1 overs) | **85 all out** | 
+| **Extras** | | (1b 10lb 0w 2nb) | **13** | 
+| **Total** | | (19.1 overs) | ****85 all out**** | 
 
 ## Fall of Wickets
 
@@ -73,8 +73,8 @@ Played at {{page.location}} on {{page.date}}
 | **W Calvert** | dnb | |  | 
 | **A Sylvester** | dnb | |  | 
 | **J Wright** | dnb | | | 
-| **Extras** | | (0b 0lb 1w 0nb) | 1 | 
-| **Total** | | (12.1 overs) | **89 for 6 wkts** | 
+| **Extras** | | (0b 0lb 1w 0nb) | **1** | 
+| **Total** | | (12.1 overs) | ****89 for 6 wkts**** | 
 
 ## Fall of Wickets
 

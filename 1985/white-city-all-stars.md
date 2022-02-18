@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **C Still** | st J Grant | M Gardiner | 2 | 
 | **R Horlick** | c M Kirwan | J Wright | 1 | 
 | **H Corbett** | not out | | 2 | 
-| **Extras** | | (1b 3lb 1w 0nb) | 5 | 
-| **Total** | | (29 overs) | **163 for 9 wkts** | 
+| **Extras** | | (1b 3lb 1w 0nb) | **5** | 
+| **Total** | | (29 overs) | ****163 for 9 wkts**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Gardiner** | c (keeper) | P Oborne | 0 | 
 | **J Wright** | c | A Jacot | 13 | 
 | **N Kawaguchi** | dnb |  |  |
-| **Extras** | | (7b 4lb 1w 0nb) | 12 | 
-| **Total** | | (21.4 overs) | **108 for 9 wkts (all out)** | 
+| **Extras** | | (7b 4lb 1w 0nb) | **12** | 
+| **Total** | | (21.4 overs) | ****108 for 9 wkts (all out)**** | 
 
 ## Fall of Wickets
 

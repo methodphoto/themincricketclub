@@ -35,8 +35,8 @@ Played at {{page.location}} on {{page.date}}
 | **L Warr** | b | R Beswick | 12 | 
 | **P Parfitt** | b | W Calvert | 0 | 
 | **D Bridges** | not out |  | 4 |
-| **Extras** | | (7b 4lb 2w 1nb) | 14 | 
-| **Total** | | (38.2 overs) | **163 all out** | 
+| **Extras** | | (7b 4lb 2w 1nb) | **14** | 
+| **Total** | | (38.2 overs) | ****163 all out**** | 
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant** | run out |  | 28 | 
 | **G Wright** | not out |  | 1 | 
 | **J Wright** | b | S Wickham | 0 | 
-| **Extras** | | (3b 2lb 2w 1nb) | 8 | 
-| **Total** | | (38 overs) | **146 all out** | 
+| **Extras** | | (3b 2lb 2w 1nb) | **8** | 
+| **Total** | | (38 overs) | ****146 all out**** | 
 
 ## Fall of Wickets
 

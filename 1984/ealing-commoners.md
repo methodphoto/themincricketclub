@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | not out | | 1 | 
 | **A Sylvester** | dnb |  | | 
 | **M Kirwan** | dnb | |  | 
-| **Extras** | | (1b 1lb 4w 0nb) | 6 | 
-| **Total** | | (40 overs) | **137 for 7 wkts** | 
+| **Extras** | | (1b 1lb 4w 0nb) | **6** | 
+| **Total** | | (40 overs) | ****137 for 7 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **Gray** | dnb | | | 
 | **Thornton** | dnb | | 2 | 
 | **Phillipson** | dnb | | 0 | 
-| **Extras** | | (3b 1lb 2w 0nb) | 6 | 
-| **Total** | | (42 overs) | **72 for 6 wkts** | 
+| **Extras** | | (3b 1lb 2w 0nb) | **6** | 
+| **Total** | | (42 overs) | ****72 for 6 wkts**** | 
 
 ## Fall of Wickets
 

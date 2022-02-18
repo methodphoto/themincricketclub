@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Brooke** | b | S Sagar | 12 | 
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (3b 1lb 5w 0nb) | 9 | 
-| **Total** | | (22.4 overs) | **91 for 8 wkts (all out)** | 
+| **Extras** | | (3b 1lb 5w 0nb) | **9** | 
+| **Total** | | (22.4 overs) | ****91 for 8 wkts (all out)**** | 
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb |  |  | 
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (13b 2lb 8w 0nb) | 23 | 
-| **Total** | | (14 overs) | **95 for 3 wkts** | 
+| **Extras** | | (13b 2lb 8w 0nb) | **23** | 
+| **Total** | | (14 overs) | ****95 for 3 wkts**** | 
 
 ## Fall of Wickets
 

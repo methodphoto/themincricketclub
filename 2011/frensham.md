@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **C Herrington** | not out |  | 9 |
 | **A Page** | c & b | R Beswick | 4 |
 | **A Stone** | c & b | R Beswick | 13 |
-| **Extras** | | (17b 5lb 13w 1nb 0p) | 36 |
-| **Total** | | (39 overs) | 201 all out |
+| **Extras** | | (17b 5lb 13w 1nb 0p) | **36** |
+| **Total** | | (39 overs) | **201 all out** |
 
 ## Fall of Wickets
 
@@ -50,7 +50,7 @@ Played at {{page.location}} on {{page.date}}
 | **H Ingham** | 8 | 2 | 38 | 0 |
 | **P Wigg** | 10 | 4 | 34 | 1 |
 | **M Gupta** | 9 | 0 | 34 | 3 |
-| **J Wright** | 9 | 0 | 61 | 03|
+| **J Wright** | 9 | 0 | 61 | 3 |
 | **R Beswick** | 3 | 0 | 12 | 2 |
 
 ## The Min Innings
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | dnb |  |  |
 | **Akash** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (1b 0lb 0w 0nb 0p) | 1 |
-| **Total** | | (9 overs) | 23 for 1 wkt |
+| **Extras** | | (1b 0lb 0w 0nb 0p) | **1** |
+| **Total** | | (9 overs) | **23 for 1 wkt** |
 
 ## Fall of Wickets
 
