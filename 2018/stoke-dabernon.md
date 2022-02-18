@@ -24,7 +24,7 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|---|---:|
 | **J Jones** | lbw | M Bouerman | 113 |
 | **G Vinall** | b | I Miah | 3 |
-| **J Earl  &#42;*** | c A Altaf | I Miah | 48 |
+| **J Earl  &#42;*** | c A Asmal | I Miah | 48 |
 | **C Finch** | b | J Wright | 17 |
 | **S Finch** | not out |  | 47 |
 | **K Morgan** | lbw | J Wright | 0 |
@@ -50,7 +50,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Ahmed** | 3 | 0 | 29 | 0 |
 | **I Miah** | 8 | 1 | 45 | 2 |
 | **R Beswick** | 1 | 0 | 18 | 0 |
-| **A Altaf** | 5 | 0 | 43 | 0 |
+| **A Asmal** | 5 | 0 | 43 | 0 |
 | **I Matvad** | 6 | 0 | 50 | 1 |
 | **Parvez** | 6 | 1 | 29 | 1 |
 | **J Wright** | 6 | 0 | 34 | 2 |
@@ -59,7 +59,7 @@ Played at {{page.location}} on {{page.date}}
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **A Altaf** | c A Huseyin | R Harris | 0 |
+| **A Asmal** | c A Huseyin | R Harris | 0 |
 | **Parvez** | c A Huseyin | G Vinall | 32 |
 | **R Damaze** | lbw | J Earl | 47 |
 | **S Ahmed** | lbw | J Earl | 50 |

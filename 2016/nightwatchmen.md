@@ -24,7 +24,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Brookfield** | not out |  | 78 |
 | **I Miah** | run out |  | 5 |
 | **M Elwin** | b | M Gupta | 4 |
-| **Altaf** | b  | J Wright | 72 |
+| **A Asmal** | b  | J Wright | 72 |
 | **S Ahmed** | b | M Gupta | 77 |
 | **A Munim** | b | S Mohammed | 0 |
 | **Maruf** | not out |  | 6 |
@@ -51,7 +51,7 @@ Played at {{page.location}} on {{page.date}}
 
 ## Min Batting
 
-| **R Earney** | b | Altaf | 27 |
+| **R Earney** | b | A Asmal | 27 |
 | **R Beswick &#42;** | run out |  | 37 |
 | **M Gupta** | lbw b I Miah | 65 |
 | **I Marshall** | b I Miah | 1 |
@@ -79,7 +79,7 @@ Played at {{page.location}} on {{page.date}}
 |---|:---|:---|:---|:---|
 | **Pav** | 4.2 | 0 | 29 | 2 |
 | **Maruf** | 7 | 2 | 25 | 1 |
-| **Altaf** | 7 | 0 | 34 | 1 |
+| **A Asmal** | 7 | 0 | 34 | 1 |
 | **A Munim** | 5 | 0 | 25 | 0 |
 | **D Brookfield** | 3 | 0 | 25 | 0 |
 | **I Miah** | 3 | 0 | 23 | 2 |

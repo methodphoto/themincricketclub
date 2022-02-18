@@ -27,7 +27,7 @@ parent: Statistics
 | **Ned Garland** | 4 | 2 | 42 | 21 |
 | **M Parvez** | 1 | 0 | 32 | 32 |
 | **William Calvert** | 5 | 0 | 31 | 6.2 |
-| **Altaf Ajmal** | 2 | 0 | 27 | 13.5 |
+| **A Asmal** | 2 | 0 | 27 | 13.5 |
 | **Andrew Gallagher** | 1 | 0 | 25 | 25 |
 | **Steven Hornsby** | 2 | 0 | 24 | 12 |
 | **Jim Grant** | 5 | 3 | 15 | 7.5 |
@@ -65,7 +65,7 @@ parent: Statistics
 | **Iqbal Miah** | 5 | 1 | 68 | 17 |
 | **Siam Amin** | 5 | 1 | 68 | 17 |
 | **Kevin Reid** | 1 | 0 | 15 | 15 |
-| **Altaf Ajmal** | 2 | 0 | 27 | 13.5 |
+| **A Asmal** | 2 | 0 | 27 | 13.5 |
 | **Richard Beswick** | 9 | 0 | 115 | 12.78 |
 | **Steven Hornsby** | 2 | 0 | 24 | 12 |
 | **Marcus Elwin** | 1 | 0 | 12 | 12 |
@@ -100,7 +100,7 @@ parent: Statistics
 | **Iqbal Miah** | 26 | 5 | 116 | 2 | 58 | 78 |
 | **Christopher Wright** | 4 | 0 | 35 | 2 | 17.5 | 12 |
 | **Ray Damaze** | 2 | 0 | 6 | 1 | 6 | 12 |
-| **Altaf Ajmal** | 12 | 0 | 62 | 1 | 62 | 72 |
+| **A Asmal** | 12 | 0 | 62 | 1 | 62 | 72 |
 | **Ian Marshall** | 11 | 1 | 48 | 1 | 48 | 66 |
 | **Alastair Dell** | 14 | 0 | 85 | 1 | 85 | 84 |
 | **Sandy Noble** | 1 | 0 | 4 | 1 | 4 | 6 |
@@ -133,7 +133,7 @@ parent: Statistics
 | **Ian Marshall** | 11 | 1 | 48 | 1 | 48 | 66 |
 | **Jerry Wright** | 38 | 0 | 231 | 4 | 57.75 | 57 |
 | **Iqbal Miah** | 26 | 5 | 116 | 2 | 58 | 78 |
-| **Altaf Ajmal** | 12 | 0 | 62 | 1 | 62 | 72 |
+| **A Asmal** | 12 | 0 | 62 | 1 | 62 | 72 |
 | **Alastair Dell** | 14 | 0 | 85 | 1 | 85 | 84 | |
  
 ## Career Batting

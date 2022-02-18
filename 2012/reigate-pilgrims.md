@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 
 report: 
 result: 
+next: stoke-dabernon
 parent: 2012 Fixtures
 ---
 

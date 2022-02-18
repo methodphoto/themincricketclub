@@ -27,7 +27,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Ahmed** | b | R Beswick | 6 |
 | **G Weekes** | b | R Beswick | 0 |
 | **R Ahmed** | b | E Garland | 22 |
-| **Abu** | b | J Wright | 0 |
+| **M Abu** | b | J Wright | 0 |
 | **A Ajmal** | c J Grant | E Garland | 9 |
 | **M Elwin** | not out |  | 12 |
 | **I Miah** | lbw | E Garland | 1 |

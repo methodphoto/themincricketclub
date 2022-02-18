@@ -6,6 +6,7 @@ location: The Brocus
 date: 
 report: 
 result: 
+next: tower-of-dudes
 parent: 2012 Fixtures
 ---
 

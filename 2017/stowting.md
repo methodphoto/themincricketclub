@@ -22,14 +22,14 @@ Played at {{page.location}} on {{page.date}}
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **M Jackson** | run out (R Beswick) |  | 14 |
-| **C Ball** | b | Altaf | 52 |
-| **S Jackson** | b  | Altaf | 2 |
+| **C Ball** | b | A Asmal | 52 |
+| **S Jackson** | b  | A Asmal | 2 |
 | **T Harding** | b  | J Wright | 0 |
 | **A Causton** | c R Beswick | J Wright | 4 |
 | **S Graham** | c R Earney | J Wright | 17 |
 | **G Sheen** | b  | E Garland | 18 |
 | **D Jackson &#42;** | b | E Garland | 14 |
-| **C Jackson** | b | Altaf | 8 |
+| **C Jackson** | b | A Asmal | 8 |
 | **M Jackson** | not out |  | 21 |
 | **L Causton** | not out |  | 0 |
 | **Extras** | | (8b 0lb 4w 2nb 0p) | **14** |
@@ -48,7 +48,7 @@ Played at {{page.location}} on {{page.date}}
 |---|---|---|---|---|
 | **H Ingham** | 9 | 1 | 20 | 0 |
 | **S Amin** | 5 | 1 | 14 | 0 |
-| **Altaf** | 11 | 2 | 37 | 3 |
+| **A Asmal** | 11 | 2 | 37 | 3 |
 | **J Wright** | 9 | 2 | 20 | 3 |
 | **M Gupta** | 4 | 1 | 20 | 0 |
 | **P Beswick** | 5 | 0 | 16 | 0 |
@@ -61,7 +61,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Earney** | c C Ball | S Jackson | 31 |
 | **R Beswick &#42;** | b | S Graham | 16 |
 | **M Gupta** | c D Jackson b | S Jackson | 0 |
-| **Altaf** | b S Graham | | 11 |
+| **A Asmal** | b S Graham | | 11 |
 | **H Ingham** | c; | S Jackson | 10 |
 | **M Arefin** | st D Jackson | S Jackson | 9 |
 | **I Muntakim** | b | T Harding | 15 |

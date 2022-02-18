@@ -24,7 +24,7 @@ parent: Statistics
 | **Andrew Gallagher** | 3 | 1 | 44 | 22 |
 | **Sudip Chatterjee** | 1 | 0 | 41 | 41 |
 | **Harry Ingham** | 2 | 0 | 28 | 14 |
-| **Altaf Ajmal** | 1 | 0 | 23 | 23 |
+| **A Asmal** | 1 | 0 | 23 | 23 |
 | **Jim Grant** | 6 | 1 | 21 | 4.2 |
 | **Kit Gallagher** | 4 | 0 | 16 | 4 |
 | **Ian Marshall** | 1 | 0 | 14 | 14 |
@@ -55,7 +55,7 @@ parent: Statistics
 | **Tom Rutherford** | 4 | 0 | 138 | 34.5 |
 | **Alf Beswick** | 3 | 1 | 59 | 29.5 |
 | **Mohit Gupta** | 5 | 0 | 117 | 23.4 |
-| **Altaf Ajmal** | 1 | 0 | 23 | 23 |
+| **A Asmal** | 1 | 0 | 23 | 23 |
 | **Andrew Gallagher** | 3 | 1 | 44 | 22 |
 | **Devunka Pathak** | 3 | 0 | 62 | 20.67 |
 | **Patrick Wigg** | 6 | 1 | 90 | 18 |

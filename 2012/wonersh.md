@@ -6,6 +6,7 @@ location:
 date: 
 report: 
 result: 
+next: brasted-invicta
 parent: 2012 Fixtures
 ---
 
