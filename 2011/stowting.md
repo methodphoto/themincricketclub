@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Harrison** | c G Daley | P Wigg | 4 |
 | **D Jackson &#8224;** | not out |  | 0 |
 | **M Pugh** | lbw | J Wright | 0 |
-| **Extras** | | (3b 5lb 9w 0nb 0p) | 17 |
-| **Total** | | (38.1 overs) | 145 all out |
+| **Extras** | | (3b 5lb 9w 0nb 0p) | **17** |
+| **Total** | | (38.1 overs) | **145 all out** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | not out |  | 20 |
 | **G Powell** | b | M Jackson | 0 |
 | **J Wright** | b | D Bland | 0 |
-| **Extras** | | (8b 11lb 4w 0nb 0p) | 23 |
-| **Total** | | (38.5 overs) | 126 all out |
+| **Extras** | | (8b 11lb 4w 0nb 0p) | **23** |
+| **Total** | | (38.5 overs) | **126 all out** |
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Smith** | c W Calvert | Barrowclough | 6 | 
 | **Wells** | not out |  | 6 | 
 | **Batey** | c & b | Barrowclough | 1 | 
-| **Extras** | | (0b 0lb 0w 0nb) | 18 | 
-| **Total** | | (29.5 overs) | **94 all out** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **18** | 
+| **Total** | | (29.5 overs) | ****94 all out**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Harcourt** | dnb |  |  | 
 | **A Sylvester** | dnb |  |  | 
 | **J Wright** | dnb |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 12 | 
-| **Total** | | (42 overs) | **95 for 4 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **12** | 
+| **Total** | | (42 overs) | ****95 for 4 wkts**** | 
 
 ## Fall of Wickets
 

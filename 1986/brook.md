@@ -35,8 +35,8 @@ E Garland: Best bowling
 | **Saunders** | c | E Garland | 0 | 
 | **Bennett** | c | E Garland | 0 | 
 | **Williams** | not out | | 9 | 
-| **Extras** | | (2b 9lb 1w 1nb) | 13 | 
-| **Total** | | (42.3 overs) | **123 all out** | 
+| **Extras** | | (2b 9lb 1w 1nb) | **13** | 
+| **Total** | | (42.3 overs) | ****123 all out**** | 
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ E Garland: Best bowling
 | **M Kirwan** | dnb |  |  | 
 | **R Olver** | dnb | |  | 
 | **J Wright** | dnb | |  | 
-| **Extras** | | (2b 8lb 0w 0nb) | 10 | 
-| **Total** | | (27.3 overs) | **125 for 6 wkts** | 
+| **Extras** | | (2b 8lb 0w 0nb) | **10** | 
+| **Total** | | (27.3 overs) | ****125 for 6 wkts**** | 
 
 ## Fall of Wickets
 

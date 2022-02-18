@@ -36,8 +36,8 @@ Partnership of 140 between R Earney and M Goff
 | **A Hall** | dnb |  |  |
 | **S Vincent** | dnb |  |  |
 | **R Clayton** | dnb |  |  |
-| **Extras** | | (6b 0lb 0w 1nb) | 7 |
-| **Total** | | (43 overs) | 238 for 1 wkt |
+| **Extras** | | (6b 0lb 0w 1nb) | **7** |
+| **Total** | | (43 overs) | **238 for 1 wkt** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Partnership of 140 between R Earney and M Goff
 | **G Powell** | not out |  | 7 |
 | **R Coyle** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (1b 1lb 2w 1nb) | 5 |
-| **Total** | | (48 overs) | 218 for 7 wkts |
+| **Extras** | | (1b 1lb 2w 1nb) | **5** |
+| **Total** | | (48 overs) | **218 for 7 wkts** |
 
 ## Fall of Wickets
 

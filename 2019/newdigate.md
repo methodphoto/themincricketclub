@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **B Crook** | dnb |  |  |
 | **I Kehl** | dnb |  |  |
 | **Extras** |  | (0b 1lb 0w 0nb 0p) | 1 |
-| **Total** | | (15.4 overs) | **84 for 2 wkts** |
+| **Total** | | (15.4 overs) | ****84 for 2 wkts**** |
 
 ## Fall of Wickets
 

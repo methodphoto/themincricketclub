@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **W Calvert** | not out |   7 | 
 | **D Ferguson** | c M Hicks | Lithgow | 0 | 
 | **G Wright** | not out |  | 0 | 
-| **Extras** | | (3b 1lb 8w 0nb) | 12 | 
-| **Total** | | (41 overs) | **178 for 9 wkts** | 
+| **Extras** | | (3b 1lb 8w 0nb) | **12** | 
+| **Total** | | (41 overs) | ****178 for 9 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **Lithgow** | b | S Hornsby | 3 | 
 | **Harrison** | not out |  | 1 | 
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 0 | 
-| **Total** | | (46 overs) | **153 for 8 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **0** | 
+| **Total** | | (46 overs) | ****153 for 8 wkts**** | 
 
 ## Fall of Wickets
 

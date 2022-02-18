@@ -35,8 +35,8 @@ R Earney's 25th 50
 | **J Rogers** | b | R Earney | 9 |
 | **L Figg** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (2b 2lb 9w 4nb) | 17 |
-| **Total** | | (43.1 overs) | 153 for 8 wkts |
+| **Extras** | | (2b 2lb 9w 4nb) | **17** |
+| **Total** | | (43.1 overs) | **153 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ R Earney's 25th 50
 | **H Ingham** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **P O'Mahony** | dnb |  |  |
-| **Extras** | | (0b 3lb 0w 0nb) | 3 |
-| **Total** | | (33.5 overs) | 154 for 5 wkts |
+| **Extras** | | (0b 3lb 0w 0nb) | **3** |
+| **Total** | | (33.5 overs) | **154 for 5 wkts** |
 
 ## Fall of Wickets
 

@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Wigg** | dnb |  |  |
 | **I Miah** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (1b 8lb 7w 0nb 0p) | 16 |
-| **Total** | | (40 overs) | **188 for 4 wkts** |
+| **Extras** | | (1b 8lb 7w 0nb 0p) | **16** |
+| **Total** | | (40 overs) | ****188 for 4 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Osborne** | dnb |  |  |
 | **A Kazmi** | dnb |  |  |
 | **I Brown** | dnb |  |  |
-| **Extras** | | (1b 0lb 2w 1nb 0p) | 4 |
-| **Total** | | (31.3 overs) | **189 for 2 wkts** |
+| **Extras** | | (1b 0lb 2w 1nb 0p) | **4** |
+| **Total** | | (31.3 overs) | ****189 for 2 wkts**** |
 
 ## Fall of Wickets
 

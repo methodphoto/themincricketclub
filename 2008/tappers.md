@@ -35,8 +35,8 @@ M Gupta's 1st 50
 | **A Pedrette** | c & b | R Green | 29 |
 | **R Brittain** | not out |  | 5 |
 | **S Speight** | c W Calvert | R Green | 0 |
-| **Extras** | | (1b 4lb 4w 1nb 0p) | 10 |
-| **Total** | | (35.5 overs) | 117 all out |
+| **Extras** | | (1b 4lb 4w 1nb 0p) | **10** |
+| **Total** | | (35.5 overs) | **117 all out** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ M Gupta's 1st 50
 | **W Calvert &#8224;** | dnb |  |  |
 | **R Green** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (3b 1lb 2w 0nb 0p) | 6 |
-| **Total** | | (32.5 overs) | 118 for 6 wkts |
+| **Extras** | | (3b 1lb 2w 0nb 0p) | **6** |
+| **Total** | | (32.5 overs) | **118 for 6 wkts** |
 
 ## Fall of Wickets
 

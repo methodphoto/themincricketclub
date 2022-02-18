@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Petherick** | dnb |  |  | 
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 | 
-| **Total** | | (43.4 overs) | **240 for 5 wkts** | 
+| **Extras** | | (5b 0lb 6w 0nb) | **11** | 
+| **Total** | | (43.4 overs) | ****240 for 5 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Olver** | not out |  | 35 | 
 | **E Garland** | not out |  | 2 | 
 | **Paisley** | dnb |  |  |
-| **Extras** | | (9b 2lb 4w 0nb) | 15 | 
-| **Total** | | (40 overs) | **96 for 8 wkts** | 
+| **Extras** | | (9b 2lb 4w 0nb) | **15** | 
+| **Total** | | (40 overs) | ****96 for 8 wkts**** | 
 
 ## Fall of Wickets
 

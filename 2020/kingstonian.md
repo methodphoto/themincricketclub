@@ -35,8 +35,8 @@ A Gallagher: 54* off 45 balls
 | **R Beswick &#42;** | dnb |  |  | 
 | **C Garland** | dnb |  |  | 
 | **P Wigg** | dnb |  |  | 
-| **Extras** | | (3b 3lb 8w 5nb) | 19 | 
-| **Total** | | (35 overs) | **176 for 6 wkts** | 
+| **Extras** | | (3b 3lb 8w 5nb) | **19** | 
+| **Total** | | (35 overs) | ****176 for 6 wkts**** | 
  
 ## Fall of Wickets
 
@@ -73,8 +73,8 @@ A Gallagher: 54* off 45 balls
 | **Ken** | b | R Beswick | 2 | 
 | **Henry** | not out |  | 1 | 
 | **Terry** | b | R Beswick | 0 | 
-| **Extras** | | (20b 0lb 10w 2nb) | 32 | 
-| **Total** | | (35 overs) | **143 all out** | 
+| **Extras** | | (20b 0lb 10w 2nb) | **32** | 
+| **Total** | | (35 overs) | ****143 all out**** | 
 
 ## Fall of Wickets
 

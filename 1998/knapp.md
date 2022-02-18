@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **P O'Mahony** | not out |  | 3 |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (11b 4lb 3w 0nb) | 18 |
-| **Total** | | (40 overs) | **193 for 7 wkts** |
+| **Extras** | | (11b 4lb 3w 0nb) | **18** |
+| **Total** | | (40 overs) | ****193 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Denslow** | c R Earney | W Calvert | 11 |
 | **D Gould** | c I Marshall | P Grant | 3 |
 | **D Durdran** | not out |  | 6 |
-| **Extras** | | (5b 0lb 6w 0nb) | 16 |
-| **Total** | | (38.2 overs) | **145 all out** |
+| **Extras** | | (5b 0lb 6w 0nb) | **16** |
+| **Total** | | (38.2 overs) | ****145 all out**** |
 
 ## Fall of Wickets
 

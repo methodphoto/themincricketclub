@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Deal** | b | R Beswick | 0 | 
 | **Coleclough** | b | I Marshall |  2| 
 | **Punnett** | not out |  | 6 |
-| **Extras** | | (0b 0lb 0w 0nb) | 26 | 
-| **Total** | | (52.4 overs) | **187 all out** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **26** | 
+| **Total** | | (52.4 overs) | ****187 all out**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick** | not out |  | 4 | 
 | **G Wright** | not out |  | 0 | 
 |  |  |  |  |
-| **Extras** | | (9b 2lb 4w 0nb) | 11 | 
-| **Total** | | (41 overs) | **160 for 8 wkts** | 
+| **Extras** | | (9b 2lb 4w 0nb) | **11** | 
+| **Total** | | (41 overs) | ****160 for 8 wkts**** | 
 
 ## Fall of Wickets
 

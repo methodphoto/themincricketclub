@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Knight** | b | W Calvert | 10 |
 | **R Harvey** | not out |  | 4 |
 | **R Young** | b | W Calvert | 5 |
-| **Extras** | | (10b 4lb 5w 0nb) | 19 |
-| **Total** | | (37.5 overs) | **165 all out** |
+| **Extras** | | (10b 4lb 5w 0nb) | **19** |
+| **Total** | | (37.5 overs) | ****165 all out**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | not out |  | 15 |
 | **D Young** | c & b | S Rendell | 0 |
 | **J Wright** | c A Potter | S Rendell | 0 |
-| **Extras** | | (1b 1lb 2w 1nb) | 5 |
-| **Total** | | (25.5 overs) | **97 all out** |
+| **Extras** | | (1b 1lb 2w 1nb) | **5** |
+| **Total** | | (25.5 overs) | ****97 all out**** |
 
 ## Fall of Wickets
 

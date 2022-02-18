@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Holland** | b | J Wright | 7 |
 | **A Breakspear** | b | R Beswick | 0 |
 | **R Williams** | c J Stimfig | R Beswick | 4 |
-| **Extras** | | (13b 0lb 4w 0nb) | 17 |
-| **Total** | | (35.4 overs) | **130 for 9 wkts** |
+| **Extras** | | (13b 0lb 4w 0nb) | **17** |
+| **Total** | | (35.4 overs) | ****130 for 9 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant** | c D Allaway | R Williams | 11 |
 | **J Stimfig &#8224;** | b | M Wickens | 4 |
 | **J Wright** | not out |  | 0 |
-| **Extras** | | (6b 0lb 0w 0nb) | 6 |
-| **Total** | | (29.1 overs) | **54 all out** |
+| **Extras** | | (6b 0lb 0w 0nb) | **6** |
+| **Total** | | (29.1 overs) | ****54 all out**** |
 
 ## Fall of Wickets
 

@@ -37,8 +37,8 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | run out |  | 2 |
 | **J Wright** | b | B White | 22 |
 | **P O'Mahony** | lbw | B White | 4 |
-| **Extras** | | (1b 11lb 13w 1nb 0p) | 26 |
-| **Total** | | (49 overs) | 149 all out |
+| **Extras** | | (1b 11lb 13w 1nb 0p) | **26** |
+| **Total** | | (49 overs) | **149 all out** |
 
 ## Fall of Wickets
 
@@ -73,8 +73,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Lock** | c P Wigg | R Earney |  0|
 | **F Gunning** | not out |  | 0 |
 | **D Ware** | not out |  | 0 |
-| **Extras** | | (0b 5lb 5w 2nb 0p) | 12 |
-| **Total** | | (49 overs) | 106 for 9 wkts |
+| **Extras** | | (0b 5lb 5w 2nb 0p) | **12** |
+| **Total** | | (49 overs) | **106 for 9 wkts** |
 
 ## Fall of Wickets
 

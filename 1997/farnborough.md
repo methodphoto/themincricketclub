@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | not out |  | 16 |
 | **G Wright** | not out |  | 1 |
 |  |  |  |  |
-| **Extras** | | (4b 6lb 3w 5nb) | 18 |
-| **Total** | | (42 overs) | **168 for 8 wkts** |
+| **Extras** | | (4b 6lb 3w 5nb) | **18** |
+| **Total** | | (42 overs) | ****168 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Larkham** | b | I Marshall | 2 |
 | **I Prior** | b | I Marshall | 4 |
 |  |  |  |  |
-| **Extras** | | (4b 0lb 1w 0nb) | 5 |
-| **Total** | | (34.4 overs) | **11 for 9 wkts (all out)** |
+| **Extras** | | (4b 0lb 1w 0nb) | **5** |
+| **Total** | | (34.4 overs) | ****11 for 9 wkts (all out)**** |
 
 ## Fall of Wickets
 

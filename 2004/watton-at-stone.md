@@ -36,8 +36,8 @@ Partnership of 186 between R Beswick and H Ingham. Highest Min Partnership.
 | **McGovern** | not out |  | 0 |
 | **R Clayton** | dnb |  |  |
 | **Morgan** | dnb |  |  |
-| **Extras** | | (9b 8lb 4w 4nb) | 25 |
-| **Total** | | (45 overs) | 210 for 7 wkts |
+| **Extras** | | (9b 8lb 4w 4nb) | **25** |
+| **Total** | | (45 overs) | **210 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Partnership of 186 between R Beswick and H Ingham. Highest Min Partnership.
 | **E Garland** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **P O'Mahony** | dnb |  |  |
-| **Extras** | | (8b 12lb 6w 0nb) | 26 |
-| **Total** | | (37.5 overs) | 211 for 3 wkts |
+| **Extras** | | (8b 12lb 6w 0nb) | **26** |
+| **Total** | | (37.5 overs) | **211 for 3 wkts** |
 
 ## Fall of Wickets
 

@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Coleman** | did not bat |  |  |
 | **R Harris** | did not bat |  |  |
 | **Extras** | | (0nb 3w 2b 1lb 0p) | **6** |
-| **Total** | | (35 overs) | **251 for 6** |
+| **Total** | | (35 overs) | ****251 for 6**** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | b | S Finch | 2 |
 | **J Pritchard** | c R Singh | R Coleman | 1 |
 | **Extras** | | (0nb 3w 2b 1lb 0p) | **6** |
-| **Total** | | (31 overs) | **190 all out** |
+| **Total** | | (31 overs) | ****190 all out**** |
 
 ## Fall of Wickets
 

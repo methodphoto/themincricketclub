@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Gardiner** | dnb |  |  | 
 | **J Wright** | dnb |  |  |
 |  |  |  |  | 
-| **Extras** | | (0b 2lb 0w 0nb) | 3 | 
-| **Total** | | (40.5 overs) | **201 for 6 wkts** | 
+| **Extras** | | (0b 2lb 0w 0nb) | **3** | 
+| **Total** | | (40.5 overs) | ****201 for 6 wkts**** | 
 
 ## Fall of Wickets
 
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Quinn** | b | A MacFarlane | 0 | 
 | **J Bowles** | not out |  | 6 | 
 | **N Mariner** | not out |  | 2 |
-| **Extras** | | (10b 1lb 5w 1nb) | 17 | 
-| **Total** | | (44 overs) | **175 for 9 wkts** | 
+| **Extras** | | (10b 1lb 5w 1nb) | **17** | 
+| **Total** | | (44 overs) | ****175 for 9 wkts**** | 
 
 ## Fall of Wickets
 

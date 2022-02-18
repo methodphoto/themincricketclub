@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Innes** | dnb |  |  |
 | **Milne** |  |  |  |
 |  |  |  |  |
-| **Extras** | | (10b 0lb 1w 0nb) | 11 |
-| **Total** | | (46 overs) | **195 for 3 wkts** |
+| **Extras** | | (10b 0lb 1w 0nb) | **11** |
+| **Total** | | (46 overs) | ****195 for 3 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Grant** | not out |  | 4 |
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (1b 3lb 0w 0nb) | 4 |
-| **Total** | | (41 overs) | **133 for 7 wkts** |
+| **Extras** | | (1b 3lb 0w 0nb) | **4** |
+| **Total** | | (41 overs) | ****133 for 7 wkts**** |
 
 ## Fall of Wickets
 

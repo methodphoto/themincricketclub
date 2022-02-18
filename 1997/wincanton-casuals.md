@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | not out |  | 3 |
 | **S Sheasby** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 11 |
-| **Total** | | (20 overs) | **134 for 7 wkts** |
+| **Extras** | | (0b 0lb 0w 0nb) | **11** |
+| **Total** | | (20 overs) | ****134 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 |
-| **Total** | | (16 overs) | **88 for 5 wkts** |
+| **Extras** | | (5b 0lb 6w 0nb) | **11** |
+| **Total** | | (16 overs) | ****88 for 5 wkts**** |
 
 ## Fall of Wickets
 

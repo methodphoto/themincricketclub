@@ -54,8 +54,8 @@ One seems a little more likely than the other…
 | **Penny** | run out |  | 50 |
 | **A Worman** | b | E Garland | 13 |
 | **N Lawrence** | not out |  | 8 |
-| **Extras** | | (10b 4lb 9w 0nb 0p) | 23 |
-| **Total** | | (33.4 overs) | **134 all out** |
+| **Extras** | | (10b 4lb 9w 0nb 0p) | **23** |
+| **Total** | | (33.4 overs) | ****134 all out**** |
 
 ## Fall of Wickets
 
@@ -89,8 +89,8 @@ One seems a little more likely than the other…
 | **E Garland** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (3b 0lb 2w 1nb 0p) | 6 |
-| **Total** | | (26.4 overs) | **137 for 4 wkts** |
+| **Extras** | | (3b 0lb 2w 1nb 0p) | **6** |
+| **Total** | | (26.4 overs) | ****137 for 4 wkts**** |
 
 ## Fall of Wickets
 

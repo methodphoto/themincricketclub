@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Newman** | b | Remphrey | 0 | 
 | **Griffiths** | not out |  | 6 | 
 | **R Olver** | c | Frape | 5 | 
-| **Extras** | | (2b 7lb 6w 0nb) | 15 | 
-| **Total** | | (35.4 overs) | **119 all out** | 
+| **Extras** | | (2b 7lb 6w 0nb) | **15** | 
+| **Total** | | (35.4 overs) | ****119 all out**** | 
 
 ## Fall of Wickets
 
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 | **Remphrey** | dnb |  |  | 
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 21 | 
-| **Total** | | (34 overs) | **120 for 5 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **21** | 
+| **Total** | | (34 overs) | ****120 for 5 wkts**** | 
 
 ## Fall of Wickets
 

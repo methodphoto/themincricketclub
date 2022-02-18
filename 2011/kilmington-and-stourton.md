@@ -35,8 +35,8 @@ E Garland best bowling and best return for The Min
 | **E Garland** | st R Rose | T Barton | 0 |
 | **P O'Mahony** | b | T Barton | 0 |
 | **J Wright** | not out |  | 3 |
-| **Extras** | | (5b 3lb 15w 3nb 0p) | 26 |
-| **Total** | | (33 overs) | 131 all out |
+| **Extras** | | (5b 3lb 15w 3nb 0p) | **26** |
+| **Total** | | (33 overs) | **131 all out** |
 
 ## Fall of Wickets
 
@@ -73,8 +73,8 @@ E Garland best bowling and best return for The Min
 | **R Rose &#8224; &#8224;** | st J Grant | E Garland | 0 |
 | **S Snook** | not out |  | 6 |
 | **C Hansen** | not out |  | 6 |
-| **Extras** | | (2b 1lb 5w 2nb 0p) | 10 |
-| **Total** | | (29 overs) | 135 for 9 wkts |
+| **Extras** | | (2b 1lb 5w 2nb 0p) | **10** |
+| **Total** | | (29 overs) | **135 for 9 wkts** |
 
 ## Fall of Wickets
 

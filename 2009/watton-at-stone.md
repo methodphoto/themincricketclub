@@ -51,8 +51,8 @@ Alas, one of the great face-offs in Min history was curtailed by Mo tamely offer
 | **R Clayton** | dnb |  |  |
 | **B Welch** | dnb |  |  |
 | **Warringham** | dnb |  |  |
-| **Extras** | | (5b 1lb 7w 5nb 0p) | 18 |
-| **Total** | | (41 overs) | **204 for 5 wkts** |
+| **Extras** | | (5b 1lb 7w 5nb 0p) | **18** |
+| **Total** | | (41 overs) | ****204 for 5 wkts**** |
 
 ## Fall of Wickets
 
@@ -88,8 +88,8 @@ Alas, one of the great face-offs in Min history was curtailed by Mo tamely offer
 | **R Wilkinson** | c (keeper) | R Burnell | 0 |
 | **E Garland** | not out |  | 1 |
 | **J Wright &#42;** | dnb |  |  |
-| **Extras** | | (36b 4lb 5w 6nb 0p) | 51 |
-| **Total** | | (39.4 overs) | **205 for 8 wkts** |
+| **Extras** | | (36b 4lb 5w 6nb 0p) | **51** |
+| **Total** | | (39.4 overs) | ****205 for 8 wkts**** |
 
 ## Fall of Wickets
 

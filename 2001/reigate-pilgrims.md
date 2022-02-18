@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Baty** | not out |  | 26 |
 | **A Tomes** | run out |  | 6 |
 | **Forsythe** | run out |  | 2 |
-| **Extras** | | (5b 7lb 4w 5nb) | 17 |
-| **Total** | | (46.3 overs) | **182 all out** |
+| **Extras** | | (5b 7lb 4w 5nb) | **17** |
+| **Total** | | (46.3 overs) | ****182 all out**** |
 
 ## Fall of Wickets
 
@@ -66,8 +66,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Patel** | c S Burgess | S Arnold | 8 |
 | **R Green** | b | P Teague | 7 |
 | **R Beswick &#42;** | not out |  | 0 |
-| **Extras** | | (12b 10lb 2w 1nb) | 25 |
-| **Total** | | (38.3 overs) | **154 all out** |
+| **Extras** | | (12b 10lb 2w 1nb) | **25** |
+| **Total** | | (38.3 overs) | ****154 all out**** |
 
 ## Fall of Wickets
 

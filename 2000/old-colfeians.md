@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **B Pye** | c I Marshall | T Riley | 0 |
 | **R Prendergast** | not out |  | 7 |
 |  |  |  |  |
-| **Extras** | | (4b 2lb 10w 0nb) | 16 |
-| **Total** | | (49 overs) | **121 for 8 wkts** |
+| **Extras** | | (4b 2lb 10w 0nb) | **16** |
+| **Total** | | (49 overs) | ****121 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | not out |  | 0 |
 | **D Jones** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (4b 0lb 0w 0nb) | 4 |
-| **Total** | | (33.5 overs) | **122 for 7 wkts** |
+| **Extras** | | (4b 0lb 0w 0nb) | **4** |
+| **Total** | | (33.5 overs) | ****122 for 7 wkts**** |
 
 ## Fall of Wickets
 

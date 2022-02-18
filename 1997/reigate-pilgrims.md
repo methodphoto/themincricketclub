@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Shore** | b | A Tomes | 3 |
 | **J Wright** | not out |  | 5 |
 | **P O'Mahony** | not out |  | 1 |
-| **Extras** | | (0b 0lb 0w 0nb) | 29 |
-| **Total** | | (54.2 overs) | **135 for 9 wkts** |
+| **Extras** | | (0b 0lb 0w 0nb) | **29** |
+| **Total** | | (54.2 overs) | ****135 for 9 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Tomes** | run out |  | 27 |
 | **S Arnold** | b | R Earney | 3 |
 | **Kingsbury** | not out |  | 1 |
-| **Extras** | | (0b 0lb 5w 1nb) | 6 |
-| **Total** | | (33.1 overs) | **94 all out** |
+| **Extras** | | (0b 0lb 5w 1nb) | **6** |
+| **Total** | | (33.1 overs) | ****94 all out**** |
 
 ## Fall of Wickets
 

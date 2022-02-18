@@ -35,8 +35,8 @@ M Goff's 2nd 50 and highest score
 | **I Marshall** | not out |  | 26 |
 | **J Wright** | b | S Hawkins | 1 |
 |  |  |  |  |
-| **Extras** | | (2b 8lb 2w 2nb) | 14 |
-| **Total** | | (45.1 overs) | 169 for 9 wkts (all out) |
+| **Extras** | | (2b 8lb 2w 2nb) | **14** |
+| **Total** | | (45.1 overs) | **169 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ M Goff's 2nd 50 and highest score
 | **A Tomes** | dnb |  |  |
 | **G Mitchell** | dnb |  |  |
 | **S Ford** | dnb |  |  |
-| **Extras** | | (0b 2lb 0w 0nb) | 2 |
-| **Total** | | (43.4 overs) | 172 for 3 wkts |
+| **Extras** | | (0b 2lb 0w 0nb) | **2** |
+| **Total** | | (43.4 overs) | **172 for 3 wkts** |
 
 ## Fall of Wickets
 

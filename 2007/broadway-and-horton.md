@@ -35,8 +35,8 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | not out |  | 7 |
 | **T Rutherford** | c J Bray | T Knight | 5 |
 | **J Wright** | not out |  | 4 |
-| **Extras** | | (5b 5lb 10w 4nb 0p) | 24 |
-| **Total** | | (40 overs) | 176 for 9 wkts |
+| **Extras** | | (5b 5lb 10w 4nb 0p) | **24** |
+| **Total** | | (40 overs) | **176 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Knight** | c J Wright | P Wigg | 6 |
 | **T Hill** | not out |  | 2 |
 | **L Whitlock** | run out |  | 0 |
-| **Extras** | | (0b 3lb 0w 2nb 0p) | 5 |
-| **Total** | | (33.4 overs) | 110 all out |
+| **Extras** | | (0b 3lb 0w 2nb 0p) | **5** |
+| **Total** | | (33.4 overs) | **110 all out** |
 
 ## Fall of Wickets
 

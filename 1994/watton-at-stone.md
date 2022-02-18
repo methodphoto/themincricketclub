@@ -34,8 +34,8 @@ Partnership of 109 between M Tipper and W Emsley
 | **W Gibbins** | dnb |  |  |
 | **T Ellis** | dnb |  |  |
 | **R Clayton** | dnb |  |  |
-| **Extras** | | (16b 6lb 2w 0nb) | 24 |
-| **Total** | | (48 overs) | **230 for 5 wkts** |
+| **Extras** | | (16b 6lb 2w 0nb) | **24** |
+| **Total** | | (48 overs) | ****230 for 5 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Partnership of 109 between M Tipper and W Emsley
 | **D Wheeler** | c | M Tipper | 4 |
 | **J Wright** | c | R Clayton | 10 |
 | **M Gardiner** | not out |  | 0 |
-| **Extras** | | (5b 4lb 2w 0nb) | 11 |
-| **Total** | | (53 overs) | **127 all out** |
+| **Extras** | | (5b 4lb 2w 0nb) | **11** |
+| **Total** | | (53 overs) | ****127 all out**** |
 
 ## Fall of Wickets
 

@@ -34,8 +34,8 @@ N Bezodis, sixfer on debut
 | **S Arnold** | not out |  | 15 |
 | **Cattell** | b | P O'Mahony | 0 |
 | **Bate** | b | J Wright | 0 |
-| **Extras** | | (0b 0lb 0w 0nb) | 1 |
-| **Total** | | (46 overs) | **124 all out** |
+| **Extras** | | (0b 0lb 0w 0nb) | **1** |
+| **Total** | | (46 overs) | ****124 all out**** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ N Bezodis, sixfer on debut
 | **P Beswick** | dnb |  |  |
 | **P O'Mahony** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 5 |
+| **Extras** | | (0b 0lb 0w 0nb) | **5** |
 | **Total** | | ( overs) | 129 for 2 wkts |
 
 ## Fall of Wickets

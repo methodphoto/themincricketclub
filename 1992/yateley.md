@@ -35,8 +35,8 @@ R Earney's 1st 50. R Beswick's 3rd 50
 | **Lyon** | not out |  | 4 | 
 | **G Wright** | dnb |  |  | 
 |  |  |  |  | 
-| **Extras** | | (7b 1lb 4w 0nb) | 14 | 
-| **Total** | | (39 overs) | **189 for 7 wkts** | 
+| **Extras** | | (7b 1lb 4w 0nb) | **14** | 
+| **Total** | | (39 overs) | ****189 for 7 wkts**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ R Earney's 1st 50. R Beswick's 3rd 50
 | **Davies** | lbw | J Wright | 0 | 
 | **Comer** | b | G Wright | 14 | 
 |  |  |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 | 
-| **Total** | | (36.2 overs) | **121 for 9 wkts (all out)** | 
+| **Extras** | | (5b 0lb 6w 0nb) | **11** | 
+| **Total** | | (36.2 overs) | ****121 for 9 wkts (all out)**** | 
 
 ## Fall of Wickets
 

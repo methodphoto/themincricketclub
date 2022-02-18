@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | b | T Oborne | 25 |
 | **A Slight** | c T Oborne | C O'Connor | 5 |
 | **J Earney** | not out |  | 0 |
-| **Extras** | | (0b 1lb 1w 0nb 0p) | 2 |
-| **Total** | | (29.5 overs) | **114 all out** |
+| **Extras** | | (0b 1lb 1w 0nb 0p) | **2** |
+| **Total** | | (29.5 overs) | ****114 all out**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **B White** | c & b | P Wigg | 12 |
 | **T Evans** | b | P Wigg | 0 |
 | **T Oborne** | not out |  | 0 |
-| **Extras** | | (0b 0lb 0w 0nb) | 11 |
-| **Total** | | (28.1 overs) | **97 all out** |
+| **Extras** | | (0b 0lb 0w 0nb) | **11** |
+| **Total** | | (28.1 overs) | ****97 all out**** |
 
 ## Fall of Wickets
 

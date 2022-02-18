@@ -35,8 +35,8 @@ P Bentley best bowling
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 2w 1nb) | 3 |
-| **Total** | | (40 overs) | **168 for 7 wkts** |
+| **Extras** | | (0b 0lb 2w 1nb) | **3** |
+| **Total** | | (40 overs) | ****168 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ P Bentley best bowling
 | **J Wright** | not out |  | 7 |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (8b 6lb 0w 0nb) | 14 |
-| **Total** | | (36.2 overs) | **169 for 7 wkts** |
+| **Extras** | | (8b 6lb 0w 0nb) | **14** |
+| **Total** | | (36.2 overs) | ****169 for 7 wkts**** |
 
 ## Fall of Wickets
 

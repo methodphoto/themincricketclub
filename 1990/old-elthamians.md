@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick** | not out |  | 56 | 
 | **A Fielding** | b | White | 0 | 
 | **A Swann** | c | Pearce | 6 | 
-| **Extras** | | (13b 3lb 11w 0nb) | 27 | 
-| **Total** | | (44.2 overs) | **112 all out** | 
+| **Extras** | | (13b 3lb 11w 0nb) | **27** | 
+| **Total** | | (44.2 overs) | ****112 all out**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **Malkin** | b | A Swann | 1 | 
 | **White** | not out |  | 5 | 
 | **M Wright** | not out | | 4 | 
-| **Extras** | | (5b 1lb 2w 0nb) | 8 | 
-| **Total** | | (41 overs) | **86 for 9 wkts** | 
+| **Extras** | | (5b 1lb 2w 0nb) | **8** | 
+| **Total** | | (41 overs) | ****86 for 9 wkts**** | 
 
 ## Fall of Wickets
 

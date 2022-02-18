@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Bristow** | b | Smith | 0 | 
 | **A Fielding** | b | Smith | 2 | 
 | **G Wright** | lbw | J Chambers | 2 | 
-| **Extras** | | (9b 2lb 4w 0nb) | 18 | 
-| **Total** | | (31.5 overs) | **146 all out** | 
+| **Extras** | | (9b 2lb 4w 0nb) | **18** | 
+| **Total** | | (31.5 overs) | ****146 all out**** | 
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Pavey** | not out |  | 1 | 
 | **Hammon** | c A MacFarlane | S Hornsby | 1 | 
 | **J Chambers** | c D Ferguson | S Hornsby | 0 |
-| **Extras** | | (0b 0lb 0w 0nb) | 5 | 
+| **Extras** | | (0b 0lb 0w 0nb) | **5** | 
 | **Total** | | (37.1 overs) | 106 all out| 
 
 ## Fall of Wickets

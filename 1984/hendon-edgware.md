@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Hillman** | b | E Harcourt | 8 | 
 | **K Handleigh** | c D Young | A Gallagher | 13 | 
 | **M James** | not out | | 1 | 
-| **Extras** | | (11b 1lb 4w 2nb) | 18 | 
-| **Total** | | (20.5 overs) | **62 all out** | 
+| **Extras** | | (11b 1lb 4w 2nb) | **18** | 
+| **Total** | | (20.5 overs) | ****62 all out**** | 
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Harcourt** | dnb |  |  | 
 | **J Wright** | dnb | |  | 
 | **A Sylvester** | dnb | |  | 
-| **Extras** | | (2b 3lb 0w 2nb) | 7 | 
-| **Total** | | (27.3 overs) | **63 for 2 wkts** | 
+| **Extras** | | (2b 3lb 0w 2nb) | **7** | 
+| **Total** | | (27.3 overs) | ****63 for 2 wkts**** | 
 
 ## Fall of Wickets
 

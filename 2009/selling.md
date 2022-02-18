@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Gunning** | dnb |  |  |
 | **B Sweeting** | dnb |  |  |
 | **W Hinkley** | dnb |  |  |
-| **Extras** | | (3b 2lb 3w 5nb 0p) | 13 |
-| **Total** | | (40 overs) | **283 for 6 wkts** |
+| **Extras** | | (3b 2lb 3w 5nb 0p) | **13** |
+| **Total** | | (40 overs) | ****283 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Wigg** | not out |  | 15 |
 | **J Wright &#42;t** | not out |  | 0 |
 |  |  |  |  |
-| **Extras** | | (4b 4lb 17w 3nb 0p) | 28 |
-| **Total** | | (40 overs) | **277 for 8 wkts** |
+| **Extras** | | (4b 4lb 17w 3nb 0p) | **28** |
+| **Total** | | (40 overs) | ****277 for 8 wkts**** |
 
 ## Fall of Wickets
 

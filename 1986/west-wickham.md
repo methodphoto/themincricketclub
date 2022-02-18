@@ -35,8 +35,8 @@ Andrew Gallagher and Phill Goult: 100 partnership
 | **Jarvis** | not out |  | 15 | 
 | **S Wright** | b | W Wright | 0 | 
 | **Jobson** | run out | | 9 | 
-| **Extras** | | (4b 7lb 8w 0nb) | 19 | 
-| **Total** | | (39.5 overs) | **162 all out** | 
+| **Extras** | | (4b 7lb 8w 0nb) | **19** | 
+| **Total** | | (39.5 overs) | ****162 all out**** | 
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Andrew Gallagher and Phill Goult: 100 partnership
 | **D Young** | lbw | Moran | 1 | 
 | **J Wright** | not out |  | 2 | 
 | **D Newman** | dnb |  |  | 
-| **Extras** | | (2b 1lb 0w 0nb) | 3 | 
-| **Total** | | (27 overs) | **163 for 8 wkts** | 
+| **Extras** | | (2b 1lb 0w 0nb) | **3** | 
+| **Total** | | (27 overs) | ****163 for 8 wkts**** | 
 
 ## Fall of Wickets
 

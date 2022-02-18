@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Sheasby** | dnb |  |  |
 | **S Masterson** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (1b 0lb 6w 7nb) | 14 |
-| **Total** | | (42 overs) | **206 for 4 wkts** |
+| **Extras** | | (1b 0lb 6w 7nb) | **14** |
+| **Total** | | (42 overs) | ****206 for 4 wkts**** |
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ Played at {{page.location}} on {{page.date}}
 | **N Chamberlin** | b | S Masterson | 0 |
 | **N Barker** | not out |  | 8 |
 | **D Ratcliffe** | dnb |  |  |
-| **Extras** | | (7b 1lb 3w 1nb) | 12 |
-| **Total** | | (38.2 overs) | **207 for 8 wkts** |
+| **Extras** | | (7b 1lb 3w 1nb) | **12** |
+| **Total** | | (38.2 overs) | ****207 for 8 wkts**** |
 
 ## Fall of Wickets
 

@@ -35,8 +35,8 @@ M Petre highest score for The Min
 | **J Wright** | run out |   | 31 |
 | **P O'Brien** | b | R Shelley | 1 |
 | **P O'Mahony** | not out |  | 12 |
-| **Extras** | | (6b 2lb 16w 1nb) | 30 |
-| **Total** | | (39.5 overs) | **223 all out** |
+| **Extras** | | (6b 2lb 16w 1nb) | **30** |
+| **Total** | | (39.5 overs) | ****223 all out**** |
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ M Petre highest score for The Min
 | **R Shelley** | lbw | R Earney | 0 |
 | **U Zafar** | c J Grant | R Beswick | 11 |
 | **P Smith** | not out |  | 1 |
-| **Extras** | | (4b 0lb 5w 6nb) | 15 |
-| **Total** | | (40 overs) | **138 all out** |
+| **Extras** | | (4b 0lb 5w 6nb) | **15** |
+| **Total** | | (40 overs) | ****138 all out**** |
 
 ## Fall of Wickets
 

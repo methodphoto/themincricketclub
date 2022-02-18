@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Evans** | lbw | J Skarbek | 0 | 
 | **Westwood** | not out |  | 1 | 
 | **Evans** | dnb |  |  |
-| **Extras** | | (10b 3lb 8w 2nb) | 23 | 
-| **Total** | | (38 overs) | **123 for 8 wkts** | 
+| **Extras** | | (10b 3lb 8w 2nb) | **23** | 
+| **Total** | | (38 overs) | ****123 for 8 wkts**** | 
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Played at {{page.location}} on {{page.date}}
 | **J McIntosh** | dnb |  |  | 
 | **J Skarbek** | dnb |  |  | 
 |  |  |  |  | 
-| **Extras** | | (3b 0lb 0w 1nb) | 4 | 
-| **Total** | | (26.2 overs) | **124 for 5 wkts** | 
+| **Extras** | | (3b 0lb 0w 1nb) | **4** | 
+| **Total** | | (26.2 overs) | ****124 for 5 wkts**** | 
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Alleyne** | not out |  | 6 | 
 | **T Nicholls** | dnb |  |  | 
 | **C Williams** | dnb |  |  |
-| **Extras** | | (1b 4lb 6w 0nb) | 10 | 
-| **Total** | | (35 overs) | **162 for 7 wkts** | 
+| **Extras** | | (1b 4lb 6w 0nb) | **10** | 
+| **Total** | | (35 overs) | ****162 for 7 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Gardiner** | dnb |  |  | 
 | **R Olver** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (9b 2lb 4w 0nb) | 11 | 
-| **Total** | | (33.5 overs) | **163 for 5 wkts** | 
+| **Extras** | | (9b 2lb 4w 0nb) | **11** | 
+| **Total** | | (33.5 overs) | ****163 for 5 wkts**** | 
 
 ## Fall of Wickets
 

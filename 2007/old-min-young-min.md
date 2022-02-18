@@ -39,8 +39,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Bates** | dnb |  |  |
 | **P O'Mahony** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 2lb 6w 0nb 0p) | 8 |
-| **Total** | | (8.2 overs) | 38 for 3 wkts |
+| **Extras** | | (0b 2lb 6w 0nb 0p) | **8** |
+| **Total** | | (8.2 overs) | **38 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 0 |
-| **Total** | | (0 overs) | 0 |
+| **Extras** | | (0b 0lb 0w 0nb) | **0** |
+| **Total** | | (0 overs) | **0** |
 
 ## Fall of Wickets
 

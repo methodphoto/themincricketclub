@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Barber** | c & b | R Beswick | 21 |
 | **S Lovegrove** | not out |  | 15 |
 | **C Phipps** | dnb |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 19 |
-| **Total** | | (39 overs) | **230 for 8 wkts** |
+| **Extras** | | (0b 0lb 0w 0nb) | **19** |
+| **Total** | | (39 overs) | ****230 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Kotecha** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (8b 2lb 3w 0nb) | 13 |
-| **Total** | | (35 overs) | **165 for 6 wkts** |
+| **Extras** | | (8b 2lb 3w 0nb) | **13** |
+| **Total** | | (35 overs) | ****165 for 6 wkts**** |
 
 ## Fall of Wickets
 

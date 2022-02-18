@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Stimfig** | not out |  | 19 | 
 | **S Maynard** | c | 6 | 8 | 
 | **J Wright** | not out |  | 1 | 
-| **Extras** | | (20b 0lb 5w 0nb) | 25 | 
-| **Total** | | (25 overs) | **124 for 9 wkts** | 
+| **Extras** | | (20b 0lb 5w 0nb) | **25** | 
+| **Total** | | (25 overs) | ****124 for 9 wkts**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **Jullien** | b | J Colville | 4 | 
 |  |  |  |  | 
 |  |  |  |  |
-| **Extras** | | (9b 0lb 7w 0nb) | 16 | 
-| **Total** | | (18 overs) | **40 for 8 wkts (all out)** | 
+| **Extras** | | (9b 0lb 7w 0nb) | **16** | 
+| **Total** | | (18 overs) | ****40 for 8 wkts (all out)**** | 
 
 ## Fall of Wickets
 

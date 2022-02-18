@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **** |  |  |  |
 | **** |  |  |  |
 | **Extras** | | (6b 5b 18w 2nb 0p) | **31** |
-| **Total** | | (33.3 overs) | **200 for 8 wkts (all out)** |
+| **Total** | | (33.3 overs) | ****200 for 8 wkts (all out)**** |
 
 ## Bowling
 

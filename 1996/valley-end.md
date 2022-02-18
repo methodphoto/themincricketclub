@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Gale** | c J Stimfig | S Masterson | 8 |
 | **D Cable** | not out |  | 10 |
 | **J Talbot** | not out |  | 4 |
-| **Extras** | | (1b 2lb 6w 0nb) | 12 |
-| **Total** | | (45 overs) | **181 for 9 wkts** |
+| **Extras** | | (1b 2lb 6w 0nb) | **12** |
+| **Total** | | (45 overs) | ****181 for 9 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | dnb |  |  |
 | **J Fleetwood** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (1b 2lb 5w 3nb) | 11 |
-| **Total** | | (40.3 overs) | **182 for 4 wkts** |
+| **Extras** | | (1b 2lb 5w 3nb) | **11** |
+| **Total** | | (40.3 overs) | ****182 for 4 wkts**** |
 
 ## Fall of Wickets
 

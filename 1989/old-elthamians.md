@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Olver** | not out |  | 1 | 
 |  |  |  |  |
 |  |  |  |  | 
-| **Extras** | | (11b 7lb 10w 1nb) | 29 | 
-| **Total** | | (40 overs) | **248 for 7 wkts** | 
+| **Extras** | | (11b 7lb 10w 1nb) | **29** | 
+| **Total** | | (40 overs) | ****248 for 7 wkts**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **Knight** | b | G Wright | 6 | 
 | **White** | b | R Beswick | 0 | 
 | **Pearce** | not out |  | 2 |
-| **Extras** | | (9b 4lb 12w 1nb) | 26 | 
-| **Total** | | (38.2 overs) | **206 all out** | 
+| **Extras** | | (9b 4lb 12w 1nb) | **26** | 
+| **Total** | | (38.2 overs) | ****206 all out**** | 
 
 ## Fall of Wickets
 

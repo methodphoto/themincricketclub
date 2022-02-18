@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Clayton** | b | R Beswick | 12 | 
 | **D Cakebread** | not out |  | 0 | 
 | **S Carter** | c M Gardiner | J Wright | 7 |
-| **Extras** | | (6b 4lb 4w 0nb) | 14 | 
-| **Total** | | (47 overs) | **139 all out** | 
+| **Extras** | | (6b 4lb 4w 0nb) | **14** | 
+| **Total** | | (47 overs) | ****139 all out**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Skarbek** | c | Ellis | 5 | 
 | **E Garland** | not out |  | 4 | 
 | **G Wright** | not out |  | 14 | 
-| **Extras** | | (0b 5lb 4w 0nb) | 9 | 
-| **Total** | | (33.5 overs) | **143 for 9 wkts** | 
+| **Extras** | | (0b 5lb 4w 0nb) | **9** | 
+| **Total** | | (33.5 overs) | ****143 for 9 wkts**** | 
 
 ## Fall of Wickets
 

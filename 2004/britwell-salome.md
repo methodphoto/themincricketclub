@@ -35,8 +35,8 @@ S Barrowcliff's 12th 50
 | **M Gardiner** | not out |  | 7 |
 | **G Wright** | b | B Bilson | 1 |
 | **R Coyle** | b | B Bilson | 1 |
-| **Extras** | | (2b 2lb 5w 6nb) | 15 |
-| **Total** | | (39.3 overs) | 108 all out |
+| **Extras** | | (2b 2lb 5w 6nb) | **15** |
+| **Total** | | (39.3 overs) | **108 all out** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ S Barrowcliff's 12th 50
 | **T Powell** | dnb |  |  |
 | **J Morgan** | dnb |  |  |
 | **E Dutton** | dnb |  |  |
-| **Extras** | | (5b 2lb 11w 2nb) | 20 |
-| **Total** | | (37 overs) | 109 for 4 wkts |
+| **Extras** | | (5b 2lb 11w 2nb) | **20** |
+| **Total** | | (37 overs) | **109 for 4 wkts** |
 
 ## Fall of Wickets
 

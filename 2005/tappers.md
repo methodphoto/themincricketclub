@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Speight** | lbw | J Wright | 7 |
 | **P Neate** | run out |  | 0 |
 | **R Brittain** | not out |  | 2 |
-| **Extras** | | (5b 8lb 10w 1nb) | 24 |
-| **Total** | | (30.1 overs) | 159 all out |
+| **Extras** | | (5b 8lb 10w 1nb) | **24** |
+| **Total** | | (30.1 overs) | **159 all out** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **W Wilkin** | not out |  | 15 |
 | **S Wilkin** | b | N Spence | 0 |
 | **J Wright** | b | G Marlow | 0 |
-| **Extras** | | (5b 3lb 6w 3nb) | 17 |
-| **Total** | | (37 overs) | 113 all out |
+| **Extras** | | (5b 3lb 6w 3nb) | **17** |
+| **Total** | | (37 overs) | **113 all out** |
 
 ## Fall of Wickets
 

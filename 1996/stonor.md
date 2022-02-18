@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Hylton** | dnb |  |  |
 | **W Calvert** | dnb |  |  |
 | **M Brett** | dnb |  |  |
-| **Extras** | | (3b 0lb 14w 2nb) | 21 |
-| **Total** | | (35 overs) | **212 for 6 wkts** |
+| **Extras** | | (3b 0lb 14w 2nb) | **21** |
+| **Total** | | (35 overs) | ****212 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **Thomson** | not out |  | 7 |
 | **Micklethwaite** | c R Beswick | J Hylton | 0 |
 | **Bulmore** | b | J Hylton | 0 |
-| **Extras** | | (1b 3lb 5w 0nb) | 9 |
-| **Total** | | (37.3 overs) | **114 all out** |
+| **Extras** | | (1b 3lb 5w 0nb) | **9** |
+| **Total** | | (37.3 overs) | ****114 all out**** |
 
 ## Fall of Wickets
 

@@ -38,8 +38,8 @@ Partnership of 132 between R Earney and A Slight
 | **H Ingham** | c | Powell | 12 |
 | **I Marshall** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (4b 3lb 3w 2nb) | 12 |
-| **Total** | | (42.5 overs) | **216 for 8 wkts** |
+| **Extras** | | (4b 3lb 3w 2nb) | **12** |
+| **Total** | | (42.5 overs) | ****216 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -74,8 +74,8 @@ Partnership of 132 between R Earney and A Slight
 | **Richards** | b | H Ingham | 0 |
 | **Wills** | not out |  | 0 |
 | **Brown** | dnb |  |  |
-| **Extras** | | (1b 1lb 1w 0nb) | 3 |
-| **Total** | | (40 overs) | **149 for 7 wkts** |
+| **Extras** | | (1b 1lb 1w 0nb) | **3** |
+| **Total** | | (40 overs) | ****149 for 7 wkts**** |
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant** | b | Khursheed | 13 | 
 | **D Young** | c Khursheed | J Harvey | 1 | 
 | **J Wright** | not out | | 20 | 
-| **Extras** | | (12b 8lb 0w 0nb) | 20 | 
-| **Total** | | (35 overs) | **126 for 9 wkts** | 
+| **Extras** | | (12b 8lb 0w 0nb) | **20** | 
+| **Total** | | (35 overs) | ****126 for 9 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **Khursheed** | dnb | | | 
 | **M Harvey** | dnb | | | 
 | **N/A** | dnb | | | 
-| **Extras** | | (6b 2lb 3w 0nb) | 11 | 
-| **Total** | | (24.4 overs) | **128 for 4 wkts** | 
+| **Extras** | | (6b 2lb 3w 0nb) | **11** | 
+| **Total** | | (24.4 overs) | ****128 for 4 wkts**** | 
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Slight** | c M Whitline | D King | 2 |
 | **P Wigg** | b | T Honesham | 28 |
 | **P Beswick** | not out |  | 0 |
-| **Extras** | | (22b 3lb 8w 0nb 0p) | 33 |
-| **Total** | | (39.3 overs) | **205 all out** |
+| **Extras** | | (22b 3lb 8w 0nb 0p) | **33** |
+| **Total** | | (39.3 overs) | ****205 all out**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Wynne** | dnb |  |  |
 | **T Simmons** | dnb |  |  |
 | **M Whitline** | dnb |  |  |
-| **Extras** | | (2b 12lb 12w 2nb 0p) | 28 |
-| **Total** | | (35.5 overs) | **206 for 4 wkts** |
+| **Extras** | | (2b 12lb 12w 2nb 0p) | **28** |
+| **Total** | | (35.5 overs) | ****206 for 4 wkts**** |
 
 ## Fall of Wickets
 

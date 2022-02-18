@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Grant** | b | J Gower | 4 |
 | **G Powell** | b | J Gower | 2 |
 | **J Wright** | not out |  | 5 |
-| **Extras** | | (13b 1lb 7w 8nb) | 29 |
-| **Total** | | (29.2 overs) | **113 all out** |
+| **Extras** | | (13b 1lb 7w 8nb) | **29** |
+| **Total** | | (29.2 overs) | ****113 all out**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Wynde** | dnb |  |  |
 | **A Loveard** | dnb |  |  |
 | **V Campbell** | dnb |  |  |
-| **Extras** | | (2b 0lb 1w 0nb) | 3 |
-| **Total** | | (27.2 overs) | **114 for 6 wkts** |
+| **Extras** | | (2b 0lb 1w 0nb) | **3** |
+| **Total** | | (27.2 overs) | ****114 for 6 wkts**** |
 
 ## Fall of Wickets
 

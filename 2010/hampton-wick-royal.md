@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **T McMullan** | b | M Gupta | 26 |
 | **Nicholls** | not out |  | 0 |
 | **Charlton** | b | H Ingham | 0 |
-| **Extras** | | (1b 3lb 11w 5nb 0p) | 20 |
-| **Total** | | (37.2 overs) | **162 all out** |
+| **Extras** | | (1b 3lb 11w 5nb 0p) | **20** |
+| **Total** | | (37.2 overs) | ****162 all out**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **H Ingham** | b | Ingrall | 0 |
 | **S Sorsa** | b | Ingrall | 2 |
 | **J Wright** | not out |  | 0  |
-| **Extras** | | (5b 1lb 7w 0nb 0p) | 13 |
-| **Total** | | (37.1 overs) | **139 all out** |
+| **Extras** | | (5b 1lb 7w 0nb 0p) | **13** |
+| **Total** | | (37.1 overs) | ****139 all out**** |
 
 ## Fall of Wickets
 

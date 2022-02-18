@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Smith** | b | R Earney | 0 |
 | **S Easton** | c R Beswick | T Fearn |  |
 | **M Killick** | c & b | S Masterson |  |
-| **Extras** | | (2b 2lb 5w 0nb) | 9 |
-| **Total** | | (43.1 overs) | **176 fall out** |
+| **Extras** | | (2b 2lb 5w 0nb) | **9** |
+| **Total** | | (43.1 overs) | ****176 fall out**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | dnb |  |  |
 | **T Fearn** | dnb |  |  |
 | **S Masterson** | dnb |  |  |
-| **Extras** | | (13b 4lb 1w 0nb) | 18 |
-| **Total** | | (33.5 overs) | **177 for 5 wkts** |
+| **Extras** | | (13b 4lb 1w 0nb) | **18** |
+| **Total** | | (33.5 overs) | ****177 for 5 wkts**** |
 
 ## Fall of Wickets
 

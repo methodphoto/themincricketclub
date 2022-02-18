@@ -35,8 +35,8 @@ Result: {result}
 | **Bicknell** | b | A Gallagher | 34 | 
 |  |  |  |  | 
 |  |  |  |  |
-| **Extras** | | (18b 3lb 6w 0nb) | 27 | 
-| **Total** | | (31.5 overs) | **135 for 8 wkts** |
+| **Extras** | | (18b 3lb 6w 0nb) | **27** | 
+| **Total** | | (31.5 overs) | ****135 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Result: {result}
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (9b 3lb 2w 5nb) | 18 | 
-| **Total** | | (40 overs) | **60 for 7 wkts (all out)** | 
+| **Extras** | | (9b 3lb 2w 5nb) | **18** | 
+| **Total** | | (40 overs) | ****60 for 7 wkts (all out)**** | 
 
 ## Fall of Wickets
 

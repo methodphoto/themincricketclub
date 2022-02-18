@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Finch** | dnb |  |  | 
 | **Hughes** | dnb |  |  | 
 | **Winter** |  |  |  |
-| **Extras** | | (10b 4lb 4w 0nb) | 18 | 
-| **Total** | | (35 overs) | **175 for 1 wkt** | 
+| **Extras** | | (10b 4lb 4w 0nb) | **18** | 
+| **Total** | | (35 overs) | ****175 for 1 wkt**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Skaarbeck** | b | Winter | 8 | 
 | **M Hickman** | not out |  | 0 | 
 | **J Wright** | not out |  | 8 | 
-| **Extras** | | (9b 2lb 4w 0nb) | 6 | 
-| **Total** | | (33.5 overs) | **178 for 9 wkts** | 
+| **Extras** | | (9b 2lb 4w 0nb) | **6** | 
+| **Total** | | (33.5 overs) | ****178 for 9 wkts**** | 
 
 ## Fall of Wickets
 

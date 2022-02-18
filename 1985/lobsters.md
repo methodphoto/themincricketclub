@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Siddall** | not out |  | 13 | 
 | **Potter** | dnb |  |  | 
 | **Stone** | dnb |  |  | 
-| **Extras** | | (0b 3lb 7w 0nb) | 10 | 
-| **Total** | | (40 overs) | **183 all out** | 
+| **Extras** | | (0b 3lb 7w 0nb) | **10** | 
+| **Total** | | (40 overs) | ****183 all out**** | 
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Kirwan** | c Smallwood | Hornby | 63 | 
 | **R Olver** | not out |   | 6 | 
 | **J Wright** | run out |  | 3 | 
-| **Extras** | | (8b 2lb 9w 1nb) | 20 | 
-| **Total** | | (33.2 overs) | **164 all out** | 
+| **Extras** | | (8b 2lb 9w 1nb) | **20** | 
+| **Total** | | (33.2 overs) | ****164 all out**** | 
 
 ## Fall of Wickets
 

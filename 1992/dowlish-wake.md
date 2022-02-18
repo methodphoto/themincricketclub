@@ -36,8 +36,8 @@ Partnership of 160 between I Marshall and S Barrowcliff
 | **G Wright** | dnb |  |  | 
 | **R Colethorpe** | dnb |  |  | 
 | **J Wright** |dnb |  |  | 
-| **Extras** | | (9b 2lb 4w 0nb) | 8 | 
-| **Total** | | (33.5 overs) | **228 for 1 wkt** | 
+| **Extras** | | (9b 2lb 4w 0nb) | **8** | 
+| **Total** | | (33.5 overs) | ****228 for 1 wkt**** | 
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Partnership of 160 between I Marshall and S Barrowcliff
 | **M George** | c & b | R Colethorpe | 2 | 
 | **S Crabb** | not out |  | 7 | 
 |  |  |  |  |
-| **Extras** | | (4b 0lb 0w 2nb) | 6 | 
-| **Total** | | (25.2 overs) | **69 for 9 wkts (all out)** | 
+| **Extras** | | (4b 0lb 0w 2nb) | **6** | 
+| **Total** | | (25.2 overs) | ****69 for 9 wkts (all out)**** | 
 
 ## Fall of Wickets
 

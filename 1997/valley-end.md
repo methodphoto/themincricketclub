@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Fearn** | c C Norwood | S Tidbury | 8 |
 | **S Masterson** | not out |  | 6 |
 | **J Wright** | b | M Henwick | 4 |
-| **Extras** | | (25b 10lb 10w 0nb) | 45 |
-| **Total** | | (41.4 overs) | **167 all out** |
+| **Extras** | | (25b 10lb 10w 0nb) | **45** |
+| **Total** | | (41.4 overs) | ****167 all out**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **C Harpley** | dnb |  |  |
 | **M Fagent** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (11b 0lb 5w 0nb) | 16 |
-| **Total** | | (32.5 overs) | **168 for 2 wkts** |
+| **Extras** | | (11b 0lb 5w 0nb) | **16** |
+| **Total** | | (32.5 overs) | ****168 for 2 wkts**** |
 
 ## Fall of Wickets
 

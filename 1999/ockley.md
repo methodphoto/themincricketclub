@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Williams** | dnb |  |  |
 | **S Smith** | dnb |  |  |
 | **P Gray** | dnb |  |  |
-| **Extras** | | (2b 4lb 4w 1nb) | 16 |
-| **Total** | | (43 overs) | **168 for 5 wkts** |
+| **Extras** | | (2b 4lb 4w 1nb) | **16** |
+| **Total** | | (43 overs) | ****168 for 5 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **W Calvert** | not out |  | 17 |
 | **P O'Brien** | not out |  | 5 |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (3b 2lb 2w 1nb) | 8 |
-| **Total** | | (38 overs) | **137 for 8 wkts** |
+| **Extras** | | (3b 2lb 2w 1nb) | **8** |
+| **Total** | | (38 overs) | ****137 for 8 wkts**** |
 
 ## Fall of Wickets
 

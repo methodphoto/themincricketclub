@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Gardiner** | b | J Carslake | 3 | 
 | **R Beswick** | b | J Carslake | 4 | 
 | **J Wright** | not out |  | 1 | 
-| **Extras** | | (0b 3lb 0w 0nb) | 3 | 
+| **Extras** | | (0b 3lb 0w 0nb) | **3** | 
 | **Total** | | (43.2) | 154 all out | 
 
 ## Fall of Wickets
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Harding** | st | A Gallagher | 1 | 
 | **C Sheen** | run out |  | 4 |
 | **R Cole** | b | P Bentley | 2 | 
-| **Extras** | | (8b 2lb 0w 0nb) | 10 | 
-| **Total** | | (35.5 overs) | **111 all out** | 
+| **Extras** | | (8b 2lb 0w 0nb) | **10** | 
+| **Total** | | (35.5 overs) | ****111 all out**** | 
 
 ## Fall of Wickets
 

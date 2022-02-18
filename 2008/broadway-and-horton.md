@@ -35,8 +35,8 @@ The Ashes retained
 | **P Wigg** | c | C Medland | 6 |
 | **P O'Mahony** |not out |  | 12 |
 |  |  |  |  |
-| **Extras** | | (9b 3lb 16w 2nb 0p) | 30 |
-| **Total** | | (40 overs) | 131 for 8 wkts |
+| **Extras** | | (9b 3lb 16w 2nb 0p) | **30** |
+| **Total** | | (40 overs) | **131 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ The Ashes retained
 | **C Medland** | lbw | T Rutherford | 12 |
 | **T Hill** | b | I Marshall | 0 |
 | **D Garland** | st J Grant | P Wigg | 17 |
-| **Extras** | | (2b 5lb 7w 3nb 0p) | 17 |
-| **Total** | | (39.4 overs) | 124 all out |
+| **Extras** | | (2b 5lb 7w 3nb 0p) | **17** |
+| **Total** | | (39.4 overs) | **124 all out** |
 
 ## Fall of Wickets
 

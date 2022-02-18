@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Calcutt** | run out |  | 9 |
 | **W Sherman** | not out |  | 4 | 
 | **Fairbrother** | run out |  | 2 |
-| **Extras** | | (16b 4lb 5w 0nb) | 25 | 
-| **Total** | | (51.3 overs) | **165 all out** | 
+| **Extras** | | (16b 4lb 5w 0nb) | **25** | 
+| **Total** | | (51.3 overs) | ****165 all out**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Newman** | c R Calcutt | Sherman | 9 | 
 | **R Olver** | not out |  | 34 | 
 | **J Wright** | not out |  | 5 | 
-| **Extras** | | (4b 1lb 2w 0nb) | 7 | 
-| **Total** | | (33.5 overs) | **138 for 9 wkts** | 
+| **Extras** | | (4b 1lb 2w 0nb) | **7** | 
+| **Total** | | (33.5 overs) | ****138 for 9 wkts**** | 
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Ford**  | not out |  | 16 |
 | **K Gilmour**  | b | R Beswick | 0 |
 |  |  |  |  |
-| **Extras** | | (3b 0lb 2w 0nb) | 15 | 
-| **Total** | | (34.1 overs) | **157 for 9 wkts** | 
+| **Extras** | | (3b 0lb 2w 0nb) | **15** | 
+| **Total** | | (34.1 overs) | ****157 for 9 wkts**** | 
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Newman** | not out | 14 | 
 | **M Kirwan** | not out |  | 13 |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (18b 1lb 5w 0nb) | 24 | 
-| **Total** | | (36.1 overs) | **161 for 8 wkts** | 
+| **Extras** | | (18b 1lb 5w 0nb) | **24** | 
+| **Total** | | (36.1 overs) | ****161 for 8 wkts**** | 
 
 ## Fall of Wickets
 

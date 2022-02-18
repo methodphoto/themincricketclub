@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Hatt** | not out |  | 0 |
 | **L Clark** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (2b 1lb 2w 0nb) | 5 |
-| **Total** | | (47 overs) | **157 for 7 wkts** |
+| **Extras** | | (2b 1lb 2w 0nb) | **5** |
+| **Total** | | (47 overs) | ****157 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | b | T Hatt | 3 |
 | **J Wright** | c P Croxford | T Hatt | 0 |
 |  |  |  |  |
-| **Extras** | | (2b 0lb 2w 0nb) | 4 |
-| **Total** | | (32 overs) | **81 all out** |
+| **Extras** | | (2b 0lb 2w 0nb) | **4** |
+| **Total** | | (32 overs) | ****81 all out**** |
 
 ## Fall of Wickets
 

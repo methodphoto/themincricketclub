@@ -35,8 +35,8 @@ Partnership  of 102 between J Grant and P Sayer
 | **E Garland** | dnb |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (8b 5lb 5w 0nb) | 15 |
-| **Total** | | (32 overs) | **172 for 5 wkts** |
+| **Extras** | | (8b 5lb 5w 0nb) | **15** |
+| **Total** | | (32 overs) | ****172 for 5 wkts**** |
 
 ## Fall of Wickets
 
@@ -73,8 +73,8 @@ Partnership  of 102 between J Grant and P Sayer
 | **Chattergee** | dnb |  |  |
 | **Russoff &#8224;** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 1w 0nb) | 1 |
-| **Total** | | (39 overs) | **75 for 6 wkts** |
+| **Extras** | | (0b 0lb 1w 0nb) | **1** |
+| **Total** | | (39 overs) | ****75 for 6 wkts**** |
 
 ## Fall of Wickets
 

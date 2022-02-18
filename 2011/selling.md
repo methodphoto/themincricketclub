@@ -35,7 +35,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Knight** | dnb |  |  |
 | **T Carter** | dnb |  |  |
 | **Extras** | | (0b 0lb 2w 0nb 0p) | **2** |
-| **Total** | | (46 overs) | **73 for 2 wkts** |
+| **Total** | | (46 overs) | ****73 for 2 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | dnb |  |  |
 | **T Carden** | dnb |  |  |
 | **J Wright &#42;** | dnb |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 0 |
-| **Total** | | (0 overs) |  |
+| **Extras** | | (0b 0lb 0w 0nb) | **0** |
+| **Total** | | (0 overs) | **** |
 
 ## Fall of Wickets
 

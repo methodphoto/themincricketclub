@@ -35,8 +35,8 @@ R Earney's 22nd 50
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (11b 5lb 6w 6nb) | 28 |
-| **Total** | | (31 overs) | 211 for 2 wkts |
+| **Extras** | | (11b 5lb 6w 6nb) | **28** |
+| **Total** | | (31 overs) | **211 for 2 wkts** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ R Earney's 22nd 50
 | **T Bleckton** | dnb |  |  |
 | **T Jones** | dnb |  |  |
 | **B Jennings** | dnb |  |  |
-| **Extras** | | (2b 0lb 0w 0nb) | 2 |
-| **Total** | | (10.2 overs) | 43 for 1 wkts |
+| **Extras** | | (2b 0lb 0w 0nb) | **2** |
+| **Total** | | (10.2 overs) | **43 for 1 wkts** |
 
 ## Fall of Wickets
 

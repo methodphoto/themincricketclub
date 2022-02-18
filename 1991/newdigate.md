@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Skaabek** | dnb |  |  | 
 | **C Mills** | dnb |  |  | 
 | **McIntosh** | dnb |  |  | 
-| **Extras** | | (0b 0lb 0w 0nb) | 15 | 
-| **Total** | | (40.1 overs) | **186 for 6 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **15** | 
+| **Total** | | (40.1 overs) | ****186 for 6 wkts**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **Outram** | dnb |  |  | 
 | **Fairbrother** | dnb |  |  | 
 | **D Puddicombe** |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 3 | 
-| **Total** | | (10.3 overs) | **35 for 5 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **3** | 
+| **Total** | | (10.3 overs) | ****35 for 5 wkts**** | 
 
 ## Fall of Wickets
 

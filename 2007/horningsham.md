@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | c | A Hilleary | 11 |
 | **P O'Mahony** | b | Hilleary | 0 |
 | **J Wright** | lbw | J Oborne | 2 |
-| **Extras** | | (7b 3lb 19w 0nb 0p) | 29 |
-| **Total** | | (33.5 overs) | 159 for 9 wkts |
+| **Extras** | | (7b 3lb 19w 0nb 0p) | **29** |
+| **Total** | | (33.5 overs) | **159 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Nunns** | not out |  | 0 |
 | **D Ware** | not out |  | 2 |
 | **S Locke** | dnb |  |  |
-| **Extras** | | (8b 3lb 6w 11nb 0p) | 28 |
-| **Total** | | (46 overs) | 99 for 8 wkts |
+| **Extras** | | (8b 3lb 6w 11nb 0p) | **28** |
+| **Total** | | (46 overs) | **99 for 8 wkts** |
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick** | not out |  | 6 | 
 | **J Wright** | dnb |  |  |
 | **G Wright** | dnb |  |  |
-| **Extras** | | (4b 4lb 15w 1nb) | 24 | 
-| **Total** | | (33.5 overs) | **118 all out** | 
+| **Extras** | | (4b 4lb 15w 1nb) | **24** | 
+| **Total** | | (33.5 overs) | ****118 all out**** | 
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Tabor** | not out |  | 4 | 
 | **J Wetherall** | dnb |  |  | 
 | **C Wetherall** | dnb |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 | 
-| **Total** | | (46 overs) | **1267 for 7 wkts** | 
+| **Extras** | | (5b 0lb 6w 0nb) | **11** | 
+| **Total** | | (46 overs) | ****1267 for 7 wkts**** | 
 
 ## Fall of Wickets
 

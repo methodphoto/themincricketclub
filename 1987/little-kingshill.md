@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Doughty** | run out |  | 0 | 
 | **DM Chandler** | c J Grant | J Wright | 0 |
 | **Extras** | | (-b -lb -w -nb) | 6 | 
-| **Total** | | (42 overs) | **170 all out** | 
+| **Total** | | (42 overs) | ****170 all out**** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | not out |  | 0 | 
 | **J Wright** | st Chapman | Doughty | 1 | 
 | **Extras** | | (-b -lb -w -nb) | 2 | 
-| **Total** | | (35 overs) | **52 all out** | 
+| **Total** | | (35 overs) | ****52 all out**** | 
 
 ## Fall of Wickets
 

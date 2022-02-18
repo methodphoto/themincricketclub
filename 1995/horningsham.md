@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Trollope** | run out |  | 0 |
 | **S Davies** | not out |  | 8 |
 | **K Dix** | dnb |  |  |
-| **Extras** | | (9b 3lb 1w 0nb) | 13 |
-| **Total** | | (42 overs) | **177 for 8 wkts** |
+| **Extras** | | (9b 3lb 1w 0nb) | **13** |
+| **Total** | | (42 overs) | ****177 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | not out |  | 28 |
 | **D Young** | not out |  | 5 |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (4b 4lb 4w 0nb) | 12 |
-| **Total** | | (41.3 overs) | **178 for 8 wkts** |
+| **Extras** | | (4b 4lb 4w 0nb) | **12** |
+| **Total** | | (41.3 overs) | ****178 for 8 wkts**** |
 
 ## Fall of Wickets
 

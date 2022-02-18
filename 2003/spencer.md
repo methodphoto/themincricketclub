@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Rahman** | not out |  | 4 |
 | **K Hussain** | b | J Wright | 0 |
 | **T Rana** | lbw | R Osbourne | 0 |
-| **Extras** | | (1b 0lb 1w 4nb) | 6 |
-| **Total** | | (29.5 overs) | **76 all out** |
+| **Extras** | | (1b 0lb 1w 4nb) | **6** |
+| **Total** | | (29.5 overs) | ****76 all out**** |
 
 ## Fall of Wickets
 
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Osbourne** | dnb |  |  |
 | **G Powell** | dnb |  |  ||
 | **J Wright** | dnb |  |  |
-| **Extras** | | (1b 0lb 0w 0nb) | 1 |
-| **Total** | | (29.4 overs) | **78 for 4 wkts** |
+| **Extras** | | (1b 0lb 0w 0nb) | **1** |
+| **Total** | | (29.4 overs) | ****78 for 4 wkts**** |
 
 ## Fall of Wickets
 

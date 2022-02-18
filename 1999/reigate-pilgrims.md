@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **Ford** | dnb |  |  |
 | **Kingsbury** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (4b 1lb 2w 0nb) | 7 |
-| **Total** | | (46 overs) | **242 for 6 wkts** |
+| **Extras** | | (4b 1lb 2w 0nb) | **7** |
+| **Total** | | (46 overs) | ****242 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | c | Curtis | 11 |
 | **D Jones** | not out |  | 4 |
 | **P O'Brien** | b | Curtis | 0 |
-| **Extras** | | (9b 0lb 11w 2nb) | 22 |
-| **Total** | | (41.2 overs) | **160 all out** |
+| **Extras** | | (9b 0lb 11w 2nb) | **22** |
+| **Total** | | (41.2 overs) | ****160 all out**** |
 
 ## Fall of Wickets
 

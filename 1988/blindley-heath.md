@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Vasilescu** | not out |  | 0 | 
 | **A Gallagher** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (3b 4lb 1w 1nb) | 9 | 
-| **Total** | | (44 overs) | **163 for 7 wkts** | 
+| **Extras** | | (3b 4lb 1w 1nb) | **9** | 
+| **Total** | | (44 overs) | ****163 for 7 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **L Legrys** | c W Calvert | A MacFarlane | 18 | 
 | **T Burchett** | dnb |  | 0 |
 | **A King** | b | W Calvert | 10 | 
-| **Extras** | | (2b 1lb 7w 0nb) | 10 | 
-| **Total** | | (34.5 overs) | **134 all out** | 
+| **Extras** | | (2b 1lb 7w 0nb) | **10** | 
+| **Total** | | (34.5 overs) | ****134 all out**** | 
 
 ## Fall of Wickets
 

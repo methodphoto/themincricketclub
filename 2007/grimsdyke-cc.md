@@ -35,8 +35,8 @@ P Wigg's first 50 and highest score
 | **E Garland** | b | K Malling | 5 |
 | **P O'Mahony** | not out |  | 1 |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (4b 9lb 5w 1nb 0p) | 19 |
-| **Total** | | (40 overs) | 162 for 8 wkts |
+| **Extras** | | (4b 9lb 5w 1nb 0p) | **19** |
+| **Total** | | (40 overs) | **162 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ P Wigg's first 50 and highest score
 | **K Malling** | not out |  | 21 |
 | **N Suleman** | not out |  | 3 |
 | **Sunil** | dnb |  |  |
-| **Extras** | | (4b 7lb 6w 2nb 0p) | 19 |
-| **Total** | | (40 overs) | 160 for 7 wkts |
+| **Extras** | | (4b 7lb 6w 2nb 0p) | **19** |
+| **Total** | | (40 overs) | **160 for 7 wkts** |
 
 ## Fall of Wickets
 

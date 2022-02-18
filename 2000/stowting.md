@@ -34,8 +34,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | b | M Cox | 6 |
 | **A Fortescue** | b | A Crush | 0 |
 | **S Masterson** | not out |  | 2 |
-| **Extras** | | (1b 1lb 7w 0nb) | 9 |
-| **Total** | | (40.3 overs) | **109 all out** |
+| **Extras** | | (1b 1lb 7w 0nb) | **9** |
+| **Total** | | (40.3 overs) | ****109 all out**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **B Cox** | b | R Beswick | 0 |
 | **R Smith** | lbw | R Earney | 12 |
 | **M Pugh** | c E Garland | I Marshall | 1 |
-| **Extras** | | (4b 1lb 1w 0nb) | 6 |
-| **Total** | | (34.2 overs) | **65 all out** |
+| **Extras** | | (4b 1lb 1w 0nb) | **6** |
+| **Total** | | (34.2 overs) | ****65 all out**** |
 
 ## Fall of Wickets
 

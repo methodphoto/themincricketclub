@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Stimfig &#8224;** | not out |  | 13 | 
 | **G Wright** | dnb |  |  | 
 | **J Wright** | dnb |  |  |
-| **Extras** | | (4b 1lb 0w 0nb) | 5 | 
-| **Total** | | (43.1 overs) | **195 for 8 wkts** | 
+| **Extras** | | (4b 1lb 0w 0nb) | **5** | 
+| **Total** | | (43.1 overs) | ****195 for 8 wkts**** | 
 
 ## Fall of Wickets
 
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 | **B Welch** | not out |  | 15 | 
 | **P Bunyon** | b | R Beswick | 15 | 
 | **L Payne** | b | R Beswick | 0 |
-| **Extras** | | (0b 1lb 3w 3nb) | 1 | 
-| **Total** | | (35.4 overs) | **149 all out** | 
+| **Extras** | | (0b 1lb 3w 3nb) | **1** | 
+| **Total** | | (35.4 overs) | ****149 all out**** | 
 
 ## Fall of Wickets
 

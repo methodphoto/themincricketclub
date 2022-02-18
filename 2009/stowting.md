@@ -35,8 +35,8 @@ M Gupta's 1st Michelle. R Earney's 41st 50.
 | **I Brian** | b | M Gupta | 0 |
 | **B Cox** | not out |  | 8 |
 | **D Jackson** | run out |  | 1 |
-| **Extras** | | (4b 5lb 2w 6nb 0p) | 17 |
-| **Total** | | (42 overs) | **197 all out** |
+| **Extras** | | (4b 5lb 2w 6nb 0p) | **17** |
+| **Total** | | (42 overs) | ****197 all out**** |
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ M Gupta's 1st Michelle. R Earney's 41st 50.
 | **P Wigg** | b | D Bland | 2 |
 | **E Garland** | not out |  | 13 |
 | **J Wright** | not out |  | 0 |
-| **Extras** | | (5b 5lb 9w 0nb 0p) | 19 |
-| **Total** | | (39 overs) | **167 for 9 wkts** |
+| **Extras** | | (5b 5lb 9w 0nb 0p) | **19** |
+| **Total** | | (39 overs) | ****167 for 9 wkts**** |
 
 ## Fall of Wickets
 

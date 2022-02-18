@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | run out |  | 1 |
 | **C Hawthorn** | dnb |  |  |
 | **P O'Mahony** | dnb |  |  |
-| **Extras** | | (3b 0lb 6w 3nb 0p) | 12 |
-| **Total** | | (40 overs) | **196 for 8 wkts** |
+| **Extras** | | (3b 0lb 6w 3nb 0p) | **12** |
+| **Total** | | (40 overs) | ****196 for 8 wkts**** |
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ Played at {{page.location}} on {{page.date}}
 | **F Millar** | c | R Beswick | 6 |
 | **T Oborne** | not out |  | 5 |
 | **S Millar** | not out |  | 0 |
-| **Extras** | | (0b 0lb 0w 0nb) | 13 |
-| **Total** | | (40 overs) | **140 for 9 wkts** |
+| **Extras** | | (0b 0lb 0w 0nb) | **13** |
+| **Total** | | (40 overs) | ****140 for 9 wkts**** |
 
 ## Fall of Wickets
 

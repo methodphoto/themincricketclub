@@ -51,8 +51,8 @@ R Earney's 40th 50
 | **I Miah** | dnb |  |  |
 | **E Garland** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (5b 6lb 6w 0nb 0p) | 17 |
-| **Total** | | (45 overs) | **235 for 6 wkts** |
+| **Extras** | | (5b 6lb 6w 0nb 0p) | **17** |
+| **Total** | | (45 overs) | ****235 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -87,8 +87,8 @@ R Earney's 40th 50
 | **Ewan** | b | P Wigg | 1 |
 | **J Morgan** | not out |  | 2 |
 | **S Chittenden** | b | E Garland | 0 |
-| **Extras** | | (10b 1lb 8w 2nb 0p) | 21 |
-| **Total** | | (45 overs) | **189 all out** | 19
+| **Extras** | | (10b 1lb 8w 2nb 0p) | **21** |
+| **Total** | | (45 overs) | ****189 all out**** | 19
 
 ## Fall of Wickets
 

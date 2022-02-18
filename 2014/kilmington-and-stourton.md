@@ -34,8 +34,8 @@ Partnership of 115 between R Beswick and R Earney
 | **S Churchill** | c A Gallagher | R Beswick | 19 |
 | **D Gould** | not out |  | 1 |
 | **S Snook** | b | R Beswick | 20 |
-| **Extras** | | (2b 2lb 13w 1nb 0p) | 18 |
-| **Total** | | (39.4 overs) | **275 all out** |
+| **Extras** | | (2b 2lb 13w 1nb 0p) | **18** |
+| **Total** | | (39.4 overs) | ****275 all out**** |
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ Partnership of 115 between R Beswick and R Earney
 | **J Grant &#8224;** | not out |  | 2 |
 | **J Wright &#42;** | dnb |  |  |
 | **A Gallagher** | dnb |  |  |
-| **Extras** | | (28b 11lb 10w 2nb 0p) | 51 |
-| **Total** | | (40 overs) | **253 for 7 wkts** |
+| **Extras** | | (28b 11lb 10w 2nb 0p) | **51** |
+| **Total** | | (40 overs) | ****253 for 7 wkts**** |
 
 ## Fall of Wickets
 

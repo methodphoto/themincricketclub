@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Baty** | c & b | E Garland | 4 |
 | **C Wise** | c J Wright | E Garland | 8 |
 | **A Tomes** | not out |  | 2 |
-| **Extras** | | (0b 0lb 0w 3nb 0p) | 3 |
-| **Total** | | (30.5 overs) | **104 all out** |
+| **Extras** | | (0b 0lb 0w 3nb 0p) | **3** |
+| **Total** | | (30.5 overs) | ****104 all out**** |
 
 ## Fall of Wickets
 
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | not out |  | 5 |
 | **E Garland** | not out |  | 4 |
 | **H Ingham** | dnb |  |  |
-| **Extras** | | (10b 2lb 0w 0nb 0p) | 12 |
-| **Total** | | (34.5 overs) | **107 for 8 wkts** |
+| **Extras** | | (10b 2lb 0w 0nb 0p) | **12** |
+| **Total** | | (34.5 overs) | ****107 for 8 wkts**** |
 
 ## Fall of Wickets
 

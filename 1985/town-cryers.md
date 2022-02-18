@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **P Humphrey** | c A Sylvester | E Harcourt | 5 | 
 | **J Wheeler** | not out |  | 5 | 
 |  |  |  |  |
-| **Extras** | | (4b 1lb 3w 0nb) | 8 | 
-| **Total** | | (29 overs) | **51 for 8 wkts (all out)** | 
+| **Extras** | | (4b 1lb 3w 0nb) | **8** | 
+| **Total** | | (29 overs) | ****51 for 8 wkts (all out)**** | 
 
 ## Fall of Wickets
 
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Sylvester** | dnb |  |  | 
 | **M Kirwan** | dnb |  |  | 
 |  |  |  |  |
-| **Extras** | | (6b 1lb 0w 0nb) | 7 | 
-| **Total** | | (28.3 overs) | **52 for 6 wkts** | 
+| **Extras** | | (6b 1lb 0w 0nb) | **7** | 
+| **Total** | | (28.3 overs) | ****52 for 6 wkts**** | 
 
 ## Fall of Wickets
 

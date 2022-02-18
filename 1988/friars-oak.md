@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | lbw | Clark | 0 | 
 |  |  |  |  | 
 |  |  |  |  | 
-| **Extras** | | (4b 1lb 1w 0nb) | 6 | 
-| **Total** | | (30.4 overs) | **152 for 8 wkts (all out)** | 
+| **Extras** | | (4b 1lb 1w 0nb) | **6** | 
+| **Total** | | (30.4 overs) | ****152 for 8 wkts (all out)**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **Cole** | not out |  | 40 | 
 | **Wandsworth** | lbw | P Bentley | 2 | 
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 0 | 
-| **Total** | | (32.4 overs) | **126 for 9 wkts (all out)** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **0** | 
+| **Total** | | (32.4 overs) | ****126 for 9 wkts (all out)**** | 
 
 ## Fall of Wickets
 

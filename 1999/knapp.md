@@ -34,8 +34,8 @@ Played at {{page.location}} on {{page.date}}
 | **N Beswick** | c | A Gould | 4 |
 | **P Cunningham** | not out |  | 0 |
 |  |  |  |  |
-| **Extras** | | (7b 0lb 1w 1nb) | 9 |
-| **Total** | | (31.5 overs) | **106 for 9 wkts (all out)** |
+| **Extras** | | (7b 0lb 1w 1nb) | **9** |
+| **Total** | | (31.5 overs) | ****106 for 9 wkts (all out)**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **A Gould** | c P Grant | M Belfrage | 0 |
 | **T Hollow** | not out |  | 13 |
 | **Scanlon** | dnb |  |  |
-| **Extras** | | (3b 3lb 9w 0nb) | 15 |
-| **Total** | | (37 overs) | **107 for 8 wkts** |
+| **Extras** | | (3b 3lb 9w 0nb) | **15** |
+| **Total** | | (37 overs) | ****107 for 8 wkts**** |
 
 ## Fall of Wickets
 

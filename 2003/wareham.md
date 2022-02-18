@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (3b 3lb 3w 1nb) | 10 |
-| **Total** | | (40.3 overs) | **254 for 7 wkts (all out)** |
+| **Extras** | | (3b 3lb 3w 1nb) | **10** |
+| **Total** | | (40.3 overs) | ****254 for 7 wkts (all out)**** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Powell** | c C Leak | Rob Williams | 1 |
 | **J Wright** | not out |  | 0 |
 | **J Grant &#8224;** | dnb |  |  |
-| **Extras** | | (5b 6lb 2w 0nb) | 13 |
+| **Extras** | | (5b 6lb 2w 0nb) | **13** |
 | **Total** | | (43overs) | **193 for 8 wkts** |
 
 ## Fall of Wickets

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Ball** | c W Calvert | M Taylor | 2 | 
 | **B James** | st J Grant | E Garland | 0 | 
 | **A Terry** | not out |  | 1 |
-| **Extras** | | (1b 0lb 2w 0nb) | 3 | 
-| **Total** | | (35.1 overs) | **53 all out** | 
+| **Extras** | | (1b 0lb 2w 0nb) | **3** | 
+| **Total** | | (35.1 overs) | ****53 all out**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | dnb |  |  | 
 | **R Olver** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (9b 2lb 4w 0nb) | 4 | 
-| **Total** | | (6 overs) | **23 for 2 wkts** | 
+| **Extras** | | (9b 2lb 4w 0nb) | **4** | 
+| **Total** | | (6 overs) | ****23 for 2 wkts**** | 
 
 ## Fall of Wickets
 

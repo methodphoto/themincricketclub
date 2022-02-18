@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **Taylor** | not out |  | 11 |
 | **Stanfield** | dnb |  |  |
 | **H Mitchell** | dnb |  |  |
-| **Extras** | | (5b 2lb 5w 5nb) | 17 |
-| **Total** | | (40 overs) | 1935 for 7 wkts |
+| **Extras** | | (5b 2lb 5w 5nb) | **17** |
+| **Total** | | (40 overs) | **1935 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Coyle** | st | Taylor | 7 |
 | **G Powell** | c | Mitchell | 1 |
 | **J Wright** | not out |  | 6 |
-| **Extras** | | (4b 1lb 0w 1nb) | 6 |
-| **Total** | | (38.1 overs) | 133 all out |
+| **Extras** | | (4b 1lb 0w 1nb) | **6** |
+| **Total** | | (38.1 overs) | **133 all out** |
 
 ## Fall of Wickets
 

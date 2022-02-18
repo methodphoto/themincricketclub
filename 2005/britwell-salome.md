@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **G Powell** | dnb |  |  |
 | **I Crichton** | dnb |  |  |
 | **G Wright** | dnb |  |  |
-| **Extras** | | (4b 3lb 7w 3nb) | 17 |
-| **Total** | | (42 overs) | 206 for 6 wkts |
+| **Extras** | | (4b 3lb 7w 3nb) | **17** |
+| **Total** | | (42 overs) | **206 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **Parry** | dnb |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 2lb 5w 4nb) | 11 |
-| **Total** | | (41 overs) | 163 for 3 wkts |
+| **Extras** | | (0b 2lb 5w 4nb) | **11** |
+| **Total** | | (41 overs) | **163 for 3 wkts** |
 
 ## Fall of Wickets
 

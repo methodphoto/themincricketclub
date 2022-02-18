@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Pathak** | c | S Bali | 4 |
 | **M Abu** | b | E Garland | 6 |
 | **I Miah &#42;** | not out |  | 1 |
-| **Extras** | | (7b 2lb 7w 6nb 0p) | 22 |
-| **Total** | | (37 overs) | 253 all out |
+| **Extras** | | (7b 2lb 7w 6nb 0p) | **22** |
+| **Total** | | (37 overs) | **253 all out** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Carden** | b | S Ahmed | 14 |
 | **A Slight &#42;** | not out |  | 0 |
 | **J Wright** | st | I Miah | 6 |
-| **Extras** | | (11b 1lb 26w 10nb 0p) | 48 |
-| **Total** | | (36 overs) | 186 all out |
+| **Extras** | | (11b 1lb 26w 10nb 0p) | **48** |
+| **Total** | | (36 overs) | **186 all out** |
 
 ## Fall of Wickets
 

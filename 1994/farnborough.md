@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | b | J Forfar | 5 |
 | **G Wright** | not out |  | 3 |
 | **A Sylvester** | dnb |  |  |
-| **Extras** | | (9b 3lb 5w 4nb) | 18 |
-| **Total** | | (38 overs) | **162 for 8 wktst** |
+| **Extras** | | (9b 3lb 5w 4nb) | **18** |
+| **Total** | | (38 overs) | ****162 for 8 wktst**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **Houghton** | not out |  | 23 |
 | **Pryor** | not out |  | 2 |
 | **Syrett** | dnb |  |  |
-| **Extras** | | (0b 2lb 3w 01nb) | 6 |
-| **Total** | | (46 overs) | **166 for 8 wkts** |
+| **Extras** | | (0b 2lb 3w 01nb) | **6** |
+| **Total** | | (46 overs) | ****166 for 8 wkts**** |
 
 ## Fall of Wickets
 

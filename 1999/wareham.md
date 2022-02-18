@@ -34,8 +34,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb |  |  |
 | **N Beswick** | dnb |  |  |
 | **B Kenway** | dnb |  |  |
-| **Extras** | | (6b 15lb 4w 0nb) | 25 |
-| **Total** | | (41.4 overs) | **200 for 7 wkts** |
+| **Extras** | | (6b 15lb 4w 0nb) | **25** |
+| **Total** | | (41.4 overs) | ****200 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Played at {{page.location}} on {{page.date}}
 | **T Clarke** | b | I Marshall | 6 |
 | **T Thomas** | not out |  | 0 |
 | **D Wild** | run out |  | 1 |
-| **Extras** | | (4b 2lb 5w 0nb) | 11 |
-| **Total** | | (41 overs) | **176 all out** |
+| **Extras** | | (4b 2lb 5w 0nb) | **11** |
+| **Total** | | (41 overs) | ****176 all out**** |
 
 ## Fall of Wickets
 

@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | dnb |  |  |
 | **J Wright** | dnb |  |  | 
 | **R Olver** | dnb |  |  | 
-| **Extras** | | (10b 2lb 5w 4nb) | 25 | 
+| **Extras** | | (10b 2lb 5w 4nb) | **25** | 
 | **Total** | | (33  overs) | 199 for 6 wkts | 
 
 ## Fall of Wickets
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **Courtney** | run out |  | 38 | 
 | **Thomas** | run out |  | 2 | 
 | **Tyerman** | dnb |  |  |
-| **Extras** | | (14b 7lb 7w 1nb) | 29 | 
-| **Total** | | (45 overs) | **197 for 9 wkts** | 
+| **Extras** | | (14b 7lb 7w 1nb) | **29** | 
+| **Total** | | (45 overs) | ****197 for 9 wkts**** | 
 
 ## Fall of Wickets
 

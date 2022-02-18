@@ -32,8 +32,8 @@ Played at {{page.location}} on {{page.date}}
 | **Breen** | not out |  | 10 | 
 | **K Handleigh** | not out |  | 14 | 
 | **F Lee** | dnb |  |  | 
-| **Extras** | | (0b 0lb 0w 0nb) | 21 | 
-| **Total** | | (48 overs) | **184 for 8 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **21** | 
+| **Total** | | (48 overs) | ****184 for 8 wkts**** | 
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **M Gardiner** | c D Hembury | F Lee | 5 | 
 | **R Olver** | not out |  | 4 | 
 | **J Wright** | b | Longuet | 1 | 
-| **Extras** | | (10b 8lb 2w 2nb) | 22 | 
-| **Total** | | (42 overs) | **164 all out** | 
+| **Extras** | | (10b 8lb 2w 2nb) | **22** | 
+| **Total** | | (42 overs) | ****164 all out**** | 
 
 ## Fall of Wickets
 

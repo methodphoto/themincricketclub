@@ -35,8 +35,8 @@ Partnership of 134 between R Beswick and J Grant
 | **H Ingham** | not out |  | 5 |
 | **G Powell** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (3b 1lb 7w 4nb) | 15 |
-| **Total** | | (38 overs) | **208 for 7 wkts** |
+| **Extras** | | (3b 1lb 7w 4nb) | **15** |
+| **Total** | | (38 overs) | ****208 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Partnership of 134 between R Beswick and J Grant
 | **H Patel** | not out |  | 2 |
 | **S Gabriel** | not out |  | 3 |
 | **W Parkhouse** | dnb |  |  |
-| **Extras** | | (14b 5lb 6w 3nb) | 28 |
-| **Total** | | (38 overs) | **135 for 8 wkts** |
+| **Extras** | | (14b 5lb 6w 3nb) | **28** |
+| **Total** | | (38 overs) | ****135 for 8 wkts**** |
 
 ## Fall of Wickets
 

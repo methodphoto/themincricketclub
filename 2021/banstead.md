@@ -37,7 +37,7 @@ R Beswick 8000 runs for The Min
 | **C Wright** | st S Spencer | A Butterfield | 7 | 
 | **Mik Gupta** | not out |  | 1 |  
 | **Extras** | | (0b 4lb 8w 0nb) | **12** | 
-| **Total** | | (35 overs) | **167 for 9 wkts** | 
+| **Total** | | (35 overs) | ****167 for 9 wkts**** | 
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ R Beswick 8000 runs for The Min
 | **A Butterfield** | dnb |  |  |
 | **N Felice** | dnb |  |  |
 | **Extras** | | (4b 2lb 10w 3nb) | **19** | 
-| **Total** | | (35 overs) | **156 for 7 wkts** | 
+| **Total** | | (35 overs) | ****156 for 7 wkts**** | 
 
 ## Fall of Wickets
 

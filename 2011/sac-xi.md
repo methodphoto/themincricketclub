@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Chetri** | not out |  | 3 |
 | **I Miah** | dnb |  |  |
 | **Extras** | | (6b 1lb 13w 0nb 0p) | **20** |
-| **Total** | | (38.2 overs) | 208 for 8 wkts |
+| **Total** | | (38.2 overs) | **208 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **H Ingham** | dnb |  |  |
 | **E Garland** | dnb |  |  |
 | **Extras** | | (13b 10lb 8w 1nb 0p) | **32** |
-| **Total** | | (40 overs) | **210 for 7 wkts** |
+| **Total** | | (40 overs) | ****210 for 7 wkts**** |
 
 ## Fall of Wickets
 

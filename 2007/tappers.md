@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R O'Hagan** | not out |  | 8 |
 | **J Grant &#8224;** | run out |  | 0 |
 | **E Garland** | b | Mainwaring | 0 |
-| **Extras** | | (11b 5lb 28w 1nb 0p) | 45 |
-| **Total** | | (43.2 overs) | 164 all out |
+| **Extras** | | (11b 5lb 28w 1nb 0p) | **45** |
+| **Total** | | (43.2 overs) | **164 all out** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Brittain** | not out |  | 15 |
 | **Drew** | dnb |  |  |
 | **J Fleetwood** | dnb |  |  |
-| **Extras** | | (4b 1lb 5w 7nb 0p) | 17 |
-| **Total** | | (34.3 overs) | 165 for 7 wkts |
+| **Extras** | | (4b 1lb 5w 7nb 0p) | **17** |
+| **Total** | | (34.3 overs) | **165 for 7 wkts** |
 
 ## Fall of Wickets
 

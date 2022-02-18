@@ -35,8 +35,8 @@ First Tied match in Min history
 | **D Windgatt** | not out |  | 56 |
 | **J Wockett** | c W Calvert | R Beswick | 14 |
 | **B Mead** | c & b | I Marshall | 0 |
-| **Extras** | | (7b 1lb 1w 0nb) | 9 |
-| **Total** | | (36 overs) | **152 all out** |
+| **Extras** | | (7b 1lb 1w 0nb) | **9** |
+| **Total** | | (36 overs) | ****152 all out**** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ First Tied match in Min history
 | **J Stimfig &#8224;** | b | Batt | 0 |
 | **J Wright** | b | M Everitt | 5 |
 | **A Gordon** | absent |  |  |
-| **Extras** | | (7b 2lb 2w 5nb) | 16 |
-| **Total** | | (41 overs) | **152 for 9 wkts (all out)** |
+| **Extras** | | (7b 2lb 2w 5nb) | **16** |
+| **Total** | | (41 overs) | ****152 for 9 wkts (all out)**** |
 
 ## Fall of Wickets
 

@@ -37,8 +37,8 @@ R Earney's 28th 50
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (5b 11lb 9w 9nb) | 34 |
-| **Total** | | (35 overs) | 176 for 4 wkts |
+| **Extras** | | (5b 11lb 9w 9nb) | **34** |
+| **Total** | | (35 overs) | **176 for 4 wkts** |
 
 ## Fall of Wickets
 
@@ -73,8 +73,8 @@ R Earney's 28th 50
 | **A Slight** | b | B Hopewell | 2 |
 | **G Powell** | not out |  | 3 |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (4b 4lb 19w 1nb) | 28 |
-| **Total** | | (34 overs) | 177 for 8 wkts |
+| **Extras** | | (4b 4lb 19w 1nb) | **28** |
+| **Total** | | (34 overs) | **177 for 8 wkts** |
 
 ## Fall of Wickets
 

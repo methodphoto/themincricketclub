@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Clarkes** | c J Grant | J Wright | 13| 
 | **N Marshall** | c P Clothier | J Wright | 5 | 
 | **N Marshall** | not out | | 8 | 
-| **Extras** | | (1b 0lb 1w 0nb) | 2 | 
-| **Total** | | (35.2 overs) | **85 all out** | 
+| **Extras** | | (1b 0lb 1w 0nb) | **2** | 
+| **Total** | | (35.2 overs) | ****85 all out**** | 
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | dnb | | || 
 | **J Wright** | dnb | | | 
 | | | | | 
-| **Extras** | | (1b 0lb 2w 0nb) | 3 | 
-| **Total** | | (14.5 overs) | **84 for 1 wkt** | 
+| **Extras** | | (1b 0lb 2w 0nb) | **3** | 
+| **Total** | | (14.5 overs) | ****84 for 1 wkt**** | 
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Tomlin** | b | E Garland | 2 |
 | **Hague** | c E Garland | J Wright | 1 |
 | **Owen** | st A Slight | E Garland | 10 |
-| **Extras** | | (0b 0lb 0w 0nb) | 20 |
-| **Total** | | (35.2 overs) | 95 all out |
+| **Extras** | | (0b 0lb 0w 0nb) | **20** |
+| **Total** | | (35.2 overs) | **95 all out** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **R O'Hagan** | dnb |  |  |
 | **E Garland** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (10b 3lb 1w 0nb 0p) | 14 |
-| **Total** | | (25.5 overs) | 96 for 5 wkts |
+| **Extras** | | (10b 3lb 1w 0nb 0p) | **14** |
+| **Total** | | (25.5 overs) | **96 for 5 wkts** |
 
 ## Fall of Wickets
 

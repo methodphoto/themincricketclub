@@ -34,8 +34,8 @@ Played at {{page.location}} on {{page.date}}
 | **P van der K** | not out |  | 10 |
 | **T Cranston** | dnb |  |  |
 | **O Selway** | dnb |  |  |
-| **Extras** | | (2b 4lb 8w 0nb 0p) | 14 |
-| **Total** | | (40 overs) | **183 for 7 wkts** |
+| **Extras** | | (2b 4lb 8w 0nb 0p) | **14** |
+| **Total** | | (40 overs) | ****183 for 7 wkts**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | not out |  | 6 |
 | **R Beswick** | dnb |  |  |
 | **A Slight** | dnb |  |  |
-| **Extras** | | (2b 4lb 7w 3nb 0p) | 16 |
-| **Total** | | (37 overs) | **132 for 7 wkts** |
+| **Extras** | | (2b 4lb 7w 3nb 0p) | **16** |
+| **Total** | | (37 overs) | ****132 for 7 wkts**** |
 
 ## Fall of Wickets
 

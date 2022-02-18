@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **W Tracy** | b | J Wright | 1 |
 | **J Rogers** | b | T Rutherford | 22 |
 | **L Figg** | not out |  | 10 |
-| **Extras** | | (4b 1lb 1w 0nb 0p) | 6 |
-| **Total** | | (39.2 overs) | **104 all out** |
+| **Extras** | | (4b 1lb 1w 0nb 0p) | **6** |
+| **Total** | | (39.2 overs) | ****104 all out**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **H Ingham** | dnb |  |  |
 | **E Garland** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (4b 1lb 0w 5nb 0p) | 10 |
-| **Total** | | (29.3 overs) | **109 for 5 wkts** |
+| **Extras** | | (4b 1lb 0w 5nb 0p) | **10** |
+| **Total** | | (29.3 overs) | ****109 for 5 wkts**** |
 
 ## Fall of Wickets
 

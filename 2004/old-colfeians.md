@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Bushel** | b | J Wright | 5 |
 | **Dome** | not out |  | 0 |
 | **Bond** | b | J Wright | 0 |
-| **Extras** | | (2b 4lb 9w 0nb) | 15 |
-| **Total** | | (44 overs) | 97 all out |
+| **Extras** | | (2b 4lb 9w 0nb) | **15** |
+| **Total** | | (44 overs) | **97 all out** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **N Putt** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **I Marshall** | dnb |  |  |
-| **Extras** | | (9b 4lb 9w 0nb) | 22 |
-| **Total** | | (33.1 overs) | 98 for 5 wkts |
+| **Extras** | | (9b 4lb 9w 0nb) | **22** |
+| **Total** | | (33.1 overs) | **98 for 5 wkts** |
 
 ## Fall of Wickets
 

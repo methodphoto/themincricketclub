@@ -37,8 +37,8 @@ Partnership of 126 between R Earney and R Beswick
 | **T Homersham** | dnb |  |  |
 | **J Gower** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (4b 3lb 1w 0nb) | 8 |
-| **Total** | | (43 overs) | 177 for 6 wkts |
+| **Extras** | | (4b 3lb 1w 0nb) | **8** |
+| **Total** | | (43 overs) | **177 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Partnership of 126 between R Earney and R Beswick
 | **T Riley &#8224;** | dnb |  |  |
 | **E Garland** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (12b 1lb 1w 2nb) | 16 |
-| **Total** | | (30.3 overs) | 178 for 3 wkts |
+| **Extras** | | (12b 1lb 1w 2nb) | **16** |
+| **Total** | | (30.3 overs) | **178 for 3 wkts** |
 
 ## Fall of Wickets
 

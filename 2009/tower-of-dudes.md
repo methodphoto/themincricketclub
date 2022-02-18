@@ -36,8 +36,8 @@ Partnership of 179&#42; between R Earney and M Gupta
 | **Breen** | c M Gupta | J Wright | 0 |
 | **Paguero** | c & b | E Garland | 11 |
 | **Penn** | run out |  | 3 |
-| **Extras** | | (8b 1lb 1w 0nb 0p) | 10 |
-| **Total** | | (36.2 overs) | **179 all out** |
+| **Extras** | | (8b 1lb 1w 0nb 0p) | **10** |
+| **Total** | | (36.2 overs) | ****179 all out**** |
 
 ## Fall of Wickets
 
@@ -72,8 +72,8 @@ Partnership of 179&#42; between R Earney and M Gupta
 | **E Garland** | dnb |  |  |
 | **G Powell** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (14b 1lb 10w 0nb 0p) | 25 |
-| **Total** | | (27.1 overs) | **180 for 1 wkt** |
+| **Extras** | | (14b 1lb 10w 0nb 0p) | **25** |
+| **Total** | | (27.1 overs) | ****180 for 1 wkt**** |
 
 ## Fall of Wickets
 

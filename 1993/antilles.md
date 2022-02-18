@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | not out |  | 3 | 
 | **D Ferguson** | not out |  | 1 | 
 | **J Stimfig &#8224;** | dnb |  |  | 
-| **Extras** | | (9b 6lb 2w 2nb) | 19 | 
-| **Total** | | (33.5 overs) | **192 for 8 wkts** | 
+| **Extras** | | (9b 6lb 2w 2nb) | **19** | 
+| **Total** | | (33.5 overs) | ****192 for 8 wkts**** | 
 
 ## Fall of Wickets
 
@@ -71,8 +71,8 @@ Played at {{page.location}} on {{page.date}}
 | **C Williams** | not out |  | 0 |
 | **J Callender** | not out |  | 4 |
 | **W Murrell** | dnb |  |  |
-| **Extras** | | (3b 7lb 3w 0nb) | 12 | 
-| **Total** | | (37.5 overs) | **193 for 8 wkts** | 
+| **Extras** | | (3b 7lb 3w 0nb) | **12** | 
+| **Total** | | (37.5 overs) | ****193 for 8 wkts**** | 
 
 ## Fall of Wickets
 

@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Fielder** | dnb |  |  |
 | **Taylor** | dnb |  |  |
 | **Scanlon** | dnb |  |  |
-| **Extras** | | (0b 0lb 2w 0nb) | 2 |
-| **Total** | | (46 overs) | **190 for 6 wkts** |
+| **Extras** | | (0b 0lb 2w 0nb) | **2** |
+| **Total** | | (46 overs) | ****190 for 6 wkts**** |
 
 ## Fall of Wickets
 
@@ -68,8 +68,8 @@ Played at {{page.location}} on {{page.date}}
 | **B Ford** | not out |  | 0 |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (13b 2lb 1w 0nb) | 16 |
-| **Total** | | (37.4 overs) | **103 for 8 wkts (all out** |
+| **Extras** | | (13b 2lb 1w 0nb) | **16** |
+| **Total** | | (37.4 overs) | ****103 for 8 wkts (all out**** |
 
 ## Fall of Wickets
 

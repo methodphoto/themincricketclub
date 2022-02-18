@@ -34,8 +34,8 @@ Cakebread Hat-trick
 | **T Ellis** | not out |  | 20 | 
 | **Cakebread** | dnb |  |  | 
 | **R Clayton** | dnb |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 19 | 
-| **Total** | | (44 overs) | **165 for 7 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **19** | 
+| **Total** | | (44 overs) | ****165 for 7 wkts**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Cakebread Hat-trick
 | **A Fielding** | c & b | T Ellis | 4 | 
 | **N Morse** | b | T Ellis | 0 | 
 | **J Carmichael** | st | T Ellis | 0 | 
-| **Extras** | | (0b 0lb 2w 0nb) | 2 | 
-| **Total** | | (28.4 overs) | **69 all out** | 
+| **Extras** | | (0b 0lb 2w 0nb) | **2** | 
+| **Total** | | (28.4 overs) | ****69 all out**** | 
 
 ## Fall of Wickets
 

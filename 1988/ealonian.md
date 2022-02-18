@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Mullans** | c J Binder | J Wright | 4 | 
 | **Elliot** | not out |  | 0 |
 | **Dude** | b | R Olver | 0 | 
-| **Extras** | | (0b 0lb 0w 0nb) | 12 | 
-| **Total** | | (31.3 overs) | **70 all out** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **12** | 
+| **Total** | | (31.3 overs) | ****70 all out**** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick** | not out |  | 0 | 
 | **M Thurston** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
-| **Extras** | | (0b 0lb 0w 0nb) | 6 | 
+| **Extras** | | (0b 0lb 0w 0nb) | **6** | 
 | **Total** | | () | 71 for 7 wkts | 
 
 ## Fall of Wickets

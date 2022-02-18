@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick** | not out |  | 23 | 
 |  |  |  |  | 
 |  |  |  |  | 
-| **Extras** | | (5b 1lb 0w 0nb) | 6 | 
-| **Total** | | (38 overs) | **241 for 7 wkts** | 
+| **Extras** | | (5b 1lb 0w 0nb) | **6** | 
+| **Total** | | (38 overs) | ****241 for 7 wkts**** | 
 
 ## Fall of Wickets
 
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | 0 | 
-| **Total** | | (22 overs) | **71 all out** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **0** | 
+| **Total** | | (22 overs) | ****71 all out**** | 
 
 ## Fall of Wickets
 

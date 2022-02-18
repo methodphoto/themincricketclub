@@ -35,8 +35,8 @@ R Earney's 27th 50
 | **S Jackson** | c P O'Mahony | I Crichton | 6 |
 | **M Jackson** | not out |  | 4 |
 | **A Harrison** | dnb |  |  |
-| **Extras** | | (7b 8lb 3w 0nb) | 18 |
-| **Total** | | (44 overs) | 171 for 9 wkts |
+| **Extras** | | (7b 8lb 3w 0nb) | **18** |
+| **Total** | | (44 overs) | **171 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ R Earney's 27th 50
 | **E Garland** | not out |  | 0 |
 | **I Crichton** | lbw | A Harrison | 1 |
 | **P O'Mahony** | not out |  | 1 |
-| **Extras** | | (7b 4lb 4w 1nb) | 16 |
-| **Total** | | (42 overs) | 172 for 9 wkts |
+| **Extras** | | (7b 4lb 4w 1nb) | **16** |
+| **Total** | | (42 overs) | **172 for 9 wkts** |
 
 ## Fall of Wickets
 

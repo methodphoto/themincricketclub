@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | not out |  | 10 |
 | **J Wright** | not out |  | 9 |
 | **Extras** | | (1b 3lb 10w 5nb 0p) | **19** |
-| **Total** | | (33.5 overs) | **156 for 9 wkts** |
+| **Total** | | (33.5 overs) | ****156 for 9 wkts**** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Baty** | dnb |  |  |
 | **A Tomes** | dnb |  |  |
 | **Extras** | | (1b 2lb 2w 0nb 0p) | **5** |
-| **Total** | | (37.2 overs) | **159 for 7 wkts** |
+| **Total** | | (37.2 overs) | ****159 for 7 wkts**** |
 
 ## Fall of Wickets
 

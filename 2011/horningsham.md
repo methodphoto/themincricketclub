@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | not out |  | 12 |
 | **J Wright** | b | J Oborne | 8 |
 | **A Slight** | run out |  | 0 |
-| **Extras** | | (9b 6lb 8w 1nb 0p) | 24 |
-| **Total** | | (42.2 overs) | **166 all out** |
+| **Extras** | | (9b 6lb 8w 1nb 0p) | **24** |
+| **Total** | | (42.2 overs) | ****166 all out**** |
 
 ## Fall of Wickets
 
@@ -47,11 +47,12 @@ Played at {{page.location}} on {{page.date}}
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **F Gunning** | 4 | 0 | 15 | 0 |
+| **C O'Connor** | 7.2 | 1 | 35 | 0 |
+| **T Oborne** | 6 | 0 | 38 | 1 |
+| **J Oborne** | 15 | 5 | 25 | 5 |
+| **R Gunning** | 8 | 1 | 28 | 2 |
+| **T Evans** | 2 | 0 | 12 | 1 |
 
 ## {{page.title}} Innings
 
@@ -68,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Gunning** | b | P Wigg | 14 |
 | **F Gunning** | not out |  | 4 |
 | **B Burgoyne** | not out |  | 0 |
-| **Extras** | | (0b 0lb 0w 0nb) | 19 |
-| **Total** | | (42 overs) | **113 for 9 wkts** |
+| **Extras** | | (0b 0lb 0w 0nb) | **19** |
+| **Total** | | (42 overs) | ****113 for 9 wkts**** |
 
 ## Fall of Wickets
 
@@ -87,7 +88,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | 9 | 0 | 31 | 3 |
 | **P Wigg** | 6 | 2 | 11 | 1 |
 | **J Wright** | 4 | 1 | 4 | 0 |
-| **A Slight** | 5 | 1 | 23 |10 |
+| **A Slight** | 5 | 1 | 23 | 1 |
 | **R Earney** | 4 | 1 | 15 | 0 |
 
 ## Win/Loss Ratio

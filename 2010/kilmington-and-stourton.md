@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Chant** | st J Grant | R Earney | 17 |
 | **S Snook** | b | T Rutherford | 10 |
 | **C Spencer** | not out |   | 0 |
-| **Extras** | | (2b 0lb 3w 0nb 0p) | 5 |
-| **Total** | | (33.4 overs) | **152 all out** |
+| **Extras** | | (2b 0lb 3w 0nb 0p) | **5** |
+| **Total** | | (33.4 overs) | ****152 all out**** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | c | J Lapham | 6 |
 | **P Wigg** | not out |  | 2 |
 | **J Wright** | c | J Lapham | 0 |
-| **Extras** | | (2b 0lb 10w 0nb 0p) | 12 |
-| **Total** | | (30.4 overs) | **100 all out** |
+| **Extras** | | (2b 0lb 10w 0nb 0p) | **12** |
+| **Total** | | (30.4 overs) | ****100 all out**** |
 
 ## Fall of Wickets
 

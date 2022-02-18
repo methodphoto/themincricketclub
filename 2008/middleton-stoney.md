@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **J Mitchell** | b | J Wright | 0 |
 | **Sandeep** | c J Grant | R Green | 2 |
 | **B Morris** | b | J Wright | 0 |
-| **Extras** | | (4b 2lb 3w 2nb 0p) | 11 |
-| **Total** | | (36 overs) | 97 all out |
+| **Extras** | | (4b 2lb 3w 2nb 0p) | **11** |
+| **Total** | | (36 overs) | **97 all out** |
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **R O'Hagan** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **P O'Mahony** | dnb |  |  |
-| **Extras** | | (4b 8lb 3w 1nb 0p) | 16 |
-| **Total** | | (29 overs) | 98 for 5 wkts |
+| **Extras** | | (4b 8lb 3w 1nb 0p) | **16** |
+| **Total** | | (29 overs) | **98 for 5 wkts** |
 
 ## Fall of Wickets
 

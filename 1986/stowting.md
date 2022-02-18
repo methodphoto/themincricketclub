@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **B Falconer** | not out |  | 15 | 
 | **M Killick** | b | W Wright | 0 | 
 | **A Perry** | run out | | 9 | 
-| **Extras** | | (4b 7lb 8w 0nb) | 8 | 
-| **Total** | | (40 overs) | **170 all out** | 
+| **Extras** | | (4b 7lb 8w 0nb) | **8** | 
+| **Total** | | (40 overs) | ****170 all out**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **J White Jnr** | not out |  | 3 | 
 | **D Newman** | b | A Perry | 0 | 
 | **J Wright** | b | R Cozens | 8 | 
-| **Extras** | | (1b 6lb 3w 0nb) | 10 | 
-| **Total** | | (33 overs) | **96 for 8 wkts** | 
+| **Extras** | | (1b 6lb 3w 0nb) | **10** | 
+| **Total** | | (33 overs) | ****96 for 8 wkts**** | 
 
 ## Fall of Wickets
 

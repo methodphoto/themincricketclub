@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **Forsyth &#8224;** | c C Santer | A MacFarlane | 18 | 
 | **Pine** | b | A MacFarlane | 18 | 
 | **D Batey** | not out |  | 8 |
-| **Extras** | | (5b 8lb 3w 1nb) | 17 | 
-| **Total** | | (46 overs) | **152 all out** | 
+| **Extras** | | (5b 8lb 3w 1nb) | **17** | 
+| **Total** | | (46 overs) | ****152 all out**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Earney** | c Forsyth | Buckley | 1 | 
 | **J Wright** | not out |  | 3 | 
 | **S Barrowcliff** | not out |  | 1 | 
-| **Extras** | | (6b 7lb 0w 0nb) | 13 | 
-| **Total** | | (43 overs) | **128 for 9 wkts** | 
+| **Extras** | | (6b 7lb 0w 0nb) | **13** | 
+| **Total** | | (43 overs) | ****128 for 9 wkts**** | 
 
 ## Fall of Wickets
 

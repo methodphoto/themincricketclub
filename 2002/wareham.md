@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | c | 7 | 21 |
 | **A Gallagher** | not out |  | 24 |
 | **J Wright** | c | M Tulloch | 0 |
-| **Extras** | | (12b 1lb 15w 6nb) | 34 |
-| **Total** | | (38 overs) | **156 all out** |
+| **Extras** | | (12b 1lb 15w 6nb) | **34** |
+| **Total** | | (38 overs) | ****156 all out**** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ Played at {{page.location}} on {{page.date}}
 | **Durrell** | dnb |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (3b 1lb 10w 1nb) | 15 |
-| **Total** | | (36 overs) | **160 for 5 wkts** |
+| **Extras** | | (3b 1lb 10w 1nb) | **15** |
+| **Total** | | (36 overs) | ****160 for 5 wkts**** |
 
 ## Fall of Wickets
 

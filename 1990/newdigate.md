@@ -33,8 +33,8 @@ Played at {{page.location}} on {{page.date}}
 | **S Griffiths** | dnb |  |  | 
 | **G Wright** | dnb |  |  |
 |  |  |  |  | 
-| **Extras** | | (3b 4lb 3w 0nb) | 10 | 
-| **Total** | | (38.1 overs) | **203 for 6 wkts** | 
+| **Extras** | | (3b 4lb 3w 0nb) | **10** | 
+| **Total** | | (38.1 overs) | ****203 for 6 wkts**** | 
 
 ## Fall of Wickets
 
@@ -69,8 +69,8 @@ Played at {{page.location}} on {{page.date}}
 | **N Shilton** | st J Grant | W Calvert | 2 | 
 | **G Twaites** | not out |  | 0 | 
 | **L Vizard** | not out |  | 0 |
-| **Extras** | | (0b 0lb 0w 0nb) | 22 | 
-| **Total** | | (40 overs) | **150 for 9 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **22** | 
+| **Total** | | (40 overs) | ****150 for 9 wkts**** | 
 
 ## Fall of Wickets
 

@@ -35,8 +35,8 @@ R Earney's 35th 50. T Rutherford's 1st 50
 | **A Parmenter** | not out |  | 1 |
 | **D Jackson** | not out |  | 7 |
 | **M Pugh** | dnb |  |  |
-| **Extras** | | (8b 1lb 4w 1nb 0p) | 14 |
-| **Total** | | (37 overs) | 146 for 8 wkts |
+| **Extras** | | (8b 1lb 4w 1nb 0p) | **14** |
+| **Total** | | (37 overs) | **146 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -70,8 +70,8 @@ R Earney's 35th 50. T Rutherford's 1st 50
 | **G Powell** | dnb |  |  |
 | **P O'Mahony** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (6b 3lb 7w 0nb 0p) | 16 |
-| **Total** | | (27.4 overs) | 147 for 2 wkts |
+| **Extras** | | (6b 3lb 7w 0nb 0p) | **16** |
+| **Total** | | (27.4 overs) | **147 for 2 wkts** |
 
 ## Fall of Wickets
 
