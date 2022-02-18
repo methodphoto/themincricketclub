@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **P O'Mahony** | b | Archibald | 0 |
 | **M Connor** | not out |  | 1 |
 | **Extras** | | (9b 2lb 4w 0nb) | **15** |
-| **Total** | | (40 overs) | ****73 for 9 wkts**** |
+| **Total** | | (40 overs) | **73 for 9 wkts** |
 
 ## Fall of Wickets
 

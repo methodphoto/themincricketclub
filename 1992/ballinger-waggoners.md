@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Dimond-Earney** | not out |  | 0 | 
 |  |  |  |  | 
 | **Extras** | | (5b 6lb 4w 1nb) | **16** | 
-| **Total** | | (40.1 overs) | ****193 for 9 wkts (all out)**** | 
+| **Total** | | (40.1 overs) | **193 for 9 wkts (all out)** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **W McGowan** | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (6b 1lb 4w 2nb) | **13** | 
-| **Total** | | (53 overs) | ****119 for 8 wkts**** | 
+| **Total** | | (53 overs) | **119 for 8 wkts** | 
 
 ## Fall of Wickets
 

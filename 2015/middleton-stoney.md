@@ -35,7 +35,7 @@ R Simpson scored 128* and was dropped several times
 | **D Clarke** | not out | 8 |
 | **J Williams** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **8** |
-| **Total** | | (35 overs) | ****206 all out**** |
+| **Total** | | (35 overs) | **206 all out** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ R Simpson scored 128* and was dropped several times
 | **P Wigg** | not out |  | 1 |
 | **J Wright** | b | D Clarke 0 |
 | **Extras** | | (0b 0lb 0w 0nb) | **8** |
-| **Total** | | (33.5 overs) | ****117 all out**** |
+| **Total** | | (33.5 overs) | **117 all out** |
 
 ## Fall of Wickets
 

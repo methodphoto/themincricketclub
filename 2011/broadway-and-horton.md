@@ -74,7 +74,7 @@ Partnership of 107 between R Beswick and A Slight
 | **M Grabham** | b | P Wigg | 6 |
 | **J Mariner** | b | P Wigg | 0 |
 | **Extras** | | (7b 0lb 1w 1nb 0p) | **9** |
-| **Total** | | (35 overs) | ****156 all out**** |
+| **Total** | | (35 overs) | **156 all out** |
 
 ## Fall of Wickets
 

@@ -36,7 +36,7 @@ R Earney's 20th 50. R Green's 2nd 50
 | **M Cox** | dnb |  |  |
 | **D Bland** | dnb |  |  |
 | **Extras** | | (1b 3lb 4w 1nb) | **9** |
-| **Total** | | (45 overs) | ****207 for 3 wkts**** |
+| **Total** | | (45 overs) | **207 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ R Earney's 20th 50. R Green's 2nd 50
 | **E Garland** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (3b 1lb 7w 1nb) | **12** |
-| **Total** | | (33.5 overs) | ****165 for 7 wkts**** |
+| **Total** | | (33.5 overs) | **165 for 7 wkts** |
 
 ## Fall of Wickets
 

@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | not out |  | 1 |
 |  |  |  |  |
 | **Extras** | | (4b 6lb 3w 5nb) | **18** |
-| **Total** | | (42 overs) | ****168 for 8 wkts**** |
+| **Total** | | (42 overs) | **168 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Prior** | b | I Marshall | 4 |
 |  |  |  |  |
 | **Extras** | | (4b 0lb 1w 0nb) | **5** |
-| **Total** | | (34.4 overs) | ****11 for 9 wkts (all out)**** |
+| **Total** | | (34.4 overs) | **11 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 

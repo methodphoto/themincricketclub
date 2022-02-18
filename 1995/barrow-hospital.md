@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Bevan** | dnb |  |  |
 | **A Bevan** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **18** |
-| **Total** | | (20 overs) | ****119 for 6 wkts**** |
+| **Total** | | (20 overs) | **119 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (1b 0lb 2w 0nb) | **3** |
-| **Total** | | (20 overs) | ****120 for 6 wkts**** |
+| **Total** | | (20 overs) | **120 for 6 wkts** |
 
 ## Fall of Wickets
 

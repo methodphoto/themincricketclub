@@ -37,7 +37,7 @@ Partnership of 158 between R Earney and R Kitson
 | **C Allchorne** | dnb |  |  |
 | **R Beswick** | dnb |  |  |
 | **Extras** | | (13b 3lb 2w 1nb) | **19** |
-| **Total** | | (43 overs) | ****249 for 4 wkts**** |
+| **Total** | | (43 overs) | **249 for 4 wkts** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Partnership of 158 between R Earney and R Kitson
 | **Trahar** | dnb |  |  |
 | **Cullip** | dnb |  |  |
 | **Extras** | | (5b 5lb 6w 2nb) | **18** |
-| **Total** | | (45 overs) | ****213 for 7 wkts**** |
+| **Total** | | (45 overs) | **213 for 7 wkts** |
 
 ## Fall of Wickets
 

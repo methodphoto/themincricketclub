@@ -40,7 +40,7 @@ T Rutherford's 2nd 50. M Gardiner's 1st 50.
 | **E Garland** | b | Peters | 0 |
 | **J Wright** | c | J Penfold | 13 |
 | **Extras** | | (4b 1lb 0w 1nb 0p) | **6** |
-| **Total** | | (40.4 overs) | ****165 all out**** |
+| **Total** | | (40.4 overs) | **165 all out** |
 
 ## Fall of Wickets
 
@@ -77,7 +77,7 @@ T Rutherford's 2nd 50. M Gardiner's 1st 50.
 | **J Penfold** | lbw | R Green | 0 |
 | **Keating** | not out |  | 2 |
 | **Extras** | | (2b 3lb 0w 4nb 0p) | **9** |
-| **Total** | | (28.4 overs) | ****94 all out**** |
+| **Total** | | (28.4 overs) | **94 all out** |
 
 ## Fall of Wickets
 

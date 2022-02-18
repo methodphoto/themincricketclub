@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **18** | 
-| **Total** | | (46 overs) | ****210 for 6 wkts**** | 
+| **Total** | | (46 overs) | **210 for 6 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Allchurch** | dnb |  |  | 
 | **J Wright &#42;** | dnb |  |  | 
 | **Extras** | | (0b 7lb 1w 1nb) | **9** | 
-| **Total** | | (33.5 overs) | ****211 for 7 wkts**** | 
+| **Total** | | (33.5 overs) | **211 for 7 wkts** | 
 
 ## Fall of Wickets
 

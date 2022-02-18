@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | c Dillamore | Waller | 7 | 
 | **R Olver** | not out |  | 1 | 
 | **Extras** | | (13b 3lb 2w 0nb) | **18** | 
-| **Total** | | (34.3 overs) | ****116 all out**** | 
+| **Total** | | (34.3 overs) | **116 all out** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **S  Fickling** | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **4** | 
-| **Total** | | (36 overs) | ****117 for 5 wkts**** | 
+| **Total** | | (36 overs) | **117 for 5 wkts** | 
 
 ## Fall of Wickets
 

@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | not out |  | 31 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (9b 7lb 6w 0nb) | **22** |
-| **Total** | | (40 overs) | ****182 for 8 wkts**** |
+| **Total** | | (40 overs) | **182 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **D White** | b | R Earney | 7 |
 | **M Miller** | not out |  | 8 |
 | **Extras** | | (0b 2lb 1w 0nb) | **9** |
-| **Total** | | (37.2 overs) | ****143 all out**** |
+| **Total** | | (37.2 overs) | **143 all out** |
 
 ## Fall of Wickets
 

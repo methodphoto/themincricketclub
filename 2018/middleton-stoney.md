@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Watson** | dnb |  |  |
 | **T Cranston** | dnb |  |  |
 | **Extras** | | (6b 3lb 13w 1nb 0p) | **23** |
-| **Total** | | (38 overs) | ****188 7wkts**** |
+| **Total** | | (38 overs) | **188 7wkts** |
 
 ## Bowling
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant &#8224;** | not out |  | 4 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (6b 3lb 13w 1nb 0p) | **23** |
-| **Total** | | (38 overs) | ****107 for 8 wkts**** |
+| **Total** | | (38 overs) | **107 for 8 wkts** |
 
 ## Fall of Wickets
 

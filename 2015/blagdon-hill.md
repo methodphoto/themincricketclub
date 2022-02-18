@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **H Ingham** | c L Vickery-White | Lind | 11 |
 | **J Wright** | b | J Hannam | 12 |
 | **Extras** | | (9b 2lb 4w 0nb) | **18** | 
-| **Total** | | (40 overs) | ****174 all out**** | 
+| **Total** | | (40 overs) | **174 all out** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Tuffill** | lbw | R Beswick | 15 |
 | **T Laughi** | b | H Ingham | 1 |
 | **Extras** | | (5b 0lb 6w 0nb) | **18** | 
-| **Total** | | (34 overs) | ****125 all out**** | 
+| **Total** | | (34 overs) | **125 all out** | 
 
 ## Fall of Wickets
 

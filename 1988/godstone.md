@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  | 
 |  |  |  |  |
 | **Extras** | | (12b 2lb 4w 1nb) | **19** | 
-| **Total** | | (45 overs) | ****211 for 7 wkts**** | 
+| **Total** | | (45 overs) | **211 for 7 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (16b 0lb 1w 0nb) | **17** | 
-| **Total** | | (35 overs) | ****162 for 5 wkts**** | 
+| **Total** | | (35 overs) | **162 for 5 wkts** | 
 
 ## Fall of Wickets
 

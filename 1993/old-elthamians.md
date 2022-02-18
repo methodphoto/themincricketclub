@@ -37,7 +37,7 @@ Partnership of 135 between S Barrowcliff and W Wright
 | **P Daniels** | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **1** | 
-| **Total** | | (40 overs) | ****238 for 4 wkts**** | 
+| **Total** | | (40 overs) | **238 for 4 wkts** | 
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Partnership of 135 between S Barrowcliff and W Wright
 | **J Grant &#8224;** | dnb |  |  |
 | **J Wright** | dnb |  |  | 
 | **Extras** | | (14b 19lb 8w 0nb) | **41** | 
-| **Total** | | (40 overs) | ****242 for 4 wkts**** | 
+| **Total** | | (40 overs) | **242 for 4 wkts** | 
 
 ## Fall of Wickets
 

@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Masterson** | lbw | J Fleetwood | 0 |
 | **J Stimfig &#8224;** | b | J Fleetwood | 9 |
 | **Extras** | | (6b 3lb 11w 2nb) | **22** |
-| **Total** | | (35.4 overs) | ****144 all out**** |
+| **Total** | | (35.4 overs) | **144 all out** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Barbour** | not out |  | 5 |
 | **J Rastrick** | b | I Marshall | 0 |
 | **Extras** | | (5b 0lb 6w 0nb) | **12** |
-| **Total** | | (38.3 overs) | ****128 all out**** |
+| **Total** | | (38.3 overs) | **128 all out** |
 
 ## Fall of Wickets
 

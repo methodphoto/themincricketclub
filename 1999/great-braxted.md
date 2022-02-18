@@ -35,7 +35,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Larkin** | not out |  | 8 |
 | **P O'Brien** | lbw | C Alcock | 2 |
 | **Extras** | | (3b 2lb 3w 2nb) | **10** |
-| **Total** | | (44 overs) | ****151 all out**** |
+| **Total** | | (44 overs) | **151 all out** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Alcock** | dnb |  |  |
 | **Scanlon** | dnb |  |  |
 | **Extras** | | (8b 7lb 3w 1nb) | **19** |
-| **Total** | | (46 overs) | ****154 for 6 wkts**** |
+| **Total** | | (46 overs) | **154 for 6 wkts** |
 
 ## Fall of Wickets
 

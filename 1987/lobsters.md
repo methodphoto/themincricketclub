@@ -36,7 +36,7 @@ R Beswick's 1st 50
 | **Northam** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 4lb 4w 0nb) | **8** | 
-| **Total** | | (35.3 overs) | ****199 for 5 wkts**** | 
+| **Total** | | (35.3 overs) | **199 for 5 wkts** | 
 
 ## Fall of Wickets
 

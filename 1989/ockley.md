@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **Barnes** | b | R Beswick | 0 | 
 | **Potts** | not out |  | 1 |
 | **Extras** | | (0b 0lb 0w 0nb) | **8** | 
-| **Total** | | (46 overs) | ****119 for 9 wkts**** | 
+| **Total** | | (46 overs) | **119 for 9 wkts** | 
 
 ## Fall of Wickets
 

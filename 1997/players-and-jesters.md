@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Purkiss** | dnb |  | 2 |
 | **Roskrow** | dnb |  | 0 |
 | **Extras** | | (1b 8lb 0w 0nb) | **9** |
-| **Total** | | (45 overs) | ****170 for 9 wkts**** |
+| **Total** | | (45 overs) | **170 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Stimfig &#8224;** | b | Black | 0 |
 | **J Wright** | not out |  | 1 |
 | **Extras** | | (0b 3lb 3w 0nb) | **6** |
-| **Total** | | (30 overs) | ****91 all out**** |
+| **Total** | | (30 overs) | **91 all out** |
 
 ## Fall of Wickets
 

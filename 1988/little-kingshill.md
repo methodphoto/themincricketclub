@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Calver** | b | DO Chandler | 2 | 
 | **J Wright** | not out |  | 2 | 
 | **Extras** | | (9b 2lb 4w 0nb) | **9** | 
-| **Total** | | (41.3 overs) | ****103 all out**** | 
+| **Total** | | (41.3 overs) | **103 all out** | 
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **DM Chandler** | dnb |  |  | 
 | **Doughty** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **0** | 
-| **Total** | | (30 overs) | ****104 for 6 wkts**** | 
+| **Total** | | (30 overs) | **104 for 6 wkts** | 
 
 ## Fall of Wickets
 

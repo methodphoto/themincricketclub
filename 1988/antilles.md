@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Nicholls** | dnb |  |  | 
 | **C Williams** | dnb |  |  |
 | **Extras** | | (1b 4lb 6w 0nb) | **10** | 
-| **Total** | | (35 overs) | ****162 for 7 wkts**** | 
+| **Total** | | (35 overs) | **162 for 7 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Olver** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
 | **Extras** | | (9b 2lb 4w 0nb) | **11** | 
-| **Total** | | (33.5 overs) | ****163 for 5 wkts**** | 
+| **Total** | | (33.5 overs) | **163 for 5 wkts** | 
 
 ## Fall of Wickets
 

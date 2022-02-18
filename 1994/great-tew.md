@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Catling** | not out |  | 4 |
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **16** |
-| **Total** | | (41 overs) | ****240 for 8 wkts**** |
+| **Total** | | (41 overs) | **240 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | not out |   1 |
 |  |  |  |  |
 | **Extras** | | (4b 2lb 1w 0nb) | **9** |
-| **Total** | | (41 overs) | ****232 for 9 wkts**** |
+| **Total** | | (41 overs) | **232 for 9 wkts** |
 
 ## Fall of Wickets
 

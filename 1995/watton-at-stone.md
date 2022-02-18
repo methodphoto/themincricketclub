@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Earney** | not out |  | 0 |
 | **I Marshall** | absent hungover |  | 0 |
 | **Extras** | | (3b 1lb 1w 0nb) | **5** |
-| **Total** | | (27.1 overs) | ****90 for 9 wkts (all out)**** |
+| **Total** | | (27.1 overs) | **90 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Clayton** | dnb |  |  |
 | **B Welch** | dnb |  |  |
 | **Extras** | | (6b 0lb 5w 0nb) | **11** |
-| **Total** | | (14.4 overs) | ****91 for 0 wkts**** |
+| **Total** | | (14.4 overs) | **91 for 0 wkts** |
 
 ## Fall of Wickets
 

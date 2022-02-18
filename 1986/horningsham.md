@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | dnb | |  | 
 | **J Wright** | dnb | |  | 
 | **Extras** | | (2b 2lb 0w 1nb) | **5** | 
-| **Total** | | (27.3 overs) | ****187 for 2 wkts**** | 
+| **Total** | | (27.3 overs) | **187 for 2 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **K Dix** | run out |  | 13 | 
 | **P Lovett** | not out | | 0 | 
 | **Extras** | | (0b 0lb 5w 0nb) | **5** | 
-| **Total** | | (36.4 overs) | ****192 for 9 wkts**** | 
+| **Total** | | (36.4 overs) | **192 for 9 wkts** | 
 
 ## Fall of Wickets
 

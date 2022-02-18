@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  | 
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **29** | 
-| **Total** | | (46.3 overs) | ****251 for 3 wkts**** | 
+| **Total** | | (46.3 overs) | **251 for 3 wkts** | 
 
 ## Fall of Wickets
 

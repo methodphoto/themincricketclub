@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **R North** | not out |  | 6 | 
 | **L Neeve** | dnb |  |  | 
 | **Extras** | | (0b 2lb 7w 2nb) | **11** | 
-| **Total** | | (42 overs) | ****170 for 9 wkts**** | 
+| **Total** | | (42 overs) | **170 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** |dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (8b 2lb 4w 1nb) | **15** | 
-| **Total** | | (35 overs) | ****132 for 7**** | 
+| **Total** | | (35 overs) | **132 for 7** | 
 
 ## Fall of Wickets
 

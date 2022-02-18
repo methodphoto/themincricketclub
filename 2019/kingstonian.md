@@ -36,7 +36,7 @@ A Beswick 86* Highest score for The Min
 | **P Beswick** | b | Shall | 0 | 
 | **C Garland** | not out |  | 3 | 
 | **Extras** | | (2b 1lb 14w 4nb) | **21** | 
-| **Total** | | (35 overs) | ****198 for 9 wkts**** | 
+| **Total** | | (35 overs) | **198 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -74,7 +74,7 @@ A Beswick 86* Highest score for The Min
 | **Callum** | dnb |  |  | 
 |  |  |  |  | 
 | **Extras** | | (1b 0lb 14w 3nb) | **18** | 
-| **Total** | | (35 overs) | ****139 for 4 wkts**** | 
+| **Total** | | (35 overs) | **139 for 4 wkts** | 
 
 ## Fall of Wickets
 

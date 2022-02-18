@@ -35,7 +35,7 @@ Phil Bentley, first centurion
 | **J Wright** | st C Fursland | Harris | 6 | 
 | **R Olver** | dnb |  |  | 
 | **Extras** | | (0b 0lb 0w 0nb) | **0** | 
-| **Total** | | (36 overs) | ****237 for 9 wkts**** | 
+| **Total** | | (36 overs) | **237 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Phil Bentley, first centurion
 | **B Welch** | not out |  | 4 | 
 | **R Clayton** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **14** | 
-| **Total** | | (47 overs) | ****111 for 8 wkts**** | 
+| **Total** | | (47 overs) | **111 for 8 wkts** | 
 
 ## Fall of Wickets
 

@@ -37,7 +37,7 @@ Partnership of 129 between R Earney and M Goff
 | **S Speight** | b | J Wright | 0 |
 | **A Neate** | not out |  | 1 |
 | **Extras** | | (5b 6lb 1w 5nb 0p) | **17** |
-| **Total** | | (38.4 overs) | ****126 all out**** |
+| **Total** | | (38.4 overs) | **126 all out** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Partnership of 129 between R Earney and M Goff
 | **J Wright &#42;** | dnb |  |  |
 | **P O'Mahony** | dnb |  |  |
 | **Extras** | | (4b 6lb 6w 4nb 0p) | **20** |
-| **Total** | | (33.5 overs) | ****129 for 0 wkts**** |
+| **Total** | | (33.5 overs) | **129 for 0 wkts** |
 
 ## Fall of Wickets
 

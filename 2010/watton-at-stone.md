@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Wigg** | not out |  | 13 |
 | **J Wright** | not out |  | 3 |
 | **Extras** | | (0b 0lb 0w 0nb) | **18** |
-| **Total** | | (40 overs) | ****206 for 9 wkts**** |
+| **Total** | | (40 overs) | **206 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **14** |
-| **Total** | | (38.4 overs) | ****201 for 4 wkts**** |
+| **Total** | | (38.4 overs) | **201 for 4 wkts** |
 
 ## Fall of Wickets
 

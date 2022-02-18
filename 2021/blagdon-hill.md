@@ -35,7 +35,7 @@ J Carroll, 2nd Min 50 and a hattrick (over two overs)
 | **J Casey** | dnb |  |  | 
 | **J Grant &#8224;** | dnb |  |  | 
 | **Extras** | | (7b 1lb 4w 1nb) | **13** | 
-| **Total** | | (44 overs) | ****187 for 5 wkts**** | 
+| **Total** | | (44 overs) | **187 for 5 wkts** | 
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ J Carroll, 2nd Min 50 and a hattrick (over two overs)
 | **D Wright** | b | J Carroll | 0 | 
 | **G Williams** | not out | | 1 | 
 | **Extras** | | (6b 3lb 6w 2nb) | **17** | 
-| **Total** | | (33.1 overs) | ****108 all out**** | 
+| **Total** | | (33.1 overs) | **108 all out** | 
 
 ## Fall of Wickets
 

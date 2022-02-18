@@ -35,7 +35,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Taylor** | lbw | R Green |  |
 |  |  |  |  |
 | **Extras** | | (13b 0lb 3w 0nb) | **16** |
-| **Total** | | (33.4 overs) | ****145 for 9 wkts (all out)**** |
+| **Total** | | (33.4 overs) | **145 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **P O'Brien** | b | Akhurst | 4 |
 |  |  |  |  |
 | **Extras** | | (3b 1lb 11w 0nb) | **15** |
-| **Total** | | (35.5 overs) | ****110 for 9 wkts (all out)**** |
+| **Total** | | (35.5 overs) | **110 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 

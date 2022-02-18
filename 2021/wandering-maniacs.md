@@ -35,7 +35,7 @@ R Damaze 50 off 35 balls
 | **L Holden** | b | Bradley | 12 | 
 | **C Wright** | not out |  | 0 |  
 | **Extras** | | (6b 0 32w 7nb) | **45** | 
-| **Total** | | (33.2 overs) | ****215 all out**** | 
+| **Total** | | (33.2 overs) | **215 all out** | 
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ R Damaze 50 off 35 balls
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (2b 2lb 8w 2nb) | **12** | 
-| **Total** | | (25.4 overs) | ****102 for 8 wkts (all out)**** | 
+| **Total** | | (25.4 overs) | **102 for 8 wkts (all out)** | 
 
 
 ## Fall of Wickets

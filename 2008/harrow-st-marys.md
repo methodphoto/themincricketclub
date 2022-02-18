@@ -36,7 +36,7 @@ R Earney's 35th 50
 | **Lothra** | c R Beswick | R Earney | 0 |
 |  |  |  |  |
 | **Extras** | | (1b 2lb 15w 2nb 0p) | **20** |
-| **Total** | | (46 overs) | ****146 for 9 wkts (all out)**** |
+| **Total** | | (46 overs) | **146 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ R Earney's 35th 50
 | **P Wigg** | not out |  | 0 |
 | **I Miah** | dnb |  |  |
 | **Extras** | | (8b 1lb 9w 0nb 0p) | **18** |
-| **Total** | | (36.1 overs) | ****148 for 8 wkts**** |
+| **Total** | | (36.1 overs) | **148 for 8 wkts** |
 
 ## Fall of Wickets
 

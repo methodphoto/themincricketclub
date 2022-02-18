@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **K Dix** | c D Young | M Gardiner | 1 | 
 | **P Lovatt** | not out |  | 1 |
 | **Extras** | | (5b 0lb 1w 0nb) | **6** | 
-| **Total** | | (41 overs) | ****168 for 9 wkts**** | 
+| **Total** | | (41 overs) | **168 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | not out |  | 2 | 
 |  |  |  |  | 
 | **Extras** | | (5b 0lb 1w 0nb) | **6** | 
-| **Total** | | (26.2 overs) | ****52 for 9 wkts (all out)**** | 
+| **Total** | | (26.2 overs) | **52 for 9 wkts (all out)** | 
 
 ## Fall of Wickets
 

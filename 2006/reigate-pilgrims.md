@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 4lb 6w 3nb 0p) | **13** |
-| **Total** | | (48 overs) | ****198 for 5 wkts**** |
+| **Total** | | (48 overs) | **198 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Wigg** | not out |  | 0 |
 | **J Wright** | c Trench | S Arnold | 0 |
 | **Extras** | | (9b 2lb 4w 0nb 0p) | **15** |
-| **Total** | | (33.5 overs) | ****149 all out**** |
+| **Total** | | (33.5 overs) | **149 all out** |
 
 ## Fall of Wickets
 

@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Powell** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (5b 1lb 6w 4nb 0p) | **16** |
-| **Total** | | (35 overs) | ****228 for 6 wkts**** |
+| **Total** | | (35 overs) | **228 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Boteju** | dnb |  | 1 |
 |  |  |  |  |
 | **Extras** | | (5b 3lb 10w 4nb 0p) | **22** |
-| **Total** | | (30 overs) | ****140 for 9 wkts (all out)**** |
+| **Total** | | (30 overs) | **140 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 

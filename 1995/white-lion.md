@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **N Beswick** | run out |  | 0 |
 | **P Beswick** | run out |  | 0 |
 | **Extras** | | (4b 4lb 2w 0nb) | **10** |
-| **Total** | | (34.4 overs) | ****136 all out**** |
+| **Total** | | (34.4 overs) | **136 all out** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Boville** | not out |  | 10 |
 | **M Rolph** | not out |  | 6 |
 | **Extras** | | (10b 7lb 2w 0nb) | **19** |
-| **Total** | | (30.2 overs) | ****137 for 9 wkts**** |
+| **Total** | | (30.2 overs) | **137 for 9 wkts** |
 
 ## Fall of Wickets
 

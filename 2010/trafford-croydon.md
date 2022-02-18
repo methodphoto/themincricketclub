@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Ankur** | not out |  | 0 |
 | **Umans** | b | I Marshall | 2 |
 | **Extras** | | (0b 4lb 5w 0nb 0p) | **9** |
-| **Total** | | (36.5 overs) | ****115 all out**** |
+| **Total** | | (36.5 overs) | **115 all out** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Wigg** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (9b 1lb 11w 1nb 0p) | **22** |
-| **Total** | | (28.1 overs) | ****116 for 5 wkts**** |
+| **Total** | | (28.1 overs) | **116 for 5 wkts** |
 
 ## Fall of Wickets
 

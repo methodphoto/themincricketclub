@@ -35,7 +35,7 @@ J Wright's 4th 5 wkt haul
 | **W Seldon** | not out |  | 4 |
 | **A Tomes** | b | J Wright | 4 |
 | **Extras** | | (3b 3lb 1w 0nb) | **7** |
-| **Total** | | (50 overs) | ****156 all out**** |
+| **Total** | | (50 overs) | **156 all out** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ J Wright's 4th 5 wkt haul
 | **P Grant** | not out |  | 3 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (9b 2lb 4w 0nb) | **15** |
-| **Total** | | (38 overs) | ****141 for 8 wkts**** |
+| **Total** | | (38 overs) | **141 for 8 wkts** |
 
 ## Fall of Wickets
 

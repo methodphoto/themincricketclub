@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Wood** | not out | | 10 |
 | **Sharma** | dnb |  |  |
 | **Extras** | | (0b 0lb 3w 3nb 0p) | **6* |
-| **Total** | | (38.4 overs) | ****151 for 9 wkts**** |
+| **Total** | | (38.4 overs) | **151 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | not out | | 0 |
 | **C Wright** | dnb | | |
 | **Extras** | | (2b 2lb 3w 0nb 0p) | **7** |
-| **Total** | | (33 overs) | ****146 for 8 wkts**** |
+| **Total** | | (33 overs) | **146 for 8 wkts** |
 
 ## Fall of Wickets
 

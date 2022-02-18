@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **N Marshall** | c P Clothier | J Wright | 5 | 
 | **N Marshall** | not out | | 8 | 
 | **Extras** | | (1b 0lb 1w 0nb) | **2** | 
-| **Total** | | (35.2 overs) | ****85 all out**** | 
+| **Total** | | (35.2 overs) | **85 all out** | 
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb | | | 
 | | | | | 
 | **Extras** | | (1b 0lb 2w 0nb) | **3** | 
-| **Total** | | (14.5 overs) | ****84 for 1 wkt**** | 
+| **Total** | | (14.5 overs) | **84 for 1 wkt** | 
 
 ## Fall of Wickets
 

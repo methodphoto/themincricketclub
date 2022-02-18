@@ -37,7 +37,7 @@ Partnership of 109 between T Hammond and M Gupta
 | **E Garland** | not out |  | 0 |
 | **J Wright &#42;** | dnb |  |  |
 | **Extras** | | (9b 2lb 2w 2nb 0p) | **15** |
-| **Total** | | (41 overs) | ****173 for 8 wkts**** |
+| **Total** | | (41 overs) | **173 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ Partnership of 109 between T Hammond and M Gupta
 | **N Buckland &#8224;** | not out |  | 0 |
 | **M Wood** | c E Garland | T Carden | 1 |
 | **Extras** | | (0b 3lb 0w 2nb 0p) | **5** |
-| **Total** | | (28.3 overs) | ****104 all out**** |
+| **Total** | | (28.3 overs) | **104 all out** |
 
 ## Fall of Wickets
 

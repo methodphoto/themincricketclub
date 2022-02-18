@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Ellis** | dnb | | | 
 | **R Olver** | dnb | | | 
 | **Extras** | | (3b 7lb 4w 1nb) | **15** | 
-| **Total** | | (37.1 overs) | ****155 for 5 wkts**** | 
+| **Total** | | (37.1 overs) | **155 for 5 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Sylvester** | b | Roberts | 19 | 
 | **J Grant &#8224;** | not out | | 4 | 
 | **Extras** | | (8b 2lb 7w 0nb) | **17** | 
-| **Total** | | (34 overs) | ****147 for 9 wkts**** | 
+| **Total** | | (34 overs) | **147 for 9 wkts** | 
 
 ## Fall of Wickets
 

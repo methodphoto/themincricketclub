@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Potter** | dnb |  |  | 
 | **Stone** | dnb |  |  | 
 | **Extras** | | (0b 3lb 7w 0nb) | **10** | 
-| **Total** | | (40 overs) | ****183 all out**** | 
+| **Total** | | (40 overs) | **183 all out** | 
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Olver** | not out |   | 6 | 
 | **J Wright** | run out |  | 3 | 
 | **Extras** | | (8b 2lb 9w 1nb) | **20** | 
-| **Total** | | (33.2 overs) | ****164 all out**** | 
+| **Total** | | (33.2 overs) | **164 all out** | 
 
 ## Fall of Wickets
 

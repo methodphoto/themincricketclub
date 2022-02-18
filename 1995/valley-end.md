@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Crawley** | dnb |  |  |
 | **Powell** | dnb |  |  |
 | **Extras** | | (6b 7lb 0w 0nb) | **13** |
-| **Total** | | (48 overs) | ****209 for 3 wkts**** |
+| **Total** | | (48 overs) | **209 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Stimfig &#8224;** | not out |  | 6 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (5b 6lb 1w 0nb) | **12** |
-| **Total** | | (33.5 overs) | ****153 for 8 wkts**** |
+| **Total** | | (33.5 overs) | **153 for 8 wkts** |
 
 ## Fall of Wickets
 

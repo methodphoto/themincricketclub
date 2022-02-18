@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Jackson** | not out |  | 21 |
 | **L Causton** | not out |  | 0 |
 | **Extras** | | (8b 0lb 4w 2nb 0p) | **14** |
-| **Total** | | (48 overs) | ****166 for 9 wkts**** |
+| **Total** | | (48 overs) | **166 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Beswick** | b | G Sheen | 24 |
 | **J Wright** | not out |  | 0 |
 | **Extras** | | (5b 0lb 5w 0nb 0p) | **10** |
-| **Total** | | (39.2 overs) | ****153 all out**** |
+| **Total** | | (39.2 overs) | **153 all out** |
 
 ## Fall of Wickets
 

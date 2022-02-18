@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Killick** | b | W Wright | 0 | 
 | **A Perry** | run out | | 9 | 
 | **Extras** | | (4b 7lb 8w 0nb) | **8** | 
-| **Total** | | (40 overs) | ****170 all out**** | 
+| **Total** | | (40 overs) | **170 all out** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Newman** | b | A Perry | 0 | 
 | **J Wright** | b | R Cozens | 8 | 
 | **Extras** | | (1b 6lb 3w 0nb) | **10** | 
-| **Total** | | (33 overs) | ****96 for 8 wkts**** | 
+| **Total** | | (33 overs) | **96 for 8 wkts** | 
 
 ## Fall of Wickets
 

@@ -36,7 +36,7 @@ R Earney 3rd 5 wkt haul for The Min
 | **E Garland** | dnb |  |  |
 | **S Masterson** | dnb |  |  |
 | **Extras** | | (3b 6lb 11w 0nb) | **20** |
-| **Total** | | (38 overs) | ****155 all out**** |
+| **Total** | | (38 overs) | **155 all out** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ R Earney 3rd 5 wkt haul for The Min
 | **Barbour** | not out |  | 1 |
 | **S Lovegrove** | dnb |  |  |
 | **Extras** | | (0b 4lb 11w 0nb) | **15** |
-| **Total** | | (35 overs) | ****156 for 8 wkts**** |
+| **Total** | | (35 overs) | **156 for 8 wkts** |
 
 ## Fall of Wickets
 

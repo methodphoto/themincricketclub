@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb |  |  |
 |  |  |  |  | 
 | **Extras** | | (12b 7lb 1w 0nb) | **20** | 
-| **Total** | | (41 overs) | ****200 for 7 wkts**** | 
+| **Total** | | (41 overs) | **200 for 7 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Jinks** | b | A Gallagher | 4 | 
 | **A Terry** | not out |  | 0 |
 | **Extras** | | (0b 1lb 10w 1nb) | **12** | 
-| **Total** | | (31.3 overs) | ****109 all out**** | 
+| **Total** | | (31.3 overs) | **109 all out** | 
 
 ## Fall of Wickets
 

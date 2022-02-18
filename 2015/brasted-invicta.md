@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Grant** &#8224; | dnb |  |  | 
 | **K Gallagher** | dnb |  |  |
 | **Extras** | | (9b 2lb 4w 0nb) | **30** | 
-| **Total** | | (33 overs) | ****237 for 5 wkts**** | 
+| **Total** | | (33 overs) | **237 for 5 wkts** | 
 
 ## Fall of Wickets
 
@@ -66,7 +66,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Bashford** | not out | 16 | 
 | **P Staunton** | not out | 0 | 
 | **Extras** | | (5b 0lb 6w 0nb) | **11** | 
-| **Total** | | (40 overs) | ****65 for 7 wkts**** | 
+| **Total** | | (40 overs) | **65 for 7 wkts** | 
 
 ## Fall of Wickets
 

@@ -36,7 +36,7 @@ I Marshall's 7th five wkt haul
 | **G Powell** | not out |  | 2 |
 | **P O'Brien** | dnb |  |  |
 | **Extras** | | (11b 5lb 12w 1nb) | **29** |
-| **Total** | | (43 overs) | ****204 for 8 wkt**** |
+| **Total** | | (43 overs) | **204 for 8 wkt** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ I Marshall's 7th five wkt haul
 | **M Cox** | b | I Marshall | 0 |
 | **M Knowles** | not out |  | 0 |
 | **Extras** | | (5b 8lb 1w 1nb) | **14** |
-| **Total** | | (46 overs) | ****208 for 9 wkts**** |
+| **Total** | | (46 overs) | **208 for 9 wkts** |
 
 ## Fall of Wickets
 

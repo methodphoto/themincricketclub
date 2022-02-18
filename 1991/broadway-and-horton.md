@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | dnb |  |  | 
 | **G Wright** | dnb |  |  | 
 | **Extras** | | (2b 7lb 3w 0nb) | **12** | 
-| **Total** | | (43 overs) | ****174 for 6 wkts**** | 
+| **Total** | | (43 overs) | **174 for 6 wkts** | 
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **Scanlon** | b | S Hornsby | 8 | 
 | **G White** | dnb |  |  |
 | **Extras** | | (15b 5lb 1w 0nb) | **21** | 
-| **Total** | | (39 overs) | ****162 for 9 wkts**** | 
+| **Total** | | (39 overs) | **162 for 9 wkts** | 
 
 ## Fall of Wickets
 

@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **H Ingham** | dnb |  |  |
 | **E Garland** | dnb |  |  |
 | **Extras** | | (13b 10lb 8w 1nb 0p) | **32** |
-| **Total** | | (40 overs) | ****210 for 7 wkts**** |
+| **Total** | | (40 overs) | **210 for 7 wkts** |
 
 ## Fall of Wickets
 

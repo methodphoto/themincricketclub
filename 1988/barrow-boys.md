@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Barrowcliff** | b | A Fielding | 0 | 
 | **Marsden** | not out |  | 0 |
 | **Extras** | | (3b 1lb 1w 0nb) | **5** | 
-| **Total** | | (36.1 overs) | ****105 for 10 wkts**** | 
+| **Total** | | (36.1 overs) | **105 for 10 wkts** | 
 
 ## Fall of Wickets
 
@@ -74,7 +74,7 @@ Played at {{page.location}} on {{page.date}}
 | **B Lee** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
 | **Extras** | | (5b 0lb 5w 0nb) | **10** | 
-| **Total** | | (33.5 overs) | ****108 for 5 wkts**** | 
+| **Total** | | (33.5 overs) | **108 for 5 wkts** | 
 
 ## Fall of Wickets
 

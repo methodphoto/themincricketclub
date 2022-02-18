@@ -52,7 +52,7 @@ M Gupta's 3rd 50. E Garland's 6th Michelle and best bowling
 | **E Garland** | b | J Bowley | 23 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (8b 5lb 2w 1nb 0p) | **16** |
-| **Total** | | (42 overs) | ****209 for 9 wkts**** |
+| **Total** | | (42 overs) | **209 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -88,7 +88,7 @@ M Gupta's 3rd 50. E Garland's 6th Michelle and best bowling
 | **B Crook** | not out |  | 0 |
 | **J Penfold** | lbw | E Garland | 0 |
 | **Extras** | | (5b 0lb 6w 0nb) | **11** |
-| **Total** | | (31.3 overs) | ****164 all out**** |
+| **Total** | | (31.3 overs) | **164 all out** |
 
 ## Fall of Wickets
 
