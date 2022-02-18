@@ -6,6 +6,7 @@ location: Horningsham
 date: 
 report: 
 result: 
+next: newdigate
 parent: 2012 Fixtures
 ---
 

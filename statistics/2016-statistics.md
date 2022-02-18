@@ -37,7 +37,7 @@ parent: Statistics
 | **Jerry Wright** | 3 | 1 | 4 | 2 |
 | **Marcus Elwin** | 1 | 0 | 4 | 4 |
 | **Kit Gallagher** | 1 | 0 | 1 | 1 |
-| **Altaf Ajmal** | 1 | 0 | 0 | 0 |
+| **A Asmal** | 1 | 0 | 0 | 0 |
 | **Philip Beswick** | 0 | 0 | 0 | - |
 | **Christopher Wright** | 2 | 1 | 0 | 0 |
 | **A Molui** | 0 | 0 | 0 | - |
@@ -71,7 +71,7 @@ parent: Statistics
 | **Jim Grant** | 6 | 2 | 8 | 2 |
 | **Jerry Wright** | 3 | 1 | 4 | 2 |
 | **Kit Gallagher** | 1 | 0 | 1 | 1 |
-| **Altaf Ajmal** | 1 | 0 | 0 | 0 |
+| **A Asmal** | 1 | 0 | 0 | 0 |
 | **Christopher Wright** | 2 | 1 | 0 | 0 |
 | **Matt Bowerman** | 1 | 1 | 84 | - |
 | **David Brookfield** | 1 | 1 | 51 | - |
@@ -95,7 +95,7 @@ parent: Statistics
 | **R Amboukan** | 10 | 2 | 18 | 3 | 6 | 20 |
 | **Sam Pitcher** | 9 | 0 | 33 | 2 | 16.5 | 27 |
 | **Ian Marshall** | 16 | 3 | 73 | 2 | 36.5 | 48 |
-| **Altaf Ajmal** | 5 | 1 | 8 | 2 | 4 | 15 |
+| **A Asmal** | 5 | 1 | 8 | 2 | 4 | 15 |
 | **A Molui** | 6 | 0 | 13 | 2 | 6.5 | 18 |
 | **Richard Earney** | 7 | 0 | 52 | 1 | 52 | 42 |
 | **Marcus Elwin** | 5 | 1 | 16 | 1 | 16 | 30 |
@@ -111,7 +111,7 @@ parent: Statistics
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
-| **Altaf Ajmal** | 5 | 1 | 8 | 2 | 4 | 15 |
+| **A Asmal** | 5 | 1 | 8 | 2 | 4 | 15 |
 | **Andrew Gallagher** | 6.4 | 0 | 17 | 3 | 5.67 | 12.8 |
 | **R Amboukan** | 10 | 2 | 18 | 3 | 6 | 20 |
 | **A Molui** | 6 | 0 | 13 | 2 | 6.5 | 18 |

@@ -31,7 +31,7 @@ Played at {{page.location}} on {{page.date}}
 | **Sy Ahmed** | c | E Garland | 45 |
 | **Maruf** | lbw | V Kuchu | 7 |
 | **D Pathak** | c | S Bali | 4 |
-| **Abu** | b | E Garland | 6 |
+| **M Abu** | b | E Garland | 6 |
 | **I Miah &#42;** | not out |  | 1 |
 | **Extras** | | (7b 2lb 7w 6nb 0p) | 22 |
 | **Total** | | (37 overs) | 253 all out |
@@ -89,7 +89,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Miah** | 8 | 0 | 41 | 3 |
 | **Maruf** | 5 | 1 | 11 | 0 |
 | **D Pathak** | 2 | 0 | 7 | 0 |
-| **Abu** | 3 | 0 | 33 | 0 |
+| **M Abu** | 3 | 0 | 33 | 0 |
 | **Sy Ahmed** | 5 | 3 | 11 | 2 |
 | **S Mohammed** | 2 | 0 | 23 | 1 |
 | **A Ajmal** | 4 | 0 | 11 | 2 |

@@ -32,7 +32,7 @@ M Gupta's 2nd Michelle and a Hat trick and 4th 50
 | **Ijaaz** | c J Grant | H Ingham | 3 |
 | **Maroof** | b | M Gupta | 0 |
 | **S Habib** | not out |  | 49 |
-| **Altaf** | lbw | M Gupta | 122 |
+| **A Asmal** | lbw | M Gupta | 122 |
 | **Ali** | b | M Gupta |  0|
 | **Ashish** | b | M Gupta | 0 |
 | **Extras** | | (12b 4lb 9w 4nb 0p) | 29 |
@@ -65,7 +65,7 @@ M Gupta's 2nd Michelle and a Hat trick and 4th 50
 | **D Wigg** | b | Khan | 0 |
 | **M Gupta** | c G Weekes | S Habib | 59 |
 | **R Beswick &#42;** | c I Miah | G Weekes | 37 |
-| **A Slight** | c | Altaf | 24 |
+| **A Slight** | c | A Asmal | 24 |
 | **H Ingham** | b | Kaz | 19 |
 | **T Carden** | b | M Elwin | 19 |
 | **A Beswick** | c Altaf | Ashish | 19 |
@@ -88,7 +88,7 @@ M Gupta's 2nd Michelle and a Hat trick and 4th 50
 |---|:---|:---|:---|:---|
 | **Maroof** | 4 | 0 | 17 | 0 |
 | **Khan** | 5 | 1 | 16 | 2 |
-| **Altaf** | 6 | 0 | 27 | 1 |
+| **A Asmal** | 6 | 0 | 27 | 1 |
 | **Kaz** | 3 | 0 | 35 | 1 |
 | **I Miah** | 4 | 0 | 13 | 0 |
 | **S Habib** | 5 | 0 | 34 | 1 |

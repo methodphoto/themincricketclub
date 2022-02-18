@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-<video src="selling.mp4" controls type="video/mp4" />
+<video src="selling.mp4" controls type="video/mp4" width="100%"></video>
 
 ## {{page.title}} Innings
 

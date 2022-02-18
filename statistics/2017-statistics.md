@@ -34,7 +34,7 @@ parent: Statistics
 | **Campbell Garland** | 2 | 1 | 15 | 15 |
 | **Kit Gallagher** | 1 | 1 | 15 | ? |
 | **Jack Stacey** | 2 | 0 | 14 | 7 |
-| **Altaf Ajmal** | 1 | 0 | 11 | 11 |
+| **A Asmal** | 1 | 0 | 11 | 11 |
 | **Edward Garland** | 3 | 0 | 11 | 3.67 |
 | **Moeen Arefin** | 2 | 0 | 9 | 4.5 |
 | **William Calvert** | 1 | 0 | 7 | 7 |
@@ -74,7 +74,7 @@ parent: Statistics
 | **Philip Beswick** | 4 | 0 | 51 | 12.75 |
 | **Ifty Muntakim** | 6 | 0 | 74 | 12.33 |
 | **Matt Griffiths** | 2 | 0 | 23 | 11.5 |
-| **Altaf Ajmal** | 1 | 0 | 11 | 11 |
+| **A Asmal** | 1 | 0 | 11 | 11 |
 | **Jim Grant** | 7 | 1 | 44 | 7.33 |
 | **William Calvert** | 1 | 0 | 7 | 7 |
 | **Jack Stacey** | 2 | 0 | 14 | 7 |
@@ -107,7 +107,7 @@ parent: Statistics
 | **Iqbal Miah** | 19 | 1 | 99 | 5 | 19.8 | 22.8 |
 | **Ian Marshall** | 35 | 8 | 136 | 5 | 27.2 | 42 |
 | **Richard Earney** | 4 | 0 | 25 | 3 | 8.33 | 8 |
-| **Altaf Ajmal** | 11 | 2 | 37 | 3 | 12.33 | 22 |
+| **A Asmal** | 11 | 2 | 37 | 3 | 12.33 | 22 |
 | **Philip Beswick** | 12 | 0 | 61 | 2 | 30.5 | 36 |
 | **Ifty Muntakim** | 22 | 1 | 110 | 2 | 55 | 66 |
 | **Edward Garland** | 6.3 | 2 | 51 | 2 | 25.5 | 18.9 |
@@ -130,7 +130,7 @@ parent: Statistics
 |:---|:---|:---|:---|:---|:---|:---|
 | **Richard Earney** | 4 | 0 | 25 | 3 | 8.33 | 8 |
 | **Siam Amin** | 19 | 3 | 73 | 6 | 12.17 | 19 |
-| **Altaf Ajmal** | 11 | 2 | 37 | 3 | 12.33 | 22 |
+| **A Asmal** | 11 | 2 | 37 | 3 | 12.33 | 22 |
 | **Shafi Islam** | 3 | 0 | 16 | 1 | 16 | 18 |
 | **Jerry Wright** | 54 | 2 | 327 | 19 | 17.21 | 17.05 |
 | **Matt Griffiths** | 4 | 1 | 18 | 1 | 18 | 24 |

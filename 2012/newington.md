@@ -5,7 +5,7 @@ game: Newington v The Min
 location: 
 date: 
 report: 
-result: 
+result: horningsham
 parent: 2012 Fixtures
 ---
 

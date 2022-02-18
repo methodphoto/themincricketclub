@@ -6,6 +6,7 @@ location: Middleton Park
 date: 22/04/2012
 report: The Min won the toss and fielded first, bowling Middleton Stoney out for 114. The Min replied with 118-1
 result: The Min won by 9 wkts
+next: elccc
 parent: 2012 Fixtures
 ---
 
