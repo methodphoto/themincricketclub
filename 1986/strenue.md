@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  | 
 | **Extras** | | (10b 1lb 3w 1nb) | **15** | 
-| **Total** | | (36 overs) | ****186 for 2 wkts**** | 
+| **Total** | | (36 overs) | **186 for 2 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | b | Wilks | 0 | 
 | **J Wright** | c | Wilks | 0 | 
 | **Extras** | | (5b 2lb 0w 0nb) | **7** | 
-| **Total** | | (34.3 overs) | ****153 all out**** | 
+| **Total** | | (34.3 overs) | **153 all out** | 
 
 ## Fall of Wickets
 

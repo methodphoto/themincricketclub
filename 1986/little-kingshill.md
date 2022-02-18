@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Lee** | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (11b 1lb 4w 2nb) | **5** | 
-| **Total** | | (40 overs) | ****177 for 4 wkts**** | 
+| **Total** | | (40 overs) | **177 for 4 wkts** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb | |  | 
 |  |  |  |  |
 | **Extras** | | (0b 7lb 0w 0nb) | **7** | 
-| **Total** | | (42 overs) | ****178 for 4 wkts**** | 
+| **Total** | | (42 overs) | **178 for 4 wkts** | 
 
 ## Fall of Wickets
 

@@ -36,7 +36,7 @@ P O'Mahony's best bowling for The Min
 | **Strange** | b | R Green | 0 |
 | **Andrew** | not out |  | 0 |
 | **Extras** | | (0b 0lb 0w 0nb) | **8** |
-| **Total** | | (25 overs) | ****65 all out**** |
+| **Total** | | (25 overs) | **65 all out** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ P O'Mahony's best bowling for The Min
 | **D Jones** | dnb |  |  |
 | **Taylor** | ;dd
 | **Extras** | | (0b 0lb 2w 0nb) | **2** |
-| **Total** | | (33.5 overs) | ****71 for 5 wkts**** |
+| **Total** | | (33.5 overs) | **71 for 5 wkts** |
 
 ## Fall of Wickets
 

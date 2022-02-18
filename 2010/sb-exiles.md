@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Boteju** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (5b 4lb 4w 0nb 0p) | **13** |
-| **Total** | | (44 overs) | ****212 for 7 wkts**** |
+| **Total** | | (44 overs) | **212 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (7b 0lb 5w 0nb 0p) | **12** |
-| **Total** | | (38 overs) | ****122 for 7 wkts**** |
+| **Total** | | (38 overs) | **122 for 7 wkts** |
 
 ## Fall of Wickets
 

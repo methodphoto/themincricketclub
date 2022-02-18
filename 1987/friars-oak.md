@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Holman** | not out |  | 11 | 
 | **Wagthorne** | not out |  | 0 |
 | **Extras** | | (4b 2lb 2w 0nb) | **8** | 
-| **Total** | | (44 overs) | ****113 for 9 wkts**** | 
+| **Total** | | (44 overs) | **113 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Sylvester** | not out |  | 20 | 
 | **J Wright** | c | Stillwell | 2 | 
 | **Extras** | | (6b 2lb 10w 0nb) | **18** | 
-| **Total** | | (36.4 overs) | ****104 all out**** | 
+| **Total** | | (36.4 overs) | **104 all out** | 
 
 ## Fall of Wickets
 

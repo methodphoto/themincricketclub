@@ -36,7 +36,7 @@ R Earney highest score and first hundred for the Min.<br />Partnership of 154 be
 | **S Smith** | dnb |  |  |
 | **J Chambers** | dnb |  |  |
 | **Extras** | | (3b 5lb 3w 0nb) | **11** |
-| **Total** | | (45.4 overs) | ****190 for 3 wkts**** |
+| **Total** | | (45.4 overs) | **190 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ R Earney highest score and first hundred for the Min.<br />Partnership of 154 be
 | **J Wright** | dnb |  |  |
 | **G Wright** | dnb |  |  |
 | **Extras** | | (3b 3lb 1w 0nb) | **7** |
-| **Total** | | (33.5 overs) | ****191 for 2 wkts**** |
+| **Total** | | (33.5 overs) | **191 for 2 wkts** |
 
 ## Fall of Wickets
 

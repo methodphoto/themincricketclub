@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Carter** | not out |  | 8 | 
 | **W Hinkley** | b | R Beswick | 0 | 
 | **Extras** | | (4b 2lb 7w 2nb) | **15** | 
-| **Total** | | (34.4 overs) | ****118 all out**** | 
+| **Total** | | (34.4 overs) | **118 all out** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (12b 0lb 1w 0nb) | **13** | 
-| **Total** | | (26.2 overs) | ****119 for 5 wkts**** | 
+| **Total** | | (26.2 overs) | **119 for 5 wkts** | 
 
 ## Fall of Wickets
 

@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb |  |  |
 | **D Young** | dnb |  |  | 
 | **Extras** | | (20b 7lb 0w 1nb) | **28** | 
-| **Total** | | (39.3 overs) | ****225 for 5 wkts**** | 
+| **Total** | | (39.3 overs) | **225 for 5 wkts** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Terry** | run out |  | 4 | 
 | **C Ball** | not out |  | 1 |
 | **Extras** | | (9b 5lb 4w 0nb) | **21** | 
-| **Total** | | (46 overs) | ****151 for 9 wkts**** | 
+| **Total** | | (46 overs) | **151 for 9 wkts** | 
 
 ## Fall of Wickets
 

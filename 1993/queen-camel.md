@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb |  |  |
 | **G Wright** | dnb |  |  |
 | **Extras** | | (4b 4lb 15w 1nb) | **24** | 
-| **Total** | | (33.5 overs) | ****118 all out**** | 
+| **Total** | | (33.5 overs) | **118 all out** | 
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wetherall** | dnb |  |  | 
 | **C Wetherall** | dnb |  |  |
 | **Extras** | | (5b 0lb 6w 0nb) | **11** | 
-| **Total** | | (46 overs) | ****1267 for 7 wkts**** | 
+| **Total** | | (46 overs) | **1267 for 7 wkts** | 
 
 ## Fall of Wickets
 

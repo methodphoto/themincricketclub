@@ -36,7 +36,7 @@ The Min regained the Ashes
 | **M Merry** | c & b | R Earney | 0 |
 | **C Knight** | dnb |  | 0 |
 | **Extras** | | (2b 4lb 5w 0nb) | **11** |
-| **Total** | | (40 overs) | ****157 for 9 wkts**** |
+| **Total** | | (40 overs) | **157 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ The Min regained the Ashes
 | **P O'Brien** | dnb |  |  |
 | **J Grant &#8224;** | dnb |  |  |
 | **Extras** | | (8b 1lb 7w 2nb) | **18** |
-| **Total** | | (32.4 overs) | ****160 for 4 wkts**** |
+| **Total** | | (32.4 overs) | **160 for 4 wkts** |
 
 ## Fall of Wickets
 

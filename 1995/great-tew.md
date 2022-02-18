@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | not out |  | 11 |
 | **J Wright** | not out |  | 4 |
 | **Extras** | | (10b 2lb 10w 0nb) | **22** |
-| **Total** | | (49.5 overs) | ****187 for 9 wkts**** |
+| **Total** | | (49.5 overs) | **187 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **Griffin** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (9b 10lb 4w 0nb) | **23** |
-| **Total** | | (41.2 overs) | ****189 for 6 wkts**** |
+| **Total** | | (41.2 overs) | **189 for 6 wkts** |
 
 ## Fall of Wickets
 

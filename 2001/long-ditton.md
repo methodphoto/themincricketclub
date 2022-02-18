@@ -35,7 +35,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Walter** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (8b 9lb 4w 2nb) | **23** |
-| **Total** | | (46 overs) | ****150 for 6 wkts**** |
+| **Total** | | (46 overs) | **150 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **N Beswick** | dnb |  |  |
 | **A Desarum** | dnb |  |  |
 | **Extras** | | (15b 1lb 1w 0nb) | **17** |
-| **Total** | | (31.5 overs) | ****151 for 1 wkt**** |
+| **Total** | | (31.5 overs) | **151 for 1 wkt** |
 
 ## Fall of Wickets
 

@@ -35,7 +35,7 @@ S Amin best bowling for The Min.
 | **S Amin** | did not bat |  |  |
 | **P Wigg** | did not bat |  |  |
 | **Extras** | | (11b 2lb 5w 3nb 0p) | **21** |
-| **Total** | | (35 overs) | ****215 for 5 wkts**** |
+| **Total** | | (35 overs) | **215 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ S Amin best bowling for The Min.
 | **M Copley** | b S Amin |  | 3 |
 | **J Carter** | b S Amin |  | 0 |
 | **Extras** | | (0b 0lb 0w 3nb 0p) | **1** |
-| **Total** | | (14.5 overs) | ****30 all out**** |
+| **Total** | | (14.5 overs) | **30 all out** |
 
 ## Fall of Wickets
 

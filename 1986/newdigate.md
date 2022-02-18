@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Greenwell** | b | J Wright | 0 | 
 | **Brooks** | b | J Wright | 0 | 
 | **Extras** | | (1b 0lb 3w 1nb) | **5** | 
-| **Total** | | (30.5 overs) | ****54 all out**** | 
+| **Total** | | (30.5 overs) | **54 all out** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Olver** | not out |  | 2 | 
 | **J Wright** | dnb |  |  | 
 | **Extras** | | (0b 0lb 0w 0nb) | **0** | 
-| **Total** | | (17.2 overs) | ****57 for 5 wkts**** | 
+| **Total** | | (17.2 overs) | **57 for 5 wkts** | 
 
 ## Fall of Wickets
 

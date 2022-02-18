@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | run out |  | 1 | 
 | **G Wright** | not out |  | 0 | 
 | **Extras** | | (4b 6lb 4w 0nb) | **14** | 
-| **Total** | | (33.5 overs) | ****225 all out**** | 
+| **Total** | | (33.5 overs) | **225 all out** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **Taylor** | c J Grant | J Wright | 15 | 
 | **Sparks** | not out |  | 4 |
 | **Extras** | | (10b 1lb 4w 1nb) | **16** | 
-| **Total** | | (46 overs) | ****127 all out**** | 
+| **Total** | | (46 overs) | **127 all out** | 
 
 ## Fall of Wickets
 

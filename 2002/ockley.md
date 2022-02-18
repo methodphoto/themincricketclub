@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Rogers** | not out |  | 0 |
 | **D Reeves** | b | P Beswick | 0 |
 | **Extras** | | (1b 0lb 5w 1nb) | **7** |
-| **Total** | | (37 overs) | ****91 for 3 wkts**** |
+| **Total** | | (37 overs) | **91 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick** | dnb |  |  |
 | **N Beswick** | dnb |  |  |
 | **Extras** | | (2b 0lb 4w 0nb) | **15** |
-| **Total** | | (26.2 overs) | ****94 for 5 wkts**** |
+| **Total** | | (26.2 overs) | **94 for 5 wkts** |
 
 ## Fall of Wickets
 

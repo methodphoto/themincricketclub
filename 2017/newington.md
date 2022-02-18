@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | not out |  | 0 |
 | **** |  |  |  |
 | **Extras** | | (7b 1lb 2w 1 nb 0p) | **11** |
-| **Total** | | (29.1 overs) | ****130 for 9 wkts (all out)**** |
+| **Total** | | (29.1 overs) | **130 for 9 wkts (all out)** |
 
 ## Bowling
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Rashid** | dnb |  |  |
 | **Asif Rashid** | dnb |  |  |
 | **Extras** | | (7b 1lb 2w 1 nb 0p) | **10** |
-| **Total** | | (26.5 overs) | ****135  for 3 wkts**** |
+| **Total** | | (26.5 overs) | **135  for 3 wkts** |
 
 ## Fall of Wickets
 

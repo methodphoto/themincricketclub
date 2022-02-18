@@ -37,7 +37,7 @@ Partnership of 113 between R Earney and S Barrowcliff.
 | **Kaufmann** | not out |  | 17 |
 | **Pryor** | dnb |  |  |
 | **Extras** | | (5b 2lb 10w 2nb 0p) | **19** |
-| **Total** | | (47 overs) | ****158 for 8 wkts**** |
+| **Total** | | (47 overs) | **158 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ Partnership of 113 between R Earney and S Barrowcliff.
 | **P Wigg** | dnb |  |  |
 | **J Wright &#42;** | dnb |  |  |
 | **Extras** | | (4b 1lb 3w 3nb 0p) | **11** |
-| **Total** | | (29.3 overs) | ****159 for 4 wkts**** |
+| **Total** | | (29.3 overs) | **159 for 4 wkts** |
 
 
 ## Fall of Wickets

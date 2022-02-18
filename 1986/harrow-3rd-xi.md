@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Young** | not out |  | 7 | 
 | **J Wright** | dnb |  |  | 
 | **Extras** | | (14b 10lb 6w 1nb) | **31** | 
-| **Total** | | (46 overs) | ****182 for 8 wkts**** | 
+| **Total** | | (46 overs) | **182 for 8 wkts** | 
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **Bunyan** | not out |  | 10 | 
 | **O'Sullivan** | not out | | 0 | 
 | **Extras** | | (11b 4lb 4w 0nb) | **19** | 
-| **Total** | | (41 overs) | ****143 for 9 wkts**** | 
+| **Total** | | (41 overs) | **143 for 9 wkts** | 
 
 ## Fall of Wickets
 

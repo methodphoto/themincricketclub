@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Jarrold** | not out |  | 13 | 
 | **J Graham** | not out | | 0 | 
 | **Extras** | | (7b 2lb 12w 0nb) | **21** | 
-| **Total** | | (35 overs) | ****170 for 9 wkts**** | 
+| **Total** | | (35 overs) | **170 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | dnb |  |  | 
 | **C Wright** | dnb |  |  | 
 | **Extras** | | (1b 0lb 2w 0nb) | **3** | 
-| **Total** | | (33.1 overs) | ****172 for 7 wkts**** | 
+| **Total** | | (33.1 overs) | **172 for 7 wkts** | 
 
 ## Fall of Wickets
 

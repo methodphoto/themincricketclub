@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Powell** | b | J Gower | 2 |
 | **J Wright** | not out |  | 5 |
 | **Extras** | | (13b 1lb 7w 8nb) | **29** |
-| **Total** | | (29.2 overs) | ****113 all out**** |
+| **Total** | | (29.2 overs) | **113 all out** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Loveard** | dnb |  |  |
 | **V Campbell** | dnb |  |  |
 | **Extras** | | (2b 0lb 1w 0nb) | **3** |
-| **Total** | | (27.2 overs) | ****114 for 6 wkts**** |
+| **Total** | | (27.2 overs) | **114 for 6 wkts** |
 
 ## Fall of Wickets
 

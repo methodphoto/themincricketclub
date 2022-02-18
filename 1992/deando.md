@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | b | Rainford | 13 | 
 | **R Olver** | not out |  | 17 | 
 | **Extras** | | (8b 6lb 3w 0nb) | **17** | 
-| **Total** | | (44 overs) | ****163 all out**** | 
+| **Total** | | (44 overs) | **163 all out** | 
 
 ## Fall of Wickets
 

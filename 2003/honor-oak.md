@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Martin** | dnb |  |  |
 | **J Littely** | dnb |  |  |
 | **Extras** | | (5b 3lb 5w 0nb) | **13** |
-| **Total** | | (42.5 overs) | ****188 for 7 wkts**** |
+| **Total** | | (42.5 overs) | **188 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Powell** | not out |  | 0 |
 | **E Garland** | not out |  | 6 |
 | **Extras** | | (11b 3lb 11w 6nb) | **31** |
-| **Total** | | (35 overs) | ****130 for 9 wkts**** |
+| **Total** | | (35 overs) | **130 for 9 wkts** |
 
 ## Fall of Wickets
 

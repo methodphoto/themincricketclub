@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **11** |
-| **Total** | | (25.1 overs) | ****64 for 5 wkts**** |
+| **Total** | | (25.1 overs) | **64 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Powell** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) |  |
-| **Total** | | (0 overs) | ******** |
+| **Total** | | (0 overs) | **** |
 
 ## Fall of Wickets
 

@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Ibrahim** | c A Asmal | A Slight | 0 |
 | **W Khan** | run out |  | 9 |
 | **Extras** | | (1b 1lb 12w 0nb 0p) | **14** |
-| **Total** | | (38 overs) | ****147 all out**** |
+| **Total** | | (38 overs) | **147 all out** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | b | Y Ghayas | 0 |
 | **J Grant &#8224;** | not out |  | 2 |
 | **Extras** | | (3b 1lb 13w 5nb 0p) | **22** |
-| **Total** | | (40 overs) | ****144 for 9 wkts**** |
+| **Total** | | (40 overs) | **144 for 9 wkts** |
 
 ## Fall of Wickets
 

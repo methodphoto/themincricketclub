@@ -37,7 +37,7 @@ Partnership of 108 between E Garland and P Bentley
 | **G Lambert** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (2b 3lb 1w 0nb) | **6** |
-| **Total** | | (47 overs) | ****191 for 8 wkts**** |
+| **Total** | | (47 overs) | **191 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Partnership of 108 between E Garland and P Bentley
 | **J Stimfig &#8224;** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (6b 6lb 6w 4nb) | **22** |
-| **Total** | | (33.5 overs) | ****193 for 5 wkts**** |
+| **Total** | | (33.5 overs) | **193 for 5 wkts** |
 
 ## Fall of Wickets
 

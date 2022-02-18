@@ -40,7 +40,7 @@ Partnership of 135 between R Earney and R Beswick
 | **G Powell** | not out |  | 4 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (10b 3lb 6w 1nb 0p) | **20** |
-| **Total** | | (40 overs) | ****223 for 10 wkts**** |
+| **Total** | | (40 overs) | **223 for 10 wkts** |
 
 ## Fall of Wickets
 
@@ -77,7 +77,7 @@ Partnership of 135 between R Earney and R Beswick
 | **A Wilshire** | not out |  | 1 |
 | **I MacHattie** | not out |  | 0 |
 | **Extras** | | (5b 0lb 5w 2nb 0p) | **12** |
-| **Total** | | (40 overs) | ****188 for 10 wkts**** |
+| **Total** | | (40 overs) | **188 for 10 wkts** |
 
 ## Fall of Wickets
 

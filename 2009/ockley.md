@@ -52,7 +52,7 @@ M Gupta's 2nd 50. R Earney'5 5th Michelle
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (5b 1lb 8w 2nb 0p) | **16** |
-| **Total** | | (40 overs) | ****175 for 6 wkts**** | 
+| **Total** | | (40 overs) | **175 for 6 wkts** | 
 
 ## Fall of Wickets
 
@@ -88,7 +88,7 @@ M Gupta's 2nd 50. R Earney'5 5th Michelle
 | **J Bulbeck** | c J Grant | R Beswick | 0 |
 | **L Figg** | dnb |  |  |
 | **Extras** | | (5b 6lb 0w 0nb 0p) | **11** |
-| **Total** | | (39 overs) | ****93 for 9 wkts**** |
+| **Total** | | (39 overs) | **93 for 9 wkts** |
 
 ## Fall of Wickets
 

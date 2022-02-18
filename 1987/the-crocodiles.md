@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Olver** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
 | **Extras** | | (5b 0lb 6w 1nb) | **12** | 
-| **Total** | | (35 overs) | ****206 for 7 wkts**** | 
+| **Total** | | (35 overs) | **206 for 7 wkts** | 
  
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Cooper** | not out |  | 20 |
 | **Bickford** | dnb |  |  | 
 | **Extras** | | (20b 0lb 10w 2nb) | **12** | 
-| **Total** | | (38 overs) | ****115 for 8 wkts**** | 
+| **Total** | | (38 overs) | **115 for 8 wkts** | 
 
 ## Fall of Wickets
 

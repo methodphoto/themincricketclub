@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Carden** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (7b 3lb 2w 2nb 0p) | **14** |
-| **Total** | | (33.5 overs) | ****135 for 7 wkts**** |
+| **Total** | | (33.5 overs) | **135 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **Otter** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **6** |
-| **Total** | | (27 overs) | ****102 for 6 wkts**** |
+| **Total** | | (27 overs) | **102 for 6 wkts** |
 
 ## Fall of Wickets
 

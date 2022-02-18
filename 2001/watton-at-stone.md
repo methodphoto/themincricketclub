@@ -35,7 +35,7 @@ Played at {{page.location}} on {{page.date}}
 | **B Welch** | dnb |  |  |
 | **R Clayton** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **15** |
-| **Total** | | (49 overs) | ****157 for 7 wkts**** |
+| **Total** | | (49 overs) | **157 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Haslam** | not out |  | 0 |
 | **M Hallam** | not out |  | 4 |
 | **Extras** | | (9b 2lb 4w 0nb) | **15** |
-| **Total** | | (46 overs) | ****121 for 9 wkts**** |
+| **Total** | | (46 overs) | **121 for 9 wkts** |
 
 ## Fall of Wickets
 

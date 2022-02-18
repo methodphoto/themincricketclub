@@ -36,7 +36,7 @@ R Earney best bowling
 | **J Wright** | st | Hudson | 0 |
 |  |  |  |  |
 | **Extras** | | (7b 1lb 1w 2nb) | **11** |
-| **Total** | | (46.3 overs) | ****173 for 9 wkts (all out)**** |
+| **Total** | | (46.3 overs) | **173 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ R Earney best bowling
 | **Steed** | not out |  | 2 |
 |  |  |  |  |
 | **Extras** | | (6b 2lb 3w 0nb) | **11** |
-| **Total** | | (46 overs) | ****174 for 8 wkts**** |
+| **Total** | | (46 overs) | **174 for 8 wkts** |
 
 ## Fall of Wickets
 

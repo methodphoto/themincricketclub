@@ -35,7 +35,7 @@ Played at {{page.location}} on {{page.date}}
 | **P O'Brien** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (13b 2lb 3w 6nb) | **24** |
-| **Total** | | (43 overs) | ****196 for 7 wkts**** |
+| **Total** | | (43 overs) | **196 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **N Pye** | b | R Earney | 0 |
 | **Moore** | absent |  |  |
 | **Extras** | | (7b 2lb 7w 2nb) | **18** |
-| **Total** | | (35 overs) | ****115 for 9 wkts (all out)**** |
+| **Total** | | (35 overs) | **115 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 

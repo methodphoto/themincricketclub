@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (3b 3lb 3w 1nb) | **10** |
-| **Total** | | (40.3 overs) | ****254 for 7 wkts (all out)**** |
+| **Total** | | (40.3 overs) | **254 for 7 wkts (all out)** |
 
 ## Fall of Wickets
 

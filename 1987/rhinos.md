@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Stager** | b | R Beswick | 6 | 
 | **Williams** | not out |  | 0 |
 | **Extras** | | (1b 4lb 2w 2nb) | **9** | 
-| **Total** | | (44.3 overs) | ****142 all out**** | 
+| **Total** | | (44.3 overs) | **142 all out** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb |  |  | 
 |  |  |  |  | 
 | **Extras** | | (9b 7lb 0w 0nb) | **16** | 
-| **Total** | | (30.4 overs) | ****143 for 5 wkts**** | 
+| **Total** | | (30.4 overs) | **143 for 5 wkts** | 
 
 ## Fall of Wickets
 

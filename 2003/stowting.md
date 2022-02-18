@@ -38,7 +38,7 @@ J Wright, 3rd 5 wkt haul
 | **G Powell** | run out |  | 1 |
 | **J Wright** | not out |  | 0 |
 | **Extras** | | (7b 6lb 5w 0nb) | **18** |
-| **Total** | | (47 overs) | ****191 for 9 wkts**** |
+| **Total** | | (47 overs) | **191 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -74,7 +74,7 @@ J Wright, 3rd 5 wkt haul
 | **S Jackson** | not out |  | 1 |
 | **M Jackson** | dnb |  |  |
 | **Extras** | | (5b 7lb 4w 1nb) | **17** |
-| **Total** | | (43 overs) | ****136 for 8 wkts**** |
+| **Total** | | (43 overs) | **136 for 8 wkts** |
 
 ## Fall of Wickets
 

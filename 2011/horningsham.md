@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | b | J Oborne | 8 |
 | **A Slight** | run out |  | 0 |
 | **Extras** | | (9b 6lb 8w 1nb 0p) | **24** |
-| **Total** | | (42.2 overs) | ****166 all out**** |
+| **Total** | | (42.2 overs) | **166 all out** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **F Gunning** | not out |  | 4 |
 | **B Burgoyne** | not out |  | 0 |
 | **Extras** | | (0b 0lb 0w 0nb) | **19** |
-| **Total** | | (42 overs) | ****113 for 9 wkts**** |
+| **Total** | | (42 overs) | **113 for 9 wkts** |
 
 ## Fall of Wickets
 

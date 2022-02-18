@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **John** | not out |  | 8 | 
 | **Luke** | c | J Wright | 4 | 
 | **Extras** | | (1b 0lb 1w 0nb) | **2** | 
-| **Total** | | (20.5 overs) | ****161 all out**** | 
+| **Total** | | (20.5 overs) | **161 all out** | 
 
 ## Fall of Wickets
 

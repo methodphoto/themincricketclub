@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Masterson** | c Cunningham | Monteith | 4 |
 | **P O'Mahony** | b | Monteith | 0 |
 | **Extras** | | (9b 2lb 4w 0nb) | **15** |
-| **Total** | | (33.5 overs) | ****118 all out**** |
+| **Total** | | (33.5 overs) | **118 all out** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **Wallis** | not out |  | 12 |
 | **Monteith** | not out |  | 4 |
 | **Extras** | | (9b 2lb 4w 2nb) | **17** |
-| **Total** | | (38.5 overs) | ****139 for 9 wkts**** |
+| **Total** | | (38.5 overs) | **139 for 9 wkts** |
 
 ## Fall of Wickets
 

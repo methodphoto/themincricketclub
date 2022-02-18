@@ -32,7 +32,7 @@ Played at {{page.location}} on {{page.date}}
 | **Sellcombe** | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **24** | 
-| **Total** | | (28 overs) | ****154 for 5 wkts**** | 
+| **Total** | | (28 overs) | **154 for 5 wkts** | 
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **P Whelans** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **16** | 
-| **Total** | | (30.1 overs) | ****158 for 5 wkts**** | 
+| **Total** | | (30.1 overs) | **158 for 5 wkts** | 
 
 ## Fall of Wickets
 

@@ -35,7 +35,7 @@ R Simpson 100 off 46 balls
 | **P. Van de Kerkoff** | lbw | J Wright | 0 |
 | **S Lee &#42;** | not out |  | 1 |
 | **Extras** | | (1b,1lb,1w,0nb,0p) | **3** |
-| **Total** | | (34 overs) | ****223 all out**** |
+| **Total** | | (34 overs) | **223 all out** |
 
 
 ## Fall of Wickets
@@ -73,7 +73,7 @@ R Simpson 100 off 46 balls
 | **S Amin** | b | S Pettit | 7 |
 | **J Wright** | not out |  | 0 |
 | **Extras** | | (5b,10lb,5w,0nb,0p) | **20** |
-| **Total** | | (42.3 overs) | ****180 all out**** |
+| **Total** | | (42.3 overs) | **180 all out** |
 
 ## Fall of Wickets
 

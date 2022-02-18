@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Newell** | dnb |  |  |
 | **C Perry** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **22** |
-| **Total** | | (42 overs) | ****195 for 6 wkts**** |
+| **Total** | | (42 overs) | **195 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **E Garland** | dnb |  |  |
 | **G Wright** | dnb |  |  |
 | **Extras** | | (2b 4lb 6w 2nb) | **14** |
-| **Total** | | (40.2 overs) | ****198 for 7 wkts**** |
+| **Total** | | (40.2 overs) | **198 for 7 wkts** |
 
 ## Fall of Wickets
 

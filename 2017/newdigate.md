@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **Ruben** | dnb |  |  |
 | **Monjur** | dnb |  |  |
 | **Extras** | | (1b 4lb 5w 1nb 0p) | **11** |
-| **Total** | | (33 overs) | ****196 for 7 wkts**** |
+| **Total** | | (33 overs) | **196 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | not out |  | 0 |
 | **** |  |  |  |
 | **Extras** | | (1b 4lb 5w 1nb 0p) | **11** |
-| **Total** | | (44 overs) | ****175 for 8 wkts**** |
+| **Total** | | (44 overs) | **175 for 8 wkts** |
 
 ## Fall of Wickets
 

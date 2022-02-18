@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Shaik** | b | J Wright | 3 |
 | **David** | not out |  | 1 |
 | **Extras** | | (1b 0lb 16w 1nb 0p) | **18** |
-| **Total** | | (35 overs) | ****137 all out**** |
+| **Total** | | (35 overs) | **137 all out** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **K Courtney-Taylor** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 0lb 5w 1nb 0p) | **6** |
-| **Total** | | (27.1 overs) | ****45 for 8 wkts (all out)**** |
+| **Total** | | (27.1 overs) | **45 for 8 wkts (all out)** |
 
 ## Fall of Wickets
 

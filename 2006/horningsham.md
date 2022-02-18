@@ -40,7 +40,7 @@ R Earney's 33rd 50. R Beswick's 20th 50. P O'Mahony 45 off 18 balls for his high
 | **P O'Mahony** | not out |  | 45 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (8b 4lb 10w 0nb 0p) | **22** |
-| **Total** | | (40 overs) | ****232 for 8 wkts**** |
+| **Total** | | (40 overs) | **232 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -75,7 +75,7 @@ R Earney's 33rd 50. R Beswick's 20th 50. P O'Mahony 45 off 18 balls for his high
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb 0p) | **16** |
-| **Total** | | (39 overs) | ****214 for 3 wkts**** |
+| **Total** | | (39 overs) | **214 for 3 wkts** |
 
 ## Fall of Wickets
 

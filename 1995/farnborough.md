@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **Socket** | b | I Marshall | 0 |
 | **Roberts** | b | I Marshall | 4 |
 | **Extras** | | (1b 1lb 5w 0nb) | **7** |
-| **Total** | | (43.3 overs) | ****155 all out**** |
+| **Total** | | (43.3 overs) | **155 all out** |
 
 ## Fall of Wickets
 
@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **I Marshall** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (2b 4lb 3w 1nb) | **10** |
-| **Total** | | (30.3 overs) | ****156 for 6 wkts**** |
+| **Total** | | (30.3 overs) | **156 for 6 wkts** |
 
 ## Fall of Wickets
 

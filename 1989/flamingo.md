@@ -33,7 +33,7 @@ Played at {{page.location}} on {{page.date}}
 | **A  Garthwaite** | b | R Burgess | 0 | 
 |  |  |  |  | 
 | **Extras** | | (1b 4lb 2w 0nb) | **7** | 
-| **Total** | | (36.3 overs) | ****128 for 9 wkts (all out)**** | 
+| **Total** | | (36.3 overs) | **128 for 9 wkts (all out)** | 
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Played at {{page.location}} on {{page.date}}
 | **B Hopewell** | b | I Marshall | 5 | 
 | **R Burgess** | not out |  | 1 |
 | **Extras** | | (6b 0lb 3w 1nb) | **10** | 
-| **Total** | | (46 overs) | ****134 for 9 wkts**** | 
+| **Total** | | (46 overs) | **134 for 9 wkts** | 
 
 ## Fall of Wickets
 

@@ -36,7 +36,7 @@ R Earney, 5th Century
 | **E Garland** | dnb |  |  |
 | **G Powell** | dnb |  |  |
 | **Extras** | | (19b 1lb 9w 0nb) | **29** |
-| **Total** | | (35 overs) | ****204 for 5 wkts**** |
+| **Total** | | (35 overs) | **204 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ R Earney, 5th Century
 | **N Beswick** | lbw | G Powell | 4 |
 |  |  |  |  |
 | **Extras** | | (8b 3lb 1w 0nb) | **12** |
-| **Total** | | (31.3 overs) | ****112 all out**** |
+| **Total** | | (31.3 overs) | **112 all out** |
 
 ## Fall of Wickets
 

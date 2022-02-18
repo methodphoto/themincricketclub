@@ -35,7 +35,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | lbw | M Dipple | 5 | 
 | **J Grant &#8224;** | not out |  | 0 | 
 | **Extras** | | (2b 3lb 3w 4nb) | **12** | 
-| **Total** | | (41 overs) | ****172 for 9 wkts**** | 
+| **Total** | | (41 overs) | **172 for 9 wkts** | 
 
 ## Fall of Wickets
 
@@ -71,7 +71,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Morris &#8224;** | dnb |  |  | 
 | **M Dipple** | dnb | |  | 
 | **Extras** | | (3b 2lb 4w 1nb) | **10** | 
-| **Total** | | (37.2 overs) | ****177 for 4 wkts**** | 
+| **Total** | | (37.2 overs) | **177 for 4 wkts** | 
 
 
 ## Fall of Wickets

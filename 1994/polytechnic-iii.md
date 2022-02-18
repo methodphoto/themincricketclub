@@ -37,7 +37,7 @@ R Earney and R Beswick partnership of 131
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **25** |
-| **Total** | | (51 overs) | ****169 for 7 wkts**** |
+| **Total** | | (51 overs) | **169 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ R Earney and R Beswick partnership of 131
 | **A Gordon** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (4b 1lb 12w 0nb) | **17** |
-| **Total** | | (38.4 overs) | ****173 for 3 wkts**** |
+| **Total** | | (38.4 overs) | **173 for 3 wkts** |
 
 ## Fall of Wickets
 

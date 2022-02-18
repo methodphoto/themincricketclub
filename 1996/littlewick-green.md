@@ -37,7 +37,7 @@ Partnership of 102 between J Hylton and R Beswick
 | **J Wright** | not out |  | 5 |
 | **I Marshall** | b | Cox | 3 |
 | **Extras** | | (8b 5lb 3w 1nb) | **17** |
-| **Total** | | (40 overs) | ****201 all out**** |
+| **Total** | | (40 overs) | **201 all out** |
 
 ## Fall of Wickets
 
@@ -73,7 +73,7 @@ Partnership of 102 between J Hylton and R Beswick
 | **Cox** | not out |  | 0 |
 | **Vaughan** | dnb |  |  |
 | **Extras** | | (3b 7lb 2w 0nb) | **12** |
-| **Total** | | (43 overs) | ****140 for 8 wkts**** |
+| **Total** | | (43 overs) | **140 for 8 wkts** |
 
 ## Fall of Wickets
 

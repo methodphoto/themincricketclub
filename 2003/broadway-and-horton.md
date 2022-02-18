@@ -36,7 +36,7 @@ Broadway and Horton regained the Ashes
 | **M Miller** | dnb |  |  |
 | **C Knight** | dnb |  |  |
 | **Extras** | | (3b 8lb 4w 0nb) | **15** |
-| **Total** | | (40 overs) | ****204 for 7 wkts**** |
+| **Total** | | (40 overs) | **204 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -72,7 +72,7 @@ Broadway and Horton regained the Ashes
 | **G Powell** | c R Young | C Knight | 1 |
 | **J Wright** | c R Young | J Pike | 14 |
 | **Extras** | | (10b 2lb 7w 0nb) | **19** |
-| **Total** | | (37.4 overs) | ****183 all out**** |
+| **Total** | | (37.4 overs) | **183 all out** |
 
 ## Fall of Wickets
 

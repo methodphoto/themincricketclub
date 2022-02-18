@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Wright** | b | Gleeson | 0 | 
 |  |  |  |  | 
 | **Extras** | | (0b 0lb 0w 0nb) | **12** | 
-| **Total** | | (33.5 overs) | ****128 for 9 (all out)**** | 
+| **Total** | | (33.5 overs) | **128 for 9 (all out)** | 
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **Wallace** | c I Marshall | P Grant | 1 | 
 | **Stubbs** | b | P Grant | 8 |
 | **Extras** | | (0b 0lb 0w 0nb) | **15** | 
-| **Total** | | (30 overs) | ****88 all out**** | 
+| **Total** | | (30 overs) | **88 all out** | 
 
 ## Fall of Wickets
 

@@ -34,7 +34,7 @@ Played at {{page.location}} on {{page.date}}
 | **G Knight** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (6b 4lb 13w 0nb) | **23** |
-| **Total** | | (40 overs) | ****148 for 7 wkts**** |
+| **Total** | | (40 overs) | **148 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -69,7 +69,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Wright** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 00nb) | **0** |
-| **Total** | | (3 overs) | ****12 for 0 wkts**** |
+| **Total** | | (3 overs) | **12 for 0 wkts** |
 
 ## Fall of Wickets
 
