@@ -166,7 +166,7 @@ parent: Results
 | 21/08/2011 | [Clapton & Oval](../2011/clapton-and-oval) | Lost |
 | 04/09/2011 | [SB Exiles](../2011/sb-exiles) | **Won** |
 | 11/09/2011 | [Reigate Pilgrims](../2011/reigate-pilgrims) | Lost |
-| {date} | [Selling](../2011/selling) | Drawn |
+| 18/09/2011 | [Selling](../2011/selling) | Drawn |
 
 | 2010 |  |  |
 |:---|:---|:---|
