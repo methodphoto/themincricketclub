@@ -70,7 +70,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Carden** | dnb |  |  |
 | **J Wright &#42;** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **0** |
-| **Total** | | (0 overs) | **** |
+| **Total** | | (0 overs) | **0** |
 
 ## Fall of Wickets
 
