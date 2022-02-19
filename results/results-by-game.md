@@ -148,7 +148,7 @@ parent: Results
 | 02/09/2012 | [Wonersh](../2012/wonersh) | **Won** |
 | 09/09/2012 | [Brasted Invicta](../2012/brasted-invicta) | **Won** |
 | 16/09/2012 | [Reigate Pilgrims](../2012/reigate-pilgrims) | Drawn |
-| {date} | [Stoke D’Aberdon](../2012/stoke-dabernon) | Lost |
+| 30/09/2012 | [Stoke D’Aberdon](../2012/stoke-dabernon) | Lost |
 
 | 2011 |  |  |
 |:---|:---|:---|
