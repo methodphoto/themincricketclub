@@ -23,13 +23,13 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|---|---:|
 | **A Cooke** | b | S Masterson  | 5 |
 | **A Bond** | b | P Wigg | 1 |
-| **J Earl** | c E Ingham | S  | 15 |
-| **A Page** | c W Calvert | S  | 4 |
+| **J Earl** | c E Ingham | S Masterson | 15 |
+| **A Page** | c W Calvert | S Masterson | 4 |
 | **P Adamson** | b | R Earney | 31 |
 | **W Thomson** | c W Calvert | R Beswick | 34 |
 | **R Thomson** | b | R Beswick | 1 |
 | **A Curran** | b | R Earney | 5 |
-| **J Ward** | not out | 26 |
+| **J Ward** | not out |  | 26 |
 | **R Prytherch** | c S Masterson | M Gardiner | 10 |
 | **R Coleman &#42;** | c E Ingham | R Beswick | 3 |
 | **Extras** | | (11b 3lb 5w 9nb 0p) | **28** |
@@ -67,8 +67,8 @@ Played at {{page.location}} on {{page.date}}
 | **E Ingham** | b | J Earl | 13 |
 | **S Masterson** | c A Bond | R Thomson | 12 |
 | **P Wigg** | c | A Cooke | 5 |
-| **D Brookfield** | not out | 3 |
-| **H Earney** | run out | 0 |
+| **D Brookfield** | not out |  | 3 |
+| **H Earney** | run out |  | 0 |
 | **Extras** | | (4b 1lb 15w 0nb 0p) | **20** |
 | **Total** | | (38.2 overs) | **136 all out** |
 
