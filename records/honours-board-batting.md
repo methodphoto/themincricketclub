@@ -92,6 +92,7 @@ parent: Records
 | **2013** | Ray Damaze | v [The Nightwatchmen CC](../2013/the-nightwatchmen-cc) | **52&#42;** |
 | **2013** | Stephen Hornsby | v [Britwell Salome](../2013/britwell-salome) | **100&#42;** |
 | **2013** | Richard Beswick | v [Britwell Salome](../2013/britwell-salome) | **50** |
+| **2012** | Tom Rutherford | v [Brasted Invicta](../2012/brasted-invicta) | **61** |
 | **2012** | Richard Earney | v [Newington](../2012/newington) | **89&#42;** |
 | **2012** | Richard Earney | v [Middleton Stoney](../2012/middleton-stoney) | **65&#42;** |
 | **2011** | Ray Damaje | v [SB Exiles](../2011/sb-exiles) | **74** |
