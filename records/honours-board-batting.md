@@ -319,7 +319,7 @@ parent: Records
 | **1985** | William Calvert | v [Logica](../1985/logica) | **59** |
 | **1985** | Jim Grant | v [Koh-i-Noor](../1985/koh-i-noor) | **73** |
 | **1985** | Mark Kirwan | v [Lobsters](../1985/lobsters) | **63** |
-| **1985** | Andrew Gallagher | v [Artioans](../1985/artioans) | **85** |
+| **1985** | Andrew Gallagher | v [Artisans](../1985/artisans) | **85** |
 | **1984** | Pip Clothier | v [Harrowdene](../1984/harrowdene) | **53** |
 | **1984** | Eddie Bishop | v [Greenford](../1984/greenford) | **61** |
 | **1984** | Jim Grant | v [Logica](../1984/logica) | **65** |

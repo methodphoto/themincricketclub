@@ -18,6 +18,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+A Gallagher's 5th 50
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |

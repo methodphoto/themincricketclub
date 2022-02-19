@@ -18,6 +18,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+A Gallagher's 4th 50
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

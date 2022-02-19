@@ -18,7 +18,9 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Oracle Innings
+A Gallagher's 7th 50
+
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -56,7 +58,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Gallagher** | 3 | 0 | 19 | 1 |
 | **S Sagar** | 1.4 | 0 | 12 | 2 |
 
-## {{page.title}} Innings
+## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
