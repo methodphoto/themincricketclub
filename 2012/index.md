@@ -41,12 +41,12 @@ parent: 2010s
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 5th | 14:00 | [Tower of Dudes](tower-of-dudes) | [NW11 7LE](https://goo.gl/maps/LA1YeshyKK3zEZQq7) |
+| 5th | 14:00 | [Tower of Dudes](tower-of-dudes) | [Away](https://goo.gl/maps/bJBBs4BCRViuS5WWA) |
 
 | September |  |  |  |
 |:---|:---|:---|:---|
 | 2nd | 14:00 | [Wonersh](wonersh) | [Away](https://goo.gl/maps/CyANaeGNBaq4dTzV7) |
-| 9th | 13:00 | [Brasted Invicta](brasted-invicta) | [Away]() |
+| 9th | 13:00 | [Brasted Invicta](brasted-invicta) | [Away](https://goo.gl/maps/TCZEGXs1DyBLERno9) |
 | 16th | 13:30 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 | 23rd | 13:00 | <del>Selling</del> | [Away](https://goo.gl/maps/pV2tb26PncWLNiBm9) |
 | 30th | 12:30 | [Stoke D’Abernon](stoke-dabernon) | [Away](https://goo.gl/maps/TZ6dc1jPisurqYf49) |

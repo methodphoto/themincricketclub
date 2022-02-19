@@ -139,15 +139,15 @@ parent: Results
 
 | 2012 |  |  |
 |:---|:---|:---|
-| {date} | [Middleton Stoney](../2012/middleton-stoney) | **Won** |
-| {date} | [ELCCC](../2012/elccc) | Lost |
-| {date} | [Newington](../2012/newington) | **Won** |
-| {date} | [Horningsham](../2012/horningsham) | Lost |
-| {date} | [Newdigate](../2012/newdigate) | Lost |
-| {date} | [Tower of Dudes](../2012/tower-of-dudes) | **Won** |
-| {date} | [Wonersh](../2012/wonersh) | **Won** |
-| {date} | [Brasted Invicta](../2012/brasted-invicta) | **Won** |
-| {date} | [Reigate Pilgrims](../2012/reigate-pilgrims) | Drawn |
+| 22/04/2012 | [Middleton Stoney](../2012/middleton-stoney) | **Won** |
+| 13/05/2012 | [ELCCC](../2012/elccc) | Lost |
+| 20/05/2012 | [Newington](../2012/newington) | **Won** |
+| 15/07/2012 | [Horningsham](../2012/horningsham) | Lost |
+| 22/07/2012 | [Newdigate](../2012/newdigate) | Lost |
+| 05/08/2012 | [Tower of Dudes](../2012/tower-of-dudes) | **Won** |
+| 02/09/2012 | [Wonersh](../2012/wonersh) | **Won** |
+| 09/09/2012 | [Brasted Invicta](../2012/brasted-invicta) | **Won** |
+| 16/09/2012 | [Reigate Pilgrims](../2012/reigate-pilgrims) | Drawn |
 | {date} | [Stoke D’Aberdon](../2012/stoke-dabernon) | Lost |
 
 | 2011 |  |  |
