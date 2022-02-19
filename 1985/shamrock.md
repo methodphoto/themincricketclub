@@ -43,7 +43,6 @@ Played at {{page.location}} on {{page.date}}
 | **Score** | 16 | 16 | 33 | 41 | 46 | 46 | 47 | 53 | 53 | 53 | 
 | **Batsman** | 1 | 3 | 4 | 2 | 6 | 7 | 8 | 5 | 10 | 11 | 
 
-
 ## Bowling
 
 | | O | M | R | W |
@@ -53,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **Cole** | 4 | 2 | 9 | 2 | 
 | **Chase** | 1.5 | 0 | 3 | 4 | 
  
-## Shamrock Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -77,7 +76,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 10 |  |  |  |  |  |  |  |  |  |
 | **Batsman** | 1 |  |  |  |  |  |  |  |  |  |
-
 
 ## Bowling
 

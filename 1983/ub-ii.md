@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## UB II Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -42,7 +42,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 8 | 16 | 47 | 66 | 106 | | | | | | 
 | **Batsman** | 2 | 3 | 4 | 1 | 6 | | | | | | 
-
 
 ## Bowling
 
@@ -78,7 +77,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 11 | 16 | 84 | 92 | 99 | 99 | 106 | 113 | 142 | |
 | **Batsman** | 2 | 3 | 4 | 1 | 5 | 6 | 8 | 9 | 10 | | 
-
 
 ## Bowling
 

@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **Crisp** | 11 | 1 | 43 | 2 |
 | **Griffin** | 8.5 | 0 | 36 | 1 |
 
-## Great Tew Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

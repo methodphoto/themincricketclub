@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## A Good Length Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -42,7 +42,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 13 | 35 | 49 | 50 | 54 | 62 | 67 | 79 | 80 | 81 | 
 | **Batsman** | 2 | 1 | 4 | 3 | 5 | 7 | 6 | 9 | 8 | 10 | 
-
 
 ## Bowling
 
@@ -78,7 +77,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 2 | 22 | 26 | 28 | | | | | | | 
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 7 | 8 | 9 | 5 | | 
-
 
 ## Bowling
 

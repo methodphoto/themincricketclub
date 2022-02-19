@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Hendon-Edgware Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -42,7 +42,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 3 | 3 | 18 | 29 | 30 | 35 | 45 | 45 | 59 | 62 | 
 | **Batsman** | 2 | 3 | 1 | 5 | 6 | 8 | 9 | 4 | 10 | 11 | 
-
 
 ## Bowling
 
@@ -81,7 +80,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 12 | 34 |  |  |  |  |  |  | | | 
 | **Batsman** | 2 | 1 |  |  |  |  |  |  |  | | 
-
 
 ## Bowling
 

@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Hilton** | 6 | 0 | 26 | 1 |
 | **M Harding** | 2 | 0 | 9 | 1 |
 
-## Liphook Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

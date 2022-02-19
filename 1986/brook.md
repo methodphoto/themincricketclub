@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 E Garland: Best bowling
  
-## Brook Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -44,7 +44,6 @@ E Garland: Best bowling
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 61 | 62 | 76 | 76 | 90 | 91 | 97 | 101 | 106 | 123 | 
 | **Batsman** | 2 | 3 | 4 | 1 | 5 | 7 | 8 | 9 | 10 | 6 | 
-
 
 ## Bowling
 
@@ -80,7 +79,6 @@ E Garland: Best bowling
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 13 | 15 | 48 | 84 | 120 |  |  | | | 
 | **Batsman** | 2 | 1 | 4 | 5 | 6 | 7 |  |  |  |  | 
-
 
 ## Bowling
 

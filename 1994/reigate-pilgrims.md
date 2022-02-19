@@ -55,7 +55,7 @@ R Earney best bowling
 | **Cheetham** | 2 | 0 | 21 | 0 |
 | **Hudson** | 9.3 | 0 | 27 | 4 |
 
-## Reigate Pilgrims Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

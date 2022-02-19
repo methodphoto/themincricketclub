@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 Andrew Gallagher and Phill Goult: 100 partnership
  
-## West Wickham Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -80,7 +80,6 @@ Andrew Gallagher and Phill Goult: 100 partnership
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 23 | **139** | 139 | 146 | 147 | 160 | 162 |  | | | 
 | **Batsman** | 2 | 1 | 3 | 5 | 6 | 7 | 4 | 9 |  | | 
-
 
 ## Bowling
 

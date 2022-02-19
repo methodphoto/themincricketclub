@@ -43,7 +43,6 @@ Played at {{page.location}} on {{page.date}}
 | **Score** | 21 | 42 | 96 | 109 | 141 | 154 | 165 |  |  |  | 
 | **Batsman** | 1 | 1 | 4 | 5 | 2 | 7 | 8 | 6 |  |  | 
 
-
 ## Bowling
 
 | | O | M | R | W |
@@ -55,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **O'Sullivan** | 3 | 0 | 17 | 0 |
 
  
-## Harrow 3rd XI Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

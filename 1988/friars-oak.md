@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **Smeed** | 5 | 0 | 31 | 0 |
 | **Clark** | 1.4 | 1 | 0 | 2 | 
 
-## Friar's Oak Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

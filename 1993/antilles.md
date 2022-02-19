@@ -56,7 +56,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Boyce** | 4 | 0 | 18 | 2 |
 | **S Collins** | 4 | 0 | 15 | 1 |
 
-## Antilles Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

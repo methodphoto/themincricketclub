@@ -52,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **Hyde** | 10 | 0 | 46 | 2 | 
 | **S Hornsby** | 7 | 0 | 33 | 1 | 
 
-## Barrow-boys Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

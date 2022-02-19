@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Evans** | 3 | 0 | 17 | 1 |
 | **J Fleetwood** | 2.4 | 0 | 6 | 3 |
 
-## Tappers Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

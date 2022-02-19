@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **6** | 1 | 0 | 5 | 1 |
 
 
- ## Alex Beard's XI Innings
+ ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

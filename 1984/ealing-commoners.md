@@ -43,7 +43,6 @@ Played at {{page.location}} on {{page.date}}
 | **Score** | 39 | 45 | 77 | 98 | | 117 |  |  |  |  | 
 | **Batsman** | 1 | 2 | 4 | 5 | 6 | 3 | 8 |  |  |  | 
 
-
 ## Bowling
 
 | | O | M | R | W |
@@ -53,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **Astley** | 8 | 0 | 25 | 1 | 
 | **Smith** | 6 | 2 | 24 | 2 | 
 
-## The Min Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -77,7 +76,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 18 | 27 | 28 | 43 | 53 | 53 |  |  | |  | 
 | **Batsman** | 1 | 2 | 4 | 3 | 5 | 7 |  |  |  |  | 
-
 
 ## Bowling
 

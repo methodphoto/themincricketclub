@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **5** | 8 | 1 | 21 | 2 | 
 | **6** | 2 | 0 | 15 | 0 | 
 
-## Putney Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

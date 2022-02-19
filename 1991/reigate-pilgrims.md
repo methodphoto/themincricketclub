@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 [Partnership](/partnerships) of 123 between D Swann and S Hornsby
 
-## Reigate Pilgrims Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

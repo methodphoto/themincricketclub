@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **Beeching** | 12 | 1 | 37 | 3 |
 | **Matthews** | 6 | 0 | 33 | 1 |
 
-## Ockley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

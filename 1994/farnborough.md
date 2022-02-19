@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Forfar** | 7 | 0 | 55 | 2 |
 | **A Forfar** | 1 | 0 | 12 | 0 |
 
-## Ockley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

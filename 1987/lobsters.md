@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 R Beswick's 1st 50
 
-## Lobsters Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

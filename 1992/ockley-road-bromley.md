@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **Kennedy** | 3 | 2 | 10 | 0 | 
 
 
-## Ockley Road, Bromley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

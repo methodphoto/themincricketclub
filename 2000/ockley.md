@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **L Figg** | 7 | 0 | 32 | 4 |
 | **D Mansel** | 7 | 0 | 32 | 4 |
 
-## Ockley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **Hopkins** | 6 | 1 | 41 | 3 |
 | **Gray** | 3 | 0 | 17 | 1 |
 
-## Players and Jesters Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

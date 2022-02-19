@@ -55,7 +55,7 @@ R Beswick retired hurt with the score on 100
 | **Bussell** | 11 | 3 | 44 | 0 |
 | **Taylor** | 5 | 0 | 48 | 0 |
 
-## Players and Jesters Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

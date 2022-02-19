@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Stuart** | 3 | 0 | 17 | 1 |
 | **M Henwick** | 5.4 | 0 | 26 | 1 |
 
-## Valley End Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

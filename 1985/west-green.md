@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## West Green Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -42,7 +42,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 14 | 16 | 81 | 84 | 106 | 126 |  |  |  |  | 
 | **Batsman** | 1 | 2 | 4 | 5 | 3 | 6 |  |  |  |  | 
-
 
 ## Bowling
 

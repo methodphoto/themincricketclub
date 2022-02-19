@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 Result: {result}
  
-## Chiswick Flyovers Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -44,7 +44,6 @@ Result: {result}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 14 | 21 | 22 | 34 |  |  | | | | | 
 | **Batsman** | 2 | 3 | 1 | 5 | 6 | 7 | 4 | 9 |  | | 
-
 
 ## Bowling
 
@@ -80,7 +79,6 @@ Result: {result}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 6 | 21 | 33 | 40 |  |  |  |  |  |  | 
 | **Batsman** | 1 | 3 | 4 | 2 | 5 | 6 | 8 |  |  |  | 
-
 
 ## Bowling
 

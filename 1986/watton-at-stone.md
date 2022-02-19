@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Watton-at-Stone Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -77,7 +77,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 13 | 13 | 84 | 105 | 116 | 124 | 140 | 142 | 142 |  | 
 | **Batsman** | 2 | 3 | 4 | 5 | 1 | 7 | 6 | 9 | 10 |  | 
-
 
 ## Bowling
 

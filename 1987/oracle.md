@@ -56,7 +56,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Gallagher** | 3 | 0 | 19 | 1 |
 | **S Sagar** | 1.4 | 0 | 12 | 2 |
 
-## The Min Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

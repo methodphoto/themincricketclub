@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Holt** | 5.4 | 0 | 17 | 2 |
 | **Edwards** | 4 | 0 | 14 | 0 |
 
-## Ockley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

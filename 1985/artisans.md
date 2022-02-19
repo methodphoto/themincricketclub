@@ -43,7 +43,6 @@ Played at {{page.location}} on {{page.date}}
 | **Score** | **108** | 111 | 121 | 133 |  |  |  |  |  |  | 
 | **Batsman** | 2 | 3 | 1 | 5 |  |  |  |  |  |  | 
 
-
 ## Bowling
 
 | | O | M | R | W |
@@ -53,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **Sullivan** | 9 | 0 | 33 | 1 | 
 | **Teahan** | 3 | 0 | 15 | 1 |
  
-## The Artisans Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

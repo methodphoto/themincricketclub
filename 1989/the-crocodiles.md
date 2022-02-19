@@ -54,7 +54,7 @@ R Beswick's 2nd 50
 | **Anderson** | 8 | 0 | 36 | 1 | 
 | **Cooper** | 12 | 0 | 70 | 1 | 
 
-## The Crocodiles Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

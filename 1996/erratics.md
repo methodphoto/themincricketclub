@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **Rivington** | 2 | 0 | 14 | 2 |
 | **Meller** | 1 | 0 | 12 | 0 |
 
-## Erratics Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

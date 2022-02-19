@@ -52,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **Rendell** | 4 | 0 | 28 | 2 |
 | **Knight** | 4 | 0 | 33 | 2 |
 
-## Wincanton Casuals Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

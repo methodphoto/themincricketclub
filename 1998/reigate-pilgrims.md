@@ -19,7 +19,7 @@ Played at {{page.location}} on {{page.date}}
 
 N Bezodis, sixfer on debut
 
-## Reigate Pilgrims Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

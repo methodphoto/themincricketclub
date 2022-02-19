@@ -43,7 +43,6 @@ Played at {{page.location}} on {{page.date}}
 | **Score** | 7 | 29 | 39 | 59 | 67 | 143 | 75 | 98 | 102 | 107 | 
 | **Batsman** | 2 | 1 | 4 | 3 | 4 | 6 |  7 | 8 | 9 | 11 | 
 
-
 ## Bowling
 
 | | O | M | R | W |
@@ -53,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **Mayhew** | 10 | 3 | 23 | 3 | 
 | **Joyce** | 9 | 2 | 24 | 2 | 
 
-## Ealonians Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

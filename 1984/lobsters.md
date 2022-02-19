@@ -43,7 +43,6 @@ Played at {{page.location}} on {{page.date}}
 | **Score** | | | | | | | | | | | 
 | **Batsman** | | | | | | | | | | | 
 
-
 ## Bowling
 
 | | O | M | R | W |
@@ -59,7 +58,7 @@ Played at {{page.location}} on {{page.date}}
 | **T Cottrell** | 2 | 0 | 9 | 2 |
 
 
-## Lobstersn Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -83,7 +82,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | | | | | | | | | | | 
 | **Batsman** | | | | | | | | | | | 
-
 
 ## Bowling
 

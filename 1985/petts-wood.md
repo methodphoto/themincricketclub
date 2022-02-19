@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Petts Wood Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -75,7 +75,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 33 | 51 | 92 | 119 | 139 |  |  |  |  |  | 
 | **Batsman** | 1 | 2 | 4 | 5 | 3 |  |  |  |  |  | 
-
 
 ## Bowling
 

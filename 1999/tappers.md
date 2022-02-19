@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Pedrette** | 12 | 4 | 33 | 2 |
 | **S Turner** | 7.5 | 1 | 27 | 4 |
 
-## Tappers Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

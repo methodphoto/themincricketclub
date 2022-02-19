@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Bose** | 1 | 0 | 20 | 0 | 
 | **Gordon** | 3 | 1 | 18 | 2 | 
 
-## Bose Wanderers Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

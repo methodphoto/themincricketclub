@@ -19,7 +19,7 @@ Played at {{page.location}} on {{page.date}}
 **Result:** {{page.result}}
 
 
-## Ex-Blues Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

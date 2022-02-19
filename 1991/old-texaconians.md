@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **Clarke** | 8 | 1 | 32 | 2 |
 | **Wallace** | 2 | 0 | 8 | 0 |
 
-## Old Texaconians Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

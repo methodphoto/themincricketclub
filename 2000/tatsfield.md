@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **Mortimer** | 7 | 0 | 30 | 2 |
 | **Clark** | 1.1 | 0 | 4 | 3 |
 
-## Tatsfield Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

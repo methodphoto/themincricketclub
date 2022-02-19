@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Pemberton** | 3 | 0 | 14 | 2 |
 | **Bickford** | 1 | 0 | 10 | 0 |
 
- ## The Crocodiles Innings
+ ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

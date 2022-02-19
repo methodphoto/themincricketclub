@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **Arbour** | 7 | 0 | 35 | 1 |
 | **Lithgow** | 5 | 1 | 29 | 3 | 
 
-## Great Tew Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

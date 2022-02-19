@@ -52,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **L Figg** | 2 | 0 | 19 | 1 | 
 | **Scanlon** | 10.5 | 2 | 32 | 3 | 
 
-## Ockley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

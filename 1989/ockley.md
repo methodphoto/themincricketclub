@@ -51,7 +51,7 @@ Played at {{page.location}} on {{page.date}}
 | **Barnes** |  |  |  | 1 | 
 | **Annand** |  |  |  | 5 | 
 
-## Ockley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

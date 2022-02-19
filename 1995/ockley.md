@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 R Earney highest score and first hundred for the Min.<br />Partnership of 154 between R Earney and S Barrowcliff
 
-## Ockley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

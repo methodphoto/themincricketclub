@@ -57,7 +57,7 @@ Played at {{page.location}} on {{page.date}}
 | **Roker** | 3 | 0 | 20 | 0 |
 | **Dale** | 4 | 0 | 31 | 2 |
 
-## Bovington Occasionals Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

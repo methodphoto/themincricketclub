@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **J Harvey** | 3 | 1 | 5 | 1 | 
 | **Winston** | 2 | 0 | 20 | 0 | 
 
-## West Green Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -77,7 +77,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | | | | | | | | | | | 
 | **Batsman** | 2 | 1 | 4 | 5 | | | | | | | 
-
 
 ## Bowling
 

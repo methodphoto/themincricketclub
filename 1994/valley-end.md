@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 Partnership of 133 for Valley End between M Aggar and Chadwich 
 
-## Valley End Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

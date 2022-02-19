@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **Coplestone** | 2 | 0 | 6 | 0 | 
 | **C Waller** | 2.3 | 0 | 16 | 2 |  
 
-## Abinger Hammer Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

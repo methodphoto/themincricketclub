@@ -21,7 +21,7 @@ Played at {{page.location}} on {{page.date}}
 D Powell 106. Partnership of 106 between D Powell and S Wombwell<br />
 Partnership of 129 between S Barrowcliff and R Beswick
 
-## Abbey Players Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

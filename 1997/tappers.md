@@ -55,7 +55,7 @@ R Earney 3rd 5 wkt haul for The Min
 | **A Pedrette** | 7 | 0 | 38 | 1 |
 | **S Lovegrove** | 7 | 0 | 37 | 4 |
 
-## Tappers Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

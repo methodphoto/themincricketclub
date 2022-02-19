@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **King** | 3 | 0 | 26 | 0 |
 | **R Swift** | 8 | 1 | 30 | 3 |
 
-## J Stimfig's Innings
+## {{page.title}} Innings
 
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|

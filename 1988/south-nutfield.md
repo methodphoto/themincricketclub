@@ -52,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **B Mills** | 3.5 | 0 | 49 | 1 | 
 | **W Finch** | 1 | 0 | 8 | 0 | 
 
-## South Nutfield Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

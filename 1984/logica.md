@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Logica Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -78,7 +78,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 33 | 34 | 38 | 128 | 131 | 143 | 153 |  |  |  | 
 | **Batsman** | 2 | 3 | 4 | 5 | 6 | 7 |  8 |  |  |  | 
-
 
 ## Bowling
 

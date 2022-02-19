@@ -43,7 +43,6 @@ Played at {{page.location}} on {{page.date}}
 | **Score** | 16 | 62 | 83 | 109 | 113 | 65 | 98 | 101 | | | 
 | **Batsman** | 2 | 3 | 4 | 5 | 1 | 6 | 7 | 9 | 10| | 
 
-
 ## Bowling
 
 | | O | M | R | W |
@@ -53,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **Gibbs** | 7 | 1 | 39 | 3 | 
 | **Benning-Syngh** | 4 | 1 | 27 | 1 | 
 
-## Standard Bridge Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -77,7 +76,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | | | | | | | | | | | 
 | **Batsman** | | | | | | | | | | | 
-
 
 ## Bowling
 

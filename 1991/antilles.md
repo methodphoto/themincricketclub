@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Collins** | 5 | 0 | 23 | 4 | 
 | **H Cadogan** | 4 | 0 | 8 | 3 | 
 
-## Antilles Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

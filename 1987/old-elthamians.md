@@ -52,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **Wilson** | 8 | 1 | 26 | 1 | 
 | **M Wright** | 5 | 0 | 27 | 2 | 
 
-## Old Elthamians Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

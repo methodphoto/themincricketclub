@@ -57,7 +57,7 @@ R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 | **A Gallagher** | 1 | 0 | 12 | 0 |
 | **B Boyd-Taylor** | 0.1 | 0 | 0 | 1 |
 
-## The Min CC Innings
+## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

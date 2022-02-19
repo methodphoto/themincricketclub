@@ -55,7 +55,7 @@ R Earney's 1st 50. R Beswick's 3rd 50
 | **Comer** | 9 | 1 | 41 | 3 |
 | **Atkins** | 2 | 0 | 19 | 1 | 
 
-## Yateley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

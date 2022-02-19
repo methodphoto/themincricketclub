@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Godstone Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -76,7 +76,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 12 | 67 | 111 | 124 | 124 | 127 | 131 |  |  |  | 
 | **Batsman** | 1 | 2 | 3 | 5 | 4 | 7 | 8 |  |  |  | 
-
 
 ## Bowling
 

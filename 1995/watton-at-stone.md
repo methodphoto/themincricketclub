@@ -52,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **M Tipper** | 1 | 0 | 12 | 0 |
 | **R Clayton** | 4.1 | 2 | 4 | 2 |
 
-## Ockley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

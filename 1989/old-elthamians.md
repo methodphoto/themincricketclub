@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **Knight** | 2 | 0 | 28 | 0 | 
 | **Guthrie** | 7 | 1 | 26 | 1 | 
 
-## Old Elthamians Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

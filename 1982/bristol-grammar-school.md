@@ -55,7 +55,7 @@ J Booth and D Mundy: partnership of 100
 | **T Hyatt** | 5 | 0 | 32 | 1 |
 | **T Cooper** | 5.1 | 0 | 24 | 3 |
 
-## Bristol Grammar School Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

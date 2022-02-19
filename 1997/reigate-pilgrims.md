@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **Kingsbury** | 13.2 | 3 | 36 | 3 |
 | **A Tomes** | 7 | 1 | 25 | 1 |
 
-## Reigate Pilgrims Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

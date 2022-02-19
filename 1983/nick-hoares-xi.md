@@ -43,7 +43,6 @@ Played at {{page.location}} on {{page.date}}
 | **Score** | | | 100| | | | | | | | 
 | **Batsman** | 2 | 3 | 4 | 5 | | | | | | | 
 
-
 ## Bowling
 
 | | O | M | R | W |
@@ -54,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **H Sallitt** | 3 | 0 | 20 | 0 | 
 | **P Wakefield** | 2 | 0 | 14 | 2 | 
 
-## Nigel Hoare's XI Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -78,7 +77,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 1 | 2 | | | | | | 75 | 82 | | 
 | **Batsman** | 1 | 3 | 2 | 5 | 6 | 4 | 7 | 8 | 10 | | 
-
 
 ## Bowling
 

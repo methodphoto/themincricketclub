@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **Croxon** | 9 | 4 | 21 | 2 |
 | **Allcock** | 7 | 0 | 28 | 4 |
 
-## Great Braxted Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

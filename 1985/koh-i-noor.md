@@ -52,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **3** | 11 | 0 | 79 | 3 | 
 | **4** | 5 | 0 | 45 | 1 | 
 
- ## Brook Innings
+ ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

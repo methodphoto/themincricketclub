@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## White City All Stars Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -42,7 +42,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 7 | 81 | 85 | 104 | 129 | 129 | 136 | 139 |  |  | 
 | **Batsman** | 2 | 3 | 1 | 5 | 4 | 6 | 7 | 9 | 10 |  | 
-
 
 ## Bowling
 
@@ -78,7 +77,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 12 | 14 | 21 | 43 | 51 | 67 | 67 | 67 | 108 |  | 
 | **Batsman** | 2 | 3 | 4 | 5 | 1 | 7 | 8 | 9 | 10 |  | 
-
 
 ## Bowling
 

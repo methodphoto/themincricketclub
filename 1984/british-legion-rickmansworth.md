@@ -52,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **A Gravestock** | 5 | 0 | 28 | 0 | 
 | **Naughton** | 6 | 1 | 18 | 2 | 
 
-## British Legion Rickmansworth Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

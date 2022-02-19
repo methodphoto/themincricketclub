@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Lobsters Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -41,7 +41,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 5 | 15 | 20 | 46 | 76 | | | | 78 | 85 | 
 | **Batsman** | 1 | 2 | | | | | | | 10 | 11 | 
-
 
 ## Bowling
 
@@ -82,7 +81,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 48 | 50 | 59 | 60 | 69 | | | | | | 
 | **Batsman** | 2 | 3 | 4 | 5 | 6 | | | | | | 
-
 
 ## Bowling
 

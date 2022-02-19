@@ -57,7 +57,7 @@ William Calvert - Highest Score. James Booth - First duck. William Calvert - Bes
 | **K Crisp** | 4 | 0 | 22 | 2 |
 | **A Honeyman** | 4 | 0 | 29 | 1 |
 
-## Clifton Hill House Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

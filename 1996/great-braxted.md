@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 P Bentley best bowling
 
-## Great Braxted Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

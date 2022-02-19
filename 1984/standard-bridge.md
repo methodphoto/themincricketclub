@@ -43,7 +43,6 @@ Played at {{page.location}} on {{page.date}}
 | **Score** | 0 | 25 | 35 | 36 | 60 | 65 | 98 | 101 | | | 
 | **Batsman** | 1 | 2 | 4 | 5 | 6 | 3 | 7 | 8 | | | 
 
-
 ## Bowling
 
 | | O | M | R | W |
@@ -56,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **Quinn** | 2.3 | 0 | 13 | 2 | 
 | **S Foster** | 1 | 1 | 0 | 0 |
 
-## Standard Bridge Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -80,7 +79,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 6 | 12 | 13 | 19 | | | | | | | 
 | **Batsman** | 1 | 3 | 4 | 5 | | |  | | | | 
-
 
 ## Bowling
 

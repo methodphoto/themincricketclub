@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **Malkin** | 4 | 3 | 5 | 0 |
 | **Pearce** | 1.2 | 1 | 0 | 1 |
 
- ## Old Elthamians Innings
+ ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

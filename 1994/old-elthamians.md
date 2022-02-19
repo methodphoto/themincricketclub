@@ -52,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **Payne** | 9 | 0 | 34 | 1 |
 | **Saunders** | 9 | 0 | 35 | 4 |
 
-## Old Elthamians Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

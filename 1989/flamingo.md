@@ -52,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **S Hornsby** | 8 | 1 | 38 | 3 | 
 | **S Barrowcliff** | 3 | 0 | 13 | 1 |
 
-## Flamingo Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

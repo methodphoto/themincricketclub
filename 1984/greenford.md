@@ -45,7 +45,6 @@ Tony Purves: best bowling
 | **Score** | 51 | 52 | 88 | 162 | 184 | 187 | | | | | 
 | **Batsman** | 2 | 1 | 3 | 5 | 4 | 6 | | | | | 
 
-
 ## Bowling
 
 | | O | M | R | W |
@@ -57,7 +56,7 @@ Tony Purves: best bowling
 | **Bowler 5** | 8.5 | 0 | 36 | 1 | 
 | **Bowler 6** | 2 | 0 | 23 | 0 | 
 
-## The Min Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -81,7 +80,6 @@ Tony Purves: best bowling
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 5 | 27 | 44 | 44 | 52 | 65 | 70 | 76 | 85 | 85 | 
 | **Batsman** | 2 | 3 | 1 | 5 | 6 | 4 | 7 | 8 | 10 | 11 | 
-
 
 ## Bowling
 

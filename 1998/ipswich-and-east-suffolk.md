@@ -57,7 +57,7 @@ Played at {{page.location}} on {{page.date}}
 | **Craig** | 4 | 0 | 34 | 1 |
 | **P Leach** | 2 | 0 | 15 | 0 |
 
-## Ockley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Old Elthamians Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -42,7 +42,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 16 | 21 | 139 | 151 | 168 | 168 | 171 |  |  |  | 
 | **Batsman** | 1 | 3 | 4 | 5 | 2 | 6 | 7 |  |  |  | 
-
 
 ## Bowling
 
@@ -79,7 +78,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 8 | 106 | 149 | 177 |  |  |  |  | | | 
 | **Batsman** | 1 | 3 | 2 | 5 |  |  |  |  |  | | 
-
 
 ## Bowling
 

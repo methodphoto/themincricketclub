@@ -52,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **Rathod** | 4 | 0 | 28 | 0 | 
 | **Ruparelia** | 8 | 0 | 47 | 4 | 
 
-## Ockley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

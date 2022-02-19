@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Nick Hoare's XI Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -75,7 +75,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 9 | 20 | 58 | 79 | 153 |  |  |  |  |  | 
 | **Batsman** | 2 | 1 | 3 | 4 | 5 |  |   |  |  |  | 
-
 
 ## Bowling
 

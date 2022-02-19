@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 R Earney, 4th 5 wicket haul for The Min
 
-## Copdock Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

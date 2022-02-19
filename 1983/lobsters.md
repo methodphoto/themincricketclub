@@ -57,7 +57,7 @@ Played at {{page.location}} on {{page.date}}
 | **Milligan** | 1 | 0 | 6 | 0 |
 | **Cottrell** | 2 | 0 | 14| 0 |
 
-## Lobsters Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

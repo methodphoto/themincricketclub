@@ -52,7 +52,7 @@ Played at {{page.location}} on {{page.date}}
 | **Anderson** | 8 | 0 | 36 | 1 | 
 | **Cooper** | 7 | 0 | 52 | 1 | 
 
-## The Crocodiles Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

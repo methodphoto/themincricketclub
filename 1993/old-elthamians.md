@@ -21,7 +21,7 @@ Played at {{page.location}} on {{page.date}}
 S Barrowcliff first Min century.<br />
 Partnership of 135 between S Barrowcliff and W Wright
 
-## Old Elthamians Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

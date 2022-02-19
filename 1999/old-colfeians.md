@@ -54,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **D Blackwell** | 7 | 0 | 45 | 2 |
 | **Pye** | 11 | 3 | 44 | 3 |
 
-## Old Colfeians Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

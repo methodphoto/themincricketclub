@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Another Mans Meat
+title: Another Man's Meat
 game: The Min v Another Man's Meat
 location: Coombe Dingle
 date: 08/05/1982
@@ -58,7 +58,7 @@ Played at {{page.location}} on {{page.date}}
 | **C Miller** | 2 | 0 | 10 | 0 |
 | **A Sitwell** | 2 | 0 | 8 | 0 |
 
-## Another Man's Meat Innings 
+## {{page.title}} Innings 
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **Shearing** | 3 | 0 | 38 | 1 |
 | **Mason** | 3 | 0 | 19 | 2 |
 
-## Wills Hall Innings
+## {{page.title}} Innings
 
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|

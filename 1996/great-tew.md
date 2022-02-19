@@ -21,7 +21,7 @@ Played at {{page.location}} on {{page.date}}
 R Beswick best bowling<br />
 Partnership of 109 between J Grant and D Swann
 
-## Great Tew Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

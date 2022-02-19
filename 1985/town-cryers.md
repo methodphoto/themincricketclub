@@ -18,7 +18,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-## Town Cryers Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -76,7 +76,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 2 | 10 | 18 | 19 | 28 | 32 |  |  |  |  | 
 | **Batsman** | 1 | 2 | 3 | 4 | 5 | 6 |  |  |  |  | 
-
 
 ## Bowling
 

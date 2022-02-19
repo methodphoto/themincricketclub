@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 First Tied match in Min history
 
-## Wickford Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

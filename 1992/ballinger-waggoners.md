@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **S McGowan** | 7 | 0 | 41 | 1 | 
 | **W McGowan** | 4 | 0 | 32 | 1 | 
 
-## Ballinger Waggoners Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

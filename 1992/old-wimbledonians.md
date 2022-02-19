@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **Curtis** | 13 | 1 | 25 | 4 |
 | **Taylor** | 7 | 1 | 33 | 0 | 
 
-## Old Wimbledonians Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

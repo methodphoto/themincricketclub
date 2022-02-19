@@ -55,7 +55,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Minto** | 4 | 4 | 0 | 3 |
 | **T Manchip** | 3 | 2 | 12 | 1 |
 
- ## Old Elthamians Innings
+ ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

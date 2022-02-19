@@ -43,7 +43,6 @@ Played at {{page.location}} on {{page.date}}
 | **Score** | 5 | 5 | 24 | 50 | 59 | 60 | 81 | 120 | 123 |  | 
 | **Batsman** | 2 | 3 | 1 | 4 | 6 | 7 | 8 | 9 | 5 |  | 
 
-
 ## Bowling
 
 | | O | M | R | W |
@@ -55,7 +54,7 @@ Played at {{page.location}} on {{page.date}}
 | **Walker** | 8 | 1 | 27 | 1 |
 
  
-## Brook Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -79,7 +78,6 @@ Played at {{page.location}} on {{page.date}}
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 1 | 19 | 19 | 30 | 32 | 33 | 51 | 71 | 71 | 78 |
 | **Batsman** | 2 | 1 | 4 | 5 | 3 | 7 | 8 | 9 | 10 | 6 |
-
 
 ## Bowling
 

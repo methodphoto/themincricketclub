@@ -53,7 +53,7 @@ Played at {{page.location}} on {{page.date}}
 | **L Figg** | 13 | 3 | 50 | 5 |
 | **M Williams** | 3 | 0 | 24 | 1 |
 
-## Ockley Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

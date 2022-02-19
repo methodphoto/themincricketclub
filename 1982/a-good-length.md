@@ -20,7 +20,7 @@ Played at {{page.location}} on {{page.date}}
 
 Ken Sullivan - Best Bowling by The Min
 
-## A Good Length Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
