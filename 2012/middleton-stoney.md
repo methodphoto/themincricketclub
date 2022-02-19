@@ -82,7 +82,7 @@ Joint Min of the Match: Goffy and Earn. Honourable mention for Slighty who thoug
 |:---|:---|---|---:|
 | **M Goff** | c O Selway | Williams | 44 |
 | **R Earney** | not out |  | 65 |
-| **J Moorman** | not out |  |  |
+| **J Moorman** | not out |  | 0 |
 | **W Calvert** | dnb |  |  |
 | **R Beswick &#42;** | dnb |  |  |
 | **R O'Hagan** | dnb |  |  |
