@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Damaze 50 off 35 balls
+R Damaze 3rd 50 (35 balls)
 
 ## The Min Innings
 

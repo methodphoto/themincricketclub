@@ -38,7 +38,9 @@ parent: Records
 |:---|:---|:---|:---|
 | **2021** | Richard Beswick | v [Banstead](../2021/banstead) | **61** |
 | **2021** | Ray Damaze | v [Wandering Maniacs](../2021/wandering-maniacs) | **59** |
+| **2021** | Alf Beswick | v [Kingstonian](../2021/kingstonian) | **64** |
 | **2021** | Jim Carroll | v [Blagdon Hill](../2021/blagdon-hill) | **72** |
+| **2021** | Alf Beswick | v [Bricklayer's Arms](../2021/bricklayers-arms) | **59** |
 | **2021** | Jim Carroll | v [Newington](../2021/newington) | **78&#42;** |
 | **2020** | Patrick Wigg | v [Railway Taverners](../2020/railway-taverners) | **54** |
 | **2020** | Andrew Gallagher | v [Kingstonian](../2020/kingstonian) | **54&#42;** |
@@ -88,7 +90,6 @@ parent: Records
 | **2013** | Tom Rutherford | v [Broadway and Horton](../2013/broadway-and-horton) | **55** |
 | **2013** | Tom Rutherford | v [Watton-at-Stone](../2013/watton-at-stone) | **53** |
 | **2013** | Alf Beswick | v [Watton-at-Stone](../2013/watton-at-stone) | **77&#42;** |
-| **2013** | Ray Damaze | v [Frensham](../2013/frensham) | **100&#42;** |
 | **2013** | Ray Damaze | v [The Nightwatchmen CC](../2013/the-nightwatchmen-cc) | **52&#42;** |
 | **2013** | Stephen Hornsby | v [Britwell Salome](../2013/britwell-salome) | **100&#42;** |
 | **2013** | Richard Beswick | v [Britwell Salome](../2013/britwell-salome) | **50** |

@@ -4,7 +4,7 @@ title: Banstead
 game: Banstead v The Min
 location: Banstead CC
 date: 05/09/2021
-report: The Min won the toss and batted first scoring 167 for 9 wkts (35 overs). Banstead replied with 156 for 7 wkts in 35 overs
+report: The Min won the toss and batted first scoring 167 for 9 wkts (35 overs). Banstead replied with 156 for 7 wkts (35 overs)
 result: The Min won by 11 runs
 parent: 2021 Fixtures
 ---
@@ -17,8 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-R Beswick 50 off 66 balls
-
+R Beswick's 35th 50 (66 balls).<br />
 R Beswick 8000 runs for The Min
 
 ## The Min Innings

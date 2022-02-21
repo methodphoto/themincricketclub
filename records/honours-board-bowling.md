@@ -34,6 +34,8 @@ parent: Records
 
 | Year | Player |  | Figures |
 |:---|:---|:---|:---|
+| **2021** | E Garland | v [Kingstonian](../2021/kingstonian) | **8-1-31-5** |
+| **2021** | E Garland | v [Broadway and Horton](../2021/broadway-and-horton) | **8-1-45-5** |
 | **2019** | R Earney | v [Railway Taverners](../2019/railway-taverners) | **6-0-27-5** |
 | **2019** | P Wigg | v [Broadway and Horton](../2019/broadway-and-horton) | **6-3-12-5** |
 | **2017** | J Wright | v [Broadway and Horton](../2017/broadway-and-horton) | **8-0-49-5** |

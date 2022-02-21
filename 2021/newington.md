@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-Jim Carroll, first 50 and highest score for The Min
+Jim Carroll, 1st 50 and highest score for The Min
 
 ## {{page.title}} Innings
 

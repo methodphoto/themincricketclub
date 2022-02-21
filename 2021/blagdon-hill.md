@@ -17,7 +17,7 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-J Carroll, 2nd Min 50 and a hattrick (over two overs)
+J Carroll, 2nd 50 and a hattrick (over two overs)
 
 ## The Min Innings
 

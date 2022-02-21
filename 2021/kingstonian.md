@@ -17,7 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
-E Garland 5 wkts (2nd match in a row)
+E Garland 5 wkts (2nd match in a row). A Beswick's 10th 50<br />
+Partnership of 103 between A Beswick and R Earney
 
 ## {{page.title}} Innings
 

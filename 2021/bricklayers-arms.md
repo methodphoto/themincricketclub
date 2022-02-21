@@ -17,6 +17,8 @@ Played at {{page.location}} on {{page.date}}
 
 **Result:** {{page.result}}
 
+A Beswick's 9th 50
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
