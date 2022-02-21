@@ -2,7 +2,7 @@
 layout: default
 title: Stoke D'Abernon
 game: Stoke D'Abernon v The Min
-location: toke D'Abernon Recreation Ground
+location: Stoke D'Abernon Recreation Ground
 date: 30/09/2012
 report: Stoke D'Abernon batted first in a 40 over game and scored 163 all out in 35.2 overs. The Min batted for 39.2 overs and made 136 all out
 result: Stoke D'Abernon won by 27 runs 

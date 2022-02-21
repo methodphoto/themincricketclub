@@ -80,7 +80,7 @@ R Earney's 40th 50
 | **S Symes** | b | P Wigg | 7 |
 | **B Tyler** | c M Gupta | I Miah | 34 |
 | **D Bloomfield** | run out |  | 20 |
-| **Penny** | c S Barrowcliff | R O'Hagan | 41 |
+| **C Penny** | c S Barrowcliff | R O'Hagan | 41 |
 | **C Pullen** | c & b | I Miah | 7 |
 | **N Humphries** | b | M Gupta | 46 |
 | **N Lawrence** | b | M Gupta | 1 |

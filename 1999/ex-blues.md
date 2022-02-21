@@ -25,7 +25,7 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|---|---:|
 | **Brown** | c J Grant | I Marshall | 0 |
 | **Archibals** | st J Grant | J Wright | 23 |
-| **Collins** | c S Hornsbyb | I Marshall | 143 |
+| **Collins** | c S Hornsby | I Marshall | 143 |
 | **Gambie** | not out |  | 29 |
 | **Elmer** | not out |  | 5 |
 | **Painter** | dnb |  |  |

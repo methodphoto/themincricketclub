@@ -67,7 +67,7 @@ Played at {{page.location}} on {{page.date}}
 | **R Beswick &#42;** | c Rodgers | Hornby | 1 | 
 | **W Calvert** | b  | Siddall | 27 | 
 | **A Sylvester** | lbw | Sprutenburg | 24 | 
-| **D Newman** | lbw | Hornby | 130 | 
+| **D Newman** | lbw | Hornby | 13 | 
 | **M Gardiner** | b | Hornby | 0 | 
 | **M Kirwan** | c Smallwood | Hornby | 63 | 
 | **R Olver** | not out |   | 6 | 
