@@ -91,7 +91,6 @@ parent: Records
 | **2013** | Tom Rutherford | v [Watton-at-Stone](../2013/watton-at-stone) | **53** |
 | **2013** | Alf Beswick | v [Watton-at-Stone](../2013/watton-at-stone) | **77&#42;** |
 | **2013** | Ray Damaze | v [The Nightwatchmen CC](../2013/the-nightwatchmen-cc) | **52&#42;** |
-| **2013** | Stephen Hornsby | v [Britwell Salome](../2013/britwell-salome) | **100&#42;** |
 | **2013** | Richard Beswick | v [Britwell Salome](../2013/britwell-salome) | **50** |
 | **2012** | Tom Rutherford | v [Brasted Invicta](../2012/brasted-invicta) | **61** |
 | **2012** | Richard Earney | v [Newington](../2012/newington) | **89&#42;** |
@@ -112,7 +111,6 @@ parent: Records
 | **2010** | Richard Earney | v [SB Exiles](../2010/sb-exiles) | **54** |
 | **2010** | Mohit Gupta | v [Hampton Wick](../2010/hampton-wick) | **64** |
 | **2010** | William Calvert | v [Broadway and Horton](../2010/broadway-and-horton) | **57&#42;** |
-| **2010** | Tim Hammond | v [Broadway and Horton](../2010/broadway-and-horton) | **102&#42;** |
 | **2010** | Mark Gardiner | v [Newdigate](../2010/newdigate) | **52&#42;** |
 | **2010** | Tom Rutherford | v [Newdigate](../2010/newdigate) | **51** |
 | **2010** | William Calvert | v [Middleton Stoney](../2010/middleton-stoney) | **51&#42;** |
@@ -147,7 +145,6 @@ parent: Records
 | **2006** | Richard Earney | v [Tappers](../2006/tappers) | **62&#42;** |
 | **2005** | Richard Beswick | v [Hornchurch](../2005/hornchurch) | **69** |
 | **2005** | Andrew Slight | v [SB Exiles](../2005/sb-exiles) | **64** |
-| **2005** | Richard Earney | v [SB Exiles](../2005/sb-exiles) | **122&#42;** |
 | **2005** | Richard Kitson | v [Horningsham](../2005/horningsham) | **75** |
 | **2005** | Richard Earney | v [Horningsham](../2005/horningsham) | **52** |
 | **2005** | Richard Earney | v [Kilmington and Stourton](../2005/kilmington-and-stourton) | **55** |
@@ -183,7 +180,6 @@ parent: Records
 | **2002** | Richard Kitson | v [Watton-at-Stone](../2002/watton-at-stone) | **67** |
 | **2002** | Stephen Hornsby | v [Tappers](../2002/tappers) | **86** |
 | **2002** | Stephen Hornsby | v [Hetairoi](../2002/hetairoi) | **67** |
-| **2002** | Richard Earney | v [Selling](../2002/selling) | **112&#42;** |
 | **2002** | Richard Earney | v [Hetairoi](../2002/hetairoi) | **69** |
 | **2002** | Richard Earney | v [Abbey Players](../2002/abbey-players) | **71** |
 | **2002** | Richard Earney | v [Ockley](../2002/ockley) | **53&#42;** |
@@ -195,7 +191,6 @@ parent: Records
 | **2001** | Richard Earney | v [Long Ditton](../2001/long-ditton) | **52** |
 | **2000** | James Hylton | v [Reigate Pilgrims](../2000/reigate-pilgrims) | **54** |
 | **2000** | Stephen Hornsby | v [Broadway and Horton](../2000/broadway-and-horton) | **64&#42;** |
-| **2000** | Stephen Hornsby | v [Wareham](../2000/wareham) | **130&#42;** |
 | **2000** | Pete Grant | v [Shotter Mill](../2000/shotter-mill) | **50** |
 | **2000** | Richard Kitson | v [Old Colfeians](../2000/old-colfeians) | **67** |
 | **2000** | Richard Beswick | v [Kilmington and Stourton](../2000/kilmington-and-stourton) | **73&#42;** |
@@ -251,10 +246,8 @@ parent: Records
 | **1993** | Ian Marshall | v [Watton-at-Stone](../1993/watton-at-stone) | **94** |
 | **1993** | Simon Barrowcliff | v [Queen Camel](../1993/queen-camel) | **64** |
 | **1993** | Simon Barrowcliff | v [Broadway and Horton](../1993/broadway-and-horton) | **67** |
-| **1993** | Simon Barrowcliff | v [Old Elthamians](../1993/old-elthamians) | **117&#42;** |
 | **1993** | Stephen Hornsby | v [Great Tew](../1993/great-tew) | **97** |
 | **1992** | Richard Beswick | v [Yateley](../1992/yateley) | **55** |
-| **1992** | Ian Marshall | v [Dowlish Wake](../1992/dowlish-wake) | **108&#42;** |
 | **1992** | Ian Marshall | v [Ballinger](../1992/ballinger) | **76** |
 | **1992** | Simon Barrowcliff | v [Dowlish Wake](../1992/dowlish-wake) | **66&#42;** |
 | **1992** | Simon Barrowcliff | v [Deando](../1992/deando) | **56** |
@@ -286,7 +279,6 @@ parent: Records
 | **1989** | Martin Breddy | v [Ockley](../1989/ockley) | **75** |
 | **1988** | Nigel Holcombe | v [Limpsfield](../1988/limpsfield) | **63** |
 | **1988** | Martin Breddy | v [Stowting](../1988/stowting) | **82** |
-| **1988** | Phill Bentley | v [Watton-at-Stone](../1988/watton-at-stone) | **100&#42;** |
 | **1988** | Phill Bentley | v [Friars Oak](../1988/friars-oak) | **91** |
 | **1988** | William Chapman | v [Blindley Heath](../1988/blindley-heath) | **74** |
 | **1988** | James Naughton | v [Godstone](../1988/godstone) | **65** |
