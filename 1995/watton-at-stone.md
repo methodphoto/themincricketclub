@@ -9,13 +9,7 @@ result: Watton-at-Stone won by 10 wkts
 parent: 1995 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## The Min Innings
 

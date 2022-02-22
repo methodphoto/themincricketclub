@@ -10,15 +10,7 @@ next: a-good-length
 parent: 1982 Fixtures
 ---
 
-# {{page.game}}
-
-{{site.data.date}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 William Calvert - Highest Score. James Booth - First duck. William Calvert - Best Bowling
 
@@ -99,4 +91,4 @@ William Calvert - Highest Score. James Booth - First duck. William Calvert - Bes
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

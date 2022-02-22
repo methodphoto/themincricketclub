@@ -10,13 +10,7 @@ next: watton-at-stone
 parent: 1999 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 M Petre highest score for The Min
 
@@ -102,4 +96,4 @@ M Petre highest score for The Min
 |:---|:---|:---|---:|
 | 1 | 1 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

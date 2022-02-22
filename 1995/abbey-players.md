@@ -10,13 +10,7 @@ next: old-elthamians
 parent: 1995 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 D Powell 106. Partnership of 106 between D Powell and S Wombwell<br />
 Partnership of 129 between S Barrowcliff and R Beswick
@@ -98,4 +92,4 @@ Partnership of 129 between S Barrowcliff and R Beswick
 |:---|:---|:---|---:|
 | 1 | 1 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

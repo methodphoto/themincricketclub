@@ -10,13 +10,7 @@ next: stowting
 parent: 1991 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Steven Hornsby first 5 wkt haul for The Min
 
@@ -94,4 +88,4 @@ Steven Hornsby first 5 wkt haul for The Min
 |:---|:---|:---|---:|
 | 6 | 2 | 5 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

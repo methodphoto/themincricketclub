@@ -10,13 +10,7 @@ next: trafford-croydon
 parent: 2010 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 #### Match Report
 
@@ -117,4 +111,4 @@ One seems a little more likely than the other…
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

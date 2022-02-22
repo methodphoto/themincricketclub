@@ -9,13 +9,7 @@ result: Hendon-Edgware won by 20 runs
 parent: 1985 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 

@@ -10,13 +10,7 @@ next: warminster-garrison
 parent: 2005 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 28th 50
 
@@ -100,4 +94,4 @@ R Earney's 28th 50
 |:---|:---|:---|---:|
 | 4 | 3 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

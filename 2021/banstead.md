@@ -9,13 +9,7 @@ result: The Min won by 11 runs
 parent: 2021 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Beswick's 35th 50 (66 balls).<br />
 R Beswick 8000 runs for The Min
@@ -99,4 +93,4 @@ R Beswick 8000 runs for The Min
 |:---|:---|:---|---:|
 | 5 | 3 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

@@ -10,13 +10,7 @@ next: iver-heath
 parent: 2004 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 M Goff's 2nd 50 and highest score
 
@@ -98,4 +92,4 @@ M Goff's 2nd 50 and highest score
 |:---|:---|:---|---:|
 | 5 | 4 | 4 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

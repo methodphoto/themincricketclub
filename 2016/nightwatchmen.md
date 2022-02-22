@@ -9,13 +9,7 @@ result: Nightwatchman won by 57 runs
 parent: 2016 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Batting
 
@@ -91,4 +85,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 1 | 1 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

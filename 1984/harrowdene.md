@@ -10,13 +10,7 @@ next: standard-bridge
 parent: 1984 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 
@@ -94,4 +88,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 2 | 1 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

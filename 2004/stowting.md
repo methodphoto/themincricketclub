@@ -10,13 +10,7 @@ next: kilmington-and-stourton
 parent: 2004 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 20th 50. R Green's 2nd 50
 
@@ -99,4 +93,4 @@ R Earney's 20th 50. R Green's 2nd 50
 |:---|:---|:---|---:|
 | 3 | 2 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

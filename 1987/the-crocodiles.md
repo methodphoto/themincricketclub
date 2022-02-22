@@ -10,13 +10,7 @@ next: old-elthamians
 parent: 1987 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 A Gallagher's 6th 50
 
@@ -100,4 +94,4 @@ A Gallagher's 6th 50
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

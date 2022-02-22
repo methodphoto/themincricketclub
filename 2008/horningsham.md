@@ -10,13 +10,7 @@ next: old-min-young-min
 parent: 2008 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 <img src="jim-horningsham.jpg" width="100%" alt="Jim Swipes" />
 
@@ -100,4 +94,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 6 | 2 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

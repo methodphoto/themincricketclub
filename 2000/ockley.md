@@ -10,13 +10,7 @@ next: stowting
 parent: 2000 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 
 ## The Min Innings
@@ -99,4 +93,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 0 | 1 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

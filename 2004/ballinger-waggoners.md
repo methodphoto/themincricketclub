@@ -10,13 +10,7 @@ next: newdigate
 parent: 2004 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney’s 19th 50
 
@@ -98,4 +92,4 @@ R Earney’s 19th 50
 |:---|:---|:---|---:|
 | 1 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

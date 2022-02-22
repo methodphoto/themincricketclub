@@ -10,13 +10,7 @@ next: friars-oak
 parent: 1987 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Beswick's 1st 50
 
@@ -98,4 +92,4 @@ R Beswick's 1st 50
 |:---|:---|:---|---:|
 | 3 | 4 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

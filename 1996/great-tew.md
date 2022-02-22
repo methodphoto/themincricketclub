@@ -10,13 +10,7 @@ next: wickford
 parent: 1996 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Beswick best bowling<br />
 Partnership of 109 between J Grant and D Swann

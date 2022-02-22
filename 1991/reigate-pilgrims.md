@@ -10,13 +10,7 @@ next: watton-at-stone
 parent: 1991 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 [Partnership](/partnerships) of 123 between D Swann and S Hornsby
 
@@ -96,4 +90,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 10 | 2 | 5 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

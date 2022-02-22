@@ -10,13 +10,7 @@ next: reigate-pilgrims
 parent: 2009 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 38th 50. M Gupta's 6th 50.<br />
 Partnership of 179&#42; between R Earney and M Gupta
@@ -99,4 +93,4 @@ Partnership of 179&#42; between R Earney and M Gupta
 |:---|:---|:---|---:|
 | 6 | 3 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

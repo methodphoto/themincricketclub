@@ -10,13 +10,7 @@ next: farnborough
 parent: 1997 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## Kilmington and Stourton Innings
 
@@ -93,4 +87,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 2 | 6 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

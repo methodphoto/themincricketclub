@@ -10,13 +10,7 @@ next: reigate-pilgrims
 parent: 2012 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 T Rutherford's 4th 50
 
@@ -97,4 +91,4 @@ T Rutherford's 4th 50
 |:---|:---|:---|---:|
 | 5 | 3 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

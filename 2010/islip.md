@@ -10,13 +10,7 @@ next: hampton-wick
 parent: 2010 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
@@ -91,4 +85,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 7 | 3 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

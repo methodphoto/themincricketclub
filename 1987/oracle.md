@@ -10,13 +10,7 @@ next: bose-wanderers
 parent: 1987 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 A Gallagher's 7th 50
 
@@ -99,4 +93,4 @@ A Gallagher's 7th 50
 |:---|:---|:---|---:|
 | 4 | 5 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

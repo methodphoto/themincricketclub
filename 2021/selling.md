@@ -9,13 +9,7 @@ result: The Min won by 6 wkts
 parent: 2021 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 

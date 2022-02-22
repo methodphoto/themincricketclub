@@ -10,13 +10,7 @@ next: shepton-beauchamp
 parent: 1992 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 <img src="min-broadway-1992.jpg" width="100%" alt="Team Photo" />
 
@@ -96,4 +90,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 1 | 4 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

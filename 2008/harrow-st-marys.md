@@ -10,13 +10,7 @@ next: putney
 parent: 2008 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 35th 50
 
@@ -98,4 +92,4 @@ R Earney's 35th 50
 |:---|:---|:---|---:|
 | 7 | 2 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

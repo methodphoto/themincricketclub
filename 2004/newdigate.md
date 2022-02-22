@@ -10,13 +10,7 @@ next: watton-at-stone
 parent: 2004 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 M Goff's 1st 50
 
@@ -97,4 +91,4 @@ M Goff's 1st 50
 |:---|:---|:---|---:|
 | 2 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

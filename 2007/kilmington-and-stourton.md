@@ -10,13 +10,7 @@ next: horningsham
 parent: 2007 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Grandstand finish by H Ingham and P O'Mahony
 
@@ -98,4 +92,4 @@ Grandstand finish by H Ingham and P O'Mahony
 |:---|:---|:---|---:|
 | 5 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

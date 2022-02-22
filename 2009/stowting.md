@@ -10,13 +10,7 @@ next: broadway-and-horton
 parent: 2009 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 M Gupta's 1st Michelle. R Earney's 41st 50.
 
@@ -97,4 +91,4 @@ M Gupta's 1st Michelle. R Earney's 41st 50.
 |:---|:---|:---|---:|
 | 3 | 0 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

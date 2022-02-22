@@ -10,13 +10,7 @@ next: flamingo
 parent: 1989 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## Watton-at-Stone Innings
 
@@ -94,4 +88,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 4 | 6 | 8 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

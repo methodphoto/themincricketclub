@@ -10,16 +10,10 @@ next: stowting
 parent: 2005 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
+{% include matchDetails %}
 
 R Earney's 26th 50. M Goff's 3rd 50.<br />
 Partnership of 140 between R Earney and M Goff
-
-**Result:** {{page.result}}
 
 ## {{page.title}} Innings
 
@@ -98,4 +92,4 @@ Partnership of 140 between R Earney and M Goff
 |:---|:---|:---|---:|
 | 1 | 3 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

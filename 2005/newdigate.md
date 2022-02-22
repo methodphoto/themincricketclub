@@ -10,13 +10,7 @@ next: watton-at-stone
 parent: 2005 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 D Hambidge 1st 50
 
@@ -99,4 +93,4 @@ D Hambidge 1st 50
 |:---|:---|:---|---:|
 | 1 | 3 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

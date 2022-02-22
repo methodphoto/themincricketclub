@@ -9,13 +9,7 @@ result: The Min won by 5 wkts
 parent: 2021 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Jim Carroll, 1st 50 and highest score for The Min
 
@@ -98,4 +92,4 @@ Jim Carroll, 1st 50 and highest score for The Min
 |:---|:---|:---|---:|
 | 1 | 1 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

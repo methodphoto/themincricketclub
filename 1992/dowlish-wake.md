@@ -10,13 +10,7 @@ next: checkendon
 parent: 1992 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 I Marshall first century.<br />
 Partnership of 160 between I Marshall and S Barrowcliff
@@ -98,4 +92,4 @@ Partnership of 160 between I Marshall and S Barrowcliff
 |:---|:---|:---|---:|
 | 3 | 4 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

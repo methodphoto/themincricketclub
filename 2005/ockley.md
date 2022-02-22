@@ -10,13 +10,7 @@ next: old-colfeians
 parent: 2005 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 25th 50
 
@@ -96,4 +90,4 @@ R Earney's 25th 50
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

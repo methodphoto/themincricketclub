@@ -10,13 +10,7 @@ next: newdigate
 parent: 2009 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 #### Match Report
 
@@ -115,4 +109,4 @@ M Gupta's 2nd 50. R Earney'5 5th Michelle
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

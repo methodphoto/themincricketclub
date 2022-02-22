@@ -9,13 +9,7 @@ result: Reigate Pilgrims won by 28 runs
 parent: 2001 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 

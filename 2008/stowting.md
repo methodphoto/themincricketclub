@@ -10,13 +10,7 @@ next: broadway-and-horton
 parent: 2008 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 35th 50. T Rutherford's 1st 50
 
@@ -97,4 +91,4 @@ R Earney's 35th 50. T Rutherford's 1st 50
 |:---|:---|:---|---:|
 | 5 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

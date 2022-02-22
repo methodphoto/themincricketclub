@@ -10,13 +10,7 @@ next: kilmington-and-stourton
 parent: 1996 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 After the defeat the skipper's 'lucky' underpants were burned and from now on this match will be played for The Ashes of said underpants
 
@@ -102,4 +96,4 @@ J Stimfig fielded and P Grant batted
 |:---|:---|:---|---:|
 | 4 | 1 | 3 | 1 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

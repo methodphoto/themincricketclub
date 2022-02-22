@@ -10,13 +10,7 @@ next: old-colfeians
 parent: 2007 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 34th 50.<br />
 Partnership of 105 between R Earney and S Barrowcliff
@@ -102,4 +96,4 @@ Partnership of 105 between R Earney and S Barrowcliff
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

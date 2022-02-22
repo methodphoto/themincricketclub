@@ -10,13 +10,7 @@ next: watton-at-stone
 parent: 2010 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 T Rutherford's 2nd 50. M Gardiner's 1st 50.
 
@@ -103,4 +97,4 @@ T Rutherford's 2nd 50. M Gardiner's 1st 50.
 |:---|:---|:---|---:|
 | 4 | 0 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

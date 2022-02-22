@@ -10,13 +10,7 @@ next: ipswich-and-east-suffolk
 parent: 1998 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney, 4th 5 wicket haul for The Min
 
@@ -98,4 +92,4 @@ R Earney, 4th 5 wicket haul for The Min
 |:---|:---|:---|---:|
 | 3 | 1 | 4 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

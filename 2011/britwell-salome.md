@@ -10,13 +10,7 @@ next: newington
 parent: 2010 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 42nd 50. S Barrowcliff's 15th 50.<br />
 Partnership of 113 between R Earney and S Barrowcliff.
@@ -100,4 +94,4 @@ Partnership of 113 between R Earney and S Barrowcliff.
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

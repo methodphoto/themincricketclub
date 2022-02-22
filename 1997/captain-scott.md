@@ -10,13 +10,7 @@ next: hetairoi
 parent: 1997 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Partnership  of 102 between J Grant and P Sayer
 
@@ -99,4 +93,4 @@ Partnership  of 102 between J Grant and P Sayer
 |:---|:---|:---|---:|
 | 3 | 6 | 4 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

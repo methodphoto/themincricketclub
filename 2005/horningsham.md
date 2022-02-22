@@ -10,13 +10,7 @@ next: selling
 parent: 2005 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 29th 50. A Slight Best Bowling.<br />
 The second ever 4 win Tour
@@ -99,4 +93,4 @@ The second ever 4 win Tour
 |:---|:---|:---|---:|
 | 6 | 3 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

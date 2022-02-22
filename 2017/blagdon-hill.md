@@ -9,13 +9,7 @@ result: Blagdon Hill won by 39 runs.
 parent: 2017 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 

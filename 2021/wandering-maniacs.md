@@ -9,13 +9,7 @@ result: The Min won by 113 runs
 parent: 2021 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Damaze 3rd 50 (35 balls)
 
@@ -100,4 +94,4 @@ R Damaze 3rd 50 (35 balls)
 |:---|:---|:---|---:|
 | 4 | 3 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

@@ -10,13 +10,7 @@ next: ockley
 parent: 2009 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 #### Match Report
 
@@ -114,4 +108,4 @@ R Earney's 40th 50
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

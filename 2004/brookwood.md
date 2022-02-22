@@ -10,13 +10,7 @@ next: selling
 parent: 2004 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 23rd 50. A Slight's 2nd 50.<br />
 Partnership of 132 between R Earney and A Slight
@@ -99,4 +93,4 @@ Partnership of 132 between R Earney and A Slight
 |:---|:---|:---|---:|
 | 4 | 2 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

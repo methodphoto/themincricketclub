@@ -10,13 +10,7 @@ next: watton-at-stone
 parent: 1996 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 P Bentley best bowling
 
@@ -96,4 +90,4 @@ P Bentley best bowling
 |:---|:---|:---|---:|
 | 7 | 1 | 5 | 1 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

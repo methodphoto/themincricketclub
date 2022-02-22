@@ -9,13 +9,7 @@ result:
 parent: 2016 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Result: {result}
  
@@ -94,7 +88,7 @@ Result: {result}
 |:---|:---|:---|---:|
 | 3 | 3 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}
 
 
 D Overburyb I Marshall30

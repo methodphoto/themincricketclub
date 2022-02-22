@@ -10,13 +10,7 @@ next: watton-at-stone
 parent: 1993 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## Checkendon Innings
 
@@ -94,4 +88,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 4 | 1 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

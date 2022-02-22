@@ -10,13 +10,7 @@ next: watton-at-stone
 parent: 2001 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 I Marshall's 7th five wkt haul
 
@@ -97,4 +91,4 @@ I Marshall's 7th five wkt haul
 |:---|:---|:---|---:|
 | 1 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

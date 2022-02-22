@@ -9,13 +9,7 @@ result: The Min won by 5 wkts
 parent: 2000 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 
 ## {{page.title}} Innings

@@ -10,13 +10,7 @@ next: hendon-edgware
 parent: 1984 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 A Gallagher's 3rd 50
 
@@ -95,4 +89,4 @@ A Gallagher's 3rd 50
 |:---|:---|:---|---:|
 | 3 | 2 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

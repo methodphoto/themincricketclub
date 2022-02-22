@@ -9,13 +9,7 @@ result: Kilmington and Stourton won by 22 runs
 parent: 2014 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Partnership of 115 between R Beswick and R Earney
 
@@ -101,4 +95,4 @@ Partnership of 115 between R Beswick and R Earney
 |:---|:---|:---|---:|
 | 5 | 2 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

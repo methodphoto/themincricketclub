@@ -10,13 +10,7 @@ next: wareham
 parent: 2002 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's third century for The Min.<br />
 Partnership of 158 between R Earney and R Kitson
@@ -98,4 +92,4 @@ Partnership of 158 between R Earney and R Kitson
 |:---|:---|:---|---:|
 | 1 | 1 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

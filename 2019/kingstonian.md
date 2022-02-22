@@ -10,13 +10,7 @@ next: reigate-pilgrims
 parent: 2019 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 A Beswick 86* Highest score for The Min
 
@@ -102,4 +96,4 @@ A Beswick 86* Highest score for The Min
 |:---|:---|:---|---:|
 | 4 | 4 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

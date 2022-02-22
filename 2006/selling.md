@@ -10,13 +10,7 @@ next: sb-exiles
 parent: 2006 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## The Min Innings
 
@@ -97,4 +91,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 4 | 6 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

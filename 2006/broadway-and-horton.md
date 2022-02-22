@@ -10,13 +10,7 @@ next: kilmington-and-stourton
 parent: 2006 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 32nd 50. R Beswick's 19th 50. <br />
 Partnership of 135 between R Earney and R Beswick
@@ -105,4 +99,4 @@ Partnership of 135 between R Earney and R Beswick
 |:---|:---|:---|---:|
 | 4 | 3 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

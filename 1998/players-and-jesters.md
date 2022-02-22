@@ -10,13 +10,7 @@ next: stowting
 parent: 1998 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Beswick retired hurt with the score on 100
 
@@ -96,4 +90,4 @@ R Beswick retired hurt with the score on 100
 |:---|:---|:---|---:|
 | 0 | 0 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

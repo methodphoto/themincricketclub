@@ -10,13 +10,7 @@ next: broadway-and-horton
 parent: 1993 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney first 5 wkt haul for The Min
 
@@ -96,4 +90,4 @@ R Earney first 5 wkt haul for The Min
 |:---|:---|:---|---:|
 | 3 | 1 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

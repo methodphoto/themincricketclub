@@ -10,13 +10,7 @@ next: selling
 parent: 2007 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 25th Anniversary (and 350th) Game)
 
@@ -94,7 +88,7 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 5 | 2 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}
 
 <img src="<img src="anniversary-1.jpg" width="100%" alt="Sheltering" />
 

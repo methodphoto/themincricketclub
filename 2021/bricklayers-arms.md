@@ -9,13 +9,7 @@ result: Bricklayer's Arms won by 43 runs
 parent: 2021 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 A Beswick's 9th 50
 
@@ -101,4 +95,4 @@ A Beswick's 9th 50
 |:---|:---|:---|---:|
 | 1 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

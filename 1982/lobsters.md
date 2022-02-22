@@ -10,13 +10,7 @@ next: a-good-length-2
 parent: 1982 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 
@@ -103,4 +97,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 5 | 3 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

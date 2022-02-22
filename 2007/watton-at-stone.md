@@ -9,13 +9,7 @@ result: The Min won by 57 runs
 parent: 2007 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## The Min Innings
 

@@ -10,13 +10,7 @@ next: watton-at-stone
 parent: 2007 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 E Garland's 4th Michelle. R Earney's 35th 50
 
@@ -94,4 +88,4 @@ E Garland's 4th Michelle. R Earney's 35th 50
 |:---|:---|:---|---:|
 | 5 | 4 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

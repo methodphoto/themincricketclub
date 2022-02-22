@@ -10,13 +10,7 @@ next: tappers
 parent: 2004 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 24th 50. R Beswick's 16th 50.<br />
 Partnership of 126 between R Earney and R Beswick
@@ -98,4 +92,4 @@ Partnership of 126 between R Earney and R Beswick
 |:---|:---|:---|---:|
 | 5 | 2 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

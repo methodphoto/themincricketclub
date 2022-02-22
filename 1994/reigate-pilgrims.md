@@ -10,13 +10,7 @@ next: watton-at-stone
 parent: 1994 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney best bowling
 
@@ -96,4 +90,4 @@ R Earney best bowling
 |:---|:---|:---|---:|
 | 3 | 6 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

@@ -10,13 +10,7 @@ next: reigate-pilgrims
 parent: 2008 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## The Min Innings
 
@@ -97,4 +91,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 8 | 2 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

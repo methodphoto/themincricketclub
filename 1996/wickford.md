@@ -10,13 +10,7 @@ next: tappers
 parent: 1996 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 First Tied match in Min history
 
@@ -97,4 +91,4 @@ First Tied match in Min history
 |:---|:---|:---|---:|
 | 2 | 0 | 2 | 1 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

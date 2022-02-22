@@ -10,13 +10,7 @@ next: great-tew
 parent: 1995 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney highest score and first hundred for the Min.<br />Partnership of 154 between R Earney and S Barrowcliff
 
@@ -95,4 +89,4 @@ R Earney highest score and first hundred for the Min.<br />Partnership of 154 be
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

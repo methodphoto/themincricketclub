@@ -10,13 +10,7 @@ next: brookwood
 parent: 2004 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 22nd 50
 
@@ -94,4 +88,4 @@ R Earney's 22nd 50
 |:---|:---|:---|---:|
 | 4 | 2 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

@@ -10,13 +10,7 @@ next: tappers
 parent: 2000 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 P Grant first 50. R Green best bowling for The Min
 
@@ -100,4 +94,4 @@ P Grant first 50. R Green best bowling for The Min
 |:---|:---|:---|---:|
 | 6 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

@@ -9,13 +9,7 @@ result: Broadway and Horton regained The Ashes by 23 runs
 parent: 2021 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 E Garland 5 wkts
 
@@ -102,4 +96,4 @@ E Garland 5 wkts
 |:---|:---|:---|---:|
 | 2 | 3 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

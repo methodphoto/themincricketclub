@@ -10,13 +10,7 @@ next: kilmington-and-stourton
 parent: 2011 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Beswick's 24th 50<br />
 Partnership of 107 between R Beswick and A Slight
@@ -100,4 +94,4 @@ Partnership of 107 between R Beswick and A Slight
 |:---|:---|:---|---:|
 | 3 | 3 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

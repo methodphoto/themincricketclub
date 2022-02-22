@@ -10,13 +10,7 @@ next: stowting
 parent: 2004 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Beswick's 15th 50. H Ingham's first 50.<br />
 Partnership of 186 between R Beswick and H Ingham. Highest Min Partnership.
@@ -97,4 +91,4 @@ Partnership of 186 between R Beswick and H Ingham. Highest Min Partnership.
 |:---|:---|:---|---:|
 | 3 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

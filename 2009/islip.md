@@ -10,13 +10,7 @@ next: elccc
 parent: 2009 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 D Wigg highest score. A Beswick best bowling
 
@@ -98,4 +92,4 @@ D Wigg highest score. A Beswick best bowling
 |:---|:---|:---|---:|
 | 5 | 1 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

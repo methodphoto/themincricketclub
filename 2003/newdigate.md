@@ -10,13 +10,7 @@ next: watton-at-stone
 parent: 2003 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Partnership of 134 between R Beswick and J Grant
 
@@ -98,4 +92,4 @@ Partnership of 134 between R Beswick and J Grant
 |:---|:---|:---|---:|
 | 0 | 1 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

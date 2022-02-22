@@ -9,13 +9,7 @@ result: Reigate Pilgrims won by 3 wkts
 parent: 2020 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 The Jerry Wright and Pete Grant Memorial Match
 

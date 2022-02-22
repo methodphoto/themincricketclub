@@ -9,13 +9,7 @@ result: Reigate Pilgrims won by 82 runs
 parent: 1999 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 

@@ -10,13 +10,7 @@ next: reigate-pilgrims
 parent: 2005 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 6th Hundred and highest score. A Slight's 3rd 50.<br />
 Partnership of 165 between R Earney and A Slight<br />
@@ -98,4 +92,4 @@ J Wright's 5th Fivefer
 |:---|:---|:---|---:|
 | 7 | 4 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

@@ -9,13 +9,7 @@ result: Flamingo won by 1wkt
 parent: 1989 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## The Min Innings
 

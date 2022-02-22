@@ -9,13 +9,7 @@ result: The Min won by 78 runs
 parent: 2021 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 J Carroll, 2nd 50 and a hattrick (over two overs)
 
@@ -98,4 +92,4 @@ J Carroll, 2nd 50 and a hattrick (over two overs)
 |:---|:---|:---|---:|
 | 2 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

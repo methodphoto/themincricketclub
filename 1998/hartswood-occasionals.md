@@ -10,13 +10,7 @@ next: copdock
 parent: 1998 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 
@@ -96,4 +90,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 3 | 0 | 4 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

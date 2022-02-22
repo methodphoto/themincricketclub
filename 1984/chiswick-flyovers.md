@@ -10,13 +10,7 @@ next: ealonian
 parent: 1984 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Result: {result}
  
@@ -94,4 +88,4 @@ Result: {result}
 |:---|:---|:---|---:|
 | 5 | 3 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

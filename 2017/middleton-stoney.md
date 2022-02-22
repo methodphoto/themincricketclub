@@ -9,13 +9,7 @@ result: Middleton Stoney won by 43 runs
 parent: 2017 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Simpson 100 off 46 balls
 

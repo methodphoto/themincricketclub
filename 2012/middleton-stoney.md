@@ -10,13 +10,7 @@ next: elccc
 parent: 2012 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 43rd 50.<br />
 Partnership of 112 between M.Goff and R.Earney in 93 mins
@@ -117,4 +111,4 @@ Joint Min of the Match: Goffy and Earn. Honourable mention for Slighty who thoug
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

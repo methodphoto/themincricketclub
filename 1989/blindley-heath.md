@@ -10,13 +10,7 @@ next: valley-end
 parent: 1989 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 I Marshall hattrick off the last 3 balls of the game
 
@@ -97,4 +91,4 @@ I Marshall hattrick off the last 3 balls of the game
 |:---|:---|:---|---:|
 | 1 | 4 | 4 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

@@ -9,13 +9,7 @@ result: The Min won by 19 runs
 parent: 2006 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 M Goff's 5th 50.<br />
 Partnership of 113 between M Goff and R Beswick

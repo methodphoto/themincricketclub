@@ -10,13 +10,7 @@ next: middleton-stoney
 parent: 2008 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 M Gupta's 1st 50
 
@@ -95,4 +89,4 @@ M Gupta's 1st 50
 |:---|:---|:---|---:|
 | 2 | 1 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

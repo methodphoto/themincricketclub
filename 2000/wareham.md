@@ -10,13 +10,7 @@ next: broadway-and-horton
 parent: 2000 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 S Hornsby, 3rd century, highest score for the Min and club record. 144 partnership between R Beswick and S Hornsby
 
@@ -100,4 +94,4 @@ S Hornsby, 3rd century, highest score for the Min and club record. 144 partnersh
 |:---|:---|:---|---:|
 | 3 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

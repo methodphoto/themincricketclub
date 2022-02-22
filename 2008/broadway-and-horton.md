@@ -10,13 +10,7 @@ next: horningsham
 parent: 2008 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 The Ashes retained
 
@@ -99,4 +93,4 @@ The Ashes retained
 |:---|:---|:---|---:|
 | 6 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

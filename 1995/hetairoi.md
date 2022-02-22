@@ -10,13 +10,7 @@ next: white-lion
 parent: 1995 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Partnership of 103 between G Fenn and W Jones<br />
 Partnership of 108 between E Garland and P Bentley
@@ -95,4 +89,4 @@ Partnership of 108 between E Garland and P Bentley
 |:---|:---|:---|---:|
 | 6 | 3 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

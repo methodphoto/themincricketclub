@@ -9,13 +9,7 @@ result: The Min won by 7 wkts
 parent: 2021 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 E Garland 5 wkts (2nd match in a row). A Beswick's 10th 50<br />
 Partnership of 103 between A Beswick and R Earney
@@ -102,4 +96,4 @@ Partnership of 103 between A Beswick and R Earney
 |:---|:---|:---|---:|
 | 3 | 3 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

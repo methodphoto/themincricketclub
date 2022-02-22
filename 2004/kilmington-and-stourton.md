@@ -10,13 +10,7 @@ next: the-gents
 parent: 2004 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 21st 50
 
@@ -101,4 +95,4 @@ R Earney's 21st 50
 |:---|:---|:---|---:|
 | 4 | 2 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

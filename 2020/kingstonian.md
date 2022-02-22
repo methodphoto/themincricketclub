@@ -10,13 +10,7 @@ next: railway-taverners
 parent: 2020 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 A Gallagher: 54* off 45 balls
 
@@ -102,4 +96,4 @@ A Gallagher: 54* off 45 balls
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

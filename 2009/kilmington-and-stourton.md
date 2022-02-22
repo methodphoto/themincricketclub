@@ -10,13 +10,7 @@ next: horningsham
 parent: 2009 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Beswick's 22nd 50 and highest score
 
@@ -99,4 +93,4 @@ R Beswick's 22nd 50 and highest score
 |:---|:---|:---|---:|
 | 3 | 1 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

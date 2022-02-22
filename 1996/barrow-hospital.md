@@ -10,13 +10,7 @@ next: broadway-and-horton
 parent: 1996 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## Barrow Hospital Innings
 
@@ -95,4 +89,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 4 | 0 | 3 | 1 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

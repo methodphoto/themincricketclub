@@ -10,13 +10,7 @@ next: clifton-college
 parent: 1982 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## A Good Length Innings
 
@@ -91,4 +85,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 6 | 3 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

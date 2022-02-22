@@ -9,13 +9,7 @@ result: Match Drawn
 parent: 1988 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Phil Bentley, first centurion
 

@@ -10,13 +10,7 @@ next: cerne-valley
 parent: 2019 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 
@@ -99,4 +93,4 @@ R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 |:---|:---|:---|---:|
 | 5 | 4 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

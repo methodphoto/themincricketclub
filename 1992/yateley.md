@@ -10,13 +10,7 @@ next: antilles
 parent: 1992 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 1st 50. R Beswick's 3rd 50
 
@@ -99,4 +93,4 @@ R Earney's 1st 50. R Beswick's 3rd 50
 |:---|:---|:---|---:|
 | 1 | 1 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

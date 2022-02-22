@@ -10,13 +10,7 @@ next: old-colfeians
 parent: 2004 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 S Barrowcliff's 12th 50
 
@@ -99,4 +93,4 @@ S Barrowcliff's 12th 50
 |:---|:---|:---|---:|
 | 0 | 1 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

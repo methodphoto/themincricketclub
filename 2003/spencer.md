@@ -10,13 +10,7 @@ next: reigate-pilgrims
 parent: 2003 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 
@@ -94,4 +88,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 2 | 3 | 7 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

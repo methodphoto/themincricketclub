@@ -9,13 +9,7 @@ result: Reigate Pilgrims won by 5 wkts
 parent: 2017 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## The Min Innings
 

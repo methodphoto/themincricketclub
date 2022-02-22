@@ -10,13 +10,7 @@ next: tappers
 parent: 1999 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 
 ## Hetairoi Innings
@@ -96,4 +90,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 3 | 7 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

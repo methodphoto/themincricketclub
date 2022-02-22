@@ -10,13 +10,7 @@ next: valley-end
 parent: 1986 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 
@@ -94,4 +88,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 4 | 3 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

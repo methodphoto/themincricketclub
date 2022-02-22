@@ -10,13 +10,7 @@ next: watton-at-stone
 parent: 2009 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 #### Match Report
 
@@ -113,4 +107,4 @@ M Gupta's 3rd 50. E Garland's 6th Michelle and best bowling
 |:---|:---|:---|---:|
 | 2 | 0 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

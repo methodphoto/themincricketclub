@@ -9,13 +9,7 @@ result: The Min won by 185 runs
 parent: 2017 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 S Amin best bowling for The Min.
 

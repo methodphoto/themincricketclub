@@ -10,13 +10,7 @@ next: elccc
 parent: 2011 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 T Rutherford's 3rd 50 and highest score. A Beswick's 1st 50 and highest score.
 
@@ -96,4 +90,4 @@ T Rutherford's 3rd 50 and highest score. A Beswick's 1st 50 and highest score.
 |:---|:---|:---|---:|
 | 1 | 1 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

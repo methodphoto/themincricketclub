@@ -10,13 +10,7 @@ next: reigate-pilgrims
 parent: 2004 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Beswick's 17th 50
 
@@ -97,4 +91,4 @@ R Beswick's 17th 50
 |:---|:---|:---|---:|
 | 5 | 3 | 4 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

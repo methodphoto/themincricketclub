@@ -10,13 +10,7 @@ next: harrow-st-marys
 parent: 2008 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 M Goff's 6th 50
 
@@ -103,4 +97,4 @@ Brother fought brother for the second year in a row, but they could not be separ
 |:---|:---|:---|---:|
 | 6 | 2 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

@@ -10,13 +10,7 @@ next: reigate-pilgrims
 parent: 2006 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 7th century. M Goff's 1st century.<br />
 Partnership of 179 between R Earney and M Goff.
@@ -101,4 +95,4 @@ Partnership of 179 between R Earney and M Goff.
 |:---|:---|:---|---:|
 | 5 | 6 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

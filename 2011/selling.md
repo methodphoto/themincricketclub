@@ -9,13 +9,7 @@ result: Match Abandoned as a Draw
 parent: 2011 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 <video src="selling.mp4" controls type="video/mp4" width="100%"></video>
 
@@ -91,7 +85,7 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 6 | 6 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}
 
 
 [Next season](../2012)

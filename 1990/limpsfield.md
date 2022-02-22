@@ -10,13 +10,7 @@ next: brook
 parent: 1990 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 
@@ -92,4 +86,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 0 | 3 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

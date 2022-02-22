@@ -10,13 +10,7 @@ next: durranti
 parent: 1989 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Beswick's 2nd 50
 
@@ -95,4 +89,4 @@ R Beswick's 2nd 50
 |:---|:---|:---|---:|
 | 1 | 2 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

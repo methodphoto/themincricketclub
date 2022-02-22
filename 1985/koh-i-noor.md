@@ -10,13 +10,7 @@ next: lobsters
 parent: 1985 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## The Min Innings
 
@@ -94,4 +88,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 6 | 3 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

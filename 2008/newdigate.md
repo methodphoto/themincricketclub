@@ -10,13 +10,7 @@ next: watton-at-stone
 parent: 2008 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Beswick's 21st 50. W Calvert's 7th 50
 
@@ -99,4 +93,4 @@ R Beswick's 21st 50. W Calvert's 7th 50
 |:---|:---|:---|---:|
 | 4 | 1 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

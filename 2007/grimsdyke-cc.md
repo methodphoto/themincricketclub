@@ -10,13 +10,7 @@ next: broadway-and-horton
 parent: 2007 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 P Wigg's first 50 and highest score
 
@@ -98,4 +92,4 @@ P Wigg's first 50 and highest score
 |:---|:---|:---|---:|
 | 3 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

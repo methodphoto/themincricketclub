@@ -10,13 +10,7 @@ next: broadway-and-horton
 parent: 2010 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Beswick's 4th Michelle.
 
@@ -94,4 +88,4 @@ R Beswick's 4th Michelle.
 |:---|:---|:---|---:|
 | 5 | 1 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

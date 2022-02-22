@@ -10,13 +10,7 @@ next: long-marston
 parent: 1991 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 D Swann 74 off 47 balls (50 off 31)
 
@@ -98,4 +92,4 @@ D Swann 74 off 47 balls (50 off 31)
 |:---|:---|:---|---:|
 | 7 | 2 | 5 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

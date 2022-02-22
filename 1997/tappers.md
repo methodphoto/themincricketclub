@@ -10,13 +10,7 @@ next: great-braxted
 parent: 1997 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney 3rd 5 wkt haul for The Min
 
@@ -97,4 +91,4 @@ R Earney 3rd 5 wkt haul for The Min
 |:---|:---|:---|---:|
 | 1 | 5 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

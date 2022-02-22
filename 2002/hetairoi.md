@@ -10,13 +10,7 @@ next: tappers
 parent: 2002 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 121 run partnership between S Hornsby and R Earney. E Garland's best bowling for The Min.
 
@@ -96,4 +90,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 1 | 3 | 4 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

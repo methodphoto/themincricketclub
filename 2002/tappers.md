@@ -10,13 +10,7 @@ next: selling
 parent: 2002 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Green, second 5 wkt haul for The Min
 
@@ -96,4 +90,4 @@ R Green, second 5 wkt haul for The Min
 |:---|:---|:---|---:|
 | 1 | 3 | 5 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

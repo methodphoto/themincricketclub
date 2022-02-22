@@ -10,13 +10,7 @@ next: newdigate
 parent: 2006 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 
@@ -98,4 +92,4 @@ Partnership of 129 between R Earney and M Goff
 |:---|:---|:---|---:|
 | 3 | 0 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

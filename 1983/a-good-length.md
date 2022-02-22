@@ -10,13 +10,7 @@ next: bathurst-arms
 parent: 1983 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 A Gallagher's 2nd 50
 
@@ -98,4 +92,4 @@ A Gallagher's 2nd 50
 |:---|:---|:---|---:|
 | 3 | 0 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

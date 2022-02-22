@@ -10,13 +10,7 @@ next: icl-bracknell
 parent: 1993 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 S Barrowcliff first Min century.<br />
 Partnership of 135 between S Barrowcliff and W Wright
@@ -97,4 +91,4 @@ Partnership of 135 between S Barrowcliff and W Wright
 |:---|:---|:---|---:|
 | 2 | 1 | 1 | 0 |
 
-[Next game:]({{page.next}}) |
+{% include nextGame %} |

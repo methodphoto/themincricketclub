@@ -10,13 +10,7 @@ next: old-colfeians
 parent: 2000 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 P O'Mahony's best bowling for The Min
 
@@ -94,4 +88,4 @@ P O'Mahony's best bowling for The Min
 |:---|:---|:---|---:|
 | 8 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

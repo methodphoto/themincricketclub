@@ -10,13 +10,7 @@ next: land-warfare-xi
 parent: 2003 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Broadway and Horton regained the Ashes
 
@@ -99,4 +93,4 @@ Broadway and Horton regained the Ashes
 |:---|:---|:---|---:|
 | 0 | 2 | 6 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

@@ -10,13 +10,7 @@ next: broadway-and-horton
 parent: 2001 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 2nd Century.<br />
 Partnership of 151 between R Earney and R Beswick
@@ -101,4 +95,4 @@ Partnership of 151 between R Earney and R Beswick
 |:---|:---|:---|---:|
 | 2 | 2 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

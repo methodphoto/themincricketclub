@@ -9,13 +9,7 @@ result:
 parent: 2016 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 
@@ -98,4 +92,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 3 | 0 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

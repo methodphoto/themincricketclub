@@ -10,13 +10,7 @@ next: ex-blues
 parent: 1999 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Broadway and Horton regained The Ashes
 
@@ -98,4 +92,4 @@ Broadway and Horton regained The Ashes
 |:---|:---|:---|---:|
 | 3 | 5 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

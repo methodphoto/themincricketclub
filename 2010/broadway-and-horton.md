@@ -10,13 +10,7 @@ next: kilmington-and-stourton
 parent: 2010 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 T Hammond 1st 100. W Calvert's 8th 50.<br />
 Partnership of 172 between T Hammond and W Calvert
@@ -101,4 +95,4 @@ Partnership of 172 between T Hammond and W Calvert
 |:---|:---|:---|---:|
 | 6 | 1 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

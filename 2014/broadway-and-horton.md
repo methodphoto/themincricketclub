@@ -9,13 +9,7 @@ result:
 parent: 2014 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 <img src="broadway-2014.jpg" width="100%" alt="Team Photo" />
 

@@ -9,13 +9,7 @@ result: The Min won by 7 wkts
 parent: 2005 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 G Powell best bowling. R Beswick's 18th 50
 

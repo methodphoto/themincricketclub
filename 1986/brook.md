@@ -10,13 +10,7 @@ next: horningsham
 parent: 1986 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 E Garland: Best bowling
  
@@ -95,4 +89,4 @@ E Garland: Best bowling
 |:---|:---|:---|---:|
 | 4 | 1 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

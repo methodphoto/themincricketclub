@@ -10,13 +10,7 @@ next: hetairoi
 parent: 2002 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## The Min Innings
 
@@ -95,4 +89,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 1 | 3 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

@@ -10,13 +10,7 @@ next: town-cryers
 parent: 1985 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 A Gallagher's 4th 50
 
@@ -95,4 +89,4 @@ A Gallagher's 4th 50
 |:---|:---|:---|---:|
 | 1 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

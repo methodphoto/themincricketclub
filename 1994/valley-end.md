@@ -10,13 +10,7 @@ next: reigate-pilgrims
 parent: 1994 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Partnership of 133 for Valley End between M Aggar and Chadwich 
 
@@ -97,4 +91,4 @@ Partnership of 133 for Valley End between M Aggar and Chadwich
 |:---|:---|:---|---:|
 | 3 | 5 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

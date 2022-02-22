@@ -10,13 +10,7 @@ next: spencer
 parent: 2010 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 T Hammond's 2nd 50.<br />
 Partnership of 109 between T Hammond and M Gupta
@@ -98,4 +92,4 @@ Partnership of 109 between T Hammond and M Gupta
 |:---|:---|:---|---:|
 | 8 | 4 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

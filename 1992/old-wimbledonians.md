@@ -10,13 +10,7 @@ next: reigate-pilgrims
 parent: 1992 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## The Min Innings
 
@@ -94,4 +88,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 3 | 5 | 4 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

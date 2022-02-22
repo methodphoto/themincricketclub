@@ -10,13 +10,7 @@ next: kilmington-and-stourton
 parent: 2007 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 <img src="broadway-team-2007.jpg" width="100%" alt="Team against Broadway" />
 
@@ -98,4 +92,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 4 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

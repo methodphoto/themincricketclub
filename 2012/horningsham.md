@@ -10,13 +10,7 @@ next: newdigate
 parent: 2012 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 #### Match report
 
@@ -111,4 +105,4 @@ Still we took the positives; that we played at all and that we didn't drown.
 |:---|:---|:---|---:|
 | 2 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

@@ -10,13 +10,7 @@ next: stonor
 parent: 1996 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 J Hylton first hundred.<br />
 Partnership of 102 between J Hylton and R Beswick
@@ -101,4 +95,4 @@ Partnership of 102 between J Hylton and R Beswick
 |:---|:---|:---|---:|
 | 5 | 1 | 5 | 1 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

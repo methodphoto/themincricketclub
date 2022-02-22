@@ -10,10 +10,4 @@ parent: 2016 Fixtures
 parent: 2015 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}

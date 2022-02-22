@@ -10,13 +10,7 @@ next: j-stimfigs-xi
 parent: 1982 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 J Booth and D Mundy: partnership of 100
  
@@ -96,4 +90,4 @@ J Booth and D Mundy: partnership of 100
 |:---|:---|:---|---:|
 | 3 | 0 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

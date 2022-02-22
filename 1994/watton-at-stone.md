@@ -9,13 +9,7 @@ result: Watton-at-Stone won by 103 runs
 parent: 1994 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Partnership of 109 between M Tipper and W Emsley
 

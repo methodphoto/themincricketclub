@@ -10,13 +10,7 @@ next: ub-ii
 parent: 1983 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 A Gallagher's 1st 50
 
@@ -96,4 +90,4 @@ A Gallagher's 1st 50
 |:---|:---|:---|---:|
 | 2 | 0 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

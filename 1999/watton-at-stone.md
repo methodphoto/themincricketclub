@@ -10,13 +10,7 @@ next: great-braxted
 parent: 1999 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 E Garland highest score for The Min
 
@@ -96,4 +90,4 @@ E Garland highest score for The Min
 |:---|:---|:---|---:|
 | 2 | 1 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

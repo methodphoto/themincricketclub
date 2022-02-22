@@ -10,13 +10,7 @@ next: horningsham
 parent: 2011 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 E Garland best bowling and best return for The Min
 
@@ -99,4 +93,4 @@ E Garland best bowling and best return for The Min
 |:---|:---|:---|---:|
 | 3 | 4 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

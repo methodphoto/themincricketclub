@@ -10,13 +10,7 @@ next: selling
 parent: 2000 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Partnership of 116 between R Earney and R Beswick
 
@@ -96,4 +90,4 @@ Partnership of 116 between R Earney and R Beswick
 |:---|:---|:---|---:|
 | 7 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

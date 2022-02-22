@@ -9,13 +9,7 @@ result: Middleton Stoney won by 89 runs
 parent: 2015 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Simpson scored 128* and was dropped several times
 
@@ -96,4 +90,4 @@ R Simpson scored 128* and was dropped several times
 |:---|:---|:---|---:|
 | 0 | 1 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

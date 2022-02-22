@@ -10,13 +10,7 @@ next: sb-exiles
 parent: 2009 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 M Gupta's 2nd Michelle and a Hat trick and 4th 50
 
@@ -103,4 +97,4 @@ M Gupta's 2nd Michelle and a Hat trick and 4th 50
 |:---|:---|:---|---:|
 | 5 | 2 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

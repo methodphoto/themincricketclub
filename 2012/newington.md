@@ -10,13 +10,7 @@ next: horningsham
 parent: 2012 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 43rd 50.<br />
 Partnership of 108 between R Earney and T Rutherford
@@ -99,4 +93,4 @@ Partnership of 108 between R Earney and T Rutherford
 |:---|:---|:---|---:|
 | 2 | 1 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

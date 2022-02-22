@@ -10,13 +10,7 @@ next: old-mid-whitgiftians
 parent: 2006 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney's 33rd 50. R Beswick's 20th 50. P O'Mahony 45 off 18 balls for his highest score
 
@@ -101,4 +95,4 @@ R Earney's 33rd 50. R Beswick's 20th 50. P O'Mahony 45 off 18 balls for his high
 |:---|:---|:---|---:|
 | 4 | 5 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

@@ -10,13 +10,7 @@ next: another-mans-meat
 parent: 1982 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 Ken Sullivan - Best Bowling by The Min
 
@@ -93,4 +87,4 @@ Ken Sullivan - Best Bowling by The Min
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

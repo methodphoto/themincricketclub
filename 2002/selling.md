@@ -10,13 +10,7 @@ next: north-holmwood
 parent: 2002 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 R Earney second century in the season and fourth overall and his highest score for The Min
 
@@ -96,4 +90,4 @@ R Earney second century in the season and fourth overall and his highest score f
 |:---|:---|:---|---:|
 | 2 | 3 | 5 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}
