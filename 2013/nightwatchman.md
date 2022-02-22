@@ -10,13 +10,7 @@ next: newington
 parent: 2013 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
-
-**Result:** {{page.result}}
+{% include matchDetails %}
 
 ## {{page.title}} Innings
 
@@ -101,4 +95,4 @@ Played at {{page.location}} on {{page.date}}
 |:---|:---|:---|---:|
 | 1 | 1 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

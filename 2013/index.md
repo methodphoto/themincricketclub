@@ -44,8 +44,8 @@ parent: 2010s
 
 | September |  |  |  |
 |:---|:---|:---|:---|
-| 8th | 13:30 | [Brasted Invicta](brasted-invicta) | [Away]() |
-| 15th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
+| 8th | 13:30 | [Brasted Invicta](brasted-invicta) | [Away](https://goo.gl/maps/572BWRknBEd9CEvUA) |
+| 15th | 13:00 | <del>Reigate Pilgrims</del> | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 | 22rd | 13:00 | [Selling](selling) | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
 
 [Next season](../2014)

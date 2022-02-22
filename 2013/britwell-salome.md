@@ -10,16 +10,10 @@ next: elccc
 parent: 2013 Fixtures
 ---
 
-# {{page.game}}
-
-Played at {{page.location}} on {{page.date}}
-
-{{page.report}}
+{% include matchDetails %}
 
 S Hornsby's 4th 100. R Beswick's 26th 50.<br />
 Partnership of 133 between S Hornsby and R Beswick
-
-**Result:** {{page.result}}
 
 ## The Min Innings
 
@@ -100,7 +94,7 @@ Partnership of 133 between S Hornsby and R Beswick
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}
 
 #### Video
 
