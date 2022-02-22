@@ -126,16 +126,16 @@ parent: Results
 | 19/05/2013 | [Newington](../2013/newington) | Lost |
 | 09/06/2013 | [Frensham](../2013/frensham) | **Won** |
 | 16/06/2013 | [The Herd](../2013/the-herd) | Lost |
-| {date} | [Watton-at-Stone](../2013/watton-at-stone) | **Won** |
-| {date} | [Stowting](../2013/stowting) | Drawn |
-| {date} | [Broadway and Horton](../2013/broadway-and-horton) | **Won** |
-| {date} | [Kilmington and Stourton](../2013/kilmington-and-stourton) | **Won** |
-| {date} | [Exford](../2013/exford) | **Won** |
-| {date} | [Horningsham](../2013/horningsham) | **Won** |
-| {date} | [Newdigate](../2013/newdigate) | Lost |
-| {date} | [Addington 1748](../2013/addington-1743) | **Won** |
-| {date} | [Brasted Invicta](../2013/brasted-invicta) | Drawn |
-| {date} | [Selling](../2013/selling) | Lost |
+| 30/06/2013 | [Watton-at-Stone](../2013/watton-at-stone) | **Won** |
+| 07/07/2013 | [Stowting](../2013/stowting) | Drawn |
+| 11/07/2013 | [Broadway and Horton](../2013/broadway-and-horton) | **Won** |
+| 12/07/2013 | [Kilmington and Stourton](../2013/kilmington-and-stourton) | **Won** |
+| 13/07/2013 | [Exford](../2013/exford) | **Won** |
+| 14/07/2013 | [Horningsham](../2013/horningsham) | **Won** |
+| 21/07/2013 | [Newdigate](../2013/newdigate) | Lost |
+| 10/08/2013 | [Addington 1748](../2013/addington-1743) | **Won** |
+| 08/09/2013 | [Brasted Invicta](../2013/brasted-invicta) | Drawn |
+| 22/09/2013 | [Selling](../2013/selling) | Lost |
 
 | 2012 |  |  |
 |:---|:---|:---|

@@ -2,7 +2,7 @@
 layout: default
 title: Brasted Invicta
 game: Brasted Invicta v The Min
-location: 
+location: Hawkenbury Recreation Ground
 date: 
 report: 
 result: 
