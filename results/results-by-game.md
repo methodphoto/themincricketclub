@@ -120,9 +120,9 @@ parent: Results
 
 | 2013 |  |  |
 |:---|:---|:---|
-| {date} | [Middleton Stoney](../2013/middleton-stoney) | Drawn |
-| {date} | [Britwell Salome](../2013/britwell-salome) | Lost |
-| {date} | [Nightwatchman CC](../2013/nightwatchman) | **Won** |
+| 21/04/2013 | [Middleton Stoney](../2013/middleton-stoney) | Drawn |
+| 27/04/2013 | [Britwell Salome](../2013/britwell-salome) | Lost |
+| 12/05/2013 | [Nightwatchman CC](../2013/nightwatchman) | **Won** |
 | {date} | [Newington](../2013/newington) | Lost |
 | {date} | [Frensham](../2013/frensham) | **Won** |
 | {date} | [The Herd](../2013/the-herd) | Lost |
