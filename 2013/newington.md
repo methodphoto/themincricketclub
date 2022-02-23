@@ -79,7 +79,7 @@ C Martin 1st Michelle and best bowling
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **D Creasy** | 7 | 2 | 10 | 2 |
-| **L Morgan** | 5 | 1 | 23 | 31|
+| **L Morgan** | 5 | 1 | 23 | 1 |
 | **As Rasheed** | 7.5 | 3 | 18 | 4 |
 | **Ad Rasheed** | 5 | 0 | 16 | 1 |
 | **D Pratt** | 1 | 0 | 1 | 1 |

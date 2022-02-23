@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Nightwatchmen
-game: The Min v Nightwatchmen
+game: The Min v Nightwatchman
 location: Solefields
 date: 12/05/2013
-report: Nightwatchmen batted first and made 196 for 7 wkts. The Min replied with 199 for 4 wkts
+report: Nightwatchman batted first and made 196 for 7 wkts. The Min replied with 199 for 4 wkts
 result: The Min won by 6 wkts
 next: newington
 parent: 2013 Fixtures
@@ -21,8 +21,8 @@ parent: 2013 Fixtures
 | **I Miah** | c M Gupta | H Ingham | 67 |
 | **G Weekes** | b | P Wigg | 62 |
 | **Maruf** | c W Calvert | P Wigg | 0 |
-| **Will** | b | J Wright |  |
-| **M Elwin** | c H Ingham | T Carden |  |
+| **Will** | b | J Wright | 8 |
+| **M Elwin** | c H Ingham | T Carden | 55 |
 | **R Ahmed** | not out |  | 30 |
 | **Sami** | not out |  | 4 |
 | **Bradley** | dnb |  |  |

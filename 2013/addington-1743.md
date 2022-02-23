@@ -44,7 +44,7 @@ parent: 2013 Fixtures
 | **M Miah** | 8 | 0 | 30 | 2 |
 | **F Gibson** | 8 | 0 | 35 | 1 |
 | **R Blackman** | 8 | 0 | 39 | 1 |
-| **R Shafi** | 4 | 0 | 22 | 12|
+| **R Shafi** | 4 | 0 | 22 | 2 |
 | **C McDowell** | 4 | 0 | 34 | 2 |
 
 ## {{page.title}} Innings

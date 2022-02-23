@@ -6,7 +6,7 @@ location: Britwell Salome CC
 date: 27/04/2013
 report: The Min batted first and made 184 for 4 wkts. Britwell Salome replied with 185 for 4 wkts
 result: Britwell Salome won by 6 wkts
-next: elccc
+next: nightwatchman
 parent: 2013 Fixtures
 ---
 

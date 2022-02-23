@@ -4,7 +4,7 @@ title: Frensham
 game: Frensham v The Min
 location: Hollowdene Recreation Ground
 date: 09/06/2013
-report: Frensham batted first and made 203 for 9 wkts. The Min replied with 
+report: Frensham batted first and made 203 for 9 wkts. The Min replied with 206 for 2 wkts
 result: The Min won by 8 wkts
 next: the-herd
 parent: 2013 Fixtures

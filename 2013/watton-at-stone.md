@@ -12,7 +12,7 @@ parent: 2013 Fixtures
 
 {% include matchDetails %}
 
-A Beswick's 50. T Rutherford's 50
+A Beswick's 2nd 50. T Rutherford's 5th 50
 
 ## The Min Innings
 

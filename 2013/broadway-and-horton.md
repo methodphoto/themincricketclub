@@ -28,7 +28,7 @@ parent: 2013 Fixtures
 | **E Garland** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (9b 4lb 12w 0nb 0p) | **25** |
-| **Total** | | (40 overs) | **209 for 6 wktst** |
+| **Total** | | (40 overs) | **209 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -46,7 +46,7 @@ parent: 2013 Fixtures
 | **H Payne** | 8 | 0 | 40 | 1 |
 | **B Bye** | 8 | 1 | 37 | 1 |
 | **D Lowman** | 5 | 0 | 33 | 1 |
-| **G Field** | 3 | 0 | 22 | 11|
+| **G Field** | 3 | 0 | 22 | 1 |
 
 ## {{page.title}} Innings
 
