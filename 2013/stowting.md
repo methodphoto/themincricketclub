@@ -4,9 +4,9 @@ title: Stowting
 game: Stowting v The Min
 location: Dawes Field
 date: 07/07/2013
-report: 
-result: 
-next: 
+report: Stowting batted first and made 197 for 8 wkts. The Min replied with 120 for 6 wkts
+result: Match Drawn
+next: broadway-and-horton
 parent: 2013 Fixtures
 ---
 
@@ -16,76 +16,78 @@ parent: 2013 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Smith** | c | MacFarlane | 22 |
-| **Cowles** | b | Marshall | 24 |
-| **Scanlon** | b | MacFarlane | 67 |
-| **Godby** | b | MacFarlane | 62 |
-| **Macguire** | b | MacFarlane | 0 |
-| **Pavey** | b | MacFarlane |  |
-| **Chambers** | b | MacFarlane |  |
-| **Potts** | b | MacFarlane |  |
-| **Yerrell** | b | MacFarlane |  |
-| **Scanlon** | b | MacFarlane |  |
-| **Scanlon** | b | MacFarlane |  |
-| **Extras** | | (5b 0lb 6w 0nb) | **11** |
-| **Total** | | (46 overs) | **195 for 3 wkts** |
+| **I Bull** | lbw | R Beswick | 40 |
+| **T Harding** | b | P Wigg | 5 |
+| **J Hill** | lbw | R Beswick | 8 |
+| **C Harding** | b | P Wigg | 1 |
+| **A Parmenter** | b | M Gupta | 4 |
+| **M Jackson** | c & b | E Garland | 24 |
+| **C Ball** | c P Wigg | R Earney | 49 |
+| **D Bland** | b | R Earney | 31 |
+| **A Crush** | not out |  | 20 |
+| **H Noble** | not out |  | 2 |
+| **D Jackson** | dnb |  |  |
+| **Extras** | | (11b 2lb 0w 0nb 0p) | **13** |
+| **Total** | | (39 overs) | **197 for 8 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 17 | 34 | 59 | 59 | 65 | 97 | 169 | 182 |  |  |
+| **Batsman** | 2 | 3 | 4 | 1 | 5 | 6 | 7 | 8 |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Marshall** | 16 | 4 | 41 | 2 |
-| **Marshall** | 13 | 2 | 46 | 1 |
-| **Wright** | 6 | 0 | 36 | 0 |
-| **Beswick** | 7 | 1 | 34 | 0 |
-| **Howcroft** | 4 | 0 | 25 | 0 |
+| **P Wigg** | 11 | 2 | 50 | 2 |
+| **R Beswick** | 8 | 3 | 29 | 2 |
+| **M Gupta** | 7 | 0 | 31 | 1 |
+| **E Garland** | 8 | 0 | 45 | 1 |
+| **R Earney** | 5 | 0 | 29 | 2 |
 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Earney** | b | Yerrell | 2 |
-| **Grant** | b | Yerrell | 0 |
-| **Marshall** | b | Chambers | 20 |
-| **Calvert** | b | Yerrell | 2 |
-| **Howcroft** | b | Chambers | 16 |
-| **MacFarlane** | b | Scanlon | 25 |
-| **Beswick** | b | Scanlon | 21 |
-| **Gardiner** | b | Chambers | 7 |
-| **Fielding** | b | Scanlon | 8 |
-| **Young** | b | Scanlon | 2 |
-| **Wright** | not out |  | 0 |
-| **Extras** | | (9b 2lb 4w 0nb) | **15** |
-| **Total** | | (33.5 overs) | **118 all out** |
+| **R Earney** | b | D Bland | 0 |
+| **D Brookfield** | lbw | D Bland | 4 |
+| **R Damaze** | c T Harding | H Noble | 17 |
+| **A Beswick** | b | C Harding | 23 |
+| **W Calvert** | c C Harding | J Hill | 17 |
+| **M Gupta** | st | A Parmenter | 32 |
+| **N Parmenter** | not out |  | 8 |
+| **R Beswick** | not out |  | 7 |
+| **P Wigg** | dnb |  |  |
+| **J Grant &#8224;** | dnb |  |  |
+| **E Garland** | dnb |  |  |
+| **Extras** | | (3b 1lb 8w 0nb 0p) | **12** |
+| **Total** | | (33.5 overs) | **120 for 6 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 0 | 21 | 21 | 52 | 79 | 104 |  |  |  |  |
+| **Batsman** | 1 | 3 | 2 | 4 | 5 | 6 |  |  |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **D Bland** | 11 | 6 | 20 | 2 |
+| **H Noble** | 8 | 2 | 26 | 1 |
+| **C Harding** | 4 | 0 | 14 | 1 |
+| **J Hill** | 5 | 0 | 28 | 1 |
+| **A Crush** | 4 | 0 | 11 | 0 |
+| **C Ball** | 2 | 0 | 7 | 0 |
+| **A Parmenter** | 4 | 0 | 11 | 1 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 2 | 3 | 1 | 0 |
+| 3 | 3 | 2 | 0 |
 
 {% include nextGame %}

@@ -4,29 +4,31 @@ title: Watton-at-Stone
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 30/06/2013
-report: The Min batted first and made 234 for 6 wkts. Watton-at-Stone replied with 
-result: 
+report: The Min batted first and made 234 for 6 wkts. Watton-at-Stone replied with 134 all out
+result: The Min won by 100 runs
 next: stowting
 parent: 2013 Fixtures
 ---
 
 {% include matchDetails %}
 
+A Beswick's 50. T Rutherford's 50
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Beswick &#42;** | b | Yerrell | 2 |
-| **M Elwin** | b | Yerrell | 0 |
-| **R Damaze** | b | Chambers | 20 |
-| **A Beswick** | b | Yerrell | 2 |
-| **S Hornsby** | b | Chambers | 16 |
-| **M Gupta** | b | Scanlon | 25 |
-| **T Rutherford** | b | Scanlon | 21 |
-| **W Khan** | b | Chambers | 7 |
-| **J Grant &#8224;** | b | Scanlon | 8 |
-| **P Beswick** | b | Scanlon | 2 |
-| **J Wright** | not out |  | 0 |
+| **R Beswick &#42;** | c & b | T Ellis | 10 |
+| **M Elwin** | ct | Wing | 35 |
+| **R Damaze** | c | Wing | 7 |
+| **A Beswick** | not out |  | 77 |
+| **S Hornsby** | lbw | Wing | 0 |
+| **M Gupta** | c | T Ellis | 18 |
+| **T Rutherford** | b | Miller | 53 |
+| **W Khan** | not out |  | 5 |
+| **J Grant &#8224;** | dnb |  |  |
+| **P Beswick** | dnb |  |  |
+| **J Wright** | dnb |  |  |
 | **Extras** | | (11b 7lb 15w 4nb 0p) | **37** |
 | **Total** | | (38 overs) | **234 for 6 wkts** |
 
@@ -41,29 +43,31 @@ parent: 2013 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **G Clark** | 6 | 2 | 13 | 0 |
+| **T Ellis** | 14 | 2 | 44 | 2 |
+| **Wing** | 6 | 1 | 30 | 3 |
+| **Scotts** | 4 | 0 | 37 | 0 |
+| **Fox** | 3 | 0 | 22 | 0 |
+| **Taylor** | 2 | 0 | 20 | 0 |
+| **Miller** | 3 | 0 | 45 | 1 |
 
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Smith** | b | Marshall | 22 |
-| **Cowles** | b | Marshall | 24 |
-| **Scanlon** | b | Marshall | 67 |
-| **Godby** | b | Marshall | 62 |
-| **Macguire** | b | Marshall | 0 |
-| **Pavey** | b | Marshall |  |
-| **Chambers** | b | Marshall |  |
-| **Potts** | b | Marshall |  |
-| **Yerrell** | b | Marshall |  |
-| **Scanlon** | dnb |  |  |
-| **Scanlon** | dnb |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | **11** |
-| **Total** | | (46 overs) | **195 for 3 wkts** |
+| **Freeman** | b | P Beswick | 7 |
+| **T Ellis** | c S Hornsby | R Beswick | 0 |
+| **Doyle** | b | W Khan | 0 |
+| **Miller** | b | P Beswick | 45 |
+| **Clarke** | c J Grant | P Beswick | 23 |
+| **Fox** | b | W Khan | 1 |
+| **Bassingham** | b | M Elwin | 8 |
+| **Shepherd** | c W Khan | R Beswick | 31 |
+| **Wing** | b | R Beswick | 0 |
+| **Taylor** | not out |  | 4 |
+| **Stockley** | b | W Khan | 5 |
+| **Extras** | | (6b 0lb 3w 0nb 0p) | **9** | 
+| **Total** | | (35.4 overs) | **134 all out** |
 
 ## Fall of Wickets
 
@@ -76,18 +80,17 @@ parent: 2013 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **MacFarlane** | 16 | 4 | 41 | 2 |
-| **Marshall** | 13 | 2 | 46 | 1 |
-| **Wright** | 6 | 0 | 36 | 0 |
-| **Beswick** | 7 | 1 | 34 | 0 |
-| **Howcroft** | 4 | 0 | 25 | 0 |
+| **W Khan** | 11 | 1 | 28 | 3 |
+| **R Beswick** | 6 | 0 | 29 | 3 |
+| **P Beswick** | 9 | 1 | 39 | 3 |
+| **J Wright** | 5 | 1 | 13 | 0 |
+| **S Hornsby** | 2 | 1 | 12 | 0 |
+| **M Elwin** | 2.4 | 0 | 5 | 1 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 2 | 3 | 1 | 0 |
-
-{% include nextGame %}
+| 3 | 3 | 1 | 0 |
 
 {% include nextGame %}
