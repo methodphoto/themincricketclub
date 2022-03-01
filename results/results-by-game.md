@@ -114,9 +114,9 @@ parent: Results
 | 12/07/2014 | [Exford](../2014/exford) | **Won** |
 | 13/07/2014 | [Horningsham](../2014/horningsham) | Drawn |
 | 20/07/2014 | [Newdigate](../2014/newdigate) | **Won** |
-| {date} | [Wimbledon United](../2014/wimbledon-united) | Lost |
-| {date} | [Brasted Invicta](../2014/brasted-invicta) | **Won** |
-| {date} | [Reigate Pilgrims](../2014/reigate-pilgrims) | Drawn |
+| 24/08/2014 | [Wimbledon United](../2014/wimbledon-united) | Lost |
+| 07/09/2014 | [Brasted Invicta](../2014/brasted-invicta) | **Won** |
+| 14/09/2014 | [Reigate Pilgrims](../2014/reigate-pilgrims) | Drawn |
 
 | 2013 |  |  |
 |:---|:---|:---|
