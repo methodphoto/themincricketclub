@@ -63,7 +63,7 @@ parent: 2014 Fixtures
 | **J Penfold** | not out |  | 5 |
 | **C Moon** | not out |  | 3 |
 | **Extras** | | (5b 4lb 3w 0nb 0p) | **12** |
-| **Total** | | (39 overs) | **138 for 9 wkts* |
+| **Total** | | (39 overs) | **138 for 9 wkts** |
 
 ## Fall of Wickets
 

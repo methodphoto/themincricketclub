@@ -44,7 +44,7 @@ parent: 2014 Fixtures
 | **M Wood** | 11 | 1 | 45 | 0 |
 | **V Vijayna** | 6 | 1 | 19 | 0 |
 | **S Arnold** | 8 | 1 | 31 | 0 |
-| **D Baty** | 4 | 1 | 14 | 1 |
+| **D Baty** | 4 | 1 | 14 | 2 |
 | **R Burnside** | 3 | 1 | 10 | 1 |
 
 ## {{page.title}} Innings

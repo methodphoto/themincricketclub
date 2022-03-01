@@ -55,7 +55,7 @@ parent: 2014 Fixtures
 | **A Passingham** | dnb |  |  |
 | **A Gundy** | dnb |  |  |
 | **F Kennedy** | dnb |  |  |
-| **Shepherd** | b | Marshall |  |
+| **Shepherd** | dnb |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |

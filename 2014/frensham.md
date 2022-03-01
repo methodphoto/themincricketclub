@@ -56,12 +56,12 @@ Parnership of 133 between R Beswick and M Breddy.
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **P Chuter** | b | J Wright | 12 |
-| **A Peers** | c | R Beswick | 41 |
+| **A Peers** | c | P Beswick | 41 |
 | **S Thomas** | run out |  | 28 |
 | **M Smith** | st W Calvert | J Wright | 4 |
-| **D Woodrow** | b | R Beswick | 14 |
+| **D Woodrow** | b | P Beswick | 14 |
 | **T Reynolds** | run out |  | 10 |
-| **B Peers** | c | R Beswick | 1 |
+| **B Peers** | c | P Beswick | 1 |
 | **W Findlay &#8224;** | b | C Gallagher | 0 |
 | **H Baldock** | st W Calvert | A Gallagher | 9 |
 | **A Page** | c & b | A Butel | 59 |
@@ -83,7 +83,7 @@ Parnership of 133 between R Beswick and M Breddy.
 | **P Wigg** | 6 | 2 | 19 | 0 |
 | **H Ingham** | 5 | 4 | 2 | 0 |
 | **J Wright** | 9 | 0 | 45 | 2 |
-| **P Beswick** | 13 | 1 | 52 | 03|
+| **P Beswick** | 13 | 1 | 52 | 3 |
 | **C Gallagher** | 4 | 1 | 13 | 1 |
 | **A Gallagher** | 3 | 0 | 19 | 1 |
 | **A Ridgers** | 2 | 0 | 39 | 0 |

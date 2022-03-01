@@ -4,8 +4,8 @@ title: Brasted Invicta
 game: Brasted Invicta v The Min
 location: Hawkenbury Recreation Ground
 date: 07/09/2014
-report: 
-result: 
+report: Brasted Invicta batted first and made 115 for 9 wkts. The Min replied with 116 for 5 wkts
+result: The Min won by 5 wkts
 parent: 2014 Fixtures
 ---
 
