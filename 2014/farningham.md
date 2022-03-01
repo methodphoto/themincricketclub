@@ -18,16 +18,16 @@ R Beswick's 27th 50
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **G Smith** | lbw | J Wright | 22 |
-| **P Bodyre** | b | P Wigg | 24 |
-| **B Overy** | b | R Beswick | 67 |
-| **P Fletcher** | b | J Wright | 62 |
+| **G Smith** | lbw | J Wright | 23 |
+| **P Bodyre** | b | P Wigg | 6 |
+| **B Overy** | b | R Beswick | 68 |
+| **P Fletcher** | b | J Wright | 5 |
 | **G Harris** | b | N Havers | 0 |
-| **J Rose** | c H Ingham | R Beswick |  |
-| **C Hawes** | b | R Beswick |  |
-| **J Sherry** | b | H Ingham |  |
-| **P Sutton** | not out |  |  |
-| **C Hucker** | not out |  |  |
+| **J Rose** | c H Ingham | R Beswick | 13 |
+| **C Hawes** | b | R Beswick |  2|
+| **J Sherry** | b | H Ingham | 3 |
+| **P Sutton** | not out |  | 6 |
+| **C Hucker** | not out |  | 1 |
 | **Eliot** | dnb |  |  |
 | **Extras** | | (2b 6lb 5w 2nb 0p) | **15** |
 | **Total** | | (40 overs) | **142 for 8 wkts** |
