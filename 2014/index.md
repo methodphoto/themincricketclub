@@ -10,7 +10,7 @@ parent: 2010s
 | April |  |  |  |
 |:---|:---|:---|:---|
 | 20th | 14:00 | <del>Middleton Stoney</del> | [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) |
-| 26th | 14:00 | [Hook & Southborough](hook-and-southborough) | [Away](https://goo.gl/maps/VlJHS) |
+| 26th | 14:00 | [Hook & Southborough](hook-and-southborough) | [Away](https://goo.gl/maps/XRqVLS5PLHk5AU3b7) |
 
 | May |  |  |  |
 |:---|:---|:---|:---|

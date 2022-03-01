@@ -17,11 +17,11 @@ parent: 2019 Fixtures
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | c (keeper) | Williams | 32 |
-| **R Earney** | b | Gundy | 24 |
+| **R Earney** | b | A Gundy | 24 |
 | **J Stacey &#8224;** | c & b | Hughes-Short | 0 |
 | **J Grant &#8224;** | run out |   | 3 |
 | **A Beswick** | not out |   | 57 |
-| **G Holt** | c Gundy | Williams | 0 |
+| **G Holt** | c A Gundy | Williams | 0 |
 | **K Usanga** | b | Williams | 0 |
 | **W Calvert** | b | W Pringle | 18 |
 | **C Garland** | run out |   | 3 |
@@ -41,8 +41,8 @@ parent: 2019 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Kiddie** | 5 | 0 | 28 | 0 |
-| **Gundy** | 5 | 1 | 13 | 1 |
+| **D Kiddie** | 5 | 0 | 28 | 0 |
+| **A Gundy** | 5 | 1 | 13 | 1 |
 | **Hughes-Short** | 7 | 0 | 34 | 2 |
 | **Williams** | 7 | 2 | 17 | 3 |
 | **W Pringle** | 6 | 1 | 29 | 1 |
@@ -57,7 +57,7 @@ parent: 2019 Fixtures
 | **M Tipper** | run out (Stacey/Grant) |   | 0 |
 | **R Ansell** | not out |   | 78 |
 | **W Pringle** | dnb |   |   |
-| **Gundy** | dnb |   |   |
+| **A Gundy** | dnb |   |   |
 | **Hughes-Short** | dnb |   |   |
 | **Williams** | dnd |   |   |
 | **Tate** | dnb |   |   |

@@ -76,7 +76,7 @@ parent: Records
 | **2014** | Stephen Hornsby | v [Wimbledon United](../2014/wimbledon-united) | **51** |
 | **2014** | Stephen Hornsby | v [Horningsham](../2014/horningsham) | **50&#42;** |
 | **2014** | Richard Earney | v [Horningsham](../2014/horningsham) | **79** |
-| **2014** | Andrew Gallager | v [Exford](../2014/exford) | **50** |
+| **2014** | Andrew Gallagher | v [Exford](../2014/exford) | **50** |
 | **2014** | Mohit Gupta | v [Broadway and Horton](../2014/broadway-and-horton) | **62** |
 | **2014** | Andy Butel | v [Frensham](../2014/Frensham) | **62** |
 | **2014** | Martin Breddy | v [Frensham](../2014/Frensham) | **85** |

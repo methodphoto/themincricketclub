@@ -103,17 +103,17 @@ parent: Results
 
 | 2014 |  |  |
 |:---|:---|:---|
-| {date} | [Hook and Southborough](../2014/hook-and-southborough) | Lost |
-| {date} | [Nightwatchmen CC](../2014/nightwatchman) | **Won** |
-| {date} | [Newington](../2014/newington) | **Won** |
-| {date} | [Farningham](../2014/farningham) | **Won** |
-| {date} | [Frensham](../2014/frensham) | **Won** |
-| {date} | [Watton-at-Stone](../2014/watton-at-stone) | Drawn |
-| {date} | [Broadway and Horton](../2014/broadway-and-horton) | **Won** |
-| {date} | [Kilmington and Stourton](../2014/kilmington-and-stourton) | Lost |
-| {date} | [Exford](../2014/exford) | **Won** |
-| {date} | [Horningsham](../2014/horningsham) | Drawn |
-| {date} | [Newdigate](../2014/newdigate) | **Won** |
+| 26/04/2014 | [Hook and Southborough](../2014/hook-and-southborough) | Lost |
+| 11/05/2014 | [Nightwatchmen CC](../2014/nightwatchman) | **Won** |
+| 18/05/2014 | [Newington](../2014/newington) | **Won** |
+| 01/06/2014 | [Farningham](../2014/farningham) | **Won** |
+| 08/06/2014 | [Frensham](../2014/frensham) | **Won** |
+| 29/06/2014 | [Watton-at-Stone](../2014/watton-at-stone) | Drawn |
+| 10/07/2014 | [Broadway and Horton](../2014/broadway-and-horton) | **Won** |
+| 11/07/2014 | [Kilmington and Stourton](../2014/kilmington-and-stourton) | Lost |
+| 12/07/2014 | [Exford](../2014/exford) | **Won** |
+| 13/07/2014 | [Horningsham](../2014/horningsham) | Drawn |
+| 20/07/2014 | [Newdigate](../2014/newdigate) | **Won** |
 | {date} | [Wimbledon United](../2014/wimbledon-united) | Lost |
 | {date} | [Brasted Invicta](../2014/brasted-invicta) | **Won** |
 | {date} | [Reigate Pilgrims](../2014/reigate-pilgrims) | Drawn |

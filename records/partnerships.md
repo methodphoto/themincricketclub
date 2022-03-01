@@ -40,11 +40,13 @@ parent: Records
 | **2000** | R Earney (58&#42;) and R Beswick (40) | [Tappers](../2000/tappers) | **116** |
 | **1997** | J Grant (87) and J Hylton (82&#42;) | [Hetairoi](../1997/hetairoi) | **116** |
 | **1986** | A Gallagher (39) and P Goult (91) | [West Wickham](../1986/west-wickham) | **116** |
+| **2014** | R Beswick (49) and R Earney (43) | [Kilmington and Stourton](../2014/kilmington-and-stourton) | **115** |
 | **1990** | S Hornsby (92) and W Calvert (50) | [Stowting](../1990/stowting) | **113** |
 | **2011** | R Earney (70&#42;) and S Barrowcliff (62) | [Britwell Salome](../2011/britwell-salome) | **113** |
 | **2006** | M Goff (82) and R Beswick (39) | [Sanderstead](../2006/sanderstead) | **113** |
 | **2012** | R Earney (65&#42;) and M Goff (44) | [Middleton Stoney](../2012/middleton-stoney) | **113** |
 | **2013** | R Damaze (100&#42;) and M Elwin (42) | [Frensham](../2013/frensham) | **113** |
+| **2014** | R Earney (79) and S Hornsby (50&#42;) | [Horningsham](../2014/horningsham) | **112** |
 | **2010** | T Hammond (81) and M Gupta (43) | [Reigate Pilgrims](../2010/reigate-pilgrims) | **109** |
 | **1996** | J Grant (73) and D Swann (69) | [Great Tew](../1996/great-tew) | **109** |
 | **1993** | S Hornsby (97) and R Beswick (37) | [Great Tew](../1993/great-tew) | **109** |

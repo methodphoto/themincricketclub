@@ -45,7 +45,7 @@ parent: 2013 Fixtures
 | **D Harrington-Greenwood** | 5 | 3 | 5 | 1 |
 | **Tejo** | 5 | 0 | 17 | 1 |
 | **A Davis** | 5 | 0 | 22 | 1 |
-| **A Butell** | 7 | 0 | 21 | 0 |
+| **A Butel** | 7 | 0 | 21 | 0 |
 | **B Coffer** | 6 | 2 | 9 | 2 |
 
 ## {{page.title}} Innings
@@ -58,7 +58,7 @@ parent: 2013 Fixtures
 | **D Harrington-Greenwood** | c | J Wright | 1 |
 | **G Davies** | not out |  | 41 |
 | **A Davies** | b | R Earney | 0 |
-| **A Butell** | c J Grant | R Earney | 1 |
+| **A Butel** | c J Grant | R Earney | 1 |
 | **P Beswick** | not out |  | 1 |
 | **Tejo** | dnb |  |  |
 |  |  |  |  |
