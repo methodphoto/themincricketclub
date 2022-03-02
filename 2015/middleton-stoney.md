@@ -3,15 +3,16 @@ layout: default
 title: Middleton Stoney
 game: Middleton Stoney v The Min
 location: Middleton Park
-gameDate: "10/04/15"
+date: 19/04/2015
 report: Middleton Stoney were inserted by The Min and made 206 for 8 wkts  The Min replied with 117 all out
 result: Middleton Stoney won by 89 runs
+next: britwell-salome
 parent: 2015 Fixtures
 ---
 
 {% include matchDetails %}
 
-R Simpson scored 128* and was dropped several times
+R Simpson was dropped several times. S Hornsby's 15th 50
 
 ## {{page.title}} Innings
 
@@ -28,15 +29,15 @@ R Simpson scored 128* and was dropped several times
 | **W Harris** | b | R Beswick | 28 |
 | **D Clarke** | not out | 8 |
 | **J Williams** | dnb |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | **8** |
+| **Extras** | | (1b 1lb 1w 0nb 0p) | **3** |
 | **Total** | | (35 overs) | **206 all out** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 8 | 8 | 8 | 13 | 75 | 86 | 111 | 174 |  |  |
+| **Batsman** | 2 | 1 | 4 | 3 | 6 | 7 | 8 | 9 |  |  |
 
 ## Bowling
 
@@ -63,8 +64,8 @@ R Simpson scored 128* and was dropped several times
 | **N Garland** | c R Simpson | G Williams | 0 |
 | **P Wigg** | not out |  | 1 |
 | **J Wright** | b | D Clarke 0 |
-| **Extras** | | (0b 0lb 0w 0nb) | **8** |
-| **Total** | | (33.5 overs) | **117 all out** |
+| **Extras** | | (0b 1lb 6w 1nb 0p) | **8** |
+| **Total** | | (31.5 overs) | **117 all out** |
 
 ## Fall of Wickets
 
