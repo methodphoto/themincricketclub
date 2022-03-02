@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 14/09/2014
 report: The Min batted first and made 164 for 6 wkts. Reigate Pilgrims replied with 134 for 8 wkts
 result: Match Drawn
+next: headley
 parent: 2014 Fixtures
 ---
 
@@ -93,4 +94,4 @@ parent: 2014 Fixtures
 |:---|:---|:---|---:|
 | 6 | 3 | 4 | 0 |
 
-[Next season](../2015)
+[Next game:]({{page.next}})
