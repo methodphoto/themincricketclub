@@ -88,6 +88,6 @@ parent: 2014 Fixtures
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 5 | 2 | 3 | 0 |
+| 6 | 2 | 3 | 0 |
 
 [Next game:]({{page.next}})

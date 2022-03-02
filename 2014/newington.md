@@ -28,7 +28,7 @@ parent: 2014 Fixtures
 | **S Doncaster** | b | J Wright | 8 |
 | **L Morgan** | not out |  | 0 |
 | **Extras** | | (5b 4lb 1w 0nb 0p) | **10** |
-| **Total** | | (33.3 overs) | **195 for 3 wkts** |
+| **Total** | | (33.3 overs) | **172 all out** |
 
 ## Fall of Wickets
 

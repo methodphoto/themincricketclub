@@ -96,6 +96,6 @@ Partnership of 112 between R Earney and S Hornsby
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 5 | 2 | 2 | 0 |
+| 6 | 2 | 2 | 0 |
 
 [Next game:]({{page.next}})
