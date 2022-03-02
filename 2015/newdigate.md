@@ -52,7 +52,7 @@ parent: 2015 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Beswick &#42;** |  run out |  | 47 |
+| **R Beswick &#42;** | run out |  | 47 |
 | **S Amin** | c | Wylie | 7 |
 | **R Damaze** | b Flower | 21 |
 | **A Beswick** | c Renwick | Wheran 1 |

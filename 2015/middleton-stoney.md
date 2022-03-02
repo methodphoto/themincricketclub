@@ -3,7 +3,7 @@ layout: default
 title: Middleton Stoney
 game: Middleton Stoney v The Min
 location: Middleton Park
-gameDate: "10/04/15"
+gameDate: 10/04/2015
 report: Middleton Stoney were inserted by The Min and made 206 for 8 wkts  The Min replied with 117 all out
 result: Middleton Stoney won by 89 runs
 parent: 2015 Fixtures
@@ -11,7 +11,7 @@ parent: 2015 Fixtures
 
 {% include matchDetails %}
 
-R Simpson scored 128* and was dropped several times
+R Simpson scored 128&#42 and was dropped several times
 
 ## {{page.title}} Innings
 
