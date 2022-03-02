@@ -85,10 +85,10 @@ parent: Results
 
 | 2015 |  |  |
 |:---|:---|:---|
-| {date} | [Middleton Stoney](../2015/middleton-stoney) | Lost |
+| 10/04/2015 | [Middleton Stoney](../2015/middleton-stoney) | Lost |
 | {date} | [Britwell Salome](../2015/britwell-salome) | Drawn |
-| {date} | [Nightwatchman CC](../2015/nightwatchman) | Lost |
-| {date} | [Newington](../2015/newington) | **Won** |
+| 10/05/2015 | [Nightwatchman CC](../2015/nightwatchman) | Lost |
+| 17/05/2015 | [Newington](../2015/newington) | **Won** |
 | {date} | [Frensham](../2015/frensham) | Lost |
 | {date} | [Newdigate](../2015/newdigate) | Drawn |
 | {date} | [Watton-at-Stone](../2015/watton-at-stone) | **Won** |
