@@ -6,6 +6,7 @@ location: Britwell Salome CC
 date: 25/04/2015
 report: Britwell Salome batted first and made 161 for 4 wkts. The Min were 55 for 1 wkt when rain stopped play
 result: Match Abandoned as a Draw
+next: nightwatchman
 parent: 2015 Fixtures
 ---
 
@@ -21,7 +22,7 @@ parent: 2015 Fixtures
 | **K Wood** | b | I Miah | 56 |
 | **A Herrington** | not out |   26 |
 | **O McConkey** | not out |  | 1 |
-| **N Humphries** | dnb |  |  |
+| **N Humphreys** | dnb |  |  |
 | **D Coates** | dnb |  |  |
 | **A Kauffman** | dnb |  |  |
 |  |  |  |  |
@@ -50,36 +51,34 @@ parent: 2015 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **I Miah** | b | Yerrell | 2 |
-| **S Barrowcliff** | b | Yerrell | 0 |
-| **R Earney** | b | Chambers | 20 |
-| **R Beswick &#42;** | b | Yerrell | 2 |
-| **G Daley &#8224;** | b | Chambers | 16 |
-| **R Damaze** | b | Scanlon | 25 |
-| **Beswick** | b | Scanlon | 21 |
-| **Gardiner** | b | Chambers | 7 |
-| **Fielding** | b | Scanlon | 8 |
-| **Young** | b | Scanlon | 2 |
-| **Wright** | not out |  | 0 |
-| **Extras** | | (9b 2lb 4w 0nb) | **15** |
-| **Total** | | (33.5 overs) | **118 all out** |
+| **I Miah** | not out |  | 38 |
+| **S Barrowcliff** | c D Coates | N Humphreys | 5 |
+| **R Earney** | not out |  | 8 |
+| **R Beswick &#42;** | dnb |  |  |
+| **G Daley &#8224;** | dnb |  |  |
+| **R Damaze** | dnb |  |  |
+| **Beswick** | dnb |  |  |
+| **Gardiner** | dnb |  |  |
+| **Fielding** | dnb |  |  |
+| **Young** | dnb |  |  |
+| **Wright** | dnb |  |  |
+| **Extras** | | (1b 1lb 1w 1nb 0p) | **4** |
+| **Total** | | (12.2 overs) | **55 for 1 wkt** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 26 |  |  |  |  |  |  |  |  |  |
+| **Batsman** | 2 |  |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **A Kauffman** | 6 | 1 | 37 | 0 |
+| **N Humphreys** | 6 | 1 | 15 | 1 |
+| **K Wood** | 0.2 | 0 | 1 | 0 |
 
 ## Win/Loss Ratio
 

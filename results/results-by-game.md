@@ -89,9 +89,9 @@ parent: Results
 | 25/04/2015 | [Britwell Salome](../2015/britwell-salome) | Drawn |
 | 10/05/2015 | [Nightwatchman CC](../2015/nightwatchman) | Lost |
 | 17/05/2015 | [Newington](../2015/newington) | **Won** |
-| {date} | [Frensham](../2015/frensham) | Lost |
-| {date} | [Newdigate](../2015/newdigate) | Drawn |
-| {date} | [Watton-at-Stone](../2015/watton-at-stone) | **Won** |
+| 07/06/2015 | [Frensham](../2015/frensham) | Lost |
+| 14/06/2015 | [Newdigate](../2015/newdigate) | Drawn |
+| 28/06/2015 | [Watton-at-Stone](../2015/watton-at-stone) | **Won** |
 | {date} | [Blagdon Hill](../2015/blagdon-hill) | **Won** |
 | {date} | [Broadway and Horton](../2015/broadway-and-horton) | **Won** |
 | {date} | [Bedouins](../2015/bedouins) | Lost |

@@ -24,7 +24,7 @@ parent: 2011 Fixtures
 | **L Dear** | run out |  | 43 |
 | **B Taylor** | b | Chirag | 0 |
 | **M Tipper** | not out |  | 5 |
-| **Miller** | dnb |  |  |
+| **H Miller** | dnb |  |  |
 | **R Clayton** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (2b 3lb 10w 1nb 0p) | **16** |

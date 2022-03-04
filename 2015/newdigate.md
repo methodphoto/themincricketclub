@@ -2,10 +2,11 @@
 layout: default
 title: Newdigate
 game: Newdigate v The Min
-location: Sellicks Green
+location: The Brocus
 date: 14/06/2015
 report: Newdigate batted first and scored 226 for 7 wkts. The Min replied with 158 for 8 wkts
 result: Match Drawn
+next: 
 parent: 2015 Fixtures
 ---
 
@@ -26,15 +27,15 @@ parent: 2015 Fixtures
 | **R Flower** | not out | 1 | 
 | **W Bowley** | dnb | 
 | **C Moon** | dnb | 
-| **Extras** | | (0b 0lb 0w 0nb) | **29** | 
+| **Extras** | | (8b 8lb 17w 5nb 0p) | **38** |
 | **Total** | | (38 overs) | **226 for 8 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 47 | 102 | 111 | 162 | 179 | 202 |  |  |  |  |
+| **Batsman** | 1 | 3 | 2 | 5 | 6 | 8 |  |  |  |  |
 
 ## Bowling
 
