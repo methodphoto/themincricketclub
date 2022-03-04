@@ -32,7 +32,7 @@ parent: 2010s
 
 | July |  |  |  |
 |:---|:---|:---|:---|
-| 21st | 14:00 | [Headley Down]((headley-down) | [KT18 6QA](https://goo.gl/maps/pn4ojVfCN722) |
+| 21st | 14:00 | [Headley]((headley) | [KT18 6QA](https://goo.gl/maps/pn4ojVfCN722) |
 
 | August |  |  |  |
 |:---|:---|:---|:---|

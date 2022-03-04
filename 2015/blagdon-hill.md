@@ -6,6 +6,7 @@ location: Sellick's Green
 date: 09/07/2015
 report: The Min batted first and scored 174 all out in 39.5 overs. Blagdon Hill replied with 125 all out in 34 overs
 result: The Min won by 49 runs
+next: broadway-and-horton
 parent: 2015 Fixtures
 ---
 
@@ -15,17 +16,17 @@ parent: 2015 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** |  | Davidson | 8 |
-| **R Beswick** &#42;  |  | A Hannam | 43 |
-| **A Beswick** | st Lind | Davidson | 8 |
+| **R Earney** | b | Davidson | 8 |
+| **R Beswick &#8224;** | b | A Hannam | 43 |
+| **A Beswick** | st M Lind | Davidson | 8 |
 | **P Free** | c & b | M Tuffill | 30  |
 | **E Ingham** | c A Hotham | M Tuffill | 2 |
-| **P Wigg** | c Hannam | A Free | 18  |
-| **J Grant** &#8224; | c L Vickery-White | M Tuffill | 11 |
+| **P Wigg** | c A Hannam | A Free | 18  |
+| **J Grant &#8224;** | c L Vickery-White | M Tuffill | 11 |
 | **E Garland** |  | not out | 13  |
-| **H Ingham** | c L Vickery-White | Lind | 11 |
+| **H Ingham** | c L Vickery-White | M Lind | 11 |
 | **J Wright** | b | J Hannam | 12 |
-| **Extras** | | (9b 2lb 4w 0nb) | **18** | 
+| **Extras** | | (4b 1lb 13w 0nb 0p) | **18** |
 | **Total** | | (40 overs) | **174 all out** | 
 
 ## Fall of Wickets
@@ -55,7 +56,7 @@ parent: 2015 Fixtures
 | **J Hannam** | b | P Wigg | 0 |
 | **M Lind** | c R Earney | P Wigg | 2 |
 | **L Vickery-White** | b | P Wigg | 65 |
-| **A Hannam** | c & b | J Wright | 9 |
+| **A Hotham** | c & b | J Wright | 9 |
 | **G Wright** c P Wigg | N Garland | 0 |
 | **A Hannam** c H Ingham | R Beswick | 9 |
 | **Davidson** | b | R Beswick | 6 |
@@ -69,8 +70,8 @@ parent: 2015 Fixtures
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 1 | 7 | 7 | 42 | 43 | 85 | 97 | 101 | 122 | 125 |
+| **Batsman** | 2 | 1 | 3 | 5 | 6 | 4 | 7 | 8 | 10 | 11 |
 
 ## Bowling
 

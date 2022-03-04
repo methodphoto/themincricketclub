@@ -32,7 +32,7 @@ parent: Statistics
 | **Ben Coffer** | 1 | 0 | 18 | 18 |
 | **Hikmat Akhund** | 1 | 0 | 15 | 15 |
 | **Campbell Garland** | 2 | 1 | 15 | 15 |
-| **Kit Gallagher** | 1 | 1 | 15 | ? |
+| **Kit Gallagher** | 1 | 1 | 15 | - |
 | **Jack Stacey** | 2 | 0 | 14 | 7 |
 | **A Asmal** | 1 | 0 | 11 | 11 |
 | **Edward Garland** | 3 | 0 | 11 | 3.67 |
@@ -48,8 +48,8 @@ parent: Statistics
 | **Jerry Wright** | 7 | 5 | 3 | 1.5 |
 | **J Black** | 1 | 0 | 1 | 1 |
 | **Richard Coyle** | 1 | 0 | 1 | 1 |
-| **Marcus Elwin** | 0 | 0 | 0 | ? |
-| **T Perry** | 1 | 0 | 0 | 0  ? |
+| **Marcus Elwin** | 0 | 0 | 0 | - |
+| **T Perry** | 1 | 0 | 0 | 0  - |
 
 ## Season Batting (by ave)
 

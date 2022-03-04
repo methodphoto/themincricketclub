@@ -6,10 +6,13 @@ location: Bristol Grammar School, Failand
 date: 11/07/2015
 report: Bedouins won the toss and batted first, scoring 192-9 in 35 overs. The Min replied with 191-10 in 33.5 overs.
 result: BGS Bedouins won by 1 run
+next: headley
 parent: 2015 Fixtures
 ---
 
 {% include matchDetails %}
+
+R Earney's 48th 50
 
 ## {{page.title}} Innings
 
@@ -26,7 +29,7 @@ parent: 2015 Fixtures
 | **J Wheeler** | not out |  | 0 | 
 | **S Pentreath** | b | R Beswick | 0 |
 | **A Dube** | not out |  | 0 | 
-| **Extras** | | (1b 3lb 6w 0nb 0pen) | 10 | 
+| **Extras** | | (1b 3lb 6w 0nb 0p) | 10 | 
 | **Total** | | (35 overs) | **192 for 9 wkts** | 
 
 ## Fall of Wickets
@@ -62,7 +65,7 @@ parent: 2015 Fixtures
 | **H Ingham** | not out |  | 23 |
 | **E Garland** | lbw | R Parsons | 5 |
 | **J Wright** | c A Goodland | T Stroud-Caules | 2 |
-| **Extras** | | (3b 5lb 11w 1nb) | **20** | 
+| **Extras** | | (3b 5lb 11w 1nb 0p) | **20** | 
 | **Total** | | (33.5 overs) | **191 all out** | 
 
 ## Fall of Wickets
