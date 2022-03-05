@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 13/08/2015
 report: Reigate Pilgrims were bowled out for 65 runs. The Min replied with 66 for 3 wkts
 result: The Min won by 7 wkts
+next: selling
 parent: 2015 Fixtures
 ---
 
@@ -15,19 +16,19 @@ parent: 2015 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Smith** | c | MacFarlane | 22 |
-| **Cowles** | b | Marshall | 24 |
-| **Scanlon** | b | MacFarlane | 67 |
-| **Godby** | b | MacFarlane | 62 |
-| **Macguire** | b | MacFarlane | 0 |
-| **Pavey** | b | MacFarlane |  |
-| **Chambers** | b | MacFarlane |  |
-| **Potts** | b | MacFarlane |  |
-| **Yerrell** | b | MacFarlane |  |
-| **Scanlon** | b | MacFarlane |  |
-| **Scanlon** | b | MacFarlane |  |
-| **Extras** | | (5b 0lb 6w 0nb) | **11** |
-| **Total** | | (46 overs) | **195 for 3 wkts** |
+| **R Burnside** | lbw | H Ingham | 7 |
+| **N Kandaswamy** | c R Damaze | H Ingham | 3 |
+| **Crowting** | b | P Wigg | 4 |
+| **W Hodgson** | c R Earney | I Marshall | 5 |
+| **G Jordan** | c J Grant | P Wigg | 1 |
+| **D Kanagarajah** | b | P Wigg | 0 |
+| **G Mitchell &#42;** | b | P Wigg | 9 |
+| **S Arnold** | c J Grant | I Marshall | 0 |
+| **V Vivayan** | b | S Amin | 9 |
+| **M Wood** | not out |  | 10 |
+| **A Bushe &#8224;** | c J Grant | E Garland | 0 |
+| **Extras** | | (2b 4lb 1w 6nb 0p) | **13** |
+| **Total** | | (25.5 overs) | **65 all out** |
 
 ## Fall of Wickets
 
@@ -40,51 +41,50 @@ parent: 2015 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Marshall** | 16 | 4 | 41 | 2 |
-| **Marshall** | 13 | 2 | 46 | 1 |
-| **Wright** | 6 | 0 | 36 | 0 |
-| **Beswick** | 7 | 1 | 34 | 0 |
-| **Howcroft** | 4 | 0 | 25 | 0 |
+| **P Wigg** | 10 | 4 | 20 | 4 |
+| **H Ingham** | 6 | 1 | 18 | 2 |
+| **I Marshall** | 6 | 3 | 8 | 2 |
+| **S Amin** | 3 | 0 | 9 | 1 |
+| **E Garland** | 0.5 | 0 | 0 | 1 |
 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Earney** | b | Yerrell | 2 |
-| **Grant** | b | Yerrell | 0 |
-| **Marshall** | b | Chambers | 20 |
-| **Calvert** | b | Yerrell | 2 |
-| **Howcroft** | b | Chambers | 16 |
-| **MacFarlane** | b | Scanlon | 25 |
-| **Beswick** | b | Scanlon | 21 |
-| **Gardiner** | b | Chambers | 7 |
-| **Fielding** | b | Scanlon | 8 |
-| **Young** | b | Scanlon | 2 |
-| **Wright** | not out |  | 0 |
-| **Extras** | | (9b 2lb 4w 0nb) | **15** |
-| **Total** | | (33.5 overs) | **118 all out** |
+| **R Earney** | b | M Wood | 20 |
+| **M Gupta** | lbw | M Wood | 13 |
+| **R Damaze** | lbw | S Arnold | 8 |
+| **W Calvert** | not out |  | 1 |
+| **R Beswick &#42;** | not out |  | 10 |
+| **E Garland** | dnb |  |  |
+| **S Amin** | dnb |  |  |
+| **J Grant &#8224;** | dnb |  |  |
+| **I Marshall** | dnb |  |  |
+| **H Ingham** | dnb |  |  |
+| **P Wigg** | dnb |  |  |
+| **Extras** | | (8b 5lb 1w 0nb 0p) | **14** |
+| **Total** | | (13.1 overs) | **66 for 3 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 28 | 53 | 53 |  |  |  |  |  |  |  |
+| **Batsman** | 2 | 1 | 3 |  |  |  |  |  |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
-| **Scanlon** | 7 | 0 | 32 | 1 |
+| **G Mitchell** | 5 | 0 | 16 | 0 |
+| **M Wood** | 6 | 1 | 31 | 2 |
+| **S Arnold** | 2 | 0 | 5 | 1 |
+| **G Jordan** | 0.2 | 0 | 1 | 0 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 6 | 4 | 4 | 0 |
+| 7 | 4 | 4 | 0 |
 
 [Next game:]({{page.next}})

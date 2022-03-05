@@ -16,10 +16,10 @@ parent: 2014 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | b | Bradley | 37 |
+| **R Earney** | b | B Judd | 37 |
 | **R Beswick &#42;** | lbw | I Miah | 1 |
 | **M Gupta** | b | Saddiq | 32 |
-| **M Cook** | lbw | Bradley | 0 |
+| **M Cook** | lbw | B Judd | 0 |
 | **B Coffer** | c | Russell | 31 |
 | **E Ingham** | b | M Elwin | 33 |
 | **C Martin** | b | Russell | 25 |
@@ -44,7 +44,7 @@ parent: 2014 Fixtures
 | **I Miah** | 7 | 2 | 23 | 0 |
 | **M Abu** | 9 | 3 | 14 | 3 |
 | **Saddiq** | 10 | 0 | 39 | 3 |
-| **Bradley** | 7 | 0 | 32 | 1 |
+| **B Judd** | 7 | 0 | 32 | 1 |
 | **Will** | 7 | 0 | 32 | 1 |
 | **Maruf** | 7 | 0 | 32 | 1 |
 | **S Schumann** | 7 | 0 | 32 | 1 |
@@ -61,7 +61,7 @@ parent: 2014 Fixtures
 | **Maruf** | b | C Martin | 1 |
 | **Meo** | c J Grant | C Martin | 1 |
 | **I Miah** | lbw | R Beswick | 31 |
-| **Godley** | c C Martin | J Wright | 0 |
+| **B Judd** | c C Martin | J Wright | 0 |
 | **S Schumann** | c R Beswick | J Wright | 2 |
 | **Will** | c R Beswick | R Earney | 21 |
 | **M Abu** | not out |  | 2 |

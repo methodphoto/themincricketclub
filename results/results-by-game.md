@@ -92,14 +92,14 @@ parent: Results
 | 07/06/2015 | [Frensham](../2015/frensham) | Lost |
 | 14/06/2015 | [Newdigate](../2015/newdigate) | Drawn |
 | 28/06/2015 | [Watton-at-Stone](../2015/watton-at-stone) | **Won** |
-| {date} | [Blagdon Hill](../2015/blagdon-hill) | **Won** |
-| {date} | [Broadway and Horton](../2015/broadway-and-horton) | **Won** |
-| {date} | [Bedouins](../2015/bedouins) | Lost |
-| {date} | [Headley Down](../2015/headley-down) | **Won** |
-| {date} | [Stowting](../2015/stowting) | Drawn |
-| {date} | [Brasted Invicta](../2015/brasted-invicta) | Drawn |
-| {date} | [Reigate Pilgrims](../2015/reigate-pilgrims) | **Won** |
-| {date} | [Selling](../2015/selling) | **Won** |
+| 09/07/2015 | [Blagdon Hill](../2015/blagdon-hill) | **Won** |
+| 10/07/2015 | [Broadway and Horton](../2015/broadway-and-horton) | **Won** |
+| 11/07/2015 | [Bedouins](../2015/bedouins) | Lost |
+| 19/07/2015 | [Headley Down](../2015/headley) | **Won** |
+| 30/08/2015 | [Stowting](../2015/stowting) | Drawn |
+| 06/09/2015 | [Brasted Invicta](../2015/brasted-invicta) | Drawn |
+| 13/08/2015 | [Reigate Pilgrims](../2015/reigate-pilgrims) | **Won** |
+| 20/09/2015 | [Selling](../2015/selling) | **Won** |
 
 | 2014 |  |  |
 |:---|:---|:---|
