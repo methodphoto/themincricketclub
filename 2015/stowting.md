@@ -53,17 +53,17 @@ parent: 2015 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **P Blake** | b | Marshall | 13 |
-| **Mi Jackson** | b | Marshall | 2 |
-| **D Stoneman** | b | Marshall | 33 |
-| **A Harrison** | b | Marshall | 17 |
-| **C Ball** | b | Marshall | 19 |
-| **M Chegwin** | b | Marshall | 0 |
-| **G Sheen** | b | Marshall | 17 |
-| **M Graves** | b | Marshall | 0 |
-| **D Jackson** | b | Marshall | 12 |
-| **S Thompson** | dnb |  |  || 3 |
-| **C Jackson** | dnb |  |  || 1 |
+| **P Blake** | b | P Wigg | 13 |
+| **Mi Jackson** | b | S Habib | 2 |
+| **D Stoneman** | b | R Beswick | 33 |
+| **A Harrison** | c J Grant | R Beswick | 17 |
+| **C Ball** | b | M Gupta | 19 |
+| **M Chegwin** | c & b | R Beswick | 0 |
+| **G Sheen** | c M Gupta | R Beswick | 17 |
+| **M Graves** | st J Grant | E Garland | 0 |
+| **D Jackson** | c R Beswick | P Wigg | 12 |
+| **S Thompson** | not out |  | 3 |
+| **C Jackson** | not out |  | 1 |
 | **Extras** | | (9b 3lb 2w 1nb 5p) | **20** |
 | **Total** | | (45 overs) | **138 for 9 wkts** |
 

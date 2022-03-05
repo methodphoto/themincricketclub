@@ -20,7 +20,7 @@ parent: 2015 Fixtures
 | **D Coates** | lbw | I Miah | 30 |
 | **J Chittendon** | c S Barrowcliff | R Beswick | 20 |
 | **K Wood** | b | I Miah | 56 |
-| **A Herrington** | not out |   26 |
+| **A Herrington** | not out |  | 26 |
 | **O McConkey** | not out |  | 1 |
 | **N Humphreys** | dnb |  |  |
 | **D Coates** | dnb |  |  |

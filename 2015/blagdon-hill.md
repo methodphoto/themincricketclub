@@ -57,8 +57,8 @@ parent: 2015 Fixtures
 | **M Lind** | c R Earney | P Wigg | 2 |
 | **L Vickery-White** | b | P Wigg | 65 |
 | **A Hotham** | c & b | J Wright | 9 |
-| **G Wright** c P Wigg | N Garland | 0 |
-| **A Hannam** c H Ingham | R Beswick | 9 |
+| **G Wright** | c P Wigg | N Garland | 0 |
+| **A Hannam** | c H Ingham | R Beswick | 9 |
 | **Davidson** | b | R Beswick | 6 |
 | **A Free** |  | not out | 8 |
 | **M Tuffill** | lbw | R Beswick | 15 |

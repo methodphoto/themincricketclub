@@ -16,7 +16,7 @@ parent: 2015 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **C Osborne** | run out | 12 | 
+| **C Osborne** | run out |  | 12 | 
 | **J Bowley** | c R Damaze | Gupta | 32 | 
 | **T O'Malley** | c Wigg | Gupta | 34 | 
 | **J Renwick** | st Calvert | J Wright | 45 | 
@@ -55,15 +55,15 @@ parent: 2015 Fixtures
 |:---|:---|---|---:|
 | **R Beswick &#42;** | run out |  | 47 |
 | **S Amin** | c | Wylie | 7 |
-| **R Damaze** | b Flower | 21 |
-| **A Beswick** | c Renwick | Wheran 1 |
-| **A Gallagher** | c | F Osborne 26 |
-| **M Gupta** | c | Wheran 18 |
-| **E Garland** | c | F Osborne 1 |
-| **R Coyle** | not out | 2 |
+| **R Damaze** | b Flower | | 21 |
+| **A Beswick** | c Renwick | Wheran | 1 |
+| **A Gallagher** | c | F Osborne | 26 |
+| **M Gupta** | c | Wheran | 18 |
+| **E Garland** | c | F Osborne | 1 |
+| **R Coyle** | not out |  | 2 |
 | **H Ingham** | c | Moon | 0 |
-| **P Wigg** | not out |  4 |
-| **W Calvert** | dnb  |
+| **P Wigg** | not out |  | 4 |
+| **W Calvert** | dnb  | |
 | **Extras** | | (0b 0lb 0w 0nb) | **29** | 
 | **Total** | | (41 overs) | **158 for 8 wkts** |
 
@@ -78,14 +78,14 @@ parent: 2015 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Wylie** | 7 | 3 | 1 | 
-| **C Moon** | 6 | 1 | 1 |
-| **R Wikremasinge** | 7 | 1 | 0 |
-| **R Flower** | 6 | 1 | 1 |
-| **J Wheran** | 3 | 0 | 2 | 
-| **W Bowley** | 6 | 1 | 0 | 
-| **F Osborne** | 4 | 3 | 2 | 
-| **T O'Malley** | 2 | 0 | 0 | 
+| **Wylie** | 7 | 3 | 24 | 1 | 
+| **C Moon** | 6 | 1 | 25 | 1 |
+| **R Wikremasinge** | 7 | 1 | 18 | 0 |
+| **R Flower** | 6 | 1 | 23 | 1 |
+| **J Wheran** | 3 | 0 | 18 | 2 | 
+| **W Bowley** | 6 | 1 | 19 | 0 | 
+| **F Osborne** | 4 | 3 | 12 | 2 | 
+| **T O'Malley** | 2 | 0 | 5 | 0 | 
 
 ## Win/Loss Ratio
 

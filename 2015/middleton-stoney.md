@@ -80,7 +80,7 @@ R Simpson was dropped several times. S Hornsby's 15th 50
 |---|:---|:---|:---|:---|
 | **G Williams** | 7 | 1 | 15 | 4 |
 | **J Williams** | 6 | 1 | 26 | 2 |
-| **D Clarke** | 4 | 5 | 0 | 12 | 2
+| **D Clarke** | 4 | 5 | 0 | 2 |
 | **S Vadivale** | 6 | 1 | 29 | 0 |
 | **W Harris** | 5 | 0 | 19 | 2 |
 | **J O'Neill** | 3 | 0 | 15 | 0 | 

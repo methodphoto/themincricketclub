@@ -61,8 +61,8 @@ R Earney's 50th 50
 | **B Young** | lbw | K Gallagher | 12 | 
 | **P Payne** | b | L Masterson | 9 | 
 | **J Carter** | b | E Ingham | 16 | 
-| **M Bashford** | not out | 16 | 
-| **P Staunton** | not out | 0 | 
+| **M Bashford** | not out |  | 16 | 
+| **P Staunton** | not out |  | 0 | 
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (1b 0lb 4w 9nb 0p) | **14** |
