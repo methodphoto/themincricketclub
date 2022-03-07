@@ -27,7 +27,7 @@ R Simpson was dropped several times. S Hornsby's 15th 50
 | **J O'Neill** | c Calvert | E Garland | 0  |
 | **G Williams** | st Grant | J Wright | 7 |
 | **W Harris** | b | R Beswick | 28 |
-| **D Clarke** | not out | 8 |
+| **D Clarke** | not out |  | 8 |
 | **J Williams** | dnb |  |  |
 | **Extras** | | (1b 1lb 1w 0nb 0p) | **3** |
 | **Total** | | (35 overs) | **206 all out** |
