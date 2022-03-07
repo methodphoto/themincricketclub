@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Nightwatchman
-game: Nightwatchman v The Min
+game: The Min v Nightwatchman CC
 location: Solefields
 date: 08/05/2016
-report: The Min won the toss and inserted Nightwatchman, who made 264-5 in 40 overs. The Min made 207-9 (all out) in 37 overs.
+report: The Min won the toss and inserted Nightwatchman, who made 242 for 5 wkts in 40 overs. The Min made 207 for 9 wkts (all out) in 37 overs.
 result: Nightwatchman won by 57 runs
+next: newington
 parent: 2016 Fixtures
 ---
 
@@ -25,12 +26,17 @@ parent: 2016 Fixtures
 | **Pav** | dnb |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras |  | (10b 5lb 4w 3nb 0p) | **17** |
-| **Total** | (40 overs) | **264 for 5 wkts** |
+| **Extras** |  | (10b 5lb 4w 3nb 0p) | **22** |
+| **Total** | (40 overs) | **242 for 5 wkts** |
 
-## Min Bowling
+## Fall of Wickets
 
-### Bowling
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Score** | 8 |  |  |  |  |  |  |  |  |  |
+| **Batsman** | 2 | 3 | 4 | 5 | 6 |  |  |  |  |  |
+
+## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
@@ -45,6 +51,8 @@ parent: 2016 Fixtures
 
 ## Min Batting
 
+| Batsman | Dismissal |  | Runs |
+|:---|:---|---|---:|
 | **R Earney** | b | A Asmal | 27 |
 | **R Beswick &#42;** | run out |  | 37 |
 | **M Gupta** | lbw b I Miah | 65 |

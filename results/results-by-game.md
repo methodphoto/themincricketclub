@@ -70,9 +70,9 @@ parent: Results
 
 | 2016 |  |  |
 |:---|:---|:---|
-| {date} | [Middleton Stoney](../2016/middleton-stoney) | **Won** |
-| {date} | [Nightwatchman CC](../2016/nightwatchman) | Lost |
-| {date} | [Newington](../2016/newington) | **Won** |
+| 17/04/2016| [Middleton Stoney](../2016/middleton-stoney) | **Won** |
+| 08/05/2016 | [Nightwatchman CC](../2016/nightwatchman) | Lost |
+| 15/05/2016 | [Newington](../2016/newington) | **Won** |
 | {date} | [Frensham](../2016/frensham) | **Won** |
 | {date} | [Watton-at-Stone](../2016/watton-at-stone) | **Won** |
 | {date} | [Blagdon Hill](../2016/blagdon-hill) | Lost |

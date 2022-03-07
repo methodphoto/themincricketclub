@@ -32,11 +32,11 @@ parent: 2010s
 
 | July |  |  |  |
 |:---|:---|:---|:---|
-| 21st | 14:00 | [Headley]((headley) | [KT18 6QA](https://goo.gl/maps/pn4ojVfCN722) |
+| 21st | 14:00 | [Headley](headley) | [KT18 6QA](https://goo.gl/maps/pn4ojVfCN722) |
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 28th | 14:00 | <del>Wimbledon United</del> | Away |
+| 28th | 14:00 | <del>Wimbledon United</del> | [Away](https://goo.gl/maps/CuFBTpvCUFPfbR3j7) |
 | 28th | 14:00 | [Stowting](stowting) | [TN25 6BD](https//goo.gl/maps/5KNmaMe6Wb422) |
 
 | September |  |  |  |

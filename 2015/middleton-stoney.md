@@ -63,7 +63,7 @@ R Simpson was dropped several times. S Hornsby's 15th 50
 | **H Ingham** | b | G Williams | 7 |
 | **N Garland** | c R Simpson | G Williams | 0 |
 | **P Wigg** | not out |  | 1 |
-| **J Wright** | b | D Clarke 0 |
+| **J Wright** | b | D Clarke | 0 |
 | **Extras** | | (0b 1lb 6w 1nb 0p) | **8** |
 | **Total** | | (31.5 overs) | **117 all out** |
 

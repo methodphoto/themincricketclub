@@ -14,8 +14,8 @@ parent: 2010s
 
 | May |  |  |  |
 |:---|:---|:---|:---|
-| 8th | 13:00 | [Nightwatchman CC](nightwatchman) | [TN13 1PR](https://goo.gl/maps/JefoWDSusHs) |
-| 15th | 13:00 | [Newington](newington) | [ME9 7AD](https://goo.gl/maps/t473ZxQqr142) |
+| 8th | 13:00 | [Nightwatchman CC](nightwatchman) | [Home](https://goo.gl/maps/JefoWDSusHs) |
+| 15th | 13:00 | [Newington](newington) | [Away](https://goo.gl/maps/1U6HZxYwuFViaJpx9) |
 
 | June |  |  |  |
 |:---|:---|:---|:---|
@@ -32,7 +32,7 @@ parent: 2010s
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 21st | 13:30 | <del>Headley Down</del> | [KT18 6QA](https://goo.gl/maps/pn4ojVfCN722) |
+| 21st | 13:30 | <del>Headley</del> | [KT18 6QA](https://goo.gl/maps/pn4ojVfCN722) |
 | 28th | 13:30 | <del>Stowting</del> | [TN25 6BD](https//goo.gl/maps/5KNmaMe6Wb422) |
 
 | September |  |  |  |

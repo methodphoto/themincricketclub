@@ -4,12 +4,15 @@ title: Middleton Stoney
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 17/04/2016
-report: Middleton Stoney won the toss and batted first, making 119 for 7. The Min replied with 121-5
+report: Middleton Stoney won the toss and batted first, making 119 for 7. The Min replied with 121 for 5 wkts
 result: The Min won by 5 wkts
+next: nightwatchman
 parent: 2016 Fixtures
 ---
 
 {% include matchDetails %}
+
+S Barrowcliff's 14th 50
 
 ## {{page.title}} Innings
 
@@ -26,15 +29,15 @@ parent: 2016 Fixtures
 | **S Petit** | not out| 0 |
 | **T Cranston** | dnb |  |  |
 | **S Lee** | dnb |  |  |
-| **Extras** | | (6b 4lb 2w 0nb) | **4** | 
-| **Total** | | (39.5 overs) | **119 for 7 wkts** | 
+| **Extras** | | (3b 1lb 0w 0nb) | **4** | 
+| **Total** | | (36 overs) | **119 for 7 wkts** | 
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 45 | 45 | 45 | 50 | 100 | 108 | 115 |  |  |  |
+| **Batsman** | 1 | 2 | 4 | 3 | 5 | 6 | 8 |  |  |  |
 
 ## Bowling
 
@@ -51,19 +54,19 @@ parent: 2016 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Beswick &#42;** | b | S Vadivale11 |
-| **R Earney** | b | P Wordsworth4 |
-| **R Damaze** | c S Vadivale | T Cranston6 |
-| **S Barrowcliff** | lbw | R Simpson0 |
-| **S Pitcher** | c N Moorman | R Simpson38 |
+| **R Beswick &#42;** | b | S Vadivale | 11 |
+| **R Earney** | b | P Wordsworth | 4 |
+| **R Damaze** | c S Vadivale | T Cranston | 6 |
+| **S Barrowcliff** | lbw | R Simpson | 53 |
+| **S Pitcher** | c N Moorman | R Simpson | 38 |
 | **M Gupta** | not out | 0 |
 | **S Amin** | not out | 6 |
 | **S Habib** | dnb |  |  |
-| **W Calvert** | &#8224;dnb |  |  |
+| **W Calvert &#8224** | dnb |  |  |
 | **I Miah** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (27b 8lb 0w 0nb) | **3** | 
-| **Total** | | (42 overs) | **121 for 5 wkts** | 
+| **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
+| **Total** | | (38 overs) | **121 for 5 wkts** | 
 
 ## Fall of Wickets
 

@@ -62,7 +62,8 @@ parent: Records
 | **2016** | Richard Beswick | v [Kilmington and Stourton](../2016/kilmington-and-stourton) | **72** |
 | **2016** | Richard Beswick | v [Selling](../2016/selling) | **72** |
 | **2016** | Alf Beswick | v [Broadway and Horton](../2016/broadway-and-horton) | **55** |
-| **2016** | Mohit Guptak | v [Nightwatchman XI](../2016/nightwatchman-xi) | **65** |
+| **2016** | Mohit Gupta | v [Nightwatchman XI](../2016/nightwatchman-xi) | **65** |
+| **2016** | Simon Barrowcliff | v [Middleton Stoney](../2016/middleton-stoney) | **53** |
 | **2015** | Richard Beswick | v [Selling](../2015/selling) | **72** |
 | **2015** | Richard Earney | v [Brasted](../2015/brasted) | **72&#42;** |
 | **2015** | Syeed Habib | v [Stowting](../2015/stowting) | **57** |
