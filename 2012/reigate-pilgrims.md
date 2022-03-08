@@ -52,17 +52,17 @@ parent: 2012 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | b | Yerrell | 2 |
-| **T Rutherford** | b | Yerrell | 0 |
-| **M Gupta** | b | Chambers | 20 |
-| **R Beswick &#42;** | b | Yerrell | 2 |
-| **I Marshall** | b | Chambers | 16 |
-| **W Calvert** | b | Scanlon | 25 |
-| **H Ingham** | b | Scanlon | 21 |
-| **J Grant &#8224;** | b | Chambers | 7 |
-| **E Garland** | b | Scanlon | 8 |
-| **E Garland** | b | Scanlon | 2 |
+| **R Earney** | c P Saika | C Wise | 13 |
+| **T Rutherford** | c Kishore | C Wise | 31 |
+| **M Gupta** | b | C Wise | 18 |
+| **R Beswick &#42;** | c K Copestake | C Wise | 1 |
+| **I Marshall** | c N Buckland | P Saika | 14 |
+| **W Calvert** | b | S Arnold | 9 |
+| **H Ingham** | c G Mitchell | D Baty | 19 |
+| **J Grant &#8224;** | not out |  | 2 |
+| **E Garland** | lbw | M Wood | 2 |
 | **J Wright** | not out |  | 0 |
+|  |  |  |  |
 | **Extras** | | (4b 11lb 5w 0nb 0p) | **20** |
 | **Total** | | (39 overs) | **129 for 8 wkts** |
 

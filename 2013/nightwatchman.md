@@ -25,8 +25,8 @@ parent: 2013 Fixtures
 | **M Elwin** | c H Ingham | T Carden | 55 |
 | **R Ahmed** | not out |  | 30 |
 | **Sami** | not out |  | 4 |
-| **Bradley** | dnb |  |  |
-| **O Neill** | dnb |  |  |
+| **B Judd** | dnb |  |  |
+| **O'Neill** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **33** |
 | **Total** | | (47 overs) | **196 for 7 wkts** |
 
@@ -54,8 +54,8 @@ parent: 2013 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | c Bradley | O'Neill | 45 |
-| **T Carden** | b | Bradley | 42 |
+| **R Earney** | c B Judd | O'Neill | 45 |
+| **T Carden** | b | B Judd | 42 |
 | **R Damaze** | not out |  | 52 |
 | **R Beswick &#42;** | lbw | Will | 6 |
 | **W Calvert** | b | G Weekes | 0 |
@@ -80,7 +80,7 @@ parent: 2013 Fixtures
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **O'Neill** | 5 | 0 | 41 | 1 |
-| **Bradley** | 5 | 1 | 20 | 1 |
+| **B Judd** | 5 | 1 | 20 | 1 |
 | **Sami** | 6 | 0 | 38 | 0 |
 | **M Elwin** | 5 | 1 | 30 | 0 |
 | **G Weekes** | 3 | 0 | 14 | 1 |

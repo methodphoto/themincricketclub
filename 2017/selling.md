@@ -23,9 +23,9 @@ parent: 2017 Fixtures
 | **R de Zoysa** | run out |  | 8 |
 | **T Flower** | not out |  | 10 |
 | **Mohan** | not out |  | 8 |
-| **J du Toit** | did not bat |  |  |
-| **D Hamlyn** | did not bat |  |  |
-| **T Carter** | did not bat |  |  |
+| **J du Toit** | dnb |  |  |
+| **D Hamlyn** | dnb |  |  |
+| **T Carter** | dnb |  |  |
 | **Extras** | | (2b 5lb 6w 0nb 0p) | **13** |
 | **Total** | | (40 overs) | **248 for 6 wkts** |
 

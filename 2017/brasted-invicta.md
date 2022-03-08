@@ -26,8 +26,8 @@ S Amin best bowling for The Min.
 | **I Muntakim** | run out |  | 1 |
 | **I Miah** | not out |  | 3 |
 | **M Gupta** | not out |  | 1 |
-| **S Amin** | did not bat |  |  |
-| **P Wigg** | did not bat |  |  |
+| **S Amin** | dnb |  |  |
+| **P Wigg** | dnb |  |  |
 | **Extras** | | (11b 2lb 5w 3nb 0p) | **21** |
 | **Total** | | (35 overs) | **215 for 5 wkts** |
 

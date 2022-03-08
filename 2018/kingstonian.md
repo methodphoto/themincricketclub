@@ -59,11 +59,11 @@ parent: 2018 Fixtures
 | **R Beswick** | c; | Jacobs | 9 |
 | **I Miah** | not out |  | 25 |
 | **S Amin** | not out |  | 15 |
-| **P Beswick** | did not bat |  |  |
-| **J Grant** | did not bat |  |  |
-| **E Garland** | did not bat |  |  |
-| **C Wright** | did not bat |  |  |
-| **J Wright** | did not bat |  |  |
+| **P Beswick** | dnb |  |  |
+| **J Grant** | dnb |  |  |
+| **E Garland** | dnb |  |  |
+| **C Wright** | dnb |  |  |
+| **J Wright** | dnb |  |  |
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
 | **Total** | | (34.2 overs) | **172 for 4 wkts** |
 

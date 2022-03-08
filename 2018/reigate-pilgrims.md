@@ -24,7 +24,7 @@ parent: 2018 Fixtures
 | **W Calvert &#8224;** | c V Vijayan | J Ardolino | 6 |
 | **I Marshall** | not out |  | 50 |
 | **E Garland** | not out |  | 15 |
-| **J Wright** | did not bat |  |  |
+| **J Wright** | dnb |  |  |
 | **** |  |  |  |
 | **** |  |  |  |
 | **Extras** | | (0nb 5w 6b 13lb 0p) | **24** |
@@ -59,10 +59,10 @@ parent: 2018 Fixtures
 | **D Kanagarajah** | b | A Dell | 4 |
 | **V Vijayan** | not out |  | 38 |
 | **G Mitchell** | not out |  | 18 |
-| **P Saikia** | did not bat |  |  |
-| **J Ardolino** | did not bat |  |  |
-| **M Nicholls &#8224;** | did not bat |  |  |
-| **J Hoy** | did not bat |  |  |
+| **P Saikia** | dnb |  |  |
+| **J Ardolino** | dnb |  |  |
+| **M Nicholls &#8224;** | dnb |  |  |
+| **J Hoy** | dnb |  |  |
 | **Extras** | | (0nb 5w 6b 13lb 0p) | **24** |
 | **Total** | | (42 overs) | **184 for 6 wkts** |
 

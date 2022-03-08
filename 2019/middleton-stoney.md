@@ -24,7 +24,7 @@ parent: 2019 Fixtures
 | **T Riley** | b | R Beswick | 0 |
 | **J Mumtaz** | run out | 12 |
 | **S Petit** | b | R Beswick | 52 |
-| **J Morris** | not out | |
+| **J Morris** | not out | |  |
 | **J Williams** | dnb | |
 | **AK Kamal** | dnb | |
 | **E Barton** | dnb | |

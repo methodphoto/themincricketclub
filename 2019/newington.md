@@ -54,14 +54,14 @@ parent: 2019 Fixtures
 |:---|:---|---|---:|
 | **R Beswick &#42;** | c | Morgan | 48 |
 | **J Grant &#8224;** | c | Morgan | 0 |
-| **Jo.Nisse** | c | Morgan | 8 |
-| **J.Stacey** | b | Mason | 59 |
-| **A.Gallagher** | c | Singh | 24 |
-| **Ja.Nisse** | c | Mason | 8 |
-| **S.Amin** | c & b | Mason | 31 |
-| **K.Usanga** | not out |  | 9 |
-| **I.Marshall** | run out |  | 0 |
-| **C.Wright** | run out |  | 2 |
+| **Jo Nisse** | c | Morgan | 8 |
+| **J Stacey** | b | Mason | 59 |
+| **A Gallagher** | c | Singh | 24 |
+| **Ja Nisse** | c | Mason | 8 |
+| **S Amin** | c & b | Mason | 31 |
+| **K Usanga** | not out |  | 9 |
+| **I Marshall** | run out |  | 0 |
+| **C Wright** | run out |  | 2 |
 |  |  |  |  | 	 
 | **Extras** | | (7b 4lb 5w 1nb 0p) | **17** |
 | **Total** | | (34.1 overs) | **208 for 9 wkts (all out)** |

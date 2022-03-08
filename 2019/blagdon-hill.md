@@ -14,28 +14,28 @@ parent: 2019 Fixtures
 
 ## {{page.title}} Innings
 
-| Batsman | Dismissal |  | Runs |
+| Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-|  **L Trottman** | b | P Wigg | 18 |
-|  **P Free** | c | P Wigg | 39 |
-|  **G Welsh** | b | R Beswick | 5 |
-|  **G Higgins** | c R Earney | P Wigg | 0 |
-|  **C Wyatt** | run out |  | 60 |
-|  **A Williams** | b | Abdul | 27 |
-|  **A Hotham** | c | Abdul | 3 |
-|  **E Trottman** | not out | | 15 |
-|  **G Williams** | lbw | I Miah | 6 |
-|  **T Knight** | c	| 	| 12 |
-|  **H Welsh** | not out | | 2 |
-|  **Extras** |  | (6b 1lb 3w 1nb 0p) | 11 |
-|  **Total** |  | (35 overs) | 213 for 9 wkts |
+| **L Trottman** | b | P Wigg | 18 |
+| **P Free** | c | P Wigg | 39 |
+| **G Welsh** | b | R Beswick | 5 |
+| **G Higgins** | c R Earney | P Wigg | 0 |
+| **C Wyatt** | run out | | 60 |
+| **A Williams** | b | Abdul | 27 |
+| **A Hotham** | c | Abdul | 3 |
+| **E Trottman** | not out | | 15 |
+| **G Williams** | lbw | I Miah | 6 |
+| **T Knight** | c	| 	| 12 |
+| **H Welsh** | not out | | 2 |
+| **Extras** | | (6b 1lb 3w 1nb 0p) | 11 |
+| **Total** | | (35 overs) | 213 for 9 wkts |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Score** | 1 | 27 | 29 | 130 | 156 |  | 169 | 171 | 192 |  |
-| **Batsman** | 1 | 3 | 4 | 2 | 6 | 7 | 5 | 9 | 10 |  |
+| **Score** | 1 | 27 | 29 | 130 | 156 | | 169 | 171 | 192 | |
+| **Batsman** | 1 | 3 | 4 | 2 | 6 | 7 | 5 | 9 | 10 | |
 
 ## Bowling
 
@@ -50,7 +50,7 @@ parent: 2019 Fixtures
 
 ## The Min Innings
 
-| Batsman | Dismissal |  | Runs |
+| Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | lbw | A Williams | 6 |
 | **R Earney** | c & b | G Williams | 47 |
@@ -59,12 +59,12 @@ parent: 2019 Fixtures
 | **A Beswick** | lbw | A Hotham | 7 |
 | **I Miah** | c G Welsh | A Hotham | 7 |
 | **W Calvert** | c & b | E Trottman | 9 |
-| **E Garland** | run out |  | 5 |
+| **E Garland** | run out | | 5 |
 | **J Stimfig &#8224;** | c G Williams | b C Wyatt | 0 |
 | **A Munim** | c A Hotham | E Trottman | 20 |
-| **P Wigg** | not out |   | 22 |	 
-| **Extras** |  | (3b 1lb 8w 9nb 0p) | **21** |
-| **Total** |  | (33 3 overs) | 202 all out |
+| **P Wigg** | not out |  | 22 |	 
+| **Extras** | | (3b 1lb 8w 9nb 0p) | **21** |
+| **Total** | | (33 3 overs) | 202 all out |
 
 ## Fall of Wickets
 

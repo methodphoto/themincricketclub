@@ -62,7 +62,7 @@ parent: 2018 Fixtures
 | **B Glenn** | lbw | I Matvad | 0 |
 | **C Carter** | b | I Matvad | 0 |
 | **A Rasheed** | not out |  | 1 |
-| **AJ Rasheed** | did not bat |  |  |
+| **AJ Rasheed** | dnb |  |  |
 | **Extras** | | (16b 6lb 2w 1nb 0p) | **25** | 
 | **Total** | | (40 overs) | **198 for 8 wkts** | 
 

@@ -58,11 +58,11 @@ parent: 2017 Fixtures
 | **Tarveed** | b | R Beswick | 29 |
 | **C Iversen** | not out |  | 44 |
 | **Johaib** | not out |  | 63 |
-| **Sanjay** | did not bat |  |  |
-| **Jacobs** | did not bat |  |  |
-| **Arab** | did not bat |  |  |
-| **Javid** | did not bat |  |  |
-| **Shubam** | did not bat |  |  |
+| **Sanjay** | dnb |  |  |
+| **Jacobs** | dnb |  |  |
+| **Arab** | dnb |  |  |
+| **Javid** | dnb |  |  |
+| **Shubam** | dnb |  |  |
 | **Extras** | | (1b 1b 5w 0nb 0p) | **7** |
 | **Total** | | (31.4 overs | **204 for 4 wkts** |
 

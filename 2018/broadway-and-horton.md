@@ -62,8 +62,8 @@ S Barrowcliff 50 off 68 balls
 | **P Wigg** |  | b R Hilton | 11 |
 | **E Garland** |  | b J Amith | 18 |
 | **J Grant &#8224;** | not out |  | 0 |
-| **J Wright** | did not bat |  |  |
-| **J Purefoy** | did not bat |  |  |
+| **J Wright** | dnb |  |  |
+| **J Purefoy** | dnb |  |  |
 | **** |  |  |  |
 | **Extras** | | (0nb 2w 1b 3lb 0p) | **6** |
 | **Total** | | (39.2 overs) | **185 for 6** |

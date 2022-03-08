@@ -24,9 +24,9 @@ parent: 2018 Fixtures
 | **K Morgan** | lbw | J Wright | 0 |
 | **A Huseyin** | b | I Matvad | 1 |
 | **R Singh &#8224;** | not out |  | 16 |
-| **T Selvakumar** | did not bat |  |  |
-| **R Coleman** | did not bat |  |  |
-| **R Harris** | did not bat |  |  |
+| **T Selvakumar** | dnb |  |  |
+| **R Coleman** | dnb |  |  |
+| **R Harris** | dnb |  |  |
 | **Extras** | | (0nb 3w 2b 1lb 0p) | **6** |
 | **Total** | | (35 overs) | **251 for 6** |
 

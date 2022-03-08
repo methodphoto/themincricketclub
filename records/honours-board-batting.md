@@ -48,7 +48,7 @@ parent: Records
 | **2019** | Alf Beswick | v [Kingstonian](../2019/kingstonian) | **86** |
 | **2019** | Steven Hornsby | v [Broadway and Horton](../2019/broadway-and-horton) | **52** |
 | **2019** | Alf Beswick | v [Cerne Valley](../2019/cerne-valley) | **52** |
-| **2019** | I Matvad | v [Frensham](../2019/frensham) | **70** |
+| **2019** | Ishmail Matvad | v [Frensham](../2019/frensham) | **70** |
 | **2019** | Jack Stacey | v [Newington](../2019/newington) | **59** |
 | **2019** | Alf Beswick | v [Watton-at-Stone](../2019/watton-at-stone) | **57** |
 | **2018** | Richard Earney | v [Kingstonian](../2018/kingstonian) | **56** |
@@ -62,6 +62,9 @@ parent: Records
 | **2016** | Richard Beswick | v [Kilmington and Stourton](../2016/kilmington-and-stourton) | **72** |
 | **2016** | Richard Beswick | v [Selling](../2016/selling) | **72** |
 | **2016** | Alf Beswick | v [Broadway and Horton](../2016/broadway-and-horton) | **55** |
+| **2016** | Simon Barrowcliff | v [Blagdon Hill](../2016/blagdon-hill) | **50** |
+| **2016** | David Brookfield | v [Watton-at-Stone](../2016/watton-at-stone) | **51** |
+| **2016** | Syeed Habib | v [Frensham](../2016/frensham) | **91** |
 | **2016** | Mohit Gupta | v [Nightwatchman XI](../2016/nightwatchman-xi) | **65** |
 | **2016** | Simon Barrowcliff | v [Middleton Stoney](../2016/middleton-stoney) | **53** |
 | **2015** | Richard Beswick | v [Selling](../2015/selling) | **72** |

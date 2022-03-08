@@ -21,11 +21,11 @@ parent: 2018 Fixtures
 | **J Fox** | st W Calvert | P Beswick | 38 |
 | **R Ansell** | not out |  | 56 |
 | **D Bloomfield** | not out |  | 33 |
-| **D Kiddie** | did not bat |  |  |
-| **A Gundy** | did not bat |  |  |
-| **J Wing** | did not bat |  |  |
-| **K Posner** | did not bat |  |  |
-| **S Vincent** | did not bat |  |  |
+| **D Kiddie** | dnb |  |  |
+| **A Gundy** | dnb |  |  |
+| **J Wing** | dnb |  |  |
+| **K Posner** | dnb |  |  |
+| **S Vincent** | dnb |  |  |
 | **** |  |  |  |
 | **Extras** | | (12w 12b 4lb 1nb  0p) | **29** |
 | **Total** | | (40 overs) | **295  for 3 wkts** |

@@ -26,7 +26,7 @@ parent: 2018 Fixtures
 | **E Garland** | not out |  | 9 |
 | **J Wright** | caught | G Williams | 12 |
 | **S Noble** | not out |  | 0 |
-| **J Earney** | did not bat |  |  |
+| **J Earney** | dnb |  |  |
 | **Extras** | | (0nb 18w 3b 0lb 0p) | **21** |
 | **Total** | | (40 overs) | **139 for 8 wkts** |
 
@@ -59,10 +59,10 @@ parent: 2018 Fixtures
 | **T Knight** | c R Earney | S Noble | 8 |
 | **A Hotham** | not out |  | 33 |
 | **G Williams** | not out |  | 4 |
-| **R Neale** | did not bat |  |  |
-| **A Hannam** | did not bat |  |  |
-| **A Davidson** | did not bat |  |  |
-| **D Wright** | did not bat |  |  |
+| **R Neale** | dnb |  |  |
+| **A Hannam** | dnb |  |  |
+| **A Davidson** | dnb |  |  |
+| **D Wright** | dnb |  |  |
 | **Extras** | | (0nb 18w 3b 0lb 0p) | **21** |
 | **Total** | | (26 overs) | **145 for 5 wkts** |
 
