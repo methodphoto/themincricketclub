@@ -57,7 +57,7 @@ parent: 2017 Fixtures
 | **D Kidde** | not out |  | 46 |
 | **J Wine** | not out |  | 18 |
 | **R Ansell** | dnb |  |  |
-| **A Drew** | dnb |  |  | 
+| **A Drew** | dnb |  |  |
 | **A Gundy** | dnb |  |  |
 | **F Kennedy** | dnb |  |  |
 | **A Passingham** | dnb |  |  |

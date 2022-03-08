@@ -16,19 +16,19 @@ parent: 1989 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **C Fursland** | c W Calvert | J Wright | 29 | 
-| **Booker** | c W Calvert | I Marshall | 0 | 
-| **Carter** | c G Wright | I Marshall | 1 | 
-| **I Fursland** | b | G Wright | 29 | 
-| **Andrews** | c J Wright | E Garland | 23 | 
+| **C Fursland** | c W Calvert | J Wright | 29 |
+| **Booker** | c W Calvert | I Marshall | 0 |
+| **Carter** | c G Wright | I Marshall | 1 |
+| **I Fursland** | b | G Wright | 29 |
+| **Andrews** | c J Wright | E Garland | 23 |
 | **M Cakebread** | b | R Beswick | 10 |
-| **Burnell** | c J Grant | R Beswick | 0 | 
+| **Burnell** | c J Grant | R Beswick | 0 |
 | **Ellis** | c W Chapman | E Garland | 14 |
-| **R Clayton** | b | R Beswick | 12 | 
-| **D Cakebread** | not out |  | 0 | 
+| **R Clayton** | b | R Beswick | 12 |
+| **D Cakebread** | not out |  | 0 |
 | **S Carter** | c M Gardiner | J Wright | 7 |
-| **Extras** | | (6b 4lb 4w 0nb) | **14** | 
-| **Total** | | (47 overs) | **139 all out** | 
+| **Extras** | | (6b 4lb 4w 0nb) | **14** |
+| **Total** | | (47 overs) | **139 all out** |
 
 ## Fall of Wickets
 
@@ -41,10 +41,10 @@ parent: 1989 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **I Marshall** | 7 | 3 | 17 | 2 | 
-| **J Skarbek** | 7 | 2 | 24 | 0 | 
-| **J Wright** | 14 | 4 | 28 | 2 | 
-| **G Wright** | 7 | 0 | 23 | 1 | 
+| **I Marshall** | 7 | 3 | 17 | 2 |
+| **J Skarbek** | 7 | 2 | 24 | 0 |
+| **J Wright** | 14 | 4 | 28 | 2 |
+| **G Wright** | 7 | 0 | 23 | 1 |
 | **R Beswick** | 9 | 2 | 11 | 3 |
 | **E Garland* | 3 | 0 | 23 | 2 |
 
@@ -52,35 +52,35 @@ parent: 1989 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **W Chapman** | c Cakebread | Ellis | 3 | 
-| **Grant &#8224;** | c I Fursland | M Cakebread | 9 | 
-| **S Gardiner** | c C Fursland | Ellis | 59 | 
-| **I Marshall** | c Booker | Ellis | 0 | 
-| **J Wright** | b | Ellis | 0 | 
-| **W Calvert** | c I Fursland | M Cakebread | 17 | 
-| **R Beswick &#42;** | b | R Clayton | 20 | 
-| **M Gardiner** | b | Andrews | 3 | 
-| **J Skarbek** | c | Ellis | 5 | 
-| **E Garland** | not out |  | 4 | 
-| **G Wright** | not out |  | 14 | 
-| **Extras** | | (0b 5lb 4w 0nb) | **9** | 
-| **Total** | | (33.5 overs) | **143 for 9 wkts** | 
+| **W Chapman** | c Cakebread | Ellis | 3 |
+| **Grant &#8224;** | c I Fursland | M Cakebread | 9 |
+| **S Gardiner** | c C Fursland | Ellis | 59 |
+| **I Marshall** | c Booker | Ellis | 0 |
+| **J Wright** | b | Ellis | 0 |
+| **W Calvert** | c I Fursland | M Cakebread | 17 |
+| **R Beswick &#42;** | b | R Clayton | 20 |
+| **M Gardiner** | b | Andrews | 3 |
+| **J Skarbek** | c | Ellis | 5 |
+| **E Garland** | not out |  | 4 |
+| **G Wright** | not out |  | 14 |
+| **Extras** | | (0b 5lb 4w 0nb) | **9** |
+| **Total** | | (33.5 overs) | **143 for 9 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 14 | 16 | 20 | 20 | 54 | 109 | 119 | 121 | 125 |  | 
-| **Batsman** | 2 | 1 | 4 | 5 | 6 | 7 | 3 | 8 | 9 |  | 
+| **Score** | 14 | 16 | 20 | 20 | 54 | 109 | 119 | 121 | 125 |  |
+| **Batsman** | 2 | 1 | 4 | 5 | 6 | 7 | 3 | 8 | 9 |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Ellis** | 18 | 5 | 40 | 5 | 
-| **M Cakebread** | 20 | 6 | 55 | 2 | 
-| **R Clayton** | 9 | 0 | 31 | 1 | 
-| **Andrews** | 2 | 0 | 12 | 1 | 
+| **Ellis** | 18 | 5 | 40 | 5 |
+| **M Cakebread** | 20 | 6 | 55 | 2 |
+| **R Clayton** | 9 | 0 | 31 | 1 |
+| **Andrews** | 2 | 0 | 12 | 1 |
 
 ## Win/Loss Ratio
 

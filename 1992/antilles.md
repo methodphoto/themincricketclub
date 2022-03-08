@@ -16,19 +16,19 @@ parent: 1992 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **A Yearwood** | c S Barrowcliff | J Cunningham-Rolls | 21 | 
-| **T Roach** | run out |  | 14 | 
-| **R Adams** | b | J Wright | 49 | 
-| **H Cadogan** | c R Earney | J Cunningham-Rolls | 13 | 
-| **W Murrell** | c A MacFarlane | S Hornsby | 6 | 
+| **A Yearwood** | c S Barrowcliff | J Cunningham-Rolls | 21 |
+| **T Roach** | run out |  | 14 |
+| **R Adams** | b | J Wright | 49 |
+| **H Cadogan** | c R Earney | J Cunningham-Rolls | 13 |
+| **W Murrell** | c A MacFarlane | S Hornsby | 6 |
 | **A Estwick** | c W Calvert | S Hornsby | 20 |
-| **M Boyce** | not out |  | 34 | 
+| **M Boyce** | not out |  | 34 |
 | **S Collins** | b | J Wright | 7 |
-| **R Callender** | c A MacFarlane | J Cunningham-Rolls | 4 | 
-| **O Selman** | not out |  | 16 | 
+| **R Callender** | c A MacFarlane | J Cunningham-Rolls | 4 |
+| **O Selman** | not out |  | 16 |
 | **T Nicholls** | dnb |  |  |
-| **Extras** | | (9b 9lb 8w 0nb) | **26** | 
-| **Total** | | (40 overs) | **210 for 8 wkts** | 
+| **Extras** | | (9b 9lb 8w 0nb) | **26** |
+| **Total** | | (40 overs) | **210 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -41,10 +41,10 @@ parent: 1992 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **A MacFarlane** | 4 | 0 | 26 | 0 | 
-| **I Marshall** | 8 | 1 | 30 | 0 | 
-| **J Cunningham-Rolls** | 8 | 0 | 35 | 3 | 
-| **S Hornsby** | 8 | 0 | 29 | 2 | 
+| **A MacFarlane** | 4 | 0 | 26 | 0 |
+| **I Marshall** | 8 | 1 | 30 | 0 |
+| **J Cunningham-Rolls** | 8 | 0 | 35 | 3 |
+| **S Hornsby** | 8 | 0 | 29 | 2 |
 | **R Olver** | 3 | 0 | 21 | 0 |
 | **W Calvert** | 2 | 0 | 23 | 0 |
 | **J Wright** | 7 | 0 | 28 | 2 |
@@ -53,38 +53,38 @@ parent: 1992 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **S Barrowcliff** | b | T Nicholls | 0 | 
-| **R Earney** | b | A Estwick | 43 | 
-| **S Hornsby** | c T Nicholls | R Callender | 40 | 
-| **M Gardiner** | b | R Callender | 4 | 
-| **R Beswick &#42;** | c H Cadogan | R Callender | 9 | 
-| **A MacFarlane** | b | M Boyce | 32 | 
-| **W Calvert &#8224;** | c A Yearwood | O Selman | 0 | 
-| **I Marshall** | b | M Boyce | 4 | 
-| **J Cunningham-Rolls** | not out |  | 11 | 
-| **R Olver** | not out |  | 20 | 
-| **J Wright** | dnb |  |  | 
-| **Extras** | | (13b 14lb 7w 2nb) | **36** | 
-| **Total** | | (33.5 overs) | **199 for 8 wkts** | 
+| **S Barrowcliff** | b | T Nicholls | 0 |
+| **R Earney** | b | A Estwick | 43 |
+| **S Hornsby** | c T Nicholls | R Callender | 40 |
+| **M Gardiner** | b | R Callender | 4 |
+| **R Beswick &#42;** | c H Cadogan | R Callender | 9 |
+| **A MacFarlane** | b | M Boyce | 32 |
+| **W Calvert &#8224;** | c A Yearwood | O Selman | 0 |
+| **I Marshall** | b | M Boyce | 4 |
+| **J Cunningham-Rolls** | not out |  | 11 |
+| **R Olver** | not out |  | 20 |
+| **J Wright** | dnb |  |  |
+| **Extras** | | (13b 14lb 7w 2nb) | **36** |
+| **Total** | | (33.5 overs) | **199 for 8 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 15 | 88 | 103 | 121 | 122 | 129 | 139 | 170 |  |  | 
-| **Batsman** | 1 | 2 | 4 | 5 | 3 | 7 | 8 | 6 |  |  | 
+| **Score** | 15 | 88 | 103 | 121 | 122 | 129 | 139 | 170 |  |  |
+| **Batsman** | 1 | 2 | 4 | 5 | 3 | 7 | 8 | 6 |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **T Nicholls** | 4 | 0 | 4 | 1 | 
-| **A Yearwood** | 8 | 0 | 25 | 0 | 
-| **W Murrell** | 4 | 1 | 32 | 0 | 
-| **A Estwick** | 4 | 0 | 21 | 1 | 
+| **T Nicholls** | 4 | 0 | 4 | 1 |
+| **A Yearwood** | 8 | 0 | 25 | 0 |
+| **W Murrell** | 4 | 1 | 32 | 0 |
+| **A Estwick** | 4 | 0 | 21 | 1 |
 | **R Callender** | 5 | 0 | 22 | 3 |
-| **O Selman** | 8 | 0 | 41 | 1 | 
-| **M Boyce** | 4 | 0 | 28 | 2 | 
+| **O Selman** | 8 | 0 | 41 | 1 |
+| **M Boyce** | 4 | 0 | 28 | 2 |
 
 ## Win/Loss Ratio
 

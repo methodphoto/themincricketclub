@@ -64,8 +64,8 @@ parent: 2016 Fixtures
 | **S Mohammed** | not out | 23 |
 | **J Wright** | b Pav 2 |
 |  |  |  |  |
-| **Extras** | | (5b 5lb 5w 2nb 0p) | **17** | 
-| **Total** | | (37 overs) | **207 for 9 wkts (all out)** | 
+| **Extras** | | (5b 5lb 5w 2nb 0p) | **17** |
+| **Total** | | (37 overs) | **207 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 

@@ -26,7 +26,7 @@ parent: 2014 Fixtures
 | **W Khan** |  not out | 7 |
 | **P Beswick** | c Dickinson | A Pickering | 0 |
 | **J Wright** | lbw | A Pickering | 0 |
-| **Extras** | | (8b 2lb 2w 0nb 0p) | **12** | 
+| **Extras** | | (8b 2lb 2w 0nb 0p) | **12** |
 | **Total** | | (41 overs) | **142 all out** |
 
 ## Fall of Wickets
@@ -34,7 +34,7 @@ parent: 2014 Fixtures
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 54 | 58 | 67 | 76 | 80 | 130 | 130 | 142 | 142 | 142 |
-| **Batsman** | 1 | 3 | 4 | 5 | 2 | 7 | 8 | 6 | 10 | 11 | 
+| **Batsman** | 1 | 3 | 4 | 5 | 2 | 7 | 8 | 6 | 10 | 11 |
 
 ## Bowling
 
@@ -76,8 +76,8 @@ parent: 2014 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **P Wigg** | 8 | 3 | 19 | 1 | 
-| **I Marshall** | 8 | 5 | 10 | 1 | 
+| **P Wigg** | 8 | 3 | 19 | 1 |
+| **I Marshall** | 8 | 5 | 10 | 1 |
 | **W Khan** | 10 | 3 | 30 | 0 |
 | **J Wright** | 4 | 0 | 27 | 0 |
 | **P Beswick** | 3 | 0 | 33 | 1 |

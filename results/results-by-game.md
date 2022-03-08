@@ -42,7 +42,7 @@ parent: Results
 | 15/09/2019 | [Reigate Pilgrims](../2019/reigate-pilgrims) | Drawn |
 
 | 2018 |  |  |
-|:---|:---|:---| 
+|:---|:---|:---|
 | 22/04/2018 | [Middleton Stoney](../2018/middleton-stoney) | Drawn |
 | {date} | [Kingstonian](../2018/kingstonian) | **Won** |
 | {date} | [Newington](../2018/newington) | **Won** |
@@ -54,7 +54,7 @@ parent: Results
 | {date} | [Stoke D’Abernon](../2018/stoke-dabernon) | Lost |
 
 | 2017 |  |  |
-|:---|:---|:---| 
+|:---|:---|:---|
 | {date} | [Middleton Stoney](../2017/middleton-stoney) | Lost |
 | {date} | [Kingstonian](../2017/kingstonian) | Lost |
 | {date} | [Newington](../2017/newington) | Lost |

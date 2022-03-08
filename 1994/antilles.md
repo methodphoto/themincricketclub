@@ -16,19 +16,19 @@ parent: 1994 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **K Gibbons** | c J Grant | I Marshall | 78 | 
-| **H Cadogan** | c P Bentley| J Wright | 24 | 
-| **Chandler** | b | I Marshall | 10 | 
-| **T Roach** | c W Calvert | R Earney | 19 | 
-| **A Yearwood** | c J Wright | P Bentley | 7 | 
+| **K Gibbons** | c J Grant | I Marshall | 78 |
+| **H Cadogan** | c P Bentley| J Wright | 24 |
+| **Chandler** | b | I Marshall | 10 |
+| **T Roach** | c W Calvert | R Earney | 19 |
+| **A Yearwood** | c J Wright | P Bentley | 7 |
 | **T Nichols** | lbw | E Garland | 20 |
-| **M Mings** | lbw | P Bentley | 2 | 
+| **M Mings** | lbw | P Bentley | 2 |
 | **S Collins** | not out |  | 48 |
-| **J Callender** | b | R Beswick | 33 | 
+| **J Callender** | b | R Beswick | 33 |
 | **Boyle** | b | E Garland | 22 |
 | **McGeary** | not out |  | 0 |
-| **Extras** | | (8b 8lb 8w 0nb) | **24** | 
-| **Total** | | (39 overs) | **282 for 9 wkts** | 
+| **Extras** | | (8b 8lb 8w 0nb) | **24** |
+| **Total** | | (39 overs) | **282 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -41,10 +41,10 @@ parent: 1994 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **R Beswick** | 5 | 0 | 38 | 1 | 
-| **J Wright** | 5 | 0 | 41 | 1 | 
-| **I Marshall** | 8 | 2 | 38 | 2 | 
-| **P Bentley** | 7 | 0 | 41 | 1 | 
+| **R Beswick** | 5 | 0 | 38 | 1 |
+| **J Wright** | 5 | 0 | 41 | 1 |
+| **I Marshall** | 8 | 2 | 38 | 2 |
+| **P Bentley** | 7 | 0 | 41 | 1 |
 | **R Earney** | 5 | 0 | 49 | 1 |
 | **E Garland** | 7 | 0 | 38 | 2 |
 | **W Calvert** | 2 | 0 | 31 | 0 |
@@ -53,19 +53,19 @@ parent: 1994 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | b | T Nichols | 9 | 
-| **S Barrowcliff** | lbw | M Mings | 5 | 
-| **S Gardiner** | b | Chandler | 43 | 
-| **P Bentley** | b | T Nichols | 0 | 
-| **W Calvert** | b | S Collins | 28 | 
-| **E Garland** | b | Boyle | 33 | 
-| **T Horsey** | b | Chandler | 1 | 
-| **R Beswick &#42;** | run out |  | 7 | 
-| **I Marshall** | b | K Gibbons | 12 | 
-| **J Grant** | not out |  | 26 | 
-| **J Wright** | b | Boyle | 15 | 
-| **Extras** | | (4b 0lb 5w 5nb) | **14** | 
-| **Total** | | (35.4 overs) | **195 all out** | 
+| **R Earney** | b | T Nichols | 9 |
+| **S Barrowcliff** | lbw | M Mings | 5 |
+| **S Gardiner** | b | Chandler | 43 |
+| **P Bentley** | b | T Nichols | 0 |
+| **W Calvert** | b | S Collins | 28 |
+| **E Garland** | b | Boyle | 33 |
+| **T Horsey** | b | Chandler | 1 |
+| **R Beswick &#42;** | run out |  | 7 |
+| **I Marshall** | b | K Gibbons | 12 |
+| **J Grant** | not out |  | 26 |
+| **J Wright** | b | Boyle | 15 |
+| **Extras** | | (4b 0lb 5w 5nb) | **14** |
+| **Total** | | (35.4 overs) | **195 all out** |
 
 ## Fall of Wickets
 

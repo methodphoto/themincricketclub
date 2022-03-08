@@ -29,8 +29,8 @@ S Barrowcliff's 14th 50
 | **S Petit** | not out| 0 |
 | **T Cranston** | dnb |  |  |
 | **S Lee** | dnb |  |  |
-| **Extras** | | (3b 1lb 0w 0nb) | **4** | 
-| **Total** | | (36 overs) | **119 for 7 wkts** | 
+| **Extras** | | (3b 1lb 0w 0nb) | **4** |
+| **Total** | | (36 overs) | **119 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -66,14 +66,14 @@ S Barrowcliff's 14th 50
 | **I Miah** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
-| **Total** | | (38 overs) | **121 for 5 wkts** | 
+| **Total** | | (38 overs) | **121 for 5 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 7 | 20 | 32 | 115 | 115 |  |  |  |  |  | 
-| **Batsman** | 2 | 3 | 1 | 5 | 4 |  |  |  |  |  | 
+| **Score** | 7 | 20 | 32 | 115 | 115 |  |  |  |  |  |
+| **Batsman** | 2 | 3 | 1 | 5 | 4 |  |  |  |  |  |
 
 ## Bowling
 

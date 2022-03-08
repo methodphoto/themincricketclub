@@ -16,19 +16,19 @@ parent: 1987 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Knight** | lbw | A Sylvester | 10 | 
-| **Elsey** | b | J Wright | 12 | 
+| **Knight** | lbw | A Sylvester | 10 |
+| **Elsey** | b | J Wright | 12 |
 | **Atkins** | c T Purves | A Sylvester | 6 |
-| **Kelly** | c J Packenham-Walsh | J Wright | 1 | 
-| **Elliott** | c R Beswick | W Calvert | 29 | 
+| **Kelly** | c J Packenham-Walsh | J Wright | 1 |
+| **Elliott** | c R Beswick | W Calvert | 29 |
 | **Kirby** | st J Grant | T Purves  | 46 |
-| **Carr** | run out |  | 5 | 
+| **Carr** | run out |  | 5 |
 | **Waters** | c J Grant | T Purves | 0 |
 | **Jones** | run out |  | 11 |  
-| **Adams** | c T Purves | R Beswick | 5 | 
+| **Adams** | c T Purves | R Beswick | 5 |
 | **Wootton** | not out |  | 1 |
-| **Extras** | | (0b 1lb 4w 1nb) | **6** | 
-| **Total** | | (44 overs) | **132 all out** | 
+| **Extras** | | (0b 1lb 4w 1nb) | **6** |
+| **Total** | | (44 overs) | **132 all out** |
 
 ## Fall of Wickets
 
@@ -41,10 +41,10 @@ parent: 1987 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **A Sylvester** | 8 | 3 | 33 | 1 | 
-| **R Beswick** | 10 | 3 | 18 | 1 | 
-| **J Wright** | 5 | 0 | 11 | 2 | 
-| **T Purves** | 12 | 2 | 41 | 2 | 
+| **A Sylvester** | 8 | 3 | 33 | 1 |
+| **R Beswick** | 10 | 3 | 18 | 1 |
+| **J Wright** | 5 | 0 | 11 | 2 |
+| **T Purves** | 12 | 2 | 41 | 2 |
 | **W Calvert** | 3 | 0 | 12 | 1 |
 | **M Wright** | 6 | 2 | 16 | 0 |
 
@@ -52,33 +52,33 @@ parent: 1987 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **A Gallagher** | c | Elliott | 26 | 
-| **J Grant &#8224;** | b | Carr | 1 | 
-| **J Packenham-Walsh** | not out |  | 59 | 
-| **T Purves** | not out |  | 40 | 
-| **W Calvert** | dnb  |  |  | 
-| **R Beswick** | dnb  |  |  | 
+| **A Gallagher** | c | Elliott | 26 |
+| **J Grant &#8224;** | b | Carr | 1 |
+| **J Packenham-Walsh** | not out |  | 59 |
+| **T Purves** | not out |  | 40 |
+| **W Calvert** | dnb  |  |  |
+| **R Beswick** | dnb  |  |  |
 | **A Sylvester** | dnb  |  |  |
-| **M Wright** | dnb  |  |  | 
-| **J Wright** | dnb  |  |  | 
-|  |  |  |  | 
+| **M Wright** | dnb  |  |  |
+| **J Wright** | dnb  |  |  |
 |  |  |  |  |
-| **Extras** | | (2b 1lb 4w 0nb) | **7** | 
-| **Total** | | (26.2 overs) | **133 for 7 wkts** | 
+|  |  |  |  |
+| **Extras** | | (2b 1lb 4w 0nb) | **7** |
+| **Total** | | (26.2 overs) | **133 for 7 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 14 | 41 |  |  |  |  |  |  |  |  | 
-| **Batsman** | 2 | 1 |  |  |  |  |  |  |  |  | 
+| **Score** | 14 | 41 |  |  |  |  |  |  |  |  |
+| **Batsman** | 2 | 1 |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Carr** | 13 | 0 | 45 | 1 | 
-| **Wootton** | 7 | 0 | 40 | 0 | 
+| **Carr** | 13 | 0 | 45 | 1 |
+| **Wootton** | 7 | 0 | 40 | 0 |
 | **Elliott** | 8.3 | 0 | 21 | 1 |
 | **Atkins** | 6 | 0 | 24 | 0 |
 

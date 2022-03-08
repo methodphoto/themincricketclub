@@ -26,18 +26,18 @@ R Earney's 48th 50
 | **R Parsons** | lbw  | J Wright | 10 |
 | **M Ackroyd** | lbw  | J Wright | 1 |
 | **M Rickwood** |  b | R Beswick | 9 |
-| **J Wheeler** | not out |  | 0 | 
+| **J Wheeler** | not out |  | 0 |
 | **S Pentreath** | b | R Beswick | 0 |
-| **A Dube** | not out |  | 0 | 
-| **Extras** | | (1b 3lb 6w 0nb 0p) | 10 | 
-| **Total** | | (35 overs) | **192 for 9 wkts** | 
+| **A Dube** | not out |  | 0 |
+| **Extras** | | (1b 3lb 6w 0nb 0p) | 10 |
+| **Total** | | (35 overs) | **192 for 9 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 14 | 29 | 36 | 136 | 148 | 166 | 191 | 191 | 191 |  |
-| **Batsman** | 1 | 2 | 4 | 3 | 6 | 7 | 3 | 8 | 10 |  | 
+| **Batsman** | 1 | 2 | 4 | 3 | 6 | 7 | 3 | 8 | 10 |  |
 
 ## Bowling
 
@@ -65,15 +65,15 @@ R Earney's 48th 50
 | **H Ingham** | not out |  | 23 |
 | **E Garland** | lbw | R Parsons | 5 |
 | **J Wright** | c A Goodland | T Stroud-Caules | 2 |
-| **Extras** | | (3b 5lb 11w 1nb 0p) | **20** | 
-| **Total** | | (33.5 overs) | **191 all out** | 
+| **Extras** | | (3b 5lb 11w 1nb 0p) | **20** |
+| **Total** | | (33.5 overs) | **191 all out** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 2 | 3 | 4 | 1 | 6 | 7 | 5 | 8 | 10 | 11 | 
-| **Batsman** | 48 | 60 | 73 | 118 | 119 | 123 | 135 | 179 | 188 | 191 | 
+| **Score** | 2 | 3 | 4 | 1 | 6 | 7 | 5 | 8 | 10 | 11 |
+| **Batsman** | 48 | 60 | 73 | 118 | 119 | 123 | 135 | 179 | 188 | 191 |
 
 ## Bowling
 
@@ -85,7 +85,7 @@ R Earney's 48th 50
 | **S Gilmour** | 7 | 1 | 29 | 2 |
 | **J Wheeler** | 3 | 0 | 27 | 0 |
 | **M Ackroyd** | 2 | 0 | 15 | 1 |
-| **T Stroud-Caules** | 2.5 | 0 | 13 | 2 | 
+| **T Stroud-Caules** | 2.5 | 0 | 13 | 2 |
 
 ## Win/Loss Ratio
 

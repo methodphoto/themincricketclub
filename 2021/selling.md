@@ -15,19 +15,19 @@ parent: 2021 Fixtures
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **R Mithu** | b | I Matvad | 1 | 
-| **R Blake** | c R Damaze | L Holden | 0 | 
-| **B Wilson** | lbw | M Gupta | 27 | 
-| **T Hinke** | c W Calvert | M Gupta | 0 | 
-| **M Ali** | c A Beswick | I Matvad | 1 | 
-| **Z Porter** | c I Matvad | R Earney | 20 | 
-| **D Towe &#42;** | not out |  | 21 | 
-| **S Shamim** | c A Beswick | R Earney | 16 | 
-| **J DuToit &#8224;** | c & b | R Earney | 5 | 
+| **R Mithu** | b | I Matvad | 1 |
+| **R Blake** | c R Damaze | L Holden | 0 |
+| **B Wilson** | lbw | M Gupta | 27 |
+| **T Hinke** | c W Calvert | M Gupta | 0 |
+| **M Ali** | c A Beswick | I Matvad | 1 |
+| **Z Porter** | c I Matvad | R Earney | 20 |
+| **D Towe &#42;** | not out |  | 21 |
+| **S Shamim** | c A Beswick | R Earney | 16 |
+| **J DuToit &#8224;** | c & b | R Earney | 5 |
 | **P Cheeseman** | run out |  | 0 |
 | | | | |
-| **Extras** | | (5b 2lb 11w 1nb) | **19** | 
-| **Total** | | (32.4 overs) | **110 for 9 wkts (all out)** | 
+| **Extras** | | (5b 2lb 11w 1nb) | **19** |
+| **Total** | | (32.4 overs) | **110 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 
@@ -51,26 +51,26 @@ parent: 2021 Fixtures
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **A Beswick** | b | R Blake | 0 | 
-| **R Beswick &#42;** | retired - not out | | 15 | 
+| **A Beswick** | b | R Blake | 0 |
+| **R Beswick &#42;** | retired - not out | | 15 |
 | **S Hornsby** | b | M Ali | 49 |
-| **R Damaze** | lbw | M Ali | 18 | 
-| **W Calvert** | st J DuToit | P Cheesman | 0 | 
+| **R Damaze** | lbw | M Ali | 18 |
+| **W Calvert** | st J DuToit | P Cheesman | 0 |
 | **Mik Gupta** | c | P Cheeseman | 0 |
-| **I Miah** | b | M Ali | 2 | 
-| **R Earney** | not out | | 10 | 
+| **I Miah** | b | M Ali | 2 |
+| **R Earney** | not out | | 10 |
 | **L Holden** | not out | | 2 |
-| **I Matvid** | dnb |  |  | 
+| **I Matvid** | dnb |  |  |
 | **M Gupta** | dnb |  |  |  
-| **Extras** | | (10b 2lb 2w 2nb) | **16** | 
-| **Total** | | (29.2 overs) | **113 for 6 wkts** | 
+| **Extras** | | (10b 2lb 2w 2nb) | **16** |
+| **Total** | | (29.2 overs) | **113 for 6 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | (66)) | 82 | 87 | 99 | 105 | 107 |  |  |  |
-| **Batsman** | 1 | (2)) | 3 | 5 | 4 | 6 | 7 |  |  |  | 
+| **Batsman** | 1 | (2)) | 3 | 5 | 4 | 6 | 7 |  |  |  |
 
 ## Bowling
 

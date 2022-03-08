@@ -71,7 +71,7 @@ A Gallagher's 13th 50. H Ingham hat trick
 | **K Jones** | retired hurt |  | 1 |
 | **R Jones** | not out |  | 1 |
 | **Extras** | | (4b 1lb 4w 2nb 0p) | **11** |
-| **Total** | | (20 overs) | **144 for 8 wkts** | 
+| **Total** | | (20 overs) | **144 for 8 wkts** |
 
 ## Fall of Wickets
 

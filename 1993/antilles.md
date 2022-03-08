@@ -16,19 +16,19 @@ parent: 1993 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **I Marshall** | b | Murrell | 32 | 
-| **Walcott** | c | T Nicholls | 22 | 
-| **R Earney** | b | B Shepherd | 27 | 
-| **S Hornsby** | b | M Boyce | 37 | 
-| **R Beswick &#42;** | b | B Shepherd | 4 | 
-| **A MacFarlane** | c | M Boyce | 7 | 
-| **W Calvert** | run out |  | 30 | 
-| **R Colethorpe** | b | S Collins | 9 | 
-| **D Young** | not out |  | 3 | 
-| **D Ferguson** | not out |  | 1 | 
-| **J Stimfig &#8224;** | dnb |  |  | 
-| **Extras** | | (9b 6lb 2w 2nb) | **19** | 
-| **Total** | | (33.5 overs) | **192 for 8 wkts** | 
+| **I Marshall** | b | Murrell | 32 |
+| **Walcott** | c | T Nicholls | 22 |
+| **R Earney** | b | B Shepherd | 27 |
+| **S Hornsby** | b | M Boyce | 37 |
+| **R Beswick &#42;** | b | B Shepherd | 4 |
+| **A MacFarlane** | c | M Boyce | 7 |
+| **W Calvert** | run out |  | 30 |
+| **R Colethorpe** | b | S Collins | 9 |
+| **D Young** | not out |  | 3 |
+| **D Ferguson** | not out |  | 1 |
+| **J Stimfig &#8224;** | dnb |  |  |
+| **Extras** | | (9b 6lb 2w 2nb) | **19** |
+| **Total** | | (33.5 overs) | **192 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -65,8 +65,8 @@ parent: 1993 Fixtures
 | **C Williams** | not out |  | 0 |
 | **J Callender** | not out |  | 4 |
 | **W Murrell** | dnb |  |  |
-| **Extras** | | (3b 7lb 3w 0nb) | **12** | 
-| **Total** | | (37.5 overs) | **193 for 8 wkts** | 
+| **Extras** | | (3b 7lb 3w 0nb) | **12** |
+| **Total** | | (37.5 overs) | **193 for 8 wkts** |
 
 ## Fall of Wickets
 

@@ -16,19 +16,19 @@ parent: 1989 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **W Chapman** | b | Erskine | 13 | 
-| **J Grant &#8224;** | c S Barrowcliff | G Wright | 5 | 
-| **A MacFarlane** | lbw | G Wright | 8 | 
-| **D Young** | b | Hyde | 15 | 
-| **R Beswick &#42;** | b | G Wright | 0 | 
-| **J Mizel** | c S Hornsby | Hyde | 7 | 
-| **M Gardiner** | c S Hornsby | Erskine | 29 | 
-| **W Calvert** | c S Barrowcliff | S Hornsby | 3 | 
-| **B Colethorpe** | not out |  | 38 | 
-| **A Walters** | b | Erskine | 0 | 
+| **W Chapman** | b | Erskine | 13 |
+| **J Grant &#8224;** | c S Barrowcliff | G Wright | 5 |
+| **A MacFarlane** | lbw | G Wright | 8 |
+| **D Young** | b | Hyde | 15 |
+| **R Beswick &#42;** | b | G Wright | 0 |
+| **J Mizel** | c S Hornsby | Hyde | 7 |
+| **M Gardiner** | c S Hornsby | Erskine | 29 |
+| **W Calvert** | c S Barrowcliff | S Hornsby | 3 |
+| **B Colethorpe** | not out |  | 38 |
+| **A Walters** | b | Erskine | 0 |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | **7** | 
-| **Total** | | (33.5 overs) | **125 for 9 wkts (all out)** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **7** |
+| **Total** | | (33.5 overs) | **125 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 
@@ -41,28 +41,28 @@ parent: 1989 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Wright** | 5 | 1 | 16 | 3 | 
-| **A Erskine** | 8.4 | 3 | 25 | 3 | 
-| **Hyde** | 10 | 0 | 46 | 2 | 
-| **S Hornsby** | 7 | 0 | 33 | 1 | 
+| **Wright** | 5 | 1 | 16 | 3 |
+| **A Erskine** | 8.4 | 3 | 25 | 3 |
+| **Hyde** | 10 | 0 | 46 | 2 |
+| **S Hornsby** | 7 | 0 | 33 | 1 |
 
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Sherratt** | c B Colethorpe | R Beswick | 21 | 
-| **Mandon** | run out |  | 2 | 
-| **Walker** | c & b | J Mizel | 13 | 
-| **Hyde** | lbw | R Beswick | 0 | 
-| **S Hornsby** | not out |  | 52 | 
+| **Sherratt** | c B Colethorpe | R Beswick | 21 |
+| **Mandon** | run out |  | 2 |
+| **Walker** | c & b | J Mizel | 13 |
+| **Hyde** | lbw | R Beswick | 0 |
+| **S Hornsby** | not out |  | 52 |
 | **S Barrowcliff** | b | W Calvert | 12 |
-| **Erskine** | run out |  | 2 | 
+| **Erskine** | run out |  | 2 |
 | **Landers** | b | W Calvert | 1 |
-| **P Barrowcliff** | not out |  | 23 | 
-| **G Wright** | dnb |  |  | 
+| **P Barrowcliff** | not out |  | 23 |
+| **G Wright** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | **3** | 
-| **Total** | | (31 overs) | **197 for 7 wkts** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **3** |
+| **Total** | | (31 overs) | **197 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -75,10 +75,10 @@ parent: 1989 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **J Mizel** | 9 | 2 | 27 | 1 | 
-| **A MacFarlane** | 6 | 0 | 15 | 0 | 
-| **R Beswick** | 7 | 2 | 16 | 2 | 
-| **W Calvert** | 7 | 1 | 40 | 2 | 
+| **J Mizel** | 9 | 2 | 27 | 1 |
+| **A MacFarlane** | 6 | 0 | 15 | 0 |
+| **R Beswick** | 7 | 2 | 16 | 2 |
+| **W Calvert** | 7 | 1 | 40 | 2 |
 | **M Gardiner** | 2 | 0 | 19 | 0 |
 
 ## Win/Loss Ratio

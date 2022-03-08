@@ -16,19 +16,19 @@ parent: 1992 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **I Marshall** | c & b | Curtis | 38 | 
-| **J Cunningham=Rolls** | b | Davies | 4 | 
-| **W Calvert &#8224;** | b | J Chambers | 1 | 
-| **N Beswick** | b | Carroll | 2 | 
-| **R Colethorpe** | c & b | Davies | 2 | 
-| **R Beswick &#42;** | lbw | Curtis | 41 | 
-| **T Horsey** | b | Curtis | 5 | 
-| **R Earney** | c Bells | Curtis | 8 | 
-| **D Flint** | not out |  | 23 | 
-| **E Garland** | not out |  | 20 | 
+| **I Marshall** | c & b | Curtis | 38 |
+| **J Cunningham=Rolls** | b | Davies | 4 |
+| **W Calvert &#8224;** | b | J Chambers | 1 |
+| **N Beswick** | b | Carroll | 2 |
+| **R Colethorpe** | c & b | Davies | 2 |
+| **R Beswick &#42;** | lbw | Curtis | 41 |
+| **T Horsey** | b | Curtis | 5 |
+| **R Earney** | c Bells | Curtis | 8 |
+| **D Flint** | not out |  | 23 |
+| **E Garland** | not out |  | 20 |
 |  |  |  |  |
-| **Extras** | | (0b 2lb 4w 0nb) | **6** | 
-| **Total** | | (43 overs) | **151 for 8 wkts** | 
+| **Extras** | | (0b 2lb 4w 0nb) | **6** |
+| **Total** | | (43 overs) | **151 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -45,25 +45,25 @@ parent: 1992 Fixtures
 | **Carroll** | 6 | 2 | 15 | 1 |
 | **Vincent** | 7 | 0 | 36 | 0 |
 | **Curtis** | 13 | 1 | 25 | 4 |
-| **Taylor** | 7 | 1 | 33 | 0 | 
+| **Taylor** | 7 | 1 | 33 | 0 |
 
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Chatwin** | c D Flint | R Beswick | 15 | 
-| **Tolmie** | b | D Flint | 10 | 
-| **Imber** | st W Calvert | D Flint | 31 | 
-| **Vincent** | c J Cunningham-Rolls | E Garland| 9 | 
-| **Kennedy** | c & b | D Flint | 15 | 
+| **Chatwin** | c D Flint | R Beswick | 15 |
+| **Tolmie** | b | D Flint | 10 |
+| **Imber** | st W Calvert | D Flint | 31 |
+| **Vincent** | c J Cunningham-Rolls | E Garland| 9 |
+| **Kennedy** | c & b | D Flint | 15 |
 | **S Bell** | c | I Marshall | 3 |
-| **Davies** | c W Calvert | I Marshall | 1 | 
+| **Davies** | c W Calvert | I Marshall | 1 |
 | **Carroll** | b | I Marshall | 7 |
-| **E Bell** | not out |  | 2 | 
-| **I Taylor** | not out |  | 0 | 
+| **E Bell** | not out |  | 2 |
+| **I Taylor** | not out |  | 0 |
 | **A N Other** | dnb |  |  |
-| **Extras** | | (2b 6lb 0w 1nb) | **9** | 
-| **Total** | | (43 overs) | **100 for 8 wkts** | 
+| **Extras** | | (2b 6lb 0w 1nb) | **9** |
+| **Total** | | (43 overs) | **100 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -76,10 +76,10 @@ parent: 1992 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **R Beswick** | 10 | 2 | 18 | 1 | 
-| **J Cunningham-Rolls** | 6 | 3 | 13 | 0 | 
-| **D Flint** | 13 | 1 | 29 | 3 | 
-| **E Garland** | 7 | 1 | 29 | 1 | 
+| **R Beswick** | 10 | 2 | 18 | 1 |
+| **J Cunningham-Rolls** | 6 | 3 | 13 | 0 |
+| **D Flint** | 13 | 1 | 29 | 3 |
+| **E Garland** | 7 | 1 | 29 | 1 |
 | **I Marshall** | 7 | 6 | 1 | 3 |
 
 ## Win/Loss Ratio

@@ -28,7 +28,7 @@ parent: 1990s
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-|  | 14:00 | [Checkendon](checkendon) | [Away](https://goo.gl/maps/K3d3vM6qD7qv9Y1S7) | 
+|  | 14:00 | [Checkendon](checkendon) | [Away](https://goo.gl/maps/K3d3vM6qD7qv9Y1S7) |
 
 | September |  |  |  |
 |:---|:---|:---|:---|

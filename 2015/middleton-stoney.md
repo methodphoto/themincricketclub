@@ -47,7 +47,7 @@ R Simpson was dropped several times. S Hornsby's 15th 50
 | **H Ingham** | 7 | 4 | 29 | 1 |
 | **N Garland** | 7 | 0 | 61 | 1 |
 | **J Wright** | 5 | 0 | 45 | 1 |
-| **R Beswick** | 3 | 0 | 25 | 1 | 
+| **R Beswick** | 3 | 0 | 25 | 1 |
 
 ## The Min Innings
 
@@ -83,7 +83,7 @@ R Simpson was dropped several times. S Hornsby's 15th 50
 | **D Clarke** | 4 | 5 | 0 | 2 |
 | **S Vadivale** | 6 | 1 | 29 | 0 |
 | **W Harris** | 5 | 0 | 19 | 2 |
-| **J O'Neill** | 3 | 0 | 15 | 0 | 
+| **J O'Neill** | 3 | 0 | 15 | 0 |
 
 ## Win/Loss Ratio
 

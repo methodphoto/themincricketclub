@@ -84,7 +84,7 @@ P Wigg's first 50 and highest score
 | **P Wigg** | 7 | 1 | 23 | 1 |
 | **J Wright** | 8 | 0 | 23 | 3 |
 | **E Garland** | 5 | 0 | 31 | 1 |
-| **M Gupta** | 4 | 0 | 29 | 1 | 
+| **M Gupta** | 4 | 0 | 29 | 1 |
 
 ## Win/Loss Ratio
 

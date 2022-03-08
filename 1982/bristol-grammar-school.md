@@ -12,7 +12,7 @@ parent: 1982 Fixtures
 
 {% include matchDetails %}
 
-J Booth and D Mundy: partnership of 100
+P Newcomb's 1st 50
  
 ## The Min Innings
 

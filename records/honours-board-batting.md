@@ -7,6 +7,15 @@ parent: Records
 
 # {{page.title}}
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Centuries
 
 | Year | Player | Opponent | Score |
@@ -326,3 +335,5 @@ parent: Records
 | **1983** | Andrew Gallagher | v [A Good Length](../1983/a-good-length) | **50** |
 | **1983** | Andrew Gallagher | v [Nick Hoare’s XI](../1983/nick-hoares-xi) | **81** |
 | **1982** | James Booth | v [J. Stimfig’s XI](../1982/j-stimfigs-xi) | **72** |
+| **1982** | Paul Newcomb | v [Bristol Grammar School](../1982/bristol-grammar-school) | **59** |
+| **1982** | William Calvert | v [Clifton Hill House](../1982/clifton-hill-house) | **57** |

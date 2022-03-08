@@ -12,23 +12,25 @@ parent: 1982 Fixtures
 
 {% include matchDetails %}
 
+Partnership of 100 between J Booth and D Mundy
+
 ## The Min Innings
 
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
-| **J Booth** | c Packham | Hunter | 72 | 
-| **A Gallagher** | c Hill | Miller-Jarvis | 24 | 
-| **D Mundy** | run out | | 36 | 
-| **R Beswick &#42;** | c J Stimfig | Swift | 9 | 
-| **W Calvert** | c King | Hunter | 16 | 
-| **R Emanuel** | c Swift | Hunter | 0 | 
-| **M Gardiner** | run out | | 4| 
-| **J Grant &#8224;** | b | Swift | 7 | 
-| **J Wright** | c J Stimfig | Miller-Jarvis | 0 | 
-| **M Kirwan** | lbw | Swift | 0 | 
-| **A Sylvester** | not out | | 4 | 
-| **Extras** | | (1b 5lb 3w 2nb) | **11** | 
-| **Total** | | (37.2 overs) | **183 all out** | 
+| **J Booth** | c Packham | Hunter | 72 |
+| **A Gallagher** | c Hill | Miller-Jarvis | 24 |
+| **D Mundy** | run out | | 36 |
+| **R Beswick &#42;** | c J Stimfig | Swift | 9 |
+| **W Calvert** | c King | Hunter | 16 |
+| **R Emanuel** | c Swift | Hunter | 0 |
+| **M Gardiner** | run out | | 4|
+| **J Grant &#8224;** | b | Swift | 7 |
+| **J Wright** | c J Stimfig | Miller-Jarvis | 0 |
+| **M Kirwan** | lbw | Swift | 0 |
+| **A Sylvester** | not out | | 4 |
+| **Extras** | | (1b 5lb 3w 2nb) | **11** |
+| **Total** | | (37.2 overs) | **183 all out** |
 
 ## Fall of Wickets
 
@@ -52,18 +54,18 @@ parent: 1982 Fixtures
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
 | **T.Packham** | b | J Wright | 42 | |
-| **S Turner** | lbw | A Sylvester | 2 | 
+| **S Turner** | lbw | A Sylvester | 2 |
 | **S Sutherland** | not out | | 92 | |
 | **R Swift** | lbw | A Sylvester | 14 |
 | **R Hunter** | c & b | W Calvert | 28 |
-| **J Stimfig** | c Mundy | A Sylvester | 17 | 
+| **J Stimfig** | c Mundy | A Sylvester | 17 |
 | **S Miller-Jones** | not out | | 6 |
 | **King** | dnb | | | |
 | | dnb| | |
 | | dnb| | |
 | | dnb| | |
 | **Extras** | | (13b 10lb 2w 0nb) | **25** |
-| **Total** | | (38 overs) | **184 for 5 wkts** | 
+| **Total** | | (38 overs) | **184 for 5 wkts** |
 
 ## Fall of Wickets
 

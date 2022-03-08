@@ -27,14 +27,14 @@ parent: 2015 Fixtures
 | **H Ingham** | c L Vickery-White | M Lind | 11 |
 | **J Wright** | b | J Hannam | 12 |
 | **Extras** | | (4b 1lb 13w 0nb 0p) | **18** |
-| **Total** | | (40 overs) | **174 all out** | 
+| **Total** | | (40 overs) | **174 all out** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 8 | 28 | 89 | 93 | 102 | 124 |  |  |  |  | 
-| **Batsman** | 1 | 3 | 4 | 5 | 2 | 7 |  |  |  |  | 
+| **Score** | 8 | 28 | 89 | 93 | 102 | 124 |  |  |  |  |
+| **Batsman** | 1 | 3 | 4 | 5 | 2 | 7 |  |  |  |  |
 
 ## Bowling
 
@@ -63,8 +63,8 @@ parent: 2015 Fixtures
 | **A Free** |  | not out | 8 |
 | **M Tuffill** | lbw | R Beswick | 15 |
 | **T Laughi** | b | H Ingham | 1 |
-| **Extras** | | (5b 0lb 6w 0nb) | **18** | 
-| **Total** | | (34 overs) | **125 all out** | 
+| **Extras** | | (5b 0lb 6w 0nb) | **18** |
+| **Total** | | (34 overs) | **125 all out** |
 
 ## Fall of Wickets
 

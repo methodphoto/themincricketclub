@@ -16,19 +16,19 @@ parent: 1992 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Chatwin** | not out |  | 2 | 
-| **Tolmie** | c S Hornsby | R Beswick | 0 | 
-| **A N Other** | not out |  |  | 
-|  |  |  |  | 
-|  |  |  |  | 
+| **Chatwin** | not out |  | 2 |
+| **Tolmie** | c S Hornsby | R Beswick | 0 |
+| **A N Other** | not out |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | **0** | 
-| **Total** | | (0 overs) | **30 for 1 wkts** | 
+|  |  |  |  |
+|  |  |  |  |
+| **Extras** | | (0b 0lb 0w 0nb) | **0** |
+| **Total** | | (0 overs) | **30 for 1 wkts** |
 
 ## Fall of Wickets
 
@@ -41,17 +41,17 @@ parent: 1992 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **R Beswick** | 0 | 0 | 0 | 1 | 
-| **G wright** | 0 | 0 | 0 | 0 | 
+| **R Beswick** | 0 | 0 | 0 | 1 |
+| **G wright** | 0 | 0 | 0 | 0 |
 
 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Beswick &#42;** | dnb |  |  | 
+| **R Beswick &#42;** | dnb |  |  |
 | **S Hornsby** | dnb |  |  |
-| **G Wright** | dnb |  |  | 
+| **G Wright** | dnb |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -60,8 +60,8 @@ parent: 1992 Fixtures
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| **Extras** | | (0b 0lb 0w 0nb) | **0** | 
-| **Total** | | (0 overs) | **0** | 
+| **Extras** | | (0b 0lb 0w 0nb) | **0** |
+| **Total** | | (0 overs) | **0** |
 
 ## Fall of Wickets
 
@@ -74,7 +74,7 @@ parent: 1992 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-|  |  |  |  |  | 
+|  |  |  |  |  |
 
 
 ## Win/Loss Ratio

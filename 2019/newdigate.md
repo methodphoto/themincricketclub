@@ -41,12 +41,12 @@ parent: 2019 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **T Ridder** | 5 | 1 | 15 | 1 | 
-| **H Elliss** | 5 | 2 | 10 | 1 | 
-| **B Crook** | 5 | 2 | 4 | 2 | 
+| **T Ridder** | 5 | 1 | 15 | 1 |
+| **H Elliss** | 5 | 2 | 10 | 1 |
+| **B Crook** | 5 | 2 | 4 | 2 |
 | **A Kehl** | 4 | 0 | 20 | 1 |
 | **I Kehl** | 4.2 | 0 | 16 | 5 |
-| **J Bowley** | 4 | 0 | 8 | 0 | 
+| **J Bowley** | 4 | 0 | 8 | 0 |
 
 ## {{page.title}} Innings
 
@@ -77,10 +77,10 @@ parent: 2019 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **P Wigg** | 6 | 2 | 14 | 0 | 
-| **A Catternack** | 6 | 0 | 26 | 2 | 
-| **I Marshall** | 2 | 0 | 26 | 0 | 
-| **C Wright** | 1.4 | 0 | 17 | 0 | 
+| **P Wigg** | 6 | 2 | 14 | 0 |
+| **A Catternack** | 6 | 0 | 26 | 2 |
+| **I Marshall** | 2 | 0 | 26 | 0 |
+| **C Wright** | 1.4 | 0 | 17 | 0 |
 
 ## Season Win/Loss Record
 

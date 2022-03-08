@@ -51,7 +51,7 @@ parent: 1998 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | b| S Easton | 1 |
+| **R Earney** | b | S Easton | 1 |
 | **S Masterson** | b | A Parmenter | 1 |
 | **R Beswick &#42;** | b | A Parmenter | 30 |
 | **A Stitt** | c C Ball | S Easton | 5 |

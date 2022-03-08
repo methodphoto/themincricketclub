@@ -66,7 +66,7 @@ A Beswick's 2nd 50. T Rutherford's 5th 50
 | **Wing** | b | R Beswick | 0 |
 | **Taylor** | not out |  | 4 |
 | **Stockley** | b | W Khan | 5 |
-| **Extras** | | (6b 0lb 3w 0nb 0p) | **9** | 
+| **Extras** | | (6b 0lb 3w 0nb 0p) | **9** |
 | **Total** | | (35.4 overs) | **134 all out** |
 
 ## Fall of Wickets

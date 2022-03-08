@@ -16,19 +16,19 @@ parent: 1982 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Allen** | b | J Wright | 4 | 
-| **Chivers** | c M Kirwan | J Wright | 6 | 
-| **Hughes** | b | J Booth | 21 | 
-| **Bothamley** | st J Grant | b R Emanuel | 13 | 
-| **Morris** | b | C Chitty | 1 | 
-| **Devreux** | c J Grant | A Sylvester | 15 | 
-| **Langley** | lbw | A Sylvester | 2 | 
-| **Bretton** | b | J Booth | 1 | 
-| **Bain** | not out | | 16 | 
-| **Nieve** | st J Grant | R Beswick | 12 | 
-| **Mead** | not out | | 1 | 
-| **Extras** | | (3b 1lb w 2nb) | 8 | 
-| **Total** | | (20 overs) | 103 for 9 wkts| 
+| **Allen** | b | J Wright | 4 |
+| **Chivers** | c M Kirwan | J Wright | 6 |
+| **Hughes** | b | J Booth | 21 |
+| **Bothamley** | st J Grant | b R Emanuel | 13 |
+| **Morris** | b | C Chitty | 1 |
+| **Devreux** | c J Grant | A Sylvester | 15 |
+| **Langley** | lbw | A Sylvester | 2 |
+| **Bretton** | b | J Booth | 1 |
+| **Bain** | not out | | 16 |
+| **Nieve** | st J Grant | R Beswick | 12 |
+| **Mead** | not out | | 1 |
+| **Extras** | | (3b 1lb w 2nb) | 8 |
+| **Total** | | (20 overs) | 103 for 9 wkts|
 
 ## Fall of Wickets
 
@@ -56,8 +56,8 @@ parent: 1982 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **J Booth** | c & b | Bretton | 5 | 
-| **A Gallagher** | c & b | Bretton | 0 | 
+| **J Booth** | c & b | Bretton | 5 |
+| **A Gallagher** | c & b | Bretton | 0 |
 | **S Sutherland** | c Devreux | Langley | 18 |
 | **R Beswick &#42;** | not out | | 42 |
 | **W Calvert** | run out | (A Hughes) | 11 |

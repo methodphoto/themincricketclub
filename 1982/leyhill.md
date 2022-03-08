@@ -12,6 +12,8 @@ parent: 1982 Fixtures
 
 {% include matchDetails %}
 
+M Kirwan's 1st Michelle
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
