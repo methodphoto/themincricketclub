@@ -320,9 +320,9 @@ parent: Records
 | **1986** | Andrew Gallagher | v [Watton-at-Stone](../1986/watton-at-stone) | **59** |
 | **1985** | Alan Sylvester | v [Brook 2nd XI](../1985/brook) | **56** |
 | **1985** | John Packenham-Walsh | v [Petts Wood](../1985/petts-wood) | **70** |
-| **1985** | Andrew Fielding | v [Koh-i-Noor](../1985/koh-i-noor) | **58** |
 | **1985** | William Calvert  | v [Old Elthamians](../1985/old-elthamians) | **50** |
 | **1985** | William Calvert | v [Logica](../1985/logica) | **59** |
+| **1985** | Andrew Fielding | v [Koh-i-Noor](../1985/koh-i-noor) | **58** |
 | **1985** | Jim Grant | v [Koh-i-Noor](../1985/koh-i-noor) | **73** |
 | **1985** | Mark Kirwan | v [Lobsters](../1985/lobsters) | **63** |
 | **1985** | Andrew Gallagher | v [Artisans](../1985/artisans) | **85** |

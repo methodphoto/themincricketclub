@@ -12,7 +12,7 @@ parent: 1982 Fixtures
 
 {% include matchDetails %}
 
-Mark Kirwan's 2nd Michelle
+M Kirwan's 2nd Michelle
 
 ## A Good Length Innings
 
