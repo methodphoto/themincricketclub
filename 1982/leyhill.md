@@ -18,19 +18,19 @@ M Kirwan's 1st Michelle
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Rideout** | run out| | 3 | |
-| **M Harrlsmitt** | lbw | M Kirwan | 8 | |
-| **B Smitt** | b | M Kirwan | 16 | |
-| **Bruton** | lbw | M Kirwan | 1 | |
-| **E Pratchett** | b | L Sheridan | 64 | |
-| **F Rowe** | lbw | J Wright | 27 | |
-| **R Coster** | run out| | 19 | |
-| **Richards** | run out| | 1 | |
-| **B Montabank** | not out| | 3 | |
-| **Seed** | lbw | M Kirwan | 5 | |
-| **K Rush** | b | M Kirwan | 1 | |
-| **Extras** | | (11b 2lb 8w 4nb) | 25 | |
-| **Total** | | (34.2 overs) | **175 all out |** |
+| **Rideout** | run out | | 3 |
+| **M Harrlsmitt** | lbw | M Kirwan | 8 |
+| **B Smitt** | b | M Kirwan | 16 |
+| **Bruton** | lbw | M Kirwan | 1 |
+| **E Pratchett** | b | L Sheridan | 64 |
+| **F Rowe** | lbw | J Wright | 27 |
+| **R Coster** | run out| | 19 |
+| **Richards** | run out| | 1 |
+| **B Montabank** | not out| | 3 |
+| **Seed** | lbw | M Kirwan | 5 |
+| **K Rush** | b | M Kirwan | 1 |
+| **Extras** | | (11b 2lb 8w 4nb) | 25 |
+| **Total** | | (34.2 overs) | **175 all out** |
 
 
 ## Fall of Wickets
@@ -68,7 +68,7 @@ M Kirwan's 1st Michelle
 | **M Kirwan** | b | E Pratchett | 11 | |
 | **A Sylvester** | not out| | 4 | |
 | **Extras** | | (8b 1lb 3w 0nb)| 12 | |
-| **Total** | | (34.5 overs) | **82 all out|** |
+| **Total** | | (34.5 overs) | **82 all out** |
 
 ## Fall of Wickets
 
