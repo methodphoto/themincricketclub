@@ -6,6 +6,7 @@ location: The Pound
 date: 07/07/2017
 report: Broadway won the toss and batted first scoring 164 all out in 35 overs. The Min replied with 132 all out in 33.4 overs
 result: Broadway retained The Ashes by 32 runs
+next: stowting
 parent: 2017 Fixtures
 ---
 
@@ -62,8 +63,8 @@ parent: 2017 Fixtures
 | **J Grant †** | c; | T Wilson | 3 |
 | **H Ingham** | c R Young | Larkman | 27 |
 | **J Wright** | not out |  |  1 |
-| **Extras** |  | (4b 1lb 7w 0nb 0p) | 10 |
-| **Total** |  | (33.4 overs) | 164 all out |
+| **Extras** |  | (4b 1lb 7w 0nb 0p) | **10** |
+| **Total** |  | (33.4 overs) | **132 all out** |
 
 ## Fall of Wickets
 
@@ -89,6 +90,6 @@ parent: 2017 Fixtures
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 1 | 6 | 0 | 0 |
+| 1 | 6 | 1 | 0 |
 
-{% include nextGame %}
+[Next game:]({{page.next}})

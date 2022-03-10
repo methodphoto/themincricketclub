@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Newington
-game: Newington v The Min
+game: The Min v Newington
 location: Solefields
 date: 20/05/2012
 report: Newington batted first and made 147 all out. The Min replied with 151 for 3 wkts

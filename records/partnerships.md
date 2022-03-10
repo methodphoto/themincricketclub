@@ -49,6 +49,7 @@ parent: Records
 | **2012** | R Earney (65&#42;) and M Goff (44) | [Middleton Stoney](../2012/middleton-stoney) | **113** |
 | **2013** | R Damaze (100&#42;) and M Elwin (42) | [Frensham](../2013/frensham) | **113** |
 | **2014** | R Earney (79) and S Hornsby (50&#42;) | [Horningsham](../2014/horningsham) | **112** |
+| **2017** | S Hornsby (50#42;) and R Damaze (59&#42;) | [Brasted Invicta](../2017/brasted-invicta) | **112** |
 | **2010** | T Hammond (81) and M Gupta (43) | [Reigate Pilgrims](../2010/reigate-pilgrims) | **109** |
 | **1996** | J Grant (73) and D Swann (69) | [Great Tew](../1996/great-tew) | **109** |
 | **1993** | S Hornsby (97) and R Beswick (37) | [Great Tew](../1993/great-tew) | **109** |

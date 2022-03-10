@@ -4,8 +4,9 @@ title: Stowting
 game: Stowting v The Min
 location: Dawes Field
 date: 28/08/2017
-report: Stowting won the toss and batted scoring 166 for 9 wkts  The Min made 153 all out in reply
+report: Stowting won the toss and batted scoring 166 for 9 wkts. The Min made 153 all out in reply
 result: Stowting won by 13 runs
+next: brasted-invicta
 parent: 2017 Fixtures
 ---
 
@@ -31,7 +32,7 @@ parent: 2017 Fixtures
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 37 | 43 | 55 | 79 | 101 | 128 | 139 | 147 |  |  |
 | **Batsman** | 1 | 3 | 4 | 5 | 2 | 6 | 7 | 8 | 9 |  |
@@ -57,7 +58,7 @@ parent: 2017 Fixtures
 | **M Gupta** | c D Jackson b | S Jackson | 0 |
 | **A Asmal** | b S Graham | | 11 |
 | **H Ingham** | c; | S Jackson | 10 |
-| **M Arefin** | st D Jackson | S Jackson | 9 |
+| **M Arefin &#8224;** | st D Jackson | S Jackson | 9 |
 | **I Muntakim** | b | T Harding | 15 |
 | **S Amin** | b | C Jackson | 27 |
 | **E Garland** | b | G Sheen | 0 |
@@ -68,7 +69,7 @@ parent: 2017 Fixtures
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 48 | 48 | 51 | 61 | 75 | 78 | 112 | 113 | 151 | 153 |
 | **Batsman** | 1 | 2 | 3 | 4 | 5 | 6 | 8 | 9 | 10 | 7 |
@@ -88,4 +89,6 @@ parent: 2017 Fixtures
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
-| 1 | 6 | 1 | 0 |
+| 1 | 7 | 1 | 0 |
+
+[Next game:]({{page.next}})

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Newington
-game: Newington v The Min
+game: The Min v Newington
 location: Solefields
 date: 15/05/2011
 report: The Min batted first and made 223 for 6 wkts. Newington replied with 225 for 9 wkts

@@ -6,6 +6,7 @@ location: Bobbing Court
 date: 21/05/2017
 report: Newington won the toss and inserted The Min who made 130 for 9 wkts (all out)  Newington scored 130 for 3 wkts in reply
 result: Newington won by 7 wkts
+next: 
 parent: 2017 Fixtures
 ---
 
@@ -26,7 +27,7 @@ parent: 2017 Fixtures
 | **S Amin** | b | D Ward | 0 |
 | **J Wright** | not out |  | 0 |
 | **** |  |  |  |
-| **Extras** | | (7b 1lb 2w 1 nb 0p) | **11** |
+| **Extras** | | (7b 1lb 2w 1nb 0p) | **11** |
 | **Total** | | (29.1 overs) | **130 for 9 wkts (all out)** |
 
 ## Bowling
@@ -42,7 +43,7 @@ parent: 2017 Fixtures
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 13 | 63 | 79 | 88 | 107 | 111 | 117 | 129 | 103 |  |
 | **Batsman** | 1 | 2 | 4 | 5 | 6 | 7 | 8 | 9 | 3 |  |
@@ -62,12 +63,12 @@ parent: 2017 Fixtures
 | **L Morgan** | dnb |  |  |
 | **A Rashid** | dnb |  |  |
 | **Asif Rashid** | dnb |  |  |
-| **Extras** | | (7b 1lb 2w 1 nb 0p) | **10** |
+| **Extras** | | (7b 1lb 2w 1nb 0p) | **10** |
 | **Total** | | (26.5 overs) | **135  for 3 wkts** |
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 43 | 86 | 126 |  |  |  |  |  |  |  |
 | **Batsman** | 2 | 1 | 3 |  |  |  |  |  |  |  |
@@ -89,3 +90,5 @@ parent: 2017 Fixtures
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 0 | 3 | 0 | 0 |
+
+[Next game:]({{page.next}})

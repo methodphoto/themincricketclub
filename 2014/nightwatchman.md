@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nightwatchman
-game: Nightwatchman v The Min
+game: The Min v Nightwatchman
 location: Solefields
 date: 11/05/2014
 report: The Min batted first and made 182 all out in 39.4 overs. Nightwatchman replied with 94 all out in 30.3 overs

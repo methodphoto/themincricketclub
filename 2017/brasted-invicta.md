@@ -6,10 +6,14 @@ location: Upper Neville Ground, Tunbridge Wells
 date: 10/09/2017
 report: The Min won the toss and batted first scoring 215 for 5 wkts in 35 overs. Brasted were bowled out for 30
 result: The Min won by 185 runs
+next: reigate-pilgrims
 parent: 2017 Fixtures
 ---
 
 {% include matchDetails %}
+
+S Hornsby's 17th 50. R Damaze's 2nd 50.<br />
+Partnership of 111 between S Hornsby and R Damaze
 
 S Amin best bowling for The Min.
 
@@ -33,7 +37,7 @@ S Amin best bowling for The Min.
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 167 | 177 | 200 | 203 | 213 |  |  |  |  |  |
 | **Batsman** | 3 | 4 | 6 | 7 | 5 |  |  |  |  |  |
@@ -70,7 +74,7 @@ S Amin best bowling for The Min.
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 19 | 19 | 19 | 20 | 20 | 24 | 25 | 25 | 29 | 30 |
 | **Batsman** | 1 | 3 | 2 | 4 | 6 | 7 | 8 | 0 | 10 | 11 |
@@ -88,3 +92,5 @@ S Amin best bowling for The Min.
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 2 | 7 | 1 | 0 |
+
+[Next game:]({{page.next}})

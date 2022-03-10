@@ -5,11 +5,14 @@ game: Blagdon Hill v The Min
 location: Blagdon Hill
 date: 06/07/2017
 report: The Min won the toss and inserted Blagdon Hill who scored 256-6 in their 40 overs. The Min replied with 217 all out in 36.5 overs.
-result: Blagdon Hill won by 39 runs.
+result: Blagdon Hill won by 39 runs
+next: broadway-and-horton
 parent: 2017 Fixtures
 ---
 
 {% include matchDetails %}
+
+R Earney's 52nd 50.
 
 ## {{page.title}} Innings
 
@@ -62,7 +65,7 @@ parent: 2017 Fixtures
 | **M Gupta** | c; | L Vickery-Whitworth | 8 |
 | **J Grant &#8224;**| not out | 2 |
 | **J Wright** | b | R Jennings | 1 |
-| **Extras** | | (4b 2lb 10w 3nb 0p) | *19* |
+| **Extras** | | (4b 2lb 10w 3nb 0p) | **19** |
 | **Total** | | (36.5 overs) | **217 all out** |
 
 ## Fall of Wickets
@@ -87,3 +90,5 @@ parent: 2017 Fixtures
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 1 | 5 | 1 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,6 +6,7 @@ location: The Meadow
 date: 25/06/2017
 report: Watton-at-Stone won the toss and inserted The Min who made 107 all out. Watton replied with 109 for 3 wkts
 result: Watton-at-Stone won by 7 wkts
+next: blagdon-hill
 parent: 2017 Fixtures
 ---
 
@@ -54,7 +55,7 @@ parent: 2017 Fixtures
 | **W Emsley** | b | M Gupta | 0 |
 | **W Pringle** | b | I Muntakim | 13 |
 | **B Taylor** | c & b | K Gallagher | 26 |
-| **D Kidde** | not out |  | 46 |
+| **D Kiddie** | not out |  | 46 |
 | **J Wine** | not out |  | 18 |
 | **R Ansell** | dnb |  |  |
 | **A Drew** | dnb |  |  |
@@ -88,3 +89,5 @@ parent: 2017 Fixtures
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 1 | 4 | 1 | 0 |
+
+[Next game:]({{page.next}})

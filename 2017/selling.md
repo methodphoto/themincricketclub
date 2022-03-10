@@ -3,8 +3,8 @@ layout: default
 title: Selling
 game: Selling v The Min
 location: Cadman's Meadow
-gameDate: "24/9/2017"
-report: Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 159-9 (all out) in 32 overs
+gameDate: 24/09/2017
+report: Selling won the toss and batted first scoring 248 for 6 wkts in 40 overs  The Min made 159 for 9 wkts (all out) in 32 overs
 result: Selling won by 89 runs
 parent: 2017 Fixtures
 ---
@@ -31,7 +31,7 @@ parent: 2017 Fixtures
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 70 | 95 | 212 | 214 | 220 | 239 |  |  |  |  |
 | **Batsman** | 1 | 2 | 4 | 5 | 3 | 6 |  |  |  |  |
@@ -68,7 +68,7 @@ parent: 2017 Fixtures
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 73 | 82 | 93 | 111 | 119 | 119 | 122 | 167 |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 | 6 | 5 | 9 | 10 |  |  |
@@ -90,3 +90,5 @@ parent: 2017 Fixtures
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 2 | 9 | 1 | 0 |
+
+[Next season](../2018)

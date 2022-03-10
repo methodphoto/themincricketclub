@@ -55,18 +55,18 @@ parent: Results
 
 | 2017 |  |  |
 |:---|:---|:---|
-| {date} | [Middleton Stoney](../2017/middleton-stoney) | Lost |
-| {date} | [Kingstonian](../2017/kingstonian) | Lost |
-| {date} | [Newington](../2017/newington) | Lost |
-| {date} | [Frensham](../2017/frensham) | **Won** |
-| {date} | [Newdigate](../2017/newdigate) | Drawn |
-| {date} | [Watton-at-Stone](../2017/watton-at-stone) | Lost |
-| {date} | [Blagdon Hill](../2017/blagdon-hill) | Lost |
-| {date} | [Broadway and Horton](../2017/broadway-and-horton) | Lost |
-| {date} | [Stowting](../2017/stowting) | Lost |
-| {date} | [Brasted Invicta](../2017/brasted-invicta) | **Won** |
-| {date} | [Reigate Pilgrims](../2017/reigate-pilgrims) | Lost |
-| {date} | [Selling](../2017/selling) | Lost |
+| 23/04/2017 | [Middleton Stoney](../2017/middleton-stoney) | Lost |
+| 07/05/2017 | [Kingstonian](../2017/kingstonian) | Lost |
+| 21/05/2017 | [Newington](../2017/newington) | Lost |
+| 04/06/2017 | [Frensham](../2017/frensham) | **Won** |
+| 11/06/2017 | [Newdigate](../2017/newdigate) | Drawn |
+| 25/06/2017 | [Watton-at-Stone](../2017/watton-at-stone) | Lost |
+| 06/07/2017 | [Blagdon Hill](../2017/blagdon-hill) | Lost |
+| 07/07/2017 | [Broadway and Horton](../2017/broadway-and-horton) | Lost |
+| 28/08/2017 | [Stowting](../2017/stowting) | Lost |
+| 10/09/2017 | [Brasted Invicta](../2017/brasted-invicta) | **Won** |
+| 17/09/2017 | [Reigate Pilgrims](../2017/reigate-pilgrims) | Lost |
+| 24/09/2017 | [Selling](../2017/selling) | Lost |
 
 | 2016 |  |  |
 |:---|:---|:---|

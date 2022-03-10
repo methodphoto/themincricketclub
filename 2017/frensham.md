@@ -4,12 +4,16 @@ title: Frensham
 game: Frensham v The Min
 location: Hollowdene Recreation Ground
 date: 04/06/2017
-report: The Min won the toss and inserted Frensham, who made 198-7  The Min replied with 199 for 3 wkts
+report: The Min won the toss and inserted Frensham, who made 198 for 7 wkts. The Min replied with 199 for 3 wkts
 result: The Min won by 7 wkts
+next: newdigate
 parent: 2017 Fixtures
 ---
 
 {% include matchDetails %}
+
+M Gupta's 1st 100.<br />
+Partnership of 101 between M Gupta and S Hornsby
 
 ## {{page.title}} Innings
 
@@ -17,7 +21,7 @@ parent: 2017 Fixtures
 |:---|:---|---|---:|
 | **P Chuter** | run out (J Grant) |  | 0 |
 | **M Taylor** | c J Grant | I Marshall | 30 |
-| **R Champneys** | c Grant | J Wright | 35 |
+| **R Champneys** | c J Grant | J Wright | 35 |
 | **A Peers** | c J Grant | I Marshall | 0 |
 | **J Richards** | b | M Gupta | 94 |
 | **D Smith** | b | J Wright | 4 |
@@ -31,7 +35,7 @@ parent: 2017 Fixtures
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 4 | 45 | 45 | 123 | 177 | 183 | 187 |  |  |  |
 | **Batsman** | 1 | 2 | 4 | 3 | 6 | 7 | 5 |  |  |  |
@@ -50,7 +54,7 @@ parent: 2017 Fixtures
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **R Earney** | b | Baldock | 21 |
+| **R Earney** | b | Hh Baldock | 21 |
 | **R Damaze** | c | P Chuter | 4 |
 | **M Gupta** | c | D Smith | 100 |
 | **S Hornsby** | not out  |  | 47 |
@@ -66,7 +70,7 @@ parent: 2017 Fixtures
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 8 | 77 | 178 |  |  |  |  |  |  |  |
 | **Batsman** | 2 | 1 | 3 |  |  |  |  |  |  |  |
@@ -87,3 +91,5 @@ parent: 2017 Fixtures
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 1 | 3 | 0 | 0 |
+
+[Next game:]({{page.next}})

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ELCCC
-game: ELCCC v The Min
+game: The Min v ELCCC
 location: Solefields
 date: 22/05/2011
 report: ELCCC batted first and made 253 all out. The Min replied with 186 all out

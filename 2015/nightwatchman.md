@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nightwatchman
-game: Nightwatchman v The Min
+game: The Min v Nightwatchman
 location: Solefields
 date: 10/05/2015
 report: Nightwatchman batted first and made 192 for 6 wkts in 40 overs. The Min replied with 139 all out in 35 overs

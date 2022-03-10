@@ -6,10 +6,13 @@ location: The Brocus
 date: 11/06/2017
 report: The Min won the toss and inserted Newdigate who made 196 for 7 wkts  The Min replied with 175 for 8 wkts when time ran out
 result: Match Drawn
+next: watton-at-stone
 parent: 2017 Fixtures
 ---
 
 {% include matchDetails %}
+
+R Beswick's 34th 50
 
 ## {{page.title}} Innings
 
@@ -31,7 +34,7 @@ parent: 2017 Fixtures
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 39 | 66 | 88 | 172 | 183 | 188 | 192 |  |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 | 5 | 7 | 6 |  |  |  |
@@ -68,7 +71,7 @@ parent: 2017 Fixtures
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 1 | 95 | 105 | 155 |  |  |  |  |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 |  |  |  |  |  |  |
@@ -90,3 +93,5 @@ parent: 2017 Fixtures
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 1 | 3 | 1 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,10 +6,13 @@ location: The Red Lion, Betchworth
 date: 17/09/2017
 report: Reigate won the toss and inserted The Min, who made 140-9 (all out)  Reigate replied with 141 for 5 wkts
 result: Reigate Pilgrims won by 5 wkts
+next: selling
 parent: 2017 Fixtures
 ---
 
 {% include matchDetails %}
+
+R Kitson's 4th 50
 
 ## The Min Innings
 
@@ -27,11 +30,11 @@ parent: 2017 Fixtures
 | **E Garland** | run out |  | 7 |
 | **J Wright &#42;** | dnb |  |  |
 | **Extras** | | (7b 0lb 9w 2nb 0p) | **18** |
-| **Total** | | (41.5 overs) | **140 for 9 wkts** |
+| **Total** | | (42 overs) | **140 for 9 wkts** |
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 2 | 28 | 37 | 42 | 42 | 107 | 111 | 112 | 140 |  |
 | **Batsman** | 2 | 1 | 3 | 4 | 5 | 6 | 8 | 9 | 10 |  |
@@ -63,13 +66,13 @@ parent: 2017 Fixtures
 | **J Hoy** | dnb |  |  |
 | **M Wood** | dnb |  |  |
 | **T Karthik** | dnb |  |  |
-| **** |  |  |  |
+|  |  |  |  |
 | **Extras** | | (4b 0lb 2w 0nb 0p) | **6** |
-| **Total** | | ((32.3 overs) overs) | **141 for 5 wkts** |
+| **Total** | | (32.3 overs) | **141 for 5 wkts** |
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 77 | 86 | 92 | 100 | 119 |  |  |  |  |  |
 | **Batsman** | 1 | 3 | 4 | 2 | 5 |  |  |  |  |  |
@@ -90,3 +93,5 @@ parent: 2017 Fixtures
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 2 | 8 | 1 | 0 |
+
+[Next game:]({{page.next}})

@@ -6,10 +6,13 @@ location: KCL
 date: 07/05/2017
 report: The Min batted first and scored 200-8 (all out). Kingstonian replied with 204 for 4 wkts
 result: Kingstonian won by 6 wkts
+next: newington
 parent: 2017 Fixtures
 ---
 
 {% include matchDetails %}
+
+R Beswick's 33rd 50
 
 ## The Min Innings
 
@@ -19,7 +22,7 @@ parent: 2017 Fixtures
 | **B Coffer** | c; | Jembo | 18 |
 | **MD Jahibul Islam** | c; | Javid | 34 |
 | **A Gallagher** | c Sanjay | Jacobs | 20 |
-| **Hikmat Akhund** | b | Dhruv | 15 |
+| **H Akhund** | b | Dhruv | 15 |
 | **W Calvert** | lbw | Jacobs | 7 |
 | **J Grant &#8224;** | st | Sanjay | 8 |
 | **P Wigg** | not out |  | 8 |
@@ -43,7 +46,7 @@ parent: 2017 Fixtures
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 48 | 109 | 147 | 157 | 167 | 190 | 190 | 200 |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 | 6 | 5 | 7 | 9 |  |  |
@@ -68,7 +71,7 @@ parent: 2017 Fixtures
 
 ## Fall of Wickets
 
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 19 | 36 | 88 | 111 |  |  |  |  |  |  |
 | **Batsman** | 2 | 3 | 1 | 4 |  |  |  |  |  |  |
@@ -78,10 +81,10 @@ parent: 2017 Fixtures
 | | O   | M | R  | W |
 |---|---|---|---|---|
 | **P Wigg** | 7 | 0 | 33 | 0 |
-| **Hikmat** | 5.4 | 2 | 42 | 0 |
+| **H Akhund** | 5.4 | 2 | 42 | 0 |
 | **P Beswick** | 5 | 0 | 29 | 2 |
 | **B Coffer** | 3 | 0 | 12 | 0 |
-| **Jahibal** | 4 | 0 | 31 | 0 |
+| **MD Jahibul Islam** | 4 | 0 | 31 | 0 |
 | **R Beswick** | 6 | 0 | 42 | 2 |
 | **A Gallagher** | 1 | 0 | 13 | 0 |
 
@@ -90,3 +93,5 @@ parent: 2017 Fixtures
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 0 | 2 | 0 | 0 |
+
+[Next game:]({{page.next}})
