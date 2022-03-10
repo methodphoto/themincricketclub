@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nightwatchman
-game: The Min v Nightwatchman CC
+game: The Min v Nightwatchman
 location: Solefields
 date: 08/05/2016
 report: The Min won the toss and inserted Nightwatchman, who made 242 for 5 wkts in 40 overs. The Min made 207 for 9 wkts (all out) in 37 overs.
