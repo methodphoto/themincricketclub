@@ -94,4 +94,4 @@ Partnership of 140 between S Habib and W Calvert
 |:---|:---|:---|---:|
 | 3 | 1 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

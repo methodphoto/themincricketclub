@@ -1,16 +1,17 @@
 ---
 layout: default
-title: Stoke Daberdon
-game: Stoke D'Aberdon v The Min
+title: Stoke Dabernon
+game: Stoke D'Abernon v The Min
 location: The Brocus
 date: 30/09/2018
-report: In a 35 over game Stoke D'Aberdon batted first and scored 251-6. The Min replied with 196 all out
-result: Stoke D'Aberdon won by 55 runs
-next: 
+report: In a 35 over game Stoke D'Abernon batted first and scored 251-6. The Min replied with 196 all out
+result: Stoke D'Abernon won by 55 runs
 parent: 2018 Fixtures
 ---
 
 {% include matchDetails %}
+
+S Ahmed's 1st 50
 
 ## {{page.title}} Innings
 
@@ -18,7 +19,7 @@ parent: 2018 Fixtures
 |:---|:---|---|---:|
 | **J Jones** | lbw | M Bouerman | 113 |
 | **G Vinall** | b | I Miah | 3 |
-| **J Earl  &#42;*** | c A Asmal | I Miah | 48 |
+| **J Earl &#42;** | c A Asmal | I Miah | 48 |
 | **C Finch** | b | J Wright | 17 |
 | **S Finch** | not out |  | 47 |
 | **K Morgan** | lbw | J Wright | 0 |
@@ -27,14 +28,14 @@ parent: 2018 Fixtures
 | **T Selvakumar** | dnb |  |  |
 | **R Coleman** | dnb |  |  |
 | **R Harris** | dnb |  |  |
-| **Extras** | | (0nb 3w 2b 1lb 0p) | **6** |
+| **Extras** | | (2b 1lb 3w 0nb 0p) | **6** |
 | **Total** | | (35 overs) | **251 for 6** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Score** | 8 | 165 | 165 | 211 | 211 | 212 |  |  |  |  |
+| **Score** | 8 | **165** | 165 | 211 | 211 | 212 |  |  |  |  |
 | **Batsman** | 1 | 2 | 3 | 4 | 5 | 6 |  |  |  |  |
 
 ## Bowling
@@ -64,7 +65,7 @@ parent: 2018 Fixtures
 | **J Grant &#8224;** | not out |  | 0 |
 | **J Wright** | b | S Finch | 2 |
 | **J Pritchard** | c R Singh | R Coleman | 1 |
-| **Extras** | | (0nb 3w 2b 1lb 0p) | **6** |
+| **Extras** | | (2b 1lb 3w 0nb 0p) | **6** |
 | **Total** | | (31 overs) | **190 all out** |
 
 ## Fall of Wickets
@@ -92,4 +93,4 @@ parent: 2018 Fixtures
 |:---|:---|---|---:|
 | 4 | 4 | 1 | 0 |
 
-{% include nextGame %}
+[Next season](../2019)

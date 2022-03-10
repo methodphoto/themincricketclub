@@ -89,4 +89,4 @@ parent: 2013 Fixtures
 |:---|:---|:---|---:|
 | 7 | 4 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

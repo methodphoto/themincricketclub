@@ -17,7 +17,7 @@ parent: 2018 Fixtures
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **B Williams** | b | R Beswick | 115 |
-| **W Pringle** | c; | E Garland | 24 |
+| **W Pringle** | c | E Garland | 24 |
 | **J Fox** | st W Calvert | P Beswick | 38 |
 | **R Ansell** | not out |  | 56 |
 | **D Bloomfield** | not out |  | 33 |
@@ -47,7 +47,7 @@ parent: 2018 Fixtures
 | **J Wright** | 4 | 0 | 31 | 0 |
 | **Johnstone** | 5 | 0 | 45 | 0 |
 | **R Beswick** | 5 | 0 | 27 | 1 |
-| **B Coffer** | 2 | 019 | 19 | 0 |
+| **B Coffer** | 2 | 0 | 19 | 0 |
 
 ## The Min Innings
 
@@ -55,7 +55,7 @@ parent: 2018 Fixtures
 |:---|:---|---|---:|
 | **R Beswick** | run out (J Fox) |  | 32 |
 | **B Coffer** | c D Kiddie | R Ansell | 6 |
-| **Alastair** | c B Williams | J Wing | 49 |
+| **A Dell** | c B Williams | J Wing | 49 |
 | **R Damaze** | c & b | J Wing | 29 |
 | **S Hornsby** | b | A Gundy | 1 |
 | **W Calvert  &#8224;** | b | J Wing | 5 |
@@ -65,7 +65,7 @@ parent: 2018 Fixtures
 | **Johnstone** | b  | S Vincent | 0 |
 | **J Wright** | not out |  | 0 |
 | **Extras** | | (12w 12b 4lb 1nb  0p) | **29** |
-| **Total** | | (33 overs) | **168  all out** |
+| **Total** | | (33 overs) | **168 all out** |
 
 ## Fall of Wickets
 
@@ -82,7 +82,7 @@ parent: 2018 Fixtures
 | **K Posner** | 6 | 1 | 22 | 0 |
 | **J Wing** | 8 | 1 | 32 | 4 |
 | **A Gundy** | 6 | 0 | 34 | 1 |
-| **S Vincent** | 1 3 | 0 | 5 | 1 |
+| **S Vincent** | 1.3 | 0 | 5 | 1 |
 
 ## Season Win/Loss Record
 

@@ -100,4 +100,4 @@ M Gupta's 10th 50
 |:---|:---|:---|---:|
 | 5 | 1 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

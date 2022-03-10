@@ -86,4 +86,4 @@ parent: 2015 Fixtures
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

@@ -97,4 +97,4 @@ Partnership of 122 between R Beswick and R Earney
 |:---|:---|:---|---:|
 | 4 | 3 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

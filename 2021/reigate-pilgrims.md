@@ -6,6 +6,7 @@ location: The Red Lion, Betchworth
 date: 12/09/2021
 report: The Min won the toss and bowled first. Reigate Pilgrims made 150 for 9 wkts. The Min made 119 all out in reply.
 result: Reigate Pilgrims won by 31 runs
+next: selling
 parent: 2021 Fixtures
 ---
 

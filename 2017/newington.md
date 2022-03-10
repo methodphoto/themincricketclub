@@ -91,4 +91,4 @@ parent: 2017 Fixtures
 |:---|:---|---|---:|
 | 0 | 3 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

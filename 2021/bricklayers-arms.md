@@ -4,8 +4,9 @@ title: Bricklayer's Arms
 game: Bricklayer's Arms v The Min
 location: Abbey Recreation Ground, Merton
 date: 06/06/2021
-report: Bricklayer's Arms batted first and scored 216 for 8 wkts in 35 overs. The Min made 173-9 in reply in their 35 overs
+report: Bricklayer's Arms batted first and scored 216 for 8 wkts in 35 overs. The Min made 173 for 9 wkts in reply in their 35 overs
 result: Bricklayer's Arms won by 43 runs
+next: blagdon-hill
 parent: 2021 Fixtures
 ---
 

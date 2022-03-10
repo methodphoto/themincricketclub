@@ -98,4 +98,4 @@ Partnership of 112 between R Earney and S Hornsby
 |:---|:---|:---|---:|
 | 6 | 2 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

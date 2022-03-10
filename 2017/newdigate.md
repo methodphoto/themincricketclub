@@ -94,4 +94,4 @@ R Beswick's 34th 50
 |:---|:---|---|---:|
 | 1 | 3 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

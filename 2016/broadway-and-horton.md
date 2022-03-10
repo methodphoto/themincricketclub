@@ -95,4 +95,4 @@ S Barrowcliff's 17th 50. A Beswick's 4th 50
 |:---|:---|:---|---:|
 | 4 | 3 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

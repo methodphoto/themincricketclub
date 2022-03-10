@@ -6,6 +6,7 @@ location: The Pound
 date: 09/07/2021
 report: The Min won the toss and inserted Broadway and Horton who scored 209 all out. The Min made 186 for 9 wkts
 result: Broadway and Horton regained The Ashes by 23 runs
+next: kingstonian
 parent: 2021 Fixtures
 ---
 

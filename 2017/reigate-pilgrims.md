@@ -94,4 +94,4 @@ R Kitson's 4th 50
 |:---|:---|---|---:|
 | 2 | 8 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

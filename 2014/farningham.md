@@ -93,4 +93,4 @@ R Beswick's 27th 50
 |:---|:---|:---|---:|
 | 3 | 1 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

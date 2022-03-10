@@ -94,4 +94,4 @@ S Barrowcliff's 16th 50
 |:---|:---|:---|---:|
 | 4 | 2 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

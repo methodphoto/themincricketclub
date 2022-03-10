@@ -34,6 +34,7 @@ parent: Results
 | 19/05/2019 | [Newington](../2019/newington) | Lost |
 | 02/06/2019 | [Frensham](../2019/frensham) | **Won** |
 | 09/06/2019 | [Newdigate](../2019/newdigate) | Lost |
+| 21/06/2020 | [Railway Taverners](../2019/railway-taverners) | **Won** |
 | 03/07/2019 | [Cerne Valley](../2019/cerne-valley) | **Won** |
 | 04/07/2019 | [Blagdon Hill](../2019/blagdon-hill) | Lost |
 | 05/07/2019 | [Broadway and Horton](../2019/broadway-and-horton) | **Won** |
@@ -44,14 +45,14 @@ parent: Results
 | 2018 |  |  |
 |:---|:---|:---|
 | 22/04/2018 | [Middleton Stoney](../2018/middleton-stoney) | Drawn |
-| {date} | [Kingstonian](../2018/kingstonian) | **Won** |
-| {date} | [Newington](../2018/newington) | **Won** |
-| {date} | [Watton-at-Stone](../2018/watton-at-stone) | Lost |
-| {date} | [Blagdon Hill](../2018/blagdon-hill) | Lost |
-| {date} | [Broadway and Horton](../2018/broadway-and-horton) | **Won** |
-| {date} | [Selling](../2018/selling) | **Won** |
-| {date} | [Reigate Pilgrims](../2018/reigate-pilgrims) | Lost |
-| {date} | [Stoke D’Abernon](../2018/stoke-dabernon) | Lost |
+| 06/05/2018 | [Kingstonian](../2018/kingstonian) | **Won** |
+| 20/05/2018 | [Newington](../2018/newington) | **Won** |
+| 03/06/2018 | [Watton-at-Stone](../2018/watton-at-stone) | Lost |
+| 05/07/2018 | [Blagdon Hill](../2018/blagdon-hill) | Lost |
+| 05/07/2018 | [Broadway and Horton](../2018/broadway-and-horton) | **Won** |
+| 21/07/2018 | [Selling](../2018/selling) | **Won** |
+| 16/09/2018 | [Reigate Pilgrims](../2018/reigate-pilgrims) | Lost |
+| 30/09/2018 | [Stoke D’Abernon](../2018/stoke-dabernon) | Lost |
 
 | 2017 |  |  |
 |:---|:---|:---|

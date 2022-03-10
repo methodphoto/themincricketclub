@@ -95,4 +95,4 @@ parent: 2016 Fixtures
 |:---|:---|:---|---:|
 | 5 | 3 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

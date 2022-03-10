@@ -4,7 +4,7 @@ title: Middleton Stoney
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 22/04/2018
-report: The Min won the toss and inserted Middleton Stoney who scored 188-7. The Min replied with 107-8 when time ran out
+report: The Min won the toss and inserted Middleton Stoney who scored 188 for 7 wkts. The Min replied with 107 for 8 wkts when time ran out
 result: Match Drawn
 next: kingstonian
 parent: 2018 Fixtures
@@ -12,23 +12,25 @@ parent: 2018 Fixtures
 
 {% include matchDetails %}
 
+[Match report](https://www.middletonstoneycc.co.uk/club-news/2018/mscc-vs-the-min-2018/)
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **N Moorman** | c & b  | R Earney | 69 |
 | **M Ford-Langstaff** | c R Beswick | R Earney | 33 |
-| **J Mumtaz** | c & b  | R Earney | 7 |
-| **T House** | c J Wright | R Earney | 14 |
+| **J Mumtaz** | c & b | R Earney | 7 |
+| **T House &#42;** | c J Wright | R Earney | 14 |
 | **S Vadivale** | st J Grant | P Beswick | 11 |
 | **M Simpson** | not out |  | 25 |
 | **H Lancaster** | lbw | J Wright | 1 |
 | **S Pettit** | b | P Wigg | 3 |
-| **R Morris** | not out |  | 2 |
+| **R Morris &#8224;** | not out |  | 2 |
 | **J Watson** | dnb |  |  |
 | **T Cranston** | dnb |  |  |
 | **Extras** | | (6b 3lb 13w 1nb 0p) | **23** |
-| **Total** | | (38 overs) | **188 7wkts** |
+| **Total** | | (42 overs) | **188 for 7 wkts** |
 
 ## Bowling
 
@@ -45,8 +47,8 @@ parent: 2018 Fixtures
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 77 | 95 | 120 | 138 | 175 | 175 | 182 |  |  |  |
+| **Batsman** | 2 | 3 | 4 | 1 | 5 | 7 | 8 |  |  |  |
 
 ## The Min Innings
 
@@ -64,7 +66,7 @@ parent: 2018 Fixtures
 | **J Grant &#8224;** | not out |  | 4 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (6b 3lb 13w 1nb 0p) | **23** |
-| **Total** | | (38 overs) | **107 for 8 wkts** |
+| **Total** | | (35 overs) | **107 for 8 wkts** |
 
 ## Fall of Wickets
 

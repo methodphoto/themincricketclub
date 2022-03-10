@@ -6,6 +6,7 @@ location: Dulwich Sports Ground
 date: 15/08/2021
 report: Wandering Maniacs won the toss and inserted The Min who made 211 all out in 33.2. Wandering Maniacs were 102 for 8 wkts (all out) in 25.4 overs
 result: The Min won by 113 runs
+next: banstead
 parent: 2021 Fixtures
 ---
 

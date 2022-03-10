@@ -6,7 +6,7 @@ location: The Brocus
 date: 09/06/2019
 report: The Min won the toss and for some reason batted first on a sticky wicket. They were duly all out for 79. Newdigate replied with 85 for 2 wkts
 result: Newdigate won by 8 wkts
-next: railway-taverners
+next: cerne-valley
 parent: 2019 Fixtures
 ---
 

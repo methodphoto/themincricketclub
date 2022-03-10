@@ -92,4 +92,4 @@ Partnership of 101 between M Gupta and S Hornsby
 |:---|:---|---|---:|
 | 1 | 3 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

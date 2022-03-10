@@ -94,4 +94,4 @@ Partnership of 155 between S Hornsby and R Earney
 |:---|:---|:---|---:|
 | 5 | 4 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

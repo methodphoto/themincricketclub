@@ -52,7 +52,7 @@ parent: 2021 Fixtures
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **A Beswick** | b | R Blake | 0 |
-| **R Beswick &#42;** | retired - not out | | 15 |
+| **R Beswick &#42;** | retired not out | | 15 |
 | **S Hornsby** | b | M Ali | 49 |
 | **R Damaze** | lbw | M Ali | 18 |
 | **W Calvert** | st J DuToit | P Cheesman | 0 |

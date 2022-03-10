@@ -36,8 +36,8 @@ parent: 2019 Fixtures
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 92 | 92 | 209 | | | |
-| **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | | |
+| **Score** | 92 | 92 | **209** |  |  |  |  |  |  |  |
+| **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 |  |  |  |  |
 
 ## Bowling
 
@@ -56,12 +56,12 @@ parent: 2019 Fixtures
 |:---|:---|---|---:|
 | **I Miah** | b | S Pettit | 0 |
 | **I Matvad** | b | E Barton | 10 |
-| **R Damaze** | lbw |S Pettit | 11 |
-| **R Earney** | b |J Morris | 16 |
-| **P Wigg** | lbw b |J Morris | 0 |
-| **A Gallagher** | b |J Moorman | 49 |
-| **W Calvert** | b |J Morris | 3 |
-| **R Beswick &#42;** | lbw b | .Williams | 5 |
+| **R Damaze** | lbw | S Pettit | 11 |
+| **R Earney** | b | J Morris | 16 |
+| **P Wigg** | lbw b | J Morris | 0 |
+| **A Gallagher** | b | J Moorman | 49 |
+| **W Calvert** | b | J Morris | 3 |
+| **R Beswick &#42;** | lbw b | J Williams | 5 |
 | **J Stimfig  &#8224;** | not out | | 12 |
 | **J Grant &#8224;** | not out | | 0 |
 | **J Wright** | dnb | | |
@@ -72,8 +72,8 @@ parent: 2019 Fixtures
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 0 | 8 | | | | |
-| **Batsman** | 1 | 3 | 2 | 4 | 5 | 7 | 8 | |
+| **Score** | 0 | 8 |  |  |  |  |  |  |  |
+| **Batsman** | 1 | 3 | 2 | 4 | 5 | 7 | 8 |  |  |  |
 
 ## Bowling
 

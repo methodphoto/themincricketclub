@@ -6,13 +6,15 @@ location: North Middlesex CC
 date: 01/09/2019
 report: Railway Taverners scored 178 all out. The Min replied with 180 for 7 wkts
 result: The Min won by 3 wkts
-next: cerne-valley
+next: reigate-pilgrims
 parent: 2019 Fixtures
 ---
 
 {% include matchDetails %}
 
 R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
+
+A Beswick's 8th 50
 
 ## {{page.title}} Innings
 
@@ -73,8 +75,8 @@ R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Sc** | 31 | 48 | 52 | 122 | 132 | 135 | 160 |  |  |  |
-| **Bt** | 2 | 1 | 3 | 4 | 5 | 7 | 8 |  |  |  |
+| **Score** | 31 | 48 | 52 | 122 | 132 | 135 | 160 |  |  |  |
+| **Batsman** | 2 | 1 | 3 | 4 | 5 | 7 | 8 |  |  |  |
 
 ## Bowling
 

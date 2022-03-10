@@ -97,4 +97,4 @@ S Habib, first handled the ball in any Min game
 |:---|:---|:---|---:|
 | 0 | 2 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

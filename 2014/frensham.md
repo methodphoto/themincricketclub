@@ -96,4 +96,4 @@ Parnership of 133 between R Beswick and M Breddy.
 |:---|:---|:---|---:|
 | 4 | 1 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

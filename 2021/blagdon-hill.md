@@ -6,10 +6,14 @@ location: Sellick's Green
 date: 08/07/2021
 report: The Min batted first and scored 187 for 5 wkts. Blagdon Hill were all out for 109
 result: The Min won by 78 runs
+next: broadway-and-horton
 parent: 2021 Fixtures
 ---
 
 {% include matchDetails %}
+
+M Goff's 8th 50. J Carroll's 2nd 50.<br />
+Partnership of 128 between M Goff and J Carroll
 
 J Carroll, 2nd 50 and a hattrick (over two overs)
 

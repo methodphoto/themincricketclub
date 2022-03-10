@@ -12,7 +12,7 @@ parent: 2020 Fixtures
 
 {% include matchDetails %}
 
-A Gallagher: 54* off 45 balls
+A Gallagher's 14th 50 off 45 balls
 
 ## The Min Innings
 

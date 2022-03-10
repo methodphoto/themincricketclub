@@ -4,13 +4,15 @@ title: Reigate Pilgrims
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 16/09/2018
-report: Reigate Pilgrims won the toss and inserted The Min, who made 184-6  Reigate Pilgrims made 189-5 when they batted so won by 5 wkts
+report: Reigate Pilgrims won the toss and inserted The Min, who made 184 for 6 wkts. Reigate Pilgrims replied with 189 for 5 wkts 
 result: Reigate Pilgrims won by 5 wkts
 next: stoke-dabernon
 parent: 2018 Fixtures
 ---
 
 {% include matchDetails %}
+
+I Marshall's 8th 50
 
 ## The Min Innings
 
@@ -27,7 +29,7 @@ parent: 2018 Fixtures
 | **J Wright** | dnb |  |  |
 | **** |  |  |  |
 | **** |  |  |  |
-| **Extras** | | (0nb 5w 6b 13lb 0p) | **24** |
+| **Extras** | | (6b 13lb 5w 0nb 0p) | **24** |
 | **Total** | | (42 overs) | **184 for 6 wkts** |
 
 ## Fall of Wickets
@@ -53,7 +55,7 @@ parent: 2018 Fixtures
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **S Burgess** | run out (P Wigg) |  | 71 |
-| **RK Janardanan &#42;** | b | I Marshall | 25 |
+| **R Kumar &#42;** | b | I Marshall | 25 |
 | **A Bushe** | b | R Beswick | 1 |
 | **A Periasoamy** | c A Dell | E Garland | 4 |
 | **D Kanagarajah** | b | A Dell | 4 |
@@ -63,8 +65,8 @@ parent: 2018 Fixtures
 | **J Ardolino** | dnb |  |  |
 | **M Nicholls &#8224;** | dnb |  |  |
 | **J Hoy** | dnb |  |  |
-| **Extras** | | (0nb 5w 6b 13lb 0p) | **24** |
-| **Total** | | (42 overs) | **184 for 6 wkts** |
+| **Extras** | | (6b 4lb 5w 2nb 0p) | **17** |
+| **Total** | | (33.5 overs) | **189 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -80,7 +82,7 @@ parent: 2018 Fixtures
 | **P Wigg** | 8 | 0 | 41 | 0 |
 | **E Garland** | 7 | 0 | 44 | 1 |
 | **I Marshall** | 6 | 0 | 27 | 1 |
-| **R Beswick** | 3 5 | 1 | 19 | 1 |
+| **R Beswick** | 3.5 | 1 | 19 | 1 |
 | **J Wright** | 3 | 0 | 19 | 0 |
 | **A Dell** | 6 | 0 | 29 | 1 |
 
@@ -88,6 +90,6 @@ parent: 2018 Fixtures
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
-| 4 | 3 | 1 | 0 |
+| 4 | 4 | 1 | 0 |
 
-[Next season](../2019)
+{% include nextGame %}

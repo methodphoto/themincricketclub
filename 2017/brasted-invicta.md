@@ -93,4 +93,4 @@ S Amin best bowling for The Min.
 |:---|:---|---|---:|
 | 2 | 7 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

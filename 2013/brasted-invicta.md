@@ -89,4 +89,4 @@ R Earney's 44th 50
 |:---|:---|:---|---:|
  8 | 4 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

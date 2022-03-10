@@ -2,7 +2,7 @@
 layout: default
 title: Kingstonian
 game: Kingstonian v The Min
-location: KCL
+location: KCL Sports Ground
 date: 06/05/2018
 report: The Min won the toss and inserted Kingstonian who made 171 all out in 32 overs  The Min scored 172-4 in 34.2 overs 
 result: THe Min won by 6 wkts
@@ -11,6 +11,8 @@ parent: 2018 Fixtures
 ---
 
 {% include matchDetails %}
+
+R Earney's 53rd 50
 
 ## {{page.title}} Innings
 
@@ -26,9 +28,9 @@ parent: 2018 Fixtures
 | **A Radley** | b | P Beswick | 0 |
 | **Hikmat** | c J Grant | P Beswick | 3 |
 | **Jim** | not out |  | 0 |
-| **Temy** | b | P Beswick | 1 |
+| **Terry** | b | P Beswick | 1 |
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
-| **Total** | | (32 overs) | **171 all out** |
+| **Total** | | (36 overs) | **171 all out** |
 
 ## Fall of Wickets
 

@@ -98,4 +98,4 @@ R Beswick's 32nd 50
 |:---|:---|:---|---:|
 | 5 | 4 | 0 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

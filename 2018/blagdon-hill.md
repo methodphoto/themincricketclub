@@ -27,7 +27,7 @@ parent: 2018 Fixtures
 | **J Wright** | caught | G Williams | 12 |
 | **S Noble** | not out |  | 0 |
 | **J Earney** | dnb |  |  |
-| **Extras** | | (0nb 18w 3b 0lb 0p) | **21** |
+| **Extras** | | (3b 0lb 18w 0nb 0p) | **21** |
 | **Total** | | (40 overs) | **139 for 8 wkts** |
 
 ## Fall of Wickets

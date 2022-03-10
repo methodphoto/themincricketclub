@@ -91,4 +91,4 @@ R Earney's 46th 50
 |:---|:---|:---|---:|
 | 1 | 2 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

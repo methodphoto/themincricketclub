@@ -87,7 +87,6 @@ M Wright batted, Charlotte Wright and Harry Earney fielded
 | **E Garland** | 1 | 0 | 10 | 0 |
 | **R Earney** | 3 | 0 | 16 | 0 |
 
-
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |

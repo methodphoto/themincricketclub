@@ -94,4 +94,4 @@ parent: 2014 Fixtures
 |:---|:---|:---|---:|
 | 7 | 2 | 4 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

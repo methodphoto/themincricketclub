@@ -91,4 +91,4 @@ R Earney's 52nd 50.
 |:---|:---|---|---:|
 | 1 | 5 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

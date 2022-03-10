@@ -93,4 +93,4 @@ S Hornsby's 14th 50
 |:---|:---|:---|---:|
 | 5 | 3 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

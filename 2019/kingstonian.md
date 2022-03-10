@@ -3,16 +3,16 @@ layout: default
 title: Kingstonian
 game: Kingstonian v The Min
 location: Old Tiffinians Association Sports Ground
-gameDate: 04/07/2019
+gameDate: 21/07/2019
 report: Kingstonian won the toss and inserted The Min who scored 198 for 9 wkts in 35 overs. Kingstonian replied with 139 for 4 wkts
 result: The Min won by 59 runs
-next: reigate-pilgrims
+next: railway-taverners
 parent: 2019 Fixtures
 ---
 
 {% include matchDetails %}
 
-A Beswick 86* Highest score for The Min
+A Beswick's 10th 50 and highest score
 
 ## The Min Innings
 

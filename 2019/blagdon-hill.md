@@ -27,8 +27,8 @@ parent: 2019 Fixtures
 | **G Williams** | lbw | I Miah | 6 |
 | **T Knight** | c	| 	| 12 |
 | **H Welsh** | not out | | 2 |
-| **Extras** | | (6b 1lb 3w 1nb 0p) | 11 |
-| **Total** | | (35 overs) | 213 for 9 wkts |
+| **Extras** | | (6b 1lb 3w 1nb 0p) | **11** |
+| **Total** | | (35 overs) | **213 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -64,7 +64,7 @@ parent: 2019 Fixtures
 | **A Munim** | c A Hotham | E Trottman | 20 |
 | **P Wigg** | not out |  | 22 |	 
 | **Extras** | | (3b 1lb 8w 9nb 0p) | **21** |
-| **Total** | | (33 3 overs) | 202 all out |
+| **Total** | | (33 3 overs) | **202 all out** |
 
 ## Fall of Wickets
 

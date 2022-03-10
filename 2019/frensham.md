@@ -4,7 +4,7 @@ title: Frensham
 game: Frensham v The Min
 location: Hollowdene Recreation Ground
 date: 02/06/2019
-report: Frensham batted first and made 192 for 9. The Min replied with 196 for 6.
+report: Frensham batted first and made 192 for 9 wkts. The Min replied with 196 for 6 wkts
 result: The Min won by 4 wkts
 next: newdigate
 parent: 2019 Fixtures
@@ -15,6 +15,8 @@ parent: 2019 Fixtures
 #### Video
 
 <iframe src="https://player.vimeo.com/video/341233600?h=fc0cf87163" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+I Matvad's 1st 50
 
 ## {{page.title}} Innings
 
@@ -31,7 +33,7 @@ parent: 2019 Fixtures
 | **T Ralling** | b | E Garland | 2 |
 | **Ja Frost** | not out |  | 12 |
 | **Ju Frost** | not out | | 0 |
-| **Extras** | | (2b 4lb 2w 0nb) | **8** |
+| **Extras** | | (2b 4lb 2w 0nb 0p) | **8** |
 | **Total** | | (41 overs) | **192 all out** |
 
 ## Fall of Wickets
@@ -68,7 +70,7 @@ parent: 2019 Fixtures
 | **E Garland** | dnb |  |  |
 | **J Grant &#8224;** | dnb |  |  |
 | **I Miah** | dnb |  |  |
-| **Extras** | | (15b 6lb 14w 5nb) | **40** |
+| **Extras** | | (15b 6lb 14w 5nb 0p) | **40** |
 | **Total** | | (34 overs) | **196 for 6 wkts** |
 
 ## Fall of Wickets

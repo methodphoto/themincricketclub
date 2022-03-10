@@ -4,8 +4,9 @@ title: Middleton Stoney
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 25/04/2021
-report: The Min batted first and scored 172 for 9 wkts. Middleton Stoney made 177-4 in reply
+report: The Min batted first and scored 172 for 9 wkts. Middleton Stoney made 177 for 4 wkts in reply
 result: Middleton Stoney won by 6 wkts
+next: newington
 parent: 2021 Fixtures
 ---
 

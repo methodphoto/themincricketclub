@@ -12,6 +12,8 @@ parent: 2020 Fixtures
 
 {% include matchDetails %}
 
+P Wigg's 3rd 50
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

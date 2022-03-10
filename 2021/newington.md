@@ -6,6 +6,7 @@ location: Bobbing Court
 date: 24/05/2021
 report: Newington won the toss and batted first making 126 for 9 wkts (all out). The Min made 127 for 5 wkts in reply
 result: The Min won by 5 wkts
+next: bricklayers'arms
 parent: 2021 Fixtures
 ---
 

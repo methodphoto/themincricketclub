@@ -94,4 +94,4 @@ Second ever 4 win Tour
 |:---|:---|:---|---:|
 | 7 | 3 | 2 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

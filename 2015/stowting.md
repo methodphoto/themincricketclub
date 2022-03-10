@@ -93,4 +93,4 @@ S Habib's 1st 50
 |:---|:---|:---|---:|
 | 5 | 4 | 3 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

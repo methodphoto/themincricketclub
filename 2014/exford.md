@@ -103,4 +103,4 @@ A Gallagher's 13th 50. H Ingham hat trick
 |:---|:---|:---|---:|
 | 6 | 2 | 1 | 0 |
 
-[Next game:]({{page.next}})
+{% include nextGame %}

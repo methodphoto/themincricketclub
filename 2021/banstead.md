@@ -6,6 +6,7 @@ location: Banstead CC
 date: 05/09/2021
 report: The Min won the toss and batted first scoring 167 for 9 wkts (35 overs). Banstead replied with 156 for 7 wkts (35 overs)
 result: The Min won by 11 runs
+next: reigate-pilgrims
 parent: 2021 Fixtures
 ---
 

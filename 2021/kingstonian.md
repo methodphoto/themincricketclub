@@ -6,6 +6,7 @@ location: King's College Sport's Ground
 date: 18/07/2021
 report: Kingstonian won the toss and batted first and scored 137 all out. The Min replied with 140 for 3 wkts
 result: The Min won by 7 wkts
+next: wandering-maniacs
 parent: 2021 Fixtures
 ---
 
@@ -55,7 +56,7 @@ Partnership of 103 between A Beswick and R Earney
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **R Earney** | retired - out |   | 33 |
+| **R Earney** | retired out |  | 33 |
 | **A Beswick** | c | Terry | 64 |
 | **R Damaze** | c | Sheeraz | 0 |
 | **S Hornsby** | not out |  | 12 |

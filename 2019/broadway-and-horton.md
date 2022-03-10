@@ -12,12 +12,16 @@ parent: 2019 Fixtures
 
 {% include matchDetails %}
 
+S Hornsby's 16th 50
+
+P Wigg's 1st Michelle
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | c | J Salaman | 32 |
-| **R Earney** | c |  | J Redcar | 43 |
+| **R Earney** | c | J Redcar | 43 |
 | **A Beswick** | c | J Salaman | 1 |
 | **S Hornsby** | not out |  | 52 |
 | **P Wigg** | c | A Dummet | 14 |

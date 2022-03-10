@@ -12,6 +12,8 @@ parent: 2019 Fixtures
 
 {% include matchDetails %}
 
+J Stacey's 1st 50
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
@@ -52,13 +54,13 @@ parent: 2019 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Beswick &#42;** | c | Morgan | 48 |
-| **J Grant &#8224;** | c | Morgan | 0 |
-| **Jo Nisse** | c | Morgan | 8 |
-| **J Stacey** | b | Mason | 59 |
-| **A Gallagher** | c | Singh | 24 |
-| **Ja Nisse** | c | Mason | 8 |
-| **S Amin** | c & b | Mason | 31 |
+| **R Beswick &#42;** | c | L Morgan | 48 |
+| **J Grant &#8224;** | c | L Morgan | 0 |
+| **Jo Nisse** | c | L Morgan | 8 |
+| **J Stacey** | b | D Mason | 59 |
+| **A Gallagher** | c | TJ Singh | 24 |
+| **Ja Nisse** | c | D Mason | 8 |
+| **S Amin** | c & b | D Mason | 31 |
 | **K Usanga** | not out |  | 9 |
 | **I Marshall** | run out |  | 0 |
 | **C Wright** | run out |  | 2 |
