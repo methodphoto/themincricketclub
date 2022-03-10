@@ -19,7 +19,7 @@ parent: 2016 Fixtures
 | **B Sweeting** | run out (R Ambookan) |  | 1 |
 | **B Wretham** | c R Earney | M Gupta | 34 |
 | **B Carter** | c M Gupta | R Ambookan | 10 |
-| **N Myers** | c J Wright | R Ambookan | 03 |
+| **N Myers &#8224;** | c J Wright | R Ambookan | 0 |
 | **M Latham** | b | S Mohammed | 4 |
 | **D King** | b | I Marshall | 1 |
 | **T Gower** | b | R Beswick | 28 |
@@ -33,7 +33,7 @@ parent: 2016 Fixtures
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 0 | [28 | 46 | 52 | 52 | 57 | 57 | 95 | 118 | 118 |
+| **Score** | 0 | 28 | 46 | 52 | 52 | 57 | 57 | 95 | 118 | 118 |
 | **Batsman** | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 9 | 8 | 11 |
 
 ## Bowling
