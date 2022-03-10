@@ -21,6 +21,7 @@ parent: Records
 | **1995** | R Earney (100) and S Barrowcliff (46) | [Ockley](../1995/ockley) | **154** |
 | **2001** | R Earney (106) and R Beswick (44) | [Wareham](../2001/wareham) | **151** |
 | **2000** | R Beswick (52) and S Hornsby (130&#42;) | [Wareham](../2000/wareham) | **144** |
+| **2016** | R Earney (88) and M Gupta (33) | [Reigate Pilgrims](../2016/reigate-pilgrims) | **142** |
 | **2016** | S Habib (91) and W Calvert (38) | [Frensham](../2016/frensham) | **140** |
 | **2005** | R Earney (89) and M Goff (56) | [Watton-at-Stone](../2005/watton-at-stone) | **140** |
 | **1986** | S Watson (69&#42;) and T Purves (66&#42;) | [Horningsham](../1986/horningsham) | **139** |

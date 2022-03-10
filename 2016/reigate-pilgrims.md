@@ -6,17 +6,21 @@ location: The Red Lion, Betchworth
 date: 11/09/2016
 report: The Min batted first and made 185 for 5 wkts. Reigate replied with 123 for 7 wkts when time ran out
 result: Match Drawn
+next: selling
 parent: 2016 Fixtures
 ---
 
 {% include matchDetails %}
+
+R Earney's 51st 50. <br />
+Partnership of 142 between R Earney and M Gupta
 
 ## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **R Earney** | b | M Wood | 88 |
-| **R Beswick** | c D Batey | C Wise | 14 |
+| **R Beswick &#42;** | c D Batey | C Wise | 14 |
 | **M Gupta** | lbw | D Gautam | 33 |
 | **R Damaze** | c | G Mitchell | 5 |
 | **S Barrowcliff** | b | G Mitchell | 3 |
@@ -26,14 +30,14 @@ parent: 2016 Fixtures
 | **E Garland** | dnb |  |  |
 | **P Wigg** | dnb |  |  |
 | **J Grant &#8224;** | dnb |  |  |
-| **Extras** | | (20b 3lb 6w 0nb) | **29** |
+| **Extras** | | (20b 3lb 6w 0nb 0p) | **29** |
 | **Total** | | (40 overs) | **184 for 5 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 34 | []**142**](/partnerships) | 163 | 167 | 171 |  |  |  |  |  |
+| **Score** | 34 | **142** | 163 | 167 | 171 |  |  |  |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 | 5 | 6 |  |  |  |  |
 
 ## Bowling
@@ -62,7 +66,7 @@ parent: 2016 Fixtures
 | **C Wise** | not out |  | 0 |
 | **G Jordan** | dnb |  |  |
 | **D Batey** | dnb |  |  |
-| **Extras** | | (5b 1lb 7w 0nb) | **8** |
+| **Extras** | | (5b 1lb 7w 0nb 0p) | **8** |
 | **Total** | | (40 overs) | **123 for 7 wkts** |
 
 ## Fall of Wickets
@@ -89,6 +93,6 @@ parent: 2016 Fixtures
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 3 | 0 | 0 | 0 |
+| 6 | 4 | 1 | 0 |
 
 {% include nextGame %}

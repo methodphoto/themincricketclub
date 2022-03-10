@@ -73,15 +73,15 @@ parent: Results
 | 17/04/2016| [Middleton Stoney](../2016/middleton-stoney) | **Won** |
 | 08/05/2016 | [Nightwatchman CC](../2016/nightwatchman) | Lost |
 | 15/05/2016 | [Newington](../2016/newington) | **Won** |
-| {date} | [Frensham](../2016/frensham) | **Won** |
-| {date} | [Watton-at-Stone](../2016/watton-at-stone) | **Won** |
-| {date} | [Blagdon Hill](../2016/blagdon-hill) | Lost |
-| {date} | [Broadway and Horton](../2016/broadway-and-horton) | Lost |
-| {date} | [Bristol 4th XI](../2016/bristol) | **Won** |
-| {date} | [Kilmington and Stourton](../2016/kilmington-and-stourton) | Lost |
-| {date} | [Brasted Invicta](../2016/brasted-invicta) | **Won** |
-| {date} | [Reigate Pilgrims](../2016/reigate-pilgrims) | Drawn |
-| {date} | [Selling](../2016/selling) | **Won** |
+| 05/06/2016 | [Frensham](../2016/frensham) | **Won** |
+| 26/06/2016 | [Watton-at-Stone](../2016/watton-at-stone) | **Won** |
+| 07/07/2016 | [Blagdon Hill](../2016/blagdon-hill) | Lost |
+| 08/07/2016 | [Broadway and Horton](../2016/broadway-and-horton) | Lost |
+| 09/07/2016 | [Bristol 4th XI](../2016/bristol) | **Won** |
+| 10/07/2016 | [Kilmington and Stourton](../2016/kilmington-and-stourton) | Lost |
+| 04/09/2016 | [Brasted Invicta](../2016/brasted-invicta) | **Won** |
+| 11/09/2016 | [Reigate Pilgrims](../2016/reigate-pilgrims) | Drawn |
+| 18/09/2016} | [Selling](../2016/selling) | **Won** |
 
 | 2015 |  |  |
 |:---|:---|:---|

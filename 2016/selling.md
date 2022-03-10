@@ -3,9 +3,9 @@ layout: default
 title: Selling
 game: Selling v The Min
 location: Cadman's Meadow
-date: 
-report: 
-result: 
+date: 18/09/2016
+report: Selling batted first and made 118 all out in 34.4 overs. The Min replied with 119 for 5 wkts in 26.2 overs
+result: The Min won by 5 wkts
 parent: 2016 Fixtures
 ---
 
@@ -26,7 +26,7 @@ parent: 2016 Fixtures
 | **T Falcon** | run out (R Beswick/W Calvert) |  | 21 |
 | **T Carter** | not out |  | 8 |
 | **W Hinkley** | b | R Beswick | 0 |
-| **Extras** | | (4b 2lb 7w 2nb) | **15** |
+| **Extras** | | (4b 2lb 7w 2nb 0p) | **15** |
 | **Total** | | (34.4 overs) | **118 all out** |
 
 ## Fall of Wickets
@@ -63,7 +63,7 @@ parent: 2016 Fixtures
 | **S Mohammed** | dnb  |  |  |
 | **I Marshall** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (12b 0lb 1w 0nb) | **13** |
+| **Extras** | | (12b 0lb 1w 0nb 0p) | **13** |
 | **Total** | | (26.2 overs) | **119 for 5 wkts** |
 
 ## Fall of Wickets
@@ -90,6 +90,6 @@ parent: 2016 Fixtures
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 3 | 0 | 0 | 0 |
+| 7 | 4 | 1 | 0 |
 
-{% include nextGame %}
+[Next season](../2017)

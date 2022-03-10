@@ -6,10 +6,13 @@ location: Upper Nevill Ground
 date: 04/09/2016
 report: Brasted won the toss and batted first, they made 109 for 7 in their 35 overs. The Min replied with 110 for 5 wkts
 result: The Min won by 5 wkts
+next: reigate-pilgrims
 parent: 2016 Fixtures
 ---
 
 {% include matchDetails %}
+
+M Gupta's 12th 50
 
 ## {{page.title}} Innings
 
@@ -26,7 +29,7 @@ parent: 2016 Fixtures
 | **J Carter** | not out |   | 1 |
 | **A Payne** | dnb |  |  |
 |  |  |  |  |
-| **Extras** | | (5b 1lb 7w 0nb) | **13** |
+| **Extras** | | (5b 1lb 7w 0nb 0p) | **13** |
 | **Total** | | (35 overs) | **109 for 7 wkts** |
 
 ## Fall of Wickets
@@ -63,7 +66,7 @@ parent: 2016 Fixtures
 | **A Molui** | dnb |  |  |
 | **P Beswick** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (1b 3lb 3w 0nb) | **7** |
+| **Extras** | | (1b 3lb 3w 0nb 0p) | **7** |
 | **Total** | | (20.2 overs) | **110 for 5 wkts** |
 
 ## Fall of Wickets
@@ -88,6 +91,6 @@ parent: 2016 Fixtures
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 3 | 0 | 0 | 0 |
+| 6 | 4 | 0 | 0 |
 
 {% include nextGame %}
