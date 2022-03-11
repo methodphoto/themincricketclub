@@ -54,15 +54,15 @@ Ken Sullivan - Best Bowling by The Min
 |:---|:---|---|---:|
 | **J Booth** | not out | 20 |
 | **J Grant &#8224;** | not out | 19 |
-| **D Mundy** | dnb | | |
-| **W Calvert** | dnb | | |
-| **R Beswick &#42;** | dnb | | |
-| **R Emanuel** | dnb | | |
-| **K Sullivan** | dnb | | |
-| **M Gardiner** | dnb | | |
-| **A Sylvester** | dnb | | |
-| **M Kirwan** | dnb | | |
-| **J Wright** | dnb | | |
+| **D Mundy** | dnb |  |  |
+| **W Calvert** | dnb |  |  |
+| **R Beswick &#42;** | dnb |  |  |
+| **R Emanuel** | dnb |  |  |
+| **K Sullivan** | dnb |  |  |
+| **M Gardiner** | dnb |  |  |
+| **A Sylvester** | dnb |  |  |
+| **M Kirwan** | dnb |  |  |
+| **J Wright** | dnb |  |  |
 | **Extras** | | (5b 0lb 0w 0nb) | **5** |
 | **Total** | | (15.1 overs) | **44 for 0 wkts** |
 

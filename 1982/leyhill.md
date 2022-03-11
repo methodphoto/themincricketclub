@@ -29,7 +29,7 @@ M Kirwan's 1st Michelle
 | **B Montabank** | not out| | 3 |
 | **Seed** | lbw | M Kirwan | 5 |
 | **K Rush** | b | M Kirwan | 1 |
-| **Extras** | | (11b 2lb 8w 4nb) | 25 |
+| **Extras** | | (11b 2lb 8w 4nb) | **25** |
 | **Total** | | (34.2 overs) | **175 all out** |
 
 
@@ -56,18 +56,18 @@ M Kirwan's 1st Michelle
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **P Butler** | c F Rowe | R Coster | 12 | |
-| **A Gallagher** | b | R Coster | 1 | |
-| **R Beswick &#42;** | b | R Coster | 5 | |
-| **W Calvert** | c B Smitt| F Rowe | 10 | |
-| **R Emanuel** | b | R Coster | 11 | |
-| **J Grant &#8224;** | c K Rush | F Rowe | 0 | |
-| **S Tanner** | b | R Coster | 9 | |
-| **J Wright** | b | R Coster | 7 | |
-| **L Sheridan** | b | F Rowe | 1 | |
-| **M Kirwan** | b | E Pratchett | 11 | |
-| **A Sylvester** | not out| | 4 | |
-| **Extras** | | (8b 1lb 3w 0nb)| 12 | |
+| **P Butler** | c F Rowe | R Coster | 12 |
+| **A Gallagher** | b | R Coster | 1 |
+| **R Beswick &#42;** | b | R Coster | 5 |
+| **W Calvert** | c B Smitt| F Rowe | 10 |
+| **R Emanuel** | b | R Coster | 11 |
+| **J Grant &#8224;** | c K Rush | F Rowe | 0 |
+| **S Tanner** | b | R Coster | 9 |
+| **J Wright** | b | R Coster | 7 |
+| **L Sheridan** | b | F Rowe | 1 |
+| **M Kirwan** | b | E Pratchett | 11 |
+| **A Sylvester** | not out| | 4 |
+| **Extras** | | (8b 1lb 3w 0nb)| **12** |
 | **Total** | | (34.5 overs) | **82 all out** |
 
 ## Fall of Wickets

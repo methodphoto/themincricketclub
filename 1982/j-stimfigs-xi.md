@@ -12,6 +12,7 @@ parent: 1982 Fixtures
 
 {% include matchDetails %}
 
+JBooth's 1st 50<br />
 Partnership of 100 between J Booth and D Mundy
 
 ## The Min Innings
@@ -61,9 +62,9 @@ Partnership of 100 between J Booth and D Mundy
 | **J Stimfig** | c Mundy | A Sylvester | 17 |
 | **S Miller-Jones** | not out | | 6 |
 | **King** | dnb | | | |
-| | dnb| | |
-| | dnb| | |
-| | dnb| | |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | **Extras** | | (13b 10lb 2w 0nb) | **25** |
 | **Total** | | (38 overs) | **184 for 5 wkts** |
 
@@ -90,5 +91,3 @@ Partnership of 100 between J Booth and D Mundy
 | 3 | 1 | 1 | 0 |
 
 {% include nextGame %}
-
-Next game: [{page.next}]({{page.nextLink}})

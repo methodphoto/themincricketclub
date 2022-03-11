@@ -6,6 +6,7 @@ location: Bobbing Court
 date: 17/05/2015
 report: The Min batted first and made 183 for 6 wkts in 40 overs. Newington replied with 158 all out in 35 overs
 result: The Min won by 25 runs
+next: frensham
 parent: 2015 Fixtures
 ---
 
@@ -91,4 +92,4 @@ R Earney's 46th 50
 |:---|:---|:---|---:|
 | 1 | 2 | 1 | 0 |
 
-{% include nextGame %}
+[Next game:]({{page.next}})
