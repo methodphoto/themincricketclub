@@ -2,6 +2,5 @@
 
 Played at {{page.location}} on {{page.date}}
 
-{{page.report}}
-
+{{page.report}}<br />
 **Result:** {{page.result}}
