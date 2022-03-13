@@ -64,7 +64,7 @@ parent: 1986 Fixtures
 | **J Wright** | b | A Beard | 7 |
 | **E Garland** | not out |  | 14 |
 | **Extras** | | (2b 3lb 0w 2nb) | **17** |
-| **Total** | | | 144 all out |
+| **Total** | | | **144 all out** |
 
 ## Fall of Wickets
 

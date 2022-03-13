@@ -12,6 +12,8 @@ parent: 1986 Fixtures
 
 {% include matchDetails %}
 
+S Watson's 1st 50. T Purves's 3rd 50
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

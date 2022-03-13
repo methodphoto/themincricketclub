@@ -12,6 +12,8 @@ parent: 1986 Fixtures
 
 {% include matchDetails %}
 
+M Taylor's 1st 50
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |

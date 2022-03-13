@@ -12,6 +12,8 @@ parent: 1986 Fixtures
 
 {% include matchDetails %}
 
+J Grant's 3rd 50, T Purves's 1st 50
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |

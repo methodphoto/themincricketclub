@@ -13,7 +13,7 @@ parent: 1986 Fixtures
 {% include matchDetails %}
 
 E Garland's 1st Michelle and best bowling<br />
-T Purves' 2nd 50
+T Purves' 3rd 50
  
 ## {{page.title}} Innings
 

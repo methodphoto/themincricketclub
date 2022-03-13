@@ -12,7 +12,8 @@ parent: 1986 Fixtures
 
 {% include matchDetails %}
 
-Andrew Gallagher and Phill Goult: 100 partnership
+P Gault's 1st 50
+139 partnership between A Gallagher and P Gault
  
 ## {{page.title}} Innings
 
@@ -56,7 +57,7 @@ Andrew Gallagher and Phill Goult: 100 partnership
 |:---|:---|---|---:|
 | **A Gallagher** | lbw | Yarrow | 39 |
 | **J Grant &#8224;** | b | S Wright | 6 |
-| **P Goult** | b | Moran | 91 |
+| **P Gault** | b | Moran | 91 |
 | **W Wright** | b  | Yarrow | 16 |
 | **W Calvert** | lbw  | Yarrow | 6 |
 | **S Reeve** | b | Moran | 0 |
