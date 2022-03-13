@@ -56,7 +56,7 @@ The Min gained the Ashes for the first time
 |:---|:---|---|---:|
 | **R Earney** | not out |   | 67 |
 | **J Grant &#8224;** | c B Horner | S Pratt | 6 |
-| **M Petre** | b | S Pratt | 200 |
+| **M Petre** | b | S Pratt | 0 |
 | **R Beswick** | not out |  | 29 |
 | **Howcroft** | dnb |  |  |
 | **MacFarlane** | dnb |  |  |
