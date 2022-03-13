@@ -12,6 +12,8 @@ parent: 1984 Fixtures
 
 {% include matchDetails %}
 
+A Lisser's 1st 50
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

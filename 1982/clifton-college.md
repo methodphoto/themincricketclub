@@ -82,4 +82,4 @@ parent: 1982 Fixtures
 |:---|:---|:---|---:|
 | 6 | 3 | 2 | 0 |
 
-[Next season](../1983)
+[Next season >](../1983)

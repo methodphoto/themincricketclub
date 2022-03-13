@@ -62,7 +62,7 @@ parent: 1984 Fixtures
 | **A Sylvester** | c G Wright | M Wright | 35 |
 | **M Gardiner** | c K Gilmour | M Wright | 6 |
 | **E Harcourt** | c H Sylvester | M Wright | 4 |
-| **D Newman** | not out | 14 |
+| **D Newman** | not out | | 14 |
 | **M Kirwan** | not out |  | 13 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (18b 1lb 5w 0nb) | **24** |

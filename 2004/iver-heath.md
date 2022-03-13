@@ -89,4 +89,4 @@ parent: 2004 Fixtures
 |:---|:---|:---|---:|
 | 5 | 5 | 4 | 0 |
 
-[Next season](../2005)
+[Next Season >](2005)

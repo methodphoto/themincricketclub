@@ -38,4 +38,4 @@ parent: 2000s
 | 15th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 | 28th | 13:00 | [Britwell Salome](britwell-salome) | [OX49 5LH](https://goo.gl/maps/CGgpPNyQhotADDFs9) |
 
-[Next season](../2003)
+[Next Season >](2003)

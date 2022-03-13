@@ -18,4 +18,4 @@ parent: 1980s
 |:---|:---|:---|:---|
 | 17th |  | [Bathurst Arms](bathurst-arms) | [Away](https://goo.gl/maps/HGNU7FAfNffetPu1A) |
 
-[Next season](../1984)
+[Next Season >](1984)

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Koh-i-noor
-game: Koh-i-noor v The Min
+title: Koh-i-Noor
+game: Koh-i-Noor v The Min
 location: Cowgate Lane
 date: 07/07/1985
 report: The Min batted first and made 217 all out. Koh-i-noor replied with 71 for 7 wkts (all out).
@@ -49,7 +49,7 @@ Partnership of 106 between J Grant and A Fielding
 | **3** | 11 | 0 | 79 | 3 |
 | **4** | 5 | 0 | 45 | 1 |
 
- ## {{page.title}} Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

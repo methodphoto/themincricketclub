@@ -88,4 +88,4 @@ parent: 1987 Fixtures
 |:---|:---|:---|---:|
 | 6 | 5 | 3 | 0 |
 
-[Next season](../1988)
+[Next Season >](1988)

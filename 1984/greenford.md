@@ -12,7 +12,8 @@ parent: 1984 Fixtures
 
 {% include matchDetails %}
 
-Tony Purves: best bowling
+Tony Purves: best bowling<br /> 
+E Bishop's 1st 50
 
 ## The Min Innings
 

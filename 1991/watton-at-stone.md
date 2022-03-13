@@ -85,4 +85,4 @@ parent: 1991 Fixtures
 |:---|:---|:---|---:|
 | 10 | 2 | 5 | 0 |
 
-[Next season](../1992)
+[Next Season >](1992)

@@ -12,7 +12,7 @@ parent: 1984 Fixtures
 
 {% include matchDetails %}
 
-Result: {result}
+W Calvert's 1st Michelle and best bowling
  
 ## {{page.title}} Innings
 

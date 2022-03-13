@@ -12,7 +12,8 @@ parent: 1984 Fixtures
 
 {% include matchDetails %}
 
-J Grant's 1st 50
+J Grant's 1st 50<br />
+M Kirwan's 3rd Michelle
 
 ## {{page.title}} Innings
 

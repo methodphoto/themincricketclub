@@ -11,6 +11,8 @@ parent: 1985 Fixtures
 
 {% include matchDetails %}
 
+T Purves's 
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
@@ -88,4 +90,4 @@ parent: 1985 Fixtures
 |:---|:---|:---|---:|
 | 8 | 6 | 2 | 0 |
 
-[Next season](../1986)
+[Next Season >](1986)

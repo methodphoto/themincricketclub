@@ -39,4 +39,4 @@ parent: 1990s
 | 13th | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 | 20th | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 
-[Next season](../1993)
+[Next Season >](1993)

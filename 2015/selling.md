@@ -93,4 +93,4 @@ parent: 2015 Fixtures
 |:---|:---|:---|---:|
 | 8 | 4 | 4 | 0 |
 
-[Next season](../2016)
+[Next Season >](2016)

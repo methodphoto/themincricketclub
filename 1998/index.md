@@ -39,4 +39,4 @@ parent: 1990s
 |:---|:---|:---|:---|
 | 13th | 13:30 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 
-[Next season](../1999)
+[Next Season >](1999)

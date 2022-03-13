@@ -12,6 +12,8 @@ parent: 1985 Fixtures
 
 {% include matchDetails %}
 
+A Sylvester's 1st 50
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
@@ -28,7 +30,7 @@ parent: 1985 Fixtures
 | **Saunders** | run out |  | 2 |
 | **Mayo** | not out | | 2 |
 | **Extras** | | (6b 4lb 2w 0nb) | **12** |
-| **Total** | | (39.5 overs) | **162 all out** |
+| **Total** | | (39.5 overs) | **217 all out** |
 
 ## Fall of Wickets
 

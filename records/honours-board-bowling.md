@@ -80,6 +80,7 @@ parent: Records
 | **1987** | R Beswick | v [Rhinos](../1987/rhinos) | **12.3-0-32-5** |
 | **1986** | E Garland | v [Brook](../1986/brook) | **7.3-4-9-5** |
 | **1985** | A Sylvester | v [Petts Wood](../1985/petts-wood) | **10-4-32-5** |
+| **1985** | T Purves | v [Hendon Edgware](../1985/hendon-edgware) | **14-0-59-5** |
 | **1984** | M Kirwan | v [Logica](../1984/logica) | **12-1-45-5** |
 | **1982** | M Kirwan | v [A Good Length](../1982/a-good-length-2) | **11-2-15-5** |
 | **1982** | M Kirwan | v [Leyhill](../1982/leyhill) | **12.2-1-33-5** |

@@ -87,4 +87,4 @@ parent: 1989 Fixtures
 | Won | Lost | Drawn | Tied |
 | 4 | 7 | 8 | 0 |
 
-[Next season](../1990)
+[Next Season >](1990)

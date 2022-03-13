@@ -92,4 +92,4 @@ parent: 2013 Fixtures
 
 {% include nextGame %}
 
-[Next season](../2014)
+[Next Season >](2014)

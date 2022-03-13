@@ -90,4 +90,4 @@ Partnership of 109 between M Tipper and W Emsley
 |:---|:---|:---|---:|
 | 3 | 7 | 2 | 0 |
 
-[Next season](../1995)
+[Next Season >](1995)

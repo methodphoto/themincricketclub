@@ -90,4 +90,4 @@ parent: 2007 Fixtures
 |:---|:---|:---|---:|
 | 6 | 4 | 3 | 0 |
 
-[Next season](../2008)
+[Next Season >](2008)

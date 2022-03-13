@@ -87,4 +87,4 @@ parent: 2001 Fixtures
 |:---|:---|:---|---:|
 | 5 | 4 | 1 | 0 |
 
-[Next season](../2002)
+[Next Season >](2002)

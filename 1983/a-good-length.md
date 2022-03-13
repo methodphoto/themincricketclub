@@ -78,7 +78,7 @@ A Gallagher's 2nd 50
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **D Musgrave** | 2.1 | 1 | 12 |  |
+| **D Musgrave** | 2.1 | 1 | 12 | 0 |
 | **PR Smith** | 2 | 0 | 11 | 0 |
 | **S Sutherland** | 4 | 0 | 9 | 0 |
 | **S Beavis** | 1 | 0 | 0 | 0 |

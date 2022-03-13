@@ -12,6 +12,8 @@ parent: 1984 Fixtures
 
 {% include matchDetails %}
 
+P Clothier's 1st 50
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |

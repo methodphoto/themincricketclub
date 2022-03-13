@@ -12,7 +12,8 @@ parent: 1985 Fixtures
 
 {% include matchDetails %}
 
-A Gallagher's 4th 50
+A Gallagher's 4th 50<br />
+Partnership of 108 between A Gallagher and J Grant
 
 ## The Min Innings
 

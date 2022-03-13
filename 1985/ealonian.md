@@ -62,7 +62,7 @@ parent: 1985 Fixtures
 | **E Harcourt** | not out |  | 0 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (27b 8lb 0w 0nb) | **20** |
-| **Total** | | (-- overs) | 116 for 8 wkts |
+| **Total** | | (-- overs) | **116 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -75,10 +75,10 @@ parent: 1985 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Cox** | - | - | - | - |
-| **Davies** | - | - | - | - |
-| **Anderson** | - | - | - | - |
-| **Kwaja** | - | - | - | - |
+| **Cox** | - | - | - | 2 |
+| **Davies** | - | - | - | 3 |
+| **Anderson** | - | - | - | 1 |
+| **Kwaja** | - | - | - | 2 |
 
 ## Win/Loss Ratio
 
