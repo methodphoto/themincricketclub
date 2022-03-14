@@ -308,8 +308,8 @@ parent: Records
 | **1987** | Richard Beswick | v [Lobsters](../1987/lobsters) | **59** |
 | **1987** | John Packenham-Walsh | v [Godstone](../1987/godstone) | **59** |
 | **1987** | Jim Grant | v [Flying Wickets](../1987/flying-wickets) | **77** |
-| **1987** | Jim Grant | v [Crocodiles](../1987/crocodiles) | **66** |
 | **1987** | Andrew Gallagher | v [Oracle](../1987/oracle) | **55** |
+| **1987** | Jim Grant | v [Crocodiles](../1987/crocodiles) | **66** |
 | **1987** | Andrew Gallagher | v [Crocodiles](../1987/crocodiles) | **69** |
 | **1986** | Steve Foster | v [Strenue](../1986/strenue) | **53** |
 | **1986** | Mark Taylor | v [Valley End](../1986/valley-end) | **53** |
