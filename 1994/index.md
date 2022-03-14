@@ -34,4 +34,4 @@ parent: 1990s
 | 11th | 13:30 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 | 18th | 13:30 | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 
-[Next Season >](1995)
+[Next Season >](../1995)

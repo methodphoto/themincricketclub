@@ -86,4 +86,4 @@ parent: 1996 Fixtures
 |:---|:---|:---|---:|
 | 7 | 1 | 6 | 1 |
 
-[Next Season >](1997)
+[Next Season >](../1997)

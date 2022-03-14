@@ -88,4 +88,4 @@ parent: 2019 Fixtures
 |:---|:---|:---|---:|
 | 5 | 4 | 2 | 0 |
 
-[Next Season >](2020)
+[Next Season >](../2020)

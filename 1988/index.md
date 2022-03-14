@@ -39,4 +39,4 @@ parent: 1980s
 | 11th |  | [Harpenden](harpenden) | [Home](https://goo.gl/maps/fdXVhyS9CDX9VU1K9) |
 | 18th |  | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 
-[Next Season >](1989)
+[Next Season >](../1989)

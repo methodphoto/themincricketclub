@@ -12,6 +12,8 @@ parent: 1987 Fixtures
 
 {% include matchDetails %}
 
+J Packenham-Walsh's 2nd 50
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |

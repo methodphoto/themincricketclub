@@ -89,4 +89,4 @@ parent: 1995 Fixtures
 |:---|:---|:---|---:|
 | 6 | 5 | 3 | 0 |
 
-[Next Season >](1996)
+[Next Season >](../1996)

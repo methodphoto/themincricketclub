@@ -39,4 +39,4 @@ parent: 2000s
 |:---|:---|:---|:---|
 | 14th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 
-[Next Season >](2004)
+[Next Season >](../2004)

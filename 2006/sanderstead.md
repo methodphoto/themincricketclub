@@ -91,4 +91,4 @@ Partnership of 113 between M Goff and R Beswick
 |:---|:---|:---|---:|
 | 6 | 7 | 1 | 0 |
 
-[Next Season >](2007)
+[Next Season >](../2007)

@@ -12,6 +12,8 @@ parent: 1987 Fixtures
 
 {% include matchDetails %}
 
+M Taylor's 2nd 50
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

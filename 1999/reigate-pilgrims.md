@@ -89,4 +89,4 @@ parent: 1999 Fixtures
 |:---|:---|:---|---:|
 | 4 | 9 | 2 | 0 |
 
-[Next Season >](2000)
+[Next Season >](../2000)

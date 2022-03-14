@@ -89,4 +89,4 @@ Phil Bentley, first centurion
 |:---|:---|:---|---:|
 | 10 | 2 | 5 | 0 |
 
-[Next Season >](1989)
+[Next Season >](../1989)

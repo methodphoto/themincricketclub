@@ -6,10 +6,14 @@ location: Toddington Manor
 date: 12/09/1987
 report: The Min batted first and scored 186 all out. Flying Wickets were dismissed for 43 for 8 wkts (all out))
 result: The Min won by 143 runs
+next
 parent: 1987 Fixtures
 ---
 
 {% include matchDetails %}
+
+J Grant's 6th 50<br />
+E Garland's 2nd Michelle
 
 ## The Min Innings
 
@@ -62,7 +66,7 @@ parent: 1987 Fixtures
 |  |  |  |  |
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **3** |
-| **Total** | | (25.1 overs) | **43 for 8 wkts** |
+| **Total** | | (25.1 overs) | **43 for 8 wkts (all out)** |
 
 ## Fall of Wickets
 
@@ -88,4 +92,4 @@ parent: 1987 Fixtures
 |:---|:---|:---|---:|
 | 6 | 5 | 3 | 0 |
 
-[Next Season >](1988)
+[Next Season >](../1988)

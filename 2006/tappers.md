@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tappers
-game: Tappers v The Min
+game: The Min v Tappers
 location: Solefields
 date: 04/06/2006
 report: Tappers batted first and made 126 all out. The Min replied with 129 for 0 wkts

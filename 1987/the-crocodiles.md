@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Crocodiles
-game: The Min v The Crocodiles
+game: The Crocodiles v The Min
 location: Toddington
 date: 09/05/1987
 report: The Min batted first and scored 206 for 7 wkts. The Crocodiles were 115 for 8 wkts when time ran out
@@ -12,7 +12,7 @@ parent: 1987 Fixtures
 
 {% include matchDetails %}
 
-A Gallagher's 6th 50
+A Gallagher's 6th 50, J Grant's 5th 50
 
 ## The Min Innings
 

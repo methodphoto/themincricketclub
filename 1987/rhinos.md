@@ -12,6 +12,8 @@ parent: 1987 Fixtures
 
 {% include matchDetails %}
 
+R Beswick's 1st Michelle
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |

@@ -40,4 +40,4 @@ parent: 1980s
 |:---|:---|:---|:---|
 | 7th |  | [Stowting](stowting) | [Away](https://goo.gl/maps/3Br4woRQXRqh9Uje8) |
 
-[Next Season >](1987)
+[Next Season >](../1987)

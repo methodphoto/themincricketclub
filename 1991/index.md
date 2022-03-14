@@ -46,4 +46,4 @@ parent: 1990s
 | 16/09/1991 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 | 22/09/1991 | [Watton-at-Stone](watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 
-[Next Season >](1992)
+[Next Season >](../1992)

@@ -27,7 +27,7 @@ parent: 1987 Fixtures
 | **Gear** | b | R Beswick | 0 |
 | **Doughty** | run out |  | 0 |
 | **DM Chandler** | c J Grant | J Wright | 0 |
-| **Extras** | | (-b -lb -w -nb) | 6 |
+| **Extras** | | (0b 0lb 0w 0nb) | 6 |
 | **Total** | | (42 overs) | **170 all out** |
 
 ## Fall of Wickets
@@ -62,7 +62,7 @@ parent: 1987 Fixtures
 | **D Newman** | b | Doughty | 11 |
 | **G Wright** | not out |  | 0 |
 | **J Wright** | st Chapman | Doughty | 1 |
-| **Extras** | | (-b -lb -w -nb) | 2 |
+| **Extras** | | (0b 0lb 0w 0nb) | 2 |
 | **Total** | | (35 overs) | **52 all out** |
 
 ## Fall of Wickets

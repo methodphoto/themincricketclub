@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hartswood Occasionals
-game: Hartswood Occasionals v The Min
+game: The Min v Hartswood Occasionals
 location: Reigate Grammar School
 date: 25/07/1998
 report: Hartswood Occasionals batted first and made 176 for 6 wkts. The Min replied with 112 for 8 wkts

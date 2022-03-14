@@ -88,4 +88,4 @@ J Wright's 4th 5 wkt haul
 |:---|:---|:---|---:|
 | 2 | 3 | 8 | 0 |
 
-[Next Season >](2004)
+[Next Season >](../2004)
