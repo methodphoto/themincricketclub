@@ -22,7 +22,7 @@ parent: 2019 Fixtures
 | **H Lancaster** | b | P Wigg | 39 |
 | **J Moorman** | lbw | P Wigg | 0 |
 | **T Riley** | b | R Beswick | 0 |
-| **J Mumtaz** | run out | 12 |
+| **J Mumtaz** | run out |  | 12 |
 | **S Petit** | b | R Beswick | 52 |
 | **J Morris** | not out | |  |
 | **J Williams** | dnb | |
