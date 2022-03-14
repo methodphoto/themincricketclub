@@ -21,6 +21,8 @@ nav_order: 1
 |:---|:---|:---|:---|
 | 5th | 13:30 | Stowting | [TN25 6BD](https://goo.gl/maps/5KNmaMe6Wb42) |
 | 19th | 13:00 | Frensham | [GU10 3BJ](https://goo.gl/maps/4gohPpn1stdT6fnY7) |
+| 26th | 13:00 | St Anne's All Stars | Away |
+
 
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
