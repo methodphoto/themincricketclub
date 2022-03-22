@@ -71,7 +71,7 @@ parent: Records
 | **2017** | Richard Beswick | v [Newdigate](../2017/newdigate) | **74** |
 | **2017** | Richard Beswick | v [Kingstonian](../2017/kingstonian) | **59** |
 | **2016** | Richard Earney | v [Reigate Pilgrims](../2016/reigate-pilgrims) | **88** |
-| **2016** | Mohit Gupta | v [Brasted Invicta](../2016/brasted-invicta) | **50#42;** |
+| **2016** | Mohit Gupta | v [Brasted Invicta](../2016/brasted-invicta) | **50&#42;** |
 | **2016** | Richard Beswick | v [Kilmington and Stourton](../2016/kilmington-and-stourton) | **72** |
 | **2016** | Richard Beswick | v [Selling](../2016/selling) | **72** |
 | **2016** | Alf Beswick | v [Broadway and Horton](../2016/broadway-and-horton) | **55** |
