@@ -19,7 +19,7 @@ I Marshall's 7th five wkt haul
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | b | M Knowles | 8 |
-| **J Grant &#8224;** | cb | R Smith | 52 |
+| **J Grant &#8224;** | c & b | R Smith | 52 |
 | **R Earney** | c | C Ball | 4 |
 | **M Buzzacott** | c | R Smith | 50 |
 | **P Grant** | c | R Smith | 0 |

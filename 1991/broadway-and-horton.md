@@ -55,7 +55,7 @@ parent: 1991 Fixtures
 |:---|:---|---|---:|
 | **M Grabham** | c R Beswick | G Wright | 24 |
 | **G Helliar** | c J Grant | G Wright | 6 |
-| **R warr** | b | S Hornsby | 62 |
+| **R Warr** | b | S Hornsby | 62 |
 | **B Grafton** | b | R Beswick | 0 |
 | **S Wickham** | st J Grant | W Calvert | 19 |
 | **D Bridges** | c R Earney | E Garland | 5 |
