@@ -7,15 +7,6 @@ parent: Results
 
 # {{page.title}}
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
 | 2021 |  |  |
 |:---|:---|:---|
 | 25/04/2021 | [Middleton Stoney](../2021/middleton-stoney) | Lost |
