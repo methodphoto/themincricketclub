@@ -30,15 +30,15 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 **Michelles:** 5
 
 
-### Questions
-
+## Questions
 
 **How did you come to join the Min? (whether you are a founder or connected to someone)**<br />
 My wife worked with Richard Beswick and mentioned 'bowling a maiden over'
 
-**Favourite Min Moment?**
+**Favourite Min Moment?**<br />
 
 **Favourite Curry Dish?**
+Lamb Dopiaza with a Garlic Naan
 
 **Favourite Min Tea or Min Tea item?**<br />
 Egg Sandwich
