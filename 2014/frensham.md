@@ -89,7 +89,6 @@ Parnership of 133 between R Beswick and M Breddy.
 | **A Ridgers** | 2 | 0 | 39 | 0 |
 | **A Butel** | 1.3 | 0 | 1 | 1 |
 
-
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
