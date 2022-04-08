@@ -1,6 +1,7 @@
 title: "The Min CC"
 remote_theme: just-the-docs/just-the-docs
 color_scheme: "light"
+color_scheme: wider
 search_enabled: true
 email: richard@method.co.uk
 baseurl: "/" # the subpath of your site, e.g. /blog
