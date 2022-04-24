@@ -4,94 +4,89 @@ title: Middleton Stoney
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 24/04/2022
-report: 
-result: 
-next: 
+report: The Min won the toss and inserted Middleton Stoney who made 225 for 3 wkts. The Min replied with 149 for 9 wkts
+result: Match Drawn
 parent: 2022 Fixtures
 ---
 
 {% include matchDetails %}
 
-[Match Report](https://www.middletonstoneycc.co.uk/club-news/2022/mscc-v-the-min-2022/)
+## {{page.title}} Innings
+
+| Batsman | Dismissal | | Runs |
+|:---|:---|---|---:|
+| **T Riley &#42; &#8224;** | c R Earney | I Matvid | 20 |
+| **H Way** | not out |  | 113 |
+| **J Mumtaz** | st J Grant | I Miah | 26 |
+| **M Ford-Langstaff** | lbw | I Matvid | 2 |
+| **B Breaker** | not out |  | 23 |
+| **T House** | dnb |  |  |
+| **S Jackson** | dnb |  |  |
+| **M Simpson** | dnb |  |  |
+| **M Nalborczyk** | dnb |  |  |
+| **M Dipple** | dnb |  |  |
+| **A Kamal** | dnb | |  |
+| **Extras** | | (4b 3lb 5w 5nb 5p) | **21** |
+| **Total** | | (43 overs) | **225 for 3 wkts** |
+
+
+## Fall of Wickets
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Score** |  |  |  |  |  |  |  |  |  |  |
+| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+
+## Bowling
+
+| | O | M | R | W |
+|---|:---|:---|:---|:---|
+| **P Wigg** | 8 | 0 | 27 | 0 |
+| **J Casey** | 8 | 1 | 31 | 0 |
+| **I Matvid** | 11 | 2 | 47 | 2 |
+| **J Gorner** | 4 | 0 | 35 | 0 |
+| **I Miah** | 10 | 0 | 50 | 1 |
+| **J Carroll** | 2 | 0 | 13 | 0 |
 
 ## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **J Carroll** | b | M Dipple | 28 |
-| **R Earney** | b | M Dipple | 4 |
-| **A Venkatasamy** | c & b | S Shah | 17 |
-| **R Damaze** | lbw | M Dipple | 2 |
-| **A Beswick** | c A Morris  | M Simpson | 19 |
-| **I Matvad** | b | M Simpson | 23 |
-| **S Amin** | lbw | J Morris | 18 |
-| **I Miah** | not out |  | 37 |
-| **J Stimfig** | b | M Simpson | 7 |
-| **R Beswick &#42;** | lbw | M Dipple | 5 |
-| **J Grant &#8224;** | not out |  | 0 |
-| **Extras** | | (2b 3lb 3w 4nb) | **12** |
-| **Total** | | (41 overs) | **172 for 9 wkts** |
+| **R Earney** | b | A Kamal | 5 |
+| **J Carroll** | c T Riley | M Simpson | 47 |
+| **A Venkatasamy** | b | M Nalborczyk | 19 |
+| **R Damaze** | lbw | M Simpson | 22 |
+| **A Beswick** | b | M Simpson | 2 |
+| **I Matvad** | b | M Dipple | 0 |
+| **S Amin** | b | S Jackson | 21 |
+| **I Miah** | lbw | M Simpson | 2 |
+| **J Stimfig** | not out |  | 1 |
+| **R Beswick &#42;** | b | S Jackson | 4 |
+| **J Grant &#8224;** | dnb |  |  |
+| **Extras** | | (20b 2lb 1w 3nb 0p) | **26** |
+| **Total** | | (41 overs) | **149 for 9 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 13 | 68 | 99 | 108 | 109 | 129 | 131 | 145 | 149 |  |
+| **Batsman** | 1 | 3 | 2 | 5 | 6 |  | 8 | 7 | 10 |  | 
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **M Dipple** | 12 | 2 | 36 | 4 |
-| **R Barton** | 6 | 1 | 34 | 0 |
-| **M Simpson** | 10 | 0 | 34 | 3 |
-| **S Shah** | 5 | 1 | 30 | 1 |
-| **J Morris** | 4 | 0 | 14 | 1 |
-| **T Riley** | 4 | 1 | 14 | 0 |
-
-## {{page.title}} Innings
-
-| Batsman | Dismissal | | Runs |
-|:---|:---|---|---:|
-| **N Moorman** | not out |  | 104 |
-| **M Ford-Langstaff &#8224;** | b | R Beswick | 0 |
-| **T House** | b | I Matvad | 1 |
-| **J Lumb** | lbw | R Beswick | 0 |
-| **R Barton** | c R Earney | I Miah | 9 |
-| **T Riley &#42;** | not out |  | 53 |
-| **M Simpson** | dnb |  |  |
-| **S Shah** | dnb |  |  |
-| **J Morris** | dnb |  |  |
-| **R Morris &#8224;** | dnb |  |  |
-| **M Dipple** | dnb | |  |
-| **Extras** | | (3b 2lb 4w 1nb) | **10** |
-| **Total** | | (37.2 overs) | **177 for 4 wkts** |
-
-
-## Fall of Wickets
-
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
-
-## Bowling
-
-| | O | M | R | W |
-|---|:---|:---|:---|:---|
-| **I Matvad** | 8 | 2 | 17 | 1 |
-| **R Beswick** | 5.2 | 0 | 32 | 2 |
-| **J Carroll** | 8 | 1 | 37 | 0 |
-| **I Miah** | 5 | 1 | 21 | 1 |
-| **A Beswick** | 5 | 0 | 34 | 0 |
-| **S Amin** | 3 | 0 | 17 | 0 |
-| **R Earney** | 3 | 0 | 19 | 0 |
+| **M Dipple** | 10 | 1 | 37 | 1 |
+| **A Kamal** | 5 | 2 | 20 | 1 |
+| **T House** | 5 | 0 | 18 | 3 |
+| **M Nalborczyk** | 7 | 1 | 14 | 1 |
+| **M Simpson** | 8 | 0 | 22 | 4 |
+| **H Way** | 1 | 0 | 6 | 0 |
+| **S Jackson** | 1 | 0 | 7 | 2 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 0 | 0 | 0 | 0 |
-
-{% include nextGame %}
+| 0 | 0 | 1 | 0 |
