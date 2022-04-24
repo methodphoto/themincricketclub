@@ -54,14 +54,14 @@ parent: 2022 Fixtures
 |:---|:---|---|---:|
 | **R Earney** | b | A Kamal | 5 |
 | **J Carroll** | c T Riley | M Simpson | 47 |
-| **A Venkatasamy** | b | M Nalborczyk | 19 |
-| **R Damaze** | lbw | M Simpson | 22 |
-| **A Beswick** | b | M Simpson | 2 |
-| **I Matvad** | b | M Dipple | 0 |
-| **S Amin** | b | S Jackson | 21 |
+| **R Beswick &#42;** | b | M Nalborczyk | 19 |
+| **J Gorner** | lbw | M Simpson | 22 |
+| **R Damaze** | b | M Simpson | 2 |
+| **A Beswick** | b | M Dipple | 0 |
+| **I Matvid** | b | S Jackson | 21 |
 | **I Miah** | lbw | M Simpson | 2 |
-| **J Stimfig** | not out |  | 1 |
-| **R Beswick &#42;** | b | S Jackson | 4 |
+| **P Wigg** | not out |  | 1 |
+| **J Casey** | b | S Jackson | 4 |
 | **J Grant &#8224;** | dnb |  |  |
 | **Extras** | | (20b 2lb 1w 3nb 0p) | **26** |
 | **Total** | | (41 overs) | **149 for 9 wkts** |
