@@ -17,10 +17,10 @@ parent: 2022 Fixtures
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **T Riley &#42; &#8224;** | c R Earney | I Matvid | 20 |
+| **T Riley &#42; &#8224;** | c R Earney | I Matvad | 20 |
 | **H Way** | not out |  | 113 |
 | **J Mumtaz** | st J Grant | I Miah | 26 |
-| **M Ford-Langstaff** | lbw | I Matvid | 2 |
+| **M Ford-Langstaff** | lbw | I Matvad | 2 |
 | **B Breaker** | not out |  | 23 |
 | **T House** | dnb |  |  |
 | **S Jackson** | dnb |  |  |
@@ -45,7 +45,7 @@ parent: 2022 Fixtures
 |---|:---|:---|:---|:---|
 | **P Wigg** | 8 | 0 | 27 | 0 |
 | **J Casey** | 8 | 1 | 31 | 0 |
-| **I Matvid** | 11 | 2 | 32 | 2 |
+| **I Matvad** | 11 | 2 | 32 | 2 |
 | **J Gorner** | 4 | 0 | 35 | 0 |
 | **I Miah** | 10 | 0 | 56 | 1 |
 | **J Carroll** | 2 | 0 | 13 | 0 |
@@ -60,7 +60,7 @@ parent: 2022 Fixtures
 | **J Gorner** | lbw | M Simpson | 23 |
 | **R Damaze** | b | M Simpson | 2 |
 | **A Beswick** | b | M Dipple | 0 |
-| **I Matvid** | b | S Jackson | 21 |
+| **I Matvad** | b | S Jackson | 21 |
 | **I Miah** | lbw | M Simpson | 2 |
 | **P Wigg** | not out |  | 1 |
 | **J Casey** | b | S Jackson | 4 |

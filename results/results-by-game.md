@@ -9,6 +9,10 @@ parent: Results
 
 | 2021 |  |  |
 |:---|:---|:---|
+| 24/04/2021 | [Middleton Stoney](../2022/middleton-stoney) | Drawn |
+
+| 2021 |  |  |
+|:---|:---|:---|
 | 25/04/2021 | [Middleton Stoney](../2021/middleton-stoney) | Lost |
 | 23/05/2021 | [Newington](../2021/newington) | **Won** |
 | 06/06/2021 | [Bricklayer's Arms](../2021/bricklayers-arms) | Lost |

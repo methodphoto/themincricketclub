@@ -16,7 +16,7 @@ parent: Results
 | **Ashes Matches** | 23 | 14 | 8 | 1 | 0 | 60.87 | 6 |
 | **Stowting** | 23 | 8 | 4 | 11 | 0 | 34.78 | 4 |
 | **Selling** | 16 | 8 | 8 | 0 | 0 | 50.00 | 0 |
-| **Middleton Stoney** | 11 | 3 | 3 | 5 | 0 | 27.27 | 0 |
+| **Middleton Stoney** | 12 | 3 | 3 | 6 | 0 | 25.00 | 0 |
 | **Newington** | 10 | 6 | 4 | 0 | 0 | 60.00 | 2 |
 | **Frensham** | 7 | 5 | 1 | 1 | 0 | 71.43 | 4 |
 | **Blagdon Hill** | 6 | 2 | 4 | 0 | 0 | 33.33 | -2 |
