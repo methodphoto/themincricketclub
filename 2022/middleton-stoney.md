@@ -11,6 +11,8 @@ parent: 2022 Fixtures
 
 {% include matchDetails %}
 
+[Match Report](https://www.middletonstoneycc.co.uk/club-news/2022/mscc-v-the-min-2022/)
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
