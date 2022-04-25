@@ -43,9 +43,9 @@ parent: 2022 Fixtures
 |---|:---|:---|:---|:---|
 | **P Wigg** | 8 | 0 | 27 | 0 |
 | **J Casey** | 8 | 1 | 31 | 0 |
-| **I Matvid** | 11 | 2 | 47 | 2 |
+| **I Matvid** | 11 | 2 | 32 | 2 |
 | **J Gorner** | 4 | 0 | 35 | 0 |
-| **I Miah** | 10 | 0 | 50 | 1 |
+| **I Miah** | 10 | 0 | 56 | 1 |
 | **J Carroll** | 2 | 0 | 13 | 0 |
 
 ## The Min Innings
