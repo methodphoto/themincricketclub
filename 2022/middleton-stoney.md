@@ -53,9 +53,9 @@ parent: 2022 Fixtures
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **R Earney** | b | A Kamal | 5 |
-| **J Carroll** | c T Riley | M Simpson | 47 |
+| **J Carroll** | c T Riley | M Simpson | 46 |
 | **R Beswick &#42;** | b | M Nalborczyk | 19 |
-| **J Gorner** | lbw | M Simpson | 22 |
+| **J Gorner** | lbw | M Simpson | 23 |
 | **R Damaze** | b | M Simpson | 2 |
 | **A Beswick** | b | M Dipple | 0 |
 | **I Matvid** | b | S Jackson | 21 |
@@ -63,14 +63,14 @@ parent: 2022 Fixtures
 | **P Wigg** | not out |  | 1 |
 | **J Casey** | b | S Jackson | 4 |
 | **J Grant &#8224;** | dnb |  |  |
-| **Extras** | | (20b 2lb 1w 3nb 0p) | **26** |
-| **Total** | | (41 overs) | **149 for 9 wkts** |
+| **Extras** | | (22b 2lb 1w 3nb 0p) | **28** |
+| **Total** | | (41 overs) | **151 for 9 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 13 | 68 | 99 | 108 | 109 | 129 | 131 | 145 | 149 |  |
+| **Score** | 13 | 68 | 101 | 110 | 111 | 131 | 133 | 146 | 151 |  |
 | **Batsman** | 1 | 3 | 2 | 5 | 6 | 4 | 8 | 7 | 10 |  | 
 
 ## Bowling
@@ -81,7 +81,7 @@ parent: 2022 Fixtures
 | **A Kamal** | 5 | 2 | 20 | 1 |
 | **T House** | 5 | 0 | 18 | 3 |
 | **M Nalborczyk** | 7 | 1 | 14 | 1 |
-| **M Simpson** | 8 | 0 | 22 | 4 |
+| **M Simpson** | 8 | 0 | 25 | 4 |
 | **H Way** | 1 | 0 | 6 | 0 |
 | **S Jackson** | 1 | 0 | 7 | 2 |
 
