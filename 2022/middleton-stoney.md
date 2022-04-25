@@ -4,7 +4,7 @@ title: Middleton Stoney
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 24/04/2022
-report: The Min won the toss and inserted Middleton Stoney who made 225 for 3 wkts. The Min replied with 149 for 9 wkts
+report: The Min won the toss and inserted Middleton Stoney who made 205 for 3 wkts. The Min replied with 149 for 9 wkts
 result: Match Drawn
 parent: 2022 Fixtures
 ---
@@ -29,7 +29,7 @@ parent: 2022 Fixtures
 | **M Dipple** | dnb |  |  |
 | **A Kamal** | dnb | |  |
 | **Extras** | | (4b 3lb 5w 5nb 5p) | **21** |
-| **Total** | | (43 overs) | **225 for 3 wkts** |
+| **Total** | | (43 overs) | **205 for 3 wkts** |
 
 
 ## Fall of Wickets
