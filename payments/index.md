@@ -20,8 +20,9 @@ nav_order: 110
 
 [2022 Full Tour Fee](https://square.link/u/SjyXoAnM)
 
+---
 
-#### Stripe Links
+### Stripe Links
 
 (Use the Square links if possible)
 
@@ -31,7 +32,7 @@ nav_order: 110
 
 [2022 Season + Match Fee](https://buy.stripe.com/00gcNqcEUdvle0UaEG)
 
-##### Tour
+#### Tour
 
 [2022 Tour Match Fee](https://buy.stripe.com/aEU00EawM4YP9KE004)
 
