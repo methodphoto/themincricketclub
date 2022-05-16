@@ -67,7 +67,7 @@ parent: 2022 Fixtures
 | **J Casey** | b | S Jackson | 4 |
 | **J Grant &#8224;** | dnb |  |  |
 | **Extras** | | (22b 2lb 1w 3nb 0p) | **28** |
-| **Total** | | (41 overs) | **151 for 9 wkts** |
+| **Total** | | (37 overs) | **151 for 9 wkts** |
 
 ## Fall of Wickets
 
