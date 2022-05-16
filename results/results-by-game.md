@@ -9,7 +9,8 @@ parent: Results
 
 | 2021 |  |  |
 |:---|:---|:---|
-| 24/04/2021 | [Middleton Stoney](../2022/middleton-stoney) | Drawn |
+| 15/05/2022 | [Bricklayer's Arms](../2022/bricklayers-arms) | Lost |
+| 24/04/2022 | [Middleton Stoney](../2022/middleton-stoney) | Drawn |
 
 | 2021 |  |  |
 |:---|:---|:---|

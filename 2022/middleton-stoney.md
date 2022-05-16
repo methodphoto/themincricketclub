@@ -6,6 +6,7 @@ location: Middleton Park
 date: 24/04/2022
 report: The Min won the toss and inserted Middleton Stoney who made 205 for 3 wkts. The Min replied with 149 for 9 wkts
 result: Match Drawn
+next: bricklayers-arms
 parent: 2022 Fixtures
 ---
 
@@ -92,3 +93,5 @@ parent: 2022 Fixtures
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
+
+{% include nextGame %}
