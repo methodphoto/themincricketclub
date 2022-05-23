@@ -45,6 +45,7 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2022** | J Stacey | v [Newington](..2022/newington) | **85&#42;** |
 | **2022** | J Carroll | v [Bricklayer's Arms](..2022/bricklayers-arms) | **71** |
 | **2021** | R Damaze | v [Wandering Maniacs](..2021/wandering-maniacs) | **59** |
 | **2021** | R Beswick | v [Banstead](..2021/banstead) | **61** |

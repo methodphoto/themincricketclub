@@ -60,6 +60,7 @@ parent: Records
 | **1985** | A Gallagher (85) and J Grant (31) | [Artisans](../1985/artisans) | **108** |
 | **2012** | R Earney (89&#42;) and Tom Rutherford (42) | [Newington](../2012/newington) | **108** |
 | **2011** | R Beswick (79) and A Slight (46) | [Broadway and Horton](../2011/broadway-and-horton) | **107** |
+| **2022** | J Stacey (85) and R Earney (35) | [Newington](../2022/newington) | **106** |
 | **1985** | J Grant (73) and A Fielding (58) | [Koh-i-noor](../1985/koh-i-noor) | **106** |
 | **1988** | A Gallagher (71&#42;) and A MacFarlane (44) | [South Nutfield](../1988/south-nutfield) | **106** |
 | **2007** | R Earney (54) and S Barrowcliff (42) | [Britwell Salome](../2007/britwell-salome) | **105** |
