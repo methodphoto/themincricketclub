@@ -15,7 +15,7 @@ nav_order: 1
 | May |  |  |  |
 |:---|:---|:---|:---|
 | 15th | 13:30 | [Bricklayer's Arms](2022/bricklayers-arms) | [SW19 3BP](https://goo.gl/maps/PMzZkRR9hcDF5ZGHA) | 🥪 |
-| 22th | 13:30 | [Newington](2022/newington) | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) |
+| 22th | 13:30 | [Newington](2022/newington) | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) | 🥪 |
 
 | June |  |  |  |
 |:---|:---|:---|:---|
