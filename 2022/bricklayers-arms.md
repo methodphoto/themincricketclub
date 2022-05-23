@@ -6,6 +6,7 @@ location: Abbey Recreation Ground, Merton
 date: 15/05/2022
 report: Bricklayer's Arms won the toss and inserted The Min who made 166 all out in 34.5 overs. Bricklayer's Arms replied with 170 for 5 wkts
 result: Bricklayer's Arms won by 5 wkts
+next: newington
 parent: 2022 Fixtures
 ---
 
@@ -92,3 +93,5 @@ J Carroll's 3rd 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |
+
+{% include nextGame %}
