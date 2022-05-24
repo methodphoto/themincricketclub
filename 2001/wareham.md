@@ -13,7 +13,7 @@ parent: 2001 Fixtures
 {% include matchDetails %}
 
 R Earney's 2nd Century.<br />
-Partnership of 151 between R Earney and R Beswick
+[Partnership](../records/partnerships) of 151 between R Earney and R Beswick
 
 ## The Min Innings
 

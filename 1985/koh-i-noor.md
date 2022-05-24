@@ -13,7 +13,7 @@ parent: 1985 Fixtures
 {% include matchDetails %}
 
 J Grant's 2nd 50. A Fielding's 1st 50.<br />
-Partnership of 106 between J Grant and A Fielding
+[Partnership](../records/partnerships) of 106 between J Grant and A Fielding
 
 ## The Min Innings
 

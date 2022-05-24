@@ -12,7 +12,7 @@ parent: 2000 Fixtures
 
 {% include matchDetails %}
 
-Partnership of 116 between R Earney and R Beswick
+[Partnership](../records/partnerships) of 116 between R Earney and R Beswick
 
 ## {{page.title}} Innings
 

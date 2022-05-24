@@ -12,7 +12,7 @@ parent: 1997 Fixtures
 
 {% include matchDetails %}
 
-Partnership  of 102 between J Grant and P Sayer
+[Partnership](../records/partnerships)  of 102 between J Grant and P Sayer
 
 ## The Min Innings
 

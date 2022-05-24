@@ -13,7 +13,7 @@ parent: 1996 Fixtures
 {% include matchDetails %}
 
 R Beswick best bowling<br />
-Partnership of 109 between J Grant and D Swann
+[Partnership](../records/partnerships) of 109 between J Grant and D Swann
 
 ## {{page.title}} Innings
 

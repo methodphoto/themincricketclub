@@ -13,7 +13,7 @@ parent: 1995 Fixtures
 {% include matchDetails %}
 
 D Powell 106. Partnership of 106 between D Powell and S Wombwell<br />
-Partnership of 129 between S Barrowcliff and R Beswick
+[Partnership](../records/partnerships) of 129 between S Barrowcliff and R Beswick
 
 ## {{page.title}} Innings
 

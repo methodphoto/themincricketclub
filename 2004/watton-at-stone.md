@@ -13,7 +13,7 @@ parent: 2004 Fixtures
 {% include matchDetails %}
 
 R Beswick's 15th 50. H Ingham's first 50.<br />
-Partnership of 186 between R Beswick and H Ingham. Highest Min Partnership.
+[Partnership](../records/partnerships) of 186 between R Beswick and H Ingham. Highest Min Partnership.
 
 ## {{page.title}} Innings
 

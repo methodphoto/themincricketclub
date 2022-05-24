@@ -13,7 +13,7 @@ parent: 2013 Fixtures
 {% include matchDetails %}
 
 R Damaze's 1st hundred and highest score. <br /> 
-Partnership of 113 between R Damaze and M Elwin
+[Partnership](../records/partnerships) of 113 between R Damaze and M Elwin
 
 ## {{page.title}} Innings
 

@@ -13,7 +13,7 @@ parent: 2004 Fixtures
 {% include matchDetails %}
 
 R Earney's 24th 50. R Beswick's 16th 50.<br />
-Partnership of 126 between R Earney and R Beswick
+[Partnership](../records/partnerships) of 126 between R Earney and R Beswick
 
 ## {{page.title}} Innings
 

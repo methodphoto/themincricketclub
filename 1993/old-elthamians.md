@@ -13,7 +13,7 @@ parent: 1993 Fixtures
 {% include matchDetails %}
 
 S Barrowcliff first Min century.<br />
-Partnership of 135 between S Barrowcliff and W Wright
+[Partnership](../records/partnerships) of 135 between S Barrowcliff and W Wright
 
 ## {{page.title}} Innings
 

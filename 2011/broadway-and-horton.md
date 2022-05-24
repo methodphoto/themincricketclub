@@ -13,7 +13,7 @@ parent: 2011 Fixtures
 {% include matchDetails %}
 
 R Beswick's 24th 50<br />
-Partnership of 107 between R Beswick and A Slight
+[Partnership](../records/partnerships) of 107 between R Beswick and A Slight
 
 ## The Min Innings
 

@@ -13,7 +13,7 @@ parent: 2006 Fixtures
 {% include matchDetails %}
 
 R Earney's 32nd 50. R Beswick's 19th 50. <br />
-Partnership of 135 between R Earney and R Beswick
+[Partnership](../records/partnerships) of 135 between R Earney and R Beswick
 
 <img src="broadway2006.jpg" width="100%" alt="Winning the Ashes" />
 

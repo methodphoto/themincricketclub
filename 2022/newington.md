@@ -12,7 +12,7 @@ parent: 2022 Fixtures
 {% include matchDetails %}
 
 J Stacey's 2nd 50 and highest score. Amazing catch by A Beswick.<br />
-Partnership of 106 between J Stacey and R Earney
+[Partnership](../records/partnerships) of 106 between J Stacey and R Earney
 
 ## The Min Innings
 

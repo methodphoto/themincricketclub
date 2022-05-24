@@ -11,7 +11,7 @@ parent: 1994 Fixtures
 
 {% include matchDetails %}
 
-Partnership of 109 between M Tipper and W Emsley
+[Partnership](../records/partnerships) of 109 between M Tipper and W Emsley
 
 ## Watton-at-Stone  Innings
 

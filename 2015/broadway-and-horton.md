@@ -13,7 +13,7 @@ parent: 2015 Fixtures
 {% include matchDetails %}
 
 R Beswick's 29th 50. R Earney's 47th 50.<br />
-Partnership of 122 between R Beswick and R Earney
+[Partnership](../records/partnerships) of 122 between R Beswick and R Earney
 
 ## The Min Innings
 

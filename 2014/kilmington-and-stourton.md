@@ -11,7 +11,7 @@ parent: 2014 Fixtures
 
 {% include matchDetails %}
 
-Partnership of 115 between R Beswick and R Earney
+[Partnership](../records/partnerships) of 115 between R Beswick and R Earney
 
 ## {{page.title}} Innings
 

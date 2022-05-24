@@ -13,7 +13,7 @@ parent: 2010 Fixtures
 {% include matchDetails %}
 
 T Hammond's 2nd 50.<br />
-Partnership of 109 between T Hammond and M Gupta
+[Partnership](../records/partnerships) of 109 between T Hammond and M Gupta
 
 ## The Min Innings
 

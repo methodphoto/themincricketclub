@@ -12,7 +12,7 @@ parent: 2006 Fixtures
 {% include matchDetails %}
 
 M Goff's 5th 50.<br />
-Partnership of 113 between M Goff and R Beswick
+[Partnership](../records/partnerships) of 113 between M Goff and R Beswick
 
 ## The Min Innings
 

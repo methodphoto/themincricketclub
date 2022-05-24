@@ -13,7 +13,7 @@ parent: 2012 Fixtures
 {% include matchDetails %}
 
 R Earney's 43rd 50.<br />
-Partnership of 112 between M.Goff and R.Earney in 93 mins
+[Partnership](../records/partnerships) of 112 between M.Goff and R.Earney in 93 mins
 
 <img src="/2012/middleton_stoney.jpg" width="100%" alt="The pot of Min gold" />
 

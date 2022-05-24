@@ -12,7 +12,7 @@ parent: 2014 Fixtures
 {% include matchDetails %}
 
 R Earney's 45th 50. S Hornsby's 13th 50.<br />
-Partnership of 112 between R Earney and S Hornsby
+[Partnership](../records/partnerships) of 112 between R Earney and S Hornsby
 
 ## {{page.title}} Innings
 

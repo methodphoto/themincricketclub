@@ -13,7 +13,7 @@ parent: 2006 Fixtures
 {% include matchDetails %}
 
 R Earney's 7th century. M Goff's 1st century.<br />
-Partnership of 179 between R Earney and M Goff.
+[Partnership](../records/partnerships) of 179 between R Earney and M Goff.
 
 ## The Min Innings
 

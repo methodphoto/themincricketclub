@@ -14,7 +14,7 @@ parent: 2015 Fixtures
 
 J Wright's 500th Dismissal.<br />
 S Hornsby's 16th 50. R Earney's 49th 50.<br />
-Partnership of 155 between S Hornsby and R Earney
+[Partnership](../records/partnerships) of 155 between S Hornsby and R Earney
 
 ## {{page.title}} Innings
 

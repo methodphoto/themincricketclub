@@ -12,8 +12,8 @@ parent: 1995 Fixtures
 
 {% include matchDetails %}
 
-Partnership of 103 between G Fenn and W Jones<br />
-Partnership of 108 between E Garland and P Bentley
+[Partnership](../records/partnerships) of 103 between G Fenn and W Jones<br />
+[Partnership](../records/partnerships) of 108 between E Garland and P Bentley
 
 ## Hetairoi Innings
 

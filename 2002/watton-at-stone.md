@@ -13,7 +13,7 @@ parent: 2002 Fixtures
 {% include matchDetails %}
 
 R Earney's third century for The Min.<br />
-Partnership of 158 between R Earney and R Kitson
+[Partnership](../records/partnerships) of 158 between R Earney and R Kitson
 
 ## The Min Innings
 

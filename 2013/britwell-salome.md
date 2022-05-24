@@ -13,7 +13,7 @@ parent: 2013 Fixtures
 {% include matchDetails %}
 
 S Hornsby's 4th 100. R Beswick's 26th 50.<br />
-Partnership of 133 between S Hornsby and R Beswick
+[Partnership](../records/partnerships) of 133 between S Hornsby and R Beswick
 
 ## The Min Innings
 

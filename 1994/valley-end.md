@@ -12,7 +12,7 @@ parent: 1994 Fixtures
 
 {% include matchDetails %}
 
-Partnership of 133 for Valley End between M Aggar and Chadwich 
+[Partnership](../records/partnerships) of 133 for Valley End between M Aggar and Chadwich 
 
 ## {{page.title}} Innings
 

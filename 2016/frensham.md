@@ -13,7 +13,7 @@ parent: 2016 Fixtures
 {% include matchDetails %}
 
 S Habib's 2nd 50. J Grant 4 stumpings in an innings.<br />
-Partnership of 140 between S Habib and W Calvert
+[Partnership](../records/partnerships) of 140 between S Habib and W Calvert
 
 ## The Min Innings
 

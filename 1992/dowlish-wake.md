@@ -13,7 +13,7 @@ parent: 1992 Fixtures
 {% include matchDetails %}
 
 I Marshall first century.<br />
-Partnership of 160 between I Marshall and S Barrowcliff
+[Partnership](../records/partnerships) of 160 between I Marshall and S Barrowcliff
 
 ## The Min Innings
 

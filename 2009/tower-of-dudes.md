@@ -13,7 +13,7 @@ parent: 2009 Fixtures
 {% include matchDetails %}
 
 R Earney's 38th 50. M Gupta's 6th 50.<br />
-Partnership of 179&#42; between R Earney and M Gupta
+[Partnership](../records/partnerships) of 179&#42; between R Earney and M Gupta
 
 ## {{page.title}} Innings
 

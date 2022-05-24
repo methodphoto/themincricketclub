@@ -13,7 +13,7 @@ parent: 1982 Fixtures
 {% include matchDetails %}
 
 JBooth's 1st 50<br />
-Partnership of 100 between J Booth and D Mundy
+[Partnership](../records/partnerships) of 100 between J Booth and D Mundy
 
 ## The Min Innings
 

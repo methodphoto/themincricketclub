@@ -15,7 +15,7 @@ parent: 2006 Fixtures
 ## {{page.title}} Innings
 
 J Wright's 6th Michelle and best bowling. R Earney's 31st 50.<br />
-Partnership of 129 between R Earney and M Goff
+[Partnership](../records/partnerships) of 129 between R Earney and M Goff
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

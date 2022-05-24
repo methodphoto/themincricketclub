@@ -13,7 +13,7 @@ parent: 1996 Fixtures
 {% include matchDetails %}
 
 J Hylton first hundred.<br />
-Partnership of 102 between J Hylton and R Beswick
+[Partnership](../records/partnerships) of 102 between J Hylton and R Beswick
 
 ## The Min Innings
 

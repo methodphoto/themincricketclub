@@ -13,7 +13,7 @@ parent: 2005 Fixtures
 {% include matchDetails %}
 
 R Earney's 26th 50. M Goff's 3rd 50.<br />
-Partnership of 140 between R Earney and M Goff
+[Partnership](../records/partnerships) of 140 between R Earney and M Goff
 
 ## {{page.title}} Innings
 

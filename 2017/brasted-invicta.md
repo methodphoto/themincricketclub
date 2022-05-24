@@ -13,7 +13,7 @@ parent: 2017 Fixtures
 {% include matchDetails %}
 
 S Hornsby's 17th 50. R Damaze's 2nd 50.<br />
-Partnership of 111 between S Hornsby and R Damaze
+[Partnership](../records/partnerships) of 111 between S Hornsby and R Damaze
 
 S Amin best bowling for The Min.
 

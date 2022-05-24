@@ -13,7 +13,7 @@ parent: 1997 Fixtures
 {% include matchDetails %}
 
 J Grant's highest score for The Min.<br />
-Partnership of 116 between J Grant and J Hylton. 
+[Partnership](../records/partnerships) of 116 between J Grant and J Hylton. 
 
 ## The Min Innings
 

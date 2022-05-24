@@ -13,7 +13,7 @@ parent: 2017 Fixtures
 {% include matchDetails %}
 
 M Gupta's 1st 100.<br />
-Partnership of 101 between M Gupta and S Hornsby
+[Partnership](../records/partnerships) of 101 between M Gupta and S Hornsby
 
 ## {{page.title}} Innings
 

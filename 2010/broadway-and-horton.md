@@ -13,7 +13,7 @@ parent: 2010 Fixtures
 {% include matchDetails %}
 
 T Hammond 1st 100. W Calvert's 8th 50.<br />
-Partnership of 172 between T Hammond and W Calvert
+[Partnership](../records/partnerships) of 172 between T Hammond and W Calvert
 
 ## The Min Innings
 

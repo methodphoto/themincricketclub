@@ -13,7 +13,7 @@ parent: 2012 Fixtures
 {% include matchDetails %}
 
 R Earney's 43rd 50.<br />
-Partnership of 108 between R Earney and T Rutherford
+[Partnership](../records/partnerships) of 108 between R Earney and T Rutherford
 
 ## {{page.title}} Innings
 

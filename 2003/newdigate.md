@@ -12,7 +12,7 @@ parent: 2003 Fixtures
 
 {% include matchDetails %}
 
-Partnership of 134 between R Beswick and J Grant
+[Partnership](../records/partnerships) of 134 between R Beswick and J Grant
 
 ## The Min Innings
 

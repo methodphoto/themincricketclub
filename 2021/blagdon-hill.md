@@ -13,7 +13,7 @@ parent: 2021 Fixtures
 {% include matchDetails %}
 
 M Goff's 8th 50. J Carroll's 2nd 50.<br />
-Partnership of 128 between M Goff and J Carroll
+[Partnership](../records/partnerships) of 128 between M Goff and J Carroll
 
 J Carroll, 2nd 50 and a hattrick (over two overs)
 

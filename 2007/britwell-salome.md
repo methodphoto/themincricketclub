@@ -13,7 +13,7 @@ parent: 2007 Fixtures
 {% include matchDetails %}
 
 R Earney's 34th 50.<br />
-Partnership of 105 between R Earney and S Barrowcliff
+[Partnership](../records/partnerships) of 105 between R Earney and S Barrowcliff
 
 <img src="britwell-team.jpg" width="100%" alt="Team against Britwell" />
 
