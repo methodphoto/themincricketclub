@@ -20,7 +20,7 @@ J Stacey's 2nd 50 and highest score. Amazing catch by A Beswick.<br />
 |:---|:---|---|---:|
 | **R Beswick &#42;** | c D Patel | AS Rasheed | 33 |
 | **W Calvert &#8224;** | b | T Bond | 0 |
-| **A Beswick** | run out |  | 35 |
+| **A Beswick** | run out (O Palmer) |  | 35 |
 | **I Strawson** | c L Morgan | D Patel | 18 |
 | **J Stacey** | not out |  | 85 |
 | **R Earney** | not out |  | 35 |

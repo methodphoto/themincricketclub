@@ -19,7 +19,7 @@ Jim Carroll, 1st 50 and highest score for The Min
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **T Jiminez &#8224;** | b | J Casey | 21 |
-| **D Palmer** | c J Casey | P Wigg | 25 |
+| **O Palmer** | c J Casey | P Wigg | 25 |
 | **A Clark** | b | P Wigg | 1 |
 | **C Knight** | c J Carroll | C Wright | 13 |
 | **A Mackenzie** | c W Calvert  | C Wright | 22 |
