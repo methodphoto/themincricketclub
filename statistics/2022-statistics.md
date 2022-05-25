@@ -101,7 +101,7 @@ parent: Statistics
 
 ## Career Batting
 
-| Player | O | M | Runs | Wkts | Ave | SR |
+| Player | Matches | Inns | NO | Runs | Ave |
 |:--|:--|:--|:--|:--|:--|
 | **Richard Earney** | 367 | 358 | 30 | 9339 | 28.47 |
 | **Richard Beswick** | 496 | 443 | 66 | 8135 | 21.58 |
@@ -150,7 +150,7 @@ parent: Statistics
 
 ## Career Batting (by ave)
 
-| Player | O | M | Runs | Wkts | Ave | SR |
+| Player | Matches | Inns | NO | Runs | Ave |
 |:--|:--|:--|:--|:--|:--|
 | **James Hylton** | 9 | 8 | 2 | 542 | 90.33 |
 | **David Swann** | 21 | 20 | 5 | 755 | 50.33 |
@@ -199,7 +199,7 @@ parent: Statistics
 
 ## Career Bowling
 
-| Player | O | M | Runs | Wkts | Ave | SR |
+| Player | M | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
 | **Jerry Wright** | 378 | 2662.5 | 350 | 10494 | 534 | 19.65 | 29.92 |
 | **Richard Beswick** | 496 | 2169.2 | 451 | 8031 | 445 | 18.05 | 29.25 |
@@ -232,7 +232,7 @@ parent: Statistics
 
 ## Career Bowling (by ave)
 
-| Player | O | M | Runs | Wkts | Ave | SR |
+| Player | M | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
 | **Tony Purves** | 18 | 111.8 | 14 | 488 | 36 | 13.56 | 18.63 |
 | **Andrew MacFarlane** | 34 | 357.2 | 70 | 1041 | 68 | 15.31 | 31.52 |
