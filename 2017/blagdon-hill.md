@@ -12,7 +12,7 @@ parent: 2017 Fixtures
 
 {% include matchDetails %}
 
-R Earney's 52nd 50.
+R Earney's 52nd 50
 
 ## {{page.title}} Innings
 

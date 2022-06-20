@@ -4,8 +4,8 @@ title: Frensham
 game: Frensham v The Min
 location: Hollowdene Recreation Ground
 date: 19/06/2022
-report: Fresham won the toss and inserted The Min who made 217 all out in 33.5 overs. Frensham replied with 
-result: Frensham won by 7 wkts
+report: Fresham won the toss and inserted The Min who made 217 all out in 33.5 overs. Frensham replied with 219 for 5 wkts in 33.5 overs
+result: Frensham won by 5 wkts
 parent: 2022 Fixtures
 ---
 
@@ -18,79 +18,77 @@ R Earney's 54th 50
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **R Earney** | run out |   | 57 |
-| **J Carroll** | c J Morris | E Carrihil | 15 |
+| **J Carroll** | c J Morris | E Carrihill | 15 |
 | **A Beswick** | lbw  | J Powell | 0 |
-| **J Parsloe** | c L Morgan | D Patel | 18 |
-| **J Stacey** | not out |  | 85 |
-| **R Earney** | not out |  | 35 |
-| **K Usanga** | dnb |  |  |
-| **C Etheridge** | dnb |  |  |
-| **M Gupta** | dnb |  |  |
-| **Mik Gupta** | dnb |  |  ||
-| **C Wright** | dnb |  |  |
-| **Extras** | | (11b 1lb 8w 2nb 0p) | **22** |
-| **Total** | | (35 overs) | **227 for 4 wkts** |
+| **J Parsloe** | b | J Powell | 0 |
+| **B Boyd-Taylor** | c Ri Doran | A Casali | 45 |
+| **R Beswick &#42;** | c | P Travers | 41 |
+| **W Calvert** | c Ri Doran | Ru Doran | 0 |
+| **P Wigg** | c Ri Doran | Ru Doran | 7 |
+| **J Grant &#8224;** | c | Ru Doran | 8 |
+| **E Garland** | b | M Taylor | 4 |
+| **C Wright** | not out |  | 1 |
+| **Extras** | | (14b 3lb 19w 3nb 0p) | **39** |
+| **Total** | | (33.5 overs) | **217 all out** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 5 | 83 | 95 | 131 | **227** |  |  |  |  |  |
-| **Batsman** | 2 | 1 | 3 | 4 |  |  |  |  |  |  | 
+| **Score** | 65 | 67 | 67 | 105 | 171 | 179 | 193 | 207 | 212 | 217 |
+| **Batsman** | 2 | 3 | 4 | 1 | 5 | 7 | 8 | 9 | 6 | 10 | 
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **L Morgan** | 7 | 1 | 42 | 0 |
-| **T Bond** | 7 | 1 | 40 | 1 |
-| **C Carter** | 5 | 0 | 37 | 0 |
-| **AS Rasheed** | 5 | 0 | 29 | 1 |
-| **D Patel** | 5 | 0 | 31 | 1 |
-| **AJ Rasheed** | 4 | 0 | 42 | 0 |
-| **J Ventress** | 1 | 0 | 16 | 0 |
+| **P Travers** | 5 | 0 | 36 | 1 |
+| **Ru Doran** | 8 | 1 | 41 | 3 |
+| **J Powell** | 3 | 0 | 6 | 2 |
+| **E Carrihill** | 4 | 0 | 27 | 1 |
+| **C Doran** | 5 | 0 | 28 | 0 |
+| **Ri Doran** | 4 | 0 | 21 | 0 |
+| **A Casali** | 4 | 0 | 36 | 1 |
+| **M Taylor** | 0.5 | 0 | 5 | 0 |
 
 ## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **C Harris &#8224;** | c A Beswick | M Gupta | 26 |
-| **O Palmer** | c Mik Gupta | C Wright | 123 |
-| **A Clark** | not out |  | 59 |
-| **J Ventress** | b | C Wright | 0 |
-| **M Greenway** | not out |  | 6 |
-| **D Patel** | dnb | |  |
-| **C Carter** | dnb | |  ||
-| **L Morgan &#42;** | dnb | |  |
-| **T Bond** | dnb | |  |
-| **AS Rasheed** | dnb |  |  |
-| **AJ Rasheed** | dnb | |  |
-| **Extras** | | (1b 1lb 13w 7nb 0p) | **22** |
-| **Total** | | (27 overs) | **238 for 3 wkts** |
+| **T McCabe** | c E Garland | R Beswick | 8 |
+| **M Taylor** | c E Garland | J Parsloe | 19 |
+| **M Hashir** | lbw | P Wigg | 40 |
+| **C Doran** | b | C Wright | 5 |
+| **J Morris** | retired not out |  | 50 |
+| **Ru Doran** | b | J Parsloe | 0 |
+| **J Powell** | not out |  | 38 |
+| **Ri Doran** | not out |  | 36 |
+| **A Casali** | dnb |  |  |
+| **E Carrihill** | dnb |  |  |
+| **P Travers** | dnb | |  |
+| **Extras** | | (7b 14lb 1w 1nb 0p) | **23** |
+| **Total** | | (33.5) | **219 for 5 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 75 | **204** | 204 |  |  |  |  |  |  |  |
-| **Batsman** | 1 | 2 | 4 |  |  |  |  |  |  |  | 
+| **Score** | 9 | 52 | 58 | 59 | 127 |  |  |  |  |  |
+| **Batsman** | 1 | 2 | 4 | 5 | 3 |  |  |  |  |  | 
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **R Earney** | 4 | 0 | 33 | 0 |
-| **R Beswick** | 3 | 0 | 23 | 0 |
-| **M Gupta** | 7 | 1 | 29 | 1 |
-| **C Etheridge** | 4 | 0 | 54 | 0 |
-| **A Beswick** | 1 | 0 | 21 | 0 |
-| **C Wright** | 5 | 0 | 44 | 2 |
-| **Mik Gupta** | 2 | 0 | 16 | 0 |
-| **K Usanga** | 1 | 0 | 13 | 0 |
-| **I Strawson** | 0 | 0 | 1 | 0 |
+| **P Wigg** | 7 | 0 | 30 | 1 |
+| **R Beswick** | 7 | 0 | 39 | 1 |
+| **C Wright** | 4 | 0 | 27 | 1 |
+| **J Parsloe** | 7 | 1 | 29 | 2 |
+| **E Garland** | 5 | 0 | 36 | 0 |
+| **J Carroll** | 4 | 0 | 41 | 0 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 0 | 2 | 1 | 0 |
+| 0 | 3 | 1 | 0 |
