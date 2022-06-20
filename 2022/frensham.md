@@ -1,27 +1,26 @@
 ---
 layout: default
-title: Newington
-game: Newington v The Min
-location: Bobbing Court
-date: 22/05/2022
-report: The Min won the toss and batted first scoring 237 for 4 wkts in 35 overs. Newington replied with 238 for 3 wkts
-result: Newington won by 7 wkts
+title: Frensham
+game: Frensham v The Min
+location: Hollowdene Recreation Ground
+date: 19/06/2022
+report: Fresham won the toss and inserted The Min who made 217 all out in 33.5 overs. Frensham replied with 
+result: Frensham won by 7 wkts
 parent: 2022 Fixtures
 ---
 
 {% include matchDetails %}
 
-J Stacey's 2nd 50 and highest score. Amazing catch by A Beswick.<br />
-[Partnership](../records/partnerships) of 106 between J Stacey and R Earney
+R Earney's 54th 50
 
 ## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **R Beswick &#42;** | c D Patel | AS Rasheed | 33 |
-| **W Calvert &#8224;** | b | T Bond | 0 |
-| **A Beswick** | run out (O Palmer) |  | 35 |
-| **I Strawson** | c L Morgan | D Patel | 18 |
+| **R Earney** | run out |   | 57 |
+| **J Carroll** | c J Morris | E Carrihil | 15 |
+| **A Beswick** | lbw  | J Powell | 0 |
+| **J Parsloe** | c L Morgan | D Patel | 18 |
 | **J Stacey** | not out |  | 85 |
 | **R Earney** | not out |  | 35 |
 | **K Usanga** | dnb |  |  |

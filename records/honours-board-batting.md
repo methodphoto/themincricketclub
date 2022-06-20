@@ -45,6 +45,7 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2022** | R Earney | v [Frensham](..2022/frensham) | **57** |
 | **2022** | J Stacey | v [Newington](..2022/newington) | **85&#42;** |
 | **2022** | J Carroll | v [Bricklayer's Arms](..2022/bricklayers-arms) | **71** |
 | **2021** | R Damaze | v [Wandering Maniacs](..2021/wandering-maniacs) | **59** |

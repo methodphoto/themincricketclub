@@ -18,7 +18,7 @@ parent: Results
 | **Selling** | 16 | 8 | 8 | 0 | 0 | 50.00 | 0 |
 | **Middleton Stoney** | 12 | 3 | 3 | 6 | 0 | 25.00 | 0 |
 | **Newington** | 11 | 6 | 5 | 0 | 0 | 54.54 |  |
-| **Frensham** | 7 | 5 | 1 | 1 | 0 | 71.43 | 4 |
+| **Frensham** | 8 | 5 | 2 | 1 | 0 | 62.5 | 3 |
 | **Blagdon Hill** | 6 | 2 | 4 | 0 | 0 | 33.33 | -2 |
 
 ## No longer playing
