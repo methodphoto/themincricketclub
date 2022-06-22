@@ -17,7 +17,7 @@ R Earney's 54th 50
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **R Earney** | run out |   | 57 |
+| **R Earney** | run out (J Morris) |   | 57 |
 | **J Carroll** | c J Morris | E Carrihill | 15 |
 | **A Beswick** | lbw  | J Powell | 0 |
 | **J Parsloe** | b | J Powell | 0 |

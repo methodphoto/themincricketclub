@@ -63,7 +63,7 @@ parent: Records
 | **2019** | A Beswick | v [Watton-at-Stone](../2019/watton-at-stone) | **57&#42;** |
 | **2019** | A Beswick | v [Railway Taverners](../2019/railway-taverners) | **50** |
 | **2019** | A Beswick | v [Kingstonian](../2019/kingstonian) | **86&#42;** |
-| **2019** | A Beswick | v [Cerne Valley](../2019/cerne-valley) | **retired out | | 52** |
+| **2019** | A Beswick | v [Cerne Valley](../2019/cerne-valley) | **52** |
 | **2018** | S Barrowcliff | v [Broadway and Horton](../2018/broadway-and-horton) | **88&#42;** |
 | **2018** | S Ahmed | v [Stoke Dabernon](../2018/stoke-dabernon) | **50** |
 | **2018** | R Earney | v [Kingstonian](../2018/kingstonian) | **56** |
@@ -94,7 +94,7 @@ parent: Records
 | **2015** | R Earney | v [Broadway and Horton](../2015/broadway-and-horton) | **71** |
 | **2015** | R Earney | v [Brasted Invicta](../2015/brasted-invicta) | **72** |
 | **2015** | R Earney | v [BGS Bedouins](../2015/bgs-bedouins) | **66** |
-| **2015** | R Beswick | v [Selling](../2015/selling) | **| 72** |
+| **2015** | R Beswick | v [Selling](../2015/selling) | **72** |
 | **2015** | R Beswick | v [Broadway and Horton](../2015/broadway-and-horton) | **89** |
 | **2014** | S Hornsby | v [Wimbledon United](../2014/wimbledon-united) | **51** |
 | **2014** | S Hornsby | v [Horningsham](../2014/horningsham) | **50&#42;** |
@@ -140,7 +140,7 @@ parent: Records
 | **2010** | M Gardiner | v [Newdigate](../2010/newdigate) | **52&#42;** |
 | **2009** | R Earney | v [Tower of Dudes](../2009/tower-of-dudes) | **61&#42;** |
 | **2009** | R Earney | v [Stowting](../2009/stowting) | **53** |
-| **2009** | R Earney | v [Britwell Salome](../2009/britwell-salome) | **| 55** |
+| **2009** | R Earney | v [Britwell Salome](../2009/britwell-salome) | **55** |
 | **2009** | R Beswick | v [Selling](../2009/selling) | **68** |
 | **2009** | R Beswick | v [Kilmington and Stourton](../2009/kilmington-and-stourton) | **93** |
 | **2009** | M Gupta | v [Tower of Dudes](../2009/tower-of-dudes) | **94&#42;** |
@@ -174,17 +174,17 @@ parent: Records
 | **2005** | R Earney | v [Ockley](../2005/ockley) | **74** |
 | **2005** | R Earney | v [Kilmington and Stourton](../2005/kilmington-and-stourton) | **55** |
 | **2005** | R Earney | v [Horningsham](../2005/horningsham) | **52** |
-| **2005** | R Beswick | v [Hornchurch](../2005/hornchurch) | **retired out | | 69** |
+| **2005** | R Beswick | v [Hornchurch](../2005/hornchurch) | **69** |
 | **2005** | M Goff | v [Watton-at-Stone](../2005/watton-at-stone) | **56** |
 | **2005** | D Hambidge | v [Newdigate](../2005/newdigate) | **55** |
 | **2005** | A Slight | v [SB Exiles](../2005/sb-exiles) | **64** |
-| **2004** | S Barrowcliff | v [Britwell Salome](../2004/britwell-salome) | **| 52** |
+| **2004** | S Barrowcliff | v [Britwell Salome](../2004/britwell-salome) | **52** |
 | **2004** | R Green | v [Stowting](../2004/stowting) | **50&#42;** |
 | **2004** | R Earney | v [The Gents](../2004/the-gents) | **81** |
 | **2004** | R Earney | v [Stowting](../2004/stowting) | **64** |
 | **2004** | R Earney | v [Selling](../2004/selling) | **72** |
 | **2004** | R Earney | v [Kilmington and Stourton](../2004/kilmington-and-stourton) | **64** |
-| **2004** | R Earney | v [Brookwood](../2004/brookwood) | **retired out | | 76** |
+| **2004** | R Earney | v [Brookwood](../2004/brookwood) | **76** |
 | **2004** | R Earney | v [Ballinger Waggoners](../2004/ballinger-waggoners) | **57** |
 | **2004** | R Beswick | v [Watton-at-Stone](../2004/watton-at-stone) | **67&#42;** |
 | **2004** | R Beswick | v [Temple Sheen](../2004/temple-sheen) | **65&#42;** |
@@ -192,7 +192,7 @@ parent: Records
 | **2004** | M Goff | v [Reigate Pilgrims](../2004/reigate-pilgrims) | **79** |
 | **2004** | M Goff | v [Newdigate](../2004/newdigate) | **67** |
 | **2004** | H Ingham | v [Watton-at-Stone](../2004/watton-at-stone) | **96&#42;** |
-| **2004** | A Slight | v [Brookwood](../2004/brookwood) | **| 58** |
+| **2004** | A Slight | v [Brookwood](../2004/brookwood) **58** |
 | **2003** | R Earney | v [Stowting](../2003/stowting) | **67** |
 | **2003** | R Beswick | v [Newdigate](../2003/newdigate) | **52** |
 | **2003** | J Grant | v [Newdigate](../2003/newdigate) | **82** |
@@ -231,7 +231,7 @@ parent: Records
 | **1999** | M Petre | v [Players and Jesters](../1999/players-and-jesters) | **61** |
 | **1999** | I Marshall | v [Watton-at-Stone](../1999/watton-at-stone) | **75&#42;** |
 | **1999** | E Garland | v [Watton-at-Stone](../1999/watton-at-stone) | **53** |
-| **1998** | R Earney | v [Watton-at-Stone](../1998/watton-at-stone) | **| 62** |
+| **1998** | R Earney | v [Watton-at-Stone](../1998/watton-at-stone) **62** |
 | **1998** | R Earney | v [Broadway and Horton](../1998/broadway-and-horton) | **67&#42;** |
 | **1998** | R Beswick | v [Players and Jesters](../1998/players-and-jesters) | **52** |
 | **1998** | R Beswick | v [Ipswich and East Suffolk](../1998/ipswich-and-east-suffolk) | **52** |
@@ -259,16 +259,16 @@ parent: Records
 | **1995** | S Barrowcliff | v [Barrow Hospital](../1995/barrow-hospital) | **70&#42;** |
 | **1995** | S Barrowcliff | v [Abbey Players](../1995/abbey-players) | **74** |
 | **1995** | R Earney | v [White Lion](../1995/white-lion) | **50** |
-| **1995** | R Beswick | v [Abbey Players](../1995/abbey-players) | **| 68** |
+| **1995** | R Beswick | v [Abbey Players](../1995/abbey-players) **68** |
 | **1995** | P Bentley | v [Valley End](../1995/valley-end) | **54** |
 | **1995** | P Bentley | v [Hetairoi](../1995/hetairoi) | **b | J Dudding | 66** |
 | **1994** | S Hornsby | v [Reigate Pilgrims](../1994/reigate-pilgrims) | **89** |
 | **1994** | S Hornsby | v [Farnborough](../1994/farnborough) | **64&#42;** |
 | **1994** | R Earney | v [Polytechnic III](../1994/polytechnic-iii) | **82** |
 | **1994** | R Beswick | v [Polytechnic III](../1994/polytechnic-iii) | **54&#42;** |
-| **1994** | R Beswick | v [Hetairoi](../1994/hetairoi) | **| 55** |
+| **1994** | R Beswick | v [Hetairoi](../1994/hetairoi) **55** |
 | **1994** | R Beswick | v [Great Tew](../1994/great-tew) | **54&#42;** |
-| **1993** | W Wright | v [Old Elthamians](../1993/old-elthamians) | **| 53** |
+| **1993** | W Wright | v [Old Elthamians](../1993/old-elthamians) **53** |
 | **1993** | S Hornsby | v [Great Tew](../1993/great-tew) | **97** |
 | **1993** | S Barrowcliff | v [Queen Camel](../1993/queen-camel) | **64** |
 | **1993** | S Barrowcliff | v [Broadway and Horton](../1993/broadway-and-horton) | **67** |
@@ -288,7 +288,7 @@ parent: Records
 | **1991** | A MacFarlane | v [Antilles](../1991/antilles) | **53** |
 | **1990** | W Calvert | v [Stowting](../1990/stowting) | **50** |
 | **1990** | W Calvert | v [Brook](../1990/brook) | **51** |
-| **1990** | S Hornsby | v [Stowting](../1990/stowting) | **| 92** |
+| **1990** | S Hornsby | v [Stowting](../1990/stowting) **92** |
 | **1990** | S Hornsby | v [Reigate Pilgrims](../1990/reigate-pilgrims) | **59** |
 | **1990** | S Hornsby | v [Brook](../1990/brook) | **58** |
 | **1990** | R Beswick | v [Old Elthamians](../1990/old-elthamians) | **56&#42;** |
@@ -341,7 +341,7 @@ parent: Records
 | **1985** | J Grant | v [Koh-i Noor](../1985/koh-i-noor) | **73** |
 | **1985** | A Sylvester | v [Brook](../1985/brook) | **56&#42;** |
 | **1985** | A Gallagher | v [Artisans](../1985/artisans) | **85** |
-| **1985** | A Fielding | v [Koh-i Noor](../1985/koh-i-noor) | **| 58** |
+| **1985** | A Fielding | v [Koh-i Noor](../1985/koh-i-noor) **58** |
 | **1984** | P Clothier | v [Harrowdene](../1984/harrowdene) | **53** |
 | **1984** | J Grant | v [Logica](../1984/logica) | **65&#42;** |
 | **1984** | E Bishop | v [Greenford](../1984/greenford) | **61** |
