@@ -192,7 +192,7 @@ parent: Records
 | **2004** | M Goff | [Reigate Pilgrims](../2004/reigate-pilgrims) | **79** |
 | **2004** | M Goff | [Newdigate](../2004/newdigate) | **67** |
 | **2004** | H Ingham | [Watton-at-Stone](../2004/watton-at-stone) | **96&#42;** |
-| **2004** | A Slight | [Brookwood](../2004/brookwood) **58** |
+| **2004** | A Slight | [Brookwood](../2004/brookwood) | **58** |
 | **2003** | R Earney | [Stowting](../2003/stowting) | **67** |
 | **2003** | R Beswick | [Newdigate](../2003/newdigate) | **52** |
 | **2003** | J Grant | [Newdigate](../2003/newdigate) | **82** |
@@ -231,7 +231,7 @@ parent: Records
 | **1999** | M Petre | [Players and Jesters](../1999/players-and-jesters) | **61** |
 | **1999** | I Marshall | [Watton-at-Stone](../1999/watton-at-stone) | **75&#42;** |
 | **1999** | E Garland | [Watton-at-Stone](../1999/watton-at-stone) | **53** |
-| **1998** | R Earney | [Watton-at-Stone](../1998/watton-at-stone) **62** |
+| **1998** | R Earney | [Watton-at-Stone](../1998/watton-at-stone) | **62** |
 | **1998** | R Earney | [Broadway and Horton](../1998/broadway-and-horton) | **67&#42;** |
 | **1998** | R Beswick | [Players and Jesters](../1998/players-and-jesters) | **52** |
 | **1998** | R Beswick | [Ipswich and East Suffolk](../1998/ipswich-and-east-suffolk) | **52** |
@@ -259,16 +259,16 @@ parent: Records
 | **1995** | S Barrowcliff | [Barrow Hospital](../1995/barrow-hospital) | **70&#42;** |
 | **1995** | S Barrowcliff | [Abbey Players](../1995/abbey-players) | **74** |
 | **1995** | R Earney | [White Lion](../1995/white-lion) | **50** |
-| **1995** | R Beswick | [Abbey Players](../1995/abbey-players) **68** |
+| **1995** | R Beswick | [Abbey Players](../1995/abbey-players) | **68** |
 | **1995** | P Bentley | [Valley End](../1995/valley-end) | **54** |
-| **1995** | P Bentley | [Hetairoi](../1995/hetairoi) | **b | J Dudding | 66** |
+| **1995** | P Bentley | [Hetairoi](../1995/hetairoi) | **66** |
 | **1994** | S Hornsby | [Reigate Pilgrims](../1994/reigate-pilgrims) | **89** |
 | **1994** | S Hornsby | [Farnborough](../1994/farnborough) | **64&#42;** |
 | **1994** | R Earney | [Polytechnic III](../1994/polytechnic-iii) | **82** |
 | **1994** | R Beswick | [Polytechnic III](../1994/polytechnic-iii) | **54&#42;** |
-| **1994** | R Beswick | [Hetairoi](../1994/hetairoi) **55** |
+| **1994** | R Beswick | [Hetairoi](../1994/hetairoi) | **55** |
 | **1994** | R Beswick | [Great Tew](../1994/great-tew) | **54&#42;** |
-| **1993** | W Wright | [Old Elthamians](../1993/old-elthamians) **53** |
+| **1993** | W Wright | [Old Elthamians](../1993/old-elthamians) | **53** |
 | **1993** | S Hornsby | [Great Tew](../1993/great-tew) | **97** |
 | **1993** | S Barrowcliff | [Queen Camel](../1993/queen-camel) | **64** |
 | **1993** | S Barrowcliff | [Broadway and Horton](../1993/broadway-and-horton) | **67** |
@@ -288,7 +288,7 @@ parent: Records
 | **1991** | A MacFarlane | [Antilles](../1991/antilles) | **53** |
 | **1990** | W Calvert | [Stowting](../1990/stowting) | **50** |
 | **1990** | W Calvert | [Brook](../1990/brook) | **51** |
-| **1990** | S Hornsby | [Stowting](../1990/stowting) **92** |
+| **1990** | S Hornsby | [Stowting](../1990/stowting) | **92** |
 | **1990** | S Hornsby | [Reigate Pilgrims](../1990/reigate-pilgrims) | **59** |
 | **1990** | S Hornsby | [Brook](../1990/brook) | **58** |
 | **1990** | R Beswick | [Old Elthamians](../1990/old-elthamians) | **56&#42;** |
@@ -341,7 +341,7 @@ parent: Records
 | **1985** | J Grant | [Koh-i Noor](../1985/koh-i-noor) | **73** |
 | **1985** | A Sylvester | [Brook](../1985/brook) | **56&#42;** |
 | **1985** | A Gallagher | [Artisans](../1985/artisans) | **85** |
-| **1985** | A Fielding | [Koh-i Noor](../1985/koh-i-noor) **58** |
+| **1985** | A Fielding | [Koh-i Noor](../1985/koh-i-noor) | **58** |
 | **1984** | P Clothier | [Harrowdene](../1984/harrowdene) | **53** |
 | **1984** | J Grant | [Logica](../1984/logica) | **65&#42;** |
 | **1984** | E Bishop | [Greenford](../1984/greenford) | **61** |
