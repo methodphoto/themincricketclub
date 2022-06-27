@@ -45,6 +45,8 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2022** | B Boyd-Taylor | [St Anne's Allstars](../2022/st-annes-allstars) | **66&#42;** |
+| **2022** | R Beswick | [St Anne's Allstars](../2022/st-annes-allstars) | **71&#42;** |
 | **2022** | R Earney | [Frensham](../2022/frensham) | **57** |
 | **2022** | J Stacey | [Newington](../2022/newington) | **85&#42;** |
 | **2022** | J Carroll | [Bricklayer's Arms](../2022/bricklayers-arms) | **71** |

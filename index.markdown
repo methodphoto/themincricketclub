@@ -21,7 +21,7 @@ nav_order: 1
 |:---|:---|:---|:---|
 | 5th | 13:30 | -Stowting- | [TN25 6BD](https://goo.gl/maps/5KNmaMe6Wb42) |  |
 | 19th | 13:00 | [Frensham](2022/frensham) | [GU10 3BJ](https://goo.gl/maps/4gohPpn1stdT6fnY7) | 🥪 |
-| 26th | 13:00 | St Anne's All Stars | [SW20 9BX](https://goo.gl/maps/USvKiA2V8LZvJsje6) | 🥪 |
+| 26th | 13:00 | [St Anne's Allstars](2022/st-annes-allstars) | [SW20 9BX](https://goo.gl/maps/USvKiA2V8LZvJsje6) | 🥪 |
 
 
 | July - Tour |  |  |  |

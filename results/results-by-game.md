@@ -9,6 +9,7 @@ parent: Results
 
 | 2022 |  |  |
 |:---|:---|:---|
+| 26/06/2022 | [St Anne's Allstars](../2022/st-annes-allstars) | Won |
 | 19/06/2022 | [Frensham](../2022/frensham) | Lost |
 | 22/05/2022 | [Newington](../2022/newington) | Lost |
 | 15/05/2022 | [Bricklayer's Arms](../2022/bricklayers-arms) | Lost |

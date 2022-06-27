@@ -39,6 +39,7 @@ parent: Records
 | **1991** | D Swann (87) and S Hornsby (95&#42;) | [Reigate Pilgrims](../1991/reigate-pilgrims) | **123** |
 | **2015** | R Beswick (89) and R Earney (71) | [Broadway and Horton](../2015/broadway-and-horton) | **122** |
 | **2002** | S Hornsby (67) and R Earney (69) | [Hetairoi](../2002/hetairoi) | **121** |
+| **2022** | R Beswick (71&#42;) and B -Taylor (66&#42;) | [St Anne's Allstars](../2002/st-annes-allstars) | **117** |
 | **2000** | R Earney (58&#42;) and R Beswick (40) | [Tappers](../2000/tappers) | **116** |
 | **1997** | J Grant (87) and J Hylton (82&#42;) | [Hetairoi](../1997/hetairoi) | **116** |
 | **1986** | A Gallagher (39) and P Goult (91) | [West Wickham](../1986/west-wickham) | **116** |
