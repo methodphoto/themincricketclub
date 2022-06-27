@@ -12,7 +12,7 @@ parent: 2022 Fixtures
 {% include matchDetails %}
 
 R Beswick's 36th 50. B Boyd-Taylor's 1st 50<br />
-Partnership of 119 between R Beswick and B Boyd-Taylor
+[Partnership](/records/partnerships) of 119 between R Beswick and B Boyd-Taylor
 
 ## {{page.title}} Innings
 
