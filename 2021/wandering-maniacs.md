@@ -27,7 +27,7 @@ R Damaze 3rd 50 (35 balls)
 | **R Earney** | c | Vegas | 1 |
 | **B Boyd-Taylor &#8224;** | c | Edwards | 31 |
 | **J Casey** | c | Ford | 0 |
-| **L Holden** | b | Bradley | 12 |
+| **L Horden** | b | Bradley | 12 |
 | **C Wright** | not out |  | 0 |  
 | **Extras** | | (6b 0 32w 7nb) | **45** |
 | **Total** | | (33.2 overs) | **215 all out** |
@@ -56,7 +56,7 @@ R Damaze 3rd 50 (35 balls)
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **Edwards** | b | L Holden | 2 |
+| **Edwards** | b | L Horden | 2 |
 | **Manby** | b | J Casey | 7 |
 | **Jory** | c & b | J Casey | 6 |
 | **C Rose** | b | R Earney | 52 |
@@ -82,7 +82,7 @@ R Damaze 3rd 50 (35 balls)
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **L Holden** | 6 | 1 | 24 | 1 |
+| **L Horden** | 6 | 1 | 24 | 1 |
 | **J Casey** | 6 | 2 | 13 | 2 |
 | **C Wright** | 5 | 1 | 30 | 1 |
 | **R Earney** | 6.4 | 1 | 20 | 4 |

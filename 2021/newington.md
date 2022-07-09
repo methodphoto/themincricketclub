@@ -26,7 +26,7 @@ Jim Carroll, 1st 50 and highest score for The Min
 | **T Singh** | c J Carroll | J Casey | 29 |
 | **A Lippard** | b | J Casey | 0 |
 | **Adil Rashid** | lbw | J Casey | 0 |
-| **C Carter** | c R Earney | L Holden | 0 |
+| **C Carter** | c R Earney | L Horden | 0 |
 | **L Morgan &#42;** | not out |  | 0 |
 | **B Glenn** | absent |  |  |
 | **Extras** | | (2b 4lb 8w 1nb) | **15** |
@@ -48,7 +48,7 @@ Jim Carroll, 1st 50 and highest score for The Min
 | **I Marshall** | 5 | 0 | 17 | 0 |
 | **C Wright** | 7 | 0 | 40 | 2 |
 | **J Carroll** | 4 | 2 | 8 | 0 |
-| **L Holden** | 4.4 | 0 | 14 | 1 |
+| **L Horden** | 4.4 | 0 | 14 | 1 |
 | **J Casey** | 3 | 2 | 6 | 4 |
 
 ## The Min Innings
@@ -58,7 +58,7 @@ Jim Carroll, 1st 50 and highest score for The Min
 | **J Carroll** | not out |  | 78 |
 | **R Earney** | lbw | B Glenn | 1 |
 | **A Beswick &#42;** | c D Palmer | B Glenn | 1 |
-| **L Holden** | b | B Glenn | 2 |
+| **L Horden** | b | B Glenn | 2 |
 | **P Wigg** | b  | T Singh | 1 |
 | **J Casey** | b | C Carter | 8 |
 | **R Beswick** | not out | | 17 |

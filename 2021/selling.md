@@ -16,7 +16,7 @@ parent: 2021 Fixtures
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **R Mithu** | b | I Matvad | 1 |
-| **R Blake** | c R Damaze | L Holden | 0 |
+| **R Blake** | c R Damaze | L Horden | 0 |
 | **B Wilson** | lbw | M Gupta | 27 |
 | **T Hinke** | c W Calvert | M Gupta | 0 |
 | **M Ali** | c A Beswick | I Matvad | 1 |
@@ -40,7 +40,7 @@ parent: 2021 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **L Holden** | 5 | 0 | 25 | 1 |
+| **L Horden** | 5 | 0 | 25 | 1 |
 | **I Matvid** | 7 | 4 | 8 | 2 |
 | **M Gupta** | 6 | 1 | 9 | 2 |
 | **R Earney** | 6 | 0 | 29 | 3 |
@@ -59,7 +59,7 @@ parent: 2021 Fixtures
 | **Mik Gupta** | c | P Cheeseman | 0 |
 | **I Miah** | b | M Ali | 2 |
 | **R Earney** | not out | | 10 |
-| **L Holden** | not out | | 2 |
+| **L Horden** | not out | | 2 |
 | **I Matvid** | dnb |  |  |
 | **M Gupta** | dnb |  |  |  
 | **Extras** | | (10b 2lb 2w 2nb) | **16** |

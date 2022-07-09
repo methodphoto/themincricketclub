@@ -27,7 +27,7 @@ R Beswick 8000 runs for The Min
 | **M Gupta** | lbw | M Vakharia | 1 |
 | **S Amin** | c I Estall | M Vakharia | 0 |
 | **E Garland** | b | M Vakharia | 2 |
-| **L Holden** | not out |  | 6 |
+| **L Horden** | not out |  | 6 |
 | **C Wright** | st S Spencer | A Butterfield | 7 |
 | **Mik Gupta** | not out |  | 1 |  
 | **Extras** | | (0b 4lb 8w 0nb) | **12** |
@@ -56,7 +56,7 @@ R Beswick 8000 runs for The Min
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **B Thorpe** | b | P Wigg | 5 |
-| **S Montebello** | b | L Holden | 21 |
+| **S Montebello** | b | L Horden | 21 |
 | **I Sultan &#42;** | b | P Wigg | 4 |
 | **I Estall** | not out |  | 51 |
 | **M Rasool** | lbw | P Wigg | 1 |
@@ -81,7 +81,7 @@ R Beswick 8000 runs for The Min
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **P Wigg** | 7 | 1 | 18 | 3 |
-| **L Holden** | 6 | 2 | 27 | 1 |
+| **L Horden** | 6 | 2 | 27 | 1 |
 | **M Gupta** | 7 | 0 | 20 | 2 |
 | **E Garland** | 2 | 0 | 17 | 0 |
 | **R Earney** | 3 | 1 | 11 | 0 |

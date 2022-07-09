@@ -18,9 +18,9 @@ A Beswick's 9th 50
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **T Poulter** | lbw | L Holden | 0 |
+| **T Poulter** | lbw | L Horden | 0 |
 | **G Tremain** | c A Beswick | B Boyd-Taylor | 63 |
-| **H Sharma** | b | L Holden | 13 |
+| **H Sharma** | b | L Horden | 13 |
 | **C McCracken** | b | C Wright | 25 |
 | **W Gujjar** | b | S Amin | 49 |
 | **R Gul** | lbw | S Amin | 18 |
@@ -43,7 +43,7 @@ A Beswick's 9th 50
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **L Holden** | 7 | 1 | 17 | 2 |
+| **L Horden** | 7 | 1 | 17 | 2 |
 | **R Beswick** | 3 | 0 | 12 | 0 |
 | **J Casey** | 6 | 0 | 21 | 0 |
 | **A Beswick** | 2 | 0 | 15 | 0 |
@@ -65,7 +65,7 @@ A Beswick's 9th 50
 | **P Lynden** | lbw | H Sharma | 4 |
 | **S Amin** | c G Tremain | H Sharma | 14 |
 | **J Casey** | not out |  | 11 |
-| **L Holden** | b | W Gujjar | 1 |
+| **L Horden** | b | W Gujjar | 1 |
 | **C Wright** | c S Imran | W Gujjar | 5 |
 | **J Grant &#8224;** | not out |  | 0 |
 | **Extras** | | (8b 1lb 24w 3nb) | **36** |

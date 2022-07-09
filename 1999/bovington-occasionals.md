@@ -21,7 +21,7 @@ parent: 1999 Fixtures
 | **J Grant &#8224;** | c (keeper) | Craig-Harvey | 0 |
 | **R Beswick &#42;** | c (keeper) | Dale | 64 |
 | **M Petre** | c | Johnson | 4 |
-| **E Garland** | c | Holden-Crawford | 13 |
+| **E Garland** | c | Horden-Crawford | 13 |
 | **P Grant** | c | Bromley-Gardiner | 2 |
 | **P Beswick** | c | Bromley-Gardiner | 0 |
 | **J Wright** | c | Dale | 8 |
@@ -57,7 +57,7 @@ parent: 1999 Fixtures
 |:---|:---|---|---:|
 | **Trant** | b | R Beswick | 15 |
 | **P Scott-Masson** | b | R Beswick | 12 |
-| **Holden-Crawford** | c E Garland | J Wright | 67 |
+| **Horden-Crawford** | c E Garland | J Wright | 67 |
 | **Craig-Harvey** | lbw | J Wright | 1 |
 | **Simson** | c R Beswick | E Garland | 27 |
 | **N Entwhistle** | c J Grant | E Garland | 0 |

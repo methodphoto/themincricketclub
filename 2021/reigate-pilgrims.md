@@ -42,7 +42,7 @@ parent: 2021 Fixtures
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **P Wigg** | 9 | 5 | 11 | 3 |
-| **L Holden** | 7 | 2 | 19 | 0 |
+| **L Horden** | 7 | 2 | 19 | 0 |
 | **R Earney** | 7 | 0 | 27 | 2 |
 | **M Gupta** | 13 | 3 | 41 | 2 |
 | **E Garland** | 7 | 0 | 41 | 2 |
@@ -61,7 +61,7 @@ parent: 2021 Fixtures
 | **P Wigg** | c R Janardanan | P Saikia | 1 |
 | **V Trivedi** | b | N Sharma | 0 |
 | **E Garland** | not out |  | 14 |
-| **L Holden** | b | P Saikia | 4 |  
+| **L Horden** | b | P Saikia | 4 |  
 | **Extras** | | (9b 8lb 6w 1nb) | **24** |
 | **Total** | | (32 overs) | **119 for 9 wkts** |
 

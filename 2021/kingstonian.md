@@ -45,7 +45,7 @@ E Garland 5 wkts (2nd match in a row). A Beswick's 10th 50<br />
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **P Wigg** | 8 | 5 | 9 | 0 |
-| **L Holden** | 6 | 0 | 31 | 0 |
+| **L Horden** | 6 | 0 | 31 | 0 |
 | **I Miah** | 8 | 3 | 15 | 1 |
 | **R Beswick** | 1 | 0 | 12 | 0 |
 | **E Garland** | 8 | 1 | 31 | 5 |
@@ -64,7 +64,7 @@ E Garland 5 wkts (2nd match in a row). A Beswick's 10th 50<br />
 | **R Beswick &#42;** | dnb |  |  |
 | **I Miah** | dnb |  |  |
 | **P Wigg** | dnb |  |  |
-| **L Holden** | dnb |  |  |
+| **L Horden** | dnb |  |  |
 | **C Wright** | dnb |  |  |
 | **E Garland** | dnb |  |  |
 | **Extras** | | (3b 4lb 31w 2nb) | **22** |
