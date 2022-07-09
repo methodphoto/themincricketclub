@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Frensham
-game: Frensham v The Min
-location: Hollowdene Recreation Ground
-date: 19/06/2022
-report: Fresham won the toss and inserted The Min who made 217 all out in 33.5 overs. Frensham replied with 219 for 5 wkts in 33.5 overs
-result: Frensham won by 5 wkts
+title: Blagdon Hill
+game: Blagdon Hill v The Min
+location: Sellick's Green
+date: 07/07/2021
+report: 
+result: The Min won by 5 wkts
 parent: 2022 Fixtures
 ---
 
 {% include matchDetails %}
 
-R Earney's 54th 50
+A Beswick's 11th 50. B Yarde-Buller's 1st 50
 
 ## The Min Innings
 
@@ -19,7 +19,7 @@ R Earney's 54th 50
 |:---|:---|---|---:|
 | **R Earney** | run out (J Morris) |   | 57 |
 | **J Carroll** | c J Morris | E Carrihill | 15 |
-| **A Beswickg** | lbw  | J Powell | 0 |
+| **A Beswick** | lbw  | J Powell | 0 |
 | **J Parsloe** | b | J Powell | 0 |
 | **B Boyd-Taylor** | c Ri Doran | A Casali | 45 |
 | **R Beswick &#42;** | c | P Travers | 41 |
@@ -91,4 +91,4 @@ R Earney's 54th 50
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 0 | 3 | 1 | 0 |
+| 2 | 3 | 1 | 0 |
