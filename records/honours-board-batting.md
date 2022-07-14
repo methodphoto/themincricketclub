@@ -46,7 +46,6 @@ parent: Records
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
 | **2022** | P Wigg | [Broadway and Horton](../2022/broadway-and-horton) | **51** |
-| **2022** | B Yarde-Buller | [Blagdon Hill](../2022/blagdon-hill) | **5** |
 | **2022** | A Beswick | [Blagdon Hill](../2022/blagdon-hill) | **94** |
 | **2022** | B Boyd-Taylor | [St Anne's Allstars](../2022/st-annes-allstars) | **66&#42;** |
 | **2022** | R Beswick | [St Anne's Allstars](../2022/st-annes-allstars) | **71&#42;** |

@@ -4,39 +4,39 @@ title: Blagdon Hill
 game: Blagdon Hill v The Min
 location: Sellick's Green
 date: 07/07/2021
-report: 
-result: The Min won by 5 wkts
+report: Blagdon Hill won the toss and inserted The Min in a 40 over game. The Min made 252 for 8 wkts in 40 overs. Blagdon Hill replied with
+result: The Min won by xx runs
 parent: 2022 Fixtures
 ---
 
 {% include matchDetails %}
 
-A Beswick's 11th 50. B Yarde-Buller's 1st 50
+A Beswick's 11th 50 and highest score.
 
 ## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **R Earney** | run out (J Morris) |   | 57 |
-| **J Carroll** | c J Morris | E Carrihill | 15 |
-| **A Beswick** | lbw  | J Powell | 0 |
-| **J Parsloe** | b | J Powell | 0 |
-| **B Boyd-Taylor** | c Ri Doran | A Casali | 45 |
-| **R Beswick &#42;** | c | P Travers | 41 |
-| **W Calvert** | c Ri Doran | Ru Doran | 0 |
-| **P Wigg** | c Ri Doran | Ru Doran | 7 |
-| **J Grant &#8224;** | c | Ru Doran | 8 |
-| **E Garland** | b | M Taylor | 4 |
-| **C Wright** | not out |  | 1 |
-| **Extras** | | (14b 3lb 19w 3nb 0p) | **39** |
-| **Total** | | (33.5 overs) | **217 all out** |
+| **R Earney** | b | D Wright | 11 |
+| **R Beswick &#42;** | c | A Hannam | 19 |
+| **J Gorner** | b  | A Hotham | 4 |
+| **A Beswick** | c | S Tarr | 94 |
+| **B Yarde-Buller** | c L Trottman | L Burton | 48 |
+| **A Tiwari** | c | L Burton | 5 |
+| **W Calvert** | b | L Burton | 0 |
+| **P Wigg** | not out |  | 40 |
+| **E Garland** | st G Welch | S Tarr | 1 |
+| **J Grant &#8224;** | dnb |  |  |
+| **L Horden** | dnb |  |  |
+| **Extras** | | (17b 2lb 14w 1nb 0p) | **34** |
+| **Total** | | (40 overs) | **252 for 8 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 65 | 67 | 67 | 105 | 171 | 179 | 193 | 207 | 212 | 217 |
-| **Batsman** | 2 | 3 | 4 | 1 | 5 | 7 | 8 | 9 | 6 | 10 | 
+| **Score** | 21 | 43 | 59 | 143 | 157 | 170 | 250 | 252 |  |  |
+| **Batsman** | 1 | 3 | 2 | 5 | 6 | 7 | 4 | 9 |  |  | 
 
 ## Bowling
 
