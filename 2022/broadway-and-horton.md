@@ -58,11 +58,11 @@ P Wigg's 4th 50
 | **D Lowman** | retired (out) |  | 103 |
 | **W Vickery** | not out |  | 52 |
 | **M Hashir** | not out |  | 31 |
-| **C Norman** | b | C Wright | 5 |
-| **C Lant** | retired not out |  | 50 |
-| **D Grabham &#8224;** | b | J Parsloe | 0 |
-| **M Simm** | not out |  | 38 |
-| **J Hayes** | not out |  | 36 |
+| **C Norman** | dnb |  |  |
+| **C Lant** | dnb |  |  |
+| **D Grabham &#8224;** | dnb |  |  |
+| **M Simm** | dnb |  |  |
+| **J Hayes** | dnb |  |  |
 | **J Pawley** | dnb |  |  |
 | **F Lant** | dnb |  |  |
 |  |  |  |  |
@@ -74,7 +74,7 @@ P Wigg's 4th 50
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  | 
+| **Batsman** | 1 |  |  |  |  |  |  |  |  |  | 
 
 ## Bowling
 

@@ -27,7 +27,7 @@ nav_order: 1
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
 | 6th | 18:00 | -Ilton- | [TA19 9EN](https://goo.gl/maps/ic4ipRMjEteck7KE9)  |
-| 7th | 14:00 | Blagdon Hill | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) |
+| 7th | 14:00 | [Blagdon Hill](2022/blagdon-hill) | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) |
 | 8th | **13:00** | [Broadway and Horton](2022/broadway-and-horton) | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) |
 
 | August |  |  |  |
