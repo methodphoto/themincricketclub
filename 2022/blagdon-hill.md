@@ -4,8 +4,8 @@ title: Blagdon Hill
 game: Blagdon Hill v The Min
 location: Sellick's Green
 date: 07/07/2021
-report: Blagdon Hill won the toss and inserted The Min in a 40 over game. The Min made 252 for 8 wkts in 40 overs. Blagdon Hill replied with
-result: The Min won by xx runs
+report: Blagdon Hill won the toss and inserted The Min in a 40 over game. The Min made 252 for 8 wkts in 40 overs. Blagdon Hill replied with 168 all out in 33.2 overs
+result: The Min won by 84 runs
 parent: 2022 Fixtures
 ---
 
@@ -42,50 +42,52 @@ A Beswick's 11th 50 and highest score.
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **P Travers** | 5 | 0 | 36 | 1 |
-| **Ru Doran** | 8 | 1 | 41 | 3 |
-| **J Powell** | 3 | 0 | 6 | 2 |
-| **E Carrihill** | 4 | 0 | 27 | 1 |
-| **C Doran** | 5 | 0 | 28 | 0 |
-| **Ri Doran** | 4 | 0 | 21 | 0 |
-| **A Casali** | 4 | 0 | 36 | 1 |
-| **M Taylor** | 0.5 | 0 | 5 | 0 |
+| **R Hannan** | 5 | 0 | 21 | 1 |
+| **D Wright** | 5 | 0 | 17 | 1 |
+| **A Hotham** | 6 | 0 | 20 | 1 |
+| **A Hannam** | 5 | 0 | 21 | 1 |
+| **J McConnell** | 3 | 0 | 40 | 0 |
+| **L Burton** | 6 | 1 | 32 | 3 |
+| **L Trottman** | 5 | 1 | 22 | 0 |
+| **H Welch** | 3 | 0 | 34 | 0 |
+| **S Tarr** | 2 | 0 | 26 | 2 |
 
 ## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **T McCabe** | c E Garland | R Beswick | 8 |
-| **M Taylor** | c E Garland | J Parsloe | 19 |
-| **M Hashir** | lbw | P Wigg | 40 |
-| **C Doran** | b | C Wright | 5 |
-| **J Morris** | retired not out |  | 50 |
-| **Ru Doran** | b | J Parsloe | 0 |
-| **J Powell** | not out |  | 38 |
-| **Ri Doran** | not out |  | 36 |
-| **A Casali** | dnb |  |  |
-| **E Carrihill** | dnb |  |  |
-| **P Travers** | dnb | |  |
-| **Extras** | | (7b 14lb 1w 1nb 0p) | **23** |
-| **Total** | | (33.5) | **219 for 5 wkts** |
+| **H Welch** | b | B Yarde-Buller | 44 |
+| **S Tarr** | b | P Wigg | 6 |
+| **W Hosey** | lbw | P Wigg | 4 |
+| **A Hotham** | c J Grant | P Wigg | 11 |
+| **R Hannan** | c J Grant | A Tiwari | 18 |
+| **L Burton** | b | E Garland | 6 |
+| **L Trottman** | c J Grant | A Tiwari | 0 |
+| **J McConnell** | b | J Gormer | 19 |
+| **G Welch** | st J Grant | E Garland | 15 |
+| **D Wright** | b | L Horden | 2 |
+| **A Hannan** | not out |  | 0 |
+| **Extras** | | (7b 5lb 23w 3nb 0p) | **23** |
+| **Total** | | (33.2) | **168 all out** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 9 | 52 | 58 | 59 | 127 |  |  |  |  |  |
-| **Batsman** | 1 | 2 | 4 | 5 | 3 |  |  |  |  |  | 
+| **Score** | 14 | 24 |  |  |  |  |  |  |  |  |
+| **Batsman** | 2 | 3 |  |  |  |  |  |  |  |  | 
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **P Wigg** | 7 | 0 | 30 | 1 |
-| **R Beswick** | 7 | 0 | 39 | 1 |
-| **C Wright** | 4 | 0 | 27 | 1 |
-| **J Parsloe** | 7 | 1 | 29 | 2 |
-| **E Garland** | 5 | 0 | 36 | 0 |
-| **J Carroll** | 4 | 0 | 41 | 0 |
+| **P Wigg** | 7 | 1 | 29 | 3 |
+| **R Earney** | 7 | 1 | 23 | 0 |
+| **B Yarde-Buller** | 5 | 0 | 23 | 1 |
+| **A Tiwari** | 5 | 1 | 31 | 2 |
+| **E Garland** | 4 | 0 | 22 | 2 |
+| **J Holden** | 4.2 | 0 | 21 | 1 |
+| **J Gormer** | 1 | 0 | 3 | 1 |
 
 ## Win/Loss Ratio
 
