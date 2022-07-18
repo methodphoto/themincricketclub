@@ -67,7 +67,7 @@ A Beswick's 11th 50 and highest score.
 | **G Welch** | st J Grant | E Garland | 15 |
 | **D Wright** | b | L Horden | 2 |
 | **A Hannan** | not out |  | 0 |
-| **Extras** | | (7b 5lb 23w 3nb 0p) | **23** |
+| **Extras** | | (7b 5lb 23w 3nb 0p) | **42** |
 | **Total** | | (33.2) | **168 all out** |
 
 ## Fall of Wickets
