@@ -2,7 +2,7 @@
 layout: default
 title: St Anne's Allstars
 game: St Anne's Allstars v The Min
-location: Joesph Hood Recreation Ground
+location: Joseph Hood Recreation Ground
 date: 26/06/2022
 report: The Min won the toss and inserted St Anne's who made 178 for 7 wkts in 35 overs. The Min made 182 for 3 wkts in reply in 28 overs
 result: The Min won by 7 wkts
@@ -59,7 +59,7 @@ R Beswick's 36th 50. B Boyd-Taylor's 1st 50<br />
 | **J Carroll** | b | Arnott | 0 |
 | **I Strawson** | lbw | Grant | 13 |
 | **B Boyd-Taylor** | not out |  | 66 |
-| **K Usanga;** | not out |  | 2 |
+| **K Usanga** | not out |  | 2 |
 | **A Gallagher** | dnb |  |  |
 | **C Etheridge** | dnb |  |  |
 | **J Grant &#8224;** | dnb |  |  |

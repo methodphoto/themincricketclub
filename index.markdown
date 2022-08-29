@@ -32,7 +32,7 @@ nav_order: 1
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 28th | 13:30 | Banstead | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) |  |
+| 28th | 13:00 | [Banstead](2022/banstead) | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) |  |
 
 | September |  |  |  |
 |:---|:---|:---|:---|
