@@ -19,8 +19,8 @@ parent: 2022 Fixtures
 | **L Marsh** | c W Calvert | E Garland | 50 |
 | **I Sultan &#42;** | retired out |  | 50 |
 | **C Estsall** | retired out |  | 8 |
-| **K Sritharan** | not out  |  |  | 8 |
-| **S Hooton** | run out (L Holden) |   |  | 8 |
+| **K Sritharan** | not out  |  | 8 |
+| **S Hooton** | run out (L Holden) |  | 8 |
 | **S Spencer** | not out |  | 8 |
 | **S Montebello** | dnb |  |  |
 | **B Campbell** | dnb |  |  |
