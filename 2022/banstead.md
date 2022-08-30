@@ -16,9 +16,9 @@ parent: 2022 Fixtures
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **A Sridhar** | c & b | I Miah | 49 |
-| **L Marsh** | c W Calvert | E Garland | 50 |
+| **L Marsh** | c W Calvert | E Garland | 73 |
 | **I Sultan &#42;** | retired out |  | 50 |
-| **C Estsall** | retired out |  | 8 |
+| **C Estsall** | retired out |  | 50 |
 | **K Sritharan** | not out  |  | 8 |
 | **S Hooton** | run out (L Holden) |  | 8 |
 | **S Spencer** | not out |  | 8 |
