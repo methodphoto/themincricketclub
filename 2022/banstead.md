@@ -27,7 +27,7 @@ parent: 2022 Fixtures
 | **R Gulati** | dnb |  |  |
 | **F Dunt** | dnb | |  |
 | **Extras** | | (11b 1lb 8w 2nb 0p) | **22** |
-| **Total** | | (40) | **270 for 3 wkts wkts** |
+| **Total** | | (40) | **270 for 3 wkts** |
 
 ## Fall of Wickets
 
