@@ -36,5 +36,5 @@ nav_order: 1
 
 | September |  |  |  |
 |:---|:---|:---|:---|
-| 11th | 13:00 | Reigate Pilgrims | [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) |  |
+| 11th | 13:00 | [Reigate Pilgrims](2022/reigate-pilgrims) | [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) |  |
 | 18th | 13:00 | Selling | [ME13 9RQ](https://goo.gl/maps/QeLhjBkEbJr) |  |

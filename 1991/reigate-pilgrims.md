@@ -4,7 +4,7 @@ title: Reigate Pilgrims
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 16/09/1991
-report: Reigate Pilgrims batted first and scored 225 for 7 wkts. The Min replied with 225 for 9 wkts
+report: Reigate Pilgrims batted first and scored 224 for 7 wkts. The Min replied with 225 for 9 wkts
 result: The Min won by 1 wkt
 next: watton-at-stone
 parent: 1991 Fixtures
