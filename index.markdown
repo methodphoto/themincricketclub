@@ -27,8 +27,8 @@ nav_order: 1
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
 | 6th | 18:00 | -Ilton- | [TA19 9EN](https://goo.gl/maps/ic4ipRMjEteck7KE9)  |
-| 7th | 14:00 | [Blagdon Hill](2022/blagdon-hill) | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) |
-| 8th | **13:00** | [Broadway and Horton](2022/broadway-and-horton) | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) |
+| 7th | 14:00 | [Blagdon Hill](2022/blagdon-hill) | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) |  |
+| 8th | **13:00** | [Broadway and Horton](2022/broadway-and-horton) | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
 
 | August |  |  |  |
 |:---|:---|:---|:---|
@@ -37,4 +37,4 @@ nav_order: 1
 | September |  |  |  |
 |:---|:---|:---|:---|
 | 11th | 13:00 | [Reigate Pilgrims](2022/reigate-pilgrims) | [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) |  |
-| 18th | 13:00 | Selling | [ME13 9RQ](https://goo.gl/maps/QeLhjBkEbJr) |  |
+| 18th | 12:30 | Hornchurch Athletic | [RM11 1EX](https://goo.gl/maps/qELJ495rTjR5qBbm8) |  |
