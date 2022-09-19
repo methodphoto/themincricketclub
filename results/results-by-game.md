@@ -9,6 +9,7 @@ parent: Results
 
 | 2022 |  |  |
 |:---|:---|:---|
+| 18/09/2022 | [Hornchurch Athletic](../2022/hornchuch-athletic) | Lost |
 | 11/09/2022 | [Reigate Pilgrims](../2022/reigate-pilgrims) | Drawn |
 | 28/08/2022 | [Banstead](../2022/banstead) | Lost |
 | 08/07/2022 | [Broadway and Horton](../2022/broadway-and-horton) | Lost |

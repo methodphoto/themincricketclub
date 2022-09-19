@@ -22,7 +22,7 @@ J Grant fielded, keeping wicket. R Earney batted
 | **B Vacher** | b | P Wigg | 0 |
 | **M Nathavani** | c V Dundigalla | I Miah | 21 |
 | **Ekil  &#8224;** | c A Beswick | T Bodaganti | 0 |
-| **D Kanagarajah** | c c A Beswick | V Dundigalla | 25 |
+| **D Kanagarajah** | c A Beswick | V Dundigalla | 25 |
 | **N Ramakrishna** | b | I Miah | 2 |
 | **R Janardanan** | c T Bodaganti | L Horden | 11 |
 | **P Vacher** | b | L Horden | 9 |
@@ -63,7 +63,7 @@ J Grant fielded, keeping wicket. R Earney batted
 | **P Wigg** | c Ekil | C Watson | 20 |
 | **R Beswick &#42;** | lbw | C Watson | 0 |
 | **I Miah** | not out |  | 14 |
-| **J Casey** | b | G Mitchelll | 11 |
+| **J Casey** | b | G Mitchell | 11 |
 | **L Horden** | not out |  | 0 |
 | **Extras** | | (7b 0lb 3w 1nb 0p) | **11** |
 | **Total** | | (40 overs) | **139 for 9 wkts** |
