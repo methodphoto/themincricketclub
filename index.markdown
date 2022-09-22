@@ -37,4 +37,4 @@ nav_order: 1
 | September |  |  |  |
 |:---|:---|:---|:---|
 | 11th | 13:00 | [Reigate Pilgrims](2022/reigate-pilgrims) | [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) |  |
-| 18th | 12:30 | Hornchurch Athletic | [RM11 1EX](https://goo.gl/maps/qELJ495rTjR5qBbm8) |  |
+| 18th | 12:30 | [Hornchurch Athletic](2022/hornchurch-athletic) | [RM11 1EX](https://goo.gl/maps/qELJ495rTjR5qBbm8) |  |
