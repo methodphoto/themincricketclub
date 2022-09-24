@@ -2,7 +2,7 @@ title: "The Min CC"
 remote_theme: just-the-docs/just-the-docs
 color_scheme: "light"
 color_scheme: wider
-search_enabled: true
+search_enabled: false
 email: richard@method.co.uk
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://min.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
