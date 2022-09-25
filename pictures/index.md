@@ -20,11 +20,11 @@ has_children: false
 ## 2013
 
 [Broadway: The Min team](../2013/broadway-and-horton)<br />
-[Broadway: Brian and Jerry](../2013/broadway-and-horton)
+[Broadway: Tim and Jerry](../2013/broadway-and-horton)
 
 ## 2012
 
-[A rainbow over Middleton](../2012/middleton_stoney)
+[A rainbow over Middleton](../2012/middleton-stoney)
 
 ## 2008
 

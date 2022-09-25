@@ -12,6 +12,11 @@ parent: 2013 Fixtures
 
 {% include matchDetails %}
 
+<img src="broadway-trophy-2013" width="100%" alt="Team Photo" />
+
+<img src="broadway-trophy-2013.jpg" width="100%" alt="Trophy Presentation" />
+
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
