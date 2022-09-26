@@ -18,7 +18,7 @@ has_children: false
 
 ## 2013
 
-[Broadway](../2013/broadway-and-horton/#trophy)<br />
+[Broadway](../2013/broadway-and-horton)<br />
 
 ## 2012
 
@@ -32,7 +32,7 @@ has_children: false
 [Bes](../2008/20080622.jpg)<br />
 [Brian, Ian and Goffy consult over the score](../2008/20080710-2.jpg)<br />
 [Jim looking pensive](../2008/20080710.jpg)<br />
-[Jel says "Wha?"](../2008/20080712.jpg)<br />
+[Jel says "That's Life"](../2008/20080712.jpg)<br />
 [Horningsham](../2008/horningsham)<br />
 [Tom's joy at Bes falling](../2008/old-min-young-min)
 
