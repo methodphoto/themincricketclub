@@ -12,6 +12,9 @@ parent: 2007 Fixtures
 
 {% include matchDetails %}
 
+<img src="coyley.jpg" width="100%" alt="Richard Coyle's birthday" />
+
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
