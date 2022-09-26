@@ -14,6 +14,10 @@ parent: 2008 Fixtures
 
 The Ashes retained
 
+<img src="20080710-2.jpg" width="100%" alt="Brian, Ian, and Goffy consult over the score" />
+
+<img src="broadway-trophy.jpg" width="100%" alt="Tim presenting the Ashes to Ian" />
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

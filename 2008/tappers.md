@@ -14,6 +14,10 @@ parent: 2008 Fixtures
 
 M Gupta's 1st 50
 
+<img src="20080518-2.jpg" width="100%" alt="Bill at Sevenoaks" />
+
+<img src="20080518.jpg" width="100%" alt="Team against Tappers" />
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
