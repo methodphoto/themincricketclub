@@ -14,6 +14,8 @@ parent: 1996 Fixtures
 
 After the defeat the skipper's 'lucky' underpants were burned and from now on this match will be played for The Ashes of said underpants
 
+<img src="burn.png" width="660" height="462" alt="The burning of the underpants" />
+
 J Stimfig fielded and P Grant batted
 
 ## Broadway and Horton Innings
