@@ -11,7 +11,7 @@ This cup in honour of the late Jerry Wright is presented to the Min Cricketer of
 
 The player chosen will have at some point in the season put the ball "on the noggin" or will have "run 'em up"
 
-<img src="../2008/20080712.jpg" alt="Jerry" title="The Jerry Wright Cup" width="60%" height="60%" />
+<img src="../2008/20080712.jpg" alt="Jerry" title="The Jerry Wright Cup" width="80%" height="80%" />
 
 
 | Year | Player |
