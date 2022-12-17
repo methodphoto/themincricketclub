@@ -89,3 +89,5 @@ parent: 2022 Fixtures
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 6 | 2 | 0 |
+
+[Next season:](/)

@@ -6,6 +6,7 @@ location: Hollowdene Recreation Ground
 date: 19/06/2022
 report: Fresham won the toss and inserted The Min who made 217 all out in 33.5 overs. Frensham replied with 219 for 5 wkts in 33.5 overs
 result: Frensham won by 5 wkts
+next: st-annes-allstars
 parent: 2022 Fixtures
 ---
 

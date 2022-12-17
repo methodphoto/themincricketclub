@@ -6,6 +6,7 @@ location: The Old Red Lion, Betchworth
 date: 11/09/2022
 report: Reigate Pilgrims won the toss and batted first making 164 all out. The Min replied with 128 all out when time ran out
 result: Match Drawn
+next: hornchurch-athletic
 parent: 2022 Fixtures
 ---
 

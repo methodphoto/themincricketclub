@@ -6,6 +6,7 @@ location: Banstead CC
 date: 28/08/2022
 report: Banstead won the toss and batted first making 270 for 3 wkts in 40 overs. The Min replied with 128 all out in 28.2 overs
 result: Banstead won by 142 runs
+next: reigate-pilgrims
 parent: 2022 Fixtures
 ---
 

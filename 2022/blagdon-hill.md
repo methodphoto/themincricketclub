@@ -6,6 +6,7 @@ location: Sellick's Green
 date: 07/07/2021
 report: Blagdon Hill won the toss and inserted The Min in a 40 over game. The Min made 252 for 8 wkts in 40 overs. Blagdon Hill replied with 168 all out in 33.2 overs
 result: The Min won by 84 runs
+next: broadway-and-horton
 parent: 2022 Fixtures
 ---
 

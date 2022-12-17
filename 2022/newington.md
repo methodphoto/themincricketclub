@@ -6,6 +6,7 @@ location: Bobbing Court
 date: 22/05/2022
 report: The Min won the toss and batted first scoring 237 for 4 wkts in 35 overs. Newington replied with 238 for 3 wkts
 result: Newington won by 7 wkts
+next: frensham
 parent: 2022 Fixtures
 ---
 

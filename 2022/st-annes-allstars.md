@@ -6,6 +6,7 @@ location: Joseph Hood Recreation Ground
 date: 26/06/2022
 report: The Min won the toss and inserted St Anne's who made 178 for 7 wkts in 35 overs. The Min made 182 for 3 wkts in reply in 28 overs
 result: The Min won by 7 wkts
+next: blagon-hill
 parent: 2022 Fixtures
 ---
 

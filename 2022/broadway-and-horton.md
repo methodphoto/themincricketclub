@@ -6,6 +6,7 @@ location: The Pound
 date: 08/07/2021
 report: The Min won the toss and batted first in a 35 over game, scored 192 all out in 31.1 overs. Broadway and Horton replied with 196 for 1 wkt in 20.4 overs
 result: Broadway and Horton won by 9 wkts
+next: banstead
 parent: 2022 Fixtures
 ---
 
