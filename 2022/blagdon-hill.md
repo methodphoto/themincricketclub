@@ -95,3 +95,5 @@ A Beswick's 11th 50 and highest score.
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 3 | 1 | 0 |
+
+{% include nextGame %}

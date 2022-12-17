@@ -96,3 +96,5 @@ J Stacey's 2nd 50 and highest score. Amazing catch by A Beswick.<br />
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 2 | 1 | 0 |
+
+{% include nextGame %}

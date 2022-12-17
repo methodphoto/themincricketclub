@@ -93,3 +93,5 @@ P Wigg's 4th 50
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 4 | 1 | 0 |
+
+{% include nextGame %}
