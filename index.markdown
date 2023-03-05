@@ -29,11 +29,8 @@ nav_order: 1
 | 6th | 14:00 | Blagdon Hill| [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
 | 7th | 13:00 | Broadway and Horton | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
 
-| August |  |  |  |
-|:---|:---|:---|:---|
-| 3rd | 13:00 | Railway Taverners | [N9 9HL](https://goo.gl/maps/xENoW4EHTBGNBsox5) |  |
-
 | September |  |  |  |
 |:---|:---|:---|:---|
+| 3rd | 13:00 | Railway Taverners | [N9 9HL](https://goo.gl/maps/xENoW4EHTBGNBsox5) |  |
 | 10th | 13:00 | Reigate Pilgrims| [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) |  |
 | 17th | 12:30 | Hornchurch Athletic | [RM11 1EX](https://goo.gl/maps/qELJ495rTjR5qBbm8) |  |
