@@ -14,10 +14,10 @@ nav_order: 110
 
 [£5.08 - 2023 Match Fee](https://square.link/u/i7Hu1QxI)
 
-[£20.35 - 2023 Season + Match Fee](https://square.link/u/UXsK85KG)
+[£20.35 - 2023 Season + 1 Match Fee](https://square.link/u/UXsK85KG)
 
 ### Tour
 
 [£10.15 - 2023 Tour Match Fee](https://square.link/u/gTBgT1yi)
 
-[£30.52 - 2023 Full Tour Fee](https://square.link/u/SjyXoAnM)
+[**£30.52** - 2023 Full Tour Fee](https://square.link/u/SjyXoAnM)
