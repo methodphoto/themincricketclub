@@ -20,7 +20,7 @@ parent: 2020s
 
 | June |  |  |  |
 |:---|:---|:---|:---|
-| 5th | 13:30 | -Stowting- | [TN25 6BD](https://goo.gl/maps/5KNmaMe6Wb42) |  |
+| 5th | 13:30 | ~~Stowting~~ | [TN25 6BD](https://goo.gl/maps/5KNmaMe6Wb42) |  |
 | 19th | 13:00 | [Frensham](frensham) | [GU10 3BJ](https://goo.gl/maps/4gohPpn1stdT6fnY7) | 🥪 |
 | 26th | 13:00 | [St Anne's Allstars](st-annes-allstars) | [SW20 9BX](https://goo.gl/maps/USvKiA2V8LZvJsje6) | 🥪 |
 
