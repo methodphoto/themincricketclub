@@ -27,7 +27,7 @@ parent: 2000s
 
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
-| 8th | 14:00 | <del>Broadway and Horton</del> | [Away](https://goo.gl/maps/ULbmC6LSX5HSAe8U6) |
+| 8th | 14:00 | ~~Broadway and Horton~~ | [Away](https://goo.gl/maps/ULbmC6LSX5HSAe8U6) |
 | 9th | 14:00 | [Kilmington and Stourton](kilmington-and-stourton) | [Away](https://goo.gl/maps/6q53XChZh9A2) |
 | 10th | 14:00 | [The Gents](the-gents) | [Away](https://goo.gl/maps/C6PZsUWo7FTHxd157) |
 | 11th | 14:00 | [Brookwood](brookwood) | [Away](https://goo.gl/maps/2T7QNFUSx1v9bzPY7) |

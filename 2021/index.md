@@ -13,18 +13,18 @@ parent: 2020s
 
 | May |  |  |  |
 |:---|:---|:---|:---|
-| 9th | 13:30 | <del>Stowting</del> | [TN25 6BD](https://goo.gl/maps/5KNmaMe6Wb42) |
+| 9th | 13:30 | ~~Stowting~~ | [TN25 6BD](https://goo.gl/maps/5KNmaMe6Wb42) |
 | 23rd | 13:00 | [Newington](newington) | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) |
 
 | June |  |  |  |
 |:---|:---|:---|:---|
 | 6th | 13:00 | [Bricklayer's Arms](bricklayers-arms) | [SW19 3DE](https://goo.gl/maps/PMzZkRR9hcDF5ZGHA) |
-| 20th | 13:00 | <del>Frensham</del> | [GU10 3BJ](https://goo.gl/maps/4gohPpn1stdT6fnY7) |
-| 27th | TBA | <del>Railway Taverners</del> |[NW1 4NU](https://goo.gl/maps/GTPbXYynmL9W9BcE8) |
+| 20th | 13:00 | ~~Frensham~~ | [GU10 3BJ](https://goo.gl/maps/4gohPpn1stdT6fnY7) |
+| 27th | TBA | ~~Railway Taverners~~ |[NW1 4NU](https://goo.gl/maps/GTPbXYynmL9W9BcE8) |
 
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
-| 7th | 18:00 | <del>Ilton</del> | [TA19 9EN](https://goo.gl/maps/ic4ipRMjEteck7KE9) |
+| 7th | 18:00 | ~~Ilton~~ | [TA19 9EN](https://goo.gl/maps/ic4ipRMjEteck7KE9) |
 | 8th | 14:00 | [Blagdon Hill](blagdon-hill) | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) |
 | 9th | 14:00 | [Broadway and Horton](broadway-and-horton) | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) |
 

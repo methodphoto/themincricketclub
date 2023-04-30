@@ -35,14 +35,14 @@ parent: 2010s
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 15th | 14:00 | <del>Tower of Dudes</del> | [Away]() |
+| 15th | 14:00 | ~~Tower of Dudes~~ | [Away]() |
 | 22nd | 14:00 | [Hampton Wick Royal](hampton-wick-royal) | [Away](https://goo.gl/maps/UazfFMrPaxxaveAd7) |
 
 | September |  |  |  |
 |:---|:---|:---|:---|
 | 5th | 14.00 | [SB Exiles](sb-exiles) | [Home](https://goo.gl/maps/UnwyEb5nVKuf4sHe8) |
 | 12th | 13:30 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
-| 19th | 13:00 | <del>Selling</del> | [Away](https://goo.gl/maps/pV2tb26PncWLNiBm9) |
+| 19th | 13:00 | ~~Selling~~ | [Away](https://goo.gl/maps/pV2tb26PncWLNiBm9) |
 | 26th | 12:30 | [Spencer](spencer) | [Away]([Spencer](spencer)) |
 
 [Next Season >](../2011)

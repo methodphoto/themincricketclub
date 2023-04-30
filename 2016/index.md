@@ -20,7 +20,7 @@ parent: 2010s
 | June |  |  |  |
 |:---|:---|:---|:---|
 | 5th | 14:00 | [Frensham](frensham) | [GU10 3BJ](https//goo.gl/maps/xBUZvPU1vnK2) |
-| 12th | 13:00 | <del>Newdigate</del>) | [RH5 5AE](http://goo.gl/maps/2RKzj) |
+| 12th | 13:00 | ~~Newdigate~~) | [RH5 5AE](http://goo.gl/maps/2RKzj) |
 | 26th | 13:00 | [Watton-at-Stone](watton-at-stone) | [SG14 3SF](https://goo.gl/maps/2oHFhgW7cVt) |
 
 | July – Tour |  |  |  |
@@ -32,8 +32,8 @@ parent: 2010s
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 21st | 13:30 | <del>Headley</del> | [KT18 6QA](https://goo.gl/maps/pn4ojVfCN722) |
-| 28th | 13:30 | <del>Stowting</del> | [TN25 6BD](https//goo.gl/maps/5KNmaMe6Wb422) |
+| 21st | 13:30 | ~~Headley~~ | [KT18 6QA](https://goo.gl/maps/pn4ojVfCN722) |
+| 28th | 13:30 | ~~Stowting~~ | [TN25 6BD](https//goo.gl/maps/5KNmaMe6Wb422) |
 
 | September |  |  |  |
 |:---|:---|:---|:---|

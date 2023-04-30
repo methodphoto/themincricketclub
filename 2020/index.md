@@ -11,23 +11,23 @@ Many games cancelled due to Covid-19 restrictions
 
 | April |  |  |  |
 |:---|:---|:---|:---|
-| 26th | 13:30 | <del>Middleton Stoney</del> | [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) |
+| 26th | 13:30 | ~~Middleton Stoney~~ | [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) |
 
 | May |  |  |  |
 |:---|:---|:---|:---|
-| 10th | 13:30 | <del>Stowting</del> | [TN25 6BD](https//goo.gl/maps/5KNmaMe6Wb42) |
-| 24th | 14:00 | <del>Frensham</del> | [GU10 3BJ](https//goo.gl/maps/xBUZvPU1vnK2) |
-| 31st | 13:00 | <del>Newington</del> | [ME9 8NN](https//goo.gl/maps/2XwQKWc9brr) |
+| 10th | 13:30 | ~~Stowting~~ | [TN25 6BD](https//goo.gl/maps/5KNmaMe6Wb42) |
+| 24th | 14:00 | ~~Frensham~~ | [GU10 3BJ](https//goo.gl/maps/xBUZvPU1vnK2) |
+| 31st | 13:00 | ~~Newington~~ | [ME9 8NN](https//goo.gl/maps/2XwQKWc9brr) |
 
 | June |  |  |  |
 |:---|:---|:---|:---|
-| 21st | TBA | <del>Railway Taverners</del> | [N8 8JJ](https//goo.gl/maps/BuCf1MgUwJTViZ4YA) |
+| 21st | TBA | ~~Railway Taverners~~ | [N8 8JJ](https//goo.gl/maps/BuCf1MgUwJTViZ4YA) |
 
 | July Tour |  |  |  |
 |:---|:---|:---|:---|
-| 8th | 18:00 | <del>Frensham</del> | [GU10 3BJ](https//goo.gl/maps/xBUZvPU1vnK2) |
-| 9th | 14:00 | <del>Blagdon Hill</del> | [TA3 7SA](https//goo.gl/maps/H6iLZLNcja12) |
-| 10th | 14:00 | <del>Broadway and Horton</del> | [TA19 9RA](https://goo.gl/maps/ULbmC6LSX5HSAe8U6) |
+| 8th | 18:00 | ~~Frensham~~ | [GU10 3BJ](https//goo.gl/maps/xBUZvPU1vnK2) |
+| 9th | 14:00 | ~~Blagdon Hill~~ | [TA3 7SA](https//goo.gl/maps/H6iLZLNcja12) |
+| 10th | 14:00 | ~~Broadway and Horton~~ | [TA19 9RA](https://goo.gl/maps/ULbmC6LSX5HSAe8U6) |
 
 | July |  |  |  |
 |:---|:---|:---|:---|
@@ -40,8 +40,8 @@ Many games cancelled due to Covid-19 restrictions
 
 | September |  |  |  |
 |:---|:---|:---|:---|
-| 6th | 13:00 | <del>Woodcoombe CC</del> | [ME10 3RT](https://goo.gl/maps/rMva1ta8sRDV8z768) |
+| 6th | 13:00 | ~~Woodcoombe CC~~ | [ME10 3RT](https://goo.gl/maps/rMva1ta8sRDV8z768) |
 | 13th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) |
-| 27th | 12:00 | <del>Selling</del> | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
+| 27th | 12:00 | ~~Selling~~ | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
 
 [Next Season >](../2021)

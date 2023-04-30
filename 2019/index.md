@@ -14,7 +14,7 @@ parent: 2010s
 
 | May |  |  |  |
 |:---|:---|:---|:---|
-| 11th | tbd | <del>Stowting</del> | [TN25 6BD](https//goo.gl/maps/5KNmaMe6Wb42) |
+| 11th | tbd | ~~Stowting~~ | [TN25 6BD](https//goo.gl/maps/5KNmaMe6Wb42) |
 | 19th | 13:00 | [Newington](newington) | [ME9 8NN](https//goo.gl/maps/2XwQKWc9brr) |
 
 | June |  |  |  |
@@ -36,6 +36,6 @@ parent: 2010s
 | September |  |  |  |
 |:---|:---|:---|:---|
 | 13th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) |
-| 27th | 12:00 | <del>Selling</del> | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
+| 27th | 12:00 | ~~Selling~~ | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
 
 [Next Season >](../2020)

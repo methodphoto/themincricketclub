@@ -27,7 +27,7 @@ parent: 2020s
 
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
-| 6th | 18:00 | -Ilton- | [TA19 9EN](https://goo.gl/maps/ic4ipRMjEteck7KE9)  |
+| 6th | 18:00 | ~~Ilton~~ | [TA19 9EN](https://goo.gl/maps/ic4ipRMjEteck7KE9)  |
 | 7th | 14:00 | [Blagdon Hill](blagdon-hill) | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) |  |
 | 8th | **13:00** | [Broadway and Horton](broadway-and-horton) | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
 
@@ -39,3 +39,4 @@ parent: 2020s
 |:---|:---|:---|:---|
 | 11th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) |  |
 | 18th | 12:30 | [Hornchurch Athletic](hornchurch-athletic) | [RM11 1EX](https://goo.gl/maps/qELJ495rTjR5qBbm8) |  |
+
