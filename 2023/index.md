@@ -9,13 +9,12 @@ nav_order: 6
 
 | April |  |  |  |
 |:---|:---|:---|:---|
-| 23rd | 13:00 | --Middleton Stoney-- | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
+| 23rd | 13:00 | ~~Middleton Stoney~~ | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
 
 **29th April [41st Anniversary of The Min](../1982/clifton-hill-house)**
 
 | May |  |  |  |
 |:---|:---|:---|:---|
-| 14th | 13:00 | TBC |  |  |
 | 21st | 13:00 | Newington | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) |  |
 
 | June |  |  |  |

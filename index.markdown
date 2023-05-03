@@ -14,7 +14,6 @@ nav_order: 1
 
 | May |  |  |  |
 |:---|:---|:---|:---|
-| 14th | 13:00 | TBC |  |  |
 | 21st | 13:00 | Newington | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) |  |
 
 | June |  |  |  |
