@@ -9,6 +9,10 @@ parent: Results
 
 | 2022 |  |  |
 |:---|:---|:---|
+| 21/05/2023 | [Newington](../2022/newington) | Lost |
+
+| 2022 |  |  |
+|:---|:---|:---|
 | 18/09/2022 | [Hornchurch Athletic](../2022/hornchuch-athletic) | Lost |
 | 11/09/2022 | [Reigate Pilgrims](../2022/reigate-pilgrims) | Drawn |
 | 28/08/2022 | [Banstead](../2022/banstead) | Lost |
