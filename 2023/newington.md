@@ -4,8 +4,8 @@ title: Newington
 game: Newington v The Min
 location: Bobbing Court
 date: 21/05/2023
-report: Newington won the toss and batted first scoring 271 for 8 wkts in 35 overs. The Min replied with 210 for 8 wkts
-result: Newington won by 61 runs
+report: Newington won the toss and batted first scoring 272 for 8 wkts in 35 overs. The Min replied with 210 for 8 wkts
+result: Newington won by 62 runs
 next: stowting
 parent: 2023 Fixtures
 ---
@@ -30,8 +30,8 @@ A Venkatasamy first 50 for the Min
 | **T Bond** | not out |  | 0 |
 | **As Rasheed** | not out |  | 4 |
 | **L Morgan** | dnb | |  |
-| **Extras** | | (7b 1lb 9w 2nb 0p) | **18** |
-| **Total** | | (35 overs) | **2718 for 8 wkts** |
+| **Extras** | | (7b 1lb 9w 2nb 0p) | **19** |
+| **Total** | | (35 overs) | **272 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -66,7 +66,7 @@ A Venkatasamy first 50 for the Min
 | **R Coyle** | c & b | TJ Singh | 12 |
 | **Ro Coyle** | not out |  | 0 |
 | **C Wright** | dnb |  |  |
-| **Extras** | | (9b 7lb 1w 2nb 0p) | **14** |
+| **Extras** | | (9b 2lb 1w 2nb 0p) | **14** |
 | **Total** | | (35 overs) | **210 for 8 wkts** |
 
 ## Fall of Wickets
