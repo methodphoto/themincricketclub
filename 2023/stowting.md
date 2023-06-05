@@ -11,7 +11,7 @@ next: frensham
 parent: 2023 Fixtures
 ---
 
-{% include matchDetails }
+{% include matchDetails %}
 
 ## {{page.us}} Innings
 

@@ -18,7 +18,7 @@ nav_order: 1
 
 | June |  |  |  |
 |:---|:---|:---|:---|
-| 4th | 13:00 | Stowting | [TN25 6BD](https://goo.gl/maps/5KNmaMe6Wb42) |  |
+| 4th | 13:00 | [Stowting](stowting) | [TN25 6BD](https://goo.gl/maps/5KNmaMe6Wb42) |  |
 | 18th | 13:00 | Frensham | [GU10 3BJ](https://goo.gl/maps/4gohPpn1stdT6fnY7) |  |
 | 25th | 13:00 | St Anne's Allstars | [SW20 9BX](https://goo.gl/maps/USvKiA2V8LZvJsje6) |  |
 
