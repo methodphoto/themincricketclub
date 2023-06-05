@@ -7,8 +7,9 @@ parent: Results
 
 # {{page.title}}
 
-| 2022 |  |  |
+| 2023 |  |  |
 |:---|:---|:---|
+| 04/06/2023 | [Stowting](../2022/stowting) | Lost |
 | 21/05/2023 | [Newington](../2022/newington) | Lost |
 
 | 2022 |  |  |
