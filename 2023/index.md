@@ -15,7 +15,7 @@ nav_order: 6
 
 | May |  |  |  |
 |:---|:---|:---|:---|
-| 21st | 13:00 | Newington | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) |  |
+| 21st | 13:00 | [Newington](newington) | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) |  |
 
 | June |  |  |  |
 |:---|:---|:---|:---|
@@ -29,7 +29,7 @@ nav_order: 6
 | 6th | 14:00 | Blagdon Hill| [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
 | 7th | 13:00 | Broadway and Horton | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
 
-| July - Tour |  |  |  |
+| July |  |  |  |
 |:---|:---|:---|:---|
 | 23rd | 13:00 | Banstead | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) |  |
 
