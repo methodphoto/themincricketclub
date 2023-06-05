@@ -14,7 +14,7 @@ parent: Results
 | **Broadway and Horton** | 29 | 16 | 10 | 3 | 0 | 55.17 | 6 |
 | **Reigate Pilgrims** | 29 | 7 | 11 | 11 | 0 | 24.13 | -4 |
 | **Ashes Matches** | 23 | 14 | 8 | 1 | 0 | 60.87 | 6 |
-| **Stowting** | 23 | 8 | 4 | 11 | 0 | 34.78 | 4 |
+| **Stowting** | 24 | 8 | 5 | 11 | 0 | 33.33 | 3 |
 | **Selling** | 16 | 8 | 8 | 0 | 0 | 50.00 | 0 |
 | **Middleton Stoney** | 12 | 3 | 3 | 6 | 0 | 25.00 | 0 |
 | **Newington** | 12 | 6 | 6 | 0 | 0 | 50 |  |
