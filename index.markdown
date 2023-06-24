@@ -20,7 +20,7 @@ nav_order: 1
 |:---|:---|:---|:---|
 | 4th | 13:00 | [Stowting](2023/stowting) | [TN25 6BD](https://goo.gl/maps/5KNmaMe6Wb42) |  |
 | 18th | 13:00 | ~~Frensham~~ | [GU10 3BJ](https://goo.gl/maps/4gohPpn1stdT6fnY7) |  |
-| 25th | 13:00 | St Anne's Allstars | [SW20 9BX](https://goo.gl/maps/USvKiA2V8LZvJsje6) |  |
+| 25th | 13:00 | St Anne's Allstars | [SM4 4PF](https://maps.app.goo.gl/nX5ihi5okBmki9TA9?g_st=ic) |  |
 
 
 | July - Tour |  |  |  |
