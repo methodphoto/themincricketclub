@@ -9,8 +9,9 @@ parent: Results
 
 | 2023 |  |  |
 |:---|:---|:---|
-| 04/06/2023 | [Stowting](../2022/stowting) | Lost |
-| 21/05/2023 | [Newington](../2022/newington) | Lost |
+| 25/06/2023 | [St Anne's Allstars](../2023/st-annes-allstars) | Lost |
+| 04/06/2023 | [Stowting](../2023/stowting) | Lost |
+| 21/05/2023 | [Newington](../2023/newington) | Lost |
 
 | 2022 |  |  |
 |:---|:---|:---|

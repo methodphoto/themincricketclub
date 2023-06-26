@@ -1,19 +1,19 @@
 ---
 layout: default
-title: St Anne's Allstars
+title: Stowting
 us: The Min
-game: The Min v St Anne's Allstars
-location: King George's Playing Fields, Merton
-date: 25/06/2023
-report: The Min won the toss and inserted St Anne's who made 169 for . The Min replied with 130 for 9 wkts (all out)
-result: St Anne's Allstars won by 8 runs
-next: blagdon-hill
+game: Stowting v The Min
+location: Dawes Field
+date: 04/06/2023
+report: Stowting won the toss in a 35 over game and inserted the Min who made 120 for 9 wkts (all out) in 31.4 overs. Stowting replied with 123 for 2 in 23.4 overs. 
+result: Stowting won by 8 wkts
+next: frensham
 parent: 2023 Fixtures
 ---
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.us}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -51,7 +51,7 @@ parent: 2023 Fixtures
 | **S Wallace** | 3 | 1 | 19 | 5 |
 | **L Friend** | 2.4 | 0 | 9 | 1 |
 
-## {{page.us}} Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
