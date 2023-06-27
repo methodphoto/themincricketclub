@@ -57,7 +57,7 @@ parent: 1986 Fixtures
 | **R Beswick &#42;** | c | Cook | 21 |
 | **W Calvert** | run out  |  | 38 |
 | **A Fielding** | not out |  | 36 |
-| **M Kirwan** | hit wicket | Chisholm | 4 |
+| **M Kirwan** | hit wkt | Chisholm | 4 |
 | **A Sylvester** | not out |  | 17 |
 | **D Young** | dnb |  |  |
 | **E Garland** | dnb | |  |

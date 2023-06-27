@@ -2,97 +2,95 @@
 layout: default
 title: Stowting
 us: The Min
-game: Stowting v The Min
-location: Dawes Field
+game: The Min v St Anne's Allstars 
+location: King George's Playing Fields, Lower Merton
 date: 04/06/2023
-report: Stowting won the toss in a 35 over game and inserted the Min who made 120 for 9 wkts (all out) in 31.4 overs. Stowting replied with 123 for 2 in 23.4 overs. 
-result: Stowting won by 8 wkts
-next: frensham
+report: The Min won the toss and inserted St Anne's who made 169 for 9 wkts. The Min replied with 130 all out. 
+result: St Anne's Allstars won by 8 wkts
+next: broadway-and-horton
 parent: 2023 Fixtures
 ---
 
 {% include matchDetails %}
 
-## {{page.us}} Innings
-
-| Batsman | Dismissal | | Runs |
-|:---|:---|---|---:|
-| **R Earney** | b | C Ball | 5 |
-| **R Beswick &#42;** | b | L Baker | 29 |
-| **A Beswick** | c C Knight | P Blake | 10 |
-| **B Boyd-Taylor** | b | C Knight | 7 |
-| **A Gallagher** | run out (I Barwick) |  | 2 |
-| **W Calvert** | lbw | L Friend | 32 |
-| **P Wigg** | lbw | C Knight | 8 |
-| **P Beswick** | c I Barwick | S Wells | 7 |
-| **J Casey** | c C Ball | S Wells | 0 |
-| **J Grant &#8224;** | not out |  | 0 |
-| | | | |
-| **Extras** | | (5b 2lb 10w 2nb 0p) | **20** |
-| **Total** | | (31.4 overs) | **120 for 9 wkts (all out)** |
-
-## Fall of Wickets
-
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 22 | 51 | 51 | 61 | 63 | 92 | 116 | 116 |  |  | 
-| **Batsman** | 1 | 2 | 3 | 5 | 4 | 7 | 8 | 9 |  |  | 
-
-## Bowling
-
-| | O | M | R | W |
-|---|:---|:---|:---|:---|
-| **C Ball** | 6 | 3 | 6 | 1 |
-| **I Barwick** | 4 | 1 | 15 | 0 |
-| **L Baker** | 4 | 0 | 27 | 1 |
-| **P Blake** | 4 | 0 | 19 | 2 |
-| **C Knight** | 5 | 0 | 14 | 2 |
-| **L Carroll** | 3 | 0 | 11 | 0 |
-| **S Wallace** | 3 | 1 | 19 | 5 |
-| **L Friend** | 2.4 | 0 | 9 | 1 |
-
 ## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **J Dunning &#8224;** | retired |  | 35 |
-| **T Bird** | retired |  | 50 |
-| **S Wallis** | not out |  | 8 |
-| **P Blake** | not out |  | 18 |
-| **L Baker** | dnb |  |  |
-| **T Williams** | dnb |  |  |
-| **C Knight** | dnb |  |  |
-| **L Carroll** | dnb |  |  |
-| **I Barwick** | dnb |  |  |
-| **C Ball** | dnb |  |  |
-| **L Friend** | dnb |  |  |
-| **Extras** | | (6b 0lb 4w 2nb 0p) | **12** |
-| **Total** | | (22.4 overs) | **123 for 2 wkts** |
+| **P Creswell &#8224;** | b | P Wigg | 0 |
+| **S Divdyal** | b | J Casey | 0 |
+| **M Lo** | b | P Wigg | 28 |
+| **A Lipscombe** | b | P Wigg | 5 |
+| **J Scott** | b | P Wigg | 0 |
+| **V Adams** | b | E Garland | 35 |
+| **V Seth &#42;** | c R Beswick | K Usanga | 10 |
+| **Pradesh** | b | R Beswick | 23 |
+| **Amit** | c R Damaze | R Beswick | 27 |
+| **Barartwas** | not out |  | 22 |
+| **Raghavendra** | dnb |  |  |
+| **Extras** | | (8b 0lb 12w 0nb 0p) | **20** |
+| **Total** | | (32 overs) | **169 for 9 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 90 | 90 |  |  |  |  |  |  |  |  |
-| **Batsman** | 1 | 2 |  |  |  |  |  |  |  |  | 
+| **Score** | 0 | 0 | 9 | 17 | 42 | 62 | 100 | 121 | 160 |  | 
+| **Batsman** | 1  | 3  | 4  | 5  | 2  |  6 | 7  |  8 | 9 |  | 
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **P Wigg** | 6 | 0 | 20 | 0 |
-| **J Casey** | 4 | 1 | 20 | 0 |
-| **R Earney** | 2 | 0 | 26 | 0 |
-| **R Beswick** | 1 | 0 | 10 | 0 |
-| **P Beswick** | 5 | 1 | 22 | 0 |
-| **A Beswick** | 4 | 1 | 13 | 0 |
-| **B Boyd-Taylor** | 0.4 | 0 | 4 | 0 |
+| **P Wigg** | 7 | 4 | 10 | 4 |
+| **J Casey** | 6 | 1 | 32 | 1 |
+| **E Garland** | 8 | 0 | 52 | 1 |
+| **K Usanga** | 4 | 1 | 18 | 0 |
+| **R Beswick** | 6 | 0 | 36 | 1 |
+| **R Earney** | 2 | 0 | 19 | 0 |
 
+## {{page.us}} Innings
+
+| Batsman | Dismissal | | Runs |
+|:---|:---|---|---:|
+| **R Earney** | b | Raghavendra | 16 |
+| **R Beswick &#42;** | lbw | S Divdyal | 19 |
+| **I Strawson** | lbw | Amit | 13 |
+| **R Damaze** | b | A Lipscombe | 32 |
+| **A Gallagher** | b | S Divdyal| 1 |
+| **P Wigg** | not out |  | 22 |
+| **J Casey** | b | A Lipscombe | 0 |
+| **K Usanga** | c | R Scott | 0 |
+| **E Garland** | hit wkt | R Scott | 0 |
+| **J Grant &#8224;** | b | Amit | 4 |
+| | | | |
+| **Extras** | | (7b 1lb 10w 2nb 0p) | **20** |
+| **Total** | | (0.4 overs) | **130 for 9 wkts (all out)** |
+
+## Fall of Wickets
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Score** | 24 | 54 | 54 | 67 | 105 | 114 | 115 | 115 | 130 |  |
+| **Batsman** | 1 | 2 | 3 | 5 | 4 | 7 | 8 | 9 | 10 |  | 
+
+## Bowling
+
+| | O | M | R | W |
+|---|:---|:---|:---|:---|
+| **Raghavendra** | 5 | 0 | 21 | 1 |
+| **Pradesh** | 4 | 0 | 18 | 1 |
+| **Amit** | 6.4 | 0 | 27 | 1 |
+| **S Divdyal** | 3 | 0 | 12 | 2 |
+| **V Seth** | 4 | 0 | 11 | 0 |
+| **Barartwas** | 1 | 0 | 12 | 0 |
+| **A Lipscombe** | 3 | 1 | 4 | 2 |
+| **R Scott** | 3 | 0 | 18 | 2 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 0 | 2 | 0 | 0 |
+| 0 | 3 | 0 | 0 |
 
 {% include nextGame %}
