@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2022 Statistics
+title: 2023 Statistics
 nav_order: 20
 parent: Statistics
 ---
