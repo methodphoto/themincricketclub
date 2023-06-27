@@ -45,7 +45,7 @@ parent: 2023 Fixtures
 | **P Wigg** | 7 | 4 | 10 | 4 |
 | **J Casey** | 6 | 1 | 32 | 1 |
 | **E Garland** | 8 | 0 | 52 | 1 |
-| **K Usanga** | 4 | 1 | 18 | 0 |
+| **K Usanga** | 4 | 1 | 18 | 1 |
 | **R Beswick** | 6 | 0 | 36 | 1 |
 | **R Earney** | 2 | 0 | 19 | 0 |
 
@@ -65,7 +65,7 @@ parent: 2023 Fixtures
 | **J Grant &#8224;** | b | Amit | 4 |
 | | | | |
 | **Extras** | | (7b 1lb 10w 2nb 0p) | **20** |
-| **Total** | | (0.4 overs) | **130 for 9 wkts (all out)** |
+| **Total** | | (30.4 overs) | **130 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 
