@@ -53,7 +53,7 @@ parent: Results
 | 19/05/2019 | [Newington](../2019/newington) | Lost |
 | 02/06/2019 | [Frensham](../2019/frensham) | **Won** |
 | 09/06/2019 | [Newdigate](../2019/newdigate) | Lost |
-| 21/06/2020 | [Railway Taverners](../2019/railway-taverners) | **Won** |
+| 21/06/2019 | [Railway Taverners](../2019/railway-taverners) | **Won** |
 | 03/07/2019 | [Cerne Valley](../2019/cerne-valley) | **Won** |
 | 04/07/2019 | [Blagdon Hill](../2019/blagdon-hill) | Lost |
 | 05/07/2019 | [Broadway and Horton](../2019/broadway-and-horton) | **Won** |
@@ -101,7 +101,7 @@ parent: Results
 | 10/07/2016 | [Kilmington and Stourton](../2016/kilmington-and-stourton) | Lost |
 | 04/09/2016 | [Brasted Invicta](../2016/brasted-invicta) | **Won** |
 | 11/09/2016 | [Reigate Pilgrims](../2016/reigate-pilgrims) | Drawn |
-| 18/09/2016} | [Selling](../2016/selling) | **Won** |
+| 18/09/2016 | [Selling](../2016/selling) | **Won** |
 
 | 2015 |  |  |
 |:---|:---|:---|
@@ -196,7 +196,7 @@ parent: Results
 | 25/05/2010 | [ELCCC](../2010/elccc) | **Won** |
 | 06/06/2010 | [Middleton Stoney](../2010/middleton-stoney) | Drawn |
 | 13/06/2010 | [Newdigate](../2010/newdigate) | **Won** |
-| 20/06/2009 | [Watton-at-Stone](../2010/watton-at-stone) | Lost |
+| 20/06/2010 | [Watton-at-Stone](../2010/watton-at-stone) | Lost |
 | 04/07/2010 | [Stowting](../2010/stowting) | **Won** |
 | 08/07/2010 | [Broadway and Horton](../2010/broadway-and-horton) | **Won** |
 | 09/07/2010 | [Kilmington and Stourton](../2010/kilmington-and-stourton) | Lost |
@@ -209,8 +209,8 @@ parent: Results
 
 | 2009 |  |  |
 |:---|:---|:---|
-| 25/04/2005 | [Britwell Salome](../2009/britwell-salome) | **Won** |
-| 12/05/1991 | [Ockley](../2009/ockley) | Drawn |
+| 25/04/2009 | [Britwell Salome](../2009/britwell-salome) | **Won** |
+| 12/05/2009 | [Ockley](../2009/ockley) | Drawn |
 | 14/06/2009 | [Newdigate](../2009/newdigate) | **Won** |
 | 21/06/2009 | [Watton-at-Stone](../2009/watton-at-stone) | **Won** |
 | 05/07/2009 | [Stowting](../2009/stowting) | Drawn |
@@ -222,7 +222,7 @@ parent: Results
 | 23/08/2009 | [SB Exiles](../2009/sb-exiles) | Lost |
 | 06/09/2009 | [Tower of Dudes](../2009/tower-of-dudes) | **Won** |
 | 13/09/2009 | [Reigate Pilgrims](../2009/reigate-pilgrims) | **Won** |
-| 20/09/2009} | [Selling](../2009/selling) | Lost |
+| 20/09/2009 | [Selling](../2009/selling) | Lost |
 
 | 2008 |  |  |
 |:---|:---|:---|
