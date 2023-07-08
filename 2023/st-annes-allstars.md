@@ -7,7 +7,7 @@ location: King George's Playing Fields, Lower Merton
 date: 04/06/2023
 report: The Min won the toss and inserted St Anne's who made 169 for 9 wkts. The Min replied with 130 all out. 
 result: St Anne's Allstars won by 8 wkts
-next: broadway-and-horton
+next: blagdon-hill
 parent: 2023 Fixtures
 ---
 

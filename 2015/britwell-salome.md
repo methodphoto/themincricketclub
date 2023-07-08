@@ -58,10 +58,10 @@ parent: 2015 Fixtures
 | **G Daley &#8224;** | dnb |  |  |
 | **R Damaze** | dnb |  |  |
 | **Beswick** | dnb |  |  |
-| **Gardiner** | dnb |  |  |
-| **Fielding** | dnb |  |  |
-| **Young** | dnb |  |  |
-| **Wright** | dnb |  |  |
+| **M Gardiner** | dnb |  |  |
+| **A Fielding** | dnb |  |  |
+| **D Young** | dnb |  |  |
+| **J Wright** | dnb |  |  |
 | **Extras** | | (1b 1lb 1w 1nb 0p) | **4** |
 | **Total** | | (12.2 overs) | **55 for 1 wkt** |
 
