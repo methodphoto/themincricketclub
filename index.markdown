@@ -25,7 +25,7 @@ nav_order: 1
 
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
-| 6th | 14:00 | Blagdon Hill| [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
+| 6th | 14:00 | [Blagdon Hill](2023/blagdon-hill) | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
 | 7th | 13:00 | Broadway and Horton | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
 
 | July |  |  |  |

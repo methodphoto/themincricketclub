@@ -9,6 +9,8 @@ parent: Results
 
 | 2023 |  |  |
 |:---|:---|:---|
+| 07/07/2023 | [Broadway and Horton](../2023/broadway-and-horton) | Won |
+| 06/07/2023 | [Blagdon Hill](../2023/blagdon-hill) | Lost |
 | 25/06/2023 | [St Anne's Allstars](../2023/st-annes-allstars) | Lost |
 | 04/06/2023 | [Stowting](../2023/stowting) | Lost |
 | 21/05/2023 | [Newington](../2023/newington) | Lost |

@@ -11,15 +11,15 @@ parent: Results
 
 | Opponent | Played | Won | Lost | Drawn | Tied | % Wins | Overall |
 |:---|:---|:---|:---|:---|:---|:---|---:|
-| **Broadway and Horton** | 29 | 16 | 10 | 3 | 0 | 55.17 | 6 |
+| **Broadway and Horton** | 30 | 17 | 10 | 3 | 0 | 56.66 | +7 |
 | **Reigate Pilgrims** | 29 | 7 | 11 | 11 | 0 | 24.13 | -4 |
-| **Ashes Matches** | 23 | 14 | 8 | 1 | 0 | 60.87 | 6 |
-| **Stowting** | 24 | 8 | 5 | 11 | 0 | 33.33 | 3 |
+| **Ashes Matches** | 24 | 15 | 8 | 1 | 0 | 62.5 | +7 |
+| **Stowting** | 25 | 8 | 6 | 11 | 0 | 32.00 | +2 |
 | **Selling** | 16 | 8 | 8 | 0 | 0 | 50.00 | 0 |
 | **Middleton Stoney** | 12 | 3 | 3 | 6 | 0 | 25.00 | 0 |
 | **Newington** | 12 | 6 | 6 | 0 | 0 | 50 |  |
-| **Frensham** | 8 | 5 | 2 | 1 | 0 | 62.5 | 3 |
-| **Blagdon Hill** | 7 | 3 | 4 | 0 | 0 | 42.85 | -1 |
+| **Frensham** | 8 | 5 | 2 | 1 | 0 | 62.5 | +3 |
+| **Blagdon Hill** | 8 | 3 | 5 | 0 | 0 | 37.5 | -2 |
 
 ## No longer playing
 
