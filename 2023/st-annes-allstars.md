@@ -46,7 +46,7 @@ parent: 2023 Fixtures
 | **J Casey** | 6 | 1 | 32 | 1 |
 | **E Garland** | 8 | 0 | 52 | 1 |
 | **K Usanga** | 4 | 1 | 18 | 1 |
-| **R Beswick** | 6 | 0 | 36 | 1 |
+| **R Beswick** | 6 | 0 | 36 | 2 |
 | **R Earney** | 2 | 0 | 19 | 0 |
 
 ## {{page.us}} Innings
