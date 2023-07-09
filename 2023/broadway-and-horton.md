@@ -4,7 +4,7 @@ title: Broadway and Horton
 us: The Min
 game: The Min v Broadway and Horton 
 location: The Pound
-date: 076/07/2023
+date: 07/07/2023
 report: Broadway and Horton won the toss and batted first scoring 194 for 8 wkts 35 overs. The Min replied with 195 for 7 wkts in 28.2 overs. 
 result: The Min regained The Ashes by 3 wkts
 next: banstead
