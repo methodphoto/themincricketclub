@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Payments
-nav_order: 110
+title: Tour Payments
+nav_order: 115
+parent: Payments
 ---
 
 # {{page.title}}

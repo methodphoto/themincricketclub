@@ -5,11 +5,15 @@ nav_order: 100
 has_children: true
 ---
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+# {{page.title}}
+
+[Batting Honours Board](honours-board-batting)
+
+
+[Bowling Honours Board](honours-board-bowling)
+
+[Partnerships](partnerships)
+
+[Club Records](club-records)
+
+[The Jerry Wright Cup](the-jerry-wright-cup)
