@@ -74,7 +74,7 @@ parent: 1992 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-|  |  |  |  |  |
+| **R Beswick** | 1	 | 0 | 2 | 1 |
 
 
 ## Win/Loss Ratio

@@ -25,7 +25,7 @@ parent: 1989 Fixtures
 | **R Beswick &#42;** | b | Guthrie | 21 |
 | **M Gardiner** | run out |  | 2 |
 | **R Olver** | not out |  | 1 |
-|  |  |  |  |
+| **G Wright** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (11b 7lb 10w 1nb) | **29** |
 | **Total** | | (40 overs) | **248 for 7 wkts** |

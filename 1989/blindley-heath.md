@@ -20,10 +20,10 @@ I Marshall hattrick off the last 3 balls of the game
 |:---|:---|---|---:|
 | **J Grant &#8224;** | c M Jones | M Day | 0 |
 | **D Young** | b | M Day | 1 |
-| **W Chapman** | b | M Day | 11 |
+| **W Chapman &#42;** | b | M Day | 11 |
 | **P Bentley** | c T Burchett | M Day| 13 |
 | **I Marshall** | run out |  | 16 |
-| **R Beswick &#42;** | b | J Mather | 16 |
+| **R Beswick** | b | J Mather | 16 |
 | **W Calvert** | b | V Jones | 20 |
 | **A Fielding** | b | M Day | 26 |
 | **E Garland** | not out |  | 48 |
