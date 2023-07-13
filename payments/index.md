@@ -10,14 +10,12 @@ nav_order: 110
 
 (prices include a transaction fee)
 
-[**£15.26** - 2023 Season Fee](https://square.link/u/dktjDXJH)
+[**£20.00** - 2023 Season Fee](https://revolut.pro/payment-link/oTH6Pv9XCJVv3aslolpGpg)
 
-[**£5.08** - 2023 Match Fee](https://square.link/u/i7Hu1QxI)
+[**£5.00** - 2023 Match Fee](https://revolut.pro/payment-link/ok_hjUTWlzNr0ywKj69HZg)
 
-[**£20.35** - 2023 Season + 1 Match Fee](https://square.link/u/UXsK85KG)
+[**£25.00** - 2023 Season + 1 Match Fee](https://revolut.pro/payment-link/qvKWuqhHKZ0mM3qhX8VJ7A)
 
 ### Tour
 
-[**£10.15** - 2023 Tour Match Fee](https://square.link/u/gTBgT1yi)
-
-[**£30.52** - 2023 Full Tour Fee](https://square.link/u/SjyXoAnM)
+For tour fees go [here](tour)

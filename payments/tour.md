@@ -11,11 +11,11 @@ parent: Payments
 
 Season + Tour Games
 
-[**£40.00** - 2023 Season Fee + 2 Tour Games](https://checkout.square.site/merchant/MLAPKTKVK1DFY/checkout/AEBMTJQD4APV5KNIJJV7BDP7)
+[**£40.00** - 2023 Season Fee + 2 Tour Games](https://revolut.pro/payment-link/hwWeVczsNnttl9PS_VFGXg)
 
-[**£30.00** - 2023 Season Fee + 1 Tour Game](https://checkout.square.site/merchant/MLAPKTKVK1DFY/checkout/6E57QBHIW7GXEETA5DNT4W5W)
+[**£30.00** - 2023 Season Fee + 1 Tour Game](https://revolut.pro/payment-link/vjl76MikPmiwEj23DMhGyg)
 
 
 Tour Games
 
-[**£10.00** - 2023 Tour Game](https://square.link/u/gTBgT1yi)
+[**£10.00** - 2023 Tour Game](https://revolut.pro/payment-link/plpiqextM4guJRuRvYlOag)
