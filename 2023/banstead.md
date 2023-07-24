@@ -55,7 +55,7 @@ parent: 2023 Fixtures
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **R Earney** | b | D Thorpe | 4 |
-| **A Beswick &#8224;** | not out |  | 19 |
+| **A Beswick &#42;** | not out |  | 19 |
 | **P Stallard** | run out |  | 0 |
 | **R Damaze** | b | D Thorpe | 8 |
 | **A Gallagher** | c L Marsh | M Al-Azzawi | 0 |
