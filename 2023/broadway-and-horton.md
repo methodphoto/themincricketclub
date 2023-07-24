@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
-us: The Min
-game: The Min v Broadway and Horton 
+awayTeam: The Min
+homeTeam: The Min v Broadway and Horton 
 location: The Pound
 date: 07/07/2023
 report: Broadway and Horton won the toss and batted first scoring 194 for 8 wkts 35 overs. The Min replied with 195 for 7 wkts in 28.2 overs. 
@@ -11,10 +11,10 @@ next: banstead
 parent: 2023 Fixtures
 ---
 
-{% include matchDetails %}
+{% include newMatchDetails %}
 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -50,7 +50,7 @@ parent: 2023 Fixtures
 | **R Beswick** | 5 | 1 | 20 | 0 |
 | **R Earney** | 3 | 0 | 36 | 1 |
 
-## {{page.us}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

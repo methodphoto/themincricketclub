@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Stowting
-us: The Min
-game: The Min v St Anne's Allstars 
+title: St Anne's Allstars
+homeTeam: The Min
+awayTeam: St Anne's Allstars 
 location: King George's Playing Fields, Lower Merton
 date: 04/06/2023
 report: The Min won the toss and inserted St Anne's who made 169 for 9 wkts. The Min replied with 130 all out. 
@@ -11,9 +11,9 @@ next: blagdon-hill
 parent: 2023 Fixtures
 ---
 
-{% include matchDetails %}
+{% include newMatchDetails %}
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -49,7 +49,7 @@ parent: 2023 Fixtures
 | **R Beswick** | 6 | 0 | 36 | 2 |
 | **R Earney** | 2 | 0 | 19 | 0 |
 
-## {{page.us}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
