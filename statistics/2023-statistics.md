@@ -28,7 +28,7 @@ parent: Statistics
 | **Luke Grant** | 1 | 1 | 0 | 41 | 41.00 |
 | **Ray Damaze** | 2 | 2 | 0 | 40 | 20.00 |
 | **Harry Gadbsy** | 1 | 1 | 1 | 39	| - |
-| **Daisy Jeans** | 1 | 1 | 0 | 38 | 38.00 |
+| **Daisy Jeanes** | 1 | 1 | 0 | 38 | 38.00 |
 | **Ivo Strawson** | 2 | 2 | 0 | 33 | 16.50 |
 | **Jim Grant** | 5 | 4 | 1 | 30 | 10.00 |
 | **Alf Beswick** | 3 | 3 | 1 | 29 | 14.50 |
@@ -51,7 +51,7 @@ parent: Statistics
 |:--|:--|:--|:--|:--|
 | **Anandraj Venkatasamy** | 1 | 1 | 0 | 82 | 82.00 |
 | **Luke Grant** | 1 | 1 | 0 | 41 | 41.00 |
-| **Daisy Jeans** | 1 | 1 | 0 | 38 | 38.00 |
+| **Daisy Jeanes** | 1 | 1 | 0 | 38 | 38.00 |
 | **William Calvert** | 3 | 3 | 1 | 58 | 29.00 |
 | **Patrick Wigg** | 5 | 4 | 2 | 54 | 27.00 |
 | **Simon Barrowcliff** | 1 | 1 | 0 | 26 | 26.00 |
@@ -80,7 +80,7 @@ parent: Statistics
 |:--|:--|:--|:--|:--|:--|
 | **Richard Beswick** | 30.0 | 0 | 137 | 10 | 13.70 | 18.00 |
 | **Patrick Wigg** | 35.0 | 6 | 129 | 7 | 18.43 | 30.00 |
-| **Daisy Jeans** | 7.0 | 0 | 40 | 4 | 10.00 | 10.50 |
+| **Daisy Jeanes** | 7.0 | 0 | 40 | 4 | 10.00 | 10.50 |
 | **Jack Casey** | 17.0 | 1 | 72 | 4 | 18.00 | 25.50 |
 | **Richard Earney** | 20.0 | 2 | 150 | 3 | 50.00 | 40.00 |
 | **Christopher Wright** | 9.0 | 0 | 63 | 2 | 31.50 | 27.00 |
@@ -95,7 +95,7 @@ parent: Statistics
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
-| **Daisy Jeans** | 7.0 | 0 | 40 | 4 | 10.00 | 10.50 |
+| **Daisy Jeanes** | 7.0 | 0 | 40 | 4 | 10.00 | 10.50 |
 | **Alf Beswick** | 4.1 | 1 | 13 | 1 | 13.00 | 25.00 |
 | **Richard Beswick** | 30.0 | 0 | 137 | 10 | 13.70 | 18.00 |
 | **Jack Casey** | 17.0 | 1 | 72 | 4 | 18.00 | 25.50 |
