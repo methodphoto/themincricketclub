@@ -1,0 +1,6 @@
+# {{page.homeTeam}} v {{page.awayTeam}}
+
+Played at {{page.location}} on {{page.date}}
+
+{{page.report}}<br />
+**Result:** {{page.result}}

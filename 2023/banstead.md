@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Banstead
-us: The Min
-game: The Min v Banstead 
+homeTeam: Banstead
+awayTeam: The Min
 location: Banstead CC
 date: 23/07/2023
 report: Banstead won the toss and batted first but were all out for 75 in 28.1 overs. The Min replied with 76 for 5 wkts in 18.2 overs. 
@@ -11,7 +11,7 @@ next:
 parent: 2023 Fixtures
 ---
 
-{% include matchDetails %}
+{% include newMatchDetails %}
 
 
 ## {{page.title}} Innings
