@@ -63,6 +63,7 @@ parent: 2023 Fixtures
 | **H Gadsby** | not out |  | 39 |
 | **D Jeanes** | c K Richards | D Grabham | 38 |
 | **P Wigg** | not out |  | 10 |
+| **E Garland** | dnb |  |  | |
 | **R Beswick &#42;** | dnb |  |  | |
 | **Extras** | | (3b 1lb 6w 3nb 0p) | **13** |
 | **Total** | | (33.5 overs) | **195 for 7 wkts** |

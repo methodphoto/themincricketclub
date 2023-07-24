@@ -18,82 +18,91 @@ parent: Statistics
 
 ## Season Batting
 
-| Player | Inns | No | Runs | Ave |
+| Player | Matches | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
-| **Anandraj Venkatasamy** | 1 | 0 | 82 | 82 |
-| **Richard Beswick** | 3 | 0 | 48 | 16 |
-| **Richard Earney** | 3 | 0 | 46 | 15.33 |
-| **Ivo Strawson** | 2 | 0 | 33 | 16.5 |
-| **William Calvert** | 1 | 0 | 32 | 32 |
-| **Ray Damaze** | 1 | 0 | 32 | 32 |
-| **Patrick Wigg** | 2 | 1 | 28 | 28 |
-| **Iqbal Miah** | 1 | 1 | 23 | - |
-| **Jack Stacey** | 1 | 0 | 16 | 16 |
-| **Richard Coyle** | 1 | 0 | 12 | 12 |
-| **Alf Beswick** | 2 | 0 | 10 | 5 |
-| **Brock Boyd-Taylor** | 1 | 0 | 7 | 7 |
-| **Phil Beswick** | 1 | 0 | 7 | 7 |
-| **Jim Grant** | 2 | 1 | 4 | 4 |
-| **Amir Khan** | 1 | 0 | 4 | 4 |
-| **Andrew Gallagher** | 2 | 0 | 3 | 1.5 |
-| **Robin Coyle** | 1 | 1 | 0 | - |
-| **Christopher Wright** | 0 | 0 | 0 | - |
-| **Jack Casey** | 2 | 0 | 0 | 0 |
-| **Koye Usanga** | 1 | 0 | 0 | 0 |
-| **Edward Garland** | 1 | 0 | 0 | 0 |
+| **Richard Earney** | 6 | 6 | 0 | 102 | 17.00 |
+| **Anandraj Venkatasamy** | 1 | 1 | 0 | 82 | 82.00 |
+| **William Calvert** | 3 | 3 | 1 | 58 | 29.00 |
+| **Patrick Wigg** | 5 | 4 | 2 | 54 | 27.00 |
+| **Richard Beswick** | 6 | 5 | 2 | 54 | 18.00 |
+| **Luke Grant** | 1 | 1 | 0 | 41 | 41.00 |
+| **Ray Damaze** | 2 | 2 | 0 | 40 | 20.00 |
+| **Harry Gadbsy** | 1 | 1 | 1 | 39	| - |
+| **Daisy Jeans** | 1 | 1 | 0 | 38 | 38.00 |
+| **Ivo Strawson** | 2 | 2 | 0 | 33 | 16.50 |
+| **Jim Grant** | 5 | 4 | 1 | 30 | 10.00 |
+| **Alf Beswick** | 3 | 3 | 1 | 29 | 14.50 |
+| **Simon Barrowcliff** | 1 | 1 | 0 | 26 | 26.00 |
+| **Iqbal Miah** | 1 | 1 | 1 | 23 | 0 |
+| **Jack Stacey** | 1 | 1 | 0 | 16 | 16.00 |
+| **Richard Coyle** | 1 | 1 | 0 | 12 | 12.00 |
+| **Tom Barnett** | 1 | 1 | 0 | 12 | 12.00 |
+| **Brock Boyd-Taylor** | 1 | 1 | 0 | 7 | 7.00 |
+| **Phil Beswick** | 1 | 1 | 0 | 7 | 7.00 |
+| **Amir Khan** | 1 | 1 | 0 | 4 | 4.00 |
+| **Andrew Gallagher** | 5 | 5 | 0 | 4 | 0.80 |
+| **Jack Casey** | 3 | 2 | 0 | 0 | 0 |
+| **Robin Coyle** | 1 | 1 | 1 | 0 | - |
+| **Janette Earney** | 1 | 0 | 0 | 0 | 0 |
 
 ## Season Batting (by ave)
 
-| Player | Inns | No | Runs | Ave |
+| Player | Matches | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
-| **Anandraj Venkatasamy** | 1 | 0 | 82 | 82 |
-| **William Calvert** | 1 | 0 | 32 | 32 |
-| **Ray Damaze** | 1 | 0 | 32 | 32 |
-| **Patrick Wigg** | 2 | 1 | 28 | 28 |
-| **Ivo Strawson** | 2 | 0 | 33 | 16.5 |
-| **Richard Beswick** | 3 | 0 | 48 | 16 |
-| **Jack Stacey** | 1 | 0 | 16 | 16 |
-| **Richard Earney** | 3 | 0 | 46 | 15.33 |
-| **Richard Coyle** | 1 | 0 | 12 | 12 |
-| **Brock Boyd-Taylor** | 1 | 0 | 7 | 7 |
-| **Phil Beswick** | 1 | 0 | 7 | 7 |
-| **Alf Beswick** | 2 | 0 | 10 | 5 |
-| **Amir Khan** | 1 | 0 | 4 | 4 |
-| **Jim Grant** | 2 | 1 | 4 | 4 |
-| **Andrew Gallagher** | 2 | 0 | 3 | 1.5 |
-| **Jack Casey** | 2 | 0 | 0 | 0 |
-| **Koye Usanga** | 1 | 0 | 0 | 0 |
-| **Edward Garland** | 1 | 0 | 0 | 0 |
-| **Robin Coyle** | 1 | 1 | 0 | - |				
-| **Iqbal Miah** | 1 | 1 | 23 | - |
-| **Christopher Wright** | 0 | 0 | 0 | - |
+| **Anandraj Venkatasamy** | 1 | 1 | 0 | 82 | 82.00 |
+| **Luke Grant** | 1 | 1 | 0 | 41 | 41.00 |
+| **Daisy Jeans** | 1 | 1 | 0 | 38 | 38.00 |
+| **William Calvert** | 3 | 3 | 1 | 58 | 29.00 |
+| **Patrick Wigg** | 5 | 4 | 2 | 54 | 27.00 |
+| **Simon Barrowcliff** | 1 | 1 | 0 | 26 | 26.00 |
+| **Ray Damaze** | 2 | 2 | 0 | 40 | 20.00 |
+| **Richard Beswick** | 6 | 5 | 2 | 54 | 18.00 |
+| **Richard Earney** | 6 | 6 | 0 | 102 | 17.00 |
+| **Ivo Strawson** | 2 | 2 | 0 | 33 | 16.50 |
+| **Jack Stacey** | 1 | 1 | 0 | 16 | 16.00 |
+| **Alf Beswick** | 3 | 3 | 1 | 29 | 14.50 |
+| **Richard Coyle** | 1 | 1 | 0 | 12 | 12.00 |
+| **Tom Barnett** | 1 | 1 | 0 | 12 | 12.00 |
+| **Jim Grant** | 5 | 4 | 1 | 30 | 10.00 |
+| **Brock Boyd-Taylor** | 1 | 1 | 0 | 7 | 7.00 |
+| **Phil Beswick** | 1 | 1 | 0 | 7 | 7.00 |
+| **Amir Khan** | 1 | 1 | 0 | 4 | 4.00 |
+| **Andrew Gallagher** | 5 | 5 | 0 | 4 | 0.80 |
+| **Iqbal Miah** | 1 | 1 | 1 | 23 | 0 |
+| **Jack Casey** | 3 | 2 | 0 | 0 | 0 |
+| **Janette Earney** | 1 | 0 | 0 | 0 | 0 |
+| **Harry Gadbsy** | 1 | 1 | 1 | 39	| - |
+| **Robin Coyle** | 1 | 1 | 1 | 0 | - |
 
 ## Season Bowling
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
-| **Richard Beswick** | 13 | 0 | 65 | 6 | 10.83 |
-| **Patrick Wigg** | 13 | 4 | 30 | 4 | 7.5 |
-| **Amir Khan** | 7 | 0 | 40 | 1 | 40 |
-| **Iqbal Miah** | 6 | 0 | 70 | 1 | 70 |
-| **Jack Casey** | 10 | 2 | 52 | 1 | 52 |
-| **Koye Usanga** | 4 | 1 | 18 | 1 | 18 |
-| **Edward Garland** | 8 | 0 | 52 | 1 | 52 |
-| **Richard Earney** | 11 | 0 | 91 | 0 | - |
-| **Anandraj Venkatasamy** | 7 | 0 | 52 | 0 | - |
-| **Alf Beswick** | 4 | 0 | 13 | 0 | - |
-| **Christopher Wright** | 2 | 0 | 41 | 0 | - |
-| **Brock Boyd-Taylor** | .4 | 0 | 4 | 0 | - |
-| **Phil Beswick** | 5 | 1 | 22 | 0 | - |
+| **Richard Beswick** | 30.0 | 0 | 137 | 10 | 13.70 | 18.00 |
+| **Patrick Wigg** | 35.0 | 6 | 129 | 7 | 18.43 | 30.00 |
+| **Daisy Jeans** | 7.0 | 0 | 40 | 4 | 10.00 | 10.50 |
+| **Jack Casey** | 17.0 | 1 | 72 | 4 | 18.00 | 25.50 |
+| **Richard Earney** | 20.0 | 2 | 150 | 3 | 50.00 | 40.00 |
+| **Christopher Wright** | 9.0 | 0 | 63 | 2 | 31.50 | 27.00 |
+| **Alf Beswick** | 4.1 | 1 | 13 | 1 | 13.00 | 25.00 |
+| **Amir Khan** | 7.0 | 0 | 40 | 1 | 40.00 | 42.00 |
+| **Iqbal Miah** | 6.0 | 0 | 70 | 1 | 70.00 | 36.00 |
+| **Koye Unanga** | 4.0 | 1 | 18 | 1 | 18.00 | 24.00 |
+| **Edward Garland** | 15.0 | 0 | 103 | 1 | 103.00 | 90.00 |
+| **Anandraj Venkatasamy** | 7.0 | 0 | 52 | 0 | 0 | 0 |
 
 ## Season Bowling (by ave)
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
-| **Patrick Wigg** | 13 | 4 | 30 | 4 | 7.5 |
-| **Richard Beswick** | 13 | 0 | 65 | 6 | 10.83 |
-| **Koye Usanga** | 4 | 1 | 18 | 1 | 18 |
-| **Amir Khan** | 7 | 0 | 40 | 1 | 40 |
-| **Jack Casey** | 10 | 2 | 52 | 1 | 52 |
-| **Edward Garland** | 8 | 0 | 52 | 1 | 52 |
-| **Iqbal Miah** | 6 | 0 | 70 | 1 | 70 |
+| **Daisy Jeans** | 7.0 | 0 | 40 | 4 | 10.00 | 10.50 |
+| **Alf Beswick** | 4.1 | 1 | 13 | 1 | 13.00 | 25.00 |
+| **Richard Beswick** | 30.0 | 0 | 137 | 10 | 13.70 | 18.00 |
+| **Jack Casey** | 17.0 | 1 | 72 | 4 | 18.00 | 25.50 |
+| **Koye Unanga** | 4.0 | 1 | 18 | 1 | 18.00 | 24.00 |
+| **Patrick Wigg** | 35.0 | 6 | 129 | 7 | 18.43 | 30.00 |
+| **Christopher Wright** | 9.0 | 0 | 63 | 2 | 31.50 | 27.00 |
+| **Amir Khan** | 7.0 | 0 | 40 | 1 | 40.00 | 42.00 |
+| **Richard Earney** | 20.0 | 2 | 150 | 3 | 50.00 | 40.00 |
+| **Iqbal Miah** | 6.0 | 0 | 70 | 1 | 70.00 | 36.00 |
+| **Edward Garland** | 15.0 | 0 | 103 | 1 | 103.00 | 90.00 |
