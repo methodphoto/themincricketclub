@@ -31,7 +31,7 @@ nav_order: 6
 
 | July |  |  |  |
 |:---|:---|:---|:---|
-| 23rd | 13:00 | Banstead | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) |  |
+| 23rd | 13:00 | [Banstead](banstead) | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) |  |
 
 | September |  |  |  |
 |:---|:---|:---|:---|
