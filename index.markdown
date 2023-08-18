@@ -32,6 +32,10 @@ nav_order: 1
 |:---|:---|:---|:---|
 | 23rd | 13:00 | Banstead | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) |  |
 
+| August |  |  |  |
+|:---|:---|:---|:---|
+| 20th | 13:00 | Belhus | [RM16 5UD](https://goo.gl/maps/QrBDhLWVLoRGWRX28) |  |
+
 | September |  |  |  |
 |:---|:---|:---|:---|
 | 3rd | 13:00 | Railway Taverners | [N9 9HL](https://goo.gl/maps/xENoW4EHTBGNBsox5) |  |
