@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Newington
-game: Newington v The Min
+homeTeam: Newington
+awayTeam: The Min
 location: Bobbing Court
 date: 21/05/2023
 report: Newington won the toss and batted first scoring 272 for 8 wkts in 35 overs. The Min replied with 210 for 8 wkts
@@ -10,12 +11,12 @@ next: stowting
 parent: 2023 Fixtures
 ---
 
-{% include matchDetails %}
+{% include newMatchDetails %}
 
 A Venkatasamy first 50 for the Min
 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -51,7 +52,7 @@ A Venkatasamy first 50 for the Min
 | **I Miah** | 6 | 0 | 70 | 1 |
 | **R Beswick** | 6 | 0 | 19 | 5 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

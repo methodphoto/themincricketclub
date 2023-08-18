@@ -9,6 +9,7 @@ parent: Results
 
 | 2023 |  |  |
 |:---|:---|:---|
+| 07/07/2023 | [Banstead](../2023/banstead) | Won |
 | 07/07/2023 | [Broadway and Horton](../2023/broadway-and-horton) | Won |
 | 06/07/2023 | [Blagdon Hill](../2023/blagdon-hill) | Lost |
 | 25/06/2023 | [St Anne's Allstars](../2023/st-annes-allstars) | Lost |

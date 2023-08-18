@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Blagdon Hill
-us: The Min
-game: The Min v Blagdon Hill 
+homeTeam: Blagdon Hill
+awayTeam: The Min
 location: Sellick's Green
 date: 06/07/2023
 report: Blagdon Hill won the toss and batted first scoring 232 for 8 wkts in 35 overs. The Min replied with 122 for 8 wkts (all out) in 28.2 overs. 
@@ -11,12 +11,12 @@ next: broadway-and-horton
 parent: 2023 Fixtures
 ---
 
-{% include matchDetails %}
+{% include newMatchDetails %}
 
 P Wigg; 200 wickets for The Min<br />
 J Earney batted for B Yarde-Buller
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -52,7 +52,7 @@ J Earney batted for B Yarde-Buller
 | **R Earney** | 6 | 2 | 23 | 2 |
 | **E Garland** | 1 | 0 | 8 | 0 |
 
-## {{page.us}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
