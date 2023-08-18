@@ -4,7 +4,7 @@ title: Watton-at-Stone
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 28/06/2015
-report: Watton-at-Stone batted first and made 135 all out. The Min replied with 136 for 6 wkts
+report: Watton-at-Stone batted firstg and made 135 all out. The Min replied with 136 for 6 wkts
 result: The Min won by 4 wkts
 next: blagdon-hill
 parent: 2015 Fixtures

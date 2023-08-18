@@ -34,7 +34,7 @@ nav_order: 1
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 20th | 13:00 | Belhus | [RM16 5UD](https://goo.gl/maps/QrBDhLWVLoRGWRX28) |  |
+| 20th | 13:00 | Belhus | [RM15 5JU](https://goo.gl/maps/DgyJgXVA2N9na6jm7) |  |
 
 | September |  |  |  |
 |:---|:---|:---|:---|
