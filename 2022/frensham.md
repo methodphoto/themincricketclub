@@ -20,7 +20,7 @@ R Earney's 54th 50
 |:---|:---|---|---:|
 | **R Earney** | run out (J Morris) |   | 57 |
 | **J Carroll** | c J Morris | E Carrihill | 15 |
-| **A Beswickg** | lbw  | J Powell | 0 |
+| **A Beswick** | lbw  | J Powell | 0 |
 | **J Parsloe** | b | J Powell | 0 |
 | **B Boyd-Taylor** | c Ri Doran | A Casali | 45 |
 | **R Beswick &#42;** | c | P Travers | 41 |
