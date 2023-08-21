@@ -12,6 +12,8 @@ parent: 1989 Fixtures
 
 {% include matchDetails %}
 
+A Gallagher 4 catches in an innings
+
 ## Godstone Innings
 
 | Batsman | Dismissal |  | Runs |
@@ -43,7 +45,7 @@ parent: 1989 Fixtures
 |---|:---|:---|:---|:---|
 | **I Marshall** | 14 | 5 | 42 | 1 |
 | **R Olver** | 9 | 2 | 25 | 3 |
-| **R Earneyt** | 3 | 0 | 24 | 2 |
+| **R Earney** | 3 | 0 | 24 | 2 |
 | **J Mizel** | 7.1 | 1 | 35 | 4 |
 
 ## The Min Innings
