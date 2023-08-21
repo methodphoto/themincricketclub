@@ -35,7 +35,7 @@ nav_order: 6
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 20th | 13:00 | Belhus | [RM15 5JU](https://goo.gl/maps/DgyJgXVA2N9na6jm7) |  |
+| 20th | 13:30 | [Belhus](belhus) | [RM15 5JU](https://goo.gl/maps/DgyJgXVA2N9na6jm7) |  |
 
 | September |  |  |  |
 |:---|:---|:---|:---|
