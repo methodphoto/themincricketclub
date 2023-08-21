@@ -13,6 +13,7 @@ parent: 2023 Fixtures
 
 {% include newMatchDetails %}
 
+A Beswick 4 catches equalling [A Gallagher's record](../1989/godstone)
 
 ## {{page.homeTeam}} Innings
 
