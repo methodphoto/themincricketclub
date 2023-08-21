@@ -7,14 +7,14 @@ location: Banstead CC
 date: 23/07/2023
 report: Banstead won the toss and batted first but were all out for 75 in 28.1 overs. The Min replied with 76 for 5 wkts in 18.2 overs. 
 result: The Min won by 5 wkts
-next: 
+next: belhus
 parent: 2023 Fixtures
 ---
 
 {% include newMatchDetails %}
 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -50,12 +50,12 @@ parent: 2023 Fixtures
 | **R Beswick** | 4 | 0 | 11 | 2 |
 | **A Beswick** | 0.1 | 0 | 0 | 1 |
 
-## {{page.us}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **R Earney** | b | D Thorpe | 4 |
-| **A Beswick &#8224;** | not out |  | 19 |
+| **A Beswick &#42;** | not out |  | 19 |
 | **P Stallrd** | run out |  | 0 |
 | **R Damaze** | b | D Thorpe | 8 |
 | **A Gallagher** | c L Marsh | M Al-Azzawi | 0 |
