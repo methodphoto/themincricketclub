@@ -18,7 +18,7 @@ parent: 2023 Fixtures
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **r Everett** | c A Beswick | C Wright | 32 |
+| **R Everett** | c A Beswick | C Wright | 32 |
 | **Z Suneel** |  c & b | J Carroll | 34 |
 | **C Walker** | c A Beswick | J Carroll | 11 |
 | **A Mohammed** | st J Grant | C Wright | 5 |
@@ -30,7 +30,7 @@ parent: 2023 Fixtures
 | **J Yagnik** | not out |  | 7 |
 | **M Everett** | dnb |  |  |
 | **Extras** | | (7b 0lb 2w 3nb 0p) | **12** |
-| **Total** | | (35 overs) | **129 for 9
+| **Total** | | (35 overs) | **129 for 9 wkts**
 
 ## Fall of Wickets
 
@@ -57,8 +57,8 @@ parent: 2023 Fixtures
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **R Earney** | retired out | | 53 |
-| **B Boyd-Taylor** | b Z Suneel |  | 41 |
-| **L Gallagher** | notn out |  | 10 |
+| **B Boyd-Taylor** | b | Z Suneel | 41 |
+| **L Gallagher** | not out |  | 10 |
 | **R Damaze** | b | B Gladman | 2 |
 | **A Beswick &#42;** | not out |  | 13 |
 | **C Wright** | dnb |  |  |
@@ -86,7 +86,7 @@ parent: 2023 Fixtures
 | **A R Mohammed** | 5 | 0 | 35 | 0 |
 | **W Read** | 1 | 0 | 12 | 0 |
 | **M Everett** | 3 | 0 | 17 | 0 |
-| **z Suneel** | 6.4 | 3 | 13 | 1 |
+| **Z Suneel** | 6.4 | 3 | 13 | 1 |
 
 ## Win/Loss Ratio
 
