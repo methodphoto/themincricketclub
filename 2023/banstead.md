@@ -56,7 +56,7 @@ parent: 2023 Fixtures
 |:---|:---|---|---:|
 | **R Earney** | b | D Thorpe | 4 |
 | **A Beswick &#42;** | not out |  | 19 |
-| **P Stallrd** | run out |  | 0 |
+| **P Stallard** | run out |  | 0 |
 | **R Damaze** | b | D Thorpe | 8 |
 | **A Gallagher** | c L Marsh | M Al-Azzawi | 0 |
 | **A Fox** | b | M Al-Azzawi | 25 |

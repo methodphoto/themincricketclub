@@ -27,7 +27,7 @@ parent: 2004 Fixtures
 | **Stanfield** | dnb |  |  |
 | **H Mitchell** | dnb |  |  |
 | **Extras** | | (5b 2lb 5w 5nb) | **17** |
-| **Total** | | (40 overs) | **1935 for 7 wkts** |
+| **Total** | | (40 overs) | **193 for 7 wkts** |
 
 ## Fall of Wickets
 

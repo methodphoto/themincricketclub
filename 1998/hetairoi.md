@@ -28,7 +28,7 @@ parent: 1998 Fixtures
 | **S Masterson** | c Cunningham | Monteith | 4 |
 | **P O'Mahony** | b | Monteith | 0 |
 | **Extras** | | (9b 2lb 4w 0nb) | **15** |
-| **Total** | | (33.5 overs) | **118 all out** |
+| **Total** | | (33.5 overs) | **135 all out** |
 
 ## Fall of Wickets
 

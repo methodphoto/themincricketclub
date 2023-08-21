@@ -26,7 +26,7 @@ parent: 2018 Fixtures
 | **R Beswick &#42;** | b  | N Myers | 1 |
 | **J Grant &#8224;** | b | M Latham | 4 |
 | **S Amin** | b  | M Latham | 15 |
-|  |  |  |  |
+| **J Wright** | not out |  |  |
 | **Extras** | | (1nb 1w 3b 0lb 0p) | **5** |
 | **Total** | | (34 overs) | **188 all out** |
 

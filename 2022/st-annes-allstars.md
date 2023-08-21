@@ -25,7 +25,7 @@ R Beswick's 36th 50. B Boyd-Taylor's 1st 50<br />
 | **S Macdonald** | c & b | J Carroll | 18 |
 | **A Grant** | c R Beswick | J Carroll | 5 |
 | **S Perera** | st J Grant | R Beswick | 12 |
-| **A Della** | I Strawson | R Earney | 34 |
+| **A Della** | c I Strawson | R Earney | 34 |
 | **I Wilson** | c J Carroll | R Earney | 4 |
 | **S Arnott** | dnb |  |  |
 | **R Durran** | dnb |  |  |
