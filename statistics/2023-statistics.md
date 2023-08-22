@@ -20,59 +20,74 @@ parent: Statistics
 
 | Player | Matches | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
-| **Richard Earney** | 6 | 6 | 0 | 102 | 17.00 |
-| **Anandraj Venkatasamy** | 1 | 1 | 0 | 82 | 82.00 |
-| **William Calvert** | 3 | 3 | 1 | 58 | 29.00 |
-| **Patrick Wigg** | 5 | 4 | 2 | 54 | 27.00 |
-| **Richard Beswick** | 6 | 5 | 2 | 54 | 18.00 |
-| **Luke Grant** | 1 | 1 | 0 | 41 | 41.00 |
-| **Ray Damaze** | 2 | 2 | 0 | 40 | 20.00 |
-| **Harry Gadbsy** | 1 | 1 | 1 | 39	| - |
-| **Daisy Jeanes** | 1 | 1 | 0 | 38 | 38.00 |
-| **Ivo Strawson** | 2 | 2 | 0 | 33 | 16.50 |
-| **Jim Grant** | 5 | 4 | 1 | 30 | 10.00 |
-| **Alf Beswick** | 3 | 3 | 1 | 29 | 14.50 |
-| **Simon Barrowcliff** | 1 | 1 | 0 | 26 | 26.00 |
-| **Iqbal Miah** | 1 | 1 | 1 | 23 | 0 |
-| **Jack Stacey** | 1 | 1 | 0 | 16 | 16.00 |
-| **Richard Coyle** | 1 | 1 | 0 | 12 | 12.00 |
-| **Tom Barnett** | 1 | 1 | 0 | 12 | 12.00 |
-| **Brock Boyd-Taylor** | 1 | 1 | 0 | 7 | 7.00 |
-| **Phil Beswick** | 1 | 1 | 0 | 7 | 7.00 |
-| **Amir Khan** | 1 | 1 | 0 | 4 | 4.00 |
-| **Andrew Gallagher** | 5 | 5 | 0 | 4 | 0.80 |
-| **Jack Casey** | 3 | 2 | 0 | 0 | 0 |
-| **Robin Coyle** | 1 | 1 | 1 | 0 | - |
-| **Janette Earney** | 1 | 0 | 0 | 0 | 0 |
+| **Richard Earney** | 7 | 7 | 0 | 155 | 22.14 |  |
+| **Anandraj Venkatasamy**|	1 | 1 | 0 | 82 | 82.00 |  |
+| **William Calvert** |	3 | 3 | 1 | 58 | 29.00 |  |
+| **Richard Beswick** | 7 | 5 | 2 | 54 | 18.00 |  |
+| **Patrick Wigg** | 5 | 4 | 2 | 54 | 27.00 |  |
+| **Brock Boyd-Taylor** | 2 | 2 | 0 | 48 | 24.00 |  |
+| **Alf Beswick** | 4 | 4 | 2 | 42 | 21.00 |  |
+| **Ray Damaze** | 3 | 3 | 0 | 42 | 14.00 |  |
+| **Luke Grant** | 1 | 1 | 0 | 41 | 41.00 |  |
+| **Harry Gadbsy** | 1 | 1 | 1 | 39 | - |  |
+| **Daisy Jeans** | 1 | 1 | 0 | 38 | 38.00 |  |
+| **Ivo Strawson** | 2 | 2 | 0 | 33 | 16.50 |  |
+| **Jim Grant** | 6 | 4 | 1 | 30 | 10.00 |  |
+| **Simon Barrowcliff** | 1 | 1 | 0 | 26 | 26.00 |  |
+| **Alex Fox** | 1 | 1 | 0 | 25 | 25 |  |
+| **Iqbal Miah** | 1 | 1 | 1 | 23 | 0 |  |
+| **Jack Stacey** | 1 | 1 | 0 | 16 | 16.00 |  |
+| **Richard Coyle** | 1 | 1 | 0 | 12 | 12.00 |  |
+| **Tom Barnett	1** | | 1 | 0 | 12 | 12.00 |  |
+| **Leo Gallagher** | 1 | 1 | 1 | 10 | - |  |
+| **Phil Beswick** | 1 | 1 | 0 | 7 | 7.00 |  |
+| **Amir Khan** | 1 | 1 | 0 | 4 | 4.00 |  |
+| **Andrew Gallagher** | 5 | 5 | 0 | 4 | 0.80 |  |
+| **Jack Casey** | 3 | 2 | 0 | 0 | 0 |  |
+| **Robin Coyle** | 1 | 1 | 1 | 0 | - |  |
+| **Janette Earney** | 1 | 0 | 0 | 0 | 0 |  |
+| **Liam Baker** | 1 | 0 | 0 | 0 | - |  |
+| **Jim Carroll** | 1 | 0 | 0 | 0 | - |  |
+| **Ahmed Said** | 1 | 0 | 0 | 0 | - |  |
 
 ## Season Batting (by ave)
 
 | Player | Matches | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
-| **Anandraj Venkatasamy** | 1 | 1 | 0 | 82 | 82.00 |
-| **Luke Grant** | 1 | 1 | 0 | 41 | 41.00 |
-| **Daisy Jeanes** | 1 | 1 | 0 | 38 | 38.00 |
-| **William Calvert** | 3 | 3 | 1 | 58 | 29.00 |
-| **Patrick Wigg** | 5 | 4 | 2 | 54 | 27.00 |
-| **Simon Barrowcliff** | 1 | 1 | 0 | 26 | 26.00 |
-| **Ray Damaze** | 2 | 2 | 0 | 40 | 20.00 |
-| **Richard Beswick** | 6 | 5 | 2 | 54 | 18.00 |
-| **Richard Earney** | 6 | 6 | 0 | 102 | 17.00 |
-| **Ivo Strawson** | 2 | 2 | 0 | 33 | 16.50 |
-| **Jack Stacey** | 1 | 1 | 0 | 16 | 16.00 |
-| **Alf Beswick** | 3 | 3 | 1 | 29 | 14.50 |
-| **Richard Coyle** | 1 | 1 | 0 | 12 | 12.00 |
-| **Tom Barnett** | 1 | 1 | 0 | 12 | 12.00 |
-| **Jim Grant** | 5 | 4 | 1 | 30 | 10.00 |
-| **Brock Boyd-Taylor** | 1 | 1 | 0 | 7 | 7.00 |
-| **Phil Beswick** | 1 | 1 | 0 | 7 | 7.00 |
-| **Amir Khan** | 1 | 1 | 0 | 4 | 4.00 |
-| **Andrew Gallagher** | 5 | 5 | 0 | 4 | 0.80 |
-| **Iqbal Miah** | 1 | 1 | 1 | 23 | 0 |
-| **Jack Casey** | 3 | 2 | 0 | 0 | 0 |
-| **Janette Earney** | 1 | 0 | 0 | 0 | 0 |
-| **Harry Gadbsy** | 1 | 1 | 1 | 39	| - |
-| **Robin Coyle** | 1 | 1 | 1 | 0 | - |
+| **Anandraj Venkatasamy** | 1 | 1 | 0 | 82 | 82.00 |  |
+| **Luke Grant** | 1 | 1 | 0 | 41 | 41.00 |  |
+| **Daisy Jeans** | 1 | 1 | 0 | 38 | 38.00 |  |
+| **William Calvert** | 3 | 3 | 1 | 58 | 29.00 |  |
+| **Patrick Wigg** | 5 | 4 | 2 | 54 | 27.00 |  |
+| **Simon Barrowcliff** | 1 | 1 | 0 | 26 | 26.00 |  |
+| **Alex Fox** | 1 | 1 | 0 | 25 | 25 |  |
+| **Brock Boyd-Taylor** | 2 | 2 | 0 | 48 | 24.00 |  |
+| **Richard Earney** | 7 | 7 | 0 | 155 | 22.14 |  |
+| **Alf Beswick** | 4 | 4 | 2 | 42 | 21.00 |  |
+| **Richard Beswick** | 7 | 5 | 2 | 54 | 18.00 |  |
+| **Ivo Strawson** | 2 | 2 | 0 | 33 | 16.50 |  |
+| **Jack Stacey** | 1 | 1 | 0 | 16 | 16.00 |  |
+| **Ray Damaze** | 3 | 3 | 0 | 42 | 14.00 |  |
+| **Richard Coyle** | 1 | 1 | 0 | 12 | 12.00 |  |
+| **Tom Barnett** | 1 | 1 | 0 | 12 | 12.00 |  |
+| **Jim Grant** | 6 | 4 | 1 | 30 | 10.00 |  |
+| **Phil Beswick** | 1 | 1 | 0 | 7 | 7.00 |  |
+| **Amir Khan** | 1 | 1 | 0 | 4 | 4.00 |  |
+| **Andrew Gallagher** | 5 | 5 | 0 | 4 | 0.80 |  |
+| **Iqbal Miah** | 1 | 1 | 1 | 23 | - |  |
+| **Jack Casey** | 3 | 2 | 0 | 0 | 0 |  |
+| **Janette Earney** | 1 | 0 | 0 | 0 | 0 |  |
+| **Koye Usanga** | 1 | 1 | 0 | 0 | 0 |  |
+| **Christopher Wright** | 3 | 0 | 0 | 0 | - |  |
+| **Edward Garland** | 3 | 2 | 0 | 0 | 0 |  |
+| **Pete Stallard** | 1 | 1 | 0 | 0 | - |  |
+| **Ben Yarde-Buller** | 1 | 0 | 0 | 0 | - |  |
+| **Harry Gadbsy** | 1 | 1 | 1 | 39 | - |  |
+| **Leo Gallagher** | 1 | 1 | 1 | 10 | - |  |
+| **Robin Coyle** | 1 | 1 | 1 | 0 | - |  |
+| **Liam Baker** | 1 | 0 | 0 | 0 | - |  |
+| **Jim Carroll** | 1 | 0 | 0 | 0 | - |  |
+| **Ahmed Said** | 1 | 0 | 0 | 0 | - |  |
 
 ## Season Bowling
 
