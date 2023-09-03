@@ -4,7 +4,7 @@ title: Belhus
 homeTeam: Belhus
 awayTeam: The Min
 location: Belhus CC
-date: 23/07/2023
+date: 20/08/2023
 report: Belhus won the toss and batted first and made 129 fo 9 wkts in 35 overs. The Min replied with 132 for 3 wkts in 27.4 overs. 
 result: The Min won by 7 wkts
 next: 

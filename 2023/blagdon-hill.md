@@ -16,7 +16,7 @@ parent: 2023 Fixtures
 P Wigg; 200 wickets for The Min<br />
 J Earney batted for B Yarde-Buller
 
-## {{page.awayTeam}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -52,7 +52,7 @@ J Earney batted for B Yarde-Buller
 | **R Earney** | 6 | 2 | 23 | 2 |
 | **E Garland** | 1 | 0 | 8 | 0 |
 
-## {{page.homeTeam}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
