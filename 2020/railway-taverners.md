@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Railway Taverners
+homeTeam: Railway Taverners
 game: Railway Taverners v The Min
 location: Low Hall Sports Ground
 date: 02/08/2020
@@ -51,7 +52,7 @@ P Wigg's 3rd 50
 | **G Powles** | 6 | 0 | 43 | 2 |
 | **G Katakos** | 1 | 0 | 6 | 0 |
 
- ## {{page.title}} Innings
+ ## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

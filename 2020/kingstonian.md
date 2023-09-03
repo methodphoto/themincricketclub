@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kingstonian
+homeTeam: Kingstonian
 game: Kingstonian v The Min
 location: Old Tiffinians Association Sports Ground
 date: 10/07/2020
@@ -52,7 +53,7 @@ A Gallagher's 14th 50 off 45 balls
 | **Sharu** | 3 | 0 | 27 | 0 |
 | **Dhruv** | 2 | 0 | 7 | 0 |
 
- ## {{page.title}} Innings
+ ## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

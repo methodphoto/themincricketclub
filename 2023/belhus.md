@@ -24,7 +24,7 @@ A Beswick 4 catches equalling [A Gallagher's record](../1989/godstone)
 | **C Walker** | c A Beswick | J Carroll | 11 |
 | **A Mohammed** | st J Grant | C Wright | 5 |
 | **S Hisscott** | c A Beswick | R Earney | 2 |
-| **A Martin   &#8224;** | b | R Earney | 0 |
+| **A Martin  &#8224;** | b | R Earney | 0 |
 | **W Read &#42;** | c A Beswick | R Earney | 8 |
 | **B Gladman** | b | R Beswick | 0 |
 | **A R Mohammed** | run out (A Beswick) |  | 1 |
@@ -46,7 +46,7 @@ A Beswick 4 catches equalling [A Gallagher's record](../1989/godstone)
 |---|:---|:---|:---|:---|
 | **L Baker** | 6 | 1 | 21 | 0 |
 | **A Beswick** | 2 | 0 | 6 | 0 |
-| **Ahmed** | 4 | 0 | 28 | 0 |
+| **A Said** | 4 | 0 | 28 | 0 |
 | **C Wright** | 7 | 1 | 18 | 2 |
 | **J Carroll** | 7 | 2 | 17 | 2 |
 | **R Earney** | 4 | 0 | 13 | 3 |
@@ -64,7 +64,7 @@ A Beswick 4 catches equalling [A Gallagher's record](../1989/godstone)
 | **A Beswick &#42;** | not out |  | 13 |
 | **C Wright** | dnb |  |  |
 | **B Boyd-Taylor** | dnb |  |  |
-| **Ahmed** | dnb |  |  | |
+| **A Said** | dnb |  |  | |
 | **J Carroll** | dnb |  |  | |
 | **J Grant** | dnb |  |  | |
 | **R Beswick** | dnb |  |  | |
