@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Railway Taverners
-home: Railway Taverners
-away The Min
+homeTeam: Railway Taverners
+awayTeam: The Min
 location: Edmonton CC
 date: 03/09/2023
 report: Railway Taverners won the toss and inserted The Min, who made 227 for 6 wkts in 35 overs. Railway Taverners replied with 184 for 9 in 35 overs. 
@@ -11,11 +11,11 @@ next:
 parent: 2023 Fixtures
 ---
 
-{% include newNewMatchDetails %}
+{% include newMatchDetails %}
 
 R Earney's 56th 50
 
-## {{page.away}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -52,7 +52,7 @@ R Earney's 56th 50
 | **M H-B** | 5 | 0 | 39 | 3 |
 | **J Mulligan** | 3 | 0 | 20 | 2 |
 
-## {{page.home}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
