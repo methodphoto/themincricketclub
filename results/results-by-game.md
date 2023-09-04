@@ -9,6 +9,8 @@ parent: Results
 
 | 2023 |  |  |
 |:---|:---|:---|
+| 07/07/2023 | [Railway Taverners](../2023/railway-taverners) | Won |
+| 07/07/2023 | [Belhus](../2023/belhus) | Won |
 | 07/07/2023 | [Banstead](../2023/banstead) | Won |
 | 07/07/2023 | [Broadway and Horton](../2023/broadway-and-horton) | Won |
 | 06/07/2023 | [Blagdon Hill](../2023/blagdon-hill) | Lost |

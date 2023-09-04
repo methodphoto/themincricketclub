@@ -14,6 +14,7 @@ parent: 2023 Fixtures
 {% include newMatchDetails %}
 
 A Beswick 4 catches equalling [A Gallagher's record](../1989/godstone)
+R Earney's 55th 50
 
 ## {{page.homeTeam}} Innings
 
@@ -65,7 +66,7 @@ A Beswick 4 catches equalling [A Gallagher's record](../1989/godstone)
 | **C Wright** | dnb |  |  |
 | **B Boyd-Taylor** | dnb |  |  |
 | **A Said** | dnb |  |  | |
-| **J Carroll** | dnb |  |  | |
+| **J Carroll** | dnb |  |  |
 | **J Grant** | dnb |  |  | |
 | **R Beswick** | dnb |  |  | |
 | **Extras** | | (10b 1lb 1w 3nb 0p) | **15** |
