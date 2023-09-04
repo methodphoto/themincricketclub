@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Railway Taverners
-homeTeam: Railway Taverners
-awayTeam: The Min
+home: Railway Taverners
+away The Min
 location: Edmonton CC
 date: 03/09/2023
-report: Railway Taverners won the toss and batted first and made 129 fo 9 wkts in 35 overs. The Min replied with 132 for 3 wkts in 27.4 overs. 
-result: The Min won by 7 wkts
+report: Railway Taverners won the toss and inserted The Min, who made 227 for 6 wkts in 35 overs. Railway Taverners replied with 184 for 9 in 35 overs. 
+result: The Min won by 43 runs
 next: 
 parent: 2023 Fixtures
 ---
 
-{% include newMatchDetails %}
+{% include newNewMatchDetails %}
 
 R Earney's 56th 50
 
-## {{page.awayTeam}} Innings
+## {{page.away}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -44,50 +44,50 @@ R Earney's 56th 50
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **G Gibbs** | 6 | 1 | 21 | 0 |
-| **A Beswick** | 2 | 0 | 6 | 0 |
-| **A Said** | 4 | 0 | 28 | 0 |
-| **C Wright** | 7 | 1 | 18 | 2 |
-| **J Carroll** | 7 | 2 | 17 | 2 |
-| **R Earney** | 4 | 0 | 13 | 3 |
-| **R Beswick** | 3 | 1 | 2 | 1 |
-| **B Boyd-Taylor** | 2 | 1 | 17 | 0 |
+| **G Gibbs** | 6 | 0 | 40 | 0 |
+| **M Pirongs** | 7 | 0 | 25 | 0 |
+| **M Winter** | 4 | 0 | 40 | 1 |
+| **D Vale** | 7 | 1 | 29 | 0 |
+| **S Chambers** | 3 | 0 | 21 | 0 |
+| **M H-B** | 5 | 0 | 39 | 3 |
+| **J Mulligan** | 3 | 0 | 20 | 2 |
 
-## {{page.homeTeam}} Innings
+## {{page.home}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **R Everett** | c A Beswick | C Wright | 32 |
-| **Z Suneel** |  c & b | J Carroll | 34 |
-| **C Walker** | c A Beswick | J Carroll | 11 |
-| **A Mohammed** | st J Grant | C Wright | 5 |
-| **S Hisscott** | c A Beswick | R Earney | 2 |
-| **A Martin  &#8224;** | b | R Earney | 0 |
-| **W Read &#42;** | c A Beswick | R Earney | 8 |
-| **B Gladman** | b | R Beswick | 0 |
-| **A R Mohammed** | run out (A Beswick) |  | 1 |
-| **J Yagnik** | not out |  | 7 |
-| **M Everett** | dnb |  |  |
-| **Extras** | | (7b 0lb 2w 3nb 0p) | **12** |
-| **Total** | | (35 overs) | **129 for 9 wkts**
+| **M Winter** | c A Beswick | C Wright | 2 |
+| **D Vale** |  c & b | J Carroll | 82 |
+| **E Reilly &#42;** | c A Beswick | J Carroll | 10 |
+| **M Pirongs** | st J Grant | C Wright | 2 |
+| **J Mulligan** | c A Beswick | R Earney | 40 |
+| **D Ewer** | b | R Earney | 2 |
+| **G Gibbs** | c A Beswick | R Earney | 21 |
+| **A C-K &#8224;** | b | R Beswick | 0 |
+| **M H-B** | run out (A Beswick) |  | 0 |
+| **M Vale** | not out |  | 1 |
+| **S Chamberst** | not out |  | 4 |
+| **Extras** | | (6b 1lb 11w 1nb 0p) | **19** |
+| **Total** | | (35 overs) | **184 for 9 wkts**
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 91 | 104 | 107 |  |  |  |  |  |  |  |
-| **Batsman** | 1 | 2 | 4 |  |  |  |  |  |  |  | 
+| **Score** | 10 | 25 | 47 | 118 | 130 | 167 | 167 | 176 | 177 |  |
+| **Batsman** | 1 | 3 | 4 | 5 | 6 | 2 | 8 | 9 | 7 |  | 
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **B Gladman** | 7 | 0 | 19 | 4 |
-| **J Yagnik** | 7 | 2 | 25 | 0 |
-| **A R Mohammed** | 5 | 0 | 35 | 0 |
-| **W Read** | 1 | 0 | 12 | 0 |
-| **M Everett** | 3 | 0 | 17 | 0 |
-| **Z Suneel** | 6.4 | 3 | 13 | 1 |
+| **J Parsloe** | 7 | 2 | 32 | 1 |
+| **C Selway** | 6 | 0 | 29 | 1 |
+| **C Wright** | 7 | 1 | 46 | 1 |
+| **J Carroll** | 6 | 2 | 16 | 4 |
+| **R Beswick** | 6 | 1 | 26 | 2 |
+| **R Earney** | 3 | 0 | 22 | 0 |
+| **B Boyd-Taylor** | 1 | 0 | 8 | 0 |
 
 ## Win/Loss Ratio
 
