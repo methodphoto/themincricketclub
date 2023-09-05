@@ -56,15 +56,15 @@ R Earney's 56th 50
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **M Winter** | c A Beswick | C Wright | 2 |
-| **D Vale** |  c & b | J Carroll | 82 |
-| **E Reilly &#42;** | c A Beswick | J Carroll | 10 |
+| **M Winter** | b | J Parsloe | 2 |
+| **D Vale** |  b | J Carroll | 82 |
+| **E Reilly &#42;** | b | C Selway | 10 |
 | **M Pirongs** | st J Grant | C Wright | 2 |
-| **J Mulligan** | c A Beswick | R Earney | 40 |
-| **D Ewer** | b | R Earney | 2 |
-| **G Gibbs** | c A Beswick | R Earney | 21 |
-| **A C-K &#8224;** | b | R Beswick | 0 |
-| **M H-B** | run out (A Beswick) |  | 0 |
+| **J Mulligan** | c J Parsloe* | R Beswick | 40 |
+| **D Ewer** | b | R Beswick | 2 |
+| **G Gibbs** | b | j Carroll | 21 |
+| **A C-K &#8224;** | c | J Carroll | 0 |
+| **M H-B** | b J Carroll |  | 0 |
 | **M Vale** | not out |  | 1 |
 | **S Chamberst** | not out |  | 4 |
 | **Extras** | | (6b 1lb 11w 1nb 0p) | **19** |
