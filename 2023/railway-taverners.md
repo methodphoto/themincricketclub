@@ -63,7 +63,7 @@ R Earney's 56th 50
 | **J Mulligan** | c J Parsloe* | R Beswick | 40 |
 | **D Ewer** | b | R Beswick | 2 |
 | **G Gibbs** | b | j Carroll | 21 |
-| **A C-K &#8224;** | c | J Carroll | 0 |
+| **A C-K &#8224;** | c A Beswick | J Carroll | 0 |
 | **M H-B** | b J Carroll |  | 0 |
 | **M Vale** | not out |  | 1 |
 | **S Chamberst** | not out |  | 4 |
