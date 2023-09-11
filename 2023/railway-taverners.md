@@ -30,7 +30,7 @@ R Earney's 56th 50
 | **J Grant** | dnb |  |  | |
 | **C Wright** | dnb |  |  | |
 | **J Wu** | dnb |  |  | |
-| **Extras** | | (0b 0lb 16w 2nb 0p) | **185** |
+| **Extras** | | (0b 0lb 16w 2nb 0p) | **18** |
 | **Total** | | (35 overs) | **227 for 3 wkts** |
 
 ## Fall of Wickets
@@ -62,13 +62,13 @@ R Earney's 56th 50
 | **M Pirongs** | st J Grant | C Wright | 2 |
 | **J Mulligan** | c J Parsloe* | R Beswick | 40 |
 | **D Ewer** | b | R Beswick | 2 |
-| **G Gibbs** | b | j Carroll | 21 |
+| **G Gibbs** | b | J Carroll | 21 |
 | **A C-K &#8224;** | c A Beswick | J Carroll | 0 |
 | **M H-B** | b J Carroll |  | 0 |
 | **M Vale** | not out |  | 1 |
-| **S Chamberst** | not out |  | 4 |
+| **S Chambers** | not out |  | 4 |
 | **Extras** | | (6b 1lb 11w 1nb 0p) | **19** |
-| **Total** | | (35 overs) | **184 for 9 wkts**
+| **Total** | | (35 overs) | **184 for 9 wkts** |
 
 ## Fall of Wickets
 

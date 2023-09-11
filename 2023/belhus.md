@@ -32,7 +32,7 @@ R Earney's 55th 50
 | **J Yagnik** | not out |  | 7 |
 | **M Everett** | dnb |  |  |
 | **Extras** | | (7b 0lb 2w 3nb 0p) | **12** |
-| **Total** | | (35 overs) | **129 for 9 wkts**
+| **Total** | | (35 overs) | **129 for 9 wkts** |
 
 ## Fall of Wickets
 
