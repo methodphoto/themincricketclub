@@ -19,13 +19,13 @@ R Beswick's 37th 50
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **S Burgess** | c B Boyd-Taylor | P Wigg | 2 |
-| **R Hudson** |  st J Grant | C Wright | 82 |
-| **W Hodgson** | c R Earney | M Gupta | 10 |
-| **D Kanagarajah** | b | C Burgess | 2 |
-| **G Mitchell** | c C Burgess | M Gupta | 40 |
-| **R Jaman** | c R Earney | M Gupta | 2 |
-| **M Nathavani** | run out (M Gupta) | | 21 |
+| **S Burgess** | c B Boyd-Taylor | P Wigg | 37 |
+| **R Hudson** |  st J Grant | C Wright | 38 |
+| **W Hodgson** | c R Earney | M Gupta | 32 |
+| **D Kanagarajah** | b | C Burgess | 34 |
+| **G Mitchell** | c C Burgess | M Gupta | 10 |
+| **R Jaman** | c R Earney | M Gupta | 0 |
+| **M Nathavani** | run out (M Gupta) | | 6 |
 | **P Saikia** | not out |  | 2 |
 | **D Gautam** | dnb |  |  |
 | **M Nicholls &#8224;** | dnb |  |  |
@@ -55,7 +55,7 @@ R Beswick's 37th 50
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **R Earney** | c & b | P Saikia | 9 |
-| **A Beswick &#42;** | not out |  | 56 |
+| **R Beswick &#42;** | not out |  | 56 |
 | **C Burgess** | c S Burgess | b M Nathavani | 48 |
 | **B Boyd-Taylor** | b | M Nathavani | 4 |
 | **I Muntakim** | b | M Nathavani | 23 |
