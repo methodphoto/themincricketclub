@@ -63,7 +63,7 @@ R Beswick's 37th 50
 | **W Calvert** | c W Hodgson | P Saikia | 2 |
 | **A Gallagher** | lbw | M Wood | 2 |
 | **M Gupta** | c D Gautam | P Saikia | 1 |
-| **C Wright** | b |  | M Wood |
+| **C Wright** | b | M Wood | 1 |
 | **J Grant &#8224;** | not out |  | 0 |
 | **Extras** | | (13b 5lb 1w 0nb 0p) | **19** |
 | **Total** | | (39 overs) | **167 for 9 wkts** |
