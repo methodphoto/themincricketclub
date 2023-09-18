@@ -25,7 +25,7 @@ A Beswick's 12th 50.
 | **A Mujtaba** | b | M Gupta | 109 |
 | **C Little** | b | P Wigg | 8 |
 | **Z Mirza** | b | M Gupta | 1 |
-| **R Kershaw** | b | I Matvid | 3 |
+| **R Kershaw** | b | I Matvad | 3 |
 | **P Goldstone** | c M Gupta | M Khalid | 33 |
 | **Nikhail** | c P Wigg | R Earney | 40 |
 | **C Humphries &#8224;  &#42;** | not out | | 23 |
@@ -49,7 +49,7 @@ A Beswick's 12th 50.
 |---|:---|:---|:---|:---|
 | **P Wigg** | 7 | 2 | 38 | 1 |
 | **M Gupta** | 7 | 1 | 32 | 2 |
-| **I Matvid** | 5 | 0 | 16 | 1 |
+| **I Matvad** | 5 | 0 | 16 | 1 |
 | **I Miah** | 7 | 1 | 33 | 0 |
 | **M Khalid** | 2 | 0 | 17 | 1 |
 | **R Earney** | 2 | 0 | 16 | 1 |
@@ -66,9 +66,9 @@ A Beswick's 12th 50.
 | **G Daley** | c C Humphries | J Singh | 2 |
 | **M Khalid** | b | N Mizra | 9 |
 | **R Earney** | not out |  | 11 |
-| **A Gallagher** | dnb |  |  |
 | **M Gupta** | dnb |  |  |
-| **C Wright** | dnb |  |  |
+| **P Wigg** | dnb |  |  |
+| **I Matvad** | dnb |  |  |
 | **J Grant &#8224;** | dnb |  |  |
 | **Extras** | | (5b 0lb 3w 1nb 0p) | **9** |
 | **Total** | | (29.4 overs) | **220 for 8 wkts** |
