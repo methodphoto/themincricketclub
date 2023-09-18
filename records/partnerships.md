@@ -65,6 +65,7 @@ parent: Records
 | **1985** | J Grant (73) and A Fielding (58) | [Koh-i-noor](../1985/koh-i-noor) | **106** |
 | **1988** | A Gallagher (71&#42;) and A MacFarlane (44) | [South Nutfield](../1988/south-nutfield) | **106** |
 | **2007** | R Earney (54) and S Barrowcliff (42) | [Britwell Salome](../2007/britwell-salome) | **105** |
+| **2023** | A Ijaz (80) and I Miah (17) | [Hornchurch Athletic](../2023/hornchurch-athletic) | **103** |
 | **2021** | R Earney (33) and A Beswick (64) | [Kingstonian](../2021/kingstonian) | **103** |
 | **1997** | J Grant (33) and P Sayer (68) | [Captain Scott XI](../1997/captain-scott-xi) | **102** |
 | **1996** | J Hylton (101) and R Beswick (36) | [Littlewick Green](../1996/littlewick-green) | **102** |

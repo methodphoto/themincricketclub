@@ -15,7 +15,7 @@ parent: 2023 Fixtures
 
 R Beswick's 37th 50
 
-## {{page.awayTeam}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

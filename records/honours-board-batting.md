@@ -45,6 +45,8 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2023** | A Beswick | [Hornchurch Athletic](../2023/hornchurch-athletic) | **52** |
+| **2023** | A Ijaz | [Hornchurch Athletic](../2023/hornchurch-athletic) | **80** |
 | **2023** | R Beswick | [Reigate Pilgrims](../2023/reigate-pilgrims) | **56&#42;** |
 | **2023** | R Earney | [Railway Taverners](../2023/railway-taverners) | **71** |
 | **2023** | R Earney | [Belhus](../2023/belhus) | **53** |
