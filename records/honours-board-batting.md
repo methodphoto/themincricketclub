@@ -45,6 +45,7 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2023** | R Beswick | [Reigate Pilgrims](../2023/reigate-pilgrims) | **56&#42;** |
 | **2023** | R Earney | [Railway Taverners](../2023/railway-taverners) | **71** |
 | **2023** | R Earney | [Belhus](../2023/belhus) | **53** |
 | **2023** | A Venkatasamy | [Newington](../2023/newington) | **82** |

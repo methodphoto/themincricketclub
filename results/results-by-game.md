@@ -9,6 +9,7 @@ parent: Results
 
 | 2023 |  |  |
 |:---|:---|:---|
+| 10/09/2022 | [Reigate Pilgrims](../2023/reigate-pilgrims) | Drawn |
 | 07/07/2023 | [Railway Taverners](../2023/railway-taverners) | Won |
 | 07/07/2023 | [Belhus](../2023/belhus) | Won |
 | 07/07/2023 | [Banstead](../2023/banstead) | Won |
