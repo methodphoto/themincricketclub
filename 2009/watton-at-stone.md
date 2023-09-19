@@ -34,7 +34,7 @@ Alas, one of the great face-offs in Min history was curtailed by Mo tamely offer
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **T Ellis** | b | M Gupta | 3 |
+| **T Ellis** | lbw | M Gupta | 3 |
 | **I Dear** | b | M Gupta | 25 |
 | **T Drake** | b | R Earney | 76 |
 | **R Burnell** | c I Miah | J Wright | 36 |
