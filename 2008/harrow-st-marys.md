@@ -46,7 +46,7 @@ R Earney's 35th 50
 | **P Wigg** | 8 | 0 | 35 | 2 |
 | **T Rutherford** | 6 | 1 | 20 | 1 |
 | **M Gupta** | 8 | 1 | 31 | 1 |
-| **I Marshall** | 8 | 1 | 17 | 1 |
+| **I Miah** | 8 | 1 | 17 | 1 |
 | **R Beswick** | 4 | 0 | 34 | 0 |
 | **R Earney** | 3 | 0 | 10 | 4 |
 

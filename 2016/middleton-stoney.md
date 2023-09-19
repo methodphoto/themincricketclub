@@ -19,7 +19,7 @@ S Barrowcliff's 14th 50
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **N Moorman** | c S Habib | b J Wright | 29 |
-| **S Jackson** | c  | I Miah | 12
+| **S Jackson** | c  | I Miah | 12 |
 | **M Ford-Langstaff** | st W Calvert  | J Wright| 1 |
 | **J Springer** | c R Beswick  | I Miah | 0 |
 | **T House** | c I Miah  | S Pitcher | 6 |
