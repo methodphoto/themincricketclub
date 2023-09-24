@@ -64,7 +64,7 @@ R Earney's 55th 50
 | **R Damaze** | b | B Gladman | 2 |
 | **A Beswick &#42;** | not out |  | 13 |
 | **C Wright** | dnb |  |  |
-| **B Boyd-Taylor** | dnb |  |  |
+| **L Baker** | dnb |  |  |
 | **A Said** | dnb |  |  | |
 | **J Carroll** | dnb |  |  |
 | **J Grant** | dnb |  |  | |
