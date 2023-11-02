@@ -16,6 +16,7 @@ The player chosen will have at some point in the season put the ball "on the nog
 
 | Year | Player |
 |:---|:---|
+| 2023 | Richard Earney |
 | 2022 | Alf Beswick |
 | 2021 | Partick Wigg |
 
