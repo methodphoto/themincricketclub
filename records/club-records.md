@@ -13,7 +13,7 @@ parent: Records
 |:--|:--|:--|
 | Highest Score | S Hornsby | 130* |
 | Most Hundreds | R Earney | 7 |
-| Most Fifties | R Earney | 60 |
+| Most Fifties | R Earney | 56 |
 | Most Runs in a Season | R Earney | 603 |
 | Highest Average in a Season | J Hylton | 103.5 |
 
