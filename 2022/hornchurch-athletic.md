@@ -90,4 +90,4 @@ parent: 2022 Fixtures
 |:---|:---|:---|---:|
 | 2 | 6 | 2 | 0 |
 
-[Next season:](/)
+[Next season:](../2023/)
