@@ -88,4 +88,4 @@ parent: 2021 Fixtures
 |:---|:---|:---|---:|
 | 6 | 4 | 0 | 0 |
 
-[Next season:](/)
+[Next season:](../2022/)

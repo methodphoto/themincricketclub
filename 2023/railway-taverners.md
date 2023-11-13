@@ -7,7 +7,7 @@ location: Edmonton CC
 date: 03/09/2023
 report: Railway Taverners won the toss and inserted The Min, who made 227 for 6 wkts in 35 overs. Railway Taverners replied with 184 for 9 in 35 overs. 
 result: The Min won by 43 runs
-next: 
+next: reigate-pilgrims
 parent: 2023 Fixtures
 ---
 
