@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 2024 Fixtures
-nav_order: 2
+parent: 2020s
+nav_order: 5
 ---
 
 # {{page.title}}
@@ -18,7 +19,7 @@ nav_order: 2
 
 | June |  |  |  |
 |:---|:---|:---|:---|
-| 30th | 13:00 | St Anne's Allstars| [SM4 4PF](https://maps.app.goo.gl/nX5ihi5okBmki9TA9?g_st=ic) |  |
+| 30th | 13:00 | St Anne's Allstars| [NW5 1LP](https://maps.app.goo.gl/Ry2B8aY3UusNqPZdA) |  |
 
 
 | July - Tour |  |  |  |
