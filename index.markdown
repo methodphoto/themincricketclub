@@ -14,11 +14,11 @@ nav_order: 2
 
 | May |  |  |  |
 |:---|:---|:---|:---|
-| 19th | 13:00 | Newington) | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) |  |
+| 19th | 13:00 | Newington | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) |  |
 
 | June |  |  |  |
 |:---|:---|:---|:---|
-| 30th | 13:00 | St Anne's Allstars| [SM4 4PF](https://maps.app.goo.gl/nX5ihi5okBmki9TA9?g_st=ic) |  |
+| 30th | 13:00 | St Anne's Allstars| [NW5 1LP](https://maps.app.goo.gl/Ry2B8aY3UusNqPZdA) |  |
 
 
 | July - Tour |  |  |  |
@@ -29,5 +29,5 @@ nav_order: 2
 
 | September |  |  |  |
 |:---|:---|:---|:---|
-| 8th | 13:00 | Railway Taverners | [N9 9HL](https://goo.gl/maps/xENoW4EHTBGNBsox5) |  |
+| 8th | 13:00 | Railway Taverners | [NW5 1LP](https://goo.gl/maps/xENoW4EHTBGNBsox5) |  |
 | 15th | 13:00 | Reigate Pilgrims| [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) |  |
