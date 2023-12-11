@@ -25,7 +25,8 @@ nav_order: 2
 |:---|:---|:---|:---|
 | 18th | 14:00 | Blagdon Hill | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
 | 19th | 13:00 | Broadway and Horton | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
-| 2sth | 13:00 | Highgate Irregulars |  |  |
+| 20th |  | Rest Day |  |  |
+| 21st | 13:00 | Highgate Irregulars | [NW7 4HR](https://maps.app.goo.gl/QEWyNdyRmdJEsko86) |  |
 
 | September |  |  |  |
 |:---|:---|:---|:---|
