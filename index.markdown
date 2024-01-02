@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2024 Fixtures
-nav_order: 2
+nav_order: 1
 ---
 
 # {{page.title}}
