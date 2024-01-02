@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bowling Honours Board
-nav_order: 40
+nav_order: 20
 parent: Records
 ---
 

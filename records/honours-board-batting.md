@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Batting Honours Board
-nav_order: 20
+nav_order: 10
 parent: Records
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Records
-nav_order: 100
+nav_order: 1
 has_children: true
 ---
 
