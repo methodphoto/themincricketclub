@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Payments
-nav_order: 110
+nav_order: 120
 ---
 
 # {{page.title}}
