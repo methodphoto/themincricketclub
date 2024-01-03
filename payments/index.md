@@ -6,15 +6,13 @@ nav_order: 120
 
 # {{page.title}}
 
-## Square Links
+## Revolut Links
 
-(prices include a transaction fee)
+[**£20.00** - 2024 Season Fee](https://checkout.revolut.com/payment-link/25d3e776-3e8c-46e2-9e05-77a914cc18fa)
 
-[**£20.00** - 2023 Season Fee](https://revolut.pro/payment-link/oTH6Pv9XCJVv3aslolpGpg)
+[**£5.00** - 2024 Match Fee](https://checkout.revolut.com/payment-link/3b58c522-27d2-4dd2-a161-f772665cbbfc)
 
-[**£5.00** - 2023 Match Fee](https://revolut.pro/payment-link/ok_hjUTWlzNr0ywKj69HZg)
-
-[**£25.00** - 2023 Season + 1 Match Fee](https://revolut.pro/payment-link/qvKWuqhHKZ0mM3qhX8VJ7A)
+[**£25.00** - 2024 Season + 1 Match Fee](https://checkout.revolut.com/payment-link/8b4109bd-352e-49ca-81be-da306b22b64e)
 
 ### Tour
 
