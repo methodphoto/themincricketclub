@@ -16,4 +16,4 @@ nav_order: 120
 
 ### Tour
 
-For tour fees go [here](tour)
+For Tour fees go [here](tour)
