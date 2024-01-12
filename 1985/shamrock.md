@@ -25,7 +25,7 @@ parent: 1985 Fixtures
 | **D Newman** | c | Hill | 0 |
 | **E Harcourt** | lbw | Cole | 1 |
 | **M Gardiner** | not out |  | 4 |
-| **D young** | c Johnson | Chase | 0 |
+| **D Young** | c Johnson | Chase | 0 |
 | **J Wright** | c Johnson | Chase | 0 |
 | **Extras** | | (1b 0lb 0w 0nb) | **1** |
 | **Total** | | (42 overs) | **53 all out** |

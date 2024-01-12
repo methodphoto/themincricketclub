@@ -50,7 +50,7 @@ A Gallagher's 6th 50, J Grant's 5th 50
 | **J Pemberton** | 3 | 0 | 14 | 2 |
 | **Bickford** | 1 | 0 | 10 | 0 |
 
- ## {{page.title}} Innings
+## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

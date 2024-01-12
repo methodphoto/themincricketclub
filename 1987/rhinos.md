@@ -47,7 +47,7 @@ R Beswick's 1st Michelle
 | **R Olver** | 6 | 0 | 22 | 0 |
 | **King** | 15 | 0 | 50 | 3 |
 | **R Beswick** | 12.3 | 0 | 32 | 5 |
-| **J Wright** | 5 | 1 | 12 | 0 |
+| **J Wright** | 5 | 1 | 12 | 1 |
 
 ## The Min Innings
 
