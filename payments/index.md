@@ -12,7 +12,7 @@ nav_order: 120
 
 --
 
-[**£5.00** - 2024 Match Fee](https://square.link/u/i7Hu1QxI)
+[**£5.08** - 2024 Match Fee](https://square.link/u/i7Hu1QxI)
 
 [**£25.00** - 2024 Season + 1 Match Fee](https://square.link/u/UXsK85KG)
 
