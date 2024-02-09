@@ -13,6 +13,10 @@ $link-color: $purple-300;
 
 /* Slightly tighter spacing on table cell padding */
 
+a {
+	text-decoration-skip-ink: auto;
+	transition-duration: 0.3s;}
+
 th,
 td {
   @include fs-3;
