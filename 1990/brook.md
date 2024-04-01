@@ -52,7 +52,7 @@ parent: 1990 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Hay** | c (keeper) | Lunn | 0 |
+| **J Grant &#8224;** | c (keeper) | Lunn | 0 |
 | **E Garland** | b | Markhaml | 19 |
 | **Thompson** | c (keeper) | Lunn | 0 |
 | **G Calvert** | c | Lunn | 0 |
