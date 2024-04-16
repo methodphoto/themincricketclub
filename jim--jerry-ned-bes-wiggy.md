@@ -3,7 +3,7 @@ layout: default
 title: Jim Jerry Ned Bes Wiggy
 ---
 
-# {}{page.title}}
+# {{page.title}}
 
 ## Jim and Jerry
 
