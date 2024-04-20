@@ -15,7 +15,7 @@ nav_exclude: true
 {:toc}
 </details>
 
-## Jim and Jerry
+## Jerry
 
 |:--|:--|:--|:--|:--|
 [2011 Broadway and Horton](https://min.org.uk/2011/broadway-and-horton) | **D Cook** | st J Grant | J Wright | 24 |
@@ -72,7 +72,7 @@ nav_exclude: true
 [2017 Broadway and Horton](https://min.org.uk/2017/broadway-and-horton) | **T Baigent** | c J Grant | J Wright | 1 |
 [2017 Frensham](https://min.org.uk/2017/frensham) | **R Champneys** | c J Grant | J Wright | 35 |
 
-## Jim and Ned
+## Ned
 
 |:--|:--|:--|:--|:--|
 [2011 Broadway and Horton](https://min.org.uk/2011/broadway-and-horton) | **J Jones** | st J Grant | E Garland | 26 |
@@ -110,7 +110,7 @@ nav_exclude: true
 [2018 Kingstonian](https://min.org.uk/2018/kingstonian) | **Arab** | st J Grant | E Garland | 11 |
 [2022 Blagdon Hill](https://min.org.uk/2022/blagdon-hill) | **G Welch** | st J Grant | E Garland | 15 |
 
-## Jim and Bes
+## Bes
 
 |:--|:--|:--|:--|:--|
 [2009 Ockley](https://min.org.uk/2009/ockley) | **J Bulbeck** | c J Grant | R Beswick | 0 |
@@ -144,7 +144,7 @@ nav_exclude: true
 [2020 Railway Taverners](https://min.org.uk/2020/railway-taverners) | **E Reilly &#42;** | c J Grant | R Beswick | 43 |
 [2022 St Annes Allstars](https://min.org.uk/2022/st-annes-allstars) | **S Perera** | st J Grant | R Beswick | 12 |
 
-## Jim and Wiggy
+## Wiggy
 
 |:--|:--|:--|:--|:--|
 [2011 Britwell Salome](https://min.org.uk/2011/britwell-salome) | **M Thrushington** | c J Grant | P Wigg | 10 |
@@ -166,7 +166,7 @@ nav_exclude: true
 [2021 Reigate Pilgrims](https://min.org.uk/2021/reigate-pilgrims) | **S Burgess** | c J Grant | P Wigg | 8 |
 [2022 Blagdon Hill](https://min.org.uk/2022/blagdon-hill) | **A Hotham** | c J Grant | P Wigg | 11 |
 
-## Jim and Earn
+## Earn
 
 |:--|:--|:--|:--|:--|
 [2021 Reigate Pilgrims](https://min.org.uk/2021/reigate-pilgrims) | **B Karmacharya** | c J Grant | R Earney | 8 |
@@ -193,7 +193,7 @@ nav_exclude: true
 [1995 Broadway and Horton](https://min.org.uk/1995/broadway-and-horton) | **G Helliar** | c J Grant | R Earney | 8 |
 [1995 Horningsham](https://min.org.uk/1995/horningsham) | **J Trollope** | st J Grant | R Earney | 27 |
 
-## Jim and Toy
+## Toy
 
 |:--|:--|:--|:--|:--|
 [2017 Frensham](https://min.org.uk/2017/frensham) | **M Taylor** | c J Grant | I Marshall | 30 |
@@ -229,7 +229,7 @@ nav_exclude: true
 [1991 Valley End](https://min.org.uk/1991/valley-end) | **C Chadwick** | c J Grant | I Marshall | 5 |
 [1989 Blindley Heath](https://min.org.uk/1989/blindley-heath) | **R Edwards** | c J Grant | I Marshall | 0 |
 
-## Jim and Bill
+## Bill
 
 |:--|:--|:--|:--|:--|
 [2002 Broadway and Horton](https://min.org.uk/2002/broadway-and-horton) | **T Baigent** | c J Grant | W Calvert | 31 |
@@ -251,7 +251,7 @@ nav_exclude: true
 [1985 Red Bat](https://min.org.uk/1985/red-bat) | **G Grammer** | c J Grant | W Calvert | 6 |
 [1985 Red Bat](https://min.org.uk/1985/red-bat) | **Butterworth** | c J Grant | W Calvert | 0 |
 
-## Jim and Chris
+## Chris
 
 |:--|:--|:--|:--|:--|
 [2023 Banstead](https://min.org.uk/2023/banstead) | **F Dunt** |  st J Grant | C Wright | 7 |
@@ -262,7 +262,7 @@ nav_exclude: true
 [2019 Kingstonian](https://min.org.uk/2019/kingstonian) | **Sam** | st J Grant | C Wright | 11 |
 [2021 Kingstonian](https://min.org.uk/2021/kingstonian) | **Kavi** | st J Grant | C Wright | 5 |
 
-## Jim and Macca
+## Macca
 
 |:--|:--|:--|:--|:--|
 [1991 Hersham](https://min.org.uk/1991/hersham) | **Hayward** | c J Grant | A MacFarlane | 22 |
@@ -272,7 +272,7 @@ nav_exclude: true
 [1988 Newdigate](https://min.org.uk/1988/newdigate) | **Soar** | c J Grant | A MacFarlane | 53 |
 [1988 Watton At-Stone](https://min.org.uk/1988/watton-at-stone) | **Harris** | c J Grant | A MacFarlane | 6 |
 
-## Jim and Harry
+## Harry
 
 |:--|:--|:--|:--|:--|
 [2011 Reigate Pilgrims](https://min.org.uk/2011/reigate-pilgrims) | **G Mitchell** | c J Grant | H Ingham | 2 |
@@ -285,7 +285,7 @@ nav_exclude: true
 [2015 Middleton Stoney](https://min.org.uk/2015/middleton-stoney) | **G Delaney** | c J Grant | H Ingham | 3 |
 [2017 Broadway and Horton](https://min.org.uk/2017/broadway-and-horton) | **I Watkins** | c J Grant | H Ingham | 0 |
 
-## Jim and Alan
+## Alan
 
 |:--|:--|:--|:--|:--|
 [1994 Broadway and Horton](https://min.org.uk/1994/broadway-and-horton) | **T Young** | c J Grant | A Sylvester | 14 |
@@ -302,7 +302,7 @@ nav_exclude: true
 [1985 Petts Wood](https://min.org.uk/1985/petts-wood) | **Slade** | c J Grant | A Sylvester | 0 |
 [1985 Petts Wood](https://min.org.uk/1985/petts-wood) | **LA Desborough** | c J Grant | A Sylvester | 11 |
 
-## Jim and Greeny
+## Greeny
 
 |:--|:--|:--|:--|:--|
 [2008 Middleton Stoney](https://min.org.uk/2008/middleton-stoney) | **Sandeep** | c J Grant | R Green | 2 |
@@ -318,7 +318,7 @@ nav_exclude: true
 [2000 Tatsfield](https://min.org.uk/2000/tatsfield) | **Gracie** | st J Grant | R Green | 4 |
 [2000 Tatsfield](https://min.org.uk/2000/tatsfield) | **Pendleton** | c J Grant | R Green | 6 |
 
-## Jim and PaulO
+## PaulO
 
 |:--|:--|:--|:--|:--|
 [2007 Reigate Pilgrims](https://min.org.uk/2007/reigate-pilgrims) | **S Burgess** | c J Grant | P O'Mahony | 27 |
@@ -330,7 +330,7 @@ nav_exclude: true
 [1998 Hetairoi](https://min.org.uk/1998/hetairoi) | **J Rolfe** | c J Grant | P O'Mahony | 25 |
 [1997 Woodlawn CC](https://min.org.uk/1997/woodlawn-cc) | **Leatherbarrow** | c J Grant | P O'Mahony | 15 |
 
-## Jim and Ruthers
+## Ruthers
 
 |:--|:--|:--|:--|:--|
 [2010 Trafford Croydon](https://min.org.uk/2010/trafford-croydon) | **Sunil** | c J Grant | T Rutherford | 6 |
