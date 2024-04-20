@@ -228,3 +228,114 @@ nav_exclude: true
 [1991 Valley End](https://min.org.uk/1991/valley-end) | **J Williams** | c J Grant | I Marshall | 9 |
 [1991 Valley End](https://min.org.uk/1991/valley-end) | **C Chadwick** | c J Grant | I Marshall | 5 |
 [1989 Blindley Heath](https://min.org.uk/1989/blindley-heath) | **R Edwards** | c J Grant | I Marshall | 0 |
+
+## Jim and Bill
+
+|:--|:--|:--|:--|:--|
+[2002 Broadway and Horton](https://min.org.uk/2002/broadway-and-horton) | **T Baigent** | c J Grant | W Calvert | 31 |
+[1999 Woking and Horsell](https://min.org.uk/1999/woking-and-horsell) | **A Ahmed** | c J Grant | W Calvert | 12 |
+[1998 Broadway and Horton](https://min.org.uk/1998/broadway-and-horton) | **D Ellis** | st J Grant | W Calvert | 1 |
+[1996 Broadway and Horton](https://min.org.uk/1996/broadway-and-horton) | **S Hymas** | c J Grant | W Calvert | 0 |
+[1991 Broadway and Horton](https://min.org.uk/1991/broadway-and-horton) | **S Wickham** | st J Grant | W Calvert | 19 |
+[1990 Newdigate](https://min.org.uk/1990/newdigate) | **N Shilton** | st J Grant | W Calvert | 2 |
+[1990 Old Tauntonians](https://min.org.uk/1990/old-tauntonians) | **Walker** | c J Grant | W Calvert | 0 |
+[1989 Newdigate](https://min.org.uk/1989/newdigate) | **Chamberlain** | st J Grant | W Calvert | 27 |
+[1988 Mihir Boses XI](https://min.org.uk/1988/mihir-boses-xi) | **Pavey** | c J Grant | W Calvert | 5 |
+[1987 The Crocodiles](https://min.org.uk/1987/the-crocodiles) | **J Critchley** | st J Grant | W Calvert | 5 |
+[1984 Ealonian](https://min.org.uk/1984/ealonian) | **Barker** | c J Grant | W Calvert | 9 |
+[1984 Standard Bridge](https://min.org.uk/1984/standard-bridge) | **Taylor** | c J Grant | W Calvert | 4 |
+[1985 Ealonian](https://min.org.uk/1985/ealonian) | **Davies** | st J Grant | W Calvert | 42 |
+[1985 Koh I-noor](https://min.org.uk/1985/koh-i-noor) | **Glass-eye** | st J Grant | W Calvert | 18 |
+[1985 Lobsters](https://min.org.uk/1985/lobsters) | **Rodgers** | c J Grant | W Calvert | 25 |
+[1985 Petts Wood](https://min.org.uk/1985/petts-wood) | **LM Desborough** | c J Grant | W Calvert | 18 |
+[1985 Red Bat](https://min.org.uk/1985/red-bat) | **G Grammer** | c J Grant | W Calvert | 6 |
+[1985 Red Bat](https://min.org.uk/1985/red-bat) | **Butterworth** | c J Grant | W Calvert | 0 |
+
+## Jim and Chris
+
+|:--|:--|:--|:--|:--|
+[2023 Banstead](https://min.org.uk/2023/banstead) | **F Dunt** |  st J Grant | C Wright | 7 |
+[2023 Belhus](https://min.org.uk/2023/belhus) | **A Mohammed** | st J Grant | C Wright | 5 |
+[2023 Railway Taverners](https://min.org.uk/2023/railway-taverners) | **M Pirongs** | st J Grant | C Wright | 2 |
+[2023 Reigate Pilgrims](https://min.org.uk/2023/reigate-pilgrims) | **R Hudson** |  st J Grant | C Wright | 38 |
+[2014 Wimbledon United](https://min.org.uk/2014/wimbledon-united) | **B Walton** | c J Grant | C Wright | 0 |
+[2019 Kingstonian](https://min.org.uk/2019/kingstonian) | **Sam** | st J Grant | C Wright | 11 |
+[2021 Kingstonian](https://min.org.uk/2021/kingstonian) | **Kavi** | st J Grant | C Wright | 5 |
+
+## Jim and Macca
+
+|:--|:--|:--|:--|:--|
+[1991 Hersham](https://min.org.uk/1991/hersham) | **Hayward** | c J Grant | A MacFarlane | 22 |
+[1988 Antilles](https://min.org.uk/1988/antilles) | **S Collins** | c J Grant | A MacFarlane | 9 |
+[1988 Brockham Green](https://min.org.uk/1988/brockham-green) | **Farmer** | J Grant | A MacFarlane | 16 |
+[1988 Newdigate](https://min.org.uk/1988/newdigate) | **Preece** | c J Grant | A MacFarlane | 41 |
+[1988 Newdigate](https://min.org.uk/1988/newdigate) | **Soar** | c J Grant | A MacFarlane | 53 |
+[1988 Watton At-Stone](https://min.org.uk/1988/watton-at-stone) | **Harris** | c J Grant | A MacFarlane | 6 |
+
+## Jim and Harry
+
+|:--|:--|:--|:--|:--|
+[2011 Reigate Pilgrims](https://min.org.uk/2011/reigate-pilgrims) | **G Mitchell** | c J Grant | H Ingham | 2 |
+[2009 ELCCC](https://min.org.uk/2009/elccc) | **Ijaaz** | c J Grant | H Ingham | 3 |
+[2009 Reigate Pilgrims](https://min.org.uk/2009/reigate-pilgrims) | **S Burgess** | c J Grant | H Ingham | 4 |
+[2005 Horningsham](https://min.org.uk/2005/horningsham) | **D O'Connor** | c J Grant | H Ingham | 30 |
+[2004 Brookwood](https://min.org.uk/2004/brookwood) | **Pearman** | c J Grant | H Ingham | 22 |
+[2004 Kilmington and Stourton](https://min.org.uk/2004/kilmington-and-stourton) | **R Lapham** | c J Grant | H Ingham | 4 |
+[2012 Reigate Pilgrims](https://min.org.uk/2012/reigate-pilgrims) | **N Buckland** | c J Grant | H Ingham | 20 |
+[2015 Middleton Stoney](https://min.org.uk/2015/middleton-stoney) | **G Delaney** | c J Grant | H Ingham | 3 |
+[2017 Broadway and Horton](https://min.org.uk/2017/broadway-and-horton) | **I Watkins** | c J Grant | H Ingham | 0 |
+
+## Jim and Alan
+
+|:--|:--|:--|:--|:--|
+[1994 Broadway and Horton](https://min.org.uk/1994/broadway-and-horton) | **T Young** | c J Grant | A Sylvester | 14 |
+[1994 Old Elthamians](https://min.org.uk/1994/old-elthamians) | **Ju Guthrie** | c J Grant | A Sylvester | 31 |
+[1993 Old Elthamians](https://min.org.uk/1993/old-elthamians) | **Ju Guthrie** | c J Grant | A Sylvester | 9 |
+[1986 Watton At-Stone](https://min.org.uk/1986/watton-at-stone) | **Stevens** | c J Grant | A Sylvester | 9 |
+[1982 Bristol Young Solicitors](https://min.org.uk/1982/bristol-young-solicitors) | **Devreux** | c J Grant | A Sylvester | 15 |
+[1982 Clifton College](https://min.org.uk/1982/clifton-college) | **W Robins** | c J Grant | A Sylvester | 30 |
+[1984 Ealing Commoners](https://min.org.uk/1984/ealing-commoners) | **Phillipson** | c J Grant | A Sylvester | 21 |
+[1984 Greenford](https://min.org.uk/1984/greenford) | **Robinson** | c J Grant | A Sylvester | 0 |
+[1984 Sudbury Court](https://min.org.uk/1984/sudbury-court) | **Jones** | c J Grant | A Sylvester | 19 |
+[1985 Logica](https://min.org.uk/1985/logica) | **Gravesmark** | c J Grant | A Sylvester | 11 |
+[1985 Petts Wood](https://min.org.uk/1985/petts-wood) | **Cook** | c J Grant | A Sylvester | 7 |
+[1985 Petts Wood](https://min.org.uk/1985/petts-wood) | **Slade** | c J Grant | A Sylvester | 0 |
+[1985 Petts Wood](https://min.org.uk/1985/petts-wood) | **LA Desborough** | c J Grant | A Sylvester | 11 |
+
+## Jim and Greeny
+
+|:--|:--|:--|:--|:--|
+[2008 Middleton Stoney](https://min.org.uk/2008/middleton-stoney) | **Sandeep** | c J Grant | R Green | 2 |
+[2008 Old Min Young Min](https://min.org.uk/2008/old-min-young-min) | **M Gupta** | c J Grant | R Green | 23 |
+[2007 Reigate Pilgrims](https://min.org.uk/2007/reigate-pilgrims) | **G Mitchell** | st J Grant | R Green | 34 |
+[2005 SB Exiles](https://min.org.uk/2005/sb-exiles) | **H Wallis** | st J Grant | R Green | 44 |
+[2005 SB Exiles](https://min.org.uk/2005/sb-exiles) | **Blanchard** | st J Grant | R Green | 9 |
+[2001 Players and Jesters](https://min.org.uk/2001/players-and-jesters) | **Fielder** | st J Grant | R Green | 8 |
+[2001 Stowting](https://min.org.uk/2001/stowting) | **C Ball** | c J Grant | R Green | 91 |
+[2000 Reigate Pilgrims](https://min.org.uk/2000/reigate-pilgrims) | **P Teague** | c J Grant | R Green | 2 |
+[2000 Selling](https://min.org.uk/2000/selling) | **Gower** | st J Grant | R Green | 21 |
+[2000 Shottermill](https://min.org.uk/2000/shottermill) | **S Roake** | c J Grant | R Green | 0 |
+[2000 Tatsfield](https://min.org.uk/2000/tatsfield) | **Gracie** | st J Grant | R Green | 4 |
+[2000 Tatsfield](https://min.org.uk/2000/tatsfield) | **Pendleton** | c J Grant | R Green | 6 |
+
+## Jim and Greeny
+
+|:--|:--|:--|:--|:--|
+[2007 Reigate Pilgrims](https://min.org.uk/2007/reigate-pilgrims) | **S Burgess** | c J Grant | P O'Mahony | 27 |
+[2007 Reigate Pilgrims](https://min.org.uk/2007/reigate-pilgrims) | **N Buckland** | c J Grant | P O'Mahony | 7 |
+[2006 Horningsham](https://min.org.uk/2006/horningsham) | **Jones** | c J Grant | P O'Mahony | 0 |
+[2006 Newdigate](https://min.org.uk/2006/newdigate) | **J Bettesworth** | c J Grant | P O'Mahony | 8 |
+[2006 Sanderstead](https://min.org.uk/2006/sanderstead) | **D Young** | c J Grant | P O'Mahony | 4 |
+[1999 Watton At-Stone](https://min.org.uk/1999/watton-at-stone) | **J Dalrymple** | c J Grant | P O'Mahony | 4 |
+[1998 Hetairoi](https://min.org.uk/1998/hetairoi) | **J Rolfe** | c J Grant | P O'Mahony | 25 |
+[1997 Woodlawn CC](https://min.org.uk/1997/woodlawn-cc) | **Leatherbarrow** | c J Grant | P O'Mahony | 15 |
+
+## Jim and Ruthers
+
+|:--|:--|:--|:--|:--|
+[2010 Trafford Croydon](https://min.org.uk/2010/trafford-croydon) | **Sunil** | c J Grant | T Rutherford | 6 |
+[2008 Broadway and Horton](https://min.org.uk/2008/broadway-and-horton) | **T Baigent** | c J Grant | T Rutherford | 15 |
+[2008 Broadway and Horton](https://min.org.uk/2008/broadway-and-horton) | **M Grabham** | c J Grant | T Rutherford | 1 |
+[2006 Sanderstead](https://min.org.uk/2006/sanderstead) | **T James** | c J Grant | T Rutherford | 56 |
+[2006 Sanderstead](https://min.org.uk/2006/sanderstead) | **R Rushforth** | c J Grant | T Rutherford  | 0 |
+[2006 Tappers](https://min.org.uk/2006/tappers) | **Mainwaring** | c J Grant | T Rutherford | 28 |
