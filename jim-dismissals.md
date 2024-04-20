@@ -318,7 +318,7 @@ nav_exclude: true
 [2000 Tatsfield](https://min.org.uk/2000/tatsfield) | **Gracie** | st J Grant | R Green | 4 |
 [2000 Tatsfield](https://min.org.uk/2000/tatsfield) | **Pendleton** | c J Grant | R Green | 6 |
 
-## Jim and Greeny
+## Jim and PaulO
 
 |:--|:--|:--|:--|:--|
 [2007 Reigate Pilgrims](https://min.org.uk/2007/reigate-pilgrims) | **S Burgess** | c J Grant | P O'Mahony | 27 |
