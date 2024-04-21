@@ -15,10 +15,12 @@ nav_exclude: true
 	<label for="email">Email Address</label>
 	<input type="email" id="email" name="email"/>
 	
-	<br/><br/>
+	<br/><hr/><br />
 
 	<label for="name">Name</label>
 		<input type="file" id="name" multiple name="name"/>
+		
+	<br/><hr/><br />
   
 	<label for="MiddletonStoney">Middleton Stoney</label>
 	<select name="MiddletonStoney" id="MiddletonStoney">
@@ -27,7 +29,7 @@ nav_exclude: true
   		<option value="Unavailable">Unavailable</option>
 	</select>
 	
-	<br/><br />
+	<br/><hr/><br />
 	
 	<label for="Downe">Downe</label>
 	<select name="Downe" id="Downe">
@@ -36,7 +38,7 @@ nav_exclude: true
   		<option value="Unavailable">Unavailable</option>
 	</select>
 	
-	<br /><br />
+	<br/><hr/><br />
 
 	<label for="Newington">Newington</label>
 	<select name="Newington" id="Newington">
@@ -45,7 +47,7 @@ nav_exclude: true
   		<option value="Unavailable">Unavailable</option>
 	</select>
 	
-	<br /><br />
+	<br/><hr/><br />
 	
 	<label for="HighgateIrregulars">Highgate Irregulars</label>
 	<select name="HighgateIrregulars" id="HighgateIrregulars">
@@ -54,7 +56,7 @@ nav_exclude: true
   		<option value="Unavailable">Unavailable</option>
 	</select>
 	
-	<br /><br />
+	<br/><hr/><br />
 	
 	<label for="Frensham">Frensham</label>
 	<select name="Frensham" id="Frensham">
@@ -63,7 +65,7 @@ nav_exclude: true
   		<option value="Unavailable">Unavailable</option>
 	</select>
 	
-	<br /><br />
+	<br/><hr/><br />
 	
 	<label for="Banstead">Banstead</label>
 	<select name="Banstead" id="Banstead">
@@ -72,7 +74,7 @@ nav_exclude: true
   		<option value="Unavailable">Unavailable</option>
 	</select>
 	
-	<br /><br />
+	<br/><hr/><br />
 	
 	<label for="StAnnesAllstars">St Anne's Allstars</label>
 	<select name="StAnnesAllstars" id="StAnnesAllstars">
@@ -81,6 +83,7 @@ nav_exclude: true
   		<option value="Unavailable">Unavailable</option>
 	</select>
 	
-	<br /><br />
+	<br/><hr/><br />
+	
   <button type="submit">Submit</button>
 </form>
