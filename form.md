@@ -14,6 +14,8 @@ nav_exclude: true
 
 	<label for="email">Email Address</label>
 	<input type="email" id="email" name="email"/>
+	
+	<br/><br/>
 
 	<label for="name">Name</label>
 		<input type="file" id="name" multiple name="name"/>
@@ -25,7 +27,7 @@ nav_exclude: true
   		<option value="Unavailable">Unavailable</option>
 	</select>
 	
-	<br /><br />
+	<br/><br />
 	
 	<label for="Downe">Downe</label>
 	<select name="Downe" id="Downe">
