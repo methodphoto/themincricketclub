@@ -25,12 +25,16 @@ nav_exclude: true
   		<option value="Unavailable">Unavailable</option>
 	</select>
 	
+	<br /><br />
+	
 	<label for="Downe">Downe</label>
 	<select name="Downe" id="Downe">
   		<option value="Available">Available</option>
   		<option value="Tentative">Tentative</option>
   		<option value="Unavailable">Unavailable</option>
 	</select>
+	
+	<br /><br />
 
 	<label for="Newington">Newington</label>
 	<select name="Newington" id="Newington">
@@ -39,12 +43,16 @@ nav_exclude: true
   		<option value="Unavailable">Unavailable</option>
 	</select>
 	
+	<br /><br />
+	
 	<label for="HighgateIrregulars">Highgate Irregulars</label>
 	<select name="HighgateIrregulars" id="HighgateIrregulars">
   		<option value="Available">Available</option>
   		<option value="Tentative">Tentative</option>
   		<option value="Unavailable">Unavailable</option>
 	</select>
+	
+	<br /><br />
 	
 	<label for="Frensham">Frensham</label>
 	<select name="Frensham" id="Frensham">
@@ -53,12 +61,16 @@ nav_exclude: true
   		<option value="Unavailable">Unavailable</option>
 	</select>
 	
+	<br /><br />
+	
 	<label for="Banstead">Banstead</label>
 	<select name="Banstead" id="Banstead">
   		<option value="Available">Available</option>
   		<option value="Tentative">Tentative</option>
   		<option value="Unavailable">Unavailable</option>
 	</select>
+	
+	<br /><br />
 	
 	<label for="StAnnesAllstars">St Anne's Allstars</label>
 	<select name="StAnnesAllstars" id="StAnnesAllstars">
@@ -67,6 +79,6 @@ nav_exclude: true
   		<option value="Unavailable">Unavailable</option>
 	</select>
 	
-
+	<br /><br />
   <button type="submit">Submit</button>
 </form>
