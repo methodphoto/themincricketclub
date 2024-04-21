@@ -18,13 +18,14 @@ nav_exclude: true
 	<br/><hr/><br />
 
 	<label for="name">Name</label>
-		<input type="file" id="name" multiple name="name"/>
+		<input type="name" id="name" name="name"/>
 		
 	<br/><hr/><br />
   
 	<label for="MiddletonStoney">Middleton Stoney</label>
 	<select name="MiddletonStoney" id="MiddletonStoney">
-  		<option value="Available">Available</option>
+  		<option value="selected">Please select</option>
+		<option value="Available">Available</option>
   		<option value="Tentative">Tentative</option>
   		<option value="Unavailable">Unavailable</option>
 	</select>
@@ -33,7 +34,8 @@ nav_exclude: true
 	
 	<label for="Downe">Downe</label>
 	<select name="Downe" id="Downe">
-  		<option value="Available">Available</option>
+  		<option value="selected">Please select</option>
+		<option value="Available">Available</option>
   		<option value="Tentative">Tentative</option>
   		<option value="Unavailable">Unavailable</option>
 	</select>
@@ -42,7 +44,8 @@ nav_exclude: true
 
 	<label for="Newington">Newington</label>
 	<select name="Newington" id="Newington">
-  		<option value="Available">Available</option>
+  		<option value="selected">Please select</option>
+		<option value="Available">Available</option>
   		<option value="Tentative">Tentative</option>
   		<option value="Unavailable">Unavailable</option>
 	</select>
@@ -51,7 +54,8 @@ nav_exclude: true
 	
 	<label for="HighgateIrregulars">Highgate Irregulars</label>
 	<select name="HighgateIrregulars" id="HighgateIrregulars">
-  		<option value="Available">Available</option>
+  		<option value="selected">Please select</option>
+		<option value="Available">Available</option>
   		<option value="Tentative">Tentative</option>
   		<option value="Unavailable">Unavailable</option>
 	</select>
@@ -60,7 +64,8 @@ nav_exclude: true
 	
 	<label for="Frensham">Frensham</label>
 	<select name="Frensham" id="Frensham">
-  		<option value="Available">Available</option>
+  		<option value="selected">Please select</option>
+		<option value="Available">Available</option>
   		<option value="Tentative">Tentative</option>
   		<option value="Unavailable">Unavailable</option>
 	</select>
@@ -69,7 +74,8 @@ nav_exclude: true
 	
 	<label for="Banstead">Banstead</label>
 	<select name="Banstead" id="Banstead">
-  		<option value="Available">Available</option>
+  		<option value="selected">Please select</option>
+		<option value="Available">Available</option>
   		<option value="Tentative">Tentative</option>
   		<option value="Unavailable">Unavailable</option>
 	</select>
@@ -78,7 +84,8 @@ nav_exclude: true
 	
 	<label for="StAnnesAllstars">St Anne's Allstars</label>
 	<select name="StAnnesAllstars" id="StAnnesAllstars">
-  		<option value="Available">Available</option>
+  		<option value="selected">Please select</option>
+		<option value="Available">Available</option>
   		<option value="Tentative">Tentative</option>
   		<option value="Unavailable">Unavailable</option>
 	</select>
