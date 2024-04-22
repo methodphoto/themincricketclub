@@ -9,7 +9,7 @@ nav_order: 5
 
 | April |  |  |  |
 |:---|:---|:---|:---|
-| 21st | 13:00 | Middleton Stoney | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
+| 21st | 13:00 | [Middleton Stoney](middleton-stoney) | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
 
 **29th April [42nd Anniversary of The Min](../1982/clifton-hill-house)**
 
