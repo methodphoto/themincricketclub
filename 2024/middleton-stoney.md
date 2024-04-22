@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Middleton Stoney
-homeTeam: Middleton Park
+homeTeam: Middleton Stoney
 awayTeam: The Min
-location: The Red Lion, Betchworth
+location: Middleton Park
 date: 21/04/2024
 report: Middleton Stoney won the toss and batted, making 121 for 7 wkts in 42 overs. The Min replied with 122 for 3 wkts in 32.2 overs.
 result: The Min won by 7 wkts
