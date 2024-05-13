@@ -13,6 +13,11 @@ parent: 2024 Fixtures
 
 {% include newMatchDetails %}
 
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/945755799?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Min vs Trinity Oxley 2024"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+The controversial last over appeal. (No ball should have been the call as the keeper's gloves were in front of the stumps - [Law 27.3](https://www.lords.org/mcc/the-laws-of-cricket/the-wicket-keeper))
+
 ## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
