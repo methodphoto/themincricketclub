@@ -53,7 +53,7 @@ parent: 2024 Fixtures
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **R Earney** | c S Singh | L Asthana | 9 |
+| **R Earney** | c S Singh | L Asthana | 15 |
 | **R Beswick &#42;** | c S Singh | M Matthew | 4 |
 | **A Venkatasamy** | not out |   | 88 |
 | **A Khan** | c S Singh | P Bhatt | 15 |
@@ -78,7 +78,7 @@ parent: 2024 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **M Matthew** | 7 | 1 | 18 | 0 |
+| **M Matthew** | 7 | 1 | 18 | 2 |
 | **L Asthana** | 5 | 1 | 26 | 1 |
 | **S Nair** | 7 | 2 | 40 | 1 |
 | **P Bhatt** | 7 | 1 | 45 | 1 |
