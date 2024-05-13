@@ -4,9 +4,9 @@ title: Trinity Oxley CC
 homeTeam: The Min
 awayTeam: Trinity Oxley CC
 location: Bromley Common CC
-date: 21/04/2024
-report: Trinity Oxley CC won the toss and batted first, making 121 for 7 wkts in 42 overs. The Min replied with 122 for 3 wkts in 32.2 overs.
-result: The Min won by 7 wkts
+date: 12/05/2024
+report: Trinity Oxley CC won the toss and batted first, making 194 for 5 wkts in 35 overs. The Min made 194 for 6 wkts in 35 overs.
+result: The Min won by 4 wkts
 next: 
 parent: 2024 Fixtures
 ---
@@ -46,8 +46,8 @@ parent: 2024 Fixtures
 | **A Khan** | 6 | 0 | 40 | 2 |
 | **A Venkatasamy** | 5 | 0 | 32 | 2 |
 | **C Wright** | 3 | 0 | 35 | 0 |
-| **H Gadsby** | 7 | 2 | 22 | 2 |
-| **I Miah** | 7 | 0 | 43 | 1 |
+| **I Miah** | 7 | 2 | 22 | 2 |
+| **R Beswick** | 7 | 0 | 43 | 1 |
 
 ## {{page.homeTeam}} Innings
 
@@ -81,7 +81,7 @@ parent: 2024 Fixtures
 | **M Matthew** | 7 | 1 | 18 | 0 |
 | **L Asthana** | 5 | 1 | 26 | 1 |
 | **S Nair** | 7 | 2 | 40 | 1 |
-| **P Bhatt** | 7 | 1 | 45 | 10 |
+| **P Bhatt** | 7 | 1 | 45 | 1 |
 | **C Seymour** | 6 | 0 | 37 | 0 |
 | **D Seymour** | 1 | 0 | 15 | 0 |
 | **J Middleton** | 2 | 0 | 6 | 1 |
