@@ -42,6 +42,7 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2024** | A Venkatasamy | [Trinity Oxley](../2024/trinity-oxley-cc) | **87** |
 | **2023** | A Beswick | [Hornchurch Athletic](../2023/hornchurch-athletic) | **52** |
 | **2023** | A Ijaz | [Hornchurch Athletic](../2023/hornchurch-athletic) | **80** |
 | **2023** | R Beswick | [Reigate Pilgrims](../2023/reigate-pilgrims) | **56&#42;** |

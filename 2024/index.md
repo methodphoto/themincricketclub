@@ -15,7 +15,7 @@ nav_order: 5
 
 | May |  |  |  |
 |:---|:---|:---|:---|
-| 12th | 13:00 | Trinity Oxley CC | [BR2 6HQ](https://maps.app.goo.gl/W9YgwiWQ5gfSaKAV7?g_st=ic) |  |
+| 12th | 13:00 | [Trinity Oxley CC](trinity-oxley-cc) | [BR2 6HQ](https://maps.app.goo.gl/W9YgwiWQ5gfSaKAV7?g_st=ic) |  |
 | 19th | 13:00 | Newington | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) |  |
 
 | June |  |  |  |

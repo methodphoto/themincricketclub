@@ -9,7 +9,8 @@ parent: Results
 
 | 2024 |  |  |
 |:---|:---|:---|
-| 22/04/2024 | [Middleton Stoney](../2024/middleton-stoney) | Won |
+| 12/05/2024 | [Trinity Oxley CC](../2024/trinity-oxley-cc) | Won |
+| 21/04/2024 | [Middleton Stoney](../2024/middleton-stoney) | Won |
 
 | 2023 |  |  |
 |:---|:---|:---|
