@@ -59,7 +59,7 @@ parent: 2024 Fixtures
 | **A Khan** | c A Ahmed | M Dipple | 35 |
 | **R Damaze** | not out |  | 16 |
 | **A Gallagher** | dnb |  |  |
-| **R Beswick &#42;** | dnb |  |  ||
+| **R Beswick &#42;** | dnb |  |  |
 | **I Miah** | dnb |  |  |
 | **G Daley &#8224;** | dnb |  |  |
 | **P Wigg** | dnb |  |  |
