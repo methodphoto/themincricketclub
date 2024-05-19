@@ -15,6 +15,8 @@ parent: 2013 Fixtures
 R Damaze's 1st hundred and highest score. <br /> 
 [Partnership](../records/partnerships) of 113 between R Damaze and M Elwin
 
+![Ray celebrating his 100](ray-frensham.webp "Ray celebrating his 100")
+
 ## {{page.title}} Innings
 
 | Batsman | Dismissal |  | Runs |
