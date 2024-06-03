@@ -16,9 +16,9 @@ parent: Profiles
 
 **Hundreds:** 0
 
-**Catches** 4
+**Catches:** 4
 
-**Stumpings** <br />
+**Stumpings:** <br />
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -35,7 +35,7 @@ parent: Profiles
 | **2017** | [Broadway and Horton](../2017/broadway-and-horton) | **14** |
 | **2017** | [Blagdon Hill](../2017/blagdon-hill) | **0** |
 | **2015** | [BGS Bedouins](../2015/bgs-bedouins) | **29** |
-| **2013** | [Newdigate](../2013/newdigate) | **87** |
+| **2013** | [Newdigate](../2013/newdigate) | **0** |
 
 
 ## Bowling
