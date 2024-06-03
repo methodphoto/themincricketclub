@@ -82,18 +82,18 @@ Alf Beswick's highest score and first 100 for the Min
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **M Matthew** | 7 | 1 | 18 | 2 |
-| **L Asthana** | 5 | 1 | 26 | 1 |
-| **S Nair** | 7 | 2 | 40 | 1 |
-| **P Bhatt** | 7 | 1 | 45 | 1 |
-| **C Seymour** | 6 | 0 | 37 | 0 |
-| **D Seymour** | 1 | 0 | 15 | 0 |
-| **J Middleton** | 2 | 0 | 6 | 1 |
+| **S Grey** | 5 | 1 | 25 | 0 |
+| **G Elwes** | 7 | 1 | 26 | 2 |
+| **M Said** | 7 | 1 | 34 | 3 |
+| **V Goonaratne** | 7 | 0 | 28 | 2 |
+| **Faisal** | 2 | 0 | 20 | 0 |
+| **T Mitchellr** | 5 | 0 | 23 | 1 |
+| **D Ramani* | 1.1 | 0 | 12 | 1 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 2 | 0 | 0 | 0 |
+| 3 | 0 | 0 | 0 |
 
 {% include nextGame %}

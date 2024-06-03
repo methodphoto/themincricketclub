@@ -4,7 +4,7 @@ title: Jack Stacey
 parent: Profiles
 ---
 
-# **{{page.parent}}:** {{page.title}}
+# {{page.title}}
 
 Debut: [Newdigate 2013](../2013/newdigate)
 
@@ -16,8 +16,8 @@ Debut: [Newdigate 2013](../2013/newdigate)
 
 **Highest Score**: 85&#42; v [Newington](../2022/newington) <br />
 **Fifties:** 2<br />
-**Hundreds:** 0
-**Catches** 4
+**Hundreds:** 0<br />
+**Catches** 4<br />
 **Stumpings** 
 
 | Year | Opponent | Score |
