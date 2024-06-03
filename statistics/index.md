@@ -9,7 +9,6 @@ has_children: true
 
 <details open markdown="block">
   {: .text-delta }
-1. TOC
 {:toc}
 </details>
 
