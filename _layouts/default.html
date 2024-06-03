@@ -120,10 +120,10 @@ layout: table_wrappers
           <nav aria-label="Breadcrumb" class="breadcrumb-nav">
             <ol class="breadcrumb-nav-list">
               {% if page.grand_parent %}
-                <li class="breadcrumb-nav-list-item"><a href="../index.html">{{ page.grand_parent }}</a></li>
-                <li class="breadcrumb-nav-list-item"><a href="../index.html">{{ page.parent }}</a></li>
+                <li class="breadcrumb-nav-list-item"><a href="./index.html">{{ page.grand_parent }}</a></li>
+                <li class="breadcrumb-nav-list-item"><a href="./index.html">{{ page.parent }}</a></li>
               {% else %}
-                <li class="breadcrumb-nav-list-item"><a href="../index.html">{{ page.parent }}</a></li>
+                <li class="breadcrumb-nav-list-item"><a href="./index.html">{{ page.parent }}</a></li>
               {% endif %}
               <li class="breadcrumb-nav-list-item"><span>{{ page.title }}</span></li>
             </ol>
