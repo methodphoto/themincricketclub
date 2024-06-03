@@ -10,15 +10,15 @@ Debut: [Newdigate 2013](../2013/newdigate)
 
 ## Batting
 
-| M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|:---|
-| 10 | 10 | 1 | 227 | 28.38 |
-
 **Highest Score**: 85&#42; v [Newington](../2022/newington) <br />
 **Fifties:** 2<br />
 **Hundreds:** 0<br />
 **Catches** 4<br />
 **Stumpings** 
+
+| M | Inns | NOs | Runs | Ave |
+|:---|:---|:---|:---|:---|:---|
+| 10 | 10 | 1 | 227 | 28.38 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|:---|
@@ -36,13 +36,13 @@ Debut: [Newdigate 2013](../2013/newdigate)
 
 ## Bowling
 
-| M | O | M | R | W | Ave | SR |
-|:---|:---|:---|:---|:---|:---|:---|
-| 10 | 1.2 | 0 | 3 | 0 | 0 | 0 |
-
 **Best Bowling:** 1.2-0-3-0<br />
 **Athletics:** 0<br />
 **Michelles:** 0
+
+| M | O | M | R | W | Ave | SR |
+|:---|:---|:---|:---|:---|:---|:---|
+| 10 | 1.2 | 0 | 3 | 0 | 0 | 0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|:---|
