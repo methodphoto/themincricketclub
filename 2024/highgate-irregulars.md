@@ -27,7 +27,7 @@ Alf Beswick's highest score and first 100 for the Min
 | **A Grey** | run out (A Manzoor) |  | 6 |
 | **V Goonaratne** | lbw | R Earney | 63 |
 | **M Said** | b | R Beswick | 45 |
-| **F Ccc** | c A Beswick | R Beswick | 1 |
+| **Faisal** | c A Beswick | R Beswick | 1 |
 | **G Elwes** | not out |  | 6 |
 | **E Round** | b | R Beswick | 0 |
 | **S Grey** | lbw | R Earney | 0 |
