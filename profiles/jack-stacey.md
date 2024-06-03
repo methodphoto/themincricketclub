@@ -6,7 +6,7 @@ parent: Profiles
 
 # {{page.title}}
 
-Debut: [Newdigate 2013](../2013/newdigate)
+**Debut:** [Newdigate 2013](../2013/newdigate)
 
 ## Batting
 
@@ -18,7 +18,7 @@ Debut: [Newdigate 2013](../2013/newdigate)
 
 **Catches** 4
 
-**Stumpings** 
+**Stumpings** <br />
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -44,7 +44,7 @@ Debut: [Newdigate 2013](../2013/newdigate)
 
 **Athletics:** 0
 
-**Michelles:** 0
+**Michelles:** 0 <br />
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|

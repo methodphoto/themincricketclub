@@ -18,13 +18,13 @@ R Earney's 52nd 50
 
 | Batsman | Dismissal |  |  Runs |
 |:---|:---|---|---:|
-| **E Trottman** | c H Ingham b M Gupta | 17 |
-| **G Higgins** | not out | 66 |
-| **A Hotham** | b M Gupta | 0 |
-| **L Trottman** | b J Wright | 87 |
-| **R Jennings** | b J Wright | 11 |
-| **L Vickery-Whitworth** | b R Beswick | 8 |
-| **H Welch** | c I Muntakim b R Beswick | 7 |
+| **E Trottman** | c H Ingham | b M Gupta | 17 |
+| **G Higgins** | not out | | 66 |
+| **A Hotham** | b | M Gupta | 0 |
+| **L Trottman** | b | J Wright | 87 |
+| **R Jennings** | b | J Wright | 11 |
+| **L Vickery-Whitworth** | b | R Beswick | 8 |
+| **H Welch** | c I Muntakim | b R Beswick | 7 |
 | **G Welch** | not out | 16 |
 | **M Tuffill** | dnb |  |  |
 | **T Knight &#42; &#8224;** | dnb |  |  |
