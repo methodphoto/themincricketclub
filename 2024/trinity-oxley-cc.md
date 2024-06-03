@@ -7,7 +7,7 @@ location: Bromley Common CC
 date: 12/05/2024
 report: Trinity Oxley CC won the toss and batted first, making 192 for 5 wkts in 35 overs. The Min made 194 for 6 wkts in 35 overs.
 result: The Min won by 4 wkts
-next: 
+next: highgate-irregulars
 parent: 2024 Fixtures
 ---
 
