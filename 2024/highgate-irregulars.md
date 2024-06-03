@@ -20,7 +20,7 @@ Alf Beswick's highest score and first 100 for the Min
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **N Ahmilton** | c A Mazood| R Beswick | 1 |
+| **N Hamilton** | c A Mazood| R Beswick | 1 |
 | **N Walter** |  lbw | R Beswick | 1 |
 | **D Ramani &#42;** | st J Grant | V Menom | 46 |
 | **T Mitchell** | c A Beswick | R Beswick | 0 |

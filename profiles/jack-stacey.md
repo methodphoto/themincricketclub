@@ -10,10 +10,14 @@ Debut: [Newdigate 2013](../2013/newdigate)
 
 ## Batting
 
-**Highest Score**: 85&#42; v [Newington](../2022/newington) <br />
-**Fifties:** 2<br />
-**Hundreds:** 0<br />
-**Catches** 4<br />
+**Highest Score**: 85&#42; v [Newington](../2022/newington)
+
+**Fifties:** 2
+
+**Hundreds:** 0
+
+**Catches** 4
+
 **Stumpings** 
 
 | M | Inns | NOs | Runs | Ave |
@@ -36,8 +40,10 @@ Debut: [Newdigate 2013](../2013/newdigate)
 
 ## Bowling
 
-**Best Bowling:** 1.2-0-3-0<br />
-**Athletics:** 0<br />
+**Best Bowling:** 1.2-0-3-0
+
+**Athletics:** 0
+
 **Michelles:** 0
 
 | M | O | M | R | W | Ave | SR |
