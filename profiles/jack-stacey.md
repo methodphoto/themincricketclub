@@ -8,6 +8,11 @@ parent: Profiles
 
 **Debut:** [Newdigate 2013](../2013/newdigate)
 
+<details open markdown="block">
+1. TOC
+{:toc}
+</details>
+
 ## Batting
 
 **Highest Score**: 85&#42; v [Newington](../2022/newington)
