@@ -88,4 +88,4 @@ parent: 2011 Fixtures
 {% include nextGame %}
 
 
-[Next Season >](../2012)
+[Next season >](../2012)

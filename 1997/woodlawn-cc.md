@@ -87,4 +87,4 @@ parent: 1997 Fixtures
 |:---|:---|:---|---:|
 | 6 | 7 | 5 | 0 |
 
-[Next Season >](../1998)
+[Next season >](../1998)

@@ -44,4 +44,4 @@ Many games cancelled due to Covid-19 restrictions
 | 13th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) |
 | 27th | 12:00 | ~~Selling~~ | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
 
-[Next Season >](../2021)
+[Next season >](../2021)

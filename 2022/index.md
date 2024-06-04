@@ -40,4 +40,4 @@ parent: 2020s
 | 11th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) |  |
 | 18th | 12:30 | [Hornchurch Athletic](hornchurch-athletic) | [RM11 1EX](https://goo.gl/maps/qELJ495rTjR5qBbm8) |  |
 
-[Next season:](../2023/)
+[Next season >](../2023/)

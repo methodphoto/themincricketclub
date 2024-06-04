@@ -86,4 +86,4 @@ parent: 1984 Fixtures
 |:---|:---|:---|---:|
 | 7 | 5 | 2 | 0 |
 
-[Next Season >](../1985)
+[Next season >](../1985)

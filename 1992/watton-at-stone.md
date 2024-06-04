@@ -87,4 +87,4 @@ Cakebread Hat-trick
 |:---|:---|:---|---:|
 | 3 | 6 | 5 | 0 |
 
-[Next Season >](../1993)
+[Next season >](../1993)

@@ -96,4 +96,4 @@ A Beswick's 12th 50.
 |:---|:---|:---|---:|
 | 5 | 4 | 1 | 0 |
 
-[Next season:](/)
+[Next season >](../2024/)

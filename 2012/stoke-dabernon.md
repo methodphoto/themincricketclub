@@ -91,4 +91,4 @@ parent: 2012 Fixtures
 |:---|:---|:---|---:|
 | 5 | 4 | 1 | 0 |
 
-[Next Season >](../2013)
+[Next season >](../2013)
