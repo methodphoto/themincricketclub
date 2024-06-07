@@ -92,4 +92,4 @@ parent: 2016 Fixtures
 |:---|:---|:---|---:|
 | 7 | 4 | 1 | 0 |
 
-[Next Season >](../2017)
+[Next season >](../2017)

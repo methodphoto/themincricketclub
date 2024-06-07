@@ -6,6 +6,12 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
+<details open markdown="block">
+1. TOC
+{:toc}
+</details>
+
+
 Debut: [Hornchurch 2005](../2005/hornchurch)
 
 ## Batting
@@ -14,9 +20,9 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 |:---|:---|:---|:---|:---|:---|
 | 75 | 69 | 7 | 1524 | 24.58 |
 
-**Highest Score**: 94<br />
+**Highest Score**: 111 v [Highgate Irregulars](../2024/highate-irregulars)<br />
 **Fifties:** 11<br />
-**Hundreds:** 0
+**Hundreds:** 1
 
 
 ## Bowling
@@ -25,7 +31,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 |:---|:---|:---|:---|:---|:---|:---|
 | 75 | 48.5 | 5 | 280 | 12 | 23.33 | 24.25 |
 
-**Best Bowling:** 3-1-5-3<br />
+**Best Bowling:** 3-1-5-3 v <br />
 **Athletics:** 0<br />
 **Michelles:** 0
 

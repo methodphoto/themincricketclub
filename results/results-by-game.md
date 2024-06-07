@@ -7,10 +7,15 @@ parent: Results
 
 # {{page.title}}
 
+| 2024 |  |  |
+|:---|:---|:---|
+| 12/05/2024 | [Trinity Oxley CC](../2024/trinity-oxley-cc) | Won |
+| 21/04/2024 | [Middleton Stoney](../2024/middleton-stoney) | Won |
+
 | 2023 |  |  |
 |:---|:---|:---|
-| 17/09/2022 | [Hornchurch Athletic](../2023/hornchuch-athletic) | Won |
-| 10/09/2022 | [Reigate Pilgrims](../2023/reigate-pilgrims) | Drawn |
+| 17/09/2023 | [Hornchurch Athletic](../2023/hornchuch-athletic) | Won |
+| 10/09/2023 | [Reigate Pilgrims](../2023/reigate-pilgrims) | Drawn |
 | 07/07/2023 | [Railway Taverners](../2023/railway-taverners) | Won |
 | 07/07/2023 | [Belhus](../2023/belhus) | Won |
 | 07/07/2023 | [Banstead](../2023/banstead) | Won |

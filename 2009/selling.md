@@ -91,4 +91,4 @@ parent: 2009 Fixtures
 |:---|:---|:---|---:|
 | 7 | 4 | 3 | 0 |
 
-[Next Season >](../2010)
+[Next season >](../2010)

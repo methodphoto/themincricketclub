@@ -40,4 +40,4 @@ parent: 2010s
 | 16th | 13:00 | [Reigate Pilgrims](reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) |
 | 30th | 13:00 | [Stoke D’Abernon](stoke-dabernon) | [RH5 5AE](http://goo.gl/maps/2RKzj) |
 
-[Next Season >](../2019)
+[Next season >](../2019)

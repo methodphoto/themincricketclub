@@ -1,4 +1,4 @@
----
++---
 layout: default
 title: Little Kingshill
 game: Little Kingshill v The Min
@@ -68,18 +68,20 @@ parent: 1989 Fixtures
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Score** | 21 | 43 | 118 | 143 | 143 | 146 | 147 |  |  |  |
+| **Batsman** | 1 | 3 | 4 | 5 | 2 | 7 | 8 |  |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **A MacFarlane** | 16 | 4 | 41 | 2 |
-| **I Marshall** | 13 | 2 | 46 | 1 |
-| **J Wright** | 6 | 0 | 36 | 0 |
-| **R Beswick** | 7 | 1 | 34 | 0 |
-| **R Howcroft** | 4 | 0 | 25 | 0 |
+| **M Taylor** | 9 | 2 | 31 | 0 |
+| **P Bentley** | 11 | 6 | 28 | 2 |
+| **R Beswick** | 2 | 0 | 19 | 0 |
+| **E Garland** | 9 | 2 | 34 | 3 |
+| **W Calvert** | 3 | 0 | 25 | 0 |
+| **I Marshall** | 5 | 3 | 13 | 2 |
+| **W Wright** | 1 | 0 | 6 | 0 |
 
 ## Win/Loss Ratio
 

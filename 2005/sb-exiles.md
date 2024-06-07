@@ -14,7 +14,7 @@ parent: 2005 Fixtures
 
 R Earney's 6th Hundred and highest score. A Slight's 3rd 50.<br />
 [Partnership](../records/partnerships) of 165 between R Earney and A Slight<br />
-J Wright's 5th Fivefer
+J Wright's 5th Michelle
 
 ## The Min Innings
 

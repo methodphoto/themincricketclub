@@ -2,7 +2,7 @@
 layout: default
 title: Partnerships
 game: Hundred Partnerships
-nav_order: 60
+nav_order: 30
 parent: Records
 ---
 

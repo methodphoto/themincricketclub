@@ -7,7 +7,7 @@ location: The Red Lion, Betchworth
 date: 10/09/2023
 report: The  Min won the toss and inserted Reigate Pilgrims who made 173 for 7 Wickets. The Min were 167 for 9 when time ran out
 result: Match Drawn
-next: Hornchurch Athletic
+next: hornchurch-athletic
 parent: 2023 Fixtures
 ---
 
@@ -48,7 +48,7 @@ R Beswick's 37th 50
 | **C Burgess** | 9 | 0 | 51 | 1 |
 | **C Wright** | 10 | 1 | 34 | 1 |
 | **M Gupta** | 11.5 | 1 | 43 | 3 |
-| **P Wiggs** | 7 | 1 | 23 | 1 |
+| **P Wigg** | 7 | 1 | 23 | 1 |
 
 ## {{page.awayTeam}} Innings
 

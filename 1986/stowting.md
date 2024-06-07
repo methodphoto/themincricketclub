@@ -87,4 +87,4 @@ parent: 1986 Fixtures
 |:---|:---|:---|---:|
 | 6 | 6 | 3 | 0 |
 
-[Next Season >](../1987)
+[Next season >](../1987)

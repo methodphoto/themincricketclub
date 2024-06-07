@@ -90,4 +90,4 @@ parent: 1994 Fixtures
 |:---|:---|:---|---:|
 | 3 | 7 | 2 | 0 |
 
-[Next Season >](../1995)
+[Next season >](../1995)

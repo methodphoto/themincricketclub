@@ -1,12 +1,12 @@
 /* reset */
 
-#fs-frm input,
-#fs-frm select,
-#fs-frm textarea,
-#fs-frm fieldset,
-#fs-frm optgroup,
-#fs-frm label,
-#fs-frm #card-element:disabled {
+input,
+select,
+textarea,
+fieldset,
+optgroup,
+label,
+#card-element:disabled {
   font-family: inherit;
   font-size: 100%;
   color: inherit;
@@ -22,7 +22,7 @@
 
 /* submit */
 
-#fs-frm [type="submit"] {
+[type="submit"] {
 	background-color: #0c5b97 !important;
 	width: 288px !important;
 	min-height: 44px !important;
@@ -31,17 +31,17 @@
 	padding: .75em 1rem !important;
 }
 
-#fs-frm label {
+label {
 	color: $primary-color;
 }
 
-#fs-frm placeholder {
+placeholder {
 	color: #ccc;
 }
 
-#fs-frm label,
-#fs-frm legend,
-#fs-frm ::placeholder {
+label,
+legend,
+::placeholder {
   font-size: .825rem;
   margin-bottom: .5rem;
   padding-top: .2rem;
@@ -51,9 +51,9 @@
 
 /* border, padding, margin, width */
 
-#fs-frm input,
-#fs-frm textarea,
-#fs-frm #card-element {
+input,
+textarea,
+#card-element {
   border: 1px solid rgba(0,0,0,0.2);
   border-radius: 6px;
   background-color: rgba(255,255,255,0.9);
@@ -61,9 +61,9 @@
   margin-bottom: 1.5rem;
 }
 
-#fs-frm input:focus,
-#fs-frm select:focus,
-#fs-frm textarea:focus {
+input:focus,
+select:focus,
+textarea:focus {
   background-color: white;
   outline-style: solid;
   outline-width: thin;
@@ -71,14 +71,14 @@
   outline-offset: -1px;
 }
 
-#fs-frm [type="text"],
-#fs-frm [type="email"] {
+[type="text"],
+[type="email"] {
   width: 100%;
 }
 
-#fs-frm [type="button"],
-#fs-frm [type="submit"],
-#fs-frm [type="reset"] {
+[type="button"],
+[type="submit"],
+[type="reset"] {
   width: auto;
   cursor: pointer;
   -webkit-appearance: button;
@@ -86,22 +86,22 @@
   appearance: button;
 }
 
-#fs-frm [type="button"]:focus,
-#fs-frm [type="submit"]:focus,
-#fs-frm [type="reset"]:focus {
+[type="button"]:focus,
+[type="submit"]:focus,
+[type="reset"]:focus {
   outline: none;
 }
 
-#fs-frm [type="submit"],
-#fs-frm [type="reset"] {
+[type="submit"],
+[type="reset"] {
   margin-bottom: 0;
 }
 
-#fs-frm select {
+select {
   text-transform: none;
 }
 
-#fs-frm [type="checkbox"] {
+[type="checkbox"] {
   -webkit-appearance: checkbox;
   -moz-appearance: checkbox;
   appearance: checkbox;
@@ -110,7 +110,7 @@
   margin: 0 .5em 0 0 !important;
 }
 
-#fs-frm [type="radio"] {
+[type="radio"] {
   -webkit-appearance: radio;
   -moz-appearance: radio;
   appearance: radio;
@@ -118,22 +118,22 @@
 
 /* address, locale */
 
-#fs-frm fieldset.locale input[name="city"],
-#fs-frm fieldset.locale select[name="state"],
-#fs-frm fieldset.locale input[name="postal-code"] {
+fieldset.locale input[name="city"],
+fieldset.locale select[name="state"],
+fieldset.locale input[name="postal-code"] {
   display: inline;
 }
 
-#fs-frm fieldset.locale input[name="city"] {
+fieldset.locale input[name="city"] {
   width: 52%;
 }
 
-#fs-frm fieldset.locale select[name="state"],
-#fs-frm fieldset.locale input[name="postal-code"] {
+fieldset.locale select[name="state"],
+fieldset.locale input[name="postal-code"] {
   width: 20%;
 }
 
-#fs-frm fieldset.locale input[name="city"],
-#fs-frm fieldset.locale select[name="state"] {
+fieldset.locale input[name="city"],
+fieldset.locale select[name="state"] {
   margin-right: 3%;
 }

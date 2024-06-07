@@ -1,21 +1,23 @@
 ---
 layout: default
 title: Payments
-nav_order: 110
+nav_order: 120
 ---
 
 # {{page.title}}
 
-## Square Links
+## Payment Links
 
-(prices include a transaction fee)
+[**£20.00** - 2024 Season Fee](https://square.link/u/dktjDXJH)
 
-[**£20.00** - 2023 Season Fee](https://revolut.pro/payment-link/oTH6Pv9XCJVv3aslolpGpg)
+--
 
-[**£5.00** - 2023 Match Fee](https://revolut.pro/payment-link/ok_hjUTWlzNr0ywKj69HZg)
+[**£5.08** - 2024 Match Fee](https://square.link/u/i7Hu1QxI)
 
-[**£25.00** - 2023 Season + 1 Match Fee](https://revolut.pro/payment-link/qvKWuqhHKZ0mM3qhX8VJ7A)
+[**£25.00** - 2024 Season + 1 Match Fee](https://square.link/u/UXsK85KG)
+
+All payments are handled securely by Stripe
 
 ### Tour
 
-For tour fees go [here](tour)
+For Tour fees go [here](tour)

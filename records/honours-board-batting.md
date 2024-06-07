@@ -1,16 +1,13 @@
 ---
 layout: default
 title: Batting Honours Board
-nav_order: 20
+nav_order: 10
 parent: Records
 ---
 
 # {{page.title}}
 
 <details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
   {: .text-delta }
 1. TOC
 {:toc}
@@ -20,6 +17,7 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2024** | A Beswick | [Highgate Irregulars](../2024/highgate-irregulars) | **111** |
 | **2017** | M Gupta | [Frensham](../2017/frensham) | **100** |
 | **2013** | R Damaze | [Frensham](../2013/frensham) | **100&#42;** |
 | **2013** | S Hornsby | [Britwell Salome](../2013/britwell-salome) | **100&#42;** |
@@ -45,6 +43,7 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2024** | A Venkatasamy | [Trinity Oxley](../2024/trinity-oxley-cc) | **87** |
 | **2023** | A Beswick | [Hornchurch Athletic](../2023/hornchurch-athletic) | **52** |
 | **2023** | A Ijaz | [Hornchurch Athletic](../2023/hornchurch-athletic) | **80** |
 | **2023** | R Beswick | [Reigate Pilgrims](../2023/reigate-pilgrims) | **56&#42;** |

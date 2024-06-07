@@ -93,4 +93,4 @@ M Wright batted, Charlotte Wright and Harry Earney fielded
 |:---|:---|:---|---:|
 | 3 | 1 | 0 | 0 |
 
-[Next Season >](../2021)
+[Next season >](../2021)

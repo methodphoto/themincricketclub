@@ -91,4 +91,4 @@ E Garland's 2nd Michelle
 |:---|:---|:---|---:|
 | 6 | 5 | 3 | 0 |
 
-[Next Season >](../1988)
+[Next season >](../1988)

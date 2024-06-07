@@ -6,7 +6,7 @@ location: Islip CC
 date: 11/07/2010
 report: The Min batted first and were all out for 75. Islip replied with 78 for 3 wkts
 result: Islip won by 7 wkts
-next: hampton-wick
+next: hampton-wick-royal
 parent: 2010 Fixtures
 ---
 

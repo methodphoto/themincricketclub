@@ -62,7 +62,7 @@ S Barrowcliff's 14th 50
 | **M Gupta** | not out | 0 |
 | **S Amin** | not out | 6 |
 | **S Habib** | dnb |  |  |
-| **W Calvert &#8224** | dnb |  |  |
+| **W Calvert &#8224;** | dnb |  |  |
 | **I Miah** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |

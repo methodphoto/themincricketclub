@@ -89,4 +89,4 @@ parent: 2002 Fixtures
 |:---|:---|:---|---:|
 | 3 | 5 | 5 | 0 |
 
-[Next Season >](../2003)
+[Next season >](../2003)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Jerry Wright Cup
-nav_order: 100
+nav_order: 5
 parent: Records
 ---
 

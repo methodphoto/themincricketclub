@@ -43,4 +43,4 @@ nav_order: 6
 | 10th | 13:00 | [Reigate Pilgrims](reigate-pilgrims)| [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) |  |
 | 17th | 12:30 | [Hornchurch Athletic](hornchurch-athletic) | [RM11 1EX](https://goo.gl/maps/qELJ495rTjR5qBbm8) |  |
 
-[Next season:](/)
+[Next season >](/)
