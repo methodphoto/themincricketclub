@@ -53,7 +53,7 @@ parent: 1989 Fixtures
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **W Chapman** | c Cakebread | Ellis | 3 |
-| **Grant &#8224;** | c I Fursland | M Cakebread | 9 |
+| **J Grant &#8224;** | c I Fursland | M Cakebread | 9 |
 | **S Gardiner** | c C Fursland | Ellis | 59 |
 | **I Marshall** | c Booker | Ellis | 0 |
 | **J Wright** | b | Ellis | 0 |

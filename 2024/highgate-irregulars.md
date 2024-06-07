@@ -20,11 +20,11 @@ Alf Beswick's highest score and first 100 for the Min
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **N Hamilton** | c A Mazood| R Beswick | 1 |
+| **N Hamilton &#8224;** | c A Mazoor| R Beswick | 1 |
 | **N Walter** |  lbw | R Beswick | 1 |
 | **D Ramani &#42;** | st J Grant | V Menom | 46 |
 | **T Mitchell** | c A Beswick | R Beswick | 0 |
-| **A Grey** | run out (A Mazood) |  | 6 |
+| **A Grey** | run out (A Mazoor) |  | 6 |
 | **V Goonaratne** | lbw | R Earney | 63 |
 | **M Said** | b | R Beswick | 45 |
 | **Faisal** | c A Beswick | R Beswick | 1 |
@@ -50,7 +50,7 @@ Alf Beswick's highest score and first 100 for the Min
 | **P Wigg** | 7 | 1 | 24 | 0 |
 | **J Brown** | 6 | 1 | 31 | 0 |
 | **W Ahmed** | 2 | 0 | 18 | 0 |
-| **A Mazood** | 2 | 0 | 20 | 0 |
+| **A Mazoor** | 2 | 0 | 20 | 0 |
 | **R Earney** | 4.4 | 0 | 11 | 2 |
 
 ## {{page.homeTeam}} Innings
@@ -59,7 +59,7 @@ Alf Beswick's highest score and first 100 for the Min
 |:---|:---|---|---:|
 | **A Beswick &#42;** | c A Grey | D Ramani | 111 |
 | **R Earney** | b | G Elwes | 14 |
-| **A Mazood** | c A Grey | G Elwes  | 2 |
+| **A Mazoor** | c A Grey | G Elwes  | 2 |
 | **[J Stacey](../profiles/jack-stacey)** | b | M Said | 8 |
 | **R Damaze** | b | V Goonaratne | 10 |
 | **J Brown** | c V Goonaratne | T Mitchell | 1 |
@@ -87,8 +87,8 @@ Alf Beswick's highest score and first 100 for the Min
 | **M Said** | 7 | 1 | 34 | 3 |
 | **V Goonaratne** | 7 | 0 | 28 | 2 |
 | **Faisal** | 2 | 0 | 20 | 0 |
-| **T Mitchellr** | 5 | 0 | 23 | 1 |
-| **D Ramani* | 1.1 | 0 | 12 | 1 |
+| **T Mitchell** | 5 | 0 | 23 | 1 |
+| **D Ramani** | 1.1 | 0 | 12 | 1 |
 
 ## Win/Loss Ratio
 
