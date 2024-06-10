@@ -22,7 +22,7 @@ nav_order: 5
 |:---|:---|:---|:---|
 | 2nd | 13:00 | [Highgate Irregulars](highgate-irregulars) | [NW7 4HR](https://maps.app.goo.gl/RwhLr2hgAKYyW8BP8?g_st=ic) |  |
 | 9th | 13:00 | Frensham | [GU10 3BJ](https://goo.gl/maps/4gohPpn1stdT6fnY7) |  |
-| 16th | 13:00 | Banstead | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) |  |
+| 16th | 13:00 | ~~Banstead~~ | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) |  |
 | 30th | 13:00 | St Anne's Allstars| [NW5 1LP](https://maps.app.goo.gl/Ry2B8aY3UusNqPZdA) |  |
 
 
