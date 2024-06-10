@@ -23,7 +23,7 @@ parent: 2024 Fixtures
 | **F Mayes** |  c A Beswick | C Etheridge | 21 |
 | **M Taylor &#8224;** | c J Grant | P Wigg | 19 |
 | **D Lambert** | c A Beswick | R Beswick | 32 |
-| **S Dibdin** | b J Stacey |  | 25 |
+| **S Dibdin** | b  | J Stacey | 25 |
 | **C Doran** | b | J Carroll | 4 |
 | **M Findlay** | b | J Carroll | 20 |
 | **M Shine** | b | H Owen | 22 |
