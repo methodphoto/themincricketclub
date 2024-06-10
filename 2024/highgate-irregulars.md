@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Highgate Irregulars
-homeTeam: The Min
-awayTeam: Highgate Irregulars
+homeTeam: Highgate Irregulars
+awayTeam: The Min
 location: Old Cholmelians Sports Ground  
 date: 02/06/2024
 report: The Min won the toss and fielded first, Highgate Irregulars made 176 all out in 34.4 overs. The Min replied with 178 for 9 wkts in 34.1 overs.

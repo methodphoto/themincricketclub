@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Frensham
-homeTeam: The Min
-awayTeam: Frensham
+homeTeam: Frensham
+awayTeam: The Min
 location: Hollowdene Recreation Ground  
 date: 09/06/2024
 report: The Min won the toss and inserted Frensham who made 170 for 9 wkts in 25 overs. The Min replied with 173 for 4 wkts in 27.2 overs
