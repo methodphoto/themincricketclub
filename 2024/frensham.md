@@ -6,15 +6,14 @@ awayTeam: Frensham
 location: Hollowdene Recreation Ground  
 date: 09/06/2024
 report: The Min won the toss and inserted Frensham who made 170 for 9 wkts in 25 overs. The Min replied with 173 for 4 wkts in 27.2 overs
-result: The Min won by 6 wkt
+result: The Min won by 6 wkts
 next: 
 parent: 2024 Fixtures
 ---
 
 {% include newMatchDetails %}
 
-Richard Beswick's best bowling for the Min<br />
-Alf Beswick's highest score and first 100 for the Min
+[Partnership](../records/partnerships) of 103 between A Beswick (47) and R Earney (35)
 
 ## {{page.homeTeam}} Innings
 
