@@ -16,7 +16,7 @@ parent: 2024 Fixtures
 Richard Beswick's best bowling for the Min<br />
 Alf Beswick's highest score and first 100 for the Min
 
-## {{page.awayTeam}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -53,7 +53,7 @@ Alf Beswick's highest score and first 100 for the Min
 | **A Mazoor** | 2 | 0 | 20 | 0 |
 | **R Earney** | 4.4 | 0 | 11 | 2 |
 
-## {{page.homeTeam}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

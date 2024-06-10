@@ -27,10 +27,11 @@ parent: Profiles
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 10 | 10 | 1 | 227 | 28.38 |
+| 11 | 11 | 1 | 270 | 27.00 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|:---|
+| **2024** | [Frensham](../2024/frensham) | **43** |
 | **2024** | [Highgate Irregulars](../2024/highate-irregulars) | **8** |
 | **2023** | [Newington](../2023/newington) | **16** |
 | **2022** | [Newington](../2022/newington) | **85&#42;** |
@@ -45,7 +46,7 @@ parent: Profiles
 
 ## Bowling
 
-**Best Bowling:** 1.2-0-3-0
+**Best Bowling:** 2-0-13-1
 
 **Athletics:** 0
 
@@ -53,8 +54,9 @@ parent: Profiles
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 10 | 1.2 | 0 | 3 | 0 | 0 | 0 |
+| 11 | 3.2 | 0 | 16 | 1 | 16 | 20|
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|:---|
+| **2024** | [Frensham](../2024/frensham) | 2 | 0 | 13 | 1 |
 | **2019** | [Watton-at-Stone](../2019/watton-at-stone) | 1.2 | 0 | 3 | 0 |

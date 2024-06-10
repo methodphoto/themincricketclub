@@ -9,6 +9,8 @@ parent: Results
 
 | 2024 |  |  |
 |:---|:---|:---|
+| 09/06/2024 | [Frensham](../2024/frensham) | Won |
+| 02/06/2024 | [Highate Irregulars](../2024/highate-irregulars) | Won |
 | 12/05/2024 | [Trinity Oxley CC](../2024/trinity-oxley-cc) | Won |
 | 21/04/2024 | [Middleton Stoney](../2024/middleton-stoney) | Won |
 
