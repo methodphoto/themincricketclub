@@ -13,6 +13,7 @@ parent: Records
 | **2004** | H Ingham (96&#42;) and R Beswick (67&#42;) | [Watton-at-Stone](../2004/watton-at-stone) | **186&#42;** |
 | **2009** | R Earney (61&#42;) and M Gupta (94&#42;) | [Tower of Dudes](../2009/tower-of-dudes) | **179&#42;** |
 | **2006** | R Earney (102) and M  Goff (100) | [SB Exiles](../2006/sb-exiles) | **179** |
+| **2020** | R Beswick (71&#42; retired hurt) and B Boyd-Taylor (66&#42;) | [St Anne's Allstars](../2022/st-annes-allstars) | **174** |
 | **2010** | T Hammond (102&#42;) and W Calvert (57&#42;) | [Broadway and Horton](../2010/broadway-and-horton) | **172&#42;** |
 | **1992** | I Marshall (108&#42;) and S Barrowcliff (66&#42;) | [Dowlish Wake](../1992/dowlish-wake) | **160&#42;** |
 | **2002** | R Earney (101) and R Kitson (67) | [Watton-at-Stone](../2002/watton-at-stone) | **158** |

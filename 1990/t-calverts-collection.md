@@ -56,7 +56,7 @@ parent: 1990 Fixtures
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Atkinson** | b | I Marshall | 0 |
-| **R Hopewell** | c | R Beswick | 57 |
+| **B Hopewell** | c | R Beswick | 57 |
 | **N Hudson** | lbw | I Marshall | 1 |
 | **P Yeoward** | b | S Hornsby | 5 |
 | **C Naylor** | b | S Hornsby | 11 |

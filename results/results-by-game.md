@@ -9,6 +9,7 @@ parent: Results
 
 | 2024 |  |  |
 |:---|:---|:---|
+| 18/07/2024 | [Blagdon Hill](../2024/blagdon-hill) | Won |
 | 09/06/2024 | [Frensham](../2024/frensham) | Won |
 | 02/06/2024 | [Highate Irregulars](../2024/highate-irregulars) | Won |
 | 12/05/2024 | [Trinity Oxley CC](../2024/trinity-oxley-cc) | Won |

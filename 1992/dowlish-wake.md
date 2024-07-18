@@ -80,7 +80,7 @@ I Marshall first century.<br />
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **A MacFarlane** | 5 | 1 | 11 | 1 |
-| **G Wright** | 5 | 0 | 16 | 31 |
+| **G Wright** | 5 | 0 | 16 | 2 |
 | **J Wright** | 4 | 0 | 19 | 0 |
 | **A Sylvester** | 6 | 3 | 4 | 2 |
 | **M Kirwan** | 4 | 2 | 12 | 2 |
