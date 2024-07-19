@@ -7,13 +7,11 @@ location: Sellick's Green
 date: 18/07/2024
 report: The Min batted first and made 220 for wkts. Blagdon were all out for 169.
 result: The Min won by 51 runs
-next: 
+next: broadway-and-horton
 parent: 2024 Fixtures
 ---
 
 {% include newMatchDetails %}
-
-[Partnership](../records/partnerships) of 103 between A Beswick (47) and R Earney (35)
 
 ## {{page.awayTeam}} Innings
 
