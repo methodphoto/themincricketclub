@@ -23,8 +23,8 @@ parent: 2024 Fixtures
 | **[J Stacey](../profiles/jack-stacey)** | c T Burgess | J Hayes | 15 |
 | **B Boyd-Taylor** | c J Pawley | J Hayes | 13 |
 | **A Gallagher** | lbw | J Pedlar | 13 |
-| **J Casey** | not out |  | 13 |
-| **P Wigg** | b | L Trottman | 1 |
+| **J Casey** | lbw | J Hayes | 13 |
+| **P Wigg** | not out |  | 1 |
 | **R Beswick** | dnb |  |  |
 | **J Grant &#8224;** | dnb |  |  |
 | **C Wright** | dnb |  |  |
