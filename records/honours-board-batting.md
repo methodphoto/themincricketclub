@@ -43,6 +43,7 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2024** | P Wigg | [Broadway and Horton](../2024/broadway-and-horton) | **70** |
 | **2024** | P Wigg | [Blagdon Hill](../2024/blagdon-hill) | **52&#42;** |
 | **2024** | A Venkatasamy | [Trinity Oxley](../2024/trinity-oxley-cc) | **87** |
 | **2023** | A Beswick | [Hornchurch Athletic](../2023/hornchurch-athletic) | **52** |

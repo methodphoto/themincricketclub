@@ -9,6 +9,7 @@ parent: Results
 
 | 2024 |  |  |
 |:---|:---|:---|
+| 19/07/2023 | [Broadway and Horton](../2024/broadway-and-horton) | Won |
 | 18/07/2024 | [Blagdon Hill](../2024/blagdon-hill) | Won |
 | 09/06/2024 | [Frensham](../2024/frensham) | Won |
 | 02/06/2024 | [Highate Irregulars](../2024/highate-irregulars) | Won |

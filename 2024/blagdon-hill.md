@@ -5,7 +5,7 @@ homeTeam: Blagdon Hill
 awayTeam: The Min
 location: Sellick's Green 
 date: 18/07/2024
-report: The Min batted first and made 220 for wkts. Blagdon were all out for 169.
+report: The Min batted first and made 220 for 7 wkts. Blagdon were all out for 169.
 result: The Min won by 51 runs
 next: broadway-and-horton
 parent: 2024 Fixtures

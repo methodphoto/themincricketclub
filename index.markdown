@@ -28,7 +28,7 @@ nav_order: 1
 | July - Tour |  |  |  |
 |:---|:---|:---|:---|
 | 18th | 14:00 | [Blagdon Hill](2024/blagdon-hill) | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
-| 19th | 13:00 | Broadway and Horton | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
+| 19th | 13:00 | [Broadway and Horton](2024/broadway-and-horton) | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
 
 | August |  |  |  |
 |:---|:---|:---|:---|
