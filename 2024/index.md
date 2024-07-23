@@ -33,7 +33,7 @@ nav_order: 5
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 4th | 13:00 | Hornchurch Athletic | [RM11 1EX](https://goo.gl/maps/qELJ495rTjR5qBbm8) |  |
+| 4th | 12:30 | Hornchurch Athletic | [RM11 1EX](https://goo.gl/maps/qELJ495rTjR5qBbm8) |  |
 
 | September |  |  |  |
 |:---|:---|:---|:---|
