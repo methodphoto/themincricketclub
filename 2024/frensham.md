@@ -15,6 +15,9 @@ parent: 2024 Fixtures
 
 [Partnership](../records/partnerships) of 103 between A Beswick (47) and R Earney (35)
 
+<img src="frensham_2024_.webp" width="100%" alt="Frensham" />
+
+
 ## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
@@ -22,10 +25,10 @@ parent: 2024 Fixtures
 | **R Doran** | b | P Wigg | 0 |
 | **F Mayes** |  c A Beswick | C Etheridge | 21 |
 | **M Taylor &#8224;** | c J Grant | P Wigg | 19 |
-| **D Lambert** | c A Beswick | R Beswick | 32 |
+| **D Lambert** | lbw | J Carroll | 32 |
 | **S Dibdin** | b  | J Stacey | 25 |
 | **C Doran** | b | J Carroll | 4 |
-| **M Findlay** | b | J Carroll | 20 |
+| **M Findlay** | c W Calvert | R Earneyl | 20 |
 | **M Shine** | b | H Owen | 22 |
 | **M Andreanelli** | c & b | R Earney | 4 |
 | **D Irvine** | not out |  | 1 |
