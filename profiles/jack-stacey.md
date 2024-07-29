@@ -21,7 +21,7 @@ parent: Profiles
 
 **Hundreds:** 0
 
-**Catches:** 4
+**Catches:** 6
 
 **Stumpings:** <br />
 
@@ -31,15 +31,17 @@ parent: Profiles
 
 | Year | Opponent | Score |
 |:---|:---|:---|:---|
-| **2024** | [Frensham](../2024/frensham) | **43** |
-| **2024** | [Highgate Irregulars](../2024/highate-irregulars) | **8** |
+| **2024** | [Broadway and Horton](../2024/broadway-and-horton) | **15** |
+|   | [Blagdon Hill](../2024/blgdon-hill) | **0** |
+|   | [Frensham](../2024/frensham) | **43** |
+|   | [Highgate Irregulars](../2024/highate-irregulars) | **8** |
 | **2023** | [Newington](../2023/newington) | **16** |
 | **2022** | [Newington](../2022/newington) | **85&#42;** |
 | **2020** | [Banstead](../2020/banstead) | **15** |
 | **2019** | [Newington](../2019/newington) | **59** |
-| **2019** | [Watton-at-Stone](../2019/watton-at-stone) | **9** |
+|   | [Watton-at-Stone](../2019/watton-at-stone) | **9** |
 | **2017** | [Broadway and Horton](../2017/broadway-and-horton) | **14** |
-| **2017** | [Blagdon Hill](../2017/blagdon-hill) | **0** |
+|   | [Blagdon Hill](../2017/blagdon-hill) | **0** |
 | **2015** | [BGS Bedouins](../2015/bgs-bedouins) | **29** |
 | **2013** | [Newdigate](../2013/newdigate) | **0** |
 
