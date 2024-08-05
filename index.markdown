@@ -1,7 +1,7 @@
 ---
 layout: redirected
 sitemap: false
-permalink: index.markdown
-redirect_to: 2024/
+permalink: 2024/
+redirect_to: index.markdown
 nav_order: 1
 ---
