@@ -267,7 +267,7 @@ parent: Results
 | 12/07/2007 | [Broadway and Horton](../2007/broadway-and-horton) | **Won** |
 | 13/07/2007 | [Kilmington and Stourton](../2007/kilmington-and-stourton) | **Won** |
 | 14/07/2007 | [Horningsham](../2007/horningsham) | Drawn |
-| 15/07/2007 | [Old Min v Young Min]((../2007/old-min-young-min) | Drawn |
+| 15/07/2007 | [The Old Min v The Young Min](../2007/old-min-young-min) | Drawn |
 | 05/08/2007 | [Selling](../2007/selling) | Lost |
 | 01/09/2007 | [SB Exiles](../2007/sb-exiles) | Lost |
 | 16/09/2007 | [Reigate Pilgrims](../2007/reigate-pilgrims) | Drawn |
