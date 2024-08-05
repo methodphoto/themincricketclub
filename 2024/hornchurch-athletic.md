@@ -20,11 +20,11 @@ parent: 2024 Fixtures
 | **A Mujraba** | not out | | 127 |
 | **P Gouldstone** | c D Padala | R Earney | 43 |
 | **A Rehman** | c I Ali | S Dhaka  | 18 |
-| **C Humphries** | c J Grant | S Mohammad | 1 |
-| **Z Ullah** | b | D Beardsmore | 12 |
-| **A Chowdrhary** | b | D Padala | 4 |
+| **C Humphries &#42;** | c J Grant | S Mohammad | 1 |
+| **X Ullah** | b | D Beardsmore | 12 |
+| **A Chaudhary &#8224;** | b | D Padala | 4 |
 | **Z Mirza** | not out |  | 5 |
-| **S Mackenna** | dnb |  |  |
+| **S Makkena** | dnb |  |  |
 | **N Mirza** | dnb |  |  |
 | **P Sass** | dnb |  |  |
 | **M Shoaib** | dnb |  |  |
@@ -53,16 +53,16 @@ parent: 2024 Fixtures
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **A Beswick &#42;** | c | S Mackenna | 41 |
+| **A Beswick &#42;** | c X Ullah | S Makkena | 41 |
 | **R Earney** | lbw | N Mirza | 12 |
 | **D Padala** | lbw | P Sass | 12 |
-| **A Gallagher** | c | P Sass | 11 |
-| **S Mohammad** | c N Mirza | P Sass | 6 |
+| **A Gallagher** | c N Mirza | P Sass | 11 |
+| **S Mohammad** | c S Makkena | P Sass | 6 |
 | **I Ali** | b | P Sass | 14 |
-| **L Gallagher** | c | Z Mirza | 8 |
+| **L Gallagher** | c A Chaudhary | Z Mirza | 8 |
 | **S Dhaka** | b | Z Mirza | 1 |
 | **D Beardsmore** | not out |  |12 |
-| **J Grant &#8224;** | c | z Mirza | 7 |
+| **J Grant &#8224;** | c A Chaudhary | Z Mirza | 7 |
 |  |  |  |  |
 | **Extras** | | 6b 2lb 8w 4nb 0p) | **20** |
 | **Total** | | (29.4 overs) | **155 for 9 wkts (all out)** |
@@ -81,9 +81,9 @@ parent: 2024 Fixtures
 | **N Mirza** | 5 | 0 | 21 | 1 |
 | **M Shoaib** | 5 | 0 | 34 | 0 |
 | **P Sass** | 8 | 0 | 42 | 4 |
-| **S Mackenna** | 5 | 0 | 22 | 1 |
+| **S Makkena** | 5 | 0 | 22 | 1 |
 | **Z Mirza** | 4.4 | 0 | 16 | 2 |
-| **A Chowdrhary** | 2 | 0 | 6 | 0 |
+| **A Chaudhary** | 2 | 0 | 6 | 0 |
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
