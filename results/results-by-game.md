@@ -218,7 +218,7 @@ parent: Results
 | 09/07/2010 | [Kilmington and Stourton](../2010/kilmington-and-stourton) | Lost |
 | 10/07/2010 | [Horningsham](../2010/horningsham) | **Won** |
 | 11/07/2010 | [Islip](../2010/islip) | Lost |
-| 22/08/2010 | [Hampton Wick](../2010/hampton-wick) | Lost |
+| 22/08/2010 | [Hampton Wick Royal](../2010/hampton-wick-royal) | Lost |
 | 05/09/2010 | [SB Exiles](../2010/sb-exiles) | Drawn |
 | 12/09/2010 | [Reigate Pilgrims](../2010/reigate-pilgrims) | **Won** |
 | 26/09/2010 | [Spencer](../2010/spencer) | Lost |
