@@ -57,11 +57,11 @@ parent: 2024 Fixtures
 | **R Earney** | lbw | N Mirza | 12 |
 | **D Padala** | lbw | P Sass | 12 |
 | **A Gallagher** | c | P Sass | 11 |
-| **S Mohammad** | c | P Sass | 6 |
+| **S Mohammad** | c N Mirza | P Sass | 6 |
 | **I Ali** | b | P Sass | 14 |
-| **L Gallagher** | c | Z Mirza | 4 |
+| **L Gallagher** | c | Z Mirza | 8 |
 | **S Dhaka** | b | Z Mirza | 1 |
-| **D Beardsmorer** | not out |  |12 |
+| **D Beardsmore** | not out |  |12 |
 | **J Grant &#8224;** | c | z Mirza | 7 |
 |  |  |  |  |
 | **Extras** | | 6b 2lb 8w 4nb 0p) | **20** |
