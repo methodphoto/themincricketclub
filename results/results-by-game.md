@@ -9,7 +9,7 @@ parent: Results
 
 | 2024 |  |  |
 |:---|:---|:---|
-| 04/09/2024 | [Hornchurch Athletic](../2024/hornchuch-athletic) | Lost |
+| 04/09/2024 | [Hornchurch Athletic](../2024/hornchurch-athletic) | Lost |
 | 19/07/2024 | [Broadway and Horton](../2024/broadway-and-horton) | Won |
 | 18/07/2024 | [Blagdon Hill](../2024/blagdon-hill) | Won |
 | 09/06/2024 | [Frensham](../2024/frensham) | Won |
