@@ -13,6 +13,8 @@ parent: 2024 Fixtures
 
 {% include newMatchDetails %}
 
+Alf Beswick's 14th 50 for The Min
+
 ## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
@@ -53,9 +55,9 @@ parent: 2024 Fixtures
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **A Beswick &#42;** | c X Ullah | S Makkena | 41 |
+| **A Beswick &#42;** | c X Ullah | S Makkena | 57 |
 | **R Earney** | lbw | N Mirza | 12 |
-| **D Padala** | lbw | P Sass | 12 |
+| **D Padala** | lbw | P Sass | 4 |
 | **A Gallagher** | c N Mirza | P Sass | 11 |
 | **S Mohammad** | c S Makkena | P Sass | 6 |
 | **I Ali** | b | P Sass | 14 |

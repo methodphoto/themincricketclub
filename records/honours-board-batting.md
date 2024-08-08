@@ -17,6 +17,7 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2024** | A Beswick | [Hornchurch Athletic](../2024/hornchurch-athletic) | **57** |
 | **2024** | A Beswick | [Highgate Irregulars](../2024/highgate-irregulars) | **111** |
 | **2017** | M Gupta | [Frensham](../2017/frensham) | **100** |
 | **2013** | R Damaze | [Frensham](../2013/frensham) | **100&#42;** |
