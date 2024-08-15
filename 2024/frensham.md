@@ -15,8 +15,7 @@ parent: 2024 Fixtures
 
 [Partnership](../records/partnerships) of 103 between A Beswick (47) and R Earney (35)
 
-<img src="frensham_2024_.webp" width="100%" alt="Frensham" />
-
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/999084492" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ## {{page.homeTeam}} Innings
 
@@ -93,6 +92,8 @@ parent: 2024 Fixtures
 | **R Doran** | 1 | 0 | 1 | 1 |
 | **T Mitchell** | 5 | 0 | 23 | 1 |
 | **D Ramani** | 1.1 | 0 | 12 | 1 |
+
+<img src="frensham_2024.webp" width="100%" alt="Frensham" />
 
 ## Win/Loss Ratio
 
