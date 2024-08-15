@@ -27,7 +27,7 @@ parent: 2024 Fixtures
 | **D Lambert** | lbw | J Carroll | 32 |
 | **S Dibdin** | b  | J Stacey | 25 |
 | **C Doran** | b | J Carroll | 4 |
-| **M Findlay** | c W Calvert | R Earneyl | 20 |
+| **M Findlay** | c W Calvert | R Earney | 20 |
 | **M Shine** | b | H Owen | 22 |
 | **M Andreanelli** | c & b | R Earney | 4 |
 | **D Irvine** | not out |  | 1 |
