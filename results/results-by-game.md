@@ -10,21 +10,21 @@ parent: Results
 | 2024 |  |  |
 |:---|:---|:---|
 | 04/09/2024 | [Hornchurch Athletic](../2024/hornchurch-athletic) | Lost |
-| 19/07/2024 | [Broadway and Horton](../2024/broadway-and-horton) | Won |
-| 18/07/2024 | [Blagdon Hill](../2024/blagdon-hill) | Won |
-| 09/06/2024 | [Frensham](../2024/frensham) | Won |
-| 02/06/2024 | [Highate Irregulars](../2024/highate-irregulars) | Won |
-| 12/05/2024 | [Trinity Oxley CC](../2024/trinity-oxley-cc) | Won |
-| 21/04/2024 | [Middleton Stoney](../2024/middleton-stoney) | Won |
+| 19/07/2024 | [Broadway and Horton](../2024/broadway-and-horton) | **Won** |
+| 18/07/2024 | [Blagdon Hill](../2024/blagdon-hill) | **Won** |
+| 09/06/2024 | [Frensham](../2024/frensham) | **Won** |
+| 02/06/2024 | [Highate Irregulars](../2024/highate-irregulars) | **Won** |
+| 12/05/2024 | [Trinity Oxley CC](../2024/trinity-oxley-cc) | **Won** |
+| 21/04/2024 | [Middleton Stoney](../2024/middleton-stoney) | **Won** |
 
 | 2023 |  |  |
 |:---|:---|:---|
-| 17/09/2023 | [Hornchurch Athletic](../2023/hornchuch-athletic) | Won |
+| 17/09/2023 | [Hornchurch Athletic](../2023/hornchuch-athletic) | **Won** |
 | 10/09/2023 | [Reigate Pilgrims](../2023/reigate-pilgrims) | Drawn |
-| 07/07/2023 | [Railway Taverners](../2023/railway-taverners) | Won |
-| 07/07/2023 | [Belhus](../2023/belhus) | Won |
-| 07/07/2023 | [Banstead](../2023/banstead) | Won |
-| 07/07/2023 | [Broadway and Horton](../2023/broadway-and-horton) | Won |
+| 07/07/2023 | [Railway Taverners](../2023/railway-taverners) | **Won** |
+| 07/07/2023 | [Belhus](../2023/belhus) | **Won** |
+| 07/07/2023 | [Banstead](../2023/banstead) | **Won** |
+| 07/07/2023 | [Broadway and Horton](../2023/broadway-and-horton) | **Won** |
 | 06/07/2023 | [Blagdon Hill](../2023/blagdon-hill) | Lost |
 | 25/06/2023 | [St Anne's Allstars](../2023/st-annes-allstars) | Lost |
 | 04/06/2023 | [Stowting](../2023/stowting) | Lost |
