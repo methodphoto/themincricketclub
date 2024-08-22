@@ -11,6 +11,8 @@ next:
 parent: 2024 Fixtures
 ---
 
+BASIA IS GREAT!
+
 {% include newMatchDetails %}
 
 Richard Beswick's best bowling for the Min<br />
