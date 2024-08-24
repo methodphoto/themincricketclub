@@ -15,6 +15,7 @@ TOC
 
 ## 2020s
 
+[2024 Statistics](2024)<br />
 [2023 Statistics](2023)<br />
 [2022 Statistics](2022)<br />
 [2021 Statistics](2021)<br />
