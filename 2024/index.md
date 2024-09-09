@@ -37,5 +37,5 @@ nav_order: 5
 
 | September |  |  |  |
 |:---|:---|:---|:---|
-| 8th | 13:00 | Railway Taverners | [N9 9HL](https://goo.gl/maps/xENoW4EHTBGNBsox5) |  |
+| 8th | 13:00 | [Railway Taverners](railway-taverners) | [N9 9HL](https://goo.gl/maps/xENoW4EHTBGNBsox5) |  |
 | 15th | 13:00 | Reigate Pilgrims| [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) |  |

@@ -9,6 +9,7 @@ parent: Results
 
 | 2024 |  |  |
 |:---|:---|:---|
+| 08/09/2023 | [Railway Taverners](../2024/railway-taverners) | Lost |
 | 04/09/2024 | [Hornchurch Athletic](../2024/hornchurch-athletic) | Lost |
 | 19/07/2024 | [Broadway and Horton](../2024/broadway-and-horton) | **Won** |
 | 18/07/2024 | [Blagdon Hill](../2024/blagdon-hill) | **Won** |
