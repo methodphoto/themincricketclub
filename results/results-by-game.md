@@ -9,6 +9,7 @@ parent: Results
 
 | 2024 |  |  |
 |:---|:---|:---|
+| 15/09/2023 | [Reigate Pilgrims](../2024/reigate-pilgrims) | Drawn |
 | 08/09/2023 | [Railway Taverners](../2024/railway-taverners) | Lost |
 | 04/09/2024 | [Hornchurch Athletic](../2024/hornchurch-athletic) | Lost |
 | 19/07/2024 | [Broadway and Horton](../2024/broadway-and-horton) | **Won** |
