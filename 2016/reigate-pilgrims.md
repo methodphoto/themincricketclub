@@ -13,7 +13,7 @@ parent: 2016 Fixtures
 {% include matchDetails %}
 
 R Earney's 51st 50. <br />
-[Partnership](../records/partnerships) of 142 between R Earney and M Gupta
+[Partnership](../records/partnerships) of 108 between R Earney and M Gupta
 
 ## The Min Innings
 

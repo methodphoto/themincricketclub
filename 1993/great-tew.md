@@ -12,6 +12,8 @@ parent: 1993 Fixtures
 
 {% include matchDetails %}
 
+[Partnership](../records/partnerships) of 109 between S Hornsby and R Beswick
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

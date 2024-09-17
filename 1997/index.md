@@ -31,7 +31,7 @@ parent: 1990s
 
 | August |  |  |  |
 |:---|:---|:---|:---|
-| 10th | 14:00 | [Captain Scott XI](captain-scott) | [Home](https://goo.gl/maps/EjPBbbQzB68hceQf9) |
+| 10th | 14:00 | [Captain Scott XI](captain-scott-xi) | [Home](https://goo.gl/maps/EjPBbbQzB68hceQf9) |
 | 17th | 14:00 | [Hetairoi](hetairoi) | [Away](https://goo.gl/maps/AfwCKu9WW93YqXJa6) |
 | 31st | 14:00 | [Slip End](slip-end) | [Away](https://goo.gl/maps/ZLBm7odMnTZkXcnU7) |
 

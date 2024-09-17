@@ -12,6 +12,8 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
+[Partnership](../records/partnerships) of 106 between A Gallagher and A MacFarlane
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

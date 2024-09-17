@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Captain Scott
+title: Captain Scott XI
 game: The Min v Captain Scott XI
 location: Reigate Grammar School
 date: 10/08/1997

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Railway Taverners
-homeTeam: The MinR
+homeTeam: The Min
 awayTeam: Railway Taverners
 location: Edmonton Cricket Club 
 date: 08/09/2024

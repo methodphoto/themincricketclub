@@ -12,7 +12,7 @@ parent: 2000 Fixtures
 
 {% include matchDetails %}
 
-S Hornsby, 3rd century, highest score for the Min and club record. 144 partnership between R Beswick and S Hornsby
+S Hornsby, 3rd century, highest score for the Min and club record. [Partnership](../records/partnerships) of 144 between R Beswick and S Hornsby
 
 ## The Min Innings
 
@@ -36,7 +36,7 @@ S Hornsby, 3rd century, highest score for the Min and club record. 144 partnersh
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 1 | 145 | 168 | 198 |  |  |  |  |  |  |
+| **Score** | 1 | **145** | 168 | 198 |  |  |  |  |  |  |
 | **Batsman** | 1 | 2 | 4 | 5 |  |  |  |  |  |  |
 
 ## Bowling
