@@ -11,7 +11,7 @@ nav_order: 1
 
 | May |  |  |  |
 |:---|:---|:---|:---|
-| 18th | 13:00 | St Anne's Allstart | TBC |  |
+| 18th | 13:00 | St Anne's Allstars | TBC |  |
 
 | June |  |  |  |
 |:---|:---|:---|:---|
