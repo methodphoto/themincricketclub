@@ -9,6 +9,11 @@ nav_order: 1
 
 **29th April [43nd Anniversary of The Min](../1982/clifton-hill-house)**
 
+| April |  |  |  |
+|:---|:---|:---|:---|
+| 27th | 13:00 | Bromley Common | [BR2 6HQ](https://maps.app.goo.gl/W9YgwiWQ5gfSaKAV7?g_st=ic) |  |
+
+
 | May |  |  |  |
 |:---|:---|:---|:---|
 | 18th | 13:00 | St Anne's Allstars | TBC |  |
