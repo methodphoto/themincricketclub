@@ -10,3 +10,5 @@ heading_anchors: false
 aux_links:
   "Payments":
     - "/payments/"
+plugins:
+  - jekyll-redirect-from
