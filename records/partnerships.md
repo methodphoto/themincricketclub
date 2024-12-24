@@ -26,7 +26,7 @@ parent: Records
 | 6th wkt | 106 |
 | 7th wkt | 147 |
 
-## Partnerships by Total
+## 150+ Partnerships by Total
 
 | Year | Position | Batsman and Score | Opponent | Partnership |
 |:---|:---|:---|:---|
@@ -41,6 +41,11 @@ parent: Records
 | **2005** | 2nd wkt |  R Earney (122&#42;) and A Slight (64) | [SB Exiles](../2005/sb-exiles) | **155** |
 | **1995** | 1st wkt | R Earney (100) and S Barrowcliff (46) | [Ockley](../1995/ockley) | **154** |
 | **2001** | 1st wkt | R Earney (106) and R Beswick (44) | [Wareham](../2001/wareham) | **151** |
+
+## 100 Partnerships by Total
+
+| Year | Position | Batsman and Score | Opponent | Partnership |
+|:---|:---|:---|:---|
 | **2024** | 7th wkt | K Singh (45) and D Padala (100) | [Reigate Pilgrims](../2024/reigate-pilgrims) | **147** |
 | **2000** | 2nd wkt | R Beswick (52) and S Hornsby (130&#42;) | [Wareham](../2000/wareham) | **144** |
 | **2016** | 2nd wkt | R Earney (88) and M Gupta (33) | [Reigate Pilgrims](../2016/reigate-pilgrims) | **142** |
