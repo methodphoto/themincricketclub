@@ -371,16 +371,16 @@ parent: Records
 
 | Player | Number |
 |:---|---:|
-| **R Earney ** | 7 |
+| **R Earney** | 7 |
 | **S Hornsby** | 4 |
-| **J Hylton ** | 2 |
+| **J Hylton** | 2 |
 | **A Beswick** | 1 |
-| **D Padala ** | 1 |
+| **D Padala** | 1 |
 | **I Marshall** | 1 |
 | **M Gupta** | 1 |
 | **M Goff** | 1 |
 | **P Bentley** | 1 |
-| **R Damaze ** | 1 |
+| **R Damaze** | 1 |
 | **S Barrowcliff** | 1 |
 | **T Hammond** | 1 |
 
