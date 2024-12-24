@@ -8,6 +8,7 @@ parent: Records
 # {{page.title}}
 
 <details open markdown="block">
+  {: .text-delta }
 1. TOC
 {:toc}
 </details>
