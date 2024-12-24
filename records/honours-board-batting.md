@@ -143,7 +143,7 @@ parent: Records
 | **2011** | A Narula | [Stowting](../2011/stowting) | **56** |
 | **2011** | A Narula | [SAC XI](../2011/sac-xi) | **64** |
 | **2011** | A Beswick | [Newington](../2011/newington) | **50&#42;** |
-| **2010** | William Calvert | [Broadway and Horton](../2010/broadway-and-horton) | **57&#42;** |
+| **2010** | W Calvert | [Broadway and Horton](../2010/broadway-and-horton) | **57&#42;** |
 | **2010** | W Calvert | [Middleton Stoney](../2010/middleton-stoney) | **51&#42;** |
 | **2010** | T Rutherford | [Newdigate](../2010/newdigate) | **51** |
 | **2010** | T Hammond | [Reigate Pilgrims](../2010/reigate-pilgrims) | **81** |
@@ -306,7 +306,7 @@ parent: Records
 | **1990** | S Hornsby | [Brook](../1990/brook) | **58** |
 | **1990** | R Beswick | [Old Elthamians](../1990/old-elthamians) | **56&#42;** |
 | **1990** | I Marshall | [Newdigate](../1990/newdigate) | **60&#42;** |
-| **1990** | D Swan | [The Crocodiles](../1990/the-crocodiles) | **81&#42;** |
+| **1990** | D Swann | [The Crocodiles](../1990/the-crocodiles) | **81&#42;** |
 | **1989** | W Wright | [Old Elthamians](../1989/old-elthamians) | **56** |
 | **1989** | W Calvert | [Stowting](../1989/stowting) | **50&#42;** |
 | **1989** | S Lazell | [Hetairoi](../1989/hetairoi) | **71** |
@@ -366,3 +366,95 @@ parent: Records
 | **1982** | W Calvert | [Clifton Hill House](../1982/clifton-hill-house) | **57** |
 | **1982** | P Newcomb | [Bristol Grammar School](../1982/bristol-grammar-school) | **59** |
 | **1982** | J Booth | [J Stimfigs XI](../1982/j-stimfigs-xi) | **72** |
+
+## Century Scorers
+
+| Player | Number |
+|:---|---:|
+| **R Earney ** | 7 |
+| **S Hornsby** | 4 |
+| **J Hylton ** | 2 |
+| **A Beswick** | 1 |
+| **D Padala ** | 1 |
+| **I Marshall** | 1 |
+| **M Gupta** | 1 |
+| **M Goff** | 1 |
+| **P Bentley** | 1 |
+| **R Damaze ** | 1 |
+| **S Barrowcliff** | 1 |
+| **T Hammond** | 1 |
+
+## Fifty Scorers
+
+| Player | Number |
+|:---|---:|
+| **R Earney** | 56 |
+| **R Beswick** | 37 |
+| **S Hornsby** | 19 |
+| **S Barrowcliff** | 18 |
+| **J Grant** | 16 |
+| **A Beswick** | 14 |
+| **A Gallagher** | 12 |
+| **M Gupta** | 11 |
+| **W Calvert** | 10 |
+| **I Marshall** | 8 |
+| **M Goff** | 8 |
+| **T Rutherford** | 7 |
+| **D Swann** | 6 |
+| **M Breddy** | 5 |
+| **P Wigg** | 5 |
+| **J Hylton** | 4 |
+| **P Bentley** | 4 |
+| **R Damaze** | 4 |
+| **R Kitson** | 4 |
+| **A Slight** | 3 |
+| **J Carroll** | 3 |
+| **M Taylor** | 3 |
+| **T Purves** | 3 |
+| **W Wright** | 3 |
+| **A Narula** | 2 |
+| **A Venkatasamy** | 2 |
+| **I Matvad** | 2 |
+| **J Booth** | 2 |
+| **J Packenham-Walsh** | 2 |
+| **J Stacey** | 2 |
+| **M Petre** | 2 |
+| **P Grant** | 2 |
+| **R Green** | 2 |
+| **S Ahmed** | 2 |
+| **S Habib** | 2 |
+| **A Butel** | 1 |
+| **A Fielding** | 1 |
+| **A Ijaz** | 1 |
+| **A Lisser** | 1 |
+| **A MacFarlane** | 1 |
+| **A Mills** | 1 |
+| **A Roker** | 1 |
+| **A Sylvester** | 1 |
+| **B Boyd-Taylor** | 1 |
+| **B Jones** | 1 |
+| **D Brookfield** | 1 |
+| **D Garland** | 1 |
+| **D Hambidge** | 1 |
+| **D Heslam** | 1 |
+| **D Pathak** | 1 |
+| **E Bishop** | 1 |
+| **E Garland** | 1 |
+| **H Ingham** | 1 |
+| **I Miah** | 1 |
+| **J Naughton** | 1 |
+| **M Bowerman** | 1 |
+| **M Buzzacott** | 1 |
+| **M Gardiner** | 1 |
+| **M Kirwan** | 1 |
+| **M Lawrence** | 1 |
+| **N Holcombe** | 1 |
+| **P Clothier** | 1 |
+| **P Newcomb** | 1 |
+| **P Sayer** | 1 |
+| **S Foster** | 1 |
+| **S Gardiner** | 1 |
+| **S Lazell** | 1 |
+| **S Watson** | 1 |
+| **T Hammond** | 1 |
+| **W Chapman** | 1 |
