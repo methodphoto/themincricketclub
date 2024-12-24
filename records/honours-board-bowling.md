@@ -12,7 +12,7 @@ parent: Records
 {:toc}
 </details>
 
-## 6 or more wickets in an Innings
+## 6-fer or 7fer in an Innings
 
 | Year | Player |  | Figures |
 |:---|:---|:---|:---|
@@ -204,3 +204,84 @@ parent: Records
 | **1982** | J Wright | v [Another Mans Meat](../1982/another-mans-meat) | **7-2-10-4** |
 | **1982** | W Calvert | v [Bristol Grammar School](../1982/bristol-grammar-school) | **7-1-20-4** |
 | **1982** | K Sullivan | v [A Good Length](../1982/a-good-length) |  **7.1-0-36-4** |
+
+## 6-fer Takers
+
+| Player |  | Number |
+|:---|---:|
+| **I Marshall** | 4 |
+| **E Garland** | 3 |
+| **R Green** | 2 |
+| **R Beswick** | 2 |
+| **W Calvert** | 1 |
+| **T Purves** | 1 |
+| **R Earney** | 1 |
+| **P Beswick** | 1 |
+| **P Bentley** | 1 |
+| **N Bezodis** | 1 |
+| **J Wright** | 1 |
+| **C Martin** | 1 |
+
+## Michelle Takers
+
+| Player |  | Number |
+|:---|---:|
+| **J Wright** | 6 |
+| **E Garland** | 5 |
+| **R Earney** | 5 |
+| **R Beswick** | 4 |
+| **A MacFarlane** | 3 |
+| **I Marshall** | 3 |
+| **M Kirwan** | 3 |
+| **M Gupta** | 2 |
+| **W Calvert** | 2 |
+| **A Sylvester** | 1 |
+| **G Powell** | 1 |
+| **G Wright** | 1 |
+| **J Hylton** | 1 |
+| **P Wigg** | 1 |
+| **R Olver** | 1 |
+| **T Purves** | 1 |
+| **T Rutherford** | 1 |
+| **T Thirlwall** | 1 |
+
+## Forfar Takers
+
+| Player |  | Number |
+|:---|---:|
+| **R Beswick** | 20 |
+| **J Wright** | 19 |
+| **E Garland** | 8 |
+| **I Marshall** | 8 |
+| **P Wigg** | 8 |
+| **R Earney** | 8 |
+| **W Calvert** | 7 |
+| **P O’Mahony** | 4 |
+| **A Sylvester** | 3 |
+| **A MacFarlane** | 2 |
+| **G Powell** | 2 |
+| **M Taylor** | 2 |
+| **S Hornsby** | 2 |
+| **T Rutherford** | 2 |
+| **A Jones** | 1 |
+| **A Slight** | 1 |
+| **C Wright** | 1 |
+| **H Ingham** | 1 |
+| **I Crichton** | 1 |
+| **J Casey** | 1 |
+| **J Mizel** | 1 |
+| **J Skarbek** | 1 |
+| **K Gallagher** | 1 |
+| **K Sullivan** | 1 |
+| **M Gardiner** | 1 |
+| **M Gupta** | 1 |
+| **M Kirwan** | 1 |
+| **P Beswick** | 1 |
+| **R Green** | 1 |
+| **R Olver** | 1 |
+| **S Amin** | 1 |
+| **S Larkin** | 1 |
+| **S Masterson** | 1 |
+| **T Purves** | 1 |
+| **W Chapman** | 1 |
+| **W Wright** | 1 |
