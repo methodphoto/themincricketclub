@@ -73,3 +73,10 @@
   </li>
 {%- endfor -%}
 </ul>
+<ul>
+  {% for page in site.pages %}
+    {% unless page.menu == false %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    {% endunless %}
+  {% endfor %}
+</ul>
