@@ -25,6 +25,8 @@ th, td {
 	list-style: none;
 }
 
+footer-col {width: 50% !important;}
+
 th,
 td {
   @include fs-3;
