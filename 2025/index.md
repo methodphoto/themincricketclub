@@ -6,12 +6,9 @@ nav_order: 1
 
 # {{page.title}}
 
-
 **29th April [43nd Anniversary of The Min](/1982/clifton-hill-house)**
 
-| May |  |  |  |
-|:---|:---|:---|
-| 18th - 13:00 | St Anne's Allstars | TBC |  |
+**Note:** Change to St Anne's Allstars date and location
 
 | June |  |  |  |
 |:---|:---|:---|
@@ -24,6 +21,10 @@ nav_order: 1
 |:---|:---|:---|
 | 17th - 14:00 | Blagdon Hill | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
 | 18th - 13:00 | Broadway and Horton | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
+
+| August |  |  |  |
+|:---|:---|:---|
+| 17th - 13:00 | St Anne's Allstars | [N22 7AX](https://maps.app.goo.gl/wuhYQfawQnkMXxeY9) |  |
 
 | September |  |  |  |
 |:---|:---|:---|
