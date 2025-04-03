@@ -16,6 +16,7 @@ nav_order: 1
 | 8th - 13:00 | Rain Men | TBC |  |
 | 29th - 13:00 | Middleton Stoney  | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
 
+**The July Tour may be moved**
 
 | July - Tour |  |  |  |
 |:---|:---|:---|
