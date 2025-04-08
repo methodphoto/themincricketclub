@@ -14,7 +14,7 @@ Tour date has changed
 
 | May |  |  |  |
 |:---|:---|:---|
-| 18th - 13:00 | TBA | TBA |
+| 18th - 13:00 | TBC | TBC |
 
 | June |  |  |  |
 |:---|:---|:---|
