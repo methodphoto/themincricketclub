@@ -12,6 +12,10 @@ nav_order: 1
 
 Tour date has changed
 
+| May |  |  |  |
+|:---|:---|:---|
+| 18th - 13:00 | TBA | TBA |
+
 | June |  |  |  |
 |:---|:---|:---|
 | 1st - 13:00 | Highgate Irregulars | [NW7 4HR](https://maps.app.goo.gl/RwhLr2hgAKYyW8BP8?g_st=ic) |  |
