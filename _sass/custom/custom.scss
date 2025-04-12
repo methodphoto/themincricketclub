@@ -13,7 +13,7 @@ $link-color: $purple-300;
 
 /* Slightly tighter spacing on table cell padding */
 
-*, td {font-size: 110% !important;}
+.table-wrapper td {font-size: 110% !important;}
 
 a {
 	text-decoration-skip-ink: auto;
