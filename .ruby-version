@@ -1,1 +1,1 @@
-2.4.3
+echo '3.4.2' >> .ruby-version
