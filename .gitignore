@@ -14,3 +14,4 @@ min.bbprojectd/configuration.plist
 min.bbprojectd/WebSiteSettings.plist
 index copy.markdown
 .ruby-version
+_includes/head.html
