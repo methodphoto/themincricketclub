@@ -8,9 +8,10 @@ nav_order: 1
 
 **29th April [43nd Anniversary of The Min](/1982/clifton-hill-house)**
 
-**Note:** Change to St Anne's Allstars date and location
+## Notes 
 
-Tour date has changed
+- Change to St Anne's Allstars date and location
+- Tour date has changed
 
 | May |  |  |  |
 |:---|:---|:---|
