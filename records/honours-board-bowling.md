@@ -88,6 +88,7 @@ parent: Records
 
 | Year | Player |  | Figures |
 |:---|:---|:---|:---|
+| **2024** | P Wigg | v [Railway Taverners](../2024/railway-taverners) | **| 8-0-38-4* |
 | **2024** | C Wright | v [Broadway and Horton](../2024/broadway-and-horton) | **7-0-40-4** |
 | **2024** | J Casey | v [Blagdon Hill](../2024/blagdon-hill) | **5.4-0-34-4** |
 | **2021** | R Earney | v [Wandering Maniacs](../2021/wandering-maniacs) | **6.4-1-20-4** |
