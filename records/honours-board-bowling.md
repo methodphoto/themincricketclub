@@ -17,6 +17,7 @@ parent: Records
 
 | Year | Player |  | Figures |
 |:---|:---|:---|:---|
+| **2025** | P Wigg | v [Stoneydown CC](../2025/stoneydown-cc) | *6-2-15-6** |
 | **2024** | R Beswick | v [Highgate Irregualars](../2024/highgate-irregulars) | **6-2-42-6** |
 | **2018** | P Beswick | v [KingstonI](../2018/kingston) | **4-1-7-6** |
 | **2013** | C Martin | v [Newington](../2013/newington) | **15-6-27-6** |
