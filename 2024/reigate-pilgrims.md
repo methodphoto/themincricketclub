@@ -50,7 +50,7 @@ I Miah: 50 wkts for The Min
 | **M Mani** | 0.2 | 0 | 8 | 0 |
 | **B Sugukumar** | 7.4 | 1 | 25 | 1 |
 | **P Saikia** | 2 | 0 | 25 | 0 |
-| **K Danikasarun** | 5 | 1 | 24 | 0§|
+| **K Danikasarun** | 5 | 1 | 24 | 0|
 
 ## {{page.homeTeam}} Innings
 

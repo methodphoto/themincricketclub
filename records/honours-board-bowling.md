@@ -19,7 +19,7 @@ parent: Records
 |:---|:---|:---|:---|
 | **2025** | P Wigg | v [Stoneydown CC](../2025/stoneydown-cc) | **6-2-15-6** |
 | **2024** | R Beswick | v [Highgate Irregualars](../2024/highgate-irregulars) | **6-2-42-6** |
-| **2018** | P Beswick | v [KingstonI](../2018/kingston) | **4-1-7-6** |
+| **2018** | P Beswick | v [Kingston](../2018/kingston) | **4-1-7-6** |
 | **2013** | C Martin | v [Newington](../2013/newington) | **15-6-27-6** |
 | **2011** | E Garland | v [Kilmington and Stourton](../2011/kilmington-and-stourton) | **7-0-27-7** |
 | **2009** | E Garland | v [Newdigate](../2009/newdigate) | **10.3-1-44-6** |
