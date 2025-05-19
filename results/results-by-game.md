@@ -7,10 +7,14 @@ parent: Results
 
 # {{page.title}}
 
+| 2025 |  |  |
+|:---|:---|:---|
+| 18/05/2025 | [Stoneydown CC](../2025/stoneydown-cc) | Won |
+
 | 2024 |  |  |
 |:---|:---|:---|
-| 15/09/2023 | [Reigate Pilgrims](../2024/reigate-pilgrims) | Drawn |
-| 08/09/2023 | [Railway Taverners](../2024/railway-taverners) | Lost |
+| 15/09/2024 | [Reigate Pilgrims](../2024/reigate-pilgrims) | Drawn |
+| 08/09/2024 | [Railway Taverners](../2024/railway-taverners) | Lost |
 | 04/09/2024 | [Hornchurch Athletic](../2024/hornchurch-athletic) | Lost |
 | 19/07/2024 | [Broadway and Horton](../2024/broadway-and-horton) | **Won** |
 | 18/07/2024 | [Blagdon Hill](../2024/blagdon-hill) | **Won** |
