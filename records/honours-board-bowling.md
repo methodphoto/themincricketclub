@@ -92,6 +92,7 @@ parent: Records
 | **2024** | P Wigg | v [Railway Taverners](../2024/railway-taverners) | **8-0-38-4** |
 | **2024** | C Wright | v [Broadway and Horton](../2024/broadway-and-horton) | **7-0-40-4** |
 | **2024** | J Casey | v [Blagdon Hill](../2024/blagdon-hill) | **5.4-0-34-4** |
+| **2023** | P Wigg | v [St Anne's Allstars](../2023/st-annes-allstars) | **7-4-10-4* |
 | **2021** | R Earney | v [Wandering Maniacs](../2021/wandering-maniacs) | **6.4-1-20-4** |
 | **2020** | R Beswick | v [Banstead](../2020/banstead) | **5-2-24-4** |
 | **2018** | R Earney | v [Middleton Stoney](../2018/middleton-stoney) | **13-1-61-4** |
