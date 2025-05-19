@@ -15,12 +15,12 @@ nav_order: 1
 
 | May |  |  |  |
 |:---|:---|:---|
-| 18th - 13:00 | [Stoneydown CC](stoneydown-cc) | [N9 9HH](https://maps.app.goo.gl/hpcjyP2N6YEA84G67?) |
+| 18th&nbsp;-&nbsp;13:00 | [Stoneydown&nbsp;CC](stoneydown-cc) | [N9 9HH](https://maps.app.goo.gl/hpcjyP2N6YEA84G67?) |
 | June |  |  |  |
 |:---|:---|:---|
-| 1st - 13:00 | Highgate Irregulars | [NW7 4HR](https://maps.app.goo.gl/RwhLr2hgAKYyW8BP8?g_st=ic) |  |
-| 8th - 13:00 | Rain Men | [NW1 4RU](https://maps.app.goo.gl/Xp4xntKo3Yi964Ao8) |  |
-| 29th - 13:00 | Middleton Stoney  | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
+| 1st&nbsp;-&nbsp;13:00 | Highgate&nbsp;Irregulars | [NW7 4HR](https://maps.app.goo.gl/RwhLr2hgAKYyW8BP8?g_st=ic) |  |
+| 8th&nbsp;-&nbsp;13:00 | Rain&nbsp;Men | [NW1 4RU](https://maps.app.goo.gl/Xp4xntKo3Yi964Ao8) |  |
+| 29th&nbsp;-&nbsp;13:00 | Middleton&nbsp;Stoney  | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
 
 | August |  |  |  |
 |:---|:---|:---|

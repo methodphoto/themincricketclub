@@ -66,8 +66,8 @@ A Beswick 2000 runs for The Min
 | **S Far** | c | C Wright | 37 |
 | **H Waseem** | b | P Wigg | 0 |
 | **A Pirzada** | b | C Wright | 0 |
-| **P Varatharasan** | not out |  | 6 |
-| **W Lone** | b | I Miah | 0 |
+| **P Varatharasan** | b | I Miah | 6 |
+| **W Lone** | not out |  | 0 |
 | **Extras** | | 0b 0b 10w 0nb 0p) | **10** |
 | **Total** | | (16.5 overs) | **97 all out** |
 
@@ -85,7 +85,7 @@ A Beswick 2000 runs for The Min
 | **P Wigg** | 6 | 2 | 15 | 6 |
 | **I Ali** | 5 | 1 | 41 | 1 |
 | **C Wright** | 3 | 0 | 23 | 2 |
-| **I Miah** | 2.5 | 0 | 18 | 0 |
+| **I Miah** | 2.5 | 0 | 18 | 1 |
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
