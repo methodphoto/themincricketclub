@@ -15,7 +15,7 @@ nav_order: 1
 
 | May |  |  |  |
 |:---|:---|:---|
-| 18th - 13:00 | Stoneydown CC | [N9 9HH](https://maps.app.goo.gl/hpcjyP2N6YEA84G67?) |
+| 18th - 13:00 | [Stoneydown CC](stoneydown-cc) | [N9 9HH](https://maps.app.goo.gl/hpcjyP2N6YEA84G67?) |
 | June |  |  |  |
 |:---|:---|:---|
 | 1st - 13:00 | Highgate Irregulars | [NW7 4HR](https://maps.app.goo.gl/RwhLr2hgAKYyW8BP8?g_st=ic) |  |
