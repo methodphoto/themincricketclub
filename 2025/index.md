@@ -16,6 +16,7 @@ nav_order: 1
 | May |  |  |  |
 |:---|:---|:---|
 | 18th&nbsp;-&nbsp;13:00 | [Stoneydown&nbsp;CC](stoneydown-cc) | [N9 9HH](https://maps.app.goo.gl/hpcjyP2N6YEA84G67?) |
+
 | June |  |  |  |
 |:---|:---|:---|
 | 1st&nbsp;-&nbsp;13:00 | Highgate&nbsp;Irregulars | [NW7 4HR](https://maps.app.goo.gl/RwhLr2hgAKYyW8BP8?g_st=ic) |  |
@@ -24,14 +25,14 @@ nav_order: 1
 
 | August |  |  |  |
 |:---|:---|:---|
-| 17th - 13:00 | St Anne's Allstars | [N22 7AX](https://maps.app.goo.gl/wuhYQfawQnkMXxeY9) |  |
+| 17th&nbsp;-&nbsp;13:00 | St&nbsp;Anne's&nbsp;Allstars | [N22 7AX](https://maps.app.goo.gl/wuhYQfawQnkMXxeY9) |  |
 
 | August - Tour |  |  |  |
 |:---|:---|:---|
-| 21st - 14:00 | Blagdon Hill | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
-| 22nd - 13:00 | Broadway and Horton | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
+| 21st&nbsp;-&nbsp;14:00 | Blagdon&nbsp;Hill | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
+| 22nd&nbsp;-&nbsp;13:00 | Broadway&nbsp;and&nbsp;Horton | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
 
 | September |  |  |  |
 |:---|:---|:---|
-| 7th - 13:00 | Railway Taverners | TBC |  |
-| 14th - 13:00 | Reigate Pilgrims| [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) | 🥪 |
+| 7th&nbsp;-&nbsp;13:00 | Railway&nbsp;Taverners | TBC |  |
+| 14th&nbsp;-&nbsp;13:00 | Reigate&nbsp;Pilgrims| [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) | 🥪 |
