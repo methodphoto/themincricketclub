@@ -19,7 +19,7 @@ nav_order: 1
 
 | June |  |  |  |
 |:---|:---|:---|
-| 1st&nbsp;-&nbsp;13:00 | Highgate&nbsp;Irregulars | [NW7 4HR](https://maps.app.goo.gl/RwhLr2hgAKYyW8BP8?g_st=ic) |  |
+| 1st&nbsp;-&nbsp;13:00 | Highgate&nbsp;Irregulars | [NW7 4HR](https://maps.app.goo.gl/6XtCfCqS717gHoMe6) |  |
 | 8th&nbsp;-&nbsp;13:00 | Rain&nbsp;Men | [NW1 4RU](https://maps.app.goo.gl/Xp4xntKo3Yi964Ao8) |  |
 | 29th&nbsp;-&nbsp;13:00 | Middleton&nbsp;Stoney  | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
 
@@ -36,3 +36,4 @@ nav_order: 1
 |:---|:---|:---|
 | 7th&nbsp;-&nbsp;13:00 | Railway&nbsp;Taverners | TBC |  |
 | 14th&nbsp;-&nbsp;13:00 | Reigate&nbsp;Pilgrims| [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) | 🥪 |
+
