@@ -15,17 +15,16 @@ nav_order: 1
 
 | May |  |  |  |
 |:---|:---|:---|
-| 18th&nbsp;-&nbsp;13:00 | [Stoneydown&nbsp;CC](stoneydown-cc) | [N9 9HH](https://maps.app.goo.gl/hpcjyP2N6YEA84G67?) |
-
+| 18th&nbsp;-&nbsp;13:00 | [Stoneydown&nbsp;CC](stoneydown-cc) | [N9 9HH](https://maps.app.goo.gl/hpcjyP2N6YEA84G67?) | BYOT |
 | June |  |  |  |
 |:---|:---|:---|
-| 1st&nbsp;-&nbsp;13:00 | Highgate&nbsp;Irregulars | [NW7 4HR](https://maps.app.goo.gl/6XtCfCqS717gHoMe6) |  |
-| 8th&nbsp;-&nbsp;13:00 | Rain&nbsp;Men | [NW1 4RU](https://maps.app.goo.gl/Xp4xntKo3Yi964Ao8) |  |
+| 1st&nbsp;-&nbsp;13:00 | Highgate&nbsp;Irregulars | [NW7 4HR](https://maps.app.goo.gl/6XtCfCqS717gHoMe6) | BYOT |
+| 8th&nbsp;-&nbsp;13:00 | Rain&nbsp;Men | [NW1 4RU](https://maps.app.goo.gl/Xp4xntKo3Yi964Ao8) | BYOT |
 | 29th&nbsp;-&nbsp;13:00 | Middleton&nbsp;Stoney  | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
 
 | August |  |  |  |
 |:---|:---|:---|
-| 17th&nbsp;-&nbsp;13:00 | St&nbsp;Anne's&nbsp;Allstars | [N22 7AX](https://maps.app.goo.gl/wuhYQfawQnkMXxeY9) |  |
+| 17th&nbsp;-&nbsp;13:00 | St&nbsp;Anne's&nbsp;Allstars | [N22 7AX](https://maps.app.goo.gl/wuhYQfawQnkMXxeY9) | BYOT |
 
 | August - Tour |  |  |  |
 |:---|:---|:---|
@@ -34,6 +33,6 @@ nav_order: 1
 
 | September |  |  |  |
 |:---|:---|:---|
-| 7th&nbsp;-&nbsp;13:00 | Railway&nbsp;Taverners | TBC |  |
+| 7th&nbsp;-&nbsp;13:00 | Railway&nbsp;Taverners | TBC | BYOT |
 | 14th&nbsp;-&nbsp;13:00 | Reigate&nbsp;Pilgrims| [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) | 🥪 |
 
