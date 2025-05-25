@@ -24,4 +24,3 @@ parent: Records
 | Best Bowling | E Garland | 7-0-27-7 |
 | Most Fivefers | J Wright and I Marshall | 7 |
 | Most Wickets in a Season | J Wright | 33 |
-| Best Bowling Average in a Season |  |  |

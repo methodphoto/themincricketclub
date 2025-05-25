@@ -8,13 +8,13 @@ nav_order: 120
 
 ## Payment Links
 
-[**£20.00** - 2024 Season Fee](https://square.link/u/dktjDXJH)
+[**£20.00** - 2025 Season Fee](https://square.link/u/dktjDXJH)
 
 --
 
-[**£5.08** - 2024 Match Fee](https://square.link/u/i7Hu1QxI)
+[**£5.08** - 2025 Match Fee](https://square.link/u/i7Hu1QxI)
 
-[**£25.00** - 2024 Season + 1 Match Fee](https://square.link/u/UXsK85KG)
+[**£25.00** - 2025 Season + 1 Match Fee](https://square.link/u/UXsK85KG)
 
 All payments are handled securely by Stripe
 
