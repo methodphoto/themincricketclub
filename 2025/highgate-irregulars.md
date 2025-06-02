@@ -5,7 +5,7 @@ homeTeam: Highgate Irregulars
 awayTeam: The Min
 location: Old Cholmelians Sports Ground 
 date: 01/06/2025
-report: Highgate won the toss and batted first
+report: Highgate won the toss and batted first making 149 for 8 wkts in 35 overs. The Min replied with 135 all out in 31.5 overs.
 result: Highgate Irregulars won by 14 runs
 next: 
 parent: 2025 Fixtures
@@ -20,11 +20,11 @@ A Venkatasamy's best bowling for The Min
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **G Elwes** | run out | (A Beswick) | 11 |
-| **Waheed** | st J Grant | R Beswick | 18 |
-| **D Osbourne** | b | R Earney | 32 |
+| **W Ahmed** | st J Grant | R Beswick | 18 |
+| **D Osborne** | b | R Earney | 32 |
 | **A Gray** | c J Grant | A Venkatasamy | 4 |
 | **T Mitchell** | not out |  | 19 |
-| **M Said** | c I Ali | A Venkatasamy | 33 |
+| **M Said Mohamad** | c I Ali | A Venkatasamy | 33 |
 | **V Menon** | b | R Beswick | 5 |
 | **V Gooneratne** | b | A Venkatasamy | 1 |
 | **A Manzoor** | b | A Venkatasamy | 9 |
@@ -54,15 +54,15 @@ A Venkatasamy's best bowling for The Min
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **A Beswick &#42;** | c | T Mitchell | 46 |
+| **A Beswick &#42;** | c W Ahmed | T Mitchell | 46 |
 | **G Clothier** | b | V Gooneratne | 4 |
 | **D Grice** | b | V Gooneratne | 13 |
-| **R Damaze** | c | V Gooneratne | 0 |
-| **R Grice** | lbw | M Said | 9 |
-| **R Earney** | c  | M Said | 1 |
+| **R Damaze** | c M Said Mohamad | V Gooneratne | 0 |
+| **R Grice** | lbw | M Said Mohamad | 9 |
+| **R Earney** | c G Elwes | M Said Mohamad | 1 |
 | **A Venkatasamy** | b | G Elwes | 21 |
-| **R Beswick** | c M Said | T Mitchell | 28 |
-| **I Ali** | c M Said | G Elwes | 3 |
+| **R Beswick** | c M Said Mohamad | T Mitchell | 28 |
+| **I Ali** | c V Gooneratne | G Elwes | 3 |
 | **I Miah** | run out | (T Mitchell) | 1 |
 | **J Grant &#8224;** | not out |  | 1 |
 | **Extras** | | 6b 1lb 1w 0nb 0p) | **8** |
@@ -82,7 +82,7 @@ A Venkatasamy's best bowling for The Min
 | **D Owen** | 7 | 1 | 32 | 0 |
 | **V Gooneratne** | 7 | 1 | 31 | 3 |
 | **T Mitchell** | 7 | 2 | 24 | 2 |
-| **M Said** | 5 | 3 | 12 | 2 |
+| **M Said Mohamad** | 5 | 3 | 12 | 2 |
 | **V Menon** | 2 | 0 | 19 | 0 |
 | **G Elwes** | 3.5 | 0 | 10 | 2 |
 
