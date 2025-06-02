@@ -7,7 +7,7 @@ location: Church Street Recreation Ground, Edmonton
 date: 18/05/2025
 report: The Min won the toss and batted first on an unpredictable pitch and made 215 for 9 wkts in 35 overs. Stoney down were bowled out for 97 in reply.
 result: The Min won by 118 runs
-next: 
+next: highgate-irregulars
 parent: 2025 Fixtures
 ---
 
@@ -30,7 +30,7 @@ A Beswick 2000 runs for The Min
 | **P Wigg** | not out |  | 17 |
 | **I Ali** | b | S Far | 4 |
 | **C Wright** | not out |  | 2 |
-| **Extras** | | (15b 15b 32w 4nb 0p) | **51** |
+| **Extras** | | (15b 15lb 32w 4nb 0p) | **51** |
 | **Total** | | (35 overs) | **215 for 9 wkts** |
 
 ## Fall of Wickets
@@ -68,7 +68,7 @@ A Beswick 2000 runs for The Min
 | **A Pirzada** | b | C Wright | 0 |
 | **P Varatharasan** | b | I Miah | 6 |
 | **W Lone** | not out |  | 0 |
-| **Extras** | | 0b 0b 10w 0nb 0p) | **10** |
+| **Extras** | | 0b 0lb 10w 0nb 0p) | **10** |
 | **Total** | | (16.5 overs) | **97 all out** |
 
 ## Fall of Wickets
