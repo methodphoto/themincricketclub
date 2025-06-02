@@ -18,7 +18,7 @@ nav_order: 1
 | 18th&nbsp;-&nbsp;13:00 | [Stoneydown&nbsp;CC](stoneydown-cc) | [N9 9HH](https://maps.app.goo.gl/hpcjyP2N6YEA84G67?) | BYOT |
 | June |  |  |  |
 |:---|:---|:---|
-| 1st&nbsp;-&nbsp;12:30 | Highgate&nbsp;Irregulars | [NW7 4HR](https://maps.app.goo.gl/6XtCfCqS717gHoMe6) | BYOT |
+| 1st&nbsp;-&nbsp;12:30 | [Highgate&nbsp;Irregulars](highgate-irregulars) | [NW7 4HR](https://maps.app.goo.gl/6XtCfCqS717gHoMe6) | BYOT |
 | 8th&nbsp;-&nbsp;13:00 | Rain&nbsp;Men | [NW11 7LE](https://maps.app.goo.gl/dTy6FeEAN5mH84jy9) | BYOT |
 | 29th&nbsp;-&nbsp;13:00 | Middleton&nbsp;Stoney  | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
 
