@@ -19,7 +19,7 @@ parent: Records
 |:---|:---|:---|:---|
 | **2025** | P Wigg | v [Stoneydown CC](../2025/stoneydown-cc) | **6-2-15-6** |
 | **2024** | R Beswick | v [Highgate Irregualars](../2024/highgate-irregulars) | **6-2-42-6** |
-| **2018** | P Beswick | v [Kingston](../2018/kingston) | **4-1-7-6** |
+| **2018** | P Beswick | v [KingstonI](../2018/kingston) | **4-1-7-6** |
 | **2013** | C Martin | v [Newington](../2013/newington) | **15-6-27-6** |
 | **2011** | E Garland | v [Kilmington and Stourton](../2011/kilmington-and-stourton) | **7-0-27-7** |
 | **2009** | E Garland | v [Newdigate](../2009/newdigate) | **10.3-1-44-6** |
@@ -92,7 +92,6 @@ parent: Records
 | **2024** | P Wigg | v [Railway Taverners](../2024/railway-taverners) | **8-0-38-4** |
 | **2024** | C Wright | v [Broadway and Horton](../2024/broadway-and-horton) | **7-0-40-4** |
 | **2024** | J Casey | v [Blagdon Hill](../2024/blagdon-hill) | **5.4-0-34-4** |
-| **2023** | P Wigg | v [St Anne's Allstars](../2023/st-annes-allstars) | **7-4-10-4* |
 | **2021** | R Earney | v [Wandering Maniacs](../2021/wandering-maniacs) | **6.4-1-20-4** |
 | **2020** | R Beswick | v [Banstead](../2020/banstead) | **5-2-24-4** |
 | **2018** | R Earney | v [Middleton Stoney](../2018/middleton-stoney) | **13-1-61-4** |
