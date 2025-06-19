@@ -5,7 +5,7 @@ homeTeam: The Min
 awayTeam: Alaftar CC
 location: Hampstead Heath Extension 
 date: 08/06/2025
-report: Alaftar won the toss and batted first making 149 for 8 wkts in 35 overs. The Min replied with 135 all out in 31.5 overs.
+report: Alaftar won the toss and batted first making 149 for 8 wkts in 35 overs. The Min replied with 163 for 8 wkts in 35 overs.
 result: Alaftar CC won by 20 runs
 next: 
 parent: 2025 Fixtures
@@ -69,7 +69,7 @@ Batting subs: P Beswick for I Miah and H Earney for S Mohammed
 | **R Beswick &#42;** | not out |   | 1 |
 | **H Earney;** | dnb |  |  |
 | **Extras** | | 4b 0lb 8w 1nb 0p) | **13** |
-| **Total** | | (335 overs) | **163 for 8 wkts** |
+| **Total** | | (35 overs) | **163 for 8 wkts** |
 
 ## Fall of Wickets
 
