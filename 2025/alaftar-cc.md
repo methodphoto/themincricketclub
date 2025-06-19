@@ -13,7 +13,7 @@ parent: 2025 Fixtures
 
 {% include newMatchDetails %}
 
-B Boyd-Taylor's highest score for The Min<br />
+[B Boyd-Taylor's](../records/honours-board-batting) highest score for The Min<br />
 Batting subs: P Beswick for I Miah and H Earney for S Mohammed
 
 ## {{page.awayTeam}} Innings
