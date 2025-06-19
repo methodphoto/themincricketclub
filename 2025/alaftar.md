@@ -20,19 +20,19 @@ Batting subs: P Beswick for I Miah and H Earney for S Mohammed
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **G Elwes** | run out | (A Beswick) | 11 |
-| **W Ahmed** | st J Grant | R Beswick | 18 |
-| **D Osborne** | b | R Earney | 32 |
-| **A Gray** | c J Grant | A Venkatasamy | 4 |
-| **T Mitchell** | not out |  | 19 |
-| **M Said Mohamad** | c I Ali | A Venkatasamy | 33 |
-| **V Menon** | b | R Beswick | 5 |
-| **V Gooneratne** | b | A Venkatasamy | 1 |
-| **A Manzoor** | b | A Venkatasamy | 9 |
-| **V Hirani** | not out |  | 6 |
-| **D Owen** | dnb |  |  |
+| **I Rafiq** | c A Beswick | I Miah | 42 |
+| **S Atif** | run out (A Gallagher, M Pugh-Smith) |  | 48 |
+| **B Abdul** | b | I Miah | 1 |
+| **K Nasir** | c & b | I Miah | 2 |
+| **H Ansar** | b | M Pugh-Smith | 11 |
+| **Sabi S** | st J Grant | R Earney | 18 |
+| **A Rafiq** | c J Stacey | P Beswick | 19 |
+| **A Wahid** | b | P Wigg | 19 |
+| **M Kureshi** | c B Boyd-Taylor | P Wigg | 14 |
+| **Z Butt** | not out |   | 1 |
+| **M Wahid** | not out |  | 1 |
 | **Extras** | | (7b 0lb 2w 2nb 0p) | **11** |
-| **Total** | | (35 overs) | **149 for 8 wkts** |
+| **Total** | | (35 overs) | **185 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -45,11 +45,13 @@ Batting subs: P Beswick for I Miah and H Earney for S Mohammed
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **I Ali** | 7 | 2 | 19 | 0 |
-| **R Beswick** | 7 | 1 | 29 | 2 |
-| **R Earney** | 7 | 1 | 37 | 1 |
-| **A Venkatasamy** | 7 | 1 | 24 | 4 |
-| **I Miah** | 7 | 0 | 33 | 0 |
+| **P Wigg** | 7 | 1 | 25 | 2 |
+| **R Beswick** | 2 | 0 | 25 | 0 |
+| **S Mohammed** | 7 | 0 | 29 | 0 |
+| **I Miah** | 7 | 0 | 39 | 3 |
+| **M Pugh-Smith** | 7 | 0 | 32 | 1 |
+| **P Beswick** | 3 | 0 | 26 | 1 |
+| **R Earney** | 2 | 0 | 10 | 1 |
 
 ## {{page.homeTeam}} Innings
 
@@ -80,12 +82,12 @@ Batting subs: P Beswick for I Miah and H Earney for S Mohammed
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **D Owen** | 7 | 1 | 32 | 0 |
-| **V Gooneratne** | 7 | 1 | 31 | 3 |
-| **T Mitchell** | 7 | 2 | 24 | 2 |
-| **M Said Mohamad** | 5 | 3 | 12 | 2 |
-| **V Menon** | 2 | 0 | 19 | 0 |
-| **G Elwes** | 3.5 | 0 | 10 | 2 |
+| **Z Butt** | 5 | 0 | 20 | 1 |
+| **Sabi S** | 7 | 2 | 12 | 2 |
+| **A Wahid** | 7 | 1 | 11 | 2 |
+| **M Wahid** | 7 | 0 | 60 | 0 |
+| **H Ansar** | 5 | 0 | 34 | 0 |
+| **I Rafiq** | 4 | 0 | 22 | 1 |
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
