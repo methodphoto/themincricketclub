@@ -4,7 +4,7 @@ title: Wickford
 game: Wickford v The Min
 location: Wickford
 date: 12/05/1996
-report: Wickford batted first and made 152 all out. The Min replied with 118 for 9 wkts
+report: Wickford batted first and made 152 all out. The Min replied with 152 for 9 wkts (all out).
 result: Match Tied
 next: tappers
 parent: 1996 Fixtures
