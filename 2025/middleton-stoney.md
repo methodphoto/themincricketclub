@@ -13,26 +13,25 @@ parent: 2025 Fixtures
 
 {% include newMatchDetails %}
 
-[B Boyd-Taylor's](../records/honours-board-batting) highest score for The Min<br />
-Batting subs: P Beswick for I Miah and H Earney for S Mohammed
+
 
 ## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **I Rafiq** | c A Beswick | I Miah | 42 |
-| **S Atif** | run out (A Gallagher, M Pugh-Smith) |  | 48 |
-| **B Abdul** | b | I Miah | 1 |
-| **K Nasir** | c & b | I Miah | 2 |
-| **H Ansar** | b | M Pugh-Smith | 11 |
-| **Sabi S** | st J Grant | R Earney | 18 |
-| **A Rafiq** | c J Stacey | P Beswick | 19 |
-| **A Wahid** | b | P Wigg | 19 |
-| **M Kureshi** | c B Boyd-Taylor | P Wigg | 14 |
-| **Z Butt** | not out |   | 1 |
-| **M Wahid** | not out |  | 1 |
+| **T Riley &#42;** | not out |  | 108 |
+| **M Ford-Langstaff** | c P Wigg | S Balasubramanian | 86 |
+| **M Robinson** | not out |  |  |
+| **M Beasleyr** | dnb |  |  |
+| **S Shah** | dnb |  |  |
+| **H Lancaster** | dnb |  |  |
+| **A Meier** | dnb |  |  |
+| **P Wordsworth** | dnb |  |  |
+| **S Jackson** | dnb |  |  |
+| **H Afgan** | dnb |  |  |
+| **A Sharma** | dnb |  |  |
 | **Extras** | | (7b 0lb 2w 2nb 0p) | **11** |
-| **Total** | | (35 overs) | **185 for 9 wkts** |
+| **Total** | | (35 overs) | **219 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -46,7 +45,7 @@ Batting subs: P Beswick for I Miah and H Earney for S Mohammed
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **P Wigg** | 7 | 1 | 25 | 2 |
-| **R Beswick** | 2 | 0 | 25 | 0 |
+| **A Venkatasamy** | 2 | 0 | 25 | 0 |
 | **S Mohammed** | 7 | 0 | 29 | 0 |
 | **I Miah** | 7 | 0 | 39 | 3 |
 | **M Pugh-Smith** | 7 | 0 | 32 | 1 |
@@ -57,26 +56,26 @@ Batting subs: P Beswick for I Miah and H Earney for S Mohammed
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **A Beswick** | c | Sabi S | 3 |
-| **R Earney** | b | A Wahid | 10 |
-| **M Pugh-Smith** | c | Z Butt | 3 |
-| **J Stacey** | c | A Wahid | 8 |
-| **B Boyd-Taylor** | b | Sabi S | 73 |
-| **A Gallagher** | run out |  | 6 |
-| **P Beswick** | run out | | 2 |
-| **P Wigg** | not out |  | 43 |
-| **J Grant &#8224;** | b | I Rafiq | 1 |
-| **R Beswick &#42;** | not out |   | 1 |
-| **H Earney;** | dnb |  |  |
-| **Extras** | | 4b 0lb 8w 1nb 0p) | **13** |
-| **Total** | | (35 overs) | **163 for 8 wkts** |
+| **R Earney** | b | P Wordsworth | 17 |
+| **R Beswick** | lbw | H Afgan | 30 |
+| **A Venkatasamy** | c A Sharma | T Riley | 76 |
+| **S Balasubramanian** | lbw | T Riley | 22 |
+| **I Miah** | b | H Afgan | 3 |
+| **W Calvert** | c S Shah | T Riley | 1 |
+| **S Mohammed** | run out | | 39 |
+| **A Gallagher** | lbw | A Sharma | 0 |
+| **P Wigg &#42;** | not out | I Rafiq | 8 |
+| **C Wright** | not out |   | 0 |
+| **J Grant &#8224;** | dnb |  |  |
+| **Extras** | | 7b 5lb 10w 1nb 0p) | **23** |
+| **Total** | | (41 overs) | **219 for 8 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 3 | 13 | 26 | 33 | 51 | 70 | 153 | 157 |  |  |
-| **Batsman** | 1 | 3 | 4 | 2 | 6 | 7 | 5 | 9 |  |  | 
+| **Score** | 61 | 63 | 117 | 127 | 133 | 196 | 197 | 216 |  |  |
+| **Batsman** | 2 | 1 | 4 | 5 | 6 | 7 | 3 | 7 |  |  | 
 
 ## Bowling
 
