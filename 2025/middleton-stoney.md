@@ -5,15 +5,17 @@ homeTeam: Middleton Stoney
 awayTeam: The Min
 location: Middleton Park 
 date: 29/06/2025
-report: Alaftar won the toss and batted first making 149 for 8 wkts in 35 overs. The Min replied with 163 for 8 wkts in 35 overs.
-result: Middleton Stoney won by 20 runs
+report: Middleton Stoney won the toss and batted first making 219 for 1 wkts. The Min replied with 163 for 8 wkts in 35 overs.
+result: Match Drawn (scores level)
 next: 
 parent: 2025 Fixtures
 ---
 
 {% include newMatchDetails %}
 
+[Match Report](https://middletonstoneycc.co.uk/event/mscc-v-the-min/)
 
+First ever draw with scores level
 
 ## {{page.homeTeam}} Innings
 
@@ -21,7 +23,7 @@ parent: 2025 Fixtures
 |:---|:---|---|---:|
 | **T Riley &#42;** | not out |  | 108 |
 | **M Ford-Langstaff** | c P Wigg | S Balasubramanian | 86 |
-| **M Robinson** | not out |  |  |
+| **M Robinson** | not out |  | 4 |
 | **M Beasleyr** | dnb |  |  |
 | **S Shah** | dnb |  |  |
 | **H Lancaster** | dnb |  |  |
@@ -30,27 +32,27 @@ parent: 2025 Fixtures
 | **S Jackson** | dnb |  |  |
 | **H Afgan** | dnb |  |  |
 | **A Sharma** | dnb |  |  |
-| **Extras** | | (7b 0lb 2w 2nb 0p) | **11** |
+| **Extras** | | (b lb w nb p) | **21** |
 | **Total** | | (35 overs) | **219 for 9 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 23 | 37 | 58 | 68 | 121 | 130 | 131 | 141 |  |  |
-| **Batsman** | 1  | 2 | 4 | 3 | 6 | 7 | 8 | 9 |  |  |
+| **Score** | **201** |  |  |  |  |  |  |  |  |  |
+| **Batsman** | 2 |  |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **P Wigg** | 7 | 1 | 25 | 2 |
+| **P Wigg** | 7 | 1 | 25 | 0 |
 | **A Venkatasamy** | 2 | 0 | 25 | 0 |
 | **S Mohammed** | 7 | 0 | 29 | 0 |
-| **I Miah** | 7 | 0 | 39 | 3 |
-| **M Pugh-Smith** | 7 | 0 | 32 | 1 |
-| **P Beswick** | 3 | 0 | 26 | 1 |
-| **R Earney** | 2 | 0 | 10 | 1 |
+| **I Miah** | 7 | 0 | 39 |  |
+| **C Wright** | 7 | 0 | 32 |  |
+| **S Balasubramanian** | 7 | 0 | 32 | 1 |
+| **R Earney** | 3 | 0 |  | 0 |
 
 ## {{page.awayTeam}} Innings
 
@@ -81,15 +83,14 @@ parent: 2025 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Z Butt** | 5 | 0 | 20 | 1 |
-| **Sabi S** | 7 | 2 | 12 | 2 |
-| **A Wahid** | 7 | 1 | 11 | 2 |
-| **M Wahid** | 7 | 0 | 60 | 0 |
-| **H Ansar** | 5 | 0 | 34 | 0 |
-| **I Rafiq** | 4 | 0 | 22 | 1 |
+| **A Sharma** | 8 | 0 | 21 | 1 |
+| **H Afgan** | 14 | 1 | 70 | 2 |
+| **P Wordsworth** | 7 | 1 | 27 | 1 |
+| **S Shah** | 3 | 0 | 22 | 0 |
+| **T Riley** | 9 | 0 | 60 | 3 |
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 1 | 2 | 0 | 0 |
+| 1 | 2 | 1 | 0 |
 
 {% include nextGame %}

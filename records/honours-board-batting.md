@@ -44,6 +44,7 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2025** | A Venkatasamy | [Middleton Stoney](../2025/middleton-stoney) | **76** |
 | **2025** | B Boyd-Taylor | [Alaftar CC](../2025/alaftar-cc) | **73** |
 | **2024** | A Beswick | [Hornchurch Athletic](../2024/hornchurch-athletic) | **57** |
 | **2024** | A Beswick | [Broadway and Horton](../2024/broadway-and-horton) | **70** |
