@@ -5,7 +5,7 @@ homeTeam: Middleton Stoney
 awayTeam: The Min
 location: Middleton Park 
 date: 29/06/2025
-report: Middleton Stoney won the toss and batted first making 219 for 1 wkts. The Min replied with 163 for 8 wkts in 35 overs.
+report: Middleton Stoney won the toss and batted first making 219 for 1 wkts. The Min replied with 218 for 8 wkts in 41 overs.
 result: Match Drawn (scores level)
 next: 
 parent: 2025 Fixtures
