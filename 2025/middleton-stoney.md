@@ -32,8 +32,8 @@ First ever draw with scores level
 | **S Jackson** | dnb |  |  |
 | **H Afgan** | dnb |  |  |
 | **A Sharma** | dnb |  |  |
-| **Extras** | | (b lb w nb p) | **21** |
-| **Total** | | (35 overs) | **219 for 9 wkts** |
+| **Extras** | | (15b 4lb 2w 1nb 0p) | **21** |
+| **Total** | | (37 overs) | **219 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -46,13 +46,13 @@ First ever draw with scores level
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **P Wigg** | 7 | 1 | 25 | 0 |
-| **A Venkatasamy** | 2 | 0 | 25 | 0 |
-| **S Mohammed** | 7 | 0 | 29 | 0 |
-| **I Miah** | 7 | 0 | 39 |  |
-| **C Wright** | 7 | 0 | 32 |  |
-| **S Balasubramanian** | 7 | 0 | 32 | 1 |
-| **R Earney** | 3 | 0 |  | 0 |
+| **P Wigg** | 7 | 4 | 16 | 0 |
+| **A Venkatasamy** | 6 | 1 | 29 | 0 |
+| **S Mohammed** | 4 | 1 | 20 | 0 |
+| **I Miah** | 8 | 0 | 46 | 0 |
+| **C Wright** | 5 | 0 | 41 | 0 |
+| **S Balasubramanian** | 4 | 0 | 34 | 1 |
+| **R Earney** | 3 | 0 | 15 | 0 |
 
 ## {{page.awayTeam}} Innings
 
