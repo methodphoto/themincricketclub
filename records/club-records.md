@@ -16,7 +16,7 @@ parent: Records
 | Most Fifties | R Earney | 56 |
 | Most Runs in a Season | R Earney | 603 |
 | Highest Average in a Season | J Hylton | 103.5 |
-| Highest Aggregate in a Match | [SB Exiles](../2006/sb_exiles) | 293 for 2 wkts |
+| Highest Aggregate in a Match | [SB Exiles](../2006/sb-exiles) | 293 for 2 wkts |
 
 ### Bowling
 
