@@ -59,11 +59,11 @@ C Wright's [Best Bowling](../records/honours-board-bowling#'Athletics'-in-an-Inn
 | **S Hafiz** | lbw | I Ali | 9 |
 | **N Hill** | b | I Ali | 1 |
 | **M Slatford** | c J Scallan | C Wright | 16 |
-| **I Miah** | b | C Wright | 18 |
-| **W Calvert** | b | C Wright | 5 |
-| **S Mohammed** | c C Etheridge | | 0 |
-| **A Gallagher** | c I Ali | J Casey | 8 |
-| **P Wigg &#42;** | st A Beswick | I Ali | 19 |
+| **O Slatford** | b | C Wright | 18 |
+| **B Hampton** | b | C Wright | 5 |
+| **L Dooley** | c C Etheridge | C Wright| 0 |
+| **P Hargreaves** | c I Ali | J Casey | 8 |
+| **R Slatford &#42; &#8224;** | st A Beswick | I Ali | 19 |
 | **Extras** | | 12b 1lb 6w 2nb 5p) | **27** |
 | **Total** | | (35 overs) | **159 for 8 wkts (all out)** |
 
