@@ -51,7 +51,7 @@ C Wright's [Best Bowling](../records/honours-board-bowling#'Athletics'-in-an-Inn
 | **S Hafiz** | 7 | 0 | 54 | 3 |
 | **M Biss** | 4 | 0 | 30 | 1 |
 
-## {{page.awayTeam}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
