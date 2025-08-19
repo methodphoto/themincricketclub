@@ -24,7 +24,7 @@ First ever draw with scores level
 | **T Riley &#42;** | not out |  | 108 |
 | **M Ford-Langstaff** | c P Wigg | S Balasubramanian | 86 |
 | **M Robinson** | not out |  | 4 |
-| **M Beasleyr** | dnb |  |  |
+| **M Beasley** | dnb |  |  |
 | **S Shah** | dnb |  |  |
 | **H Lancaster** | dnb |  |  |
 | **A Meier** | dnb |  |  |

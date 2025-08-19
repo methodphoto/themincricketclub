@@ -24,7 +24,7 @@ nav_order: 1
 
 | August |  |  |  |
 |:---|:---|:---|
-| 17th&nbsp;-&nbsp;13:00 | St&nbsp;Anne's&nbsp;Allstars | [N22 7AX](https://maps.app.goo.gl/wuhYQfawQnkMXxeY9) | BYOT |
+| 17th&nbsp;-&nbsp;13:00 | [St&nbsp;Anne's&nbsp;Allstars](st-annes-allstars) | [N22 7AX](https://maps.app.goo.gl/wuhYQfawQnkMXxeY9) | BYOT |
 
 | August - Tour |  |  |  |
 |:---|:---|:---|
