@@ -44,6 +44,7 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2025** | A Beswick | [Blagdon Hill](../2025/blagdon-hill) | **54** |
 | **2025** | T Newbiggin | [St Anne's Allstars](../2025/st-annes-allstars) | **61** |
 | **2025** | R Beswick | [St Anne's Allstars](../2025/st-annes-allstars) | **50** |
 | **2025** | A Venkatasamy | [Middleton Stoney](../2025/middleton-stoney) | **76** |

@@ -16,6 +16,7 @@ parent: Results
 ## 2025
 
 |:---|:---|:---|
+| 21/08/2025 | [Blagdon Hill](../2025/blagdon-hill) | Won |
 | 17/08/2025 | [St Anne's Allstars](../2025/st-annes-allstars) | Won |
 | 29/06/2025 | [Middleton Stoney](../2025/middleton-stoney) | Drawn |
 | 08/06/2025 | [Alaftar CC](../2025/alaftar-cc) | Lost |

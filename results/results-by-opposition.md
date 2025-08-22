@@ -19,7 +19,7 @@ parent: Results
 | **Middleton Stoney** | 14 | 4 | 3 | 7 | 0 | 28.57 | +1 |
 | **Newington** | 12 | 6 | 6 | 0 | 0 | 50 |  |
 | **Frensham** | 9 | 6 | 2 | 1 | 0 | 66.66 | +4 |
-| **Blagdon Hill** | 9 | 4 | 5 | 0 | 0 | 44.4 | -1 |
+| **Blagdon Hill** | 10 | 5 | 5 | 0 | 0 | 50 | 0 |
 
 ## No longer playing
 
