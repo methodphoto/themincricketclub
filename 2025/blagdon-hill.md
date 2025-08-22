@@ -83,7 +83,7 @@ parent: 2025 Fixtures
 |---|:---|:---|:---|:---|
 | **P Wigg** | 6 | 2 | 22 | 2 |
 | **H Griffiths** | 5 | 1 | 28 | 0 |
-| **R Earney** | 6 | 1 | 22 | 43|
+| **R Earney** | 6 | 1 | 22 | 3 |
 | **C Wright** | 5 | 0 | 25 | 1 |
 | **M Griffiths** | 2.2 | 0 | 8 | 3 |
 | **J Stacey** | 2 | 0 | 11 | 0 |
