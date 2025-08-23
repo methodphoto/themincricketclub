@@ -5,7 +5,7 @@ homeTeam: Broadway and Horton
 awayTeam: The Min
 location: he Fusion Fostering Ground
 date: 22/08/2025
-report: Broadway and Horton won the toss and inserted The Min who made 226 akk out in 39.5 overs (40 over). Broadway and Horton replied with 130 all out in 26.2 overs.
+report: Broadway and Horton won the toss and batted first scoring 209 all out in 34.3 overs. The Min replied with 212 for 2 wkts.
 result: The Min won by 8 wkts
 next: 
 parent: 2025 Fixtures
