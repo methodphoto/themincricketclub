@@ -83,6 +83,14 @@ M Griffiths 1st 50 and highest score for The Min. A Beswick's 18th 50.<br/>
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
+| **P Wigg** | 7 | 2 | 39 | 1 |
+| **H Griffiths** | 6 | 0 | 35 | 1 |
+| **C Wright** | 4 | 0 | 26 | 1 |
+| **R Earney** | 7 | 1 | 38 | 1 |
+| **M Griffiths** | 6 | 0 | 50 | 2 |
+| **J Casey** | 3.3 | 1 | 10 | 3 |
+| **R Beswick** | 1 | 0 | 7 | 1 |
+
 | **P Wigg** | 6 | 2 | 22 | 2 |
 | **H Griffiths** | 5 | 1 | 28 | 0 |
 | **R Earney** | 6 | 1 | 22 | 3 |
