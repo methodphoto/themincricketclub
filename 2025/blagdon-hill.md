@@ -81,12 +81,13 @@ parent: 2025 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **P Wigg** | 6 | 2 | 22 | 2 |
-| **H Griffiths** | 5 | 1 | 28 | 0 |
-| **R Earney** | 6 | 1 | 22 | 3 |
-| **C Wright** | 5 | 0 | 25 | 1 |
-| **M Griffiths** | 2.2 | 0 | 8 | 3 |
-| **J Stacey** | 2 | 0 | 11 | 0 |
+| **P Wigg** | 7 | 2 | 39 | 1 |
+| **H Griffiths** | 6 | 0 | 35 | 1 |
+| **C Wright** | 4 | 0 | 26 | 1 |
+| **R Earney** | 7 | 1 | 38 | 1 |
+| **M Griffiths** | 6 | 0 | 50 | 2 |
+| **J Casey** | 3.3 | 1 | 10 | 3 |
+| **R Beswick** | 1 | 0 | 7 | 1 |
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
