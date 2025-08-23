@@ -45,14 +45,14 @@ M Griffiths 1st 50 and highest score for The Min. A Beswick's 18th 50.<br/>
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **P Wigg** | 7 | 2 | 39 | 1 |
-| **H Griffiths** | 6 | 0 | 35 | 1 |
-| **C Wright** | 4 | 0 | 26 | 1 |
-| **R Earney** | 7 | 1 | 38 | 1 |
-| **M Griffiths** | 6 | 0 | 50 | 2 |
-| **J Casey** | 3.3 | 1 | 10 | 3 |
-| **R Beswick** | 1 | 0 | 7 | 1 |
-
+| **T Wilson** | 5 | 0 | 25 | 0 |
+| **J Pawley** | 7 | 0 | 41 | 0 |
+| **O Pike** | 4 0 | 34 | 0 |
+| **J Hayes** | 4.5 | 0 | 33 | 1 |
+| **W Vickery** | 3 | 0 | 13 | 1 |
+| **T Pawley** | 4 | 0 | 28 | 0 |
+| **J Pedlar** | 3 | 0 | 25 | 0 |
+| **T Keyte** | 1  |0 | 7 | 0 |
 
 ## {{page.homeTeam}} Innings
 
@@ -90,13 +90,6 @@ M Griffiths 1st 50 and highest score for The Min. A Beswick's 18th 50.<br/>
 | **M Griffiths** | 6 | 0 | 50 | 2 |
 | **J Casey** | 3.3 | 1 | 10 | 3 |
 | **R Beswick** | 1 | 0 | 7 | 1 |
-
-| **P Wigg** | 6 | 2 | 22 | 2 |
-| **H Griffiths** | 5 | 1 | 28 | 0 |
-| **R Earney** | 6 | 1 | 22 | 3 |
-| **C Wright** | 5 | 0 | 25 | 1 |
-| **M Griffiths** | 2.2 | 0 | 8 | 3 |
-| **J Stacey** | 2 | 0 | 11 | 0 |
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
