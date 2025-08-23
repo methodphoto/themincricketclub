@@ -44,6 +44,8 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2025** | M Griffiths | [Broadway and Horton](../2025/broadway-and-horton) | **96&#42;** |
+| **2025** | A Beswick | [Broadway and Horton](../2025/broadway-and-horton) | **66** |
 | **2025** | A Beswick | [Blagdon Hill](../2025/blagdon-hill) | **54** |
 | **2025** | T Newbiggin | [St Anne's Allstars](../2025/st-annes-allstars) | **61** |
 | **2025** | R Beswick | [St Anne's Allstars](../2025/st-annes-allstars) | **50** |

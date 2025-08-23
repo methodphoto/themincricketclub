@@ -7,7 +7,7 @@ location: The Fusion Fostering Ground
 date: 19/07/2024
 report: The Min batted first and made 236 for 7 wkts. Broadway were all out for 210.
 result: The Min won by 26 runs
-next: broadway-and-horton
+next: hornchurch-athletic
 parent: 2024 Fixtures
 ---
 

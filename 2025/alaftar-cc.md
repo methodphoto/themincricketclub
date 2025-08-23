@@ -7,7 +7,7 @@ location: Hampstead Heath Extension
 date: 08/06/2025
 report: Alaftar won the toss and batted first making 149 for 8 wkts in 35 overs. The Min replied with 163 for 8 wkts in 35 overs.
 result: Alaftar CC won by 20 runs
-next: 
+next: middleton-stoney
 parent: 2025 Fixtures
 ---
 

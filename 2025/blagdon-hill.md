@@ -5,9 +5,9 @@ homeTeam: Blagdon Hill
 awayTeam: The Min
 location: Sellick's Green  
 date: 21/08/2025
-report: Blagdon Hill  won the toss and inserted The Min who made 226 akk out in 39.5 overs (40 over). Blagdon Hill replied with 130 all out in 26.2 overs.
+report: Blagdon Hill won the toss and inserted The Min who made 226 akk out in 39.5 overs (40 over). Blagdon Hill replied with 130 all out in 26.2 overs.
 result: The Min won by 96 runs
-next: 
+next: broadway-and-horton
 parent: 2025 Fixtures
 ---
 
@@ -18,7 +18,7 @@ parent: 2025 Fixtures
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **M Griffiths** | c | S Compton | 38 |
-| **A Beswick** | run out |  | 54 |
+| **A Beswick &#42;** | run out |  | 54 |
 | **R Earney** | c E Trottman | A Hannam | 4 |
 | **S Barrowcliff** | lbw | A Routledge | 15 |
 | **W Calvert** | b | A Routledge | 12 |
@@ -27,7 +27,7 @@ parent: 2025 Fixtures
 | **H Griffiths** | c | D Wright | 0 |
 | **P Wigg** | c | M Harvey | 20 |
 | **C Wright** | lbw | L Trottman | 7 |
-| **J Grant** | not out |  | 0 |
+| **J Grant &#8224;** | not out |  | 0 |
 | **Extras** | | (7b 1lb 23w 2nb 0p) | **33** |
 | **Total** | | (39.5 overs) | **226 all out** |
 

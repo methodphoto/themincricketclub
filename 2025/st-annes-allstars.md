@@ -7,7 +7,7 @@ location: Alexandra Park CC
 date: 18/08/2025
 report: The Min won the toss and batted first making 252 for 7 wkts in 33 overs. St Anne's replied with 159 for 8 wkts (all out) in 35 overs.
 result: The Min won by 93 runs
-next: 
+next: blagdon-hill
 parent: 2025 Fixtures
 ---
 
@@ -23,7 +23,7 @@ C Wright's [Best Bowling](../records/honours-board-bowling#'Athletics'-in-an-Inn
 | **R Earney** | b | P Hargreaves | 14 |
 | **R Beswick** | st R Slatford | S Hafiz | 50 |
 | **J Scallan** | st R Slatford | S Hafiz | 24 |
-| **A Beswick** | c O Slatford | S Hafiz | 38 |
+| **A Beswick &#42; &#8224;** | c O Slatford | S Hafiz | 38 |
 | **T Newbiggin** | b | B Hampton | 61 |
 | **P Grappy** | b | P Hargreaves | 16 |
 | **C Etheridge** | st R Slatford | M Biss | 10 |

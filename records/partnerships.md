@@ -46,6 +46,7 @@ parent: Records
 
 | Year | Position | Batsman and Score | Opponent | Partnership |
 |:---|:---|:---|:---|
+| **2025** | 1st wkt | M Griffiths (96&#42;) and A Beswick (66) | [Broadway and Horton](../2025/broadway-and-horton) | **130** |
 | **2024** | 7th wkt | K Singh (45) and D Padala (100) | [Reigate Pilgrims](../2024/reigate-pilgrims) | **147** |
 | **2000** | 2nd wkt | R Beswick (52) and S Hornsby (130&#42;) | [Wareham](../2000/wareham) | **144** |
 | **2016** | 2nd wkt | R Earney (88) and M Gupta (33) | [Reigate Pilgrims](../2016/reigate-pilgrims) | **142** |
