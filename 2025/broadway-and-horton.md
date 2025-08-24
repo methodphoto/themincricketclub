@@ -59,7 +59,7 @@ M Griffiths 1st 50 and highest score for The Min. A Beswick's 18th 50.<br/>
 |:---|:---|---|---:|
 | **M Griffiths** | not out |  | 96 |
 | **A Beswick &#42;** | lbw | W Vickery | 66 |
-| **R Earney** | b | J Haeys| 24 |
+| **R Earney** | b | J Hayes | 24 |
 | **J Stacey** | not out |  | 8 |
 | **B Matthews** | dnb |  |  |
 | **P Wigg** | dnb |  |  |
