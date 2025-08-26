@@ -31,6 +31,6 @@ nav_order: 1
 
 | September |  |  |  |
 |:---|:---|:---|
-| 7th&nbsp;-&nbsp;13:00 | Railway&nbsp;Taverners | TBC | BYOT |
+| 7th&nbsp;-&nbsp;13:00 | Railway&nbsp;Taverners | [N9 9HL](https://goo.gl/maps/xENoW4EHTBGNBsox5)  | BYOT |
 | 14th&nbsp;-&nbsp;13:00 | Reigate&nbsp;Pilgrims| [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) | 🥪 |
 
