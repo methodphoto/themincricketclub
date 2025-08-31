@@ -1,4 +1,4 @@
----
+i---
 layout: default
 title: 2025 Fixtures
 nav_order: 1
@@ -31,6 +31,6 @@ nav_order: 1
 
 | September |  |  |  |
 |:---|:---|:---|
-| 7th&nbsp;-&nbsp;13:00 | Railway&nbsp;Taverners | [N8 8RL](https://maps.app.goo.gl/K9Ly94hB1XkdfZ8b8)  | BYOT |
+| 7th&nbsp;-&nbsp;13:00 | Railway&nbsp;Taverners | [N8 8RL](https://maps.app.goo.gl/K9Ly94hB1XkdfZ8b8) | BYOT |
 | 14th&nbsp;-&nbsp;13:00 | Reigate&nbsp;Pilgrims| [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) | 🥪 |
 
