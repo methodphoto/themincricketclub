@@ -66,7 +66,7 @@ First ever draw with scores level
 | **W Calvert** | c S Shah | T Riley | 1 |
 | **S Mohammed** | run out | | 39 |
 | **A Gallagher** | lbw | A Sharma | 0 |
-| **P Wigg &#42;** | not out | I Rafiq | 8 |
+| **P Wigg &#42;** | not out |  | 8 |
 | **C Wright** | not out |   | 0 |
 | **J Grant &#8224;** | dnb |  |  |
 | **Extras** | | 7b 5lb 10w 1nb 0p) | **23** |
