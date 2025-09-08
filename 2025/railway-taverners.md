@@ -44,7 +44,7 @@ parent: 2025 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **J Sexton** | 7 | 0| 38 | 2 |
+| **J Thexton** | 7 | 0| 38 | 2 |
 | **S Devineni** | 7 | 0 | 52 | 1 |
 | **R Dasgupta** | 1 | 0 | 28 | 0 |
 | **S Wildy** | 7 | 0 | 42 | 3 |
