@@ -16,6 +16,7 @@ parent: Results
 ## 2025
 
 |:---|:---|:---|
+| 07/09/2025 | [Railway Taverners](../2025/railway-taverners) | Won |
 | 22/08/2025 | [Broadway and Horton](../2025/broadway-and-horton) | Won |
 | 21/08/2025 | [Blagdon Hill](../2025/blagdon-hill) | Won |
 | 17/08/2025 | [St Anne's Allstars](../2025/st-annes-allstars) | Won |

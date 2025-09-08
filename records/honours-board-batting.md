@@ -44,6 +44,8 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2025** | M Rogers | [Railway Taverners](../2025/railway-taverners) | **74&#42;** |
+| **2025** | I Ali | [Railway Taverners](../2025/railway-taverners) | **53** |
 | **2025** | M Griffiths | [Broadway and Horton](../2025/broadway-and-horton) | **96&#42;** |
 | **2025** | A Beswick | [Broadway and Horton](../2025/broadway-and-horton) | **66** |
 | **2025** | A Beswick | [Blagdon Hill](../2025/blagdon-hill) | **54** |
