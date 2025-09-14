@@ -12,7 +12,7 @@ parent: Results
 | Opponent | Played | Won | Lost | Drawn | Tied | % Wins | Overall |
 |:---|:---|:---|:---|:---|:---|:---|---:|
 | **Broadway and Horton** | 32 | 19 | 10 | 3 | 0 | 59.37 | +9 |
-| **Reigate Pilgrims** | 31 | 7 | 11 | 13 | 0 | 22.58 | -4 |
+| **Reigate Pilgrims** | 32 | 8 | 11 | 13 | 0 | 25.00 | -3 |
 | **Ashes Matches** | 26 | 17 | 8 | 1 | 0 | 65.38 | +9 |
 | **Stowting** | 25 | 8 | 6 | 11 | 0 | 32.00 | +2 |
 | **Selling** | 16 | 8 | 8 | 0 | 0 | 50.00 | 0 |
