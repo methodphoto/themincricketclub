@@ -16,10 +16,11 @@ parent: Results
 ## 2025
 
 |:---|:---|:---|
-| 07/09/2025 | [Railway Taverners](../2025/railway-taverners) | Won |
-| 22/08/2025 | [Broadway and Horton](../2025/broadway-and-horton) | Won |
-| 21/08/2025 | [Blagdon Hill](../2025/blagdon-hill) | Won |
-| 17/08/2025 | [St Anne's Allstars](../2025/st-annes-allstars) | Won |
+| 14/09/2025 | [Reigate Pilgrims](../2025/reigate-pilgrims) | **Won** |
+| 07/09/2025 | [Railway Taverners](../2025/railway-taverners) | **Won** |
+| 22/08/2025 | [Broadway and Horton](../2025/broadway-and-horton) | **Won** |
+| 21/08/2025 | [Blagdon Hill](../2025/blagdon-hill) | **Won** |
+| 17/08/2025 | [St Anne's Allstars](../2025/st-annes-allstars) | **Won** |
 | 29/06/2025 | [Middleton Stoney](../2025/middleton-stoney) | Drawn |
 | 08/06/2025 | [Alaftar CC](../2025/alaftar-cc) | Lost |
 | 01/06/2025 | [Highate Irregulars](../2025/highgate-irregulars) | Lost |
