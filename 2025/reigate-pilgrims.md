@@ -89,5 +89,3 @@ A Beswick's 19th 50. R Earney reached 10,000 runs for The Min
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 2 | 1 | 0 |
-
-{% include nextGame %}

@@ -93,5 +93,3 @@ I Miah: 50 wkts for The Min
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 6 | 2 | 1 | 0 |
-
-{% include nextGame %}

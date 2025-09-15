@@ -32,5 +32,5 @@ nav_order: 1
 | September |  |  |  |
 |:---|:---|:---|
 | 7th&nbsp;-&nbsp;13:00 | [Railway&nbsp;Taverners](railway-taverners) | [N8 8JJ](https://maps.app.goo.gl/AY6YGTFG9fLaRCCk6) | BYOT |
-| 14th&nbsp;-&nbsp;13:00 | Reigate&nbsp;Pilgrims| [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) | 🥪 |
+| 14th&nbsp;-&nbsp;13:00 | [Reigate&nbsp;Pilgrims](reigate-pilgrims)| [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) | 🥪 |
 
