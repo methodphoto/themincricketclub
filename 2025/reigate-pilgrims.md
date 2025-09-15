@@ -20,7 +20,7 @@ parent: 2025 Fixtures
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **S Burgess** | c A Beswick | I Ali | 23 |
-| **R Janardamam** | c J Grant | P Wigg | 0 |
+| **R Janardanan** | c J Grant | P Wigg | 0 |
 | **C Hudson** | c Y Khan | I Miah | 10 |
 | **D Kanagarajah &#8224; &#42;** | c A Beswick | I Ali | 9 |
 | **A Nithin** | c & b | I Ali | 0 |
