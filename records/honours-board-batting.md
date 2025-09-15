@@ -44,6 +44,7 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2025** | A Beswick | [Reigate Pilgrims](../2025/reigate-pilgrims) | **52&#42;** |
 | **2025** | M Rogers | [Railway Taverners](../2025/railway-taverners) | **74&#42;** |
 | **2025** | I Ali | [Railway Taverners](../2025/railway-taverners) | **53** |
 | **2025** | M Griffiths | [Broadway and Horton](../2025/broadway-and-horton) | **96&#42;** |
