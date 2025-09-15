@@ -4,7 +4,7 @@ title: Railway Taverners
 homeTeam: Railway Taverners
 awayTeam: The Min
 location: North London Cricket Club, Ferme Park
-date: 22/08/2025
+date: 08/09/2025
 report: Railway Taverners won the toss and inserted The Min, who made 266 for 8 wkts in 35 overs. Railway Taverners replied with 241 for 9 wkts.
 result: The Min won by 25 runs
 next: 
