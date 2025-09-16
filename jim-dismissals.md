@@ -162,6 +162,8 @@ nav_exclude: true
 [2020 Reigate Pilgrims](https://min.org.uk/2020/reigate-pilgrims) | **G Mitchell** | c J Grant | P Wigg | 12|
 [2021 Reigate Pilgrims](https://min.org.uk/2021/reigate-pilgrims) | **S Burgess** | c J Grant | P Wigg | 8 |
 [2022 Blagdon Hill](https://min.org.uk/2022/blagdon-hill) | **A Hotham** | c J Grant | P Wigg | 11 |
+[2024 Frensham](https://min.org.uk/2024/frensham) | **M Taylor &#8224;** | c J Grant | P Wigg | 19 |
+[2025 Reigate Pilgrims](https://min.org.uk/2025/reigate-pilgrims) | **R Janardanan** | c J Grant | P Wigg | 0 |
 
 ## Earn
 
@@ -336,3 +338,7 @@ nav_exclude: true
 [2006 Sanderstead](https://min.org.uk/2006/sanderstead) | **T James** | c J Grant | T Rutherford | 56 |
 [2006 Sanderstead](https://min.org.uk/2006/sanderstead) | **R Rushforth** | c J Grant | T Rutherford  | 0 |
 [2006 Tappers](https://min.org.uk/2006/tappers) | **Mainwaring** | c J Grant | T Rutherford | 28 |
+
+## Others
+
+

@@ -53,7 +53,7 @@ parent: 1988 Fixtures
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Dunglison** | c A Fielding | A MacFarlane | 0 |
-| **Farmer** | J Grant | A MacFarlane | 16 |
+| **Farmer** | c J Grant | A MacFarlane | 16 |
 | **Parr** | not out |  | 71 |
 | **Venn** | c & b | R Beswick | 1 |
 | **Gurney** | c W Calvert | R Beswick | 4 |

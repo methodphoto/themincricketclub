@@ -22,7 +22,7 @@ parent: 2023 Fixtures
 | **F Dunt** |  st J Grant | C Wright | 7 |
 | **P Lewis** | b | C Wright | 10 |
 | **S Montebello &#42;** | c R Earney | J Casey | 22 |
-| **L Marsh &#8224;** | J Grant | J Casey | 1 |
+| **L Marsh &#8224;** | c J Grant | J Casey | 1 |
 | **G Law** | b | A Fox | 2 |
 | **J Law** | not out |  | 26 |
 | **F Bathurst** | b | J Casey | 0 |
