@@ -64,7 +64,7 @@ E Garland best bowling and best return for The Min
 | **A Palmer** | c R Earney | E Garland| 16 |
 | **D French** | lbw | E Garland | 0 |
 | **S Gillatt** | c R Earney | E Garland | 18 |
-| **R Rose &#8224; &#8224;** | st J Grant | E Garland | 0 |
+| **R Rose &#42; &#8224;** | st J Grant | E Garland | 0 |
 | **S Snook** | not out |  | 6 |
 | **C Hansen** | not out |  | 6 |
 | **Extras** | | (2b 1lb 5w 2nb 0p) | **10** |
