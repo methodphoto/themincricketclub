@@ -33,7 +33,7 @@ First ever draw with scores level
 | **H Afgan** | dnb |  |  |
 | **A Sharma** | dnb |  |  |
 | **Extras** | | (15b 4lb 2w 1nb 0p) | **21** |
-| **Total** | | (37 overs) | **219 for 9 wkts** |
+| **Total** | | (37 overs) | **219 for 1 wkts** |
 
 ## Fall of Wickets
 

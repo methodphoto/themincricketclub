@@ -9,10 +9,11 @@ has_children: true
 
 [Batting Honours Board](honours-board-batting)
 
-
 [Bowling Honours Board](honours-board-bowling)
 
 [Partnerships](partnerships)
+
+[Catches and Stumpings](catches)
 
 [Club Records](club-records)
 
