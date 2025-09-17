@@ -24,7 +24,7 @@ parent: 1988 Fixtures
 | **R Beswick &#42;** | c Venn | Oakley | 26 |
 | **A MacFarlane** | c Chitty | Stevenson | 7 |
 | **M Gardiner** | run out |  | 15 |
-| **A Fielding** | lbw | Farmern | 0 |
+| **A Fielding** | lbw | Farmer | 0 |
 | **J Wright** | run out |  | 9 |
 | **R Olver** | not out |  | 12 |
 | **Extras** | | (1b 8lb 1w 1nb) | **11** |
