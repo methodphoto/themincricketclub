@@ -9,7 +9,7 @@ parent: Records
 
 | Player | Catches | Stumpings | Total |
 |:---|:---|:---|:---|
-| **J Grant** | 265 | 127 | 392 |
+| **J Grant** | 266 | 127 | 392 |
 | **W Calvert** | 111 | 20 | 131 |
 | **R Beswick** | 129 | 0 | 129 | 
 | **R Earney** | 121 | 0 | 121 | 
