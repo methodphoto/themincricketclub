@@ -13,7 +13,7 @@ parent: 1982 Fixtures
 
 ![Min v Clifton College](clifton-college.webp "The Brideshead Set")
 
-<p class="caption">Left to right: J Wright, M Kirwan, W Calvert, xx, R Beswick, J Grant, A Sylvester, xx, P Newcombe<p>
+<p class="caption">Left to right: J Wright, M Kirwan, W Calvert, R Emanuel, R Beswick, J Grant, A Sylvester, xx, P Newcombe<p>
 
 ## A Clifton College XI Innings
 
