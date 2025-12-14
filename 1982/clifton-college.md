@@ -11,6 +11,8 @@ parent: 1982 Fixtures
 
 {% include matchDetails %}
 
+![Min v Clifton College](clifton-college.webp "The Brideshead Set")
+
 ## A Clifton College XI Innings
 
 | Batsman | Dismissal |  | Runs |

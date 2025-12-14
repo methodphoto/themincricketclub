@@ -63,3 +63,7 @@ has_children: false
 ## 1992
 
 [Team v Broadway](../1992/broadway-and-horton)
+
+## 1982
+
+[Team v Clifton College](../1982/clifton-college)
