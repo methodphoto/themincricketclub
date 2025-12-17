@@ -12,6 +12,11 @@ parent: 1991 Fixtures
 
 {% include matchDetails %}
 
+![Toy and Macca](toy-and-macca.webp "Toy and Macca")
+
+<p class="caption">Left to right: I Marshall, A MacFarlane</p>
+
+
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
