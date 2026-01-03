@@ -6,7 +6,7 @@ nav_order: 1
 
 # {{page.title}}
 
-**29th April [44nd Anniversary of The Min](/1982/clifton-hill-house)**
+**29th April [44th Anniversary of The Min](/1982/clifton-hill-house)**
 
 ## Notes 
 
