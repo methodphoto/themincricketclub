@@ -14,16 +14,16 @@ nav_order: 3
 
 | May |  |  |  |
 |:---|:---|:---|
-| 18th&nbsp;-&nbsp;13:00 | [Stoneydown&nbsp;CC](stoneydown-cc) | [N9 9HH](https://maps.app.goo.gl/hpcjyP2N6YEA84G67?) | BYOT |
+| 18th&nbsp;-&nbsp;13:00 | [Stoneydown&nbsp;CC](stoneydown-cc) | [N9 9HH](https://maps.app.goo.gl/hpcjyP2N6YEA84G67?) | ⚪️ |
 | June |  |  |  |
 |:---|:---|:---|
-| 1st&nbsp;-&nbsp;12:30 | [Highgate&nbsp;Irregulars](highgate-irregulars) | [NW7 4HR](https://maps.app.goo.gl/6XtCfCqS717gHoMe6) | BYOT |
-| 8th&nbsp;-&nbsp;12:30 | [Alaftar&nbsp;CC](alaftar-cc) | [NW11 7LE](https://maps.app.goo.gl/dTy6FeEAN5mH84jy9) | BYOT |
+| 1st&nbsp;-&nbsp;12:30 | [Highgate&nbsp;Irregulars](highgate-irregulars) | [NW7 4HR](https://maps.app.goo.gl/6XtCfCqS717gHoMe6) | ⚪️ |
+| 8th&nbsp;-&nbsp;12:30 | [Alaftar&nbsp;CC](alaftar-cc) | [NW11 7LE](https://maps.app.goo.gl/dTy6FeEAN5mH84jy9) | ⚪️ |
 | 29th&nbsp;-&nbsp;13:00 | [Middleton&nbsp;Stoney](middleton-stoney)  | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
 
 | August |  |  |  |
 |:---|:---|:---|
-| 17th&nbsp;-&nbsp;13:00 | [St&nbsp;Anne's&nbsp;Allstars](st-annes-allstars) | [N22 7AX](https://maps.app.goo.gl/wuhYQfawQnkMXxeY9) | BYOT |
+| 17th&nbsp;-&nbsp;13:00 | [St&nbsp;Anne's&nbsp;Allstars](st-annes-allstars) | [N22 7AX](https://maps.app.goo.gl/wuhYQfawQnkMXxeY9) | ⚪️ |
 
 | August - Tour |  |  |  |
 |:---|:---|:---|
@@ -32,6 +32,6 @@ nav_order: 3
 
 | September |  |  |  |
 |:---|:---|:---|
-| 7th&nbsp;-&nbsp;13:00 | [Railway&nbsp;Taverners](railway-taverners) | [N8 8JJ](https://maps.app.goo.gl/AY6YGTFG9fLaRCCk6) | BYOT |
+| 7th&nbsp;-&nbsp;13:00 | [Railway&nbsp;Taverners](railway-taverners) | [N8 8JJ](https://maps.app.goo.gl/AY6YGTFG9fLaRCCk6) | ⚪️ |
 | 14th&nbsp;-&nbsp;13:00 | [Reigate&nbsp;Pilgrims](reigate-pilgrims)| [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) | 🥪 |
 
