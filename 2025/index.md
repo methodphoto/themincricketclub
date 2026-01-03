@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 2025 Fixtures
-nav_order: 5
+parent: 2020s
+nav_order: 3
 ---
 
 # {{page.title}}
