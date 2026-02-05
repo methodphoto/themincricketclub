@@ -20,6 +20,8 @@ $link-color: $purple-300;
 a {
 	text-decoration-skip-ink: auto;
 	transition-duration: 0.3s;}
+
+.markdown-body table { table-layout: auto !important; }
 	
 th, td {
     min-width: 5.5rem !important;
