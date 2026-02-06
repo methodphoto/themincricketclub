@@ -81,7 +81,7 @@ parent: 1997 Fixtures
 | **R Harvey** | 8 | 4 | 20 | 2 |
 | **R Knight** | 2 | 0 | 24 | 0 |
 | **S Rendell** | 4.5 | 3 | 10 | 4 |
-| **G Harlow** | 3 | 0 | 14 | 42|
+| **G Harlow** | 3 | 0 | 14 | 2 |
 
 ## Win/Loss Ratio
 

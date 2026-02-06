@@ -80,7 +80,7 @@ parent: 2003 Fixtures
 | **M Azar** | 7 | 1 | 13 | 2 |
 | **D Roberts** | 5 | 0 | 16 | 1 |
 | **A Loadsman** | 7 | 2 | 16 | 2 |
-| **R Neate** | 6 | 1 | 11 | 10 |
+| **R Neate** | 6 | 1 | 11 | 0 |
 | **A Ruxton** | 5 | 0 | 29 | 2 |
 | **M Roberts** | 2 | 0 | 4 | 1 |
 

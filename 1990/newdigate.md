@@ -79,7 +79,7 @@ parent: 1990 Fixtures
 |---|:---|:---|:---|:---|
 | **A Swann** | 12 | 5 | 33 | 3 |
 | **R Beswick** | 10 | 2 | 27 | 4 |
-| **W Calvert** | 5 | 1 | 22 | 10 |
+| **W Calvert** | 5 | 1 | 22 | 1 |
 | **I Marshall** | 6 | 1 | 15 | 0 |
 | **G Wright** | 4 | 0 | 19 | 0 |
 | **S Griffiths** | 2 | 0 | 19 | 0 |

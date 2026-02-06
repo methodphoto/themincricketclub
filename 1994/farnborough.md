@@ -77,7 +77,7 @@ parent: 1994 Fixtures
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **I Marshall** | 10 | 1 | 26 | 3 |
-| **G Wright** | 7 | 1 | 20 | 10|
+| **G Wright** | 7 | 1 | 20 | 0 |
 | **E Garland** | 6 | 0 | 39 | 1 |
 | **A Sylvester** | 7 | 0 | 21 | 4 |
 | **J Wright** | 4 | 0 | 22 | 0 |
