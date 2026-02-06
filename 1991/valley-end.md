@@ -78,7 +78,7 @@ parent: 1991 Fixtures
 |---|:---|:---|:---|:---|
 | **S Tidbury** | 12 | 5 | 21 | 1 |
 | **E Mason** | 11 | 3 | 14 | 3 |
-| **D Spencer** | 7.4 | 0 | 32 | 23 |
+| **D Spencer** | 7.4 | 0 | 32 | 2 |
 | **L Tidbury** | 7 | 0 | 17 | 4 |
 
 ## Win/Loss Ratio

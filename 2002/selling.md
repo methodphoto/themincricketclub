@@ -79,7 +79,7 @@ R Earney second century in the season and fourth overall and his highest score f
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **P O'Brien** | 7 | 1 | 21 | 20 |
+| **P O'Brien** | 7 | 1 | 21 | 0 |
 | **R Beswick** | 10 | 1 | 37 | 2 |
 | **E Garland** | 11.4 | 1 | 64 | 4 |
 | **R Earney** | 8 | 2 | 26 | 4 |

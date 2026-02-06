@@ -28,7 +28,7 @@ parent: 1993 Fixtures
 | **J Wright** | dnb |  |  |
 | **G Wright** | dnb |  |  |
 | **Extras** | | (4b 4lb 15w 1nb) | **24** |
-| **Total** | | (33.5 overs) | **118 all out** |
+| **Total** | | (33.5 overs) | **225 for 7 wkts** |
 
 ## Fall of Wickets
 
@@ -46,7 +46,7 @@ parent: 1993 Fixtures
 | **G Clothier** | 8 | 0 | 43 | 0 |
 | **M Hellyar** | 8 | 0 | 48 | 1 |
 | **M Ball** | 2 | 0 | 15 | 1 |
-| **P Worton** | 5 | 1 | 34 | 40 |
+| **P Worton** | 5 | 1 | 34 | 0 |
 | **A Jardine** | 4 | 0 | 23 | 4 |
 
 
@@ -66,7 +66,7 @@ parent: 1993 Fixtures
 | **J Wetherall** | dnb |  |  |
 | **C Wetherall** | dnb |  |  |
 | **Extras** | | (5b 0lb 6w 0nb) | **11** |
-| **Total** | | (46 overs) | **1267 for 7 wkts** |
+| **Total** | | (46 overs) | **126 for 7 wkts** |
 
 ## Fall of Wickets
 

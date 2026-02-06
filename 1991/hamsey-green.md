@@ -78,7 +78,7 @@ parent: 1991 Fixtures
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **R Smith** | 11 | 2 | 32 | 2 |
-| **P Hackshall** | 9 | 5 | 8 | 30|
+| **P Hackshall** | 9 | 5 | 8 | 0 |
 | **Carabache** | 11 | 0 | 61 | 2 |
 | **B Porter** | 10 | 0 | 31 | 1 |
 
