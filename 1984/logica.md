@@ -48,7 +48,7 @@ M Kirwan's 3rd Michelle
 | **M Kirwan** | 12 | 1 | 45 | 5 |
 | **P Holmes** | 7 | 1 | 30 | 2 |
 | **J Wright** | 10 | 2 | 18 | 1 |
-| **A Gallagher** | 10 | 2 | 18 | 1 |
+| **A Gallagher** | 10 | 2 | 18 | 0 |
 | **W Calvert** | 4 | 0 | 32 | 0 |
 
 ## The Min Innings

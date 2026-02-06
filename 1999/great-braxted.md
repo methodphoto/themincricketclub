@@ -43,10 +43,10 @@ parent: 1999 Fixtures
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **T Webb** | 14 | 2 | 45 | 2 |
-| **N Webb** | 6 | 2 | 23 | 3 |
+| **N Webb** | 6 | 2 | 23 | 0 |
 | **S Daly** | 6 | 0 | 31 | 1 |
-| **Croxon** | 9 | 4 | 21 | 2 |
-| **Allcock** | 7 | 0 | 28 | 4 |
+| **Croxon** | 9 | 4 | 21 | 1 |
+| **C Allcock** | 7 | 0 | 28 | 4 |
 
 ## {{page.title}} Innings
 

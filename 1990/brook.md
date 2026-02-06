@@ -53,7 +53,7 @@ parent: 1990 Fixtures
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | c (keeper) | Lunn | 0 |
-| **E Garland** | b | Markhaml | 19 |
+| **E Garland** | b | Markham | 19 |
 | **Thompson** | c (keeper) | Lunn | 0 |
 | **G Calvert** | c | Lunn | 0 |
 | **M Breddy** | c  | Lunn | 15 |
@@ -81,7 +81,7 @@ parent: 1990 Fixtures
 | **Watkins** | 3 | 2 | 1 | 0 |
 | **Marsh** | 9 | 1 | 34 | 0 |
 | **Markham** | 5 | 0 | 33 | 1 |
-| **Rogers** | 7 | 1 | 40 | 4 |
+| **Rogers** | 7 | 1 | 40 | 1 |
 
 ## Win/Loss Ratio
 

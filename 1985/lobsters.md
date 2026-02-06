@@ -87,7 +87,7 @@ M Kirwan's 1st 50
 | **Jenkins** | 3 | 0 | 20 | 0 |
 | **Sprutenburg** | 3 | 0 | 16 | 1 |
 | **Siddall** | 4 | 0 | 27 | 1 |
-| **Nuttall** | 3 | 0 | 20 | 3 |
+| **Nuttall** | 3 | 0 | 20 | 0 |
 | **Stone** | 2 | 0 | 20 | 0 |
 
 ## Win/Loss Ratio

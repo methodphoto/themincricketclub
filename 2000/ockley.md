@@ -21,7 +21,7 @@ parent: 2000 Fixtures
 | **R Beswick &#42;** | lbw | C Smith | 15 |
 | **R Kitson** | c | C Smith | 18 |
 | **R Green** | b | S Smith | 1 |
-| **M Petre** | b | N Edwards | 6 |
+| **M Petre &#8224;** | b | N Edwards | 6 |
 | **I Marshall** | c | C Smith | 1 |
 | **P Beswick** | b | N Edwards | 10 |
 | **E Garland** | c | L Figg | 14 |
@@ -42,12 +42,12 @@ parent: 2000 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **S Smith** | 7 | 2 | 23 | 0 |
-| **Rogers** | 9 | 3 | 14 | 3 |
-| **C Smith** | 10 | 0 | 39 | 3 |
-| **N Edwards** | 7 | 0 | 32 | 4 |
-| **L Figg** | 7 | 0 | 32 | 4 |
-| **D Mansel** | 7 | 0 | 32 | 4 |
+| **S Smith** | 7 | 2 | 23 | 1 |
+| **D Rogers** | 9 | 3 | 14 | 0 |
+| **C Smith** | 10 | 0 | 39 | 4 |
+| **N Edwards** | 7 | 0 | 32 | 2 |
+| **L Figg** | 7 | 0 | 32 | 1 |
+| **D Mansel** | 7 | 0 | 32 | 2 |
 
 ## {{page.title}} Innings
 

@@ -78,7 +78,7 @@ parent: 2007 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **M Whitling** | 7 | 1 | 30 | 4 |
+| **M Whitling** | 7 | 1 | 30 | 2 |
 | **T Gower** | 8 | 4 | 15 | 0 |
 | **T Carter** | 8 | 2 | 21 | 2 |
 | **P Quinnell** | 6 | 0 | 46 | 0 |

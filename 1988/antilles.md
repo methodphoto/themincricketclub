@@ -76,12 +76,12 @@ parent: 1988 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **C Williams** | 7 | 2 | 23 | 0 |
-| **O Selman** | 9 | 3 | 14 | 3 |
-| **B Shepherd** | 10 | 0 | 39 | 3 |
-| **T Nicholls** | 7 | 0 | 32 | 4 |
-| **W Murrell** | 7 | 0 | 32 | 4 |
-| **N Clarke** | 7 | 0 | 32 | 4 |
+| **C Williams** | 7 | 2 | 23 | 2 |
+| **O Selman** | 9 | 3 | 14 | 2 |
+| **B Shepherd** | 10 | 0 | 39 | 0 |
+| **T Nicholls** | 7 | 0 | 32 | 0 |
+| **W Murrell** | 7 | 0 | 32 | 0 |
+| **N Clarke** | 7 | 0 | 32 | 1 |
 
 ## Win/Loss Ratio
 

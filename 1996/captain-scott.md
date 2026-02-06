@@ -41,11 +41,11 @@ parent: 1996 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **Potts** | 7 | 2 | 23 | 0 |
-| **Yerrell** | 9 | 3 | 14 | 3 |
-| **Chambers** | 10 | 0 | 39 | 3 |
-| **Scanlon** | 7 | 0 | 32 | 4 |
-| **Scanlon** | 7 | 0 | 32 | 4 |
+| **H Thompson** | 7 | 2 | 23 | 3 |
+| **Glanville** | 9 | 3 | 14 | 1 |
+| **Who** | 10 | 0 | 39 | 3 |
+| **Allen** | 7 | 0 | 32 | 2 |
+| **Sychoff** | 7 | 0 | 32 | 1 |
 
 ## Captain Scott XI Innings
 
