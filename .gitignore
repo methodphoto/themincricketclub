@@ -15,3 +15,19 @@ min.bbprojectd/WebSiteSettings.plist
 index copy.markdown
 .ruby-version
 _includes/head.html
+reports/batting-records/a-beswick.md
+reports/batting-records/a-gallagher.md
+reports/batting-records/e-garland.md
+reports/batting-records/i-marshall.md
+reports/batting-records/j-grant.md
+reports/batting-records/m-goff.md
+reports/batting-records/m-gupta.md
+reports/batting-records/p-wigg.md
+reports/batting-records/r-beswick.md
+reports/batting-records/r-damaze.md
+reports/batting-records/s-barrowcliff.md
+reports/batting-records/s-hornsby.md
+reports/batting-records/w-calvert.md
+reports/r_earney_yearly_batting.csv
+reports/top10_batters_yearly.csv
+reports/top10_bowlers_yearly.csv

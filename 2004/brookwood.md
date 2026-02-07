@@ -13,6 +13,7 @@ parent: 2004 Fixtures
 {% include matchDetails %}
 
 R Earney's 23rd 50. A Slight's 2nd 50.<br />
+R Earney becomes the leading run scorer for The Min<br />
 [Partnership](../records/partnerships) of 132 between R Earney and A Slight
 
 <img src="brookwood_two_2004.jpg" width="100%" alt="Jim and Bes" />
