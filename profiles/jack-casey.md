@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Jack Casey
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Railway Taverners 2020](../2020/railway-taverners)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| - | - | - | - | - |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 17 v [Bricklayer's Arms](../2022/bricklayers-arms)<br />
+**Fifties:** 0<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 18 | 100.1 | 13 | 462 | 20 | 23.10 | 30.05 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 3-2-6-4 v [Newington](../2021/newington)<br />
+**Athletics:** 2<br />
+**Michelles:** 0
 
 
 ## Questions

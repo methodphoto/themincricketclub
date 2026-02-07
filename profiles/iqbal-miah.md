@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Iqbal Miah
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Britwell Salome 2005](../2005/britwell-salome)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 52 | 39 | 13 | 403 | 15.50 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 38* v [Britwell Salome](../2015/britwell-salome)<br />
+**Fifties:** 0<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 52 | 311 | 31 | 1460 | 61 | 23.93 | 30.59 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 8-1-54-4 v [Watton-at-Stone](../2015/watton-at-stone)<br />
+**Athletics:** 1<br />
+**Michelles:** 0
 
 
 ## Questions

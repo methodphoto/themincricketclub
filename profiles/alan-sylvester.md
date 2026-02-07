@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Alan Sylvester
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 57 | 35 | 16 | 380 | 20.00 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 56* v [Brook](../1985/brook)<br />
+**Fifties:** 1<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 57 | 373.1 | 66 | 1402 | 74 | 18.95 | 30.26 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 10-4-32-5 v [Petts Wood](../1985/petts-wood)<br />
+**Athletics:** 3<br />
+**Michelles:** 1
 
 
 ## Questions

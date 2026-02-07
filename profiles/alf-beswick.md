@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Alf Beswick
 parent: Profiles
 ---
 
@@ -12,33 +12,34 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Hornchurch 2005](../2005/hornchurch)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+|:---|:---|:---|:---|:---|:---|
+| 75 | 69 | 7 | 1524 | 24.58 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 94 v [Blagdon Hill](../2021/blagdon-hill)<br />
+**Fifties:** 8<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 75 | 48.5 | 5 | 280 | 12 | 23.33 | 24.25 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 3-1-5-3 v [Islip](../2009/islip)<br />
+**Athletics:** 0<br />
+**Michelles:** 0
 
 
 ## Questions
 
 **How did you come to join the Min? (whether you are a founder or connected to someone)**<br />
+Father is Richard Beswick
 
 **Favourite Min Moment?**<br />
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Syeed Habib
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [ELCCC 2009](../2009/elccc)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 6 | 5 | 1 | 204 | 51.00 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 91 v [Frensham](../2016/frensham)<br />
+**Fifties:** 2<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| - | - | - | - | - | - | - |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 6-0-19-2 v [Newington](../2015/newington)<br />
+**Athletics:** 0<br />
+**Michelles:** 0
 
 
 ## Questions

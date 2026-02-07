@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Gareth Powell
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Players and Jesters 2001](../2001/players-and-jesters)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| - | - | - | - | - |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 28 v [Old Colfeians](../2003/old-colfeians)<br />
+**Fifties:** 0<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 43 | 316.3 | 50 | 1169 | 44 | 26.57 | 43.16 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 13-5-36-5 v [Watton-at-Stone](../2001/watton-at-stone)<br />
+**Athletics:** 2<br />
+**Michelles:** 1
 
 
 ## Questions

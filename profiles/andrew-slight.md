@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Andrew Slight
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Stowting 2001](../2001/stowting)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 113 | 94 | 9 | 939 | 11.05 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 64 v [SB Exiles](../2005/sb-exiles)<br />
+**Fifties:** 3<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 113 | 77 | 2 | 436 | 27 | 16.15 | 17.11 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 4-0-16-4 v [Horningsham](../2005/horningsham)<br />
+**Athletics:** 1<br />
+**Michelles:** 0
 
 
 ## Questions

@@ -15,9 +15,9 @@ parent: Profiles
 
 ## Batting
 
-**Highest Score**: 85&#42; v [Newington](../2022/newington)
+**Highest Score**: 85* v [Newington](../2022/newington)<br />
 
-**Fifties:** 2
+**Fifties:** 2<br />
 
 **Hundreds:** 0
 
@@ -48,11 +48,11 @@ parent: Profiles
 
 ## Bowling
 
-**Best Bowling:** 2-0-13-1
+**Best Bowling:** 2-0-13-1 v [Frensham](../2024/frensham)<br />
 
-**Athletics:** 0
+**Athletics:** 0<br />
 
-**Michelles:** 0 <br />
+**Michelles:** 0
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|

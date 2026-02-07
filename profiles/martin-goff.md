@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Martin Goff
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Newdigate 2004](../2004/newdigate)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 44 | 44 | 3 | 1261 | 30.76 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 100 v [SB Exiles](../2006/sb-exiles)<br />
+**Fifties:** 8<br />
+**Hundreds:** 1
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| - | - | - | - | - | - | - |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:**  v <br />
+**Athletics:** 0<br />
+**Michelles:** 0
 
 
 ## Questions

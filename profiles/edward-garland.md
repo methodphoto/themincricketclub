@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Edward Garland
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Greenford 1984](../1984/greenford)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 223 | 155 | 43 | 1484 | 13.25 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 53 v [Watton-at-Stone](../1999/watton-at-stone)<br />
+**Fifties:** 1<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 223 | 970.2 | 86 | 4658 | 259 | 17.98 | 22.48 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
+**Best Bowling:** 7-0-27-7 v [Kilmington and Stourton](../2011/kilmington-and-stourton)<br />
 **Athletics:** 8<br />
-**Michelles:** 6
+**Michelles:** 7
 
 
 ## Questions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Tony Purves
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Lobsters 1983](../1983/lobsters)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 18 | 16 | 5 | 459 | 41.73 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 66* v [Horningsham](../1986/horningsham)<br />
+**Fifties:** 3<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 18 | 112.2 | 14 | 488 | 36 | 13.56 | 18.72 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 5.3-1-14-6 v [Greenford](../1984/greenford)<br />
+**Athletics:** 2<br />
+**Michelles:** 2
 
 
 ## Questions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Matt Griffiths
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Blagdon Hill 2016](../2016/blagdon-hill)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 8 | 8 | 0 | 243 | 30.38 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 47 v [Broadway and Horton](../2021/broadway-and-horton)<br />
+**Fifties:** 0<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| - | - | - | - | - | - | - |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 2.2-0-8-3 v [Blagdon Hill](../2025/blagdon-hill)<br />
+**Athletics:** 0<br />
+**Michelles:** 0
 
 
 ## Questions

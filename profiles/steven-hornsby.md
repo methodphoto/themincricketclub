@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Steven Hornsby
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Barrow-Boys 1988](../1988/barrow-boys)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 91 | 87 | 14 | 2890 | 39.59 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 130* v [Wareham](../2000/wareham)<br />
+**Fifties:** 17<br />
+**Hundreds:** 4
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 91 | 183.4 | 14 | 911 | 41 | 22.22 | 26.88 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 7.2-0-33-5 v [Hetairoi](../1991/hetairoi)<br />
+**Athletics:** 2<br />
+**Michelles:** 1
 
 
 ## Questions

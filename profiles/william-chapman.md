@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: William Chapman
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [South Nutfield 1988](../1988/south-nutfield)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 25 | 24 | 3 | 341 | 16.24 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 74 v [Blindley Heath](../1988/blindley-heath)<br />
+**Fifties:** 1<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| - | - | - | - | - | - | - |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 6-0-15-4 v [Liphook](../1988/liphook)<br />
+**Athletics:** 1<br />
+**Michelles:** 0
 
 
 ## Questions

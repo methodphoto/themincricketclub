@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Harry Ingham
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Ockley 1991](../1991/ockley)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 71 | 61 | 16 | 969 | 21.53 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 96* v [Watton-at-Stone](../2004/watton-at-stone)<br />
+**Fifties:** 1<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 71 | 573.2 | 111 | 1867 | 97 | 19.25 | 35.46 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 13-3-42-4 v [Brookwood](../2004/brookwood)<br />
+**Athletics:** 1<br />
+**Michelles:** 0
 
 
 ## Questions

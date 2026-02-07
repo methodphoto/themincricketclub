@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Richard Green
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Old Colfeians 1999](../1999/old-colfeians)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 34 | 25 | 5 | 359 | 17.95 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 70 v [North Holmwood](../2002/north-holmwood)<br />
+**Fifties:** 2<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 34 | 266.4 | 27 | 1042 | 63 | 16.54 | 25.40 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 12-2-47-6 v [Shottermill](../2000/shottermill)<br />
+**Athletics:** 2<br />
+**Michelles:** 2
 
 
 ## Questions

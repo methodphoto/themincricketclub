@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Philip Beswick
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [White Lion 1995](../1995/white-lion)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| - | - | - | - | - |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 27 v [Brasted Invicta](../2017/brasted-invicta)<br />
+**Fifties:** 0<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 46 | 125.5 | 5 | 669 | 28 | 23.89 | 26.96 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 4-1-7-6 v [Kingstonian](../2018/kingstonian)<br />
+**Athletics:** 1<br />
+**Michelles:** 1
 
 
 ## Questions

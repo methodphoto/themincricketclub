@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Patrick Wigg
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Ockley 1991](../1991/ockley)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 167 | 129 | 41 | 1802 | 20.48 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 54* v [Exford](../2013/exford)<br />
+**Fifties:** 4<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 167 | 1232.2 | 230 | 4162 | 232 | 17.94 | 31.87 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 6-2-15-6 v [Stoneydown CC](../2025/stoneydown-cc)<br />
+**Athletics:** 10<br />
+**Michelles:** 2
 
 
 ## Questions

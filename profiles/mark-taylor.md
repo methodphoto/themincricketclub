@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Mark Taylor
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Valley End 1986](../1986/valley-end)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 15 | 15 | 2 | 495 | 38.08 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 58* v [Old Elthamians](../1988/old-elthamians)<br />
+**Fifties:** 3<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 15 | 102 | 25 | 319 | 22 | 14.50 | 27.82 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 11-1-33-4 v [Old Elthamians](../1988/old-elthamians)<br />
+**Athletics:** 2<br />
+**Michelles:** 0
 
 
 ## Questions

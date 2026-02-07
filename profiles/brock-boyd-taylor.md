@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Brock Boyd-Taylor
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Railway Taverners 2019](../2019/railway-taverners)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 17 | 17 | 2 | 445 | 29.67 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 66* v [St Anne's Allstars](../2022/st-annes-allstars)<br />
+**Fifties:** 1<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| - | - | - | - | - | - | - |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 4-0-26-2 v [Bricklayer's Arms](../2021/bricklayers-arms)<br />
+**Athletics:** 0<br />
+**Michelles:** 0
 
 
 ## Questions

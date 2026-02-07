@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Andrew Gallagher
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 151 | 143 | 13 | 3162 | 24.32 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 85 v [The Artisans](../1985/artisans)<br />
+**Fifties:** 13<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 151 | 190 | 12 | 1069 | 47 | 22.74 | 24.26 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 5-0-23-3 v [Valley End](../1987/valley-end)<br />
+**Athletics:** 0<br />
+**Michelles:** 0
 
 
 ## Questions

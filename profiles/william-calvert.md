@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: William Calvert
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 324 | 293 | 36 | 3900 | 15.18 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 69* v [Antillies](../1988/antilles)<br />
+**Fifties:** 10<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 324 | 651.3 | 86 | 2955 | 145 | 20.38 | 26.96 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 13-3-40-6 v [Chiswick Flyovers](../1984/chiswick-flyovers)<br />
+**Athletics:** 7<br />
+**Michelles:** 3
 
 
 ## Questions

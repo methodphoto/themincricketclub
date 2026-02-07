@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Alf Beswick
+title: Graeme Wright
 parent: Profiles
 ---
 
@@ -12,34 +12,33 @@ parent: Profiles
 </details>
 
 
-Debut: [Hornchurch 2005](../2005/hornchurch)
+Debut: [Old Elthamians 1984](../1984/old-elthamians)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|:---|
-| 75 | 69 | 7 | 1524 | 24.58 |
+|:---|:---|:---|:---|:---|
+| - | - | - | - | - |
 
-**Highest Score**: 111 v [Highgate Irregulars](../2024/highate-irregulars)<br />
-**Fifties:** 11<br />
-**Hundreds:** 1
+**Highest Score**: 31* v [Little Kingshill](../1990/little-kingshill)<br />
+**Fifties:** 0<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 75 | 48.5 | 5 | 280 | 12 | 23.33 | 24.25 |
+| 49 | 332 | 56 | 1101 | 47 | 23.43 | 42.38 |
 
-**Best Bowling:** 3-1-5-3 v <br />
+**Best Bowling:** 12.2-0-29-5 v [Yateley](../1992/yateley)<br />
 **Athletics:** 0<br />
-**Michelles:** 0
+**Michelles:** 1
 
 
 ## Questions
 
 **How did you come to join the Min? (whether you are a founder or connected to someone)**<br />
-Father is Richard Beswick
 
 **Favourite Min Moment?**<br />
 

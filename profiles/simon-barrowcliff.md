@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Simon Barrowcliff
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Godstone 1989](../1989/godstone)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 99 | 96 | 6 | 2274 | 25.27 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 117* v [Old Elthamians](../1993/old-elthamians)<br />
+**Fifties:** 16<br />
+**Hundreds:** 1
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| - | - | - | - | - | - | - |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 0.2-0-2-1 v [Broadway and Horton](../2014/broadway-and-horton)<br />
+**Athletics:** 0<br />
+**Michelles:** 0
 
 
 ## Questions

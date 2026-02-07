@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: David Swann
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Abinger Hammer 1990](../1990/abinger-hammer)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 21 | 20 | 5 | 755 | 50.33 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 87 v [Reigate Pilgrims](../1991/reigate-pilgrims)<br />
+**Fifties:** 5<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| - | - | - | - | - | - | - |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 8-0-58-2 v [Old Tauntonians](../1991/old-tauntonians)<br />
+**Athletics:** 0<br />
+**Michelles:** 0
 
 
 ## Questions

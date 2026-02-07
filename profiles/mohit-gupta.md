@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Mohit Gupta
 parent: Profiles
 ---
 
@@ -12,28 +12,28 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Ockley 1991](../1991/ockley)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 88 | 82 | 15 | 2057 | 30.70 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 100 v [Frensham](../2017/frensham)<br />
+**Fifties:** 10<br />
+**Hundreds:** 1
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 88 | 489.3 | 58 | 1925 | 94 | 20.48 | 31.24 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
-**Michelles:** 6
+**Best Bowling:** 11-1-41-5 v [Stowting](../2009/stowting)<br />
+**Athletics:** 1<br />
+**Michelles:** 2
 
 
 ## Questions

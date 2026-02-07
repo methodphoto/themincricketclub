@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Richard Earney
+title: Richard Beswick
 parent: Profiles
 ---
 
@@ -12,27 +12,27 @@ parent: Profiles
 </details>
 
 
-Debut: [Limpsfield 1989](../1989/limpsfield)
+Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 529 | 471 | 74 | 8668 | 21.83 |
 
-**Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
-**Hundreds:** 7
+**Highest Score**: 93 v [Kilmington and Stourton](../2009/kilmington-and-stourton)<br />
+**Fifties:** 8<br />
+**Hundreds:** 0
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 529 | 2263 | 459 | 8512 | 473 | 18.00 | 28.71 |
 
-**Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
-**Athletics:** 8<br />
+**Best Bowling:** 6-2-42-6 v [Highgate Irregulars](../2024/highgate-irregulars)<br />
+**Athletics:** 21<br />
 **Michelles:** 6
 
 
