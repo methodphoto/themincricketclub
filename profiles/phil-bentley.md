@@ -18,7 +18,7 @@ Debut: [Antillies 1988](../1988/antilles)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 19 | 18 | 2 | 683 | 42.69 |
+| 18 | 18 | 2 | 683 | 42.69 |
 
 **Highest Score**: 100* v [Watton-at-Stone](../1988/watton-at-stone)<br />
 **Fifties:** 5<br />
@@ -29,7 +29,7 @@ Debut: [Antillies 1988](../1988/antilles)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 19 | 166.3 | 30 | 518 | 31 | 16.71 | 32.23 |
+| 18 | 165.3 | 30 | 518 | 30 | 17.27 | 33.10 |
 
 **Best Bowling:** 12-5-15-6 v [Great Braxted](../1996/great-braxted)<br />
 **Athletics:** 0<br />

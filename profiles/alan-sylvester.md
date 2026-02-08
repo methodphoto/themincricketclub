@@ -18,7 +18,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 57 | 35 | 16 | 380 | 20.00 |
+| 34 | 34 | 16 | 361 | 20.06 |
 
 **Highest Score**: 56* v [Brook](../1985/brook)<br />
 **Fifties:** 1<br />
@@ -29,7 +29,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 57 | 373.1 | 66 | 1402 | 74 | 18.95 | 30.26 |
+| 52 | 390.1 | 72 | 1449 | 77 | 18.82 | 30.40 |
 
 **Best Bowling:** 10-4-32-5 v [Petts Wood](../1985/petts-wood)<br />
 **Athletics:** 3<br />

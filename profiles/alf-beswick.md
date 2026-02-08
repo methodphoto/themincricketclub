@@ -18,7 +18,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 75 | 69 | 7 | 1524 | 24.58 |
+| 63 | 63 | 7 | 1379 | 24.62 |
 
 **Highest Score**: 94 v [Blagdon Hill](../2021/blagdon-hill)<br />
 **Fifties:** 8<br />
@@ -29,7 +29,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 75 | 48.5 | 5 | 280 | 12 | 23.33 | 24.25 |
+| 28 | 58.4 | 6 | 307 | 13 | 23.62 | 27.08 |
 
 **Best Bowling:** 3-1-5-3 v [Islip](../2009/islip)<br />
 **Athletics:** 0<br />

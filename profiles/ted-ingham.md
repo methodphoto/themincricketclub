@@ -18,7 +18,7 @@ Debut: [SAC XI 2011](../2011/sac-xi)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 22 | 21 | 2 | 220 | 11.58 |
+| - | - | - | - | - |
 
 **Highest Score**:  v <br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [SAC XI 2011](../2011/sac-xi)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 1 | 3 | 0 | 22 | 0 | - | - |
 
 **Best Bowling:**  v <br />
 **Athletics:** 0<br />

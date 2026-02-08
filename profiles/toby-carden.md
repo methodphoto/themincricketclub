@@ -18,7 +18,7 @@ Debut: [Selling 2008](../2008/selling)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 19 | 14 | 2 | 215 | 17.92 |
+| 14 | 14 | 2 | 207 | 17.25 |
 
 **Highest Score**: 45 v [Selling](../2009/selling)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [Selling 2008](../2008/selling)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 16 | 75 | 5 | 418 | 11 | 38.00 | 40.91 |
 
 **Best Bowling:** 8-2-26-3 v [Clapton & Oval](../2011/clapton-and-oval)<br />
 **Athletics:** 0<br />

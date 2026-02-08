@@ -18,7 +18,7 @@ Debut: [Stowting 2001](../2001/stowting)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 113 | 94 | 9 | 939 | 11.05 |
+| 87 | 87 | 7 | 908 | 11.35 |
 
 **Highest Score**: 64 v [SB Exiles](../2005/sb-exiles)<br />
 **Fifties:** 3<br />
@@ -29,7 +29,7 @@ Debut: [Stowting 2001](../2001/stowting)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 113 | 77 | 2 | 436 | 27 | 16.15 | 17.11 |
+| 27 | 88.3 | 2 | 436 | 27 | 16.15 | 19.67 |
 
 **Best Bowling:** 4-0-16-4 v [Horningsham](../2005/horningsham)<br />
 **Athletics:** 1<br />

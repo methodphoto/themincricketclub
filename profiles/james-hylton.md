@@ -18,7 +18,7 @@ Debut: [Erratics 1996](../1996/erratics)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 9 | 8 | 2 | 542 | 90.33 |
+| 8 | 8 | 2 | 542 | 90.33 |
 
 **Highest Score**: 116 v [Knapp](../1998/knapp)<br />
 **Fifties:** 4<br />
@@ -29,7 +29,7 @@ Debut: [Erratics 1996](../1996/erratics)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 6 | 38.3 | 7 | 125 | 13 | 9.62 | 17.77 |
 
 **Best Bowling:** 10-4-28-5 v [Erratics](../1996/erratics)<br />
 **Athletics:** 0<br />

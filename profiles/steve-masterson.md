@@ -18,7 +18,7 @@ Debut: [Ockley 1996](../1996/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| - | - | - | - | - |
+| 15 | 15 | 4 | 72 | 6.55 |
 
 **Highest Score**: 21 v [Iver Heath](../2004/iver-heath)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [Ockley 1996](../1996/ockley)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 25 | 217.1 | 46 | 732 | 36 | 20.33 | 36.19 |
+| 26 | 234.5 | 49 | 759 | 40 | 18.98 | 35.23 |
 
 **Best Bowling:** 14.1-5-43-5 v [Stowting](../1997/stowting)<br />
 **Athletics:** 1<br />

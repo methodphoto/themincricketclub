@@ -18,7 +18,7 @@ Debut: [Newdigate 2004](../2004/newdigate)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 44 | 44 | 3 | 1261 | 30.76 |
+| 44 | 44 | 3 | 1251 | 30.51 |
 
 **Highest Score**: 100 v [SB Exiles](../2006/sb-exiles)<br />
 **Fifties:** 8<br />

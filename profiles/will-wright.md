@@ -18,7 +18,7 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 25 | 24 | 2 | 601 | 27.32 |
+| 23 | 23 | 2 | 600 | 28.57 |
 
 **Highest Score**: 91 v [Old Elthamians](../1995/old-elthamians)<br />
 **Fifties:** 3<br />
@@ -29,7 +29,7 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 8 | 37 | 7 | 122 | 7 | 17.43 | 31.71 |
 
 **Best Bowling:** 8.5-2-15-4 v [West Wickham](../1986/west-wickham)<br />
 **Athletics:** 1<br />

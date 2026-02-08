@@ -18,7 +18,7 @@ Debut: [Blagdon Hill 2016](../2016/blagdon-hill)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 8 | 8 | 0 | 243 | 30.38 |
+| 4 | 4 | 0 | 120 | 30.00 |
 
 **Highest Score**: 47 v [Broadway and Horton](../2021/broadway-and-horton)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [Blagdon Hill 2016](../2016/blagdon-hill)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 6 | 20 | 0 | 161 | 6 | 26.83 | 20.00 |
 
 **Best Bowling:** 2.2-0-8-3 v [Blagdon Hill](../2025/blagdon-hill)<br />
 **Athletics:** 0<br />

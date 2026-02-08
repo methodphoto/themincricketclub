@@ -18,7 +18,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 91 | 67 | 18 | 493 | 10.06 |
+| 70 | 70 | 16 | 497 | 9.20 |
 
 **Highest Score**: 42 v [Great Tew](../1995/great-tew)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 15 | 37 | 4 | 179 | 10 | 17.90 | 22.20 |
 
 **Best Bowling:** 3-0-6-2 v [The Artisans](../1985/artisans)<br />
 **Athletics:** 0<br />

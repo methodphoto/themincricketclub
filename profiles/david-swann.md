@@ -18,7 +18,7 @@ Debut: [Abinger Hammer 1990](../1990/abinger-hammer)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 21 | 20 | 5 | 755 | 50.33 |
+| 19 | 19 | 4 | 652 | 43.47 |
 
 **Highest Score**: 87 v [Reigate Pilgrims](../1991/reigate-pilgrims)<br />
 **Fifties:** 5<br />
@@ -29,7 +29,7 @@ Debut: [Abinger Hammer 1990](../1990/abinger-hammer)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 6 | 23.1 | 3 | 118 | 3 | 39.33 | 46.33 |
 
 **Best Bowling:** 8-0-58-2 v [Old Tauntonians](../1991/old-tauntonians)<br />
 **Athletics:** 0<br />

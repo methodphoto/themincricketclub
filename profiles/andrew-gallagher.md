@@ -18,7 +18,7 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 151 | 143 | 13 | 3162 | 24.32 |
+| 132 | 132 | 14 | 2960 | 25.08 |
 
 **Highest Score**: 85 v [The Artisans](../1985/artisans)<br />
 **Fifties:** 13<br />
@@ -29,7 +29,7 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 151 | 190 | 12 | 1069 | 47 | 22.74 | 24.26 |
+| 53 | 199 | 11 | 1049 | 38 | 27.61 | 31.42 |
 
 **Best Bowling:** 5-0-23-3 v [Valley End](../1987/valley-end)<br />
 **Athletics:** 0<br />

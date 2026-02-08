@@ -18,7 +18,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 100 | 83 | 16 | 618 | 9.22 |
+| 82 | 82 | 19 | 626 | 9.94 |
 
 **Highest Score**: 52* v [Newdigate](../2010/newdigate)<br />
 **Fifties:** 1<br />
@@ -29,7 +29,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 100 | 139.5 | 11 | 603 | 33 | 18.27 | 25.42 |
+| 41 | 139.5 | 11 | 591 | 32 | 18.47 | 26.22 |
 
 **Best Bowling:** 6-0-32-4 v [Horningsham](../1987/horningsham)<br />
 **Athletics:** 1<br />

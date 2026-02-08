@@ -18,7 +18,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 11 | 9 | 2 | 261 | 37.29 |
+| 9 | 9 | 2 | 261 | 37.29 |
 
 **Highest Score**: 70 v [Petts Wood](../1985/petts-wood)<br />
 **Fifties:** 2<br />
@@ -29,7 +29,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 1 | 2 | 0 | 12 | 1 | 12.00 | 12.00 |
 
 **Best Bowling:** 2-0-12-1 v [Lobsters](../1983/lobsters)<br />
 **Athletics:** 0<br />

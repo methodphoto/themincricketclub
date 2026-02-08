@@ -18,7 +18,7 @@ Debut: [Old Colfeians 1999](../1999/old-colfeians)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 34 | 25 | 5 | 359 | 17.95 |
+| 25 | 25 | 5 | 355 | 17.75 |
 
 **Highest Score**: 70 v [North Holmwood](../2002/north-holmwood)<br />
 **Fifties:** 2<br />
@@ -29,7 +29,7 @@ Debut: [Old Colfeians 1999](../1999/old-colfeians)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 34 | 266.4 | 27 | 1042 | 63 | 16.54 | 25.40 |
+| 34 | 270.4 | 29 | 1070 | 65 | 16.46 | 24.98 |
 
 **Best Bowling:** 12-2-47-6 v [Shottermill](../2000/shottermill)<br />
 **Athletics:** 2<br />

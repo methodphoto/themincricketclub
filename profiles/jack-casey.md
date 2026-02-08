@@ -18,7 +18,7 @@ Debut: [Railway Taverners 2020](../2020/railway-taverners)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| - | - | - | - | - |
+| 10 | 10 | 2 | 85 | 10.62 |
 
 **Highest Score**: 17 v [Bricklayer's Arms](../2022/bricklayers-arms)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [Railway Taverners 2020](../2020/railway-taverners)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 18 | 100.1 | 13 | 462 | 20 | 23.10 | 30.05 |
+| 18 | 100.1 | 13 | 456 | 21 | 21.71 | 28.62 |
 
 **Best Bowling:** 3-2-6-4 v [Newington](../2021/newington)<br />
 **Athletics:** 2<br />

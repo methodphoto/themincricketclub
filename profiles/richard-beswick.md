@@ -18,7 +18,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 529 | 471 | 74 | 8668 | 21.83 |
+| 92 | 92 | 15 | 1598 | 20.75 |
 
 **Highest Score**: 93 v [Kilmington and Stourton](../2009/kilmington-and-stourton)<br />
 **Fifties:** 8<br />
@@ -29,7 +29,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 529 | 2263 | 459 | 8512 | 473 | 18.00 | 28.71 |
+| 394 | 2303.3 | 395 | 8717 | 476 | 18.31 | 29.04 |
 
 **Best Bowling:** 6-2-42-6 v [Highgate Irregulars](../2024/highgate-irregulars)<br />
 **Athletics:** 21<br />

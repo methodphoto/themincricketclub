@@ -18,7 +18,7 @@ Debut: [Godstone 1989](../1989/godstone)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 99 | 96 | 6 | 2274 | 25.27 |
+| 92 | 92 | 7 | 2074 | 24.40 |
 
 **Highest Score**: 117* v [Old Elthamians](../1993/old-elthamians)<br />
 **Fifties:** 16<br />
@@ -29,7 +29,7 @@ Debut: [Godstone 1989](../1989/godstone)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 9 | 17.2 | 1 | 101 | 3 | 33.67 | 34.67 |
 
 **Best Bowling:** 0.2-0-2-1 v [Broadway and Horton](../2014/broadway-and-horton)<br />
 **Athletics:** 0<br />

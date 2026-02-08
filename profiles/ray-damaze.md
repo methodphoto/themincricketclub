@@ -18,7 +18,7 @@ Debut: [ELCCC 2011](../2011/elccc)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 56 | 55 | 5 | 1219 | 24.38 |
+| 48 | 48 | 4 | 1105 | 25.11 |
 
 **Highest Score**: 100* v [Frensham](../2013/frensham)<br />
 **Fifties:** 4<br />
@@ -29,7 +29,7 @@ Debut: [ELCCC 2011](../2011/elccc)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 8 | 16.2 | 2 | 117 | 3 | 39.00 | 32.67 |
 
 **Best Bowling:** 0.3-0-2-1 v [Addington 1743](../2013/addington-1743)<br />
 **Athletics:** 0<br />

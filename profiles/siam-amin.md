@@ -18,7 +18,7 @@ Debut: [Brasted Invicta 2014](../2014/brasted-invicta)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 24 | 20 | 3 | 284 | 16.71 |
+| 18 | 18 | 2 | 240 | 15.00 |
 
 **Highest Score**: 32 v [Nightwatchman](../2015/nightwatchman)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [Brasted Invicta 2014](../2014/brasted-invicta)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 26 | 126.1 | 10 | 565 | 15 | 37.67 | 50.47 |
 
 **Best Bowling:** 3-0-7-4 v [Brasted Invicta](../2017/brasted-invicta)<br />
 **Athletics:** 1<br />

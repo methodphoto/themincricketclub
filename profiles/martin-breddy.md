@@ -18,7 +18,7 @@ Debut: [Valley End 1987](../1987/valley-end)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 16 | 16 | 0 | 650 | 40.63 |
+| 20 | 20 | 0 | 758 | 37.90 |
 
 **Highest Score**: 95 v [Limpsfield](../1989/limpsfield)<br />
 **Fifties:** 5<br />
@@ -29,7 +29,7 @@ Debut: [Valley End 1987](../1987/valley-end)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 1 | 2 | 0 | 1 | 0 | - | - |
 
 **Best Bowling:**  v <br />
 **Athletics:** 0<br />

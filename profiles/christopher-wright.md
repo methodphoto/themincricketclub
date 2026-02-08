@@ -18,7 +18,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| - | - | - | - | - |
+| 15 | 15 | 8 | 31 | 4.43 |
 
 **Highest Score**: 7* v [Reigate Pilgrims](../2020/reigate-pilgrims)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 47 | 237.1 | 12 | 1414 | 46 | 30.74 | 30.93 |
+| 45 | 235.1 | 12 | 1414 | 46 | 30.74 | 30.67 |
 
 **Best Bowling:** 7-1-27-4 v [St Anne's Allstars](../2025/st-annes-allstars)<br />
 **Athletics:** 2<br />

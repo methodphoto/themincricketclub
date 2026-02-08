@@ -18,7 +18,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 18 | 16 | 5 | 459 | 41.73 |
+| 17 | 17 | 6 | 499 | 45.36 |
 
 **Highest Score**: 66* v [Horningsham](../1986/horningsham)<br />
 **Fifties:** 3<br />
@@ -29,7 +29,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 18 | 112.2 | 14 | 488 | 36 | 13.56 | 18.72 |
+| 16 | 114.2 | 14 | 482 | 36 | 13.39 | 19.06 |
 
 **Best Bowling:** 5.3-1-14-6 v [Greenford](../1984/greenford)<br />
 **Athletics:** 2<br />

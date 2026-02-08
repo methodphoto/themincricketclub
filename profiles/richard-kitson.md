@@ -18,7 +18,7 @@ Debut: [Ockley 2000](../2000/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 39 | 39 | 6 | 722 | 21.88 |
+| 38 | 38 | 6 | 718 | 22.44 |
 
 **Highest Score**: 75 v [Horningsham](../2005/horningsham)<br />
 **Fifties:** 4<br />
@@ -29,7 +29,7 @@ Debut: [Ockley 2000](../2000/ockley)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 4 | 23 | 2 | 85 | 4 | 21.25 | 34.50 |
 
 **Best Bowling:** 5-0-33-2 v [Tappers](../2003/tappers)<br />
 **Athletics:** 0<br />

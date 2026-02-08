@@ -18,7 +18,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 377 | 183 | 73 | 936 | 8.51 |
+| 173 | 173 | 72 | 893 | 8.84 |
 
 **Highest Score**: 42 v [Broadway and Horton](../1999/broadway-and-horton)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 377 | 2674.4 | 349 | 10396 | 533 | 19.50 | 30.11 |
+| 368 | 2725.4 | 365 | 10532 | 538 | 19.58 | 30.40 |
 
 **Best Bowling:** 10.4-1-32-6 v [Tappers](../2006/tappers)<br />
 **Athletics:** 19<br />

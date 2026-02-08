@@ -18,7 +18,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 9 | 9 | 1 | 235 | 29.38 |
+| 6 | 6 | 0 | 110 | 18.33 |
 
 **Highest Score**: 55 v [Bathurst Arms](../1983/bathurst-arms)<br />
 **Fifties:** 1<br />
@@ -29,7 +29,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 2 | 2.1 | 0 | 15 | 3 | 5.00 | 4.33 |
 
 **Best Bowling:** 2-0-15-2 v [Bristol Young Solicitors](../1982/bristol-young-solicitors)<br />
 **Athletics:** 0<br />

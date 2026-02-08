@@ -18,10 +18,10 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 401 | 393 | 31 | 10018 | 27.67 |
+| 356 | 356 | 30 | 9312 | 28.56 |
 
 **Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 53<br />
+**Fifties:** 54<br />
 **Hundreds:** 7
 
 
@@ -29,7 +29,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 1182 | 110 | 5721 | 251 | 22.79 | 28.25 |
+| 231 | 1259.2 | 110 | 5715 | 251 | 22.77 | 30.10 |
 
 **Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
 **Athletics:** 8<br />

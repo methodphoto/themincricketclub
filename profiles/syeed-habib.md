@@ -18,7 +18,7 @@ Debut: [ELCCC 2009](../2009/elccc)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 6 | 5 | 1 | 204 | 51.00 |
+| 5 | 5 | 1 | 204 | 51.00 |
 
 **Highest Score**: 91 v [Frensham](../2016/frensham)<br />
 **Fifties:** 2<br />
@@ -29,7 +29,7 @@ Debut: [ELCCC 2009](../2009/elccc)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 9 | 50 | 8 | 149 | 5 | 29.80 | 60.00 |
 
 **Best Bowling:** 6-0-19-2 v [Newington](../2015/newington)<br />
 **Athletics:** 0<br />

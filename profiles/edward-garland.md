@@ -18,7 +18,7 @@ Debut: [Greenford 1984](../1984/greenford)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 223 | 155 | 43 | 1484 | 13.25 |
+| 168 | 168 | 52 | 1645 | 14.18 |
 
 **Highest Score**: 53 v [Watton-at-Stone](../1999/watton-at-stone)<br />
 **Fifties:** 1<br />
@@ -29,7 +29,7 @@ Debut: [Greenford 1984](../1984/greenford)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 223 | 970.2 | 86 | 4658 | 259 | 17.98 | 22.48 |
+| 186 | 1007.5 | 88 | 4874 | 266 | 18.32 | 22.73 |
 
 **Best Bowling:** 7-0-27-7 v [Kilmington and Stourton](../2011/kilmington-and-stourton)<br />
 **Athletics:** 8<br />

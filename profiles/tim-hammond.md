@@ -18,7 +18,7 @@ Debut: [Britwell Salome 2010](../2010/britwell-salome)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 10 | 10 | 2 | 343 | 42.88 |
+| 8 | 8 | 1 | 334 | 47.71 |
 
 **Highest Score**: 102* v [Broadway and Horton](../2010/broadway-and-horton)<br />
 **Fifties:** 1<br />

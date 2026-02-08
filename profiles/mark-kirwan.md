@@ -18,7 +18,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 42 | 29 | 6 | 357 | 15.52 |
+| 28 | 28 | 6 | 383 | 17.41 |
 
 **Highest Score**: 45 v [Old Tauntonians](../1991/old-tauntonians)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 42 | 339.3 | 60 | 1133 | 69 | 16.42 | 29.52 |
+| 40 | 341.3 | 58 | 1125 | 69 | 16.30 | 29.70 |
 
 **Best Bowling:** 11-2-15-5 v [A Good Length 2](../1982/a-good-length-2)<br />
 **Athletics:** 1<br />

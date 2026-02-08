@@ -18,7 +18,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 324 | 293 | 36 | 3900 | 15.18 |
+| 258 | 258 | 30 | 3384 | 14.84 |
 
 **Highest Score**: 69* v [Antillies](../1988/antilles)<br />
 **Fifties:** 10<br />
@@ -29,7 +29,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 324 | 651.3 | 86 | 2955 | 145 | 20.38 | 26.96 |
+| 121 | 663.4 | 87 | 2918 | 151 | 19.32 | 26.37 |
 
 **Best Bowling:** 13-3-40-6 v [Chiswick Flyovers](../1984/chiswick-flyovers)<br />
 **Athletics:** 7<br />

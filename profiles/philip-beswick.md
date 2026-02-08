@@ -18,7 +18,7 @@ Debut: [White Lion 1995](../1995/white-lion)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| - | - | - | - | - |
+| 35 | 35 | 5 | 145 | 4.83 |
 
 **Highest Score**: 27 v [Brasted Invicta](../2017/brasted-invicta)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [White Lion 1995](../1995/white-lion)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 46 | 125.5 | 5 | 669 | 28 | 23.89 | 26.96 |
+| 34 | 146.2 | 6 | 792 | 37 | 21.41 | 23.73 |
 
 **Best Bowling:** 4-1-7-6 v [Kingstonian](../2018/kingstonian)<br />
 **Athletics:** 1<br />

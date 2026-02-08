@@ -18,7 +18,7 @@ Debut: [Ockley 1991](../1991/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 88 | 82 | 15 | 2057 | 30.70 |
+| 82 | 82 | 15 | 2056 | 30.69 |
 
 **Highest Score**: 100 v [Frensham](../2017/frensham)<br />
 **Fifties:** 10<br />
@@ -29,7 +29,7 @@ Debut: [Ockley 1991](../1991/ockley)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 88 | 489.3 | 58 | 1925 | 94 | 20.48 | 31.24 |
+| 79 | 512.4 | 63 | 1990 | 98 | 20.31 | 31.39 |
 
 **Best Bowling:** 11-1-41-5 v [Stowting](../2009/stowting)<br />
 **Athletics:** 1<br />

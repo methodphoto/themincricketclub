@@ -18,7 +18,7 @@ Debut: [Newington 2018](../2018/newington)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 9 | 7 | 0 | 222 | 31.71 |
+| 7 | 7 | 0 | 222 | 31.71 |
 
 **Highest Score**: 70 v [Frensham](../2019/frensham)<br />
 **Fifties:** 2<br />
@@ -29,7 +29,7 @@ Debut: [Newington 2018](../2018/newington)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 8 | 55.3 | 9 | 233 | 11 | 21.18 | 30.27 |
 
 **Best Bowling:** 8-1-37-5 v [Newington](../2018/newington)<br />
 **Athletics:** 0<br />

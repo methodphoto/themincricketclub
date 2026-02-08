@@ -18,7 +18,7 @@ Debut: [Railway Taverners 2019](../2019/railway-taverners)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 17 | 17 | 2 | 445 | 29.67 |
+| 8 | 8 | 1 | 181 | 25.86 |
 
 **Highest Score**: 66* v [St Anne's Allstars](../2022/st-annes-allstars)<br />
 **Fifties:** 1<br />
@@ -29,7 +29,7 @@ Debut: [Railway Taverners 2019](../2019/railway-taverners)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 7 | 15.5 | 1 | 114 | 4 | 28.50 | 23.75 |
 
 **Best Bowling:** 4-0-26-2 v [Bricklayer's Arms](../2021/bricklayers-arms)<br />
 **Athletics:** 0<br />

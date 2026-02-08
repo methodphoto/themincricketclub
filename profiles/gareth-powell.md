@@ -18,7 +18,7 @@ Debut: [Players and Jesters 2001](../2001/players-and-jesters)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| - | - | - | - | - |
+| 27 | 27 | 11 | 185 | 11.56 |
 
 **Highest Score**: 28 v [Old Colfeians](../2003/old-colfeians)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [Players and Jesters 2001](../2001/players-and-jesters)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 43 | 316.3 | 50 | 1169 | 44 | 26.57 | 43.16 |
+| 40 | 316.3 | 54 | 1171 | 44 | 26.61 | 43.16 |
 
 **Best Bowling:** 13-5-36-5 v [Watton-at-Stone](../2001/watton-at-stone)<br />
 **Athletics:** 2<br />

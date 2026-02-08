@@ -18,7 +18,7 @@ Debut: [Britwell Salome 2006](../2006/britwell-salome)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 63 | 58 | 6 | 1080 | 20.77 |
+| 48 | 48 | 5 | 835 | 19.42 |
 
 **Highest Score**: 81 v [Newington](../2011/newington)<br />
 **Fifties:** 5<br />
@@ -29,7 +29,7 @@ Debut: [Britwell Salome 2006](../2006/britwell-salome)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 63 | 257 | 31 | 1045 | 47 | 22.23 | 32.81 |
+| 45 | 258 | 31 | 1038 | 50 | 20.76 | 30.96 |
 
 **Best Bowling:** 12-2-49-5 v [Britwell Salome](../2007/britwell-salome)<br />
 **Athletics:** 2<br />

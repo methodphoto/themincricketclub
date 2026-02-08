@@ -18,7 +18,7 @@ Debut: [A Good Length 1982](../1982/a-good-length)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 39 | 35 | 2 | 340 | 10.30 |
+| 37 | 37 | 3 | 387 | 11.38 |
 
 **Highest Score**: 58 v [Koh-i-Noor](../1985/koh-i-noor)<br />
 **Fifties:** 1<br />
@@ -29,7 +29,7 @@ Debut: [A Good Length 1982](../1982/a-good-length)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 2 | 1.1 | 0 | 12 | 1 | 12.00 | 7.00 |
 
 **Best Bowling:** 0.1-0-0-1 v [Barrow-Boys](../1988/barrow-boys)<br />
 **Athletics:** 0<br />

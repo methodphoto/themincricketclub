@@ -18,7 +18,7 @@ Debut:
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 29 | 22 | 4 | 262 | 14.56 |
+| - | - | - | - | - |
 
 **Highest Score**:  v <br />
 **Fifties:** 0<br />

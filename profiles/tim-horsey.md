@@ -18,7 +18,7 @@ Debut: [British Legion Rickmansworth 1984](../1984/british-legion-rickmansworth)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 44 | 40 | 9 | 228 | 7.35 |
+| 43 | 43 | 9 | 235 | 6.91 |
 
 **Highest Score**: 34 v [Nick Hoares XI](../1984/nick-hoares-xi)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [British Legion Rickmansworth 1984](../1984/british-legion-rickmansworth)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 3 | 2.1 | 0 | 15 | 0 | - | - |
 
 **Best Bowling:**  v <br />
 **Athletics:** 0<br />

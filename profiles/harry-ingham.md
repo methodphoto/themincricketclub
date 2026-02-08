@@ -18,7 +18,7 @@ Debut: [Ockley 1991](../1991/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 71 | 61 | 16 | 969 | 21.53 |
+| 64 | 64 | 16 | 1012 | 21.08 |
 
 **Highest Score**: 96* v [Watton-at-Stone](../2004/watton-at-stone)<br />
 **Fifties:** 1<br />
@@ -29,7 +29,7 @@ Debut: [Ockley 1991](../1991/ockley)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 71 | 573.2 | 111 | 1867 | 97 | 19.25 | 35.46 |
+| 76 | 618.2 | 116 | 2063 | 107 | 19.28 | 34.67 |
 
 **Best Bowling:** 13-3-42-4 v [Brookwood](../2004/brookwood)<br />
 **Athletics:** 1<br />

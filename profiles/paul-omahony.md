@@ -18,7 +18,7 @@ Debut: [Reigate Pilgrims 1997](../1997/reigate-pilgrims)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| - | - | - | - | - |
+| 32 | 32 | 16 | 143 | 8.94 |
 
 **Highest Score**: 45* v [Horningsham](../2006/horningsham)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [Reigate Pilgrims 1997](../1997/reigate-pilgrims)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 52 | 366.2 | 49 | 1445 | 57 | 25.35 | 38.56 |
+| 49 | 369.2 | 48 | 1445 | 59 | 24.49 | 37.56 |
 
 **Best Bowling:** 8-1-50-5 v [Watton-at-Stone](../1999/watton-at-stone)<br />
 **Athletics:** 4<br />

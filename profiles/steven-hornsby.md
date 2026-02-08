@@ -18,7 +18,7 @@ Debut: [Barrow-Boys 1988](../1988/barrow-boys)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 91 | 87 | 14 | 2890 | 39.59 |
+| 94 | 94 | 15 | 3007 | 38.06 |
 
 **Highest Score**: 130* v [Wareham](../2000/wareham)<br />
 **Fifties:** 17<br />
@@ -29,7 +29,7 @@ Debut: [Barrow-Boys 1988](../1988/barrow-boys)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 91 | 183.4 | 14 | 911 | 41 | 22.22 | 26.88 |
+| 50 | 239.5 | 20 | 1174 | 61 | 19.25 | 23.59 |
 
 **Best Bowling:** 7.2-0-33-5 v [Hetairoi](../1991/hetairoi)<br />
 **Athletics:** 2<br />

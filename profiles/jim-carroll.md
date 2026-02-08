@@ -18,7 +18,7 @@ Debut: [Middleton Stoney 2021](../2021/middleton-stoney)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 14 | 13 | 2 | 372 | 33.82 |
+| 11 | 11 | 1 | 333 | 33.30 |
 
 **Highest Score**: 78* v [Newington](../2021/newington)<br />
 **Fifties:** 3<br />
@@ -29,7 +29,7 @@ Debut: [Middleton Stoney 2021](../2021/middleton-stoney)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 12 | 63.1 | 12 | 285 | 17 | 16.76 | 22.29 |
 
 **Best Bowling:** 6-2-16-4 v [Railway Taverners](../2023/railway-taverners)<br />
 **Athletics:** 1<br />

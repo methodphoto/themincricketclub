@@ -18,7 +18,7 @@ Debut: [Valley End 1986](../1986/valley-end)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 15 | 15 | 2 | 495 | 38.08 |
+| 15 | 15 | 3 | 495 | 41.25 |
 
 **Highest Score**: 58* v [Old Elthamians](../1988/old-elthamians)<br />
 **Fifties:** 3<br />
@@ -29,7 +29,7 @@ Debut: [Valley End 1986](../1986/valley-end)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 15 | 102 | 25 | 319 | 22 | 14.50 | 27.82 |
+| 16 | 120.5 | 26 | 373 | 23 | 16.22 | 31.52 |
 
 **Best Bowling:** 11-1-33-4 v [Old Elthamians](../1988/old-elthamians)<br />
 **Athletics:** 2<br />

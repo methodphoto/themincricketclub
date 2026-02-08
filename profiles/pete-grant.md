@@ -18,7 +18,7 @@ Debut: [Old Texaconians 1991](../1991/old-texaconians)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 105 | 94 | 13 | 698 | 8.62 |
+| 95 | 95 | 14 | 691 | 8.53 |
 
 **Highest Score**: 50 v [Shottermill](../2000/shottermill)<br />
 **Fifties:** 1<br />
@@ -29,7 +29,7 @@ Debut: [Old Texaconians 1991](../1991/old-texaconians)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 17 | 44.5 | 2 | 200 | 13 | 15.38 | 20.69 |
 
 **Best Bowling:** 2-0-5-2 v [Old Texaconians](../1991/old-texaconians)<br />
 **Athletics:** 0<br />

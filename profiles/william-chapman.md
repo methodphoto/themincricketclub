@@ -18,7 +18,7 @@ Debut: [South Nutfield 1988](../1988/south-nutfield)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 25 | 24 | 3 | 341 | 16.24 |
+| 23 | 23 | 4 | 340 | 17.89 |
 
 **Highest Score**: 74 v [Blindley Heath](../1988/blindley-heath)<br />
 **Fifties:** 1<br />
@@ -29,7 +29,7 @@ Debut: [South Nutfield 1988](../1988/south-nutfield)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 6 | 31.3 | 2 | 131 | 11 | 11.91 | 17.18 |
 
 **Best Bowling:** 6-0-15-4 v [Liphook](../1988/liphook)<br />
 **Athletics:** 1<br />

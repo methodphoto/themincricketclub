@@ -18,7 +18,7 @@ Debut: [UB II 1983](../1983/ub-ii)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 45 | 30 | 14 | 287 | 17.94 |
+| 32 | 32 | 17 | 305 | 20.33 |
 
 **Highest Score**: 35* v [Checkendon](../1993/checkendon)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [UB II 1983](../1983/ub-ii)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 45 | 298 | 69 | 931 | 49 | 19.00 | 36.49 |
+| 46 | 300 | 71 | 907 | 49 | 18.51 | 36.73 |
 
 **Best Bowling:** 10-4-14-5 v [Stowting](../1987/stowting)<br />
 **Athletics:** 1<br />

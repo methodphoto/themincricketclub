@@ -18,7 +18,7 @@ Debut: [Ockley 1991](../1991/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 73 | 65 | 16 | 382 | 7.80 |
+| 62 | 62 | 14 | 326 | 6.79 |
 
 **Highest Score**: 42 v [Horningsham](../2005/horningsham)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [Ockley 1991](../1991/ockley)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 3 | 7 | 0 | 44 | 0 | - | - |
 
 **Best Bowling:**  v <br />
 **Athletics:** 0<br />

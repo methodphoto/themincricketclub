@@ -18,7 +18,7 @@ Debut: [White Lion 1995](../1995/white-lion)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 27 | 27 | 3 | 437 | 18.21 |
+| 25 | 25 | 3 | 383 | 17.41 |
 
 **Highest Score**: 77 v [Woking and Horsell](../1999/woking-and-horsell)<br />
 **Fifties:** 2<br />
@@ -29,7 +29,7 @@ Debut: [White Lion 1995](../1995/white-lion)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 2 | 3.2 | 0 | 24 | 1 | 24.00 | 20.00 |
 
 **Best Bowling:** 2.2-0-17-1 v [White Lion](../1995/white-lion)<br />
 **Athletics:** 0<br />

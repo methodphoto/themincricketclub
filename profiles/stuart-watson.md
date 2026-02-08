@@ -18,7 +18,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 14 | 14 | 4 | 370 | 37.00 |
+| 9 | 9 | 1 | 186 | 23.25 |
 
 **Highest Score**: 47* v [West Green](../1984/west-green)<br />
 **Fifties:** 0<br />
@@ -29,7 +29,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| - | - | - | - | - | - | - |
+| 3 | 10.2 | 1 | 42 | 5 | 8.40 | 12.40 |
 
 **Best Bowling:** 2.2-0-3-3 v [Lobsters](../1984/lobsters)<br />
 **Athletics:** 0<br />
