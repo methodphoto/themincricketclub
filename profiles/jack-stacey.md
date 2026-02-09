@@ -6,6 +6,8 @@ parent: Profiles
 
 # {{page.title}}
 
+Last Updated: 2026-02-09 07:58
+
 **Debut:** [Newdigate 2013](../2013/newdigate)
 
 <details open markdown="block">
@@ -30,18 +32,13 @@ parent: Profiles
 | 8 | 8 | 1 | 202 | 28.86 |
 
 | Year | Opponent | Score |
-|:---|:---|:---|:---|
-| **2024** | [Broadway and Horton](../2024/broadway-and-horton) | **15** |
-|   | [Blagdon Hill](../2024/blgdon-hill) | **0** |
-|   | [Frensham](../2024/frensham) | **43** |
-|   | [Highgate Irregulars](../2024/highate-irregulars) | **8** |
-| **2023** | [Newington](../2023/newington) | **16** |
-| **2022** | [Newington](../2022/newington) | **85&#42;** |
+|:---|:---|:---|
+| **2022** | [Newington](../2022/newington) | **85**&#42; |
 | **2020** | [Banstead](../2020/banstead) | **15** |
 | **2019** | [Newington](../2019/newington) | **59** |
-|   | [Watton-at-Stone](../2019/watton-at-stone) | **9** |
-| **2017** | [Broadway and Horton](../2017/broadway-and-horton) | **14** |
-|   | [Blagdon Hill](../2017/blagdon-hill) | **0** |
+|  | [Watton-at-Stone](../2019/watton-at-stone) | **0** |
+| **2017** | [Broadway and Horton v The Min](../2017/broadway-and-horton) | **0** |
+|  | [Blagdon Hill](../2017/blagdon-hill) | **14** |
 | **2015** | [BGS Bedouins](../2015/bgs-bedouins) | **29** |
 | **2013** | [Newdigate](../2013/newdigate) | **0** |
 
@@ -59,6 +56,7 @@ parent: Profiles
 | 3 | 5.2 | 0 | 27 | 1 | 27.00 | 32.00 |
 
 | Year | Opp | O | M | R | W |
-|:---|:---|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
+| **2025** | [Blagdon Hill](../2025/blagdon-hill) | 2 | 0 | 11 | 0 |
 | **2024** | [Frensham](../2024/frensham) | 2 | 0 | 13 | 1 |
 | **2019** | [Watton-at-Stone](../2019/watton-at-stone) | 1.2 | 0 | 3 | 0 |

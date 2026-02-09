@@ -6,6 +6,8 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
+Last Updated: 2026-02-09 07:58
+
 <details open markdown="block">
 1. TOC
 {:toc}
@@ -20,6 +22,19 @@ Debut: [Railway Taverners 2019](../2019/railway-taverners)
 |:---|:---|:---|:---|:---|
 | 9 | 9 | 1 | 212 | 26.50 |
 
+| Year | Opponent | Score |
+|:---|:---|:---|
+| **2022** | [Hornchurch Athletic](../2022/hornchurch-athletic) | **10** |
+|  | [Reigate Pilgrims](../2022/reigate-pilgrims) | **5** |
+|  | [St Anne's Allstars](../2022/st-annes-allstars) | **66**&#42; |
+|  | [Frensham](../2022/frensham) | **45** |
+|  | [Bricklayer's Arms](../2022/bricklayers-arms) | **24** |
+| **2021** | [Wandering Maniacs](../2021/wandering-maniacs) | **31** |
+|  | [Bricklayer's Arms](../2021/bricklayers-arms) | **21** |
+| **2020** | [Reigate Pilgrims](../2020/reigate-pilgrims) | **0** |
+| **2019** | [Railway Taverners](../2019/railway-taverners) | **10** |
+
+
 **Highest Score**: 66* v [St Anne's Allstars](../2022/st-annes-allstars)<br />
 **Fifties:** 1<br />
 **Hundreds:** 0
@@ -30,6 +45,17 @@ Debut: [Railway Taverners 2019](../2019/railway-taverners)
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
 | 7 | 15.5 | 1 | 114 | 4 | 28.50 | 23.75 |
+
+| Year | Opp | O | M | R | W |
+|:---|:---|:---|:---|:---|:---|
+| **2023** | [Railway Taverners](../2023/railway-taverners) | 1 | 0 | 8 | 0 |
+|  | [Belhus](../2023/belhus) | 2 | 1 | 17 | 0 |
+|  | [Stowting](../2023/stowting) | 0.4 | 0 | 4 | 0 |
+| **2022** | [Bricklayer's Arms](../2022/bricklayers-arms) | 3 | 0 | 28 | 0 |
+| **2021** | [Bricklayer's Arms](../2021/bricklayers-arms) | 4 | 0 | 26 | 2 |
+| **2020** | [Reigate Pilgrims](../2020/reigate-pilgrims) | 5 | 0 | 31 | 1 |
+| **2019** | [Railway Taverners](../2019/railway-taverners) | 0.1 | 0 | 0 | 1 |
+
 
 **Best Bowling:** 4-0-26-2 v [Bricklayer's Arms](../2021/bricklayers-arms)<br />
 **Athletics:** 0<br />
