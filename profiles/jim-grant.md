@@ -18,7 +18,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 24 | 24 | 3 | 316 | 15.05 |
+| 330 | 330 | 46 | 4549 | 16.02 |
 
 **Highest Score**: 63 v [Old Elthamians](../1986/old-elthamians)<br />
 **Fifties:** 1<br />

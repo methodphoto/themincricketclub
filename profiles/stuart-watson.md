@@ -18,7 +18,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 9 | 9 | 1 | 186 | 23.25 |
+| 11 | 11 | 2 | 282 | 31.33 |
 
 **Highest Score**: 47* v [West Green](../1984/west-green)<br />
 **Fifties:** 0<br />

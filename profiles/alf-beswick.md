@@ -18,7 +18,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 63 | 63 | 7 | 1379 | 24.62 |
+| 68 | 68 | 7 | 1518 | 24.89 |
 
 **Highest Score**: 94 v [Blagdon Hill](../2021/blagdon-hill)<br />
 **Fifties:** 8<br />

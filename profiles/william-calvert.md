@@ -18,7 +18,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 258 | 258 | 30 | 3384 | 14.84 |
+| 289 | 289 | 34 | 3726 | 14.61 |
 
 **Highest Score**: 69* v [Antillies](../1988/antilles)<br />
 **Fifties:** 10<br />

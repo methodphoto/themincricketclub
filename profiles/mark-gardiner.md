@@ -18,7 +18,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 82 | 82 | 19 | 626 | 9.94 |
+| 83 | 83 | 19 | 628 | 9.81 |
 
 **Highest Score**: 52* v [Newdigate](../2010/newdigate)<br />
 **Fifties:** 1<br />

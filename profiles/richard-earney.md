@@ -18,7 +18,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 356 | 356 | 30 | 9312 | 28.56 |
+| 362 | 362 | 30 | 9377 | 28.24 |
 
 **Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
 **Fifties:** 54<br />

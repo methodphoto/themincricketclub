@@ -18,7 +18,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 92 | 92 | 15 | 1598 | 20.75 |
+| 445 | 445 | 68 | 8246 | 21.87 |
 
 **Highest Score**: 93 v [Kilmington and Stourton](../2009/kilmington-and-stourton)<br />
 **Fifties:** 8<br />

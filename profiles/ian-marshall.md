@@ -18,7 +18,7 @@ Debut: [Putney 1989](../1989/putney)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 140 | 140 | 28 | 2404 | 21.46 |
+| 154 | 154 | 30 | 2587 | 20.86 |
 
 **Highest Score**: 108* v [Dowlish Wake](../1992/dowlish-wake)<br />
 **Fifties:** 7<br />
@@ -29,7 +29,7 @@ Debut: [Putney 1989](../1989/putney)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 188 | 1727.2 | 423 | 5170 | 277 | 18.66 | 37.42 |
+| 189 | 1731.2 | 423 | 5190 | 277 | 18.74 | 37.50 |
 
 **Best Bowling:** 13-5-22-6 v [Old Texaconians](../1991/old-texaconians)<br />
 **Athletics:** 9<br />

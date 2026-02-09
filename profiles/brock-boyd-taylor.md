@@ -18,7 +18,7 @@ Debut: [Railway Taverners 2019](../2019/railway-taverners)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 8 | 8 | 1 | 181 | 25.86 |
+| 9 | 9 | 1 | 212 | 26.50 |
 
 **Highest Score**: 66* v [St Anne's Allstars](../2022/st-annes-allstars)<br />
 **Fifties:** 1<br />

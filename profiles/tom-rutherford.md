@@ -18,7 +18,7 @@ Debut: [Britwell Salome 2006](../2006/britwell-salome)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 48 | 48 | 5 | 835 | 19.42 |
+| 60 | 60 | 7 | 1112 | 20.98 |
 
 **Highest Score**: 81 v [Newington](../2011/newington)<br />
 **Fifties:** 5<br />

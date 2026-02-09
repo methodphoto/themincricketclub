@@ -18,7 +18,7 @@ Debut: [ELCCC 2011](../2011/elccc)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 48 | 48 | 4 | 1105 | 25.11 |
+| 49 | 49 | 5 | 1125 | 25.57 |
 
 **Highest Score**: 100* v [Frensham](../2013/frensham)<br />
 **Fifties:** 4<br />

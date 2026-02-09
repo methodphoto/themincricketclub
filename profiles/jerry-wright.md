@@ -18,7 +18,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 173 | 173 | 72 | 893 | 8.84 |
+| 176 | 176 | 73 | 913 | 8.86 |
 
 **Highest Score**: 42 v [Broadway and Horton](../1999/broadway-and-horton)<br />
 **Fifties:** 0<br />

@@ -18,7 +18,7 @@ Debut: [Stowting 2001](../2001/stowting)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 87 | 87 | 7 | 908 | 11.35 |
+| 94 | 94 | 9 | 962 | 11.32 |
 
 **Highest Score**: 64 v [SB Exiles](../2005/sb-exiles)<br />
 **Fifties:** 3<br />

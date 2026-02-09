@@ -18,7 +18,7 @@ Debut: [Godstone 1989](../1989/godstone)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 92 | 92 | 7 | 2074 | 24.40 |
+| 94 | 94 | 7 | 2133 | 24.52 |
 
 **Highest Score**: 117* v [Old Elthamians](../1993/old-elthamians)<br />
 **Fifties:** 16<br />

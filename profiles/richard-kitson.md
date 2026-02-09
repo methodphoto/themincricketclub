@@ -18,7 +18,7 @@ Debut: [Ockley 2000](../2000/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 38 | 38 | 6 | 718 | 22.44 |
+| 39 | 39 | 7 | 729 | 22.78 |
 
 **Highest Score**: 75 v [Horningsham](../2005/horningsham)<br />
 **Fifties:** 4<br />

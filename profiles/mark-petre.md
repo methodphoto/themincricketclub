@@ -18,7 +18,7 @@ Debut: [White Lion 1995](../1995/white-lion)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 25 | 25 | 3 | 383 | 17.41 |
+| 27 | 27 | 3 | 427 | 17.79 |
 
 **Highest Score**: 77 v [Woking and Horsell](../1999/woking-and-horsell)<br />
 **Fifties:** 2<br />

@@ -18,7 +18,7 @@ Debut: [South Nutfield 1988](../1988/south-nutfield)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
-| 23 | 23 | 4 | 340 | 17.89 |
+| 24 | 24 | 4 | 351 | 17.55 |
 
 **Highest Score**: 74 v [Blindley Heath](../1988/blindley-heath)<br />
 **Fifties:** 1<br />
