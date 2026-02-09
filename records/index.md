@@ -18,3 +18,7 @@ has_children: true
 [Club Records](club-records)
 
 [The Jerry Wright Cup](the-jerry-wright-cup)
+
+[Leading Batters - Year by Year](leading-batters-year-by-year)
+
+[Leading Bowlers - Year by Year](leading-bowlers-year-by-year)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Top Batters - Year by Year
+title: Leading Batters - Year by Year
 nav_order: 50
 parent: Records
 ---
