@@ -16,6 +16,7 @@ The player chosen will have at some point in the season put the ball "on the nog
 
 | Year | Player |
 |:---|:---|
+| 2025 |  |
 | 2024 | **Alf Beswick** |
 | 2023 | **Richard Earney** |
 | 2022 | **Alf Beswick** |
@@ -27,8 +28,8 @@ The player chosen will have at some point in the season put the ball "on the nog
 
 ### Highly commended: 
 
- - Anand for match-winning innings v Trinity; 
- - Chris four-four in Ashes and in fact everyone who turned up all season.
+ - Anand for match-winning innings v Trinity Oxley
+ - Chris four-fer in Ashes and in fact everyone who turned up all season.
  - Jim for long-service to glovemanship
  
 ### Main Awards
