@@ -54,7 +54,8 @@ has_children: true
 [Ian Marshall](ian-marshall)<br />
 [Steve Masterson](steve-masterson)<br />
 [Ishmail Matvad](ishmail-matvad)<br />
-[Paul Omahony](paul-omahony)<br />
+[Paul O'Mahony](paul-omahony)<br />
+[Iqbal Miah](iqbal-miah)<br/>
 [Richard Olver](richard-olver)<br />
 [John Packenham-Walsh](john-packenham-walsh)<br />
 [Mark Petre](mark-petre)<br />
