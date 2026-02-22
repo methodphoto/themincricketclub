@@ -12,7 +12,7 @@ parent: 1991 Fixtures
 
 {% include matchDetails %}
 
-[Partnership](/partnerships) of 123 between D Swann and S Hornsby
+[Partnership](../records/partnerships) of 123 between D Swann and S Hornsby
 
 ## {{page.title}} Innings
 

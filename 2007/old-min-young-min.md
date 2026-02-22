@@ -90,22 +90,22 @@ parent: 2007 Fixtures
 
 {% include nextGame %}
 
-<img src="<img src="anniversary-1.jpg" width="100%" alt="Sheltering" />
+<img src="anniversary-1.jpg" width="100%" alt="Sheltering" />
 
-<img src="<img src="anniversary-2.jpg" width="100%" alt="Bes, Mark and Ian" />
+<img src="anniversary-2.jpg" width="100%" alt="Bes, Mark and Ian" />
 
-<img src="<img src="anniversary-3.jpg" width="100%" alt="It's not raining is it?" />
+<img src="anniversary-3.jpg" width="100%" alt="It's not raining is it?" />
 
-<img src="<img src="anniversary-4.jpg" width="100%" alt="Wet" />
+<img src="anniversary-4.jpg" width="100%" alt="Wet" />
 
-<img src="<img src="anniversary-5.jpg" width="100%" alt="Rain" />
+<img src="anniversary-5.jpg" width="100%" alt="Rain" />
 
-<img src="<img src="anniversary-6.jpg" width="100%" alt="Ned and Alan" />
+<img src="anniversary-6.jpg" width="100%" alt="Ned and Alan" />
 
-<img src="<img src="anniversary-7.jpg" width="100%" alt="Ned and Alan" />
+<img src="anniversary-7.jpg" width="100%" alt="Ned and Alan" />
 
-<img src="<img src="anniversary-8.jpg" width="100%" alt="Look it's bright over there!" />
+<img src="anniversary-8.jpg" width="100%" alt="Look it's bright over there!" />
 
-<img src="<img src="anniversary-10.jpg" width="100%" alt="It's over" />
+<img src="anniversary-10.jpg" width="100%" alt="It's over" />
 
-<img src="<img src="anniversary-12.jpg" width="100%" alt="Tea!" />
+<img src="anniversary-12.jpg" width="100%" alt="Tea!" />

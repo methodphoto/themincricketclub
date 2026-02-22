@@ -42,7 +42,7 @@ parent: Results
 ## 2023
 
 |:---|:---|:---|
-| 17/09/2023 | [Hornchurch Athletic](../2023/hornchuch-athletic) | **Won** |
+| 17/09/2023 | [Hornchurch Athletic](../2023/hornchurch-athletic) | **Won** |
 | 10/09/2023 | [Reigate Pilgrims](../2023/reigate-pilgrims) | Drawn |
 | 07/07/2023 | [Railway Taverners](../2023/railway-taverners) | **Won** |
 | 07/07/2023 | [Belhus](../2023/belhus) | **Won** |

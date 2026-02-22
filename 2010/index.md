@@ -43,6 +43,6 @@ parent: 2010s
 | 5th | 14.00 | [SB Exiles](sb-exiles) | [Home](https://goo.gl/maps/UnwyEb5nVKuf4sHe8) |
 | 12th | 13:30 | [Reigate Pilgrims](reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 | 19th | 13:00 | ~~Selling~~ | [Away](https://goo.gl/maps/pV2tb26PncWLNiBm9) |
-| 26th | 12:30 | [Spencer](spencer) | [Away]([Spencer](spencer)) |
+| 26th | 12:30 | [Spencer](spencer) | [Away](https://maps.app.goo.gl/u3B6u5r36UCreXKX7) |
 
 [Next season >](../2011)
