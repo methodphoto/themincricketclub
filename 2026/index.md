@@ -10,6 +10,8 @@ nav_order: 1
 
 ## Notes 
 
+Dead Bats and Cowmen fixtures added
+
 | May |  |  |  |
 |:---|:---|:---|
 |31st<br/>12:30 | Highgate&nbsp;Irregulars | [NW7&nbsp;4HR](https://maps.app.goo.gl/6XtCfCqS717gHoMe6) | ⚪️ |
