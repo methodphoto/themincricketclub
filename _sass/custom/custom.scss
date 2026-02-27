@@ -67,4 +67,130 @@ tbody {
 
 .contact-list li {list-style: none;}
 
+/* Dark mode */
+
+.theme-toggle-wrap {
+  margin-left: auto;
+}
+
+.theme-toggle-button {
+  min-width: 7.5rem;
+  text-align: center;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+html[data-theme="dark"] body,
+html[data-theme="dark"] .main {
+  background-color: #0d1117;
+  color: #e6edf3;
+}
+
+html[data-theme="dark"] .side-bar,
+html[data-theme="dark"] .site-header,
+html[data-theme="dark"] .main-header {
+  background-color: #111827;
+}
+
+html[data-theme="dark"] .side-bar {
+  border-right-color: #1f2937;
+}
+
+html[data-theme="dark"] .site-header,
+html[data-theme="dark"] .main-header,
+html[data-theme="dark"] .site-footer,
+html[data-theme="dark"] hr {
+  border-color: #30363d;
+}
+
+html[data-theme="dark"] .site-title,
+html[data-theme="dark"] .site-footer,
+html[data-theme="dark"] .breadcrumb-nav-list-item,
+html[data-theme="dark"] .nav-list .nav-list-link {
+  color: #d1d5db;
+}
+
+html[data-theme="dark"] .site-title:hover,
+html[data-theme="dark"] .nav-list .nav-list-link:hover {
+  color: #ffffff;
+}
+
+html[data-theme="dark"] a {
+  color: #ff9a9a;
+}
+
+html[data-theme="dark"] a:hover {
+  color: #ffc4c4;
+}
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2 {
+  color: #ff9a9a !important;
+}
+
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6 {
+  color: #f3f4f6;
+}
+
+html[data-theme="dark"] .site-button {
+  background-color: #1f2937;
+  background-image: none;
+  border-color: #374151;
+  color: #e5e7eb;
+}
+
+html[data-theme="dark"] .site-button:hover {
+  background-color: #374151;
+  color: #ffffff;
+}
+
+html[data-theme="dark"] blockquote {
+  border-left-color: #4b5563;
+  color: #cbd5e1;
+}
+
+html[data-theme="dark"] pre,
+html[data-theme="dark"] .highlight {
+  background-color: #161b22;
+  border-color: #30363d;
+  color: #e6edf3;
+}
+
+html[data-theme="dark"] code {
+  background-color: rgba(240, 246, 252, 0.12);
+}
+
+html[data-theme="dark"] th,
+html[data-theme="dark"] td {
+  background-color: #161b22;
+  border-bottom-color: #30363d;
+  border-left-color: #30363d;
+  color: #e6edf3;
+}
+
+html[data-theme="dark"] tr:nth-child(2n) td {
+  background-color: #111827;
+}
+
+html[data-theme="dark"] input,
+html[data-theme="dark"] select,
+html[data-theme="dark"] textarea,
+html[data-theme="dark"] #card-element {
+  background-color: #111827;
+  border-color: #374151;
+  color: #e6edf3;
+}
+
+html[data-theme="dark"] input:focus,
+html[data-theme="dark"] select:focus,
+html[data-theme="dark"] textarea:focus {
+  background-color: #161b22;
+  outline-color: #6b7280;
+}
+
 @import url("/form.css")

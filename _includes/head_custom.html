@@ -1,1 +1,77 @@
 <link rel="shortcut icon" type="image/png" href="/just-the-docs/path/to/your/favicon.png">
+<script>
+  (function () {
+    var storageKey = "mincc-theme";
+    var doc = document.documentElement;
+
+    function getSystemTheme() {
+      return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    }
+
+    function getStoredTheme() {
+      try {
+        var value = localStorage.getItem(storageKey);
+        return value === "dark" || value === "light" ? value : null;
+      } catch (error) {
+        return null;
+      }
+    }
+
+    function applyTheme(theme) {
+      doc.setAttribute("data-theme", theme);
+      doc.style.colorScheme = theme;
+    }
+
+    applyTheme(getStoredTheme() || getSystemTheme());
+
+    window.minccTheme = {
+      storageKey: storageKey,
+      applyTheme: applyTheme,
+      getStoredTheme: getStoredTheme,
+      getSystemTheme: getSystemTheme
+    };
+  })();
+</script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var toggle = document.getElementById("theme-toggle");
+    var themeApi = window.minccTheme;
+    if (!toggle || !themeApi) {
+      return;
+    }
+
+    var mq = window.matchMedia("(prefers-color-scheme: dark)");
+
+    function currentTheme() {
+      return document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
+    }
+
+    function updateToggle(theme) {
+      var nextTheme = theme === "dark" ? "light" : "dark";
+      toggle.textContent = nextTheme === "dark" ? "Dark mode" : "Light mode";
+      toggle.setAttribute("aria-label", "Switch to " + nextTheme + " mode");
+    }
+
+    toggle.addEventListener("click", function () {
+      var nextTheme = currentTheme() === "dark" ? "light" : "dark";
+      themeApi.applyTheme(nextTheme);
+      try {
+        localStorage.setItem(themeApi.storageKey, nextTheme);
+      } catch (error) {}
+      updateToggle(nextTheme);
+    });
+
+    if (mq.addEventListener) {
+      mq.addEventListener("change", function () {
+        if (themeApi.getStoredTheme()) {
+          return;
+        }
+        var theme = themeApi.getSystemTheme();
+        themeApi.applyTheme(theme);
+        updateToggle(theme);
+      });
+    }
+
+    updateToggle(currentTheme());
+  });
+</script>
