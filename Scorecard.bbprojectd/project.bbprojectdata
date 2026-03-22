@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>29DB0C15-8716-408F-B06D-725C450E775F</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>29DB0C15-8716-408F-B06D-725C450E775F</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va/gCAAAAAAUQQAAAANqc80UZs/YdruJ4PM0KNwbH
+				CyzOfA9N/4jxrS1qAI3uAAAAAAAAAAAAAAAAAAAAAOQB
+				AAAEAAAAAwMAAAAIACgFAAAAAQEAAFVzZXJzAAAABwAA
+				AAEBAAByaWNoYXJkAAUAAAABAQAAU2l0ZXMAAAARAAAA
+				AQEAAHRoZW1pbmNyaWNrZXRjbHViAAAADwAAAAEBAABT
+				Y29yZWNhcmRNYWNBcHAAFAAAAAEGAAAQAAAAIAAAADAA
+				AABAAAAAXAAAAAgAAAAEAwAAHUIAAAAAAAAIAAAABAMA
+				AIIVBAAAAAAACAAAAAQDAACrHxIAAAAAAAgAAAAEAwAA
+				ykYSAAAAAAAIAAAABAMAANyAezsAAAAAFAAAAAEGAACQ
+				AAAAoAAAALAAAADAAAAA0AAAAAgAAAAABAAAQcepE4fI
+				/mMYAAAAAQIAAAIAAAAAAAAADwAAAAAAAAAAAAAAAAAA
+				AAgAAAAEAwAAAwAAAAAAAAAEAAAAAwMAAPUBAAAIAAAA
+				AQkAAGZpbGU6Ly8vAwAAAAEBAABPcnIACAAAAAQDAAAA
+				QMp3ogMAAAgAAAAABAAAQceXkgsAAAAkAAAAAQEAADQ4
+				QjY4NzMyLUZERTgtNDZDRi1CODA2LTUwOUY4MjE0MDM5
+				QRgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAA
+				AQAAAAEBAAAvAAAAAAAAAAEFAADMAAAA/v///wEAAAAA
+				AAAAEAAAAAQQAAB0AAAAAAAAAAUQAADgAAAAAAAAABAQ
+				AAAMAQAAAAAAAEAQAAD8AAAAAAAAAAIgAADQAQAAAAAA
+				AAUgAABIAQAAAAAAABAgAABYAQAAAAAAABEgAACEAQAA
+				AAAAABIgAABkAQAAAAAAABMgAAB0AQAAAAAAACAgAACw
+				AQAAAAAAADAgAADcAQAAAAAAAAHAAAAsAQAAAAAAABHA
+				AAAgAAAAAAAAABLAAAA8AQAAAAAAABDQAAAEAAAAAAAA
+				AA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/richard/Sites/themincricketclub/ScorecardMacApp/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./ScorecardMacApp</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>ScorecardMacApp</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>
