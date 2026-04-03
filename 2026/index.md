@@ -12,13 +12,15 @@ nav_order: 1
 
 Dead Bats and Cowmen fixtures added
 
+Dead Bats fixture changed to 25th May
+
 | May |  |  |  |
 |:---|:---|:---|
-|17th<br/>13:00 | The Mighty Wanderers| [SW18&nbsp;2SL](https://maps.app.goo.gl/QTzMLYBkNvDx5LwG7) | ⚪️ |
-|31st<br/>12:30 | Highgate&nbsp;Irregulars | [NW7&nbsp;4HR](https://maps.app.goo.gl/6XtCfCqS717gHoMe6) | ⚪️ |
+| 17th<br/>13:00 | The Mighty Wanderers| [SW18&nbsp;2SL](https://maps.app.goo.gl/QTzMLYBkNvDx5LwG7) | ⚪️ |
+| 31st<br/>12:30 | Highgate&nbsp;Irregulars | [NW7&nbsp;4HR](https://maps.app.goo.gl/6XtCfCqS717gHoMe6) | ⚪️ |
+| 25th<br/>13:00 | Dead Bats | [TBA] | ⚪️ |
 | Jun |  |  |  |
 |:---|:---|:---|
-| 7th<br/>13:00 | Dead Bats | [TBA] | ⚪️ |
 | 28th<br/>13:00 | Middleton&nbsp;Stoney | [OX25&&nbsp;4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
 | Jul – Tour |  |  |  |
 | 16th<br/>14:00 | Blagdon&nbsp;Hill | [TA3&nbsp;7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
