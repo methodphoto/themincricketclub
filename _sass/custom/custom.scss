@@ -149,6 +149,12 @@ html[data-theme="dark"] .site-button:hover {
   color: #ffffff;
 }
 
+html[data-theme="dark"] #menu-button,
+html[data-theme="dark"] #menu-button:hover,
+html[data-theme="dark"] #menu-button .icon {
+  color: #ffffff;
+}
+
 html[data-theme="dark"] blockquote {
   border-left-color: #4b5563;
   color: #cbd5e1;
