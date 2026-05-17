@@ -200,7 +200,6 @@ html[data-theme="dark"] textarea:focus {
 }
 
 /* Dark mode mobile menu - solid highlight instead of gradient, white chevrons */
-@media (max-width: 50rem) {
   html[data-theme="dark"] .nav-list-link:hover,
   html[data-theme="dark"] .nav-list-link.active,
   html[data-theme="dark"] .nav-list-expander:hover,
@@ -208,7 +207,6 @@ html[data-theme="dark"] textarea:focus {
     background-image: none !important;
     background-color: #333 !important;
   }
-}
 
 html[data-theme="dark"] .nav-list-expander svg,
 html[data-theme="dark"] .nav-list-expander .icon {
