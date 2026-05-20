@@ -5,7 +5,7 @@ homeTeam: The Mighty Wanderers
 awayTeam: The Min
 location: Wandsworth Common
 date: 17/05/2026
-report:  The Mighty Wanderers batted first and made 118 all out in 32 overs. The Min replied with 123 for 3 wkt in 11.2 overs.
+report:  The Min won the toss and inserted The Mighty Wanderers who made 118 all out in 32 overs. The Min replied with 123 for 3 wkt in 11.2 overs.
 result: The Min won by 7 wkts
 next: 
 parent: 2026 Fixtures
