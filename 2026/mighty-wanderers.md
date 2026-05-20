@@ -13,8 +13,7 @@ parent: 2026 Fixtures
 
 {% include newMatchDetails %}
 
-A Beswick's 18th 50.<br/>
-[Partnership](../records/partnerships#100-partnerships-by-total) of 130 between M Griffiths and A Beswick.
+A Beswick's 20th 50.<br/>
 
 ## {{page.homeTeam}} Innings
 
