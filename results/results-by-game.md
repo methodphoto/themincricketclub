@@ -7,6 +7,11 @@ parent: Results
 
 # {{page.title}}
 
+## 2026
+
+|:---|:---|:---|
+| 17/05/2026 | [The Mighty Wanderers](../2026/the-mighty-wanderers) | **Won** |
+
 ## 2025
 
 |:---|:---|:---|
