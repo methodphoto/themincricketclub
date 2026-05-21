@@ -21,7 +21,7 @@ A Beswick's 20th 50.<br/>
 |:---|:---|---|---:|
 | **D Heafield** | c A Gallagher | C Wright | 5 |
 | **J Petersen-Knight** | c & b | P Wigg | 10 |
-| **T Rigby** | c sub (Frank) | P Wigg | 13 |
+| **T Rigby** | c sub (F Malby) | P Wigg | 13 |
 | **G Radonich** | st W Calvert | C Wright | 22 |
 | **S Hariharan** | lbw | C Wright | 17 |
 | **J Charlton** | b | R Beswick | 20|
