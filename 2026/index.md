@@ -16,7 +16,7 @@ Dead Bats fixture changed to 25th May
 
 | May |  |  |  |
 |:---|:---|:---|
-| 17th<br/>13:00 | The Mighty Wanderers| [SW18&nbsp;2SL](https://maps.app.goo.gl/QTzMLYBkNvDx5LwG7) | ⚪️ |
+| 17th<br/>13:00 | [Thenbsp;Mightynbsp;Wanderers]|(the-mighty-wanderers) [SW18&nbsp;2SL](https://maps.app.goo.gl/QTzMLYBkNvDx5LwG7) | ⚪️ |
 | 25th<br/>13:00 | Dead&nbsp;Bats | [N14&nbsp;7JZ](https://maps.app.goo.gl/p3p7Yr6ptt418JPt9) | ⚪️ |
 | 31st<br/>12:30 | Highgate&nbsp;Irregulars | [NW7&nbsp;4HR](https://maps.app.goo.gl/6XtCfCqS717gHoMe6) | ⚪️ |
 | Jun |  |  |  |
