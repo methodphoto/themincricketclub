@@ -44,11 +44,11 @@ A Beswick's 20th 50.<br/>
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **P Wigg** | 7 | 1 | - | 2 |
-| **Y Khan** | 7 | 2 | - | 0 |
-| **C Wright** | 7 | 0 | - | 3 |
-| **J Casey** | 7 | 0 | - | 0 |
-| **R Beswick** | 4 | 0 | - | 4 |
+| **P Wigg** | 7 | 1 | 22 | 2 |
+| **Y Khan** | 7 | 2 | 14 | 0 |
+| **C Wright** | 7 | 0 | 24 | 3 |
+| **J Casey** | 7 | 0 | 40 | 0 |
+| **R Beswick** | 4 | 0 | 9 | 4 |
 
 ## {{page.awayTeam}} Innings
 
