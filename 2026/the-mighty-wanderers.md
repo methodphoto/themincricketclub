@@ -13,7 +13,7 @@ parent: 2026 Fixtures
 
 {% include newMatchDetails %}
 
-A Beswick's 20th 50.<br/>
+A Beswick's 20th 50, scored of 23 balls – fastests since we bagan recording balls.<br/>
 
 ## {{page.homeTeam}} Innings
 
