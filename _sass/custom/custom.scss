@@ -199,7 +199,7 @@ html[data-theme="dark"] textarea:focus {
   outline-color: #6b7280;
 }
 
-  html[data-theme="dark"] .nav-list-item,html[data-theme="dark"] .nav-list-item a  {color: #eee;}
+  html[data-theme="dark"] .nav-list-item,html[data-theme="dark"] .nav-list-link  {color: #eee !important;}
 
 /* Dark mode mobile menu - solid highlight instead of gradient, white chevrons */
   html[data-theme="dark"] .nav-list-link:hover,
