@@ -16,12 +16,12 @@ Dead Bats fixture changed to 25th May
 
 | May |  |  |  |
 |:---|:---|:---|
-| 17th<br/>13:00 | [Thenbsp;Mightynbsp;Wanderers](the-mighty-wanderers) [SW18&nbsp;2SL](https://maps.app.goo.gl/QTzMLYBkNvDx5LwG7) | ⚪️ |
+| 17th<br/>13:00 | [The&nbsp;Mighty&nbsp;Wanderers](the-mighty-wanderers) [SW18&nbsp;2SL](https://maps.app.goo.gl/QTzMLYBkNvDx5LwG7) | ⚪️ |
 | 25th<br/>13:00 | Dead&nbsp;Bats | [N14&nbsp;7JZ](https://maps.app.goo.gl/p3p7Yr6ptt418JPt9) | ⚪️ |
 | 31st<br/>12:30 | Highgate&nbsp;Irregulars | [NW7&nbsp;4HR](https://maps.app.goo.gl/6XtCfCqS717gHoMe6) | ⚪️ |
 | Jun |  |  |  |
 |:---|:---|:---|
-| 28th<br/>13:00 | Middleton&nbsp;Stoney | [OX25&&nbsp;4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
+| 28th<br/>13:00 | Middleton&nbsp;Stoney | [OX25&nbsp;4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
 | Jul – Tour |  |  |  |
 | 16th<br/>14:00 | Blagdon&nbsp;Hill | [TA3&nbsp;7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
 | 17th<br/>13:00 | Broadway&nbsp;and&nbsp;Horton | [TA19&nbsp;9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
