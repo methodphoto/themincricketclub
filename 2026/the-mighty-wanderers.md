@@ -26,7 +26,7 @@ A Beswick's 20th 50, scored of 23 balls – fastests since we bagan recording ba
 | **S Hariharan** | lbw | C Wright | 17 |
 | **J Charlton** | b | R Beswick | 20|
 | **S Wildy** | c W Calvert | R Beswick | 7 |
-| **S Tjasink** | run out Yusuf/W Calvert | 1 |
+| **S Tjasink** | run out (Yusuf/W Calvert) | 1 |
 | **A Charlton** c J Stacey | R Beswick | 0 |
 | **T Taylor** | not out | | 6 |
 | **N Charlton** | c B Boyd-Taylor | R Beswick | 0 |
