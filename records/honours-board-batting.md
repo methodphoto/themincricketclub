@@ -260,7 +260,7 @@ parent: Records
 | **1998** | R Earney | [Broadway and Horton](../1998/broadway-and-horton) | **67&#42;** |
 | **1998** | R Beswick | [Players and Jesters](../1998/players-and-jesters) | **52** |
 | **1998** | R Beswick | [Ipswich and East Suffolk](../1998/ipswich-and-east-suffolk) | **52** |
-| **1998** | J Hylton | [reigate-pilgrims](../1998/reigate-pilgrims) | **59&#42;** |
+| **1998** | J Hylton | [Reigate Pilgrims](../1998/reigate-pilgrims) | **59&#42;** |
 | **1998** | A Roker | [Ipswich and East Suffolk](../1998/ipswich-and-east-suffolk) | **71** |
 | **1997** | S Hornsby | [Tappers](../1997/tappers) | **50&#42;** |
 | **1997** | S Barrowcliff | [Stowting](../1997/stowting) | **55** |
@@ -270,7 +270,7 @@ parent: Records
 | **1996** | S Barrowcliff | [Stonor](../1996/stonor) | **53** |
 | **1996** | R Earney | [Wickford](../1996/wickford) | **57** |
 | **1996** | R Earney | [Captain Scott](../1996/captain-scott) | **54** |
-| **1996** | P Bentley | [valley-end](../1996/valley-end) | **76&#42;** |
+| **1996** | P Bentley | [Valley End](../1996/valley-end) | **76&#42;** |
 | **1996** | P Bentley | [Great Braxted](../1996/great-braxted) | **89** |
 | **1996** | J Hylton | [Erratics](../1996/erratics) | **96** |
 | **1996** | J Grant | [Stowting](../1996/stowting) | **73&#42;** |
