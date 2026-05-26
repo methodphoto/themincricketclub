@@ -137,6 +137,12 @@ html[data-theme="dark"] h6 {
   color: #f3f4f6;
 }
 
+html[data-theme="dark"] #main-header, .main-header {background-color: none;}
+
+html[data-theme="dark"] .nav-list-item:hover {background-color: #111827;}
+
+html[data-theme="dark"] .nav-list-link {color: #ddd;}
+
 html[data-theme="dark"] .site-button {
   background-color: #1f2937;
   background-image: none;
