@@ -277,7 +277,6 @@ parent: Records
 | **1996** | J Grant | [Great Tew](../1996/great-tew) | **73** |
 | **1996** | I Marshall | [Stowting](../1996/stowting) | **52** |
 | **1996** | D Swann | [Great Tew](../1996/great-tew) | **69** |
-| **1996** | D Garland | [Broadway and Horton](../1996/broadway-and-horton) | **55** |
 | **1996** | B Jones | [Watton-at-Stone](../1996/watton-at-stone) | **55** |
 | **1995** | W Wright | [Old Elthamians](../1995/old-elthamians) | **91** |
 | **1995** | S Barrowcliff | [Farnborough](../1995/farnborough) | **77** |
