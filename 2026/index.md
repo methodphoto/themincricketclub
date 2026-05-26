@@ -25,7 +25,7 @@ Dead Bats fixture changed to 25th May
 | Jul – Tour |  |  |  |
 | 16th<br/>14:00 | Blagdon&nbsp;Hill | [TA3&nbsp;7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
 | 17th<br/>13:00 | Broadway&nbsp;and&nbsp;Horton | [TA19&nbsp;9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
-| 18th<br/>13:00 | Easton&nbsp;Cowfolk&nbsp;CC | [TBA] | ⚪️ |
+| 18th<br/>13:00 | Easton&nbsp;Cowfolk&nbsp;CC | [BS8&nbsp;3EZ](https://maps.app.goo.gl/UfgqN3PS12hViy336?g_st=ic) | ⚪️ |
 | Aug |  |  |  |
 |:---|:---|:---|
 | 16th<br/>13:00 | St&nbsp;Anne's&nbsp;Allstars | [N22&nbsp;7AX](https://maps.app.goo.gl/wuhYQfawQnkMXxeY9) | ⚪️ |
