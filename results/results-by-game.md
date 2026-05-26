@@ -10,6 +10,7 @@ parent: Results
 ## 2026
 
 |:---|:---|:---|
+| 25/05/2026 | [Dead Bats](../2026/dead-bats) | **Won** |
 | 17/05/2026 | [The Mighty Wanderers](../2026/the-mighty-wanderers) | **Won** |
 
 ## 2025

@@ -44,7 +44,8 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
-| **2026** | A Beswick | [The Mighty Wanderers](../2025/reigate-pilgrims) | **52&#42;** |
+| **2026** | A Beswick | [Dead Bats](../2026/dead-bats) | **85** |
+| **2026** | A Beswick | [The Mighty Wanderers](../2026/the-mighty-wanderers) | **52&#42;** |
 | **2025** | A Beswick | [Reigate Pilgrims](../2025/reigate-pilgrims) | **52&#42;** |
 | **2025** | M Rogers | [Railway Taverners](../2025/railway-taverners) | **74&#42;** |
 | **2025** | I Ali | [Railway Taverners](../2025/railway-taverners) | **53** |
@@ -401,10 +402,10 @@ parent: Records
 |:---|---:|
 | **R Earney** | 56 |
 | **R Beswick** | 37 |
+| **A Beswick** | 21 |
 | **S Hornsby** | 19 |
 | **S Barrowcliff** | 18 |
 | **J Grant** | 16 |
-| **A Beswick** | 14 |
 | **A Gallagher** | 12 |
 | **M Gupta** | 11 |
 | **W Calvert** | 10 |

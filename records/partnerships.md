@@ -46,6 +46,7 @@ parent: Records
 
 | Year | Position | Batsman and Score | Opponent | Partnership |
 |:---|:---|:---|:---|
+| **2026** | 3rd wkt | A Beswick (85) and J Stacey (46) | [Dead Bats](../2026/dead-bats) | **140** |
 | **2025** | 7th wkt | M Rogers (74&#42;) and I Ali (53) | [Railway Taverners](../2025/railway-taverners) | **103** |
 | **2025** | 1st wkt | M Griffiths (96&#42;) and A Beswick (66) | [Broadway and Horton](../2025/broadway-and-horton) | **130** |
 | **2024** | 7th wkt | K Singh (45) and D Padala (100) | [Reigate Pilgrims](../2024/reigate-pilgrims) | **147** |
