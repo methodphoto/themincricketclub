@@ -31,7 +31,7 @@
 {%- for node in first_level_pages -%}
   <li class="nav-list-item">
     {%- if node.has_children -%}
-    <button class="nav-list-expander btn-reset" aria-label="toggle items in {{ node.title }} category" aria-pressed="false">
+    <button class="nav-list-expander btn-reset" aria-label="toggle items in {{ node.title }} category" aria-expanded="false">
       <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
     </button>
     {%- endif -%}
@@ -46,7 +46,7 @@
       {%- for child in children_list -%}
         <li class="nav-list-item">
           {%- if child.has_children -%}
-          <button class="nav-list-expander btn-reset" aria-label="toggle items in {{ child.title }} category" aria-pressed="false">
+          <button class="nav-list-expander btn-reset" aria-label="toggle items in {{ child.title }} category" aria-expanded="false">
             <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
           </button>
           {%- endif -%}
@@ -72,11 +72,4 @@
     {%- endif -%}
   </li>
 {%- endfor -%}
-</ul>
-<ul>
-  {% for page in site.pages %}
-    {% unless page.menu == false %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-    {% endunless %}
-  {% endfor %}
 </ul>

@@ -1,12 +1,12 @@
 title: "The Min CC"
-remote_theme: just-the-docs/just-the-docs@v0.6.0
-color_scheme: "light"
+remote_theme: just-the-docs/just-the-docs@v0.12.0
 color_scheme: wider
 search_enabled: false
 email: richard@method.co.uk
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://min.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 heading_anchors: false
+footer_content: "© Min Cricket Club 2010–2026"
 aux_links:
   "Payments":
     - "/payments/"

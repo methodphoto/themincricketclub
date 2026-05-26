@@ -6,7 +6,7 @@ awayTeam: The Min
 location: The Walker Ground, Southgate
 date: 25/05/2026
 report: Dead Bats won the toss and inserted The Min who made 235 for 7 wkts in 35 overs. Dead Bats replied with 189 all out in 31.4 overs.
-result: The Min won by 43 runs wkts
+result: The Min won by 43 runs
 next: 
 parent: 2026 Fixtures
 ---
