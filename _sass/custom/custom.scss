@@ -127,7 +127,7 @@ html[data-theme="dark"] a:hover {
 
 html[data-theme="dark"] h1,
 html[data-theme="dark"] h2 {
-  color: #ff4d73;
+  color: #ff4d73 !important;
 }
 
 html[data-theme="dark"] h3,
@@ -139,9 +139,9 @@ html[data-theme="dark"] h6 {
 
 html[data-theme="dark"] #main-header, .main-header {background-color: none;}
 
-html[data-theme="dark"] .nav-list-item:hover {background-color: #111827;}
+html[data-theme="dark"] .nav-list-item:hover {background-color: #111827 !important;}
 
-html[data-theme="dark"] .nav-list-link {color: #ddd;}
+html[data-theme="dark"] .nav-list-link {color: #ddd !important;}
 
 html[data-theme="dark"] .site-button {
   background-color: #1f2937;
