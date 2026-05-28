@@ -212,13 +212,14 @@ html[data-theme="dark"] textarea:focus {
 
   html[data-theme="dark"] .nav-list-item,html[data-theme="dark"] .nav-list-link  {color: #eee;}
 
-/* Dark mode mobile menu - solid highlight instead of gradient, white chevrons */
+/* Dark mode nav - replace white gradient with solid #333 on hover/active */
   html[data-theme="dark"] .nav-list-link:hover,
   html[data-theme="dark"] .nav-list-link.active,
+  html[data-theme="dark"] .nav-list-item.active > .nav-list-link,
   html[data-theme="dark"] .nav-list-expander:hover,
   html[data-theme="dark"] .nav-list-expander:focus {
-    background-image: none;
-    background-color: #333;
+    background-image: none !important;
+    background-color: #333 !important;
   }
 
 html[data-theme="dark"] .nav-list-expander svg,
