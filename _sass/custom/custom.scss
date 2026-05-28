@@ -98,7 +98,9 @@ html[data-theme="dark"] .site-header {
   background-color: #111827;
 }
 
-html[data-theme="dark"] .main-header {
+html[data-theme="dark"] .main-header,
+html[data-theme="dark"] .search-input-wrap,
+html[data-theme="dark"] .search {
   background-color: #0d1117;
 }
 
@@ -208,8 +210,9 @@ html[data-theme="dark"] textarea:focus {
 /* Dark mode nav */
 
 html[data-theme="dark"] .nav-list-item,
-html[data-theme="dark"] .nav-list-link {
-  color: #ddd;
+html[data-theme="dark"] .nav-list-link,
+html[data-theme="dark"] .nav-list-link:visited {
+  color: #ddd !important;
 }
 
 html[data-theme="dark"] .nav-list-link:hover,
@@ -219,6 +222,7 @@ html[data-theme="dark"] .nav-list-expander:hover,
 html[data-theme="dark"] .nav-list-expander:focus {
   background-image: none !important;
   background-color: #333 !important;
+  color: #ffffff !important;
 }
 
 html[data-theme="dark"] .nav-list-expander svg,
