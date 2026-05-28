@@ -125,6 +125,10 @@ html[data-theme="dark"] a:hover {
   color: #ffc4c4;
 }
 
+html[data-theme="dark"] theme-toggle-wrap {
+	background-color: #0e1116 !important;
+}
+
 html[data-theme="dark"] h1,
 html[data-theme="dark"] h2 {
   color: #ff4d73 !important;
