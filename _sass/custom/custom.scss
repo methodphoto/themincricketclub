@@ -1,37 +1,33 @@
-/* Default colour for links to Temple Red */
-
-$purple-000: #b30000;
-$purple-100: #990000;
-$purple-200: #800000;
 $purple-300: #660000;
-
 $link-color: $purple-300;
 
-#1982-fixtures td:nth-child(1), #1982-fixtures table td:nth-child(2),#1982-fixtures table td:nth-child(4), #1982-fixtures th:nth-child(1), #1982-fixtures th:nth-child(1), #1982-fixtures th:nth-child(2), #1982-fixtures th:nth-child(4),{
-	width: 15%;
+/* 1982 Fixtures table column widths */
+#1982-fixtures td:nth-child(1),
+#1982-fixtures table td:nth-child(2),
+#1982-fixtures table td:nth-child(4),
+#1982-fixtures th:nth-child(1),
+#1982-fixtures th:nth-child(2),
+#1982-fixtures th:nth-child(4) {
+  width: 15%;
 }
 
-/* Slightly tighter spacing on table cell padding */
+.table-wrapper td,
+li {
+  font-size: 105%;
+}
 
-.table-wrapper td, li {font-size: 105%;}
-
-.caption {font-size: 90%;}
+.caption {
+  font-size: 90%;
+}
 
 a {
-	text-decoration-skip-ink: auto;
-	transition-duration: 0.3s;}
-
-.markdown-body table { table-layout: auto; }
-	
-th, td {
-    min-width: 5.5rem;
- }
-
-.contact-list {
-	list-style: none;
+  text-decoration-skip-ink: auto;
+  transition-duration: 0.3s;
 }
 
-site-footer h-card.wrapper, footer-col {width: 50%;}
+.markdown-body table {
+  table-layout: auto;
+}
 
 th,
 td {
@@ -65,13 +61,16 @@ tbody {
   }
 }
 
-.contact-list li {list-style: none;}
+.contact-list {
+  list-style: none;
+}
 
-h1, h2 {
+h1,
+h2 {
   color: $purple-300 !important;
 }
 
-/* Dark mode */
+/* Theme toggle */
 
 .theme-toggle-wrap {
   margin-left: auto;
@@ -81,6 +80,8 @@ h1, h2 {
   min-width: 7.5rem;
   text-align: center;
 }
+
+/* Dark mode */
 
 html[data-theme="dark"] {
   color-scheme: dark;
@@ -114,13 +115,11 @@ html[data-theme="dark"] hr {
 
 html[data-theme="dark"] .site-title,
 html[data-theme="dark"] .site-footer,
-html[data-theme="dark"] .breadcrumb-nav-list-item,
-html[data-theme="dark"] .nav-list .nav-list-link {
+html[data-theme="dark"] .breadcrumb-nav-list-item {
   color: #d1d5db;
 }
 
-html[data-theme="dark"] .site-title:hover,
-html[data-theme="dark"] .nav-list .nav-list-link:hover {
+html[data-theme="dark"] .site-title:hover {
   color: #ffffff;
 }
 
@@ -143,10 +142,6 @@ html[data-theme="dark"] h5,
 html[data-theme="dark"] h6 {
   color: #f3f4f6;
 }
-
-html[data-theme="dark"] .nav-list-item:hover {background-color: #111827 !important;}
-
-html[data-theme="dark"] .nav-list-link {color: #ddd !important;}
 
 html[data-theme="dark"] .site-button {
   background-color: #1f2937;
@@ -210,17 +205,21 @@ html[data-theme="dark"] textarea:focus {
   outline-color: #6b7280;
 }
 
-  html[data-theme="dark"] .nav-list-item,html[data-theme="dark"] .nav-list-link  {color: #eee;}
+/* Dark mode nav */
 
-/* Dark mode nav - replace white gradient with solid #333 on hover/active */
-  html[data-theme="dark"] .nav-list-link:hover,
-  html[data-theme="dark"] .nav-list-link.active,
-  html[data-theme="dark"] .nav-list-item.active > .nav-list-link,
-  html[data-theme="dark"] .nav-list-expander:hover,
-  html[data-theme="dark"] .nav-list-expander:focus {
-    background-image: none !important;
-    background-color: #333 !important;
-  }
+html[data-theme="dark"] .nav-list-item,
+html[data-theme="dark"] .nav-list-link {
+  color: #ddd;
+}
+
+html[data-theme="dark"] .nav-list-link:hover,
+html[data-theme="dark"] .nav-list-link.active,
+html[data-theme="dark"] .nav-list-item.active > .nav-list-link,
+html[data-theme="dark"] .nav-list-expander:hover,
+html[data-theme="dark"] .nav-list-expander:focus {
+  background-image: none !important;
+  background-color: #333 !important;
+}
 
 html[data-theme="dark"] .nav-list-expander svg,
 html[data-theme="dark"] .nav-list-expander .icon {
