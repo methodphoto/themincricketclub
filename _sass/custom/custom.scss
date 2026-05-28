@@ -1,37 +1,33 @@
-/* Default colour for links to Temple Red */
-
-$purple-000: #b30000;
-$purple-100: #990000;
-$purple-200: #800000;
 $purple-300: #660000;
-
 $link-color: $purple-300;
 
-#1982-fixtures td:nth-child(1), #1982-fixtures table td:nth-child(2),#1982-fixtures table td:nth-child(4), #1982-fixtures th:nth-child(1), #1982-fixtures th:nth-child(1), #1982-fixtures th:nth-child(2), #1982-fixtures th:nth-child(4),{
-	width: 15%;
+/* 1982 Fixtures table column widths */
+#1982-fixtures td:nth-child(1),
+#1982-fixtures table td:nth-child(2),
+#1982-fixtures table td:nth-child(4),
+#1982-fixtures th:nth-child(1),
+#1982-fixtures th:nth-child(2),
+#1982-fixtures th:nth-child(4) {
+  width: 15%;
 }
 
-/* Slightly tighter spacing on table cell padding */
+.table-wrapper td,
+li {
+  font-size: 105%;
+}
 
-.table-wrapper td, li {font-size: 105%;}
-
-.caption {font-size: 90%;}
+.caption {
+  font-size: 90%;
+}
 
 a {
-	text-decoration-skip-ink: auto;
-	transition-duration: 0.3s;}
-
-.markdown-body table { table-layout: auto; }
-	
-th, td {
-    min-width: 5.5rem;
- }
-
-.contact-list {
-	list-style: none;
+  text-decoration-skip-ink: auto;
+  transition-duration: 0.3s;
 }
 
-site-footer h-card.wrapper, footer-col {width: 50%;}
+.markdown-body table {
+  table-layout: auto;
+}
 
 th,
 td {
@@ -65,9 +61,16 @@ tbody {
   }
 }
 
-.contact-list li {list-style: none;}
+.contact-list {
+  list-style: none;
+}
 
-/* Dark mode */
+h1,
+h2 {
+  color: $purple-300 !important;
+}
+
+/* Theme toggle */
 
 .theme-toggle-wrap {
   margin-left: auto;
@@ -77,6 +80,8 @@ tbody {
   min-width: 7.5rem;
   text-align: center;
 }
+
+/* Dark mode */
 
 html[data-theme="dark"] {
   color-scheme: dark;
@@ -89,9 +94,14 @@ html[data-theme="dark"] .main {
 }
 
 html[data-theme="dark"] .side-bar,
-html[data-theme="dark"] .site-header,
-html[data-theme="dark"] .main-header {
+html[data-theme="dark"] .site-header {
   background-color: #111827;
+}
+
+html[data-theme="dark"] .main-header,
+html[data-theme="dark"] .search-input-wrap,
+html[data-theme="dark"] .search {
+  background-color: #0d1117;
 }
 
 html[data-theme="dark"] .side-bar {
@@ -107,13 +117,11 @@ html[data-theme="dark"] hr {
 
 html[data-theme="dark"] .site-title,
 html[data-theme="dark"] .site-footer,
-html[data-theme="dark"] .breadcrumb-nav-list-item,
-html[data-theme="dark"] .nav-list .nav-list-link {
+html[data-theme="dark"] .breadcrumb-nav-list-item {
   color: #d1d5db;
 }
 
-html[data-theme="dark"] .site-title:hover,
-html[data-theme="dark"] .nav-list .nav-list-link:hover {
+html[data-theme="dark"] .site-title:hover {
   color: #ffffff;
 }
 
@@ -140,12 +148,6 @@ html[data-theme="dark"] h5,
 html[data-theme="dark"] h6 {
   color: #f3f4f6;
 }
-
-html[data-theme="dark"] #main-header, .main-header {background-color: none;}
-
-html[data-theme="dark"] .nav-list-item:hover {background-color: #111827 !important;}
-
-html[data-theme="dark"] .nav-list-link {color: #ddd !important;}
 
 html[data-theme="dark"] .site-button {
   background-color: #1f2937;
@@ -209,16 +211,23 @@ html[data-theme="dark"] textarea:focus {
   outline-color: #6b7280;
 }
 
-  html[data-theme="dark"] .nav-list-item,html[data-theme="dark"] .nav-list-link  {color: #eee;}
+/* Dark mode nav */
 
-/* Dark mode mobile menu - solid highlight instead of gradient, white chevrons */
-  html[data-theme="dark"] .nav-list-link:hover,
-  html[data-theme="dark"] .nav-list-link.active,
-  html[data-theme="dark"] .nav-list-expander:hover,
-  html[data-theme="dark"] .nav-list-expander:focus {
-    background-image: none;
-    background-color: #333;
-  }
+html[data-theme="dark"] .nav-list-item,
+html[data-theme="dark"] .nav-list-link,
+html[data-theme="dark"] .nav-list-link:visited {
+  color: #ddd !important;
+}
+
+html[data-theme="dark"] .nav-list-link:hover,
+html[data-theme="dark"] .nav-list-link.active,
+html[data-theme="dark"] .nav-list-item.active > .nav-list-link,
+html[data-theme="dark"] .nav-list-expander:hover,
+html[data-theme="dark"] .nav-list-expander:focus {
+  background-image: none !important;
+  background-color: #333 !important;
+  color: #ffffff !important;
+}
 
 html[data-theme="dark"] .nav-list-expander svg,
 html[data-theme="dark"] .nav-list-expander .icon {
