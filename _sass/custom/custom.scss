@@ -67,6 +67,10 @@ tbody {
 
 .contact-list li {list-style: none;}
 
+h1, h2 {
+  color: $purple-300 !important;
+}
+
 /* Dark mode */
 
 .theme-toggle-wrap {
@@ -89,9 +93,12 @@ html[data-theme="dark"] .main {
 }
 
 html[data-theme="dark"] .side-bar,
-html[data-theme="dark"] .site-header,
-html[data-theme="dark"] .main-header {
+html[data-theme="dark"] .site-header {
   background-color: #111827;
+}
+
+html[data-theme="dark"] .main-header {
+  background-color: #0d1117;
 }
 
 html[data-theme="dark"] .side-bar {
@@ -136,8 +143,6 @@ html[data-theme="dark"] h5,
 html[data-theme="dark"] h6 {
   color: #f3f4f6;
 }
-
-html[data-theme="dark"] #main-header, .main-header {background-color: none;}
 
 html[data-theme="dark"] .nav-list-item:hover {background-color: #111827 !important;}
 
