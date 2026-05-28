@@ -95,7 +95,7 @@ html[data-theme="dark"] .main {
 
 html[data-theme="dark"] .side-bar,
 html[data-theme="dark"] .site-header {
-  background-color: #111827;
+  background-color: #111827 !importamt;
 }
 
 html[data-theme="dark"] .main-header,
@@ -231,7 +231,5 @@ html[data-theme="dark"] .nav-list-expander:focus {
 
 html[data-theme="dark"] .nav-list-expander svg,
 html[data-theme="dark"] .nav-list-expander .icon {
-  color: #ffffff;
+  color: #ffffff !important;
 }
-
-@import url("/form.css")
