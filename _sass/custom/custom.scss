@@ -121,8 +121,8 @@ html[data-theme="dark"] .breadcrumb-nav-list-item {
   color: #d1d5db;
 }
 
-html[data-theme="dark"] .site-title:hover {
-  color: #ffffff;
+html[data-theme="dark"] .site-title:hover, .site-header:hover {
+  color: #333 !important;
 }
 
 html[data-theme="dark"] a {
@@ -161,9 +161,6 @@ html[data-theme="dark"] .site-button:hover {
   color: #ffffff;
 }
 
-html[data-theme="dark"] .site-title:hover {
-  background-color: #333 !important;
-}
 
 html[data-theme="dark"] #menu-button,
 html[data-theme="dark"] #menu-button:hover,
