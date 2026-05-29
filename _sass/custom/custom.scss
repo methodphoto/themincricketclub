@@ -101,7 +101,7 @@ html[data-theme="dark"] .site-header {
 html[data-theme="dark"] .main-header,
 html[data-theme="dark"] .search-input-wrap,
 html[data-theme="dark"] .search {
-  background-color: #0d1117;
+  background-color: #0d1117 !important;
 }
 
 html[data-theme="dark"] .side-bar {
@@ -231,7 +231,5 @@ html[data-theme="dark"] .nav-list-expander:focus {
 
 html[data-theme="dark"] .nav-list-expander svg,
 html[data-theme="dark"] .nav-list-expander .icon {
-  color: #ffffff;
+  color: #ffffff !important;
 }
-
-@import url("/form.css")
