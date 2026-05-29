@@ -83,6 +83,10 @@ h2 {
 
 /* Dark mode */
 
+html[data-theme="dark"] .site-title:hover, .site-header:hover, .site-title a:hover, .site-header a:hover,.lh-tight:hover {
+  color: #333 !important;
+}
+
 html[data-theme="dark"] {
   color-scheme: dark;
 }
@@ -119,10 +123,6 @@ html[data-theme="dark"] .site-title,
 html[data-theme="dark"] .site-footer,
 html[data-theme="dark"] .breadcrumb-nav-list-item {
   color: #d1d5db;
-}
-
-html[data-theme="dark"] .site-title:hover, .site-header:hover {
-  color: #333 !important;
 }
 
 html[data-theme="dark"] a {
