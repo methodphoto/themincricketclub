@@ -161,6 +161,10 @@ html[data-theme="dark"] .site-button:hover {
   color: #ffffff;
 }
 
+html[data-theme="dark"] .site-title:hover {
+  background-color: #333 !important;
+}
+
 html[data-theme="dark"] #menu-button,
 html[data-theme="dark"] #menu-button:hover,
 html[data-theme="dark"] #menu-button .icon {
