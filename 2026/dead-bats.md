@@ -28,7 +28,7 @@ A Beswick's 21st 50.<br />
 | **Y Khan** | c | E McArdle | 22 |
 | **R Beswick &#42;** | c | E McArdle | 2 |
 | **P Wigg** | not out |  | 6 |
-| **J Grant ** | not out |  | 15 |
+| **J Grant** | not out |  | 15 |
 | **C Wright** | dnb |  |  |
 | **P Beswick** | dnb |  |  |
 | **Extras** | | (12b 2lb 28w 3nb 0p) | **45** |
