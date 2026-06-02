@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/master.swiftdeps"
+  },
+  "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/MatchStore.swift": {
+    "dependencies": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/MatchStore.d",
+    "object": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/MatchStore.swift.o",
+    "swiftmodule": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/MatchStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/MatchStore.swiftdeps",
+    "diagnostics": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/MatchStore.dia"
+  },
+  "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/Models.swift": {
+    "dependencies": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/Models.d",
+    "object": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/Models.swift.o",
+    "swiftmodule": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/Models.swiftdeps",
+    "diagnostics": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/Models.dia"
+  },
+  "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/ScorecardMacApp.swift": {
+    "dependencies": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/ScorecardMacApp.d",
+    "object": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/ScorecardMacApp.swift.o",
+    "swiftmodule": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/ScorecardMacApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/ScorecardMacApp.swiftdeps",
+    "diagnostics": "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/ScorecardMacApp.dia"
+  }
+}

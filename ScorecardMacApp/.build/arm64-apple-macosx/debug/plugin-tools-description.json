@@ -1,0 +1,277 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.ScorecardMacApp-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/sources",
+      "importPath" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/MatchStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/ScorecardMacApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "ScorecardMacApp",
+      "moduleOutputPath" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/Modules/ScorecardMacApp.swiftmodule",
+      "objects" : [
+        "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/MatchStore.swift.o",
+        "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/Models.swift.o",
+        "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/ScorecardMacApp.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j14",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "ScorecardMacApp_main",
+        "-swift-version",
+        "6",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "scorecardmacapp"
+      ],
+      "outputFileMapPath" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/MatchStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/Models.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/ScorecardMacApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/Modules/ScorecardMacApp.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/MatchStore.swift",
+        "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/Models.swift",
+        "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/ScorecardMacApp.swift"
+      ],
+      "tempsPath" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "ScorecardMacApp" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "ScorecardMacApp",
+      "-package-name",
+      "scorecardmacapp",
+      "-c",
+      "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/MatchStore.swift",
+      "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/Models.swift",
+      "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/ScorecardMacApp.swift",
+      "-I",
+      "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j14",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "ScorecardMacApp_main",
+      "-swift-version",
+      "6",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "scorecardmacapp",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "ScorecardMacApp" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp-entitlement.plist"
+    },
+    "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/MatchStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/ScorecardMacApp.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/sources"
+    },
+    "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/MatchStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/Models.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/ScorecardMacApp.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.product/Objects.LinkFileList"
+    },
+    "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

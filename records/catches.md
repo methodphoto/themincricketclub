@@ -9,14 +9,14 @@ parent: Records
 
 | Player | Catches | Stumpings | Total |
 |:---|:---|:---|:---|
-| **J Grant** | 266 | 127 | 392 |
+| **J Grant** | 267 | 127 | 393 |
 | **W Calvert** | 112 | 21 | 133 |
-| **R Beswick** | 129 | 0 | 129 | 
+| **R Beswick** | 131 | 0 | 131 | 
 | **R Earney** | 121 | 0 | 121 | 
 | **J Wright** | 119 | 0 | 119 |
 | **E Garland** | 65 | 0 | 65 |
 | **I Marshall** | 48 | 0 | 48 |
-| **P Wigg** | 42  | 0 | 42 |
+| **P Wigg** | 43  | 0 | 43 |
 | **S Barrowcliff** | 41 | 0 | 41 |
 | **A Beswick** | 35 | 1 | 36 |
 | **A Slight** | 27 | 6 | 33 |

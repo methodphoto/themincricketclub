@@ -1,0 +1,81 @@
+client:
+  name: basic
+  file-system: device-agnostic
+tools: {}
+targets:
+  "PackageStructure": ["<PackageStructure>"]
+  "ScorecardMacApp-arm64-apple-macosx15.0-debug.exe": ["<ScorecardMacApp-arm64-apple-macosx15.0-debug.exe>"]
+  "ScorecardMacApp-arm64-apple-macosx15.0-debug.module": ["<ScorecardMacApp-arm64-apple-macosx15.0-debug.module>"]
+  "main": ["<ScorecardMacApp-arm64-apple-macosx15.0-debug.exe>","<ScorecardMacApp-arm64-apple-macosx15.0-debug.module>"]
+  "test": ["<ScorecardMacApp-arm64-apple-macosx15.0-debug.exe>","<ScorecardMacApp-arm64-apple-macosx15.0-debug.module>"]
+default: "main"
+nodes:
+  "/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/":
+    is-directory-structure: true
+    content-exclusion-patterns: [".git",".build"]
+  "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp":
+    is-mutated: true
+commands:
+  "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp-entitlement.plist":
+    tool: write-auxiliary-file
+    inputs: ["<entitlement-plist>","<com.apple.security.get-task-allow>"]
+    outputs: ["/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp-entitlement.plist"]
+    description: "Write auxiliary file /Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp-entitlement.plist"
+
+  "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/sources":
+    tool: write-auxiliary-file
+    inputs: ["<sources-file-list>","/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/MatchStore.swift","/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/Models.swift","/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/ScorecardMacApp.swift"]
+    outputs: ["/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/sources"]
+    description: "Write auxiliary file /Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/sources"
+
+  "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.product/Objects.LinkFileList":
+    tool: write-auxiliary-file
+    inputs: ["<link-file-list>","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/MatchStore.swift.o","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/Models.swift.o","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/ScorecardMacApp.swift.o"]
+    outputs: ["/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.product/Objects.LinkFileList"]
+    description: "Write auxiliary file /Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.product/Objects.LinkFileList"
+
+  "/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt":
+    tool: write-auxiliary-file
+    inputs: ["<swift-get-version>","/Library/Developer/CommandLineTools/usr/bin/swiftc"]
+    outputs: ["/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"]
+    always-out-of-date: "true"
+    description: "Write auxiliary file /Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+
+  "<ScorecardMacApp-arm64-apple-macosx15.0-debug.exe>":
+    tool: phony
+    inputs: ["<ScorecardMacApp-arm64-apple-macosx15.0-debug.exe-CodeSigning>"]
+    outputs: ["<ScorecardMacApp-arm64-apple-macosx15.0-debug.exe>"]
+
+  "<ScorecardMacApp-arm64-apple-macosx15.0-debug.module>":
+    tool: phony
+    inputs: ["/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/MatchStore.swift.o","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/Models.swift.o","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/ScorecardMacApp.swift.o","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/Modules/ScorecardMacApp.swiftmodule"]
+    outputs: ["<ScorecardMacApp-arm64-apple-macosx15.0-debug.module>"]
+
+  "C.ScorecardMacApp-arm64-apple-macosx15.0-debug.exe":
+    tool: shell
+    inputs: ["/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/MatchStore.swift.o","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/Models.swift.o","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/ScorecardMacApp.swift.o","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.product/Objects.LinkFileList"]
+    outputs: ["/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp"]
+    description: "Linking ./.build/arm64-apple-macosx/debug/ScorecardMacApp"
+    args: ["/Library/Developer/CommandLineTools/usr/bin/swiftc","-L","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug","-o","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp","-module-name","ScorecardMacApp","-Xlinker","-no_warn_duplicate_libraries","-emit-executable","-Xlinker","-alias","-Xlinker","_ScorecardMacApp_main","-Xlinker","_main","-Xlinker","-rpath","-Xlinker","@loader_path","@/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.product/Objects.LinkFileList","-Xlinker","-rpath","-Xlinker","/Library/Developer/CommandLineTools/usr/lib/swift-6.2/macosx","-target","arm64-apple-macosx13.0","-Xlinker","-add_ast_path","-Xlinker","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/Modules/ScorecardMacApp.swiftmodule","-I","/Library/Developer/CommandLineTools/Library/Developer/Frameworks","-L","/Library/Developer/CommandLineTools/Library/Developer/Frameworks","-plugin-path","/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing","-sdk","/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk","-g"]
+
+  "C.ScorecardMacApp-arm64-apple-macosx15.0-debug.exe-entitlements":
+    tool: shell
+    inputs: ["/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp-entitlement.plist"]
+    outputs: ["<ScorecardMacApp-arm64-apple-macosx15.0-debug.exe-CodeSigning>"]
+    description: "Applying debug entitlements to ./.build/arm64-apple-macosx/debug/ScorecardMacApp"
+    args: ["codesign","--force","--sign","-","--entitlements","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp-entitlement.plist","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp"]
+
+  "C.ScorecardMacApp-arm64-apple-macosx15.0-debug.module":
+    tool: shell
+    inputs: ["/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/MatchStore.swift","/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/Models.swift","/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/ScorecardMacApp.swift","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/sources"]
+    outputs: ["/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/MatchStore.swift.o","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/Models.swift.o","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/ScorecardMacApp.swift.o","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/Modules/ScorecardMacApp.swiftmodule"]
+    description: "Compiling Swift Module 'ScorecardMacApp' (3 sources)"
+    args: ["/Library/Developer/CommandLineTools/usr/bin/swiftc","-module-name","ScorecardMacApp","-emit-dependencies","-emit-module","-emit-module-path","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/Modules/ScorecardMacApp.swiftmodule","-output-file-map","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/output-file-map.json","-incremental","-c","@/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ScorecardMacApp.build/sources","-I","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/Modules","-target","arm64-apple-macosx13.0","-incremental","-enable-batch-mode","-serialize-diagnostics","-index-store-path","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/index/store","-Onone","-enable-testing","-j14","-DSWIFT_PACKAGE","-DDEBUG","-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE","-module-cache-path","/Users/richard/Sites/themincricketclub/ScorecardMacApp/.build/arm64-apple-macosx/debug/ModuleCache","-parseable-output","-Xfrontend","-entry-point-function-name","-Xfrontend","ScorecardMacApp_main","-swift-version","6","-I","/Library/Developer/CommandLineTools/Library/Developer/Frameworks","-L","/Library/Developer/CommandLineTools/Library/Developer/Frameworks","-plugin-path","/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing","-sdk","/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk","-g","-Xcc","-isysroot","-Xcc","/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk","-Xcc","-fPIC","-Xcc","-g","-package-name","scorecardmacapp"]
+
+  "PackageStructure":
+    tool: package-structure-tool
+    inputs: ["/Users/richard/Sites/themincricketclub/ScorecardMacApp/Sources/ScorecardMacApp/","/Users/richard/Sites/themincricketclub/ScorecardMacApp/Package.swift","/Users/richard/Sites/themincricketclub/ScorecardMacApp/Package.resolved"]
+    outputs: ["<PackageStructure>"]
+    description: "Planning build"
+    allow-missing-inputs: true
+
