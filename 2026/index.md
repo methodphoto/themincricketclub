@@ -34,3 +34,7 @@ Dead Bats fixture changed to 25th May
 | 6th<br/>13:00 | Railway&nbsp;Taverners | [N8&nbsp;8JJ](https://maps.app.goo.gl/AY6YGTFG9fLaRCCk6) | ⚪️ |
 | 13th<br/>13:00 | Reigate&nbsp;Pilgrims| [RH3&nbsp;7DS](https://goo.gl/maps/APtKSjuaQ5v) | 🥪 |
 
+| May           |                                              |                                                       |     |
+|---------------|----------------------------------------------|-------------------------------------------------------|-----|
+| 17th<br>13:00 | [The Mighty Wanderers](the-mighty-wanderers) | [SW18 2SL](https://maps.app.goo.gl/QTzMLYBkNvDx5LwG7) | ⚪️   |
+
