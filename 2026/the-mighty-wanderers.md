@@ -85,8 +85,10 @@ A Beswick's 20th 50, scored of 23 balls – fastests since we bagan recording ba
 | **T Taylor** | 2 | 0 | 23 | 0 |
 
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 0 | 0 | 0 |
 
 {% include nextGame %}

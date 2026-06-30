@@ -83,8 +83,10 @@ parent: 2026 Fixtures
 | **S Singh** | 5 | 0 | 20 | 1 |
 | **P Wordsworth** | 6 | 1 | 16 | 1 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 2 | 1 | 0 |
 
 {% include nextGame %}

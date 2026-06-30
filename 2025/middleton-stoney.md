@@ -89,8 +89,10 @@ First ever draw with scores level
 | **S Shah** | 3 | 0 | 22 | 0 |
 | **T Riley** | 9 | 0 | 60 | 3 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 2 | 1 | 0 |
 
 {% include nextGame %}

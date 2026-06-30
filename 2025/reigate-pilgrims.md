@@ -86,6 +86,8 @@ A Beswick's 19th 50. R Earney reached 10,000 runs for The Min
 | **W Hodgson** | 4 | 0 | 42 | 0 |
 | **M Nathanvani** | 4.1 | 0 | 26 | 3 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 2 | 1 | 0 |

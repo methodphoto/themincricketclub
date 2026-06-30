@@ -86,8 +86,10 @@ A Venkatasamy's best bowling for The Min
 | **V Menon** | 2 | 0 | 19 | 0 |
 | **G Elwes** | 3.5 | 0 | 10 | 2 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 1 | 0 | 0 |
 
 {% include nextGame %}

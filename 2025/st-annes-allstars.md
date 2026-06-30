@@ -87,8 +87,10 @@ C Wright's [Best Bowling](../records/honours-board-bowling#'Athletics'-in-an-Inn
 | **R Earney** | 3 | 0 | 22 | 0 |
 | **R Beswick** | 1 | 0 | 8 | 0 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 2 | 1 | 0 |
 
 {% include nextGame %}

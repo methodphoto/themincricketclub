@@ -91,8 +91,10 @@ A Beswick's 21st 50.<br />
 | **R Beswick** | 1.1 | 0 | 9 | 2 |
 
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 0 | 0 | 0 |
 
 {% include nextGame %}

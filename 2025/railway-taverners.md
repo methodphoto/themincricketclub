@@ -90,8 +90,10 @@ parent: 2025 Fixtures
 | **M Ali** | 2 | 0 | 19 | 0 |
 | **M Rogers** | 1  | 0 | 13 | 0 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 2 | 1 | 0 |
 
 {% include nextGame %}

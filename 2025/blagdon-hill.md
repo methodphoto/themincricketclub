@@ -88,8 +88,10 @@ parent: 2025 Fixtures
 | **M Griffiths** | 2.2 | 0 | 8 | 3 |
 | **J Stacey** | 2 | 0 | 11 | 0 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 2 | 1 | 0 |
 
 {% include nextGame %}

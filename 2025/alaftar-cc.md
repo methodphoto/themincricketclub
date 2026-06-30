@@ -89,8 +89,10 @@ Batting subs: P Beswick for I Miah and H Earney for S Mohammed
 | **H Ansar** | 5 | 0 | 34 | 0 |
 | **I Rafiq** | 4 | 0 | 22 | 1 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 2 | 0 | 0 |
 
 {% include nextGame %}

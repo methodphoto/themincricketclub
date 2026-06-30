@@ -87,8 +87,10 @@ A Beswick 2000 runs for The Min
 | **C Wright** | 3 | 0 | 23 | 2 |
 | **I Miah** | 2.5 | 0 | 18 | 1 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 0 | 0 | 0 |
 
 {% include nextGame %}

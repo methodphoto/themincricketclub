@@ -91,8 +91,10 @@ M Griffiths 1st 50 and highest score for The Min. A Beswick's 18th 50.<br/>
 | **J Pedlar** | 3 | 0 | 25 | 0 |
 | **T Keyte** | 1  |0 | 7 | 0 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 2 | 1 | 0 |
 
 {% include nextGame %}

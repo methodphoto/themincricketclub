@@ -87,8 +87,10 @@ parent: 2026 Fixtures
 | **R Beswick** | 3.3 | 0 | 22 | 1 |
 
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 1 | 0 | 0 |
 
 {% include nextGame %}
