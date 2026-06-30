@@ -87,7 +87,7 @@ R Earney second century in the season and fourth overall and his highest score f
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 3 | 5 | 0 |
 
 {% include nextGame %}

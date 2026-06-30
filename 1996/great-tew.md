@@ -90,5 +90,5 @@ R Beswick best bowling<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 0 | 2 | 0|

@@ -86,7 +86,7 @@ M Taylor's 2nd 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 5 | 2 | 0 |
 
 {% include nextGame %}

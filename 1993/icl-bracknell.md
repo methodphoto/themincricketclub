@@ -87,7 +87,7 @@ R Earney first 5 wkt haul for The Min
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 1 | 1 | 0 |
 
 {% include nextGame %}

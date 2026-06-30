@@ -88,7 +88,7 @@ I Marshall hattrick off the last 3 balls of the game
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 4 | 4 | 0 |
 
 {% include nextGame %}

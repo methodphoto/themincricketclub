@@ -86,7 +86,7 @@ R Earney's 44th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
  8 | 4 | 3 | 0 |
 
 {% include nextGame %}

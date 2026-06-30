@@ -86,7 +86,7 @@ parent: 2004 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 5 | 4 | 0 |
 
 [Next season >](../2005)

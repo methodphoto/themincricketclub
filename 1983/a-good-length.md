@@ -89,7 +89,7 @@ A Gallagher's 2nd 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 0 | 1 | 0 |
 
 {% include nextGame %}

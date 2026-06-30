@@ -91,7 +91,7 @@ J Earney batted for B Yarde-Buller
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 0 | 4 | 0 | 0 |
 
 {% include nextGame %}

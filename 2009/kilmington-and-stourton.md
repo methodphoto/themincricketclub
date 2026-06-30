@@ -90,7 +90,7 @@ R Beswick's 22nd 50 and highest score
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 1 | 3 | 0 |
 
 {% include nextGame %}

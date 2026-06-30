@@ -79,7 +79,7 @@ parent: 1999 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 0 | 1 | 2 | 0 |
 
 {% include nextGame %}

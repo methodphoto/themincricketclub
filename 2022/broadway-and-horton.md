@@ -93,7 +93,7 @@ P Wigg's 4th 50 off 28 balls (the fastest since we recorded balls)
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 4 | 1 | 0 |
 
 {% include nextGame %}

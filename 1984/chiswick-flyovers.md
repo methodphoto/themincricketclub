@@ -85,7 +85,7 @@ W Calvert's 1st Michelle and best bowling
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 3 | 2 | 0 |
 
 {% include nextGame %}

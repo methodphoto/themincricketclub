@@ -89,7 +89,7 @@ S Watson's 1st 50. T Purves's 3rd 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 2 | 1 | 0 |
 
 {% include nextGame %}

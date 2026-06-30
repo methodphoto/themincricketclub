@@ -88,7 +88,7 @@ The Min regained the Ashes
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 2 | 0 | 0 |
 
 {% include nextGame %}

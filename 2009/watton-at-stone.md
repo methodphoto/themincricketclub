@@ -105,7 +105,7 @@ Alas, one of the great face-offs in Min history was curtailed by Mo tamely offer
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 0 | 1 | 0 |
 
 {% include nextGame %}

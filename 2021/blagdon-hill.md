@@ -93,7 +93,7 @@ J Carroll, 2nd 50 and a hattrick (over two overs)
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 2 | 0 | 0 |
 
 {% include nextGame %}

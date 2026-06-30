@@ -84,7 +84,7 @@ parent: 2000 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 10 | 2 | 0 | 0 |
 
 [Next season >](../2001)

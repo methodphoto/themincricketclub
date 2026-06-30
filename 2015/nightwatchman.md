@@ -94,7 +94,7 @@ S Habib, first handled the ball in any Min game
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 0 | 2 | 1 | 0 |
 
 {% include nextGame %}

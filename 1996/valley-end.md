@@ -85,5 +85,5 @@ parent: 1996 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 0 | 2 | 0|

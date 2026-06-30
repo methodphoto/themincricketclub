@@ -90,7 +90,7 @@ parent: 2006 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 5 | 1 | 0 |
 
 {% include nextGame %}

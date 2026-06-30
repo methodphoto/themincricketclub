@@ -89,7 +89,7 @@ J Wright's 6th Michelle and best bowling. R Earney's 31st 50.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 0 | 0 | 0 |
 
 {% include nextGame %}

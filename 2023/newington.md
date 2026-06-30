@@ -92,7 +92,7 @@ A Venkatasamy first 50 for the Min
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 0 | 1 | 0 | 0 |
 
 {% include nextGame %}

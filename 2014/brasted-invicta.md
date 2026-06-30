@@ -88,7 +88,7 @@ parent: 2014 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 7 | 2 | 3 | 0 |
 
 {% include nextGame %}

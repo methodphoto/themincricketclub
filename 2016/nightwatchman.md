@@ -90,7 +90,7 @@ parent: 2016 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 1 | 0 | 0 |
 
 {% include nextGame %}

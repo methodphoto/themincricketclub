@@ -87,7 +87,7 @@ R Beswick's 37th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 4 | 1 | 0 |
 
 {% include nextGame %}

@@ -84,7 +84,7 @@ parent: 1993 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 1 | 2 | 0 |
 
 {% include nextGame %}

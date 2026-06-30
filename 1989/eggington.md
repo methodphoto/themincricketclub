@@ -86,7 +86,7 @@ parent: 1989 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 6 | 8 | 0 |
 
 {% include nextGame %}

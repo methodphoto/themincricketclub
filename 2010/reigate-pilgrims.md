@@ -89,7 +89,7 @@ T Hammond's 2nd 50.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 8 | 4 | 2 | 0 |
 
 {% include nextGame %}

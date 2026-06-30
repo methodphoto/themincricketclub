@@ -84,7 +84,7 @@ parent: 1997 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 6 | 3 | 0 |
 
 {% include nextGame %}

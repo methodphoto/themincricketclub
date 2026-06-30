@@ -90,7 +90,7 @@ M Gupta's 12th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 4 | 0 | 0 |
 
 {% include nextGame %}

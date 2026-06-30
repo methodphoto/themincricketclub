@@ -88,7 +88,7 @@ R Simpson was dropped several times. S Hornsby's 15th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 0 | 1 | 0 | 0 |
 
 {% include nextGame %}

@@ -88,7 +88,7 @@ First Tied match in Min history
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 0 | 2 | 1 |
 
 {% include nextGame %}

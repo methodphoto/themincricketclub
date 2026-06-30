@@ -83,7 +83,7 @@ parent: 1996 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 7 | 1 | 6 | 1 |
 
 [Next season >](../1997)

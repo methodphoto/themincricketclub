@@ -86,7 +86,7 @@ R Beswick's 2nd 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 2 | 3 | 0 |
 
 {% include nextGame %}

@@ -84,7 +84,7 @@ parent: 1994 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 0 | 2 | 1 | 0 |
 
 {% include nextGame %}

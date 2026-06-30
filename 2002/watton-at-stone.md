@@ -89,7 +89,7 @@ R Earney's third century for The Min.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 1 | 2 | 0 |
 
 {% include nextGame %}

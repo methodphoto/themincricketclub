@@ -90,7 +90,7 @@ J Grant's 3rd 50, T Purves's 1st 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 0 | 1 | 0 |
 
 {% include nextGame %}

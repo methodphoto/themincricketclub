@@ -92,7 +92,7 @@ R Earney's 2nd Century.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 2 | 1 | 0 |
 
 {% include nextGame %}

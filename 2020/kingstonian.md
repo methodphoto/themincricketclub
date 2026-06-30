@@ -94,7 +94,7 @@ A Gallagher's 14th 50 off 45 balls
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 0 | 0 | 0 |
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3c6eaKot33U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

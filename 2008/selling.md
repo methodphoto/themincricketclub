@@ -89,7 +89,7 @@ M Goff's 7th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 9 | 2 | 3 | 0 |
 
 [Next season >](../2009)

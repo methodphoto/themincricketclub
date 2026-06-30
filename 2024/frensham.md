@@ -98,7 +98,7 @@ parent: 2024 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 0 | 0 | 0 |
 
 {% include nextGame %}

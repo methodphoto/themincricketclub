@@ -91,7 +91,7 @@ R Earney's 50th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 4 | 4 | 0 |
 
 {% include nextGame %}

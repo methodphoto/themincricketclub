@@ -89,7 +89,7 @@ D Swann 74 off 47 balls (50 off 31)
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 7 | 2 | 5 | 0 |
 
 {% include nextGame %}

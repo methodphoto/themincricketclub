@@ -88,7 +88,7 @@ R Beswick's 17th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 3 | 4 | 0 |
 
 {% include nextGame %}

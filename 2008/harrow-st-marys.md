@@ -89,7 +89,7 @@ R Earney's 35th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 7 | 2 | 2 | 0 |
 
 {% include nextGame %}

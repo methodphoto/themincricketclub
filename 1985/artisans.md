@@ -87,7 +87,7 @@ A Gallagher's 4th 50<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 2 | 0 | 0 |
 
 {% include nextGame %}

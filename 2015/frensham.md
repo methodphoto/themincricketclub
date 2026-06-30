@@ -87,7 +87,7 @@ parent: 2015 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 3 | 1 | 0 |
 
 {% include nextGame %}

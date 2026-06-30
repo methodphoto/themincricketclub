@@ -88,7 +88,7 @@ M Kirwan's 1st Michelle
 ### Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 2 | 1 | 0 |
 
 {% include nextGame %}

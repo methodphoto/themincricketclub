@@ -91,7 +91,7 @@ R Earney becomes the leading run scorer for The Min<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 2 | 3 | 0 |
 
 {% include nextGame %}

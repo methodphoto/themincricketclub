@@ -84,7 +84,7 @@ parent: 1982 Fixtures
 ### Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 3 | 2 | 0 |
 
 [Next season >](../1983)

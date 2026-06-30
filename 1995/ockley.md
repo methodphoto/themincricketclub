@@ -86,7 +86,7 @@ R Earney highest score and first hundred for the Min.<br />Partnership of 154 be
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 0 | 1 | 0 |
 
 {% include nextGame %}

@@ -90,7 +90,7 @@ A Gallagher's 7th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 5 | 2 | 0 |
 
 {% include nextGame %}

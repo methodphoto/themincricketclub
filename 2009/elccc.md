@@ -94,7 +94,7 @@ M Gupta's 2nd Michelle and a Hat trick and 4th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 2 | 3 | 0 |
 
 {% include nextGame %}

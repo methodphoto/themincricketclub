@@ -90,7 +90,7 @@ S Hornsby's 14th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 3 | 3 | 0 |
 
 {% include nextGame %}

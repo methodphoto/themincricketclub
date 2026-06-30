@@ -87,7 +87,7 @@ parent: 2022 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 6 | 2 | 0 |
 
 [Next season >](../2023/)

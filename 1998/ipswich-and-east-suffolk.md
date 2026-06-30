@@ -91,7 +91,7 @@ parent: 1998 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 2 | 4 | 0 |
 
 {% include nextGame %}

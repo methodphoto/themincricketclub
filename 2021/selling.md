@@ -85,7 +85,7 @@ parent: 2021 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 4 | 0 | 0 |
 
 [Next season >](../2022/)

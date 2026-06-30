@@ -87,7 +87,7 @@ parent: 2007 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 4 | 3 | 0 |
 
 [Next season >](../2008)

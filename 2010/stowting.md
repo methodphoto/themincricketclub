@@ -85,7 +85,7 @@ R Beswick's 4th Michelle.
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 1 | 1 | 0 |
 
 {% include nextGame %}

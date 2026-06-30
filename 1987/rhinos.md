@@ -87,7 +87,7 @@ R Beswick's 1st Michelle
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 2 | 1 | 0 |
 
 {% include nextGame %}

@@ -89,7 +89,7 @@ M Goff's 2nd 50 and highest score
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 4 | 4 | 0 |
 
 {% include nextGame %}

@@ -86,7 +86,7 @@ J Packenham-Walsh's 1st 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 2 | 0 | 0 |
 
 {% include nextGame %}

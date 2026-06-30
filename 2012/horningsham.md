@@ -102,7 +102,7 @@ Still we took the positives; that we played at all and that we didn't drown.
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 2 | 0 | 0 |
 
 {% include nextGame %}

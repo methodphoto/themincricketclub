@@ -93,7 +93,7 @@ M Kirwan's 1st 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 4 | 1 | 0 |
 
 {% include nextGame %}

@@ -90,7 +90,7 @@ A Beswick's 2nd 50. T Rutherford's 5th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 3 | 1 | 0 |
 
 {% include nextGame %}

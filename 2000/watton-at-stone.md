@@ -85,7 +85,7 @@ parent: 2000 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 1 | 0 | 0 |
 
 {% include nextGame %}

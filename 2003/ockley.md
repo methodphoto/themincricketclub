@@ -79,7 +79,7 @@ parent: 2003 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 0 | 0 | 1 | 0 |
 
 {% include nextGame %}

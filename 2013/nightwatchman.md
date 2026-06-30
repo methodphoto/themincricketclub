@@ -92,7 +92,7 @@ parent: 2013 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 1 | 1 | 0 |
 
 {% include nextGame %}

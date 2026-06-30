@@ -90,7 +90,7 @@ parent: 2012 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 3 | 0 | 0 |
 
 {% include nextGame %}

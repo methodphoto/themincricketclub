@@ -95,7 +95,7 @@ R Earney's 45th 50. S Hornsby's 13th 50.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 2 | 2 | 0 |
 
 {% include nextGame %}

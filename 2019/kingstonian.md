@@ -93,7 +93,7 @@ A Beswick's 10th 50 and highest score
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 4 | 1 | 0 |
 
 {% include nextGame %}

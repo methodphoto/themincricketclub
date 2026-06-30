@@ -89,7 +89,7 @@ R Earney's 26th 50. M Goff's 3rd 50.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 3 | 2 | 0 |
 
 {% include nextGame %}

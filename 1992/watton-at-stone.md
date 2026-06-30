@@ -84,7 +84,7 @@ Cakebread Hat-trick
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 6 | 5 | 0 |
 
 [Next season >](../1993)

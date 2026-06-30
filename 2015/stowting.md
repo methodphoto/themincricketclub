@@ -90,7 +90,7 @@ S Habib's 1st 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 4 | 3 | 0 |
 
 {% include nextGame %}

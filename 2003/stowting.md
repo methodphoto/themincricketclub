@@ -91,7 +91,7 @@ J Wright, 3rd 5 wkt haul
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 0 | 1 | 5 | 0 |
 
 {% include nextGame %}

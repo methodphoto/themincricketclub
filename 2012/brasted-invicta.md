@@ -88,7 +88,7 @@ T Rutherford's 4th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 3 | 0 | 0 |
 
 {% include nextGame %}

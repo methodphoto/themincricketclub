@@ -88,7 +88,7 @@ J Grant fielded, keeping wicket. R Earney batted
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 5 | 2 | 0 |
 
 {% include nextGame %}

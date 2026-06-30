@@ -89,7 +89,7 @@ I Marshall first century.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 4 | 2 | 0 |
 
 {% include nextGame %}

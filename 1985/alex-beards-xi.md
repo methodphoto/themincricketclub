@@ -87,7 +87,7 @@ parent: 1985 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 8 | 5 | 2 | 0 |
 
 {% include nextGame %}

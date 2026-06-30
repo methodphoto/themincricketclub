@@ -91,7 +91,7 @@ A Gallagher's 6th 50, J Grant's 5th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 0 | 0 | 1 | 0 |
 
 {% include nextGame %}

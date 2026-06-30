@@ -92,7 +92,7 @@ T Hammond 1st 100. W Calvert's 8th 50.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 1 | 1 | 0 |
 
 {% include nextGame %}

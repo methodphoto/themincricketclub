@@ -86,7 +86,7 @@ Phil Bentley, first centurion
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 10 | 2 | 5 | 0 |
 
 [Next season >](../1989)

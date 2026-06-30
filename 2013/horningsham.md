@@ -91,7 +91,7 @@ Second ever 4 win Tour
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 7 | 3 | 2 | 0 |
 
 {% include nextGame %}

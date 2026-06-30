@@ -88,7 +88,7 @@ M Goff's 5th 50.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 7 | 1 | 0 |
 
 [Next season >](../2007)

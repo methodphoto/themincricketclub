@@ -94,7 +94,7 @@ T Rutherford's 2nd 50. M Gardiner's 1st 50.
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 0 | 1 | 0 |
 
 {% include nextGame %}

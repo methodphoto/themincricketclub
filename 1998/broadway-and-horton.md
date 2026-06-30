@@ -90,7 +90,7 @@ The Min gained the Ashes for the first time
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 0 | 3 | 0 |
 
 {% include nextGame %}

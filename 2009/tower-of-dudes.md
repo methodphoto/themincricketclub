@@ -90,7 +90,7 @@ R Earney's 38th 50. M Gupta's 6th 50.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 3 | 3 | 0 |
 
 {% include nextGame %}

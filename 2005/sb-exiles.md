@@ -89,7 +89,7 @@ J Wright's 5th Michelle
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 7 | 4 | 3 | 0 |
 
 {% include nextGame %}

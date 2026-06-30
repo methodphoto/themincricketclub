@@ -87,7 +87,7 @@ P Bentley best bowling
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 7 | 1 | 5 | 1 |
 
 {% include nextGame %}

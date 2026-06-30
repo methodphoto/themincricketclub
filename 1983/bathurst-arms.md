@@ -91,7 +91,7 @@ J Booth's 2nd 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 0 | 1 | 0 |
 
 [Next season >](../1984)

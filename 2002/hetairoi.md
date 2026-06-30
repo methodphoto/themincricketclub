@@ -87,7 +87,7 @@ parent: 2002 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 3 | 4 | 0 |
 
 {% include nextGame %}

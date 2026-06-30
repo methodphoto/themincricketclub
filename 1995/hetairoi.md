@@ -86,7 +86,7 @@ parent: 1995 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 3 | 3 | 0 |
 
 {% include nextGame %}

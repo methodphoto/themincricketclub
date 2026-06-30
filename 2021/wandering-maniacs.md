@@ -92,7 +92,7 @@ R Damaze 3rd 50 (35 balls)
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 3 | 0 | 0 |
 
 {% include nextGame %}

@@ -82,7 +82,7 @@ parent: 2010 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 7 | 3 | 1 | 0 |
 
 {% include nextGame %}

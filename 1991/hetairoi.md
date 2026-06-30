@@ -85,7 +85,7 @@ Steven Hornsby first 5 wkt haul for The Min
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 2 | 5 | 0 |
 
 {% include nextGame %}

@@ -90,7 +90,7 @@ E Bishop's 1st 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 1 | 0 | 0 |
 
 {% include nextGame %}

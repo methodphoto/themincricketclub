@@ -90,7 +90,7 @@ parent: 2023 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 0 | 3 | 0 | 0 |
 
 {% include nextGame %}

@@ -90,7 +90,7 @@ R Earney and R Beswick partnership of 131
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 2 | 1 | 0 |
 
 {% include nextGame %}

@@ -84,7 +84,7 @@ R Olver's 1st Michelle
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 5 | 3 | 0 |
 
 {% include nextGame %}

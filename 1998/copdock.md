@@ -89,7 +89,7 @@ R Earney, 4th 5 wicket haul for The Min
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 1 | 4 | 0 |
 
 {% include nextGame %}

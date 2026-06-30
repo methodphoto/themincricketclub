@@ -94,7 +94,7 @@ E Garland 5 wkts (2nd match in a row). A Beswick's 10th 50<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 3 | 0 | 0 |
 
 {% include nextGame %}

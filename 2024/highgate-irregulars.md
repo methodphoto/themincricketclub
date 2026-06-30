@@ -93,7 +93,7 @@ Alf Beswick's highest score and first 100 for the Min
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 0 | 0 | 0 |
 
 {% include nextGame %}

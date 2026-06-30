@@ -93,7 +93,7 @@ A Beswick's 9th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 2 | 0 | 0 |
 
 {% include nextGame %}

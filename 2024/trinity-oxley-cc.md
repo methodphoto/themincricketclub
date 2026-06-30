@@ -94,7 +94,7 @@ The controversial last over appeal. (No ball should have been the call as the ke
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 0 | 0 | 0 |
 
 {% include nextGame %}

@@ -90,7 +90,7 @@ G Powell best bowling. R Beswick's 18th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 8 | 4 | 4 | 0 |
 
 [Next season >](../2006)

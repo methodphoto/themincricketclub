@@ -87,7 +87,7 @@ R Green, second 5 wkt haul for The Min
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 3 | 5 | 0 |
 
 {% include nextGame %}

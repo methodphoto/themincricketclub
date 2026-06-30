@@ -100,7 +100,7 @@ A Gallagher's 13th 50. H Ingham hat trick
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 2 | 1 | 0 |
 
 {% include nextGame %}

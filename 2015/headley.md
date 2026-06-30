@@ -91,7 +91,7 @@ S Hornsby's 16th 50. R Earney's 49th 50.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 4 | 2 | 0 |
 
 {% include nextGame %}

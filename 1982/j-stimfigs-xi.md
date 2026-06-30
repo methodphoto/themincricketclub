@@ -87,7 +87,7 @@ JBooth's 1st 50<br />
 ### Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 1 | 1 | 0 |
 
 {% include nextGame %}

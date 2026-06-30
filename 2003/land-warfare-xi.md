@@ -91,7 +91,7 @@ R Earney, 5th Century
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 2 | 6 | 0 |
 
 {% include nextGame %}

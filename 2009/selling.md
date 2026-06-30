@@ -88,7 +88,7 @@ parent: 2009 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 7 | 4 | 3 | 0 |
 
 [Next season >](../2010)

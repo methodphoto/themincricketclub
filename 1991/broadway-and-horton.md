@@ -88,7 +88,7 @@ parent: 1991 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 2 | 4 | 0 |
 
 {% include nextGame %}

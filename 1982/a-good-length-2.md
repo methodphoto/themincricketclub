@@ -84,7 +84,7 @@ M Kirwan's 2nd Michelle
 ### Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 3 | 1 | 0 |
 
 {% include nextGame %}

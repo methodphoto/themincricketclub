@@ -89,7 +89,7 @@ R Earney’s 19th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 2 | 0 | 0 |
 
 {% include nextGame %}

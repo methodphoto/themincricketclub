@@ -85,7 +85,7 @@ parent: 1990 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 6 | 5 | 0 |
 
 [Next season >](../1991)

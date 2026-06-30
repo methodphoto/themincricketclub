@@ -83,7 +83,7 @@ parent: 1992 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 5 | 3 | 0 |
 
 {% include nextGame %}

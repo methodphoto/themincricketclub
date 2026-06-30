@@ -90,7 +90,7 @@ Jim Carroll, 1st 50 and highest score for The Min
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 1 | 0 | 0 |
 
 {% include nextGame %}

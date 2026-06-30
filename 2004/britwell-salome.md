@@ -90,7 +90,7 @@ S Barrowcliff's 12th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 0 | 1 | 0 | 0 |
 
 {% include nextGame %}

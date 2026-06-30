@@ -90,7 +90,7 @@ parent: 1984 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 2 | 2 | 0 |
 
 {% include nextGame %}

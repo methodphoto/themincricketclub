@@ -88,7 +88,7 @@ S Barrowcliff first Min century.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 1 | 1 | 0 |
 
 {% include nextGame %} |

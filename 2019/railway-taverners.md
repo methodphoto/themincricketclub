@@ -92,7 +92,7 @@ A Beswick's 8th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 4 | 1 | 0 |
 
 {% include nextGame %}

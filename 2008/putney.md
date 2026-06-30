@@ -88,7 +88,7 @@ parent: 2008 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 8 | 2 | 2 | 0 |
 
 {% include nextGame %}

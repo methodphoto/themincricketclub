@@ -85,7 +85,7 @@ J Wright's 4th 5 wkt haul
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 3 | 8 | 0 |
 
 [Next season >](../2004)

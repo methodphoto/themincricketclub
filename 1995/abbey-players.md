@@ -89,7 +89,7 @@ D Powell 106. Partnership of 106 between D Powell and S Wombwell<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 1 | 2 | 0 |
 
 {% include nextGame %}

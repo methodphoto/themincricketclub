@@ -88,7 +88,7 @@ M Gupta's 1st Michelle. R Earney's 41st 50.
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 0 | 2 | 0 |
 
 {% include nextGame %}

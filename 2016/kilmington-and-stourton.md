@@ -95,7 +95,7 @@ R Beswick's 32nd 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 4 | 0 | 0 |
 
 {% include nextGame %}

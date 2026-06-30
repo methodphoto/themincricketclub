@@ -87,7 +87,7 @@ P Newcomb's 1st 50
 ### Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 0 | 1 | 0 |
 
 {% include nextGame %}

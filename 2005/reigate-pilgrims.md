@@ -85,7 +85,7 @@ parent: 2005 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 7 | 4 | 4 | 0 |
 
 {% include nextGame %}

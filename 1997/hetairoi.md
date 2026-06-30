@@ -91,7 +91,7 @@ J Grant's highest score for The Min.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 6 | 4 | 0 |
 
 {% include nextGame %}

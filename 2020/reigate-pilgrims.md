@@ -90,7 +90,7 @@ M Wright batted, Charlotte Wright and Harry Earney fielded
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 1 | 0 | 0 |
 
 [Next season >](../2021)

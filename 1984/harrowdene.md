@@ -87,7 +87,7 @@ P Clothier's 1st 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 1 | 2 | 0 |
 
 {% include nextGame %}

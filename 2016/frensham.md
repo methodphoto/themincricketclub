@@ -91,7 +91,7 @@ S Habib's 2nd 50. J Grant 4 stumpings in an innings.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 1 | 0 | 0 |
 
 {% include nextGame %}

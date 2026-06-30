@@ -106,7 +106,7 @@ M Gupta's 2nd 50. R Earney'5 5th Michelle
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 0 | 1 | 0 |
 
 {% include nextGame %}

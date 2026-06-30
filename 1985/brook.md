@@ -86,7 +86,7 @@ A Sylvester's 1st 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 3 | 0 | 0 |
 
 {% include nextGame %}

@@ -90,7 +90,7 @@ R Earney's 1st 50. R Beswick's 3rd 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 1 | 1 | 0 |
 
 {% include nextGame %}

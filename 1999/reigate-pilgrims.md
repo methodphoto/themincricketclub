@@ -86,7 +86,7 @@ parent: 1999 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 9 | 2 | 0 |
 
 [Next season >](../2000)

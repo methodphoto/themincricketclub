@@ -105,7 +105,7 @@ R Earney's 40th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 0 | 0 | 0 |
 
 {% include nextGame %}

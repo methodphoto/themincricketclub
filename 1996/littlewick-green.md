@@ -92,7 +92,7 @@ J Hylton first hundred.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 1 | 5 | 1 |
 
 {% include nextGame %}

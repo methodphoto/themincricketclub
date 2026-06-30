@@ -90,7 +90,7 @@ M Kirwan's 3rd Michelle
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 2 | 2 | 0 |
 
 {% include nextGame %}

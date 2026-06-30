@@ -88,7 +88,7 @@ J Grant's 4th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 5 | 3 | 0 |
 
 {% include nextGame %}

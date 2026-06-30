@@ -88,7 +88,7 @@ parent: 2010 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 8 | 5 | 2 | 0 |
 
 [Next season >](../2011)

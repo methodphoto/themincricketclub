@@ -90,7 +90,7 @@ Broadway and Horton regained the Ashes
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 0 | 2 | 6 | 0 |
 
 {% include nextGame %}

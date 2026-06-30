@@ -96,7 +96,7 @@ R Earney's 32nd 50. R Beswick's 19th 50. <br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 3 | 0 | 0 |
 
 {% include nextGame %}

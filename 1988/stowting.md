@@ -86,7 +86,7 @@ parent: 1988 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 9 | 2 | 4 | 0 |
 
 {% include nextGame %}

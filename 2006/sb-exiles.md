@@ -92,7 +92,7 @@ R Earney's 7th century. M Goff's 1st century.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 6 | 1 | 0 |
 
 {% include nextGame %}

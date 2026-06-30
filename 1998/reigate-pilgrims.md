@@ -82,7 +82,7 @@ N Bezodis, sixfer on debut
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 2 | 5 | 0 |
 
 [Next season >](../1999)

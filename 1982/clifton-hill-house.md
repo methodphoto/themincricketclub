@@ -88,7 +88,7 @@ William Calvert - Highest Score. James Booth - First duck. William Calvert - Bes
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 0 | 0 | 0 |
 
 {% include nextGame %}

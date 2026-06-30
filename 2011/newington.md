@@ -87,7 +87,7 @@ T Rutherford's 3rd 50 and highest score. A Beswick's 1st 50 and highest score.
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 1 | 1 | 0 |
 
 {% include nextGame %}

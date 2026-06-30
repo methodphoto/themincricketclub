@@ -92,7 +92,7 @@ Parnership of 133 between R Beswick and M Breddy.
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 1 | 0 | 0 |
 
 {% include nextGame %}

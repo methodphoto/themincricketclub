@@ -90,7 +90,7 @@ E Garland best bowling and best return for The Min
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 4 | 2 | 0 |
 
 {% include nextGame %}

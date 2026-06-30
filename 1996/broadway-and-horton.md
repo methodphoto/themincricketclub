@@ -95,7 +95,7 @@ J Stimfig fielded and P Grant batted
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 1 | 3 | 1 |
 
 {% include nextGame %}

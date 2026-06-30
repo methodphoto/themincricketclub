@@ -89,7 +89,7 @@ parent: 2016 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 7 | 4 | 1 | 0 |
 
 [Next season >](../2017)

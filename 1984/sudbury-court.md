@@ -86,7 +86,7 @@ A Gallagher's 3rd 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 3 | 2 | 2 | 0 |
 
 {% include nextGame %}

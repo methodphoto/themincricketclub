@@ -92,7 +92,7 @@ S Barrowcliff's 17th 50. A Beswick's 4th 50
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 3 | 0 | 0 |
 
 {% include nextGame %}

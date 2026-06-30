@@ -91,7 +91,7 @@ R Earney's 42nd 50. S Barrowcliff's 15th 50.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 1 | 0 | 1 | 0 |
 
 {% include nextGame %}

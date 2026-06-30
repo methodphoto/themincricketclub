@@ -92,7 +92,7 @@ R Earney's 33rd 50. R Beswick's 20th 50. P O'Mahony 45 off 18 balls for his high
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 4 | 5 | 1 | 0 |
 
 {% include nextGame %}

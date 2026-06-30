@@ -84,7 +84,7 @@ parent: 1986 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 5 | 2 | 0 |
 
 {% include nextGame %}

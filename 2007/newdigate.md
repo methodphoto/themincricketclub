@@ -90,7 +90,7 @@ P Wigg best bowling
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 2 | 0 | 0 |
 
 {% include nextGame %}

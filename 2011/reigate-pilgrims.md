@@ -87,7 +87,7 @@ parent: 2011 Fixtures
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 6 | 3 | 0 |
 
 {% include nextGame %}

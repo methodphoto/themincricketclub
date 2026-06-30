@@ -86,7 +86,7 @@ A Gallagher 4 catches in an innings
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 2 | 4 | 5 | 0 |
 
 {% include nextGame %}

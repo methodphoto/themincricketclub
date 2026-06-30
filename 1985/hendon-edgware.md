@@ -87,7 +87,7 @@ T Purves's
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 8 | 6 | 2 | 0 |
 
 [Next season >](../1986)

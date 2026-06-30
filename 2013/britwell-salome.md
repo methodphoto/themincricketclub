@@ -91,7 +91,7 @@ S Hornsby's 4th 100. R Beswick's 26th 50.<br />
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 0 | 1 | 1 | 0 |
 
 {% include nextGame %}
