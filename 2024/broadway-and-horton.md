@@ -87,8 +87,10 @@ parent: 2024 Fixtures
 | **R Earney** | 6.3 | 0 | 30 | 3 |
 | **M Griffiths** | 3 | 0 | 32 | 1 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 0 | 0 | 0 |
 
 {% include nextGame %}

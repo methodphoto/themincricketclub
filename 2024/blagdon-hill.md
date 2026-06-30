@@ -88,8 +88,10 @@ parent: 2024 Fixtures
 | **C Wright** | 4 | 0 | 29 | 1 |
 | **J Casey** | 5.4 | 0 | 39 | 4 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 5 | 0 | 0 | 0 |
 
 {% include nextGame %}

@@ -87,8 +87,10 @@ Alf Beswick's 14th 50 for The Min
 | **Z Mirza** | 4.4 | 0 | 16 | 2 |
 | **A Chaudhary** | 2 | 0 | 6 | 0 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 1 | 0 | 0 |
 
 {% include nextGame %}

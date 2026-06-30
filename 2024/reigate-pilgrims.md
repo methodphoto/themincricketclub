@@ -90,6 +90,8 @@ I Miah: 50 wkts for The Min
 | **K Singh** | 1 | 0 | 1 | 0 |
 | **R Earney** | 1 | 0 | 4 | 0 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 2 | 1 | 0 |

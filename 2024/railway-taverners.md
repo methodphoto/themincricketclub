@@ -87,8 +87,10 @@ parent: 2024 Fixtures
 | **C Dobson** | 8 | 0 | 19 | 4 |
 | **J Mulligan** | 5 | 0 | 34 | 1 |
 
+## Win/Loss Ratio
+
 | Won | Lost | Drawn | Tied |
-|:---|:---|:---|---:|
+|:---|:---|:---|:---|
 | 6 | 2 | 0 | 0 |
 
 {% include nextGame %}
