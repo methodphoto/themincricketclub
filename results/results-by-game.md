@@ -10,6 +10,7 @@ parent: Results
 ## 2026
 
 |:---|:---|:---|
+| 28/06/2026 | [Middleton Stoney](../2026/middleton-stoney) | Lost |
 | 31/05/2026 | [Highate Irregulars](../2026/highgate-irregulars) | Lost |
 | 25/05/2026 | [Dead Bats](../2026/dead-bats) | **Won** |
 | 17/05/2026 | [The Mighty Wanderers](../2026/the-mighty-wanderers) | **Won** |

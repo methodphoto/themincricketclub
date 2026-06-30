@@ -13,8 +13,6 @@ parent: 2026 Fixtures
 
 {% include newMatchDetails %}
 
-[Match Report](https://middletonstoneycc.co.uk/event/mscc-v-the-min/)
-
 
 ## {{page.homeTeam}} Innings
 
