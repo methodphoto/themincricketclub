@@ -8,12 +8,6 @@ nav_order: 2
 
 **29th April [44th Anniversary of The Min](/1982/clifton-hill-house)**
 
-## Notes 
-
-Dead Bats and Cowmen fixtures added
-
-Dead Bats fixture changed to 25th May
-
 | May |  |  |  |
 |:---|:---|:---|
 | 17th<br/>13:00 | [The&nbsp;Mighty&nbsp;Wanderers](the-mighty-wanderers) | [SW18&nbsp;2SL](https://maps.app.goo.gl/QTzMLYBkNvDx5LwG7) | ⚪️ |
