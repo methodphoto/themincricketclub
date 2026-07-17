@@ -17,6 +17,8 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2026** | M Griffiths | [Broadway and Horton](../2026/broadway-and-horton) | **117&#42;** |
+| **2026** | A Beswick | [Blagdon Hill](../2026/blagdon-hill) | **112** |
 | **2024** | D Padala | [Reigate Pilgrims](../2024/reigate-pilgrims) | **100** |
 | **2024** | A Beswick | [Highgate Irregulars](../2024/highgate-irregulars) | **111** |
 | **2017** | M Gupta | [Frensham](../2017/frensham) | **100** |
