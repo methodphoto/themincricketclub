@@ -10,6 +10,8 @@ parent: Results
 ## 2026
 
 |:---|:---|:---|
+| 17/07/2026 | [Broadway and Horton](../2026/broadway-and-horton) | Won |
+| 16/07/2026 | [Blagdon Hill](../2026/blagdon-hill) | Won |
 | 28/06/2026 | [Middleton Stoney](../2026/middleton-stoney) | Lost |
 | 31/05/2026 | [Highate Irregulars](../2026/highgate-irregulars) | Lost |
 | 25/05/2026 | [Dead Bats](../2026/dead-bats) | **Won** |
