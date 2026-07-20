@@ -56,7 +56,7 @@ parent: 2026 Fixtures
 | **A Beswick** | c T Riley | Ahmand jr | 33 |
 | **R Beswick &#42;** | b | Hamidullah | 0 |
 | **S Barrowcliff** | b| Ahmand jr | 4 |
-| **JA Khan** | c | S Shah | 13 |
+| **A Khan** | c | S Shah | 13 |
 | **J Stacey** | c & b | S Shah | 11 |
 | **P Wigg** | c |  | 20 |
 | **I Miah** | not out |  | 21 |
@@ -87,6 +87,6 @@ parent: 2026 Fixtures
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|:---|
-| 2 | 2 | 1 | 0 |
+| 2 | 2 | 0 | 0 |
 
 {% include nextGame %}
