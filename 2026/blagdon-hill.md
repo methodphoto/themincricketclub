@@ -13,6 +13,8 @@ parent: 2026 Fixtures
 
 {% include newMatchDetails %}
 
+A Beswick's 2nd 100 for The Min and highest score
+
 ## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
