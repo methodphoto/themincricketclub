@@ -23,7 +23,7 @@ parent: Records
 | 3rd wkt | 172&#42; |
 | 4th wkt | 186&#42; |
 | 5th wkt | 140 |
-| 6th wkt | 106 |
+| 6th wkt | 136 |
 | 7th wkt | 147 |
 
 ## 150+ Partnerships by Total
@@ -38,7 +38,7 @@ parent: Records
 | **1992** | 2nd wkt | I Marshall (108&#42;) and S Barrowcliff (66&#42;) | [Dowlish Wake](../1992/dowlish-wake) | **160&#42;** |
 | **2002** | 1st wkt | R Earney (101) and R Kitson (67) | [Watton-at-Stone](../2002/watton-at-stone) | **158** |
 | **2015** | 1st wkt | R Earney (82) and S Hornsby (62&#42;) | [Headley](../2015/headley) | **155** |
-| **2005** | 2nd wkt |  R Earney (122&#42;) and A Slight (64) | [SB Exiles](../2005/sb-exiles) | **155** |
+| **2005** | 2nd wkt | R Earney (122&#42;) and A Slight (64) | [SB Exiles](../2005/sb-exiles) | **155** |
 | **1995** | 1st wkt | R Earney (100) and S Barrowcliff (46) | [Ockley](../1995/ockley) | **154** |
 | **2001** | 1st wkt | R Earney (106) and R Beswick (44) | [Wareham](../2001/wareham) | **151** |
 
@@ -46,6 +46,7 @@ parent: Records
 
 | Year | Position | Batsman and Score | Opponent | Partnership |
 |:---|:---|:---|:---|
+| **2026** | 6th wkt | M Griffiths (117&#42;) and P Wigg (41) | [Broadway and Horton](../2026/broadway-and-horton) | **136** |
 | **2026** | 3rd wkt | A Beswick (85) and J Stacey (46) | [Dead Bats](../2026/dead-bats) | **140** |
 | **2025** | 7th wkt | M Rogers (74&#42;) and I Ali (53) | [Railway Taverners](../2025/railway-taverners) | **103** |
 | **2025** | 1st wkt | M Griffiths (96&#42;) and A Beswick (66) | [Broadway and Horton](../2025/broadway-and-horton) | **130** |

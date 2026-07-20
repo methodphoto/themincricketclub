@@ -46,6 +46,7 @@ parent: Records
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| **2026** | A Beswick | [Easton Cowfolk](../2026/easton-cowfolk) | **50** |
 | **2026** | A Beswick | [Dead Bats](../2026/dead-bats) | **85** |
 | **2026** | A Beswick | [The Mighty Wanderers](../2026/the-mighty-wanderers) | **52&#42;** |
 | **2025** | A Beswick | [Reigate Pilgrims](../2025/reigate-pilgrims) | **52&#42;** |
