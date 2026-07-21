@@ -8,7 +8,7 @@ date: 17/07/2025
 report: The Min won the toss and batted first making 231 for 7 wkts in 35 overs. Broadway replied with 183 all out.
 result: The Min retained The Ashes by 48 runs
 next: 
-parent: 2025 Fixtures
+parent: 2026 Fixtures
 ---
 
 {% include newMatchDetails %}
@@ -24,7 +24,7 @@ M Griffiths 1st 100 and highest score for The Min.<br>
 | **J Stacey** | b | T Pawley | 27 |
 | **J Casey** | b | L Bradshaw | 8 |
 | **B Boyd-Tailor** | c | A Hanhem | 3 |
-| **M Griffiths** | not out |  | 117* |
+| **M Griffiths** | not out |  | 117 |
 | **A Gallagher** | c D Cook | H Harrison | 0 |
 | **A Beswick &#42;** | b | H Harrison | 0 |
 | **W Calvert** | lbw | J Hayes | 6 |

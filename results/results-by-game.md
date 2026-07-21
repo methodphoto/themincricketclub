@@ -7,6 +7,12 @@ parent: Results
 
 # {{page.title}}
 
+<details open markdown="block">
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## 2026
 
 |:---|:---|:---|
@@ -30,12 +36,6 @@ parent: Results
 | 08/06/2025 | [Alaftar CC](../2025/alaftar-cc) | Lost |
 | 01/06/2025 | [Highate Irregulars](../2025/highgate-irregulars) | Lost |
 | 18/05/2025 | [Stoneydown CC](../2025/stoneydown-cc) | **Won** |
-
-<details open markdown="block">
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 ## 2024
 

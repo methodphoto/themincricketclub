@@ -11,15 +11,11 @@ parent: Results
 
 | Opponent | Played | Won | Lost | Drawn | Tied | % Wins | Overall |
 |:---|:---|:---|:---|:---|:---|:---|---:|
-| **Broadway and Horton** | 32 | 19 | 10 | 3 | 0 | 59.37 | +9 |
+| **Broadway and Horton** | 33 | 20 | 10 | 3 | 0 | 60.60 | +10 |
 | **Reigate Pilgrims** | 32 | 8 | 11 | 13 | 0 | 25.00 | -3 |
-| **Ashes Matches** | 26 | 17 | 8 | 1 | 0 | 65.38 | +9 |
-| **Stowting** | 25 | 8 | 6 | 11 | 0 | 32.00 | +2 |
-| **Selling** | 16 | 8 | 8 | 0 | 0 | 50.00 | 0 |
+| **Ashes Matches** | 27 | 18 | 8 | 1 | 0 | 66.66 | +10 |
 | **Middleton Stoney** | 15 | 4 | 4 | 7 | 0 | 26.66 | 0 |
-| **Newington** | 12 | 6 | 6 | 0 | 0 | 50 |  |
-| **Blagdon Hill** | 10 | 5 | 5 | 0 | 0 | 50 | 0 |
-| **Frensham** | 9 | 6 | 2 | 1 | 0 | 66.66 | +4 |
+| **Blagdon Hill** | 11 | 6 | 5 | 0 | 0 | 54.54 | 1 |
 
 ## No longer playing
 
@@ -27,12 +23,16 @@ parent: Results
 |:---|:---|:---|:---|:---|:---|:---|---:|
 | **Watton-at-Stone** | 30 | 14 | 9 | 7 | 0 | 46.67 | 5 |
 | **Horningsham** | 28 | 12 | 6 | 10 | 0 | 42.86 | 6 |
+| **Stowting** | 25 | 8 | 6 | 11 | 0 | 32.00 | +2 |
 | **Newdigate** | 20 | 7 | 6 | 7 | 0 | 35.00 | 1 |
+| **Selling** | 16 | 8 | 8 | 0 | 0 | 50.00 | 0 |
 | **Ockley** | 16 | 6 | 3 | 7 | 0 | 37.50 | 3 |
 | **Kilmington and Stourton** | 14 | 6 | 5 | 3 | 0 | 42.86 | 1 |
+| **Newington** | 12 | 6 | 6 | 0 | 0 | 50 |  |
 | **Tappers** | 12 | 4 | 6 | 2 | 0 | 33.33 | -2 |
 | **Old Elthamians** | 12 | 6 | 3 | 3 | 0 | 50.00 | 3 |
 | **Britwell Salome** | 11 | 6 | 3 | 2 | 0 | 54.55 | 3 |
+| **Frensham** | 9 | 6 | 2 | 1 | 0 | 66.66 | +4 |
 | **Valley End** | 8 | 3 | 3 | 2 | 0 | 37.50 | 0 |
 | **ELCCC/Nightwatchmen** | 8 | 3 | 5 | 0 | 0 | 37.50 | -2 |
 | **Hetairoi** | 8 | 3 | 4 | 1 | 0 | 37.50 | -1 |
