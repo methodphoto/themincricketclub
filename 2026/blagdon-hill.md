@@ -7,7 +7,7 @@ location: Sellick's Green
 date: 16/07/2026
 report: The Min won the toss and batted first. They made 255 for 6 wkts in 35 overs. Blagdon Hill replied with 188 all out.
 result: The Min  won by 67 runs
-next: 
+next: broadway-and-horton
 parent: 2026 Fixtures
 ---
 
@@ -65,7 +65,7 @@ A Beswick's 2nd 100 for The Min and highest score
 | **A Williams** | b | M Griffiths | 5 |
 | **A Slater** | b | M Griffiths | 0 |
 | **D Wright** | b | R Beswick | 4 |
-| **A Hanham &#42;** | not out | 0 |
+| **A Hanham &#42;** | not out |  | 0 |
 | **Extras** | | (3b 2lb 4w 2nb 0p) | **11** |
 | **Total** | | (31.4 overs) | **188 all out** |
 

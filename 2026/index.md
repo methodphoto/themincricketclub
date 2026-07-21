@@ -17,9 +17,9 @@ nav_order: 2
 |:---|:---|:---|
 | 28th<br/>13:30 | [Middleton&nbsp;Stoney](middleton-stoney) | [OX25&nbsp;4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) | 🥪 |
 | Jul – Tour |  |  |  |
-| 16th<br/>14:00 | Blagdon&nbsp;Hill | [TA3&nbsp;7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
-| 17th<br/>14:00 | Broadway&nbsp;and&nbsp;Horton | [TA19&nbsp;9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
-| 18th<br/>13:00 | Easton&nbsp;Cowfolk&nbsp;CC | [BS8&nbsp;3QD](https://maps.google.com?q=Abbots%20Leigh,%20Bristol%20BS8%203QD&ftid=0x48718d0ed1718af3:0xf188669d96c2f34c&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813464,94286869,100820247&g_st=ic) | ⚪️ |
+| 16th<br/>14:00 | [Blagdon&nbsp;Hill](blagdon-hill) | [TA3&nbsp;7SA](https://goo.gl/maps/H6iLZLNcja12) | 🥪 |
+| 17th<br/>14:00 | [Broadway&nbsp;and&nbsp;Horton](broadway-and-horton) | [TA19&nbsp;9RA](https://goo.gl/maps/hVamJL8if6v) | 🥪 |
+| 18th<br/>13:00 | [Easton&nbsp;Cowfolk&nbsp;CC](easton-cowfolk) | [BS8&nbsp;3QD](https://maps.app.goo.gl/JsvpX1MzYaWturpo8) | ⚪️ |
 | Aug |  |  |  |
 |:---|:---|:---|
 | 16th<br/>13:00 | St&nbsp;Anne's&nbsp;Allstars | [N22&nbsp;7AX](https://maps.app.goo.gl/wuhYQfawQnkMXxeY9) | ⚪️ |

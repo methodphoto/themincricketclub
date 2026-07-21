@@ -7,7 +7,7 @@ location: Middleton Park
 date: 28/06/2026
 report: The Min won the toss and inserted Middleton Stoney who made 166 for 8 wkts. The Min replied with 151 for 9 wkts (all out).
 result: Middleton Stoney won by 15 runs
-next: 
+next: blagdon-hill
 parent: 2026 Fixtures
 ---
 

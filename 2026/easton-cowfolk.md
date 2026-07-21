@@ -13,6 +13,8 @@ parent: 2026 Fixtures
 
 {% include newMatchDetails %}
 
+A Beswick's 22st 50.
+
 ## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |

@@ -7,7 +7,7 @@ location: The Fusion Fostering Ground
 date: 17/07/2025
 report: The Min won the toss and batted first making 231 for 7 wkts in 35 overs. Broadway replied with 183 all out.
 result: The Min retained The Ashes by 48 runs
-next: 
+next: easton-cowfolk
 parent: 2026 Fixtures
 ---
 
