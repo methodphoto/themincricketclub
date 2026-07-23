@@ -19,7 +19,7 @@ Debut: [Newdigate 2004](../2004/newdigate)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 44 | 44 | 3 | 1251 | 30.51 |
 
 | Year | Opponent | Score |

@@ -19,7 +19,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 17 | 17 | 6 | 499 | 45.36 |
 
 | Year | Opponent | Score |

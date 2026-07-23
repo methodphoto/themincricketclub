@@ -19,7 +19,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 6 | 6 | 0 | 110 | 18.33 |
 
 | Year | Opponent | Score |

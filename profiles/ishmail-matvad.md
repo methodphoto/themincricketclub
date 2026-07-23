@@ -19,7 +19,7 @@ Debut: [Newington 2018](../2018/newington)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 7 | 7 | 0 | 222 | 31.71 |
 
 | Year | Opponent | Score |

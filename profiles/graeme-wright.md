@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,14 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 36 | 36 | 16 | 177 | 8.85 |
+|:---|:---|:---|:---|:---|:---|
+| 37 | 37 | 16 | 177 | 8.43 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2015** | [Blagdon Hill](../2015/blagdon-hill) | **0** |
 | **2004** | [Britwell Salome](../2004/britwell-salome) | **1** |
 | **1997** | [Farnborough](../1997/farnborough) | **1**&#42; |
 | **1994** | [Farnborough](../1994/farnborough) | **3**&#42; |

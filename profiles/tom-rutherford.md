@@ -19,7 +19,7 @@ Debut: [Britwell Salome 2006](../2006/britwell-salome)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 60 | 60 | 7 | 1112 | 20.98 |
 
 | Year | Opponent | Score |
@@ -50,11 +50,11 @@ Debut: [Britwell Salome 2006](../2006/britwell-salome)
 |  | [Islip](../2010/islip) | **2** |
 |  | [Horningsham](../2010/horningsham) | **0** |
 |  | [Kilmington and Stourton](../2010/kilmington-and-stourton) | **12** |
+|  | [Watton-at-Stone](../2010/watton-at-stone) | **2** |
 |  | [Newdigate](../2010/newdigate) | **51** |
 |  | [Middleton Stoney](../2010/middleton-stoney) | **6** |
 |  | [ELCCC](../2010/elccc) | **6**&#42; |
 |  | [Trafford Croydon](../2010/trafford-croydon) | **14**&#42; |
-|  | [Watton-at-Stone](../2010/watton-at-stone) | **2** |
 | **2008** | [Harrow St Mary's](../2008/harrow-st-marys) | **0** |
 |  | [Old Min Young Min](../2008/old-min-young-min) | **32** |
 |  | [Horningsham](../2008/horningsham) | **12** |
@@ -113,10 +113,10 @@ Debut: [Britwell Salome 2006](../2006/britwell-salome)
 |  | [Horningsham](../2010/horningsham) | 3 | 0 | 7 | 0 |
 |  | [Kilmington and Stourton](../2010/kilmington-and-stourton) | 4 | 1 | 35 | 1 |
 |  | [Broadway and Horton](../2010/broadway-and-horton) | 5 | 1 | 29 | 3 |
+|  | [Watton-at-Stone](../2010/watton-at-stone) | 6 | 1 | 33 | 0 |
 |  | [Middleton Stoney](../2010/middleton-stoney) | 1 | 1 | 0 | 0 |
 |  | [ELCCC](../2010/elccc) | 6 | 0 | 30 | 0 |
 |  | [Trafford Croydon](../2010/trafford-croydon) | 5 | 1 | 12 | 1 |
-|  | [Watton-at-Stone](../2010/watton-at-stone) | 6 | 1 | 33 | 0 |
 | **2008** | [Harrow St Mary's](../2008/harrow-st-marys) | 6 | 1 | 20 | 1 |
 |  | [Old Min Young Min](../2008/old-min-young-min) | 6 | 0 | 37 | 1 |
 |  | [Horningsham](../2008/horningsham) | 1 | 1 | 0 | 0 |

@@ -19,7 +19,7 @@ Debut: [Britwell Salome 2010](../2010/britwell-salome)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 8 | 8 | 1 | 334 | 47.71 |
 
 | Year | Opponent | Score |

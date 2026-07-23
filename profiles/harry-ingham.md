@@ -19,7 +19,7 @@ Debut: [Ockley 1991](../1991/ockley)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 64 | 64 | 16 | 1012 | 21.08 |
 
 | Year | Opponent | Score |

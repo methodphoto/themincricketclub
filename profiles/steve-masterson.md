@@ -19,7 +19,7 @@ Debut: [Ockley 1996](../1996/ockley)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 15 | 15 | 4 | 72 | 6.55 |
 
 | Year | Opponent | Score |

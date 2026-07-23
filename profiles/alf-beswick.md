@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,13 +20,42 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 68 | 68 | 7 | 1518 | 24.89 |
+| 94 | 94 | 9 | 2565 | 30.18 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2026** | [Easton Cowfolk](../2026/easton-cowfolk) | **52** |
+|  | [Broadway and Horton](../2026/broadway-and-horton) | **0** |
+|  | [Blagdon Hill](../2026/blagdon-hill) | **112** |
+|  | [Middleton Stoney](../2026/middleton-stoney) | **33** |
+|  | [Dead Bats](../2026/dead-bats) | **85** |
+|  | [The Mighty Wanderers](../2026/the-mighty-wanderers) | **54** |
+| **2025** | [Reigate Pilgrims](../2025/reigate-pilgrims) | **52**&#42; |
+|  | [Railway Taverners](../2025/railway-taverners) | **36** |
+|  | [Broadway and Horton](../2025/broadway-and-horton) | **66** |
+|  | [Blagdon Hill](../2025/blagdon-hill) | **54** |
+|  | [St Anne's Allstars](../2025/st-annes-allstars) | **38** |
+|  | [Alaftar CC](../2025/alaftar-cc) | **3** |
+|  | [Highgate Irregulars](../2025/highgate-irregulars) | **46** |
+|  | [Stoneydown CC](../2025/stoneydown-cc) | **27** |
+| **2024** | [Reigate Pilgrims](../2024/reigate-pilgrims) | **14** |
+|  | [Railway Taverners](../2024/railway-taverners) | **47** |
+|  | [Hornchurch Athletic](../2024/hornchurch-athletic) | **57** |
+|  | [Broadway and Horton](../2024/broadway-and-horton) | **70** |
+|  | [Blagdon Hill](../2024/blagdon-hill) | **9** |
+|  | [Frensham](../2024/frensham) | **47** |
+|  | [Highgate Irregulars](../2024/highgate-irregulars) | **111** |
+| **2023** | [Hornchurch Athletic](../2023/hornchurch-athletic) | **52** |
+|  | [Railway Taverners](../2023/railway-taverners) | **26** |
+|  | [Belhus](../2023/belhus) | **13**&#42; |
+|  | [Banstead](../2023/banstead) | **19**&#42; |
+|  | [Stowting](../2023/stowting) | **10** |
+|  | [Newington](../2023/newington) | **0** |
 | **2022** | [Hornchurch Athletic](../2022/hornchurch-athletic) | **30** |
 |  | [Reigate Pilgrims](../2022/reigate-pilgrims) | **27** |
 |  | [Banstead](../2022/banstead) | **25** |
+|  | [Broadway and Horton](../2022/broadway-and-horton) | **12** |
+|  | [Blagdon Hill](../2022/blagdon-hill) | **94** |
 |  | [Frensham](../2022/frensham) | **0** |
 |  | [Newington](../2022/newington) | **35** |
 |  | [Bricklayer's Arms](../2022/bricklayers-arms) | **0** |
@@ -36,10 +65,8 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 |  | [Wandering Maniacs](../2021/wandering-maniacs) | **19** |
 |  | [Kingstonian](../2021/kingstonian) | **64** |
 |  | [Broadway and Horton](../2021/broadway-and-horton) | **3** |
-| **2022** | [Broadway and Horton](../2022/broadway-and-horton) | **12** |
-| **2021** | [Blagdon Hill](../2021/blagdon-hill) | **16** |
-| **2022** | [Blagdon Hill](../2022/blagdon-hill) | **94** |
-| **2021** | [Bricklayer's Arms](../2021/bricklayers-arms) | **59** |
+|  | [Blagdon Hill](../2021/blagdon-hill) | **16** |
+|  | [Bricklayer's Arms](../2021/bricklayers-arms) | **59** |
 |  | [Newington](../2021/newington) | **1** |
 |  | [Middleton Stoney](../2021/middleton-stoney) | **19** |
 | **2020** | [Banstead](../2020/banstead) | **47** |
@@ -93,16 +120,16 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 | **2005** | [Hornchurch](../2005/hornchurch) | **3** |
 
 
-**Highest Score**: 94 v [Blagdon Hill](../2021/blagdon-hill)<br />
-**Fifties:** 8<br />
-**Hundreds:** 0
+**Highest Score**: 112 v [Blagdon Hill](../2026/blagdon-hill)<br />
+**Fifties:** 22<br />
+**Hundreds:** 2
 
 
 ## Bowling
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 28 | 58.4 | 6 | 307 | 13 | 23.62 | 27.08 |
+| 27 | 56.4 | 6 | 293 | 13 | 22.54 | 26.15 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

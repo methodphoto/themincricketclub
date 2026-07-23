@@ -19,7 +19,7 @@ Debut: [British Legion Rickmansworth 1984](../1984/british-legion-rickmansworth)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 43 | 43 | 9 | 235 | 6.91 |
 
 | Year | Opponent | Score |

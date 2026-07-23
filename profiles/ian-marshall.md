@@ -19,8 +19,8 @@ Debut: [Putney 1989](../1989/putney)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 154 | 154 | 30 | 2587 | 20.86 |
+|:---|:---|:---|:---|:---|:---|
+| 150 | 150 | 29 | 2543 | 21.02 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -98,13 +98,13 @@ Debut: [Putney 1989](../1989/putney)
 |  | [Stowting](../1998/stowting) | **17** |
 |  | [Ockley](../1998/ockley) | **7** |
 | **1997** | [Slip End](../1997/slip-end) | **0** |
-|  | [Captain Scott XI](../1997/captain-scott) | **27** |
 |  | [Farnborough](../1997/farnborough) | **8** |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | **14** |
 |  | [Wincanton Casuals](../1997/wincanton-casuals) | **26** |
 |  | [Players and Jesters](../1997/players-and-jesters) | **5** |
 |  | [Ockley](../1997/ockley) | **0** |
 |  | [Valley End](../1997/valley-end) | **30** |
+|  | [Captain Scott XI](../1997/captain-scott) | **27** |
 | **1996** | [Watton-at-Stone](../1996/watton-at-stone) | **18** |
 |  | [Littlewick Green](../1996/littlewick-green) | **3** |
 |  | [Captain Scott](../1996/captain-scott) | **1** |
@@ -185,7 +185,7 @@ Debut: [Putney 1989](../1989/putney)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 189 | 1731.2 | 423 | 5190 | 277 | 18.74 | 37.50 |
+| 184 | 1698.2 | 416 | 5083 | 271 | 18.76 | 37.60 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -291,13 +291,13 @@ Debut: [Putney 1989](../1989/putney)
 |  | [Ockley](../1998/ockley) | 6 | 1 | 20 | 1 |
 | **1997** | [Slip End](../1997/slip-end) | 19 | 3 | 42 | 4 |
 |  | [Hetairoi](../1997/hetairoi) | 3 | 0 | 7 | 0 |
-|  | [Captain Scott XI](../1997/captain-scott) | 15 | 4 | 25 | 2 |
 |  | [Farnborough](../1997/farnborough) | 10.4 | 2 | 26 | 6 |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | 8 | 2 | 18 | 1 |
 |  | [Tappers](../1997/tappers) | 6 | 0 | 23 | 0 |
 |  | [Players and Jesters](../1997/players-and-jesters) | 13 | 0 | 44 | 3 |
 |  | [Ockley](../1997/ockley) | 7 | 3 | 17 | 0 |
 |  | [Valley End](../1997/valley-end) | 11 | 1 | 56 | 1 |
+|  | [Captain Scott XI](../1997/captain-scott) | 15 | 4 | 25 | 2 |
 | **1996** | [Watton-at-Stone](../1996/watton-at-stone) | 13 | 1 | 53 | 2 |
 |  | [Stonor](../1996/stonor) | 7 | 2 | 15 | 1 |
 |  | [Littlewick Green](../1996/littlewick-green) | 12 | 6 | 20 | 1 |

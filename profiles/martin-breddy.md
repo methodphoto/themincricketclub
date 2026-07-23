@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,14 @@ Debut: [Valley End 1987](../1987/valley-end)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 20 | 20 | 0 | 758 | 37.90 |
+|:---|:---|:---|:---|:---|:---|
+| 21 | 21 | 0 | 760 | 36.19 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2016** | [Frensham](../2016/frensham) | **2** |
 | **2014** | [Frensham](../2014/frensham) | **85** |
 | **1990** | [Brook](../1990/brook) | **15** |
 | **1989** | [Hetairoi](../1989/hetairoi) | **85** |

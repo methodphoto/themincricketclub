@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,30 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 132 | 132 | 14 | 2960 | 25.08 |
+|:---|:---|:---|:---|:---|:---|
+| 146 | 146 | 16 | 3017 | 23.21 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2026** | [Easton Cowfolk](../2026/easton-cowfolk) | **29** |
+|  | [Broadway and Horton](../2026/broadway-and-horton) | **0** |
+|  | [Blagdon Hill](../2026/blagdon-hill) | **0** |
+|  | [The Mighty Wandererss](../2026/the-mighty-wanderers) | **11**&#42; |
+| **2025** | [Middleton Stoney](../2025/middleton-stoney) | **0** |
+|  | [Alaftar CC](../2025/alaftar-cc) | **6** |
+|  | [Stoneydown CC](../2025/stoneydown-cc) | **20** |
+| **2024** | [Reigate Pilgrims](../2024/reigate-pilgrims) | **6** |
+|  | [Hornchurch Athletic](../2024/hornchurch-athletic) | **11** |
+|  | [Broadway and Horton](../2024/broadway-and-horton) | **13** |
+|  | [Blagdon Hill](../2024/blagdon-hill) | **10**&#42; |
+| **2023** | [Reigate Pilgrims](../2023/reigate-pilgrims) | **2** |
+|  | [Banstead](../2023/banstead) | **0** |
+|  | [Broadway and Horton](../2023/broadway-and-horton) | **1** |
+|  | [Blagdon Hill](../2023/blagdon-hill) | **0** |
+|  | [Stowting](../2023/stowting) | **2** |
+|  | [St Anne's Allstars](../2023/st-annes-allstars) | **1** |
 | **2022** | [Hornchurch Athletic](../2022/hornchurch-athletic) | **10** |
 |  | [Banstead](../2022/banstead) | **0** |
 |  | [Bricklayer's Arms](../2022/bricklayers-arms) | **12** |
@@ -145,10 +163,10 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 |  | [Ealing Commoners](../1984/ealing-commoners) | **32** |
 |  | [Greenford](../1984/greenford) | **27** |
 |  | [West Green](../1984/west-green) | **7** |
-| **1983** | [Bathurst Arms](../1983/bathurst-arms) | **19** |
+| **1983** | [A Good Length](../1983/a-good-length) | **50**&#42; |
+|  | [Bathurst Arms](../1983/bathurst-arms) | **19** |
 |  | [Nick Hoares XI](../1983/nick-hoares-xi) | **81** |
 |  | [Lobsters](../1983/lobsters) | **25** |
-|  | [A Good Length](../1983/a-good-length) | **50**&#42; |
 | **1982** | [A Good Length 2](../1982/a-good-length-2) | **20** |
 |  | [Bristol Young Solicitors](../1982/bristol-young-solicitors) | **0** |
 |  | [Leyhill](../1982/leyhill) | **1** |
@@ -162,12 +180,14 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 
 ## Bowling
 
+
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 53 | 199 | 11 | 1049 | 38 | 27.61 | 31.42 |
+| 53 | 197 | 11 | 1032 | 38 | 27.16 | 31.11 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
+| **2026** | [Broadway and Horton](../2026/broadway-and-horton) | 2 | 0 | 17 | 1 |
 | **2019** | [Railway Taverners](../2019/railway-taverners) | 1 | 0 | 12 | 0 |
 |  | [Newington](../2019/newington) | 5 | 0 | 34 | 0 |
 | **2017** | [Newington](../2017/newington) | 0.5 | 0 | 8 | 0 |

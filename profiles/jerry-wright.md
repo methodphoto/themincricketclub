@@ -19,8 +19,8 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 176 | 176 | 73 | 913 | 8.86 |
+|:---|:---|:---|:---|:---|:---|
+| 174 | 174 | 73 | 908 | 8.99 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -209,7 +209,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 368 | 2725.4 | 365 | 10532 | 538 | 19.58 | 30.40 |
+| 366 | 2709.2 | 359 | 10472 | 532 | 19.68 | 30.56 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -565,8 +565,8 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Ealing Commoners](../1984/ealing-commoners) | 11 | 4 | 15 | 2 |
 |  | [Greenford](../1984/greenford) | 10 | 2 | 29 | 3 |
 |  | [West Green](../1984/west-green) | 4 | 0 | 20 | 1 |
-| **1983** | [Bathurst Arms](../1983/bathurst-arms) | 3 | 0 | 18 | 0 |
-|  | [A Good Length](../1983/a-good-length) | 2 | 0 | 5 | 3 |
+| **1983** | [A Good Length](../1983/a-good-length) | 2 | 0 | 5 | 3 |
+|  | [Bathurst Arms](../1983/bathurst-arms) | 3 | 0 | 18 | 0 |
 | **1982** | [Clifton College](../1982/clifton-college) | 5 | 1 | 30 | 0 |
 |  | [Clifton College](../1982/clifton-college) | 14 | 2 | 24 | 1 |
 |  | [A Good Length 2](../1982/a-good-length-2) | 9.3 | 1 | 35 | 1 |

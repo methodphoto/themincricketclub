@@ -19,7 +19,7 @@ Debut: [West Green 1984](../1984/west-green)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 25 | 25 | 4 | 275 | 13.10 |
 
 | Year | Opponent | Score |

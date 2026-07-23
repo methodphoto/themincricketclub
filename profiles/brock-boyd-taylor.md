@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,22 @@ Debut: [Railway Taverners 2019](../2019/railway-taverners)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 9 | 9 | 1 | 212 | 26.50 |
+|:---|:---|:---|:---|:---|:---|
+| 18 | 18 | 2 | 468 | 29.25 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2026** | [The Mighty Wandererss](../2026/the-mighty-wanderers) | **23** |
+| **2025** | [Railway Taverners](../2025/railway-taverners) | **11** |
+|  | [Alaftar CC](../2025/alaftar-cc) | **73** |
+| **2024** | [Broadway and Horton](../2024/broadway-and-horton) | **13** |
+|  | [Blagdon Hill](../2024/blagdon-hill) | **49** |
+| **2023** | [Reigate Pilgrims](../2023/reigate-pilgrims) | **4** |
+|  | [Railway Taverners](../2023/railway-taverners) | **35**&#42; |
+|  | [Belhus](../2023/belhus) | **41** |
+|  | [Stowting](../2023/stowting) | **7** |
 | **2022** | [Hornchurch Athletic](../2022/hornchurch-athletic) | **10** |
 |  | [Reigate Pilgrims](../2022/reigate-pilgrims) | **5** |
 |  | [St Anne's Allstars](../2022/st-annes-allstars) | **66**&#42; |
@@ -35,7 +45,7 @@ Debut: [Railway Taverners 2019](../2019/railway-taverners)
 | **2019** | [Railway Taverners](../2019/railway-taverners) | **10** |
 
 
-**Highest Score**: 66* v [St Anne's Allstars](../2022/st-annes-allstars)<br />
+**Highest Score**: 73 v [Alaftar CC](../2025/alaftar-cc)<br />
 **Fifties:** 1<br />
 **Hundreds:** 0
 

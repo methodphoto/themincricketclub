@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,14 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 70 | 70 | 16 | 497 | 9.20 |
+|:---|:---|:---|:---|:---|:---|
+| 71 | 71 | 16 | 501 | 9.11 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2006** | [Sanderstead](../2006/sanderstead) | **4** |
 | **1997** | [Farnborough](../1997/farnborough) | **13** |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | **0** |
 |  | [Wincanton Casuals](../1997/wincanton-casuals) | **12**&#42; |

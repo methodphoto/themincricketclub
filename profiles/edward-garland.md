@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,15 @@ Debut: [Greenford 1984](../1984/greenford)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 170 | 170 | 52 | 1674 | 14.19 |
+|:---|:---|:---|:---|:---|:---|
+| 168 | 168 | 51 | 1608 | 13.74 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2023** | [Blagdon Hill](../2023/blagdon-hill) | **1** |
+|  | [St Anne's Allstars](../2023/st-annes-allstars) | **0** |
 | **2022** | [Banstead](../2022/banstead) | **0**&#42; |
 |  | [Frensham](../2022/frensham) | **4** |
 | **2021** | [Reigate Pilgrims](../2021/reigate-pilgrims) | **14**&#42; |
@@ -201,7 +204,7 @@ Debut: [Greenford 1984](../1984/greenford)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 187 | 1010.5 | 88 | 4897 | 268 | 18.27 | 22.63 |
+| 183 | 977.5 | 83 | 4778 | 257 | 18.59 | 22.83 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -333,13 +336,13 @@ Debut: [Greenford 1984](../1984/greenford)
 |  | [Ockley](../1998/ockley) | 4 | 0 | 18 | 2 |
 | **1997** | [Slip End](../1997/slip-end) | 10 | 1 | 37 | 1 |
 |  | [Hetairoi](../1997/hetairoi) | 10 | 1 | 47 | 3 |
-|  | [Captain Scott XI](../1997/captain-scott) | 5 | 0 | 16 | 1 |
 |  | [Farnborough](../1997/farnborough) | 4 | 1 | 17 | 0 |
 |  | [Kilmington and Stourton](../1997/kilmington-and-stourton) | 2 | 0 | 11 | 1 |
 |  | [Great Braxted](../1997/great-braxted) | 2 | 0 | 16 | 0 |
 |  | [Tappers](../1997/tappers) | 4 | 0 | 24 | 1 |
 |  | [Players and Jesters](../1997/players-and-jesters) | 7 | 0 | 36 | 4 |
 |  | [Ockley](../1997/ockley) | 7 | 0 | 31 | 4 |
+|  | [Captain Scott XI](../1997/captain-scott) | 5 | 0 | 16 | 1 |
 | **1996** | [Great Braxted](../1996/great-braxted) | 4 | 0 | 24 | 0 |
 |  | [Littlewick Green](../1996/littlewick-green) | 1 | 1 | 0 | 0 |
 |  | [Broadway and Horton](../1996/broadway-and-horton) | 2 | 0 | 15 | 0 |

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,14 @@ Debut: [Ockley 1991](../1991/ockley)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 82 | 82 | 15 | 2056 | 30.69 |
+|:---|:---|:---|:---|:---|:---|
+| 83 | 83 | 15 | 2057 | 30.25 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2023** | [Reigate Pilgrims](../2023/reigate-pilgrims) | **1** |
 | **2021** | [Reigate Pilgrims](../2021/reigate-pilgrims) | **35** |
 |  | [Banstead](../2021/banstead) | **1** |
 | **2017** | [Reigate Pilgrims](../2017/reigate-pilgrims) | **2** |
@@ -104,8 +106,8 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Britwell Salome](../2008/britwell-salome) | **15** |
 | **2007** | [Watton-at-Stone](../2007/watton-at-stone) | **18** |
 |  | [Grimsdyke CC](../2007/grimsdyke-cc) | **9** |
-| **2009** | [Britwell Salome](../2009/britwell-salome) | **40** |
-|  | [Ockley](../2009/ockley) | **79**&#42; |
+| **2009** | [Ockley](../2009/ockley) | **79**&#42; |
+|  | [Britwell Salome](../2009/britwell-salome) | **40** |
 
 
 **Highest Score**: 100 v [Frensham](../2017/frensham)<br />
@@ -198,8 +200,8 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Britwell Salome](../2008/britwell-salome) | 8 | 3 | 15 | 2 |
 | **2007** | [Watton-at-Stone](../2007/watton-at-stone) | 8 | 1 | 33 | 0 |
 |  | [Grimsdyke CC](../2007/grimsdyke-cc) | 4 | 0 | 29 | 1 |
-| **2009** | [Britwell Salome](../2009/britwell-salome) | 10 | 1 | 21 | 2 |
-|  | [Ockley](../2009/ockley) | 6 | 1 | 9 | 1 |
+| **2009** | [Ockley](../2009/ockley) | 6 | 1 | 9 | 1 |
+|  | [Britwell Salome](../2009/britwell-salome) | 10 | 1 | 21 | 2 |
 
 
 **Best Bowling:** 11-1-41-5 v [Stowting](../2009/stowting)<br />

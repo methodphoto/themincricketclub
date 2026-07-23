@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,25 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 289 | 289 | 34 | 3726 | 14.61 |
+|:---|:---|:---|:---|:---|:---|
+| 300 | 300 | 35 | 3856 | 14.55 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2026** | [Easton Cowfolk](../2026/easton-cowfolk) | **5** |
+|  | [Broadway and Horton](../2026/broadway-and-horton) | **6** |
+|  | [Blagdon Hill](../2026/blagdon-hill) | **28** |
+| **2025** | [Reigate Pilgrims](../2025/reigate-pilgrims) | **0** |
+|  | [Blagdon Hill](../2025/blagdon-hill) | **12** |
+|  | [Middleton Stoney](../2025/middleton-stoney) | **1** |
+| **2024** | [Blagdon Hill](../2024/blagdon-hill) | **44** |
+|  | [Frensham](../2024/frensham) | **0**&#42; |
+| **2023** | [Reigate Pilgrims](../2023/reigate-pilgrims) | **2** |
+|  | [Broadway and Horton](../2023/broadway-and-horton) | **11** |
+|  | [Blagdon Hill](../2023/blagdon-hill) | **15** |
+|  | [Stowting](../2023/stowting) | **32** |
 | **2022** | [Banstead](../2022/banstead) | **20** |
 |  | [Frensham](../2022/frensham) | **0** |
 |  | [Newington](../2022/newington) | **0** |
@@ -318,12 +331,14 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 ## Bowling
 
+
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 121 | 663.4 | 87 | 2918 | 151 | 19.32 | 26.37 |
+| 118 | 654.4 | 86 | 2874 | 149 | 19.29 | 26.36 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
+| **2019** | [Kingstonian](../2019/kingstonian) | 2 | 0 | 11 | 0 |
 | **1986** | [Godstone](../1986/godstone) | 5 | 1 | 20 | 0 |
 | **2014** | [Broadway and Horton](../2014/broadway-and-horton) | 2 | 0 | 3 | 0 |
 | **2006** | [Ockley](../2006/ockley) | 3 | 0 | 9 | 0 |

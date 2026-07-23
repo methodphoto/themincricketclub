@@ -19,7 +19,7 @@ Debut: [ELCCC 2009](../2009/elccc)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 5 | 5 | 1 | 204 | 51.00 |
 
 | Year | Opponent | Score |

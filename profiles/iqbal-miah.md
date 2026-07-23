@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,25 @@ Debut: [Britwell Salome 2005](../2005/britwell-salome)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 30 | 30 | 11 | 325 | 17.11 |
+|:---|:---|:---|:---|:---|:---|
+| 41 | 41 | 13 | 463 | 16.54 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2026** | [Middleton Stoney](../2026/middleton-stoney) | **21**&#42; |
+|  | [Highgate Irregulars](../2026/highgate-irregulars) | **34** |
+|  | [Dead Bats](../2026/dead-bats) | **8** |
+| **2025** | [Railway Taverners](../2025/railway-taverners) | **1** |
+|  | [St Anne's Allstars](../2025/st-annes-allstars) | **10**&#42; |
+|  | [Middleton Stoney](../2025/middleton-stoney) | **3** |
+|  | [Highgate Irregulars](../2025/highgate-irregulars) | **1** |
+|  | [Stoneydown CC](../2025/stoneydown-cc) | **8** |
+| **2024** | [Reigate Pilgrims](../2024/reigate-pilgrims) | **1** |
+|  | [Trinity Oxley CC](../2024/trinity-oxley-cc) | **31** |
+| **2023** | [Hornchurch Athletic](../2023/hornchurch-athletic) | **17** |
+|  | [Newington](../2023/newington) | **23**&#42; |
 | **2022** | [Hornchurch Athletic](../2022/hornchurch-athletic) | **1** |
 |  | [Reigate Pilgrims](../2022/reigate-pilgrims) | **14**&#42; |
 |  | [Banstead](../2022/banstead) | **16** |
@@ -62,12 +75,16 @@ Debut: [Britwell Salome 2005](../2005/britwell-salome)
 
 ## Bowling
 
+
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 57 | 346 | 33 | 1637 | 67 | 24.43 | 30.99 |
+| 59 | 358 | 34 | 1697 | 72 | 23.57 | 29.83 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
+| **2026** | [Middleton Stoney](../2026/middleton-stoney) | 5 | 0 | 19 | 3 |
+|  | [Highgate Irregulars](../2026/highgate-irregulars) | 7 | 1 | 32 | 2 |
+|  | [Dead Bats](../2026/dead-bats) | 7 | 0 | 53 | 2 |
 | **2025** | [Reigate Pilgrims](../2025/reigate-pilgrims) | 5 | 1 | 20 | 3 |
 |  | [Railway Taverners](../2025/railway-taverners) | 3 | 0 | 25 | 2 |
 |  | [St Anne's Allstars](../2025/st-annes-allstars) | 5 | 0 | 19 | 1 |

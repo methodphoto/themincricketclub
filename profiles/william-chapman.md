@@ -19,8 +19,8 @@ Debut: [South Nutfield 1988](../1988/south-nutfield)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 24 | 24 | 4 | 351 | 17.55 |
+|:---|:---|:---|:---|:---|:---|
+| 23 | 23 | 4 | 304 | 16.00 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|

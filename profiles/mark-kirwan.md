@@ -19,8 +19,8 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 28 | 28 | 6 | 383 | 17.41 |
+|:---|:---|:---|:---|:---|:---|
+| 27 | 27 | 6 | 320 | 15.24 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -62,7 +62,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 40 | 341.3 | 58 | 1125 | 69 | 16.30 | 29.70 |
+| 39 | 336.3 | 56 | 1109 | 69 | 16.07 | 29.26 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -91,10 +91,10 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Logica](../1984/logica) | 12 | 1 | 45 | 5 |
 |  | [Lobsters](../1984/lobsters) | 5 | 1 | 15 | 1 |
 |  | [Ealing Commoners](../1984/ealing-commoners) | 6 | 1 | 12 | 0 |
-| **1983** | [Bathurst Arms](../1983/bathurst-arms) | 4 | 1 | 11 | 2 |
+| **1983** | [A Good Length](../1983/a-good-length) | 8 | 1 | 27 | 3 |
+|  | [Bathurst Arms](../1983/bathurst-arms) | 4 | 1 | 11 | 2 |
 |  | [UB II](../1983/ub-ii) | 11.1 | 3 | 32 | 1 |
 |  | [Nick Hoares XI](../1983/nick-hoares-xi) | 7 | 0 | 28 | 3 |
-|  | [A Good Length](../1983/a-good-length) | 8 | 1 | 27 | 3 |
 | **1982** | [Clifton College](../1982/clifton-college) | 9 | 0 | 40 | 2 |
 |  | [A Good Length 2](../1982/a-good-length-2) | 11 | 2 | 15 | 5 |
 |  | [Lobsters](../1982/lobsters) | 4 | 0 | 36 | 2 |

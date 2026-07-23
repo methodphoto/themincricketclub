@@ -19,7 +19,7 @@ A Beswick's 2nd 100 for The Min and highest score
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **R Beswick &#42;** | c | A Hanhem | 9 |
+| **R Beswick &#42;** | c | A Hanhsm | 9 |
 | **M Griffiths** | b | A Salter | 46 |
 | **J Stacey** | b| A Hanham | 0 |
 | **A Beswick** | c | D Stone | 112 |

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,28 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 330 | 330 | 46 | 4549 | 16.02 |
+|:---|:---|:---|:---|:---|:---|
+| 338 | 338 | 55 | 4523 | 15.98 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2026** | [Middleton Stoney](../2026/middleton-stoney) | **0** |
+|  | [Highgate Irregulars](../2026/highgate-irregulars) | **8**&#42; |
+|  | [Dead Bats](../2026/dead-bats) | **15**&#42; |
+| **2025** | [Blagdon Hill](../2025/blagdon-hill) | **0**&#42; |
+|  | [Alaftar CC](../2025/alaftar-cc) | **1** |
+|  | [Highgate Irregulars](../2025/highgate-irregulars) | **1**&#42; |
+| **2024** | [Railway Taverners](../2024/railway-taverners) | **4**&#42; |
+|  | [Hornchurch Athletic](../2024/hornchurch-athletic) | **7** |
+|  | [Highgate Irregulars](../2024/highgate-irregulars) | **5**&#42; |
+|  | [Trinity Oxley CC](../2024/trinity-oxley-cc) | **4**&#42; |
+| **2023** | [Reigate Pilgrims](../2023/reigate-pilgrims) | **0**&#42; |
+|  | [Broadway and Horton](../2023/broadway-and-horton) | **6** |
+|  | [Blagdon Hill](../2023/blagdon-hill) | **20** |
+|  | [Stowting](../2023/stowting) | **0**&#42; |
+|  | [St Anne's Allstars](../2023/st-annes-allstars) | **4** |
 | **2022** | [Hornchurch Athletic](../2022/hornchurch-athletic) | **0**&#42; |
 |  | [Frensham](../2022/frensham) | **8** |
 | **2021** | [Broadway and Horton](../2021/broadway-and-horton) | **9**&#42; |
@@ -199,13 +215,13 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Reigate Pilgrims](../1997/reigate-pilgrims) | **8** |
 |  | [Slip End](../1997/slip-end) | **26** |
 |  | [Hetairoi](../1997/hetairoi) | **87** |
-|  | [Captain Scott XI](../1997/captain-scott) | **33** |
 |  | [Farnborough](../1997/farnborough) | **20** |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | **0** |
 |  | [Great Braxted](../1997/great-braxted) | **25**&#42; |
 |  | [Stowting](../1997/stowting) | **27** |
 |  | [Ockley](../1997/ockley) | **10** |
 |  | [Valley End](../1997/valley-end) | **20** |
+|  | [Captain Scott XI](../1997/captain-scott) | **33** |
 | **1996** | [Watton-at-Stone](../1996/watton-at-stone) | **3**&#42; |
 |  | [Great Braxted](../1996/great-braxted) | **13** |
 |  | [Stonor](../1996/stonor) | **38** |

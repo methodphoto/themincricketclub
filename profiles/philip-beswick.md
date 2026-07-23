@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,17 @@ Debut: [White Lion 1995](../1995/white-lion)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 35 | 35 | 5 | 145 | 4.83 |
+|:---|:---|:---|:---|:---|:---|
+| 37 | 37 | 5 | 155 | 4.84 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2025** | [Alaftar CC](../2025/alaftar-cc) | **2** |
+| **2024** | [Railway Taverners](../2024/railway-taverners) | **1** |
+| **2023** | [Stowting](../2023/stowting) | **7** |
+| **2019** | [Kingstonian](../2019/kingstonian) | **0** |
 | **2018** | [Reigate Pilgrims](../2018/reigate-pilgrims) | **12** |
 |  | [Watton-at-Stone](../2018/watton-at-stone) | **6** |
 |  | [Middleton Stoney](../2018/middleton-stoney) | **0** |
@@ -66,12 +71,14 @@ Debut: [White Lion 1995](../1995/white-lion)
 
 ## Bowling
 
+
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 34 | 146.2 | 6 | 792 | 37 | 21.41 | 23.73 |
+| 33 | 139.1 | 6 | 754 | 35 | 21.54 | 23.86 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
+| **2026** | [Dead Bats](../2026/dead-bats) | 0.5 | 0 | 12 | 0 |
 | **2025** | [Alaftar CC](../2025/alaftar-cc) | 3 | 0 | 26 | 1 |
 | **2024** | [Railway Taverners](../2024/railway-taverners) | 2 | 0 | 24 | 1 |
 | **2023** | [Stowting](../2023/stowting) | 5 | 1 | 22 | 0 |

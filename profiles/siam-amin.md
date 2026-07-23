@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,14 @@ Debut: [Brasted Invicta 2014](../2014/brasted-invicta)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 18 | 18 | 2 | 240 | 15.00 |
+|:---|:---|:---|:---|:---|:---|
+| 19 | 19 | 2 | 245 | 14.41 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2024** | [Railway Taverners](../2024/railway-taverners) | **5** |
 | **2021** | [Banstead](../2021/banstead) | **0** |
 |  | [Bricklayer's Arms](../2021/bricklayers-arms) | **14** |
 |  | [Middleton Stoney](../2021/middleton-stoney) | **18** |

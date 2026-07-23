@@ -19,7 +19,7 @@ Debut: [Abinger Hammer 1990](../1990/abinger-hammer)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 19 | 19 | 4 | 652 | 43.47 |
 
 | Year | Opponent | Score |

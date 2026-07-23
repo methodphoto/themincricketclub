@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,43 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 362 | 362 | 30 | 9377 | 28.24 |
+|:---|:---|:---|:---|:---|:---|
+| 390 | 390 | 31 | 9850 | 27.44 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2026** | [Dead Bats](../2026/dead-bats) | **4** |
+|  | [The Mighty Wandererss](../2026/the-mighty-wanderers) | **1** |
+| **2025** | [Reigate Pilgrims](../2025/reigate-pilgrims) | **29** |
+|  | [Railway Taverners](../2025/railway-taverners) | **28** |
+|  | [Broadway and Horton](../2025/broadway-and-horton) | **24** |
+|  | [Blagdon Hill](../2025/blagdon-hill) | **4** |
+|  | [St Anne's Allstars](../2025/st-annes-allstars) | **14** |
+|  | [Middleton Stoney](../2025/middleton-stoney) | **17** |
+|  | [Alaftar CC](../2025/alaftar-cc) | **10** |
+|  | [Highgate Irregulars](../2025/highgate-irregulars) | **1** |
+|  | [Stoneydown CC](../2025/stoneydown-cc) | **20** |
+| **2024** | [Reigate Pilgrims](../2024/reigate-pilgrims) | **6** |
+|  | [Railway Taverners](../2024/railway-taverners) | **10** |
+|  | [Hornchurch Athletic](../2024/hornchurch-athletic) | **12** |
+|  | [Broadway and Horton](../2024/broadway-and-horton) | **44** |
+|  | [Blagdon Hill](../2024/blagdon-hill) | **17** |
+|  | [Frensham](../2024/frensham) | **35** |
+|  | [Highgate Irregulars](../2024/highgate-irregulars) | **14** |
+|  | [Trinity Oxley CC](../2024/trinity-oxley-cc) | **15** |
+|  | [Middleton Stoney](../2024/middleton-stoney) | **9** |
+| **2023** | [Hornchurch Athletic](../2023/hornchurch-athletic) | **11**&#42; |
+|  | [Reigate Pilgrims](../2023/reigate-pilgrims) | **9** |
+|  | [Railway Taverners](../2023/railway-taverners) | **71** |
+|  | [Belhus](../2023/belhus) | **53** |
+|  | [Banstead](../2023/banstead) | **4** |
+|  | [Broadway and Horton](../2023/broadway-and-horton) | **39** |
+|  | [Blagdon Hill](../2023/blagdon-hill) | **13** |
+|  | [Stowting](../2023/stowting) | **5** |
+|  | [St Anne's Allstars](../2023/st-annes-allstars) | **16** |
+|  | [Newington](../2023/newington) | **25** |
 | **2022** | [Hornchurch Athletic](../2022/hornchurch-athletic) | **1** |
 |  | [Reigate Pilgrims](../2022/reigate-pilgrims) | **34** |
 |  | [Banstead](../2022/banstead) | **0** |
@@ -295,7 +326,6 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Reigate Pilgrims](../1997/reigate-pilgrims) | **15** |
 |  | [Slip End](../1997/slip-end) | **1** |
 |  | [Hetairoi](../1997/hetairoi) | **21** |
-|  | [Captain Scott XI](../1997/captain-scott) | **9** |
 |  | [Farnborough](../1997/farnborough) | **7** |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | **15** |
 |  | [Wincanton Casuals](../1997/wincanton-casuals) | **38** |
@@ -304,6 +334,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Players and Jesters](../1997/players-and-jesters) | **21** |
 |  | [Ockley](../1997/ockley) | **44** |
 |  | [Valley End](../1997/valley-end) | **7** |
+|  | [Captain Scott XI](../1997/captain-scott) | **9** |
 | **1996** | [Great Braxted](../1996/great-braxted) | **0** |
 |  | [Stonor](../1996/stonor) | **47** |
 |  | [Littlewick Green](../1996/littlewick-green) | **13** |
@@ -395,7 +426,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 231 | 1259.2 | 110 | 5715 | 251 | 22.77 | 30.10 |
+| 230 | 1255.2 | 110 | 5684 | 250 | 22.74 | 30.13 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -574,7 +605,6 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Reigate Pilgrims](../1997/reigate-pilgrims) | 10.1 | 2 | 34 | 4 |
 |  | [Slip End](../1997/slip-end) | 5 | 1 | 23 | 0 |
 |  | [Hetairoi](../1997/hetairoi) | 7.1 | 0 | 37 | 2 |
-|  | [Captain Scott XI](../1997/captain-scott) | 6 | 0 | 21 | 1 |
 |  | [Farnborough](../1997/farnborough) | 8 | 2 | 23 | 3 |
 |  | [Kilmington and Stourton](../1997/kilmington-and-stourton) | 2 | 0 | 10 | 0 |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | 6 | 0 | 31 | 1 |
@@ -582,6 +612,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Tappers](../1997/tappers) | 5 | 1 | 16 | 5 |
 |  | [Stowting](../1997/stowting) | 7 | 0 | 38 | 1 |
 |  | [Players and Jesters](../1997/players-and-jesters) | 5 | 0 | 28 | 0 |
+|  | [Captain Scott XI](../1997/captain-scott) | 6 | 0 | 21 | 1 |
 | **1996** | [Great Braxted](../1996/great-braxted) | 5 | 2 | 16 | 0 |
 |  | [Stonor](../1996/stonor) | 7 | 0 | 32 | 2 |
 |  | [Littlewick Green](../1996/littlewick-green) | 4 | 0 | 29 | 0 |

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,17 @@ Debut: [Godstone 1989](../1989/godstone)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 94 | 94 | 7 | 2133 | 24.52 |
+|:---|:---|:---|:---|:---|:---|
+| 96 | 96 | 8 | 2215 | 25.17 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2026** | [Blagdon Hill](../2026/blagdon-hill) | **46**&#42; |
+|  | [Middleton Stoney](../2026/middleton-stoney) | **4** |
+| **2025** | [Blagdon Hill](../2025/blagdon-hill) | **15** |
+| **2023** | [Broadway and Horton](../2023/broadway-and-horton) | **26** |
 | **2019** | [Reigate Pilgrims](../2019/reigate-pilgrims) | **0** |
 |  | [Newdigate](../2019/newdigate) | **5** |
 | **2018** | [Blagdon Hill](../2018/blagdon-hill) | **28** |

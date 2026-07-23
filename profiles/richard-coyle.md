@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,14 @@ Debut: [Ockley 1991](../1991/ockley)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 62 | 62 | 14 | 326 | 6.79 |
+|:---|:---|:---|:---|:---|:---|
+| 63 | 63 | 14 | 338 | 6.90 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2023** | [Newington](../2023/newington) | **12** |
 | **2017** | [Newington](../2017/newington) | **1** |
 | **2015** | [BGS Bedouins](../2015/bgs-bedouins) | **0** |
 |  | [Newington](../2015/newington) | **8**&#42; |

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,22 @@ Debut: [ELCCC 2011](../2011/elccc)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 49 | 49 | 5 | 1125 | 25.57 |
+|:---|:---|:---|:---|:---|:---|
+| 57 | 57 | 7 | 1222 | 24.44 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2025** | [Highgate Irregulars](../2025/highgate-irregulars) | **0** |
+| **2024** | [Highgate Irregulars](../2024/highgate-irregulars) | **10** |
+|  | [Trinity Oxley CC](../2024/trinity-oxley-cc) | **15** |
+|  | [Middleton Stoney](../2024/middleton-stoney) | **16**&#42; |
+| **2023** | [Hornchurch Athletic](../2023/hornchurch-athletic) | **39**&#42; |
+|  | [Railway Taverners](../2023/railway-taverners) | **14** |
+|  | [Belhus](../2023/belhus) | **2** |
+|  | [Banstead](../2023/banstead) | **8** |
+|  | [St Anne's Allstars](../2023/st-annes-allstars) | **32** |
 | **2022** | [Hornchurch Athletic](../2022/hornchurch-athletic) | **0** |
 |  | [Middleton Stoney](../2022/middleton-stoney) | **2** |
 | **2021** | [Selling](../2021/selling) | **18** |

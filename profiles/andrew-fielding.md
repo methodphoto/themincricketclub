@@ -19,8 +19,8 @@ Debut: [A Good Length 1982](../1982/a-good-length)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 37 | 37 | 3 | 387 | 11.38 |
+|:---|:---|:---|:---|:---|:---|
+| 36 | 36 | 3 | 384 | 11.64 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -58,8 +58,8 @@ Debut: [A Good Length 1982](../1982/a-good-length)
 |  | [Logica](../1985/logica) | **7** |
 |  | [Shamrock](../1985/shamrock) | **15** |
 |  | [Town Cryers](../1985/town-cryers) | **39** |
-| **1983** | [UB II](../1983/ub-ii) | **2** |
-|  | [A Good Length](../1983/a-good-length) | **24**&#42; |
+| **1983** | [A Good Length](../1983/a-good-length) | **24**&#42; |
+|  | [UB II](../1983/ub-ii) | **2** |
 
 
 **Highest Score**: 58 v [Koh-i-Noor](../1985/koh-i-noor)<br />

@@ -19,7 +19,7 @@ Debut: [Selling 2008](../2008/selling)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 14 | 14 | 2 | 207 | 17.25 |
 
 | Year | Opponent | Score |

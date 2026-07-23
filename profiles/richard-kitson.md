@@ -19,7 +19,7 @@ Debut: [Ockley 2000](../2000/ockley)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 39 | 39 | 7 | 729 | 22.78 |
 
 | Year | Opponent | Score |

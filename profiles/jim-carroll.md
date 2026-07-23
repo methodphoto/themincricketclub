@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,15 @@ Debut: [Middleton Stoney 2021](../2021/middleton-stoney)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 11 | 11 | 1 | 333 | 33.30 |
+|:---|:---|:---|:---|:---|:---|
+| 13 | 13 | 2 | 372 | 33.82 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2024** | [Frensham](../2024/frensham) | **21**&#42; |
+| **2023** | [Railway Taverners](../2023/railway-taverners) | **18** |
 | **2022** | [Reigate Pilgrims](../2022/reigate-pilgrims) | **6** |
 |  | [St Anne's Allstars](../2022/st-annes-allstars) | **0** |
 |  | [Frensham](../2022/frensham) | **15** |

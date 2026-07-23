@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,16 +18,23 @@ Debut: [Middleton Stoney 2021](../2021/middleton-stoney)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 1 | 1 | 0 | 17 | 17.00 |
+|:---|:---|:---|:---|:---|:---|
+| 7 | 7 | 1 | 305 | 50.83 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2025** | [Middleton Stoney](../2025/middleton-stoney) | **76** |
+|  | [Highgate Irregulars](../2025/highgate-irregulars) | **21** |
+| **2024** | [Reigate Pilgrims](../2024/reigate-pilgrims) | **0** |
+|  | [Trinity Oxley CC](../2024/trinity-oxley-cc) | **88**&#42; |
+|  | [Middleton Stoney](../2024/middleton-stoney) | **21** |
+| **2023** | [Newington](../2023/newington) | **82** |
 | **2021** | [Middleton Stoney](../2021/middleton-stoney) | **17** |
 
 
-**Highest Score**: 17 v [Middleton Stoney](../2021/middleton-stoney)<br />
+**Highest Score**: 88* v [Trinity Oxley CC](../2024/trinity-oxley-cc)<br />
 **Fifties:** 0<br />
 **Hundreds:** 0
 

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,40 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 445 | 445 | 68 | 8246 | 21.87 |
+|:---|:---|:---|:---|:---|:---|
+| 466 | 466 | 75 | 8578 | 21.94 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2026** | [Easton Cowfolk](../2026/easton-cowfolk) | **26** |
+|  | [Broadway and Horton](../2026/broadway-and-horton) | **1**&#42; |
+|  | [Blagdon Hill](../2026/blagdon-hill) | **9** |
+|  | [Middleton Stoney](../2026/middleton-stoney) | **0** |
+|  | [Highgate Irregulars](../2026/highgate-irregulars) | **39** |
+|  | [Dead Bats](../2026/dead-bats) | **2** |
+| **2025** | [Reigate Pilgrims](../2025/reigate-pilgrims) | **4**&#42; |
+|  | [Railway Taverners](../2025/railway-taverners) | **4** |
+|  | [Blagdon Hill](../2025/blagdon-hill) | **22** |
+|  | [St Anne's Allstars](../2025/st-annes-allstars) | **50** |
+|  | [Middleton Stoney](../2025/middleton-stoney) | **30** |
+|  | [Alaftar CC](../2025/alaftar-cc) | **1**&#42; |
+|  | [Highgate Irregulars](../2025/highgate-irregulars) | **28** |
+|  | [Stoneydown CC](../2025/stoneydown-cc) | **8** |
+| **2024** | [Reigate Pilgrims](../2024/reigate-pilgrims) | **3** |
+|  | [Railway Taverners](../2024/railway-taverners) | **31** |
+|  | [Blagdon Hill](../2024/blagdon-hill) | **20** |
+|  | [Frensham](../2024/frensham) | **4** |
+|  | [Highgate Irregulars](../2024/highgate-irregulars) | **2**&#42; |
+|  | [Trinity Oxley CC](../2024/trinity-oxley-cc) | **4** |
+| **2023** | [Reigate Pilgrims](../2023/reigate-pilgrims) | **56**&#42; |
+|  | [Railway Taverners](../2023/railway-taverners) | **9**&#42; |
+|  | [Banstead](../2023/banstead) | **6**&#42; |
+|  | [Blagdon Hill](../2023/blagdon-hill) | **0**&#42; |
+|  | [Stowting](../2023/stowting) | **29** |
+|  | [St Anne's Allstars](../2023/st-annes-allstars) | **19** |
+|  | [Newington](../2023/newington) | **0** |
 | **2022** | [Hornchurch Athletic](../2022/hornchurch-athletic) | **27** |
 |  | [Reigate Pilgrims](../2022/reigate-pilgrims) | **0** |
 |  | [Banstead](../2022/banstead) | **23** |
@@ -472,12 +500,19 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 ## Bowling
 
+
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 394 | 2303.3 | 395 | 8717 | 476 | 18.31 | 29.04 |
+| 397 | 2311.5 | 394 | 8747 | 486 | 18.00 | 28.54 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
+| **2026** | [Easton Cowfolk](../2026/easton-cowfolk) | 7 | 0 | 39 | 0 |
+|  | [Broadway and Horton](../2026/broadway-and-horton) | 7 | 0 | 41 | 2 |
+|  | [Blagdon Hill](../2026/blagdon-hill) | 5.4 | 0 | 33 | 3 |
+|  | [Highgate Irregulars](../2026/highgate-irregulars) | 3.3 | 0 | 22 | 1 |
+|  | [Dead Bats](../2026/dead-bats) | 1.1 | 0 | 9 | 2 |
+|  | [The Mighty Wandererss](../2026/the-mighty-wanderers) | 4 | 0 | 9 | 4 |
 | **2025** | [Broadway and Horton](../2025/broadway-and-horton) | 1 | 0 | 7 | 1 |
 |  | [St Anne's Allstars](../2025/st-annes-allstars) | 1 | 0 | 8 | 0 |
 |  | [Alaftar CC](../2025/alaftar-cc) | 2 | 0 | 25 | 0 |
@@ -695,7 +730,6 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Hartswood Occasionals](../1998/hartswood-occasionals) | 1 | 0 | 9 | 0 |
 | **1997** | [Slip End](../1997/slip-end) | 3 | 0 | 15 | 1 |
 |  | [Hetairoi](../1997/hetairoi) | 4 | 1 | 9 | 0 |
-|  | [Captain Scott XI](../1997/captain-scott) | 6 | 1 | 35 | 1 |
 |  | [Farnborough](../1997/farnborough) | 5 | 0 | 20 | 0 |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | 8 | 1 | 36 | 1 |
 |  | [Great Braxted](../1997/great-braxted) | 12 | 4 | 30 | 1 |
@@ -703,6 +737,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Stowting](../1997/stowting) | 10 | 2 | 45 | 1 |
 |  | [Ockley](../1997/ockley) | 6 | 0 | 18 | 1 |
 |  | [Valley End](../1997/valley-end) | 3 | 1 | 7 | 0 |
+|  | [Captain Scott XI](../1997/captain-scott) | 6 | 1 | 35 | 1 |
 | **1996** | [Watton-at-Stone](../1996/watton-at-stone) | 9 | 2 | 33 | 2 |
 |  | [Great Braxted](../1996/great-braxted) | 4 | 0 | 23 | 0 |
 |  | [Stonor](../1996/stonor) | 4 | 0 | 16 | 0 |

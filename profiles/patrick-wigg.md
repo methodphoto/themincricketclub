@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,34 @@ Debut: [Ockley 1991](../1991/ockley)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 111 | 112 | 33 | 1539 | 19.48 |
+|:---|:---|:---|:---|:---|:---|
+| 133 | 133 | 44 | 1871 | 21.02 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2026** | [Easton Cowfolk](../2026/easton-cowfolk) | **18**&#42; |
+|  | [Broadway and Horton](../2026/broadway-and-horton) | **41** |
+|  | [Middleton Stoney](../2026/middleton-stoney) | **20** |
+|  | [Highgate Irregulars](../2026/highgate-irregulars) | **6** |
+|  | [Dead Bats](../2026/dead-bats) | **6**&#42; |
+| **2025** | [Railway Taverners](../2025/railway-taverners) | **15**&#42; |
+|  | [Blagdon Hill](../2025/blagdon-hill) | **20** |
+|  | [Middleton Stoney](../2025/middleton-stoney) | **8**&#42; |
+|  | [Alaftar CC](../2025/alaftar-cc) | **43**&#42; |
+|  | [Stoneydown CC](../2025/stoneydown-cc) | **17**&#42; |
+| **2024** | [Reigate Pilgrims](../2024/reigate-pilgrims) | **0**&#42; |
+|  | [Railway Taverners](../2024/railway-taverners) | **14** |
+|  | [Broadway and Horton](../2024/broadway-and-horton) | **1**&#42; |
+|  | [Blagdon Hill](../2024/blagdon-hill) | **52**&#42; |
+|  | [Highgate Irregulars](../2024/highgate-irregulars) | **8** |
+|  | [Trinity Oxley CC](../2024/trinity-oxley-cc) | **7** |
+| **2023** | [Reigate Pilgrims](../2023/reigate-pilgrims) | **2** |
+|  | [Broadway and Horton](../2023/broadway-and-horton) | **10**&#42; |
+|  | [Blagdon Hill](../2023/blagdon-hill) | **14** |
+|  | [Stowting](../2023/stowting) | **8** |
+|  | [St Anne's Allstars](../2023/st-annes-allstars) | **22**&#42; |
 | **2022** | [Reigate Pilgrims](../2022/reigate-pilgrims) | **20** |
 |  | [Frensham](../2022/frensham) | **7** |
 |  | [Bricklayer's Arms](../2022/bricklayers-arms) | **7** |
@@ -145,12 +167,20 @@ Debut: [Ockley 1991](../1991/ockley)
 
 ## Bowling
 
+
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 166 | 1237 | 233 | 4161 | 232 | 17.94 | 31.99 |
+| 173 | 1287 | 246 | 4344 | 239 | 18.18 | 32.31 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
+| **2026** | [Easton Cowfolk](../2026/easton-cowfolk) | 7 | 1 | 37 | 1 |
+|  | [Broadway and Horton](../2026/broadway-and-horton) | 7 | 2 | 16 | 1 |
+|  | [Blagdon Hill](../2026/blagdon-hill) | 7 | 2 | 20 | 2 |
+|  | [Middleton Stoney](../2026/middleton-stoney) | 8 | 5 | 16 | 0 |
+|  | [Highgate Irregulars](../2026/highgate-irregulars) | 7 | 0 | 40 | 0 |
+|  | [Dead Bats](../2026/dead-bats) | 7 | 2 | 32 | 1 |
+|  | [The Mighty Wandererss](../2026/the-mighty-wanderers) | 7 | 1 | 22 | 2 |
 | **2025** | [Reigate Pilgrims](../2025/reigate-pilgrims) | 5 | 1 | 13 | 1 |
 |  | [Railway Taverners](../2025/railway-taverners) | 7 | 2 | 18 | 3 |
 |  | [Broadway and Horton](../2025/broadway-and-horton) | 7 | 2 | 39 | 1 |
@@ -315,8 +345,8 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Newdigate](../2006/newdigate) | 8 | 1 | 47 | 1 |
 |  | [Tappers](../2006/tappers) | 9 | 4 | 19 | 0 |
 |  | [Britwell Salome](../2006/britwell-salome) | 9 | 1 | 25 | 0 |
-| **2009** | [Britwell Salome](../2009/britwell-salome) | 10 | 0 | 29 | 3 |
-|  | [Ockley](../2009/ockley) | 8 | 2 | 23 | 1 |
+| **2009** | [Ockley](../2009/ockley) | 8 | 2 | 23 | 1 |
+|  | [Britwell Salome](../2009/britwell-salome) | 10 | 0 | 29 | 3 |
 
 
 **Best Bowling:** 6-2-15-6 v [Stoneydown CC](../2025/stoneydown-cc)<br />

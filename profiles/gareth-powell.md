@@ -19,7 +19,7 @@ Debut: [Players and Jesters 2001](../2001/players-and-jesters)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 27 | 27 | 11 | 185 | 11.56 |
 
 | Year | Opponent | Score |

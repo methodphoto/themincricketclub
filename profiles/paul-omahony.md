@@ -19,7 +19,7 @@ Debut: [Reigate Pilgrims 1997](../1997/reigate-pilgrims)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 32 | 32 | 16 | 143 | 8.94 |
 
 | Year | Opponent | Score |

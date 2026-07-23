@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,19 @@ Debut: [Railway Taverners 2020](../2020/railway-taverners)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 10 | 10 | 2 | 85 | 10.62 |
+|:---|:---|:---|:---|:---|:---|
+| 16 | 16 | 2 | 137 | 9.79 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2026** | [Broadway and Horton](../2026/broadway-and-horton) | **8** |
+|  | [Middleton Stoney](../2026/middleton-stoney) | **15** |
+|  | [Highgate Irregulars](../2026/highgate-irregulars) | **16** |
+| **2024** | [Broadway and Horton](../2024/broadway-and-horton) | **13** |
+| **2023** | [Stowting](../2023/stowting) | **0** |
+|  | [St Anne's Allstars](../2023/st-annes-allstars) | **0** |
 | **2022** | [Reigate Pilgrims](../2022/reigate-pilgrims) | **11** |
 |  | [Banstead](../2022/banstead) | **5** |
 |  | [Bricklayer's Arms](../2022/bricklayers-arms) | **17** |
@@ -43,12 +50,19 @@ Debut: [Railway Taverners 2020](../2020/railway-taverners)
 
 ## Bowling
 
+
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 18 | 100.1 | 13 | 456 | 21 | 21.71 | 28.62 |
+| 24 | 142.1 | 17 | 685 | 26 | 26.35 | 32.81 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
+| **2026** | [Easton Cowfolk](../2026/easton-cowfolk) | 7 | 0 | 44 | 1 |
+|  | [Broadway and Horton](../2026/broadway-and-horton) | 7 | 1 | 25 | 1 |
+|  | [Blagdon Hill](../2026/blagdon-hill) | 6 | 1 | 46 | 0 |
+|  | [Middleton Stoney](../2026/middleton-stoney) | 8 | 0 | 42 | 3 |
+|  | [Highgate Irregulars](../2026/highgate-irregulars) | 7 | 2 | 32 | 0 |
+|  | [The Mighty Wandererss](../2026/the-mighty-wanderers) | 7 | 0 | 40 | 0 |
 | **2025** | [Broadway and Horton](../2025/broadway-and-horton) | 3.3 | 1 | 10 | 3 |
 |  | [St Anne's Allstars](../2025/st-annes-allstars) | 6 | 1 | 21 | 1 |
 | **2024** | [Broadway and Horton](../2024/broadway-and-horton) | 4 | 0 | 36 | 0 |

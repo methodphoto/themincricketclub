@@ -19,7 +19,7 @@ Debut: [Old Colfeians 1999](../1999/old-colfeians)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 25 | 25 | 5 | 355 | 17.75 |
 
 | Year | Opponent | Score |

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,19 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 15 | 15 | 8 | 31 | 4.43 |
+|:---|:---|:---|:---|:---|:---|
+| 21 | 21 | 11 | 52 | 5.20 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2026** | [Easton Cowfolk](../2026/easton-cowfolk) | **7**&#42; |
+| **2025** | [Blagdon Hill](../2025/blagdon-hill) | **7** |
+|  | [Middleton Stoney](../2025/middleton-stoney) | **0**&#42; |
+|  | [Stoneydown CC](../2025/stoneydown-cc) | **2**&#42; |
+| **2024** | [Railway Taverners](../2024/railway-taverners) | **4** |
+| **2023** | [Reigate Pilgrims](../2023/reigate-pilgrims) | **1** |
 | **2022** | [Frensham](../2022/frensham) | **1**&#42; |
 |  | [Bricklayer's Arms](../2022/bricklayers-arms) | **1**&#42; |
 | **2021** | [Banstead](../2021/banstead) | **7** |
@@ -48,12 +55,17 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 ## Bowling
 
+
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 45 | 235.1 | 12 | 1414 | 46 | 30.74 | 30.67 |
+| 48 | 256.1 | 11 | 1548 | 54 | 28.67 | 28.46 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
+| **2026** | [Easton Cowfolk](../2026/easton-cowfolk) | 7 | 0 | 24 | 3 |
+|  | [Broadway and Horton](../2026/broadway-and-horton) | 7 | 0 | 56 | 2 |
+|  | [Dead Bats](../2026/dead-bats) | 7 | 0 | 53 | 2 |
+|  | [The Mighty Wandererss](../2026/the-mighty-wanderers) | 7 | 0 | 24 | 3 |
 | **2025** | [Railway Taverners](../2025/railway-taverners) | 5 | 0 | 42 | 1 |
 |  | [Broadway and Horton](../2025/broadway-and-horton) | 4 | 0 | 26 | 1 |
 |  | [Blagdon Hill](../2025/blagdon-hill) | 5 | 0 | 25 | 1 |

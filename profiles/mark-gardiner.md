@@ -19,8 +19,8 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 83 | 83 | 19 | 628 | 9.81 |
+|:---|:---|:---|:---|:---|:---|
+| 81 | 81 | 19 | 619 | 9.98 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -33,9 +33,9 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 | **1999** | [Tappers](../1999/tappers) | **0** |
 |  | [Players and Jesters](../1999/players-and-jesters) | **0** |
 | **1998** | [Hetairoi](../1998/hetairoi) | **2** |
-| **1997** | [Captain Scott XI](../1997/captain-scott) | **4**&#42; |
-|  | [Stowting](../1997/stowting) | **1**&#42; |
+| **1997** | [Stowting](../1997/stowting) | **1**&#42; |
 |  | [Players and Jesters](../1997/players-and-jesters) | **2** |
+|  | [Captain Scott XI](../1997/captain-scott) | **4**&#42; |
 | **1996** | [Great Braxted](../1996/great-braxted) | **4** |
 |  | [Captain Scott](../1996/captain-scott) | **1** |
 |  | [Broadway and Horton](../1996/broadway-and-horton) | **1** |
@@ -116,7 +116,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 41 | 139.5 | 11 | 591 | 32 | 18.47 | 26.22 |
+| 40 | 134.5 | 10 | 573 | 32 | 17.91 | 25.28 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

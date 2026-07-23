@@ -19,7 +19,7 @@ Debut: [Erratics 1996](../1996/erratics)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|
 | 8 | 8 | 2 | 542 | 90.33 |
 
 | Year | Opponent | Score |

@@ -19,8 +19,8 @@ Debut: [Old Texaconians 1991](../1991/old-texaconians)
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 95 | 95 | 14 | 691 | 8.53 |
+|:---|:---|:---|:---|:---|:---|
+| 94 | 94 | 14 | 683 | 8.54 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|

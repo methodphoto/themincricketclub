@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -18,12 +18,18 @@ Debut: [Valley End 1986](../1986/valley-end)
 
 ## Batting
 
+
 | M | Inns | NOs | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| 15 | 15 | 3 | 495 | 41.25 |
+|:---|:---|:---|:---|:---|:---|
+| 19 | 19 | 3 | 574 | 35.88 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
+| **2024** | [Frensham](../2024/frensham) | **19** |
+| **2022** | [Frensham](../2022/frensham) | **19** |
+| **2017** | [Frensham](../2017/frensham) | **30** |
+| **2016** | [Frensham](../2016/frensham) | **12** |
+| **2007** | [SB Exiles](../2007/sb-exiles) | **3** |
 | **1991** | [Watton-at-Stone](../1991/watton-at-stone) | **18** |
 | **1990** | [Watton-at-Stone](../1990/watton-at-stone) | **45** |
 |  | [Little Kingshill](../1990/little-kingshill) | **22** |
@@ -49,7 +55,7 @@ Debut: [Valley End 1986](../1986/valley-end)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 16 | 120.5 | 26 | 373 | 23 | 16.22 | 31.52 |
+| 15 | 111.5 | 24 | 342 | 23 | 14.87 | 29.17 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
