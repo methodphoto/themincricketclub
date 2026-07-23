@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Old Texaconians 1991](../1991/old-texaconians)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 94 | 94 | 14 | 683 | 8.54 |
+| 106 | 95 | 14 | 691 | 8.53 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -54,6 +54,7 @@ Debut: [Old Texaconians 1991](../1991/old-texaconians)
 |  | [Reigate Pilgrims](../2002/reigate-pilgrims) | **7**&#42; |
 |  | [North Holmwood](../2002/north-holmwood) | **14** |
 |  | [Tappers](../2002/tappers) | **0** |
+|  | [Hetairoi](../2002/hetairoi) | **8** |
 |  | [ACME](../2002/acme) | **0** |
 |  | [Wareham](../2002/wareham) | **20** |
 |  | [Streatham](../2002/streatham) | **1** |

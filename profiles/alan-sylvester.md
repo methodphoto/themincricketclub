@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,13 +20,12 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 33 | 33 | 16 | 337 | 19.82 |
+| 58 | 37 | 17 | 406 | 20.3 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
 | **1994** | [Broadway and Horton](../1994/broadway-and-horton) | **11** |
-| **1984** | [Sudbury Court](../1984/sudbury-court) | **1** |
-| **1994** | [Old Elthamians](../1994/old-elthamians) | **0** |
+|  | [Old Elthamians](../1994/old-elthamians) | **0** |
 | **1993** | [Queen Camel](../1993/queen-camel) | **20**&#42; |
 | **1992** | [Broadway and Horton](../1992/broadway-and-horton) | **4** |
 | **1991** | [Old Tauntonians](../1991/old-tauntonians) | **0** |
@@ -43,18 +42,23 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Valley End](../1986/valley-end) | **0** |
 |  | [Brook](../1986/brook) | **11** |
 |  | [Petts Wood](../1986/petts-wood) | **17**&#42; |
-| **1985** | [Old Elthamians](../1985/old-elthamians) | **12** |
+| **1985** | [Lobsters](../1985/lobsters) | **24** |
+|  | [Old Elthamians](../1985/old-elthamians) | **12** |
 |  | [Logica](../1985/logica) | **1** |
 |  | [Petts Wood](../1985/petts-wood) | **6**&#42; |
 |  | [Brook](../1985/brook) | **56**&#42; |
 | **1984** | [Nick Hoares XI](../1984/nick-hoares-xi) | **48**&#42; |
 |  | [Old Elthamians](../1984/old-elthamians) | **35** |
+|  | [Logica](../1984/logica) | **41** |
+|  | [Sudbury Court](../1984/sudbury-court) | **1** |
 |  | [Lobsters](../1984/lobsters) | **7**&#42; |
 | **1983** | [UB II](../1983/ub-ii) | **19** |
 |  | [Nick Hoares XI](../1983/nick-hoares-xi) | **0**&#42; |
 | **1982** | [Clifton College](../1982/clifton-college) | **10**&#42; |
 |  | [Lobsters](../1982/lobsters) | **0**&#42; |
 |  | [Leyhill](../1982/leyhill) | **4**&#42; |
+|  | [Wills Hall](../1982/wills-hall) | **0** |
+|  | [J Stimpfigs XI](../1982/j-stimfigs-xi) | **4**&#42; |
 |  | [Bristol Grammar School](../1982/bristol-grammar-school) | **2** |
 |  | [Another Man's Meat](../1982/another-mans-meat) | **15** |
 
@@ -68,18 +72,18 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 51 | 378.1 | 71 | 1393 | 77 | 18.09 | 29.47 |
+| 53 | 390.1 | 72 | 1449 | 77 | 18.82 | 30.4 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
 | **1994** | [Farnborough](../1994/farnborough) | 7 | 0 | 21 | 4 |
 |  | [Broadway and Horton](../1994/broadway-and-horton) | 4 | 0 | 17 | 2 |
-| **1984** | [Sudbury Court](../1984/sudbury-court) | 13 | 6 | 23 | 3 |
-| **1994** | [Old Elthamians](../1994/old-elthamians) | 7 | 0 | 37 | 1 |
+|  | [Old Elthamians](../1994/old-elthamians) | 7 | 0 | 37 | 1 |
 | **1993** | [Broadway and Horton](../1993/broadway-and-horton) | 6 | 1 | 29 | 0 |
 |  | [Old Elthamians](../1993/old-elthamians) | 7 | 0 | 55 | 1 |
 | **1992** | [Dowlish Wake](../1992/dowlish-wake) | 6 | 3 | 4 | 2 |
-| **1991** | [Old Tauntonians](../1991/old-tauntonians) | 6 | 0 | 37 | 0 |
+| **1991** | [Valley End](../1991/valley-end) | 7 | 1 | 31 | 0 |
+|  | [Old Tauntonians](../1991/old-tauntonians) | 6 | 0 | 37 | 0 |
 |  | [Old Elthamians](../1991/old-elthamians) | 7.1 | 2 | 19 | 4 |
 | **1988** | [Barrow-Boys](../1988/barrow-boys) | 2 | 1 | 4 | 1 |
 | **1987** | [Friar's Oak](../1987/friars-oak) | 11 | 2 | 24 | 0 |
@@ -95,7 +99,8 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Brook](../1986/brook) | 12 | 3 | 34 | 3 |
 |  | [Little Kingshill](../1986/little-kingshill) | 6 | 0 | 46 | 0 |
 |  | [Petts Wood](../1986/petts-wood) | 9 | 1 | 35 | 1 |
-| **1985** | [Old Elthamians](../1985/old-elthamians) | 12 | 5 | 32 | 4 |
+| **1985** | [Lobsters](../1985/lobsters) | 5 | 0 | 25 | 0 |
+|  | [Old Elthamians](../1985/old-elthamians) | 12 | 5 | 32 | 4 |
 |  | [Old Wilsonians](../1985/old-wilsonians) | 5 | 2 | 14 | 3 |
 |  | [Logica](../1985/logica) | 8 | 3 | 12 | 3 |
 |  | [Petts Wood](../1985/petts-wood) | 10 | 4 | 32 | 5 |
@@ -105,6 +110,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Old Elthamians](../1984/old-elthamians) | 8 | 3 | 37 | 2 |
 |  | [Logica](../1984/logica) | 10 | 4 | 19 | 2 |
 |  | [Hendon-Edgware](../1984/hendon-edgware) | 3 | 0 | 7 | 3 |
+|  | [Sudbury Court](../1984/sudbury-court) | 13 | 6 | 23 | 3 |
 |  | [Lobsters](../1984/lobsters) | 4 | 1 | 13 | 0 |
 |  | [Ealing Commoners](../1984/ealing-commoners) | 10 | 3 | 13 | 2 |
 |  | [Greenford](../1984/greenford) | 8 | 3 | 8 | 1 |
@@ -118,7 +124,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Bristol Young Solicitors](../1982/bristol-young-solicitors) | 2 | 0 | 9 | 0 |
 |  | [Leyhill](../1982/leyhill) | 6 | 1 | 22 | 0 |
 |  | [Wills Hall](../1982/wills-hall) | 3 | 2 | 8 | 0 |
-|  | [J Stimfigs XI](../1982/j-stimfigs-xi) | 16 | 2 | 71 | 3 |
+|  | [J Stimpfigs XI](../1982/j-stimfigs-xi) | 16 | 2 | 71 | 3 |
 |  | [Bristol Grammar School](../1982/bristol-grammar-school) | 5 | 0 | 29 | 1 |
 |  | [Another Man's Meat](../1982/another-mans-meat) | 6 | 0 | 48 | 2 |
 |  | [A Good Length](../1982/a-good-length) | 6 | 0 | 25 | 0 |

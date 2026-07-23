@@ -21,7 +21,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 71 | 71 | 16 | 501 | 9.11 |
+| 98 | 72 | 16 | 501 | 8.95 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -33,6 +33,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 | **1996** | [Stonor](../1996/stonor) | **11** |
 |  | [Broadway and Horton](../1996/broadway-and-horton) | **5** |
 |  | [Farnborough](../1996/farnborough) | **0** |
+|  | [Kilmington and Stourton](../1996/kilmington-and-stourton) | **0** |
 |  | [Tappers](../1996/tappers) | **9**&#42; |
 | **1995** | [Watton-at-Stone](../1995/watton-at-stone) | **0** |
 |  | [Hetairoi](../1995/hetairoi) | **9** |
@@ -47,8 +48,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 |  | [Farnborough](../1994/farnborough) | **0** |
 |  | [Horningsham](../1994/horningsham) | **7** |
 |  | [Broadway and Horton](../1994/broadway-and-horton) | **3** |
-| **1984** | [Sudbury Court](../1984/sudbury-court) | **8** |
-| **1994** | [Old Elthamians](../1994/old-elthamians) | **0** |
+|  | [Old Elthamians](../1994/old-elthamians) | **0** |
 |  | [Great Tew](../1994/great-tew) | **1** |
 | **1993** | [Antilles](../1993/antilles) | **3**&#42; |
 | **1991** | [Reigate Pilgrims](../1991/reigate-pilgrims) | **6** |
@@ -90,6 +90,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 |  | [Chiswick Flyovers](../1984/chiswick-flyovers) | **0**&#42; |
 |  | [Logica](../1984/logica) | **16** |
 |  | [Hendon-Edgware](../1984/hendon-edgware) | **22**&#42; |
+|  | [Sudbury Court](../1984/sudbury-court) | **8** |
 |  | [Standard Bridge](../1984/standard-bridge) | **0**&#42; |
 |  | [Lobsters](../1984/lobsters) | **8** |
 |  | [Ealing Commoners](../1984/ealing-commoners) | **13** |
@@ -107,7 +108,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 15 | 37 | 4 | 179 | 10 | 17.90 | 22.20 |
+| 15 | 37 | 4 | 179 | 10 | 17.9 | 22.2 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

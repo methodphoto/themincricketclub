@@ -57,14 +57,14 @@ Debut: [Valley End 1987](../1987/valley-end)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 1 | 2 | 0 | 1 | 0 | - | - |
+| 1 | 2 | 0 | 1 | 0 | 0 | 0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
 | **1987** | [Newdigate](../1987/newdigate) | 2 | 0 | 1 | 0 |
 
 
-**Best Bowling:**  v <br />
+**Best Bowling:** 2-0-1-0 v [Newdigate](../1987/newdigate)<br />
 **Athletics:** 0<br />
 **Michelles:** 0
 

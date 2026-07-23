@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Selling 2008](../2008/selling)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 14 | 14 | 2 | 207 | 17.25 |
+| 19 | 14 | 2 | 207 | 17.25 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -49,7 +49,7 @@ Debut: [Selling 2008](../2008/selling)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 16 | 75 | 5 | 418 | 11 | 38.00 | 40.91 |
+| 16 | 75 | 5 | 418 | 11 | 38.0 | 40.91 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

@@ -25,9 +25,9 @@ A Gallagher's 2nd 50
 | **I Wilkie** | b | M Kirwan | 0 |
 | **S Beavis** | c T Purves | J Wright | 5 |
 | **D Musgrave** | run out | | 4 |
-| **C Catchpole** | c J Stimfig | J Wright | 11 |
+| **C Catchpole** | c J Stimpfig | J Wright | 11 |
 | **PR Smith** | b | J Wright | 1 |
-| **S Horner** | st J Stimfig | J Grant | 1 |
+| **S Horner** | st J Stimpfig | J Grant | 1 |
 | **G Powers** | not out | | 1 |
 | **Extras** | | (6b 1lb 4w 4nb) | **15** |
 | **Total** | | (18.3 overs) | **81 all out** |
@@ -56,7 +56,7 @@ A Gallagher's 2nd 50
 | **A Gallagher** | not out | | 50 |
 | **A Fielding** | not out | | 24 |
 | **W Calvert** | dnb | | |
-| **J Stimfig &#8224;** | dnb | | |
+| **J Stimpfig &#8224;** | dnb | | |
 | **T Purves** | dnb |  | |
 | **D Young** | dnb | | |
 | **J Packenham-Walsh** | dnb | | |

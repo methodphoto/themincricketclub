@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 11 | 11 | 2 | 282 | 31.33 |
+| 12 | 12 | 3 | 314 | 34.89 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -34,11 +34,12 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [West Green](../1984/west-green) | **47**&#42; |
 | **1983** | [UB II](../1983/ub-ii) | **9** |
 |  | [Nick Hoares XI](../1983/nick-hoares-xi) | **21** |
-| **1982** | [Clifton Hill House](../1982/clifton-hill-house) | **26** |
+| **1982** | [Wills Hall](../1982/wills-hall) | **32**&#42; |
+|  | [Clifton Hill House](../1982/clifton-hill-house) | **26** |
 
 
-**Highest Score**: 47* v [West Green](../1984/west-green)<br />
-**Fifties:** 0<br />
+**Highest Score**: 69* v [Horningsham](../1986/horningsham)<br />
+**Fifties:** 1<br />
 **Hundreds:** 0
 
 
@@ -46,7 +47,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 3 | 10.2 | 1 | 42 | 5 | 8.40 | 12.40 |
+| 3 | 10.2 | 1 | 42 | 5 | 8.4 | 12.4 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

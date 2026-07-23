@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [UB II 1983](../1983/ub-ii)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 31 | 31 | 16 | 299 | 19.93 |
+| 47 | 32 | 17 | 305 | 20.33 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -53,7 +53,8 @@ Debut: [UB II 1983](../1983/ub-ii)
 |  | [Old Elthamians](../1987/old-elthamians) | **2** |
 | **1986** | [Newdigate](../1986/newdigate) | **2**&#42; |
 |  | [Horningsham](../1986/horningsham) | **34** |
-| **1985** | [Hendon-Edgware](../1985/hendon-edgware) | **4**&#42; |
+| **1985** | [Lobsters](../1985/lobsters) | **6**&#42; |
+|  | [Hendon-Edgware](../1985/hendon-edgware) | **4**&#42; |
 |  | [Logica](../1985/logica) | **0** |
 
 
@@ -66,7 +67,7 @@ Debut: [UB II 1983](../1983/ub-ii)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 45 | 295 | 69 | 899 | 48 | 18.73 | 36.88 |
+| 46 | 300 | 71 | 907 | 49 | 18.51 | 36.73 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -112,7 +113,8 @@ Debut: [UB II 1983](../1983/ub-ii)
 |  | [Brook](../1986/brook) | 6 | 0 | 35 | 0 |
 |  | [Little Kingshill](../1986/little-kingshill) | 11 | 4 | 28 | 2 |
 |  | [Old Elthamians](../1986/old-elthamians) | 15 | 7 | 25 | 4 |
-| **1985** | [Hendon-Edgware](../1985/hendon-edgware) | 9 | 0 | 46 | 1 |
+| **1985** | [Lobsters](../1985/lobsters) | 5 | 2 | 8 | 1 |
+|  | [Hendon-Edgware](../1985/hendon-edgware) | 9 | 0 | 46 | 1 |
 |  | [Logica](../1985/logica) | 8 | 2 | 11 | 0 |
 | **1983** | [UB II](../1983/ub-ii) | 6 | 2 | 7 | 1 |
 

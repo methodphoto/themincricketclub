@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Antillies 1988](../1988/antilles)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 17 | 17 | 2 | 683 | 45.53 |
+| 19 | 18 | 2 | 683 | 42.69 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -34,8 +34,9 @@ Debut: [Antillies 1988](../1988/antilles)
 |  | [Great Tew](../1995/great-tew) | **28** |
 |  | [Valley End](../1995/valley-end) | **54** |
 | **1994** | [Antilles](../1994/antilles) | **0** |
-| **1989** | [Valley End](../1989/valley-end) | **19** |
-|  | [Blindley Heath](../1989/blindley-heath) | **13** |
+| **1989** | [Blindley Heath](../1989/blindley-heath) | **13** |
+|  | [Valley End](../1989/valley-end) | **19** |
+|  | [Little Kingshill](../1989/little-kingshill) | **0** |
 |  | [Putney](../1989/putney) | **12** |
 | **1988** | [Watton-at-Stone](../1988/watton-at-stone) | **100**&#42; |
 |  | [Friar's Oak](../1988/friars-oak) | **91** |
@@ -52,7 +53,7 @@ Debut: [Antillies 1988](../1988/antilles)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 17 | 154.3 | 24 | 490 | 28 | 17.50 | 33.11 |
+| 18 | 165.3 | 30 | 518 | 30 | 17.27 | 33.1 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -67,8 +68,9 @@ Debut: [Antillies 1988](../1988/antilles)
 |  | [Valley End](../1995/valley-end) | 4 | 0 | 31 | 0 |
 | **1994** | [Checkendon](../1994/checkendon) | 7 | 0 | 12 | 1 |
 |  | [Antilles](../1994/antilles) | 7 | 0 | 41 | 1 |
-| **1989** | [Valley End](../1989/valley-end) | 7 | 1 | 19 | 0 |
-|  | [Blindley Heath](../1989/blindley-heath) | 15 | 3 | 34 | 2 |
+| **1989** | [Blindley Heath](../1989/blindley-heath) | 15 | 3 | 34 | 2 |
+|  | [Valley End](../1989/valley-end) | 7 | 1 | 19 | 0 |
+|  | [Little Kingshill](../1989/little-kingshill) | 11 | 6 | 28 | 2 |
 |  | [Putney](../1989/putney) | 11 | 0 | 27 | 3 |
 | **1988** | [Friar's Oak](../1988/friars-oak) | 5.4 | 1 | 5 | 2 |
 |  | [Liphook](../1988/liphook) | 8.5 | 4 | 11 | 2 |

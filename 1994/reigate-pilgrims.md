@@ -18,7 +18,7 @@ R Earney best bowling
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **J Stimfig &#8224;** | st | Hudson | 41 |
+| **J Stimpfig &#8224;** | st | Hudson | 41 |
 | **S Hornsby** | c | S Arnold | 89 |
 | **R Earney** | c | S Arnold | 0 |
 | **N Clarke** | run out |  | 1 |
@@ -55,9 +55,9 @@ R Earney best bowling
 |:---|:---|---|---:|
 | **Richards** | c P Grant | R Earney | 65 |
 | **Hudson** | b | I Marshall | 1 |
-| **S Burgess** | st J Stimfig | R Earney | 35 |
+| **S Burgess** | st J Stimpfig | R Earney | 35 |
 | **M Hetherington** | c D Young | R Earney | 10 |
-| **P Hetherington** | c J Stimfig | R Earney | 4 |
+| **P Hetherington** | c J Stimpfig | R Earney | 4 |
 | **Bennett** | lbw | R Earney | 4 |
 | **C Wise** | b | R Earney | 20 |
 | **Cheetham** | b | I Marshall | 12 |

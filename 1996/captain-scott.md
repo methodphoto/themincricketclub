@@ -25,7 +25,7 @@ parent: 1996 Fixtures
 | **M Gardiner** | lbw | Who | 1 |
 | **E Garland** | b | Allen | 26 |
 | **P Grant** | c Who | Dychoff | 16 |
-| **J Stimfig** | c Who | Allen | 8 |
+| **J Stimpfig** | c Who | Allen | 8 |
 | **J Wright** | not out |  | 3 |
 | **Extras** | | (4b 3lb 3w 4nb) | **11** |
 | **Total** | | (40 overs) | **158 all out** |

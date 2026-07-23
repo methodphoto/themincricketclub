@@ -104,4 +104,4 @@ parent: Records
 | **1996** | 2nd wkt | J Hylton (101) and R Beswick (36) | [Littlewick Green](../1996/littlewick-green) | **102** |
 | **2017** | 4th wkt | M Gupta (100) and S Hornsby (47&#42;) | [Frensham](../2017/frensham) | **101** |
 | **1992** | 4th wkt | R Earney (54) and I Marshall (76) | [Ballinger](../1992/ballinger-waggoners) | **100** |
-| **1982** | 2nd wkt | J Booth (72) and D Mundy (36) | [J Stimfig's XI](../1982/j-stimfigs-xi) | **100** |
+| **1982** | 2nd wkt | J Booth (72) and D Mundy (36) | [J Stimpfig's XI](../1982/j-stimfigs-xi) | **100** |

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Erratics 1996](../1996/erratics)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 8 | 8 | 2 | 542 | 90.33 |
+| 10 | 9 | 2 | 552 | 78.86 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -28,6 +28,7 @@ Debut: [Erratics 1996](../1996/erratics)
 | **1999** | [Hetairoi](../1999/hetairoi) | **2** |
 | **1998** | [Reigate Pilgrims](../1998/reigate-pilgrims) | **59**&#42; |
 |  | [Hetairoi](../1998/hetairoi) | **32** |
+|  | [Hartswood Occasionals](../1998/hartswood-occasionals) | **10** |
 |  | [Knapp](../1998/knapp) | **116** |
 | **1997** | [Hetairoi](../1997/hetairoi) | **82**&#42; |
 | **1996** | [Littlewick Green](../1996/littlewick-green) | **101** |

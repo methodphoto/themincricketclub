@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Players and Jesters 2001](../2001/players-and-jesters)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 27 | 27 | 11 | 185 | 11.56 |
+| 44 | 27 | 11 | 185 | 11.56 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|

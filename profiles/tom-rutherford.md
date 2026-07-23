@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Britwell Salome 2006](../2006/britwell-salome)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 60 | 60 | 7 | 1112 | 20.98 |
+| 65 | 60 | 7 | 1112 | 20.98 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -87,7 +87,7 @@ Debut: [Britwell Salome 2006](../2006/britwell-salome)
 
 
 **Highest Score**: 81 v [Newington](../2011/newington)<br />
-**Fifties:** 5<br />
+**Fifties:** 7<br />
 **Hundreds:** 0
 
 

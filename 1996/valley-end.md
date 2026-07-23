@@ -20,11 +20,11 @@ parent: 1996 Fixtures
 | **A Baker** | c M Petre | S Masterson | 2 |
 | **S Mitchell** | c R Beswick | J Wright | 18 |
 | **E Cross** | b | R Beswick | 45 |
-| **M Henwick** | c J Stimfig | R Beswick | 11 |
+| **M Henwick** | c J Stimpfig | R Beswick | 11 |
 | **P Lopez** | run out (Earney) |  | 0 |
-| **A Monk** | c J Stimfig | S Masterson | 31 |
+| **A Monk** | c J Stimpfig | S Masterson | 31 |
 | **M Aggar** | b | P Bentley | 6 |
-| **A Gale** | c J Stimfig | S Masterson | 8 |
+| **A Gale** | c J Stimpfig | S Masterson | 8 |
 | **D Cable** | not out |  | 10 |
 | **J Talbot** | not out |  | 4 |
 | **Extras** | | (1b 2lb 6w 0nb) | **12** |
@@ -57,7 +57,7 @@ parent: 1996 Fixtures
 | **W Calvert** | c A Monk | A Gayle | 2 |
 | **M Petre** | b | M Aggar | 10 |
 | **D Swann** | not out |  | 43 |
-| **J Stimfig &#8224;** | dnb |  |  |
+| **J Stimpfig &#8224;** | dnb |  |  |
 | **S Masterson** | dnb |  |  |
 | **D Young** | dnb |  |  |
 | **J Fleetwood** | dnb |  |  |

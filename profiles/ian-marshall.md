@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Putney 1989](../1989/putney)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 150 | 150 | 29 | 2543 | 21.02 |
+| 206 | 153 | 30 | 2587 | 21.03 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -30,7 +30,8 @@ Debut: [Putney 1989](../1989/putney)
 |  | [Newington](../2019/newington) | **0** |
 | **2018** | [Reigate Pilgrims](../2018/reigate-pilgrims) | **50**&#42; |
 |  | [Newington](../2018/newington) | **19**&#42; |
-| **2017** | [Reigate Pilgrims](../2017/reigate-pilgrims) | **0** |
+| **2017** | [Selling](../2017/selling) | **18** |
+|  | [Reigate Pilgrims](../2017/reigate-pilgrims) | **0** |
 |  | [Newdigate](../2017/newdigate) | **0** |
 |  | [Newington](../2017/newington) | **3** |
 | **2016** | [Frensham](../2016/frensham) | **21**&#42; |
@@ -69,6 +70,7 @@ Debut: [Putney 1989](../1989/putney)
 |  | [Watton-at-Stone](../2003/watton-at-stone) | **34** |
 | **2002** | [Reigate Pilgrims](../2002/reigate-pilgrims) | **3** |
 |  | [Tappers](../2002/tappers) | **8** |
+|  | [Hetairoi](../2002/hetairoi) | **0**&#42; |
 |  | [Wareham](../2002/wareham) | **13** |
 | **2001** | [ACME](../2001/acme) | **6** |
 |  | [Broadway and Horton](../2001/broadway-and-horton) | **4**&#42; |
@@ -98,13 +100,13 @@ Debut: [Putney 1989](../1989/putney)
 |  | [Stowting](../1998/stowting) | **17** |
 |  | [Ockley](../1998/ockley) | **7** |
 | **1997** | [Slip End](../1997/slip-end) | **0** |
+|  | [Captain Scott XI](../1997/captain-scott-xi) | **27** |
 |  | [Farnborough](../1997/farnborough) | **8** |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | **14** |
 |  | [Wincanton Casuals](../1997/wincanton-casuals) | **26** |
 |  | [Players and Jesters](../1997/players-and-jesters) | **5** |
 |  | [Ockley](../1997/ockley) | **0** |
 |  | [Valley End](../1997/valley-end) | **30** |
-|  | [Captain Scott XI](../1997/captain-scott) | **27** |
 | **1996** | [Watton-at-Stone](../1996/watton-at-stone) | **18** |
 |  | [Littlewick Green](../1996/littlewick-green) | **3** |
 |  | [Captain Scott](../1996/captain-scott) | **1** |
@@ -172,12 +174,13 @@ Debut: [Putney 1989](../1989/putney)
 |  | [Limpsfield](../1989/limpsfield) | **22**&#42; |
 |  | [Durranti](../1989/durranti) | **16** |
 |  | [The Crocodiles](../1989/the-crocodiles) | **9** |
+|  | [Little Kingshill](../1989/little-kingshill) | **26** |
 |  | [Old Elthamians](../1989/old-elthamians) | **35** |
 |  | [Putney](../1989/putney) | **12** |
 
 
 **Highest Score**: 108* v [Dowlish Wake](../1992/dowlish-wake)<br />
-**Fifties:** 7<br />
+**Fifties:** 8<br />
 **Hundreds:** 1
 
 
@@ -185,7 +188,7 @@ Debut: [Putney 1989](../1989/putney)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 184 | 1698.2 | 416 | 5083 | 271 | 18.76 | 37.60 |
+| 188 | 1727.2 | 423 | 5170 | 277 | 18.66 | 37.42 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -196,7 +199,8 @@ Debut: [Putney 1989](../1989/putney)
 |  | [Newington](../2019/newington) | 7 | 1 | 20 | 0 |
 | **2018** | [Reigate Pilgrims](../2018/reigate-pilgrims) | 6 | 0 | 27 | 1 |
 |  | [Newington](../2018/newington) | 5 | 1 | 21 | 0 |
-| **2017** | [Reigate Pilgrims](../2017/reigate-pilgrims) | 7 | 1 | 20 | 0 |
+| **2017** | [Selling](../2017/selling) | 8 | 1 | 31 | 1 |
+|  | [Reigate Pilgrims](../2017/reigate-pilgrims) | 7 | 1 | 20 | 0 |
 |  | [Newdigate](../2017/newdigate) | 7 | 3 | 21 | 2 |
 |  | [Frensham](../2017/frensham) | 6 | 2 | 38 | 2 |
 |  | [Newington](../2017/newington) | 7 | 1 | 26 | 0 |
@@ -250,6 +254,7 @@ Debut: [Putney 1989](../1989/putney)
 |  | [Ockley](../2003/ockley) | 10 | 6 | 8 | 1 |
 | **2002** | [Reigate Pilgrims](../2002/reigate-pilgrims) | 15 | 6 | 44 | 2 |
 |  | [Tappers](../2002/tappers) | 12 | 4 | 32 | 3 |
+|  | [Hetairoi](../2002/hetairoi) | 7 | 1 | 20 | 0 |
 |  | [Broadway and Horton](../2002/broadway-and-horton) | 8 | 1 | 18 | 3 |
 |  | [Wareham](../2002/wareham) | 14 | 4 | 32 | 1 |
 |  | [Watton-at-Stone](../2002/watton-at-stone) | 17 | 2 | 52 | 2 |
@@ -291,13 +296,13 @@ Debut: [Putney 1989](../1989/putney)
 |  | [Ockley](../1998/ockley) | 6 | 1 | 20 | 1 |
 | **1997** | [Slip End](../1997/slip-end) | 19 | 3 | 42 | 4 |
 |  | [Hetairoi](../1997/hetairoi) | 3 | 0 | 7 | 0 |
+|  | [Captain Scott XI](../1997/captain-scott-xi) | 15 | 4 | 25 | 2 |
 |  | [Farnborough](../1997/farnborough) | 10.4 | 2 | 26 | 6 |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | 8 | 2 | 18 | 1 |
 |  | [Tappers](../1997/tappers) | 6 | 0 | 23 | 0 |
 |  | [Players and Jesters](../1997/players-and-jesters) | 13 | 0 | 44 | 3 |
 |  | [Ockley](../1997/ockley) | 7 | 3 | 17 | 0 |
 |  | [Valley End](../1997/valley-end) | 11 | 1 | 56 | 1 |
-|  | [Captain Scott XI](../1997/captain-scott) | 15 | 4 | 25 | 2 |
 | **1996** | [Watton-at-Stone](../1996/watton-at-stone) | 13 | 1 | 53 | 2 |
 |  | [Stonor](../1996/stonor) | 7 | 2 | 15 | 1 |
 |  | [Littlewick Green](../1996/littlewick-green) | 12 | 6 | 20 | 1 |
@@ -341,7 +346,8 @@ Debut: [Putney 1989](../1989/putney)
 |  | [Antilles](../1992/antilles) | 8 | 1 | 30 | 0 |
 |  | [Yateley](../1992/yateley) | 3 | 0 | 13 | 0 |
 |  | [Old Elthamians](../1992/old-elthamians) | 16.4 | 5 | 42 | 6 |
-| **1991** | [Stowting](../1991/stowting) | 11 | 2 | 42 | 2 |
+| **1991** | [Valley End](../1991/valley-end) | 9 | 2 | 23 | 3 |
+|  | [Stowting](../1991/stowting) | 11 | 2 | 42 | 2 |
 |  | [Hetairoi](../1991/hetairoi) | 16 | 6 | 34 | 0 |
 |  | [Old Tauntonians](../1991/old-tauntonians) | 10 | 2 | 57 | 1 |
 |  | [Old Texaconians](../1991/old-texaconians) | 13 | 5 | 22 | 6 |
@@ -371,6 +377,7 @@ Debut: [Putney 1989](../1989/putney)
 |  | [Limpsfield](../1989/limpsfield) | 19 | 3 | 75 | 1 |
 |  | [Durranti](../1989/durranti) | 4 | 0 | 16 | 0 |
 |  | [The Crocodiles](../1989/the-crocodiles) | 10.5 | 2 | 27 | 1 |
+|  | [Little Kingshill](../1989/little-kingshill) | 5 | 3 | 13 | 2 |
 |  | [Old Elthamians](../1989/old-elthamians) | 3 | 0 | 34 | 0 |
 |  | [Putney](../1989/putney) | 5 | 1 | 9 | 0 |
 

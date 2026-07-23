@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 21 | 21 | 2 | 574 | 30.21 |
+| 26 | 24 | 2 | 622 | 28.27 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -29,12 +29,14 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 | **1995** | [Old Elthamians](../1995/old-elthamians) | **91** |
 | **1994** | [Old Elthamians](../1994/old-elthamians) | **14** |
 | **1993** | [Old Elthamians](../1993/old-elthamians) | **53** |
-| **1991** | [Old Elthamians](../1991/old-elthamians) | **7** |
+| **1991** | [Valley End](../1991/valley-end) | **2** |
+|  | [Old Elthamians](../1991/old-elthamians) | **7** |
 | **1990** | [Stowting](../1990/stowting) | **0** |
 |  | [Godstone](../1990/godstone) | **11** |
 |  | [Limpsfield](../1990/limpsfield) | **0** |
 |  | [Old Elthamians](../1990/old-elthamians) | **32** |
 | **1989** | [Valley End](../1989/valley-end) | **36** |
+|  | [Little Kingshill](../1989/little-kingshill) | **24** |
 |  | [Old Elthamians](../1989/old-elthamians) | **56** |
 | **1988** | [Brockham Green](../1988/brockham-green) | **9** |
 |  | [Newdigate](../1988/newdigate) | **22** |
@@ -45,6 +47,7 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 |  | [Old Elthamians](../1986/old-elthamians) | **45**&#42; |
 |  | [West Wickham](../1986/west-wickham) | **16** |
 |  | [Petts Wood](../1986/petts-wood) | **45** |
+| **1984** | [Old Elthamians](../1984/old-elthamians) | **22** |
 
 
 **Highest Score**: 91 v [Old Elthamians](../1995/old-elthamians)<br />
@@ -56,12 +59,13 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 7 | 36 | 7 | 116 | 7 | 16.57 | 30.86 |
+| 8 | 37 | 7 | 122 | 7 | 17.43 | 31.71 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
 | **1994** | [Old Elthamians](../1994/old-elthamians) | 0.1 | 0 | 1 | 0 |
 | **1990** | [Stowting](../1990/stowting) | 6 | 1 | 27 | 0 |
+| **1989** | [Little Kingshill](../1989/little-kingshill) | 1 | 0 | 6 | 0 |
 | **1986** | [Newdigate](../1986/newdigate) | 1 | 1 | 0 | 0 |
 |  | [Old Elthamians](../1986/old-elthamians) | 12 | 3 | 46 | 2 |
 |  | [West Wickham](../1986/west-wickham) | 8.5 | 2 | 15 | 4 |

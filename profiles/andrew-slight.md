@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Stowting 2001](../2001/stowting)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 93 | 93 | 9 | 956 | 11.38 |
+| 112 | 94 | 9 | 962 | 11.32 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -41,11 +41,11 @@ Debut: [Stowting 2001](../2001/stowting)
 |  | [Horningsham](../2010/horningsham) | **5** |
 |  | [Kilmington and Stourton](../2010/kilmington-and-stourton) | **5** |
 |  | [Stowting](../2010/stowting) | **0** |
+|  | [Watton-at-Stone](../2010/watton-at-stone) | **7** |
 |  | [Middleton Stoney](../2010/middleton-stoney) | **5** |
 | **2009** | [ELCCC](../2009/elccc) | **24** |
 |  | [Stowting](../2009/stowting) | **2** |
-| **2010** | [Watton-at-Stone](../2010/watton-at-stone) | **7** |
-| **2009** | [Newdigate](../2009/newdigate) | **4** |
+|  | [Newdigate](../2009/newdigate) | **4** |
 | **2008** | [Reigate Pilgrims](../2008/reigate-pilgrims) | **0** |
 |  | [Putney](../2008/putney) | **11** |
 |  | [Old Min Young Min](../2008/old-min-young-min) | **10** |
@@ -108,6 +108,7 @@ Debut: [Stowting 2001](../2001/stowting)
 | **2002** | [Britwell Salome](../2002/britwell-salome) | **0** |
 |  | [North Holmwood](../2002/north-holmwood) | **6** |
 |  | [Tappers](../2002/tappers) | **2** |
+|  | [Hetairoi](../2002/hetairoi) | **6** |
 |  | [ACME](../2002/acme) | **1** |
 |  | [Broadway and Horton](../2002/broadway-and-horton) | **4**&#42; |
 |  | [Wareham](../2002/wareham) | **33** |
@@ -144,9 +145,9 @@ Debut: [Stowting 2001](../2001/stowting)
 |  | [Horningsham](../2011/horningsham) | 5 | 1 | 23 | 1 |
 | **2010** | [Spencer](../2010/spencer) | 3 | 0 | 21 | 0 |
 |  | [Broadway and Horton](../2010/broadway-and-horton) | 3 | 0 | 7 | 1 |
+|  | [Watton-at-Stone](../2010/watton-at-stone) | 0.4 | 0 | 4 | 0 |
 |  | [Middleton Stoney](../2010/middleton-stoney) | 1 | 0 | 1 | 0 |
 | **2009** | [ELCCC](../2009/elccc) | 2 | 0 | 20 | 0 |
-| **2010** | [Watton-at-Stone](../2010/watton-at-stone) | 0.4 | 0 | 4 | 0 |
 | **2007** | [Watton-at-Stone](../2007/watton-at-stone) | 2 | 0 | 10 | 1 |
 |  | [Horningsham](../2007/horningsham) | 5 | 0 | 18 | 1 |
 |  | [Broadway and Horton](../2007/broadway-and-horton) | 0.4 | 0 | 2 | 0 |

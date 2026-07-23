@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,16 +20,16 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 17 | 17 | 6 | 499 | 45.36 |
+| 18 | 17 | 6 | 499 | 45.36 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
-| **1986** | [Godstone](../1986/godstone) | **5** |
 | **1987** | [Godstone](../1987/godstone) | **40**&#42; |
 |  | [Horningsham](../1987/horningsham) | **3** |
 |  | [Little Kingshill](../1987/little-kingshill) | **10** |
 | **1986** | [Newdigate](../1986/newdigate) | **25**&#42; |
 |  | [Logica](../1986/logica) | **31**&#42; |
+|  | [Godstone](../1986/godstone) | **5** |
 |  | [Horningsham](../1986/horningsham) | **66**&#42; |
 |  | [Brook](../1986/brook) | **64**&#42; |
 |  | [White City All Stars](../1986/white-city-all-stars) | **22** |
@@ -56,12 +56,12 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
-| **1986** | [Godstone](../1986/godstone) | 6 | 1 | 29 | 3 |
 | **1987** | [Godstone](../1987/godstone) | 12 | 2 | 41 | 2 |
 |  | [Horningsham](../1987/horningsham) | 10 | 0 | 56 | 4 |
 |  | [Little Kingshill](../1987/little-kingshill) | 3 | 0 | 22 | 0 |
 | **1986** | [Newdigate](../1986/newdigate) | 6 | 1 | 16 | 0 |
 |  | [Logica](../1986/logica) | 3.1 | 1 | 17 | 2 |
+|  | [Godstone](../1986/godstone) | 6 | 1 | 29 | 3 |
 |  | [Horningsham](../1986/horningsham) | 8.4 | 0 | 58 | 4 |
 |  | [White City All Stars](../1986/white-city-all-stars) | 4 | 1 | 14 | 1 |
 |  | [Old Elthamians](../1986/old-elthamians) | 6 | 0 | 53 | 0 |

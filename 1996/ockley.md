@@ -18,7 +18,7 @@ parent: 1996 Fixtures
 |:---|:---|---|---:|
 | **R Earney** | b | S Smith | 0 |
 | **S Barrowcliff** | b | J Chambers | 20 |
-| **J Stimfig** | b | S Smith | 0 |
+| **J Stimpfig** | b | S Smith | 0 |
 | **P Bentley** | b | L Figg | 49 |
 | **W Calvert** | b | M Williams | 48 |
 | **J Grant &#8224;** | b | L Figg | 18 |

@@ -16,12 +16,12 @@ parent: 1996 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Redfern** | c J Stimfig | R Beswick | 42 |
-| **Matthews** | c J Stimfig | W Calvert | 10 |
-| **Collison** | c J Stimfig | J Wright | 2 |
+| **Redfern** | c J Stimpfig | R Beswick | 42 |
+| **Matthews** | c J Stimpfig | W Calvert | 10 |
+| **Collison** | c J Stimpfig | J Wright | 2 |
 | **A Dent** | b | R Beswick | 0 |
-| **Garrett** | st J Stimfig | R Earney | 21 |
-| **Bridgemount** | st J Stimfig | E Garland | 8 |
+| **Garrett** | st J Stimpfig | R Earney | 21 |
+| **Bridgemount** | st J Stimpfig | E Garland | 8 |
 | **Mansell** | run out |  | 20 |
 | **Williams** | not out |  | 11 |
 | **Darvill** | dnb |  |  |
@@ -58,7 +58,7 @@ parent: 1996 Fixtures
 | **R Beswick** | not out |  | 17 |
 | **W Calvert** | dnb |  |  |
 | **E Garland** | dnb |  |  |
-| **J Stimfig &#8224;** | dnb |  |  |
+| **J Stimpfig &#8224;** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Dougal** | dnb |  |  |
 |  |  |  |  |

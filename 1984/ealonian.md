@@ -19,7 +19,7 @@ parent: 1984 Fixtures
 | **A Gallagher** | b | Cox | 17 |
 | **J Grant &#8224;** | c | Filmer | 0 |
 | **W Calvert** | c Cox | Mayhew | 24 |
-| **J Stimfig** | b | Mayhew | 1 |
+| **J Stimpfig** | b | Mayhew | 1 |
 | **S Maynard** | c (keeper) | Mayhew | 13 |
 | **P Slowe** | c | Joyce | 11 |
 | **G Neath** | b | Joyce | 11 |

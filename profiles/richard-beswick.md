@@ -21,7 +21,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 466 | 466 | 75 | 8578 | 21.94 |
+| 538 | 477 | 76 | 8764 | 21.86 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -55,6 +55,8 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 | **2022** | [Hornchurch Athletic](../2022/hornchurch-athletic) | **27** |
 |  | [Reigate Pilgrims](../2022/reigate-pilgrims) | **0** |
 |  | [Banstead](../2022/banstead) | **23** |
+|  | [Broadway and Horton](../2022/broadway-and-horton) | **0** |
+|  | [Blagdon Hill](../2022/blagdon-hill) | **19** |
 |  | [St Anne's Allstars](../2022/st-annes-allstars) | **71** |
 |  | [Frensham](../2022/frensham) | **41** |
 |  | [Newington](../2022/newington) | **33** |
@@ -65,14 +67,13 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Banstead](../2021/banstead) | **61** |
 |  | [Wandering Maniacs](../2021/wandering-maniacs) | **11** |
 |  | [Broadway and Horton](../2021/broadway-and-horton) | **7** |
-| **2022** | [Broadway and Horton](../2022/broadway-and-horton) | **0** |
-|  | [Blagdon Hill](../2022/blagdon-hill) | **19** |
-| **2021** | [Bricklayer's Arms](../2021/bricklayers-arms) | **1** |
+|  | [Bricklayer's Arms](../2021/bricklayers-arms) | **1** |
 |  | [Newington](../2021/newington) | **17**&#42; |
 |  | [Middleton Stoney](../2021/middleton-stoney) | **5** |
 | **2020** | [Reigate Pilgrims](../2020/reigate-pilgrims) | **8** |
 |  | [Railway Taverners](../2020/railway-taverners) | **4** |
-| **2019** | [Reigate Pilgrims](../2019/reigate-pilgrims) | **17** |
+| **2019** | [Kingstonian](../2019/kingstonian) | **6** |
+|  | [Reigate Pilgrims](../2019/reigate-pilgrims) | **17** |
 |  | [Railway Taverners](../2019/railway-taverners) | **19** |
 |  | [Broadway and Horton](../2019/broadway-and-horton) | **32** |
 |  | [Blagdon Hill](../2019/blagdon-hill) | **6** |
@@ -84,13 +85,14 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 | **2018** | [Stoke Dabernon](../2018/stoke-dabernon) | **7** |
 |  | [Reigate Pilgrims](../2018/reigate-pilgrims) | **7** |
 |  | [Selling](../2018/selling) | **1** |
+|  | [Broadway and Horton](../2018/broadway-and-horton) | **4** |
 |  | [Blagdon Hill](../2018/blagdon-hill) | **9** |
-| **1986** | [Godstone](../1986/godstone) | **7** |
-| **2018** | [Watton-at-Stone](../2018/watton-at-stone) | **32** |
+|  | [Watton-at-Stone](../2018/watton-at-stone) | **32** |
 |  | [Newington](../2018/newington) | **46** |
 |  | [Kingstonian](../2018/kingstonian) | **9** |
 |  | [Middleton Stoney](../2018/middleton-stoney) | **0** |
-| **2017** | [Reigate Pilgrims](../2017/reigate-pilgrims) | **18** |
+| **2017** | [Selling](../2017/selling) | **4** |
+|  | [Reigate Pilgrims](../2017/reigate-pilgrims) | **18** |
 |  | [Stowting](../2017/stowting) | **16** |
 |  | [Broadway and Horton v The Min](../2017/broadway-and-horton) | **30** |
 |  | [Blagdon Hill](../2017/blagdon-hill) | **28** |
@@ -109,15 +111,17 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Watton-at-Stone](../2016/watton-at-stone) | **8** |
 |  | [Frensham](../2016/frensham) | **18** |
 |  | [Newington](../2016/newington) | **0** |
+|  | [Nightwatchman](../2016/nightwatchman) | **37** |
 |  | [Middleton Stoney](../2016/middleton-stoney) | **11** |
 | **2015** | [Selling](../2015/selling) | **72** |
 |  | [Brasted Invicta](../2015/brasted-invicta) | **32** |
 |  | [Stowting](../2015/stowting) | **17** |
 |  | [Reigate Pilgrims](../2015/reigate-pilgrims) | **10**&#42; |
 |  | [BGS Bedouins](../2015/bgs-bedouins) | **20** |
-|  | [Broadway and Horton](../2015/broadway-and-horton) | **89** |
 |  | [Blagdon Hill](../2015/blagdon-hill) | **43** |
+|  | [Broadway and Horton](../2015/broadway-and-horton) | **89** |
 |  | [Watton-at-Stone](../2015/watton-at-stone) | **22** |
+|  | [Newdigate](../2015/newdigate) | **47** |
 |  | [Frensham](../2015/frensham) | **35** |
 |  | [Newington](../2015/newington) | **6** |
 |  | [Nightwatchman](../2015/nightwatchman) | **9** |
@@ -172,6 +176,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Horningsham](../2010/horningsham) | **21** |
 |  | [Kilmington and Stourton](../2010/kilmington-and-stourton) | **0** |
 |  | [Stowting](../2010/stowting) | **14** |
+|  | [Watton-at-Stone](../2010/watton-at-stone) | **36** |
 |  | [Newdigate](../2010/newdigate) | **10** |
 |  | [Middleton Stoney](../2010/middleton-stoney) | **16** |
 | **2009** | [Selling](../2009/selling) | **68** |
@@ -184,8 +189,9 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Broadway and Horton](../2009/broadway-and-horton) | **20** |
 |  | [Stowting](../2009/stowting) | **21** |
 |  | [Watton-at-Stone](../2009/watton-at-stone) | **7** |
-| **2010** | [Watton-at-Stone](../2010/watton-at-stone) | **36** |
-| **2009** | [Newdigate](../2009/newdigate) | **5** |
+|  | [Newdigate](../2009/newdigate) | **5** |
+|  | [Ockley](../2009/ockley) | **16** |
+|  | [Britwell Salome](../2009/britwell-salome) | **36** |
 | **2008** | [Selling](../2008/selling) | **1** |
 |  | [Reigate Pilgrims](../2008/reigate-pilgrims) | **19** |
 |  | [Putney](../2008/putney) | **5** |
@@ -237,8 +243,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Tappers](../2005/tappers) | **1** |
 |  | [Old Colfeians](../2005/old-colfeians) | **16** |
 |  | [Ockley](../2005/ockley) | **20** |
-| **2009** | [Britwell Salome](../2009/britwell-salome) | **36** |
-| **2005** | [Britwell Salome](../2005/britwell-salome) | **36** |
+|  | [Britwell Salome](../2005/britwell-salome) | **36** |
 | **2004** | [Iver Heath](../2004/iver-heath) | **23** |
 |  | [Reigate Pilgrims](../2004/reigate-pilgrims) | **0** |
 |  | [Temple Sheen](../2004/temple-sheen) | **65**&#42; |
@@ -268,6 +273,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [North Holmwood](../2002/north-holmwood) | **14** |
 |  | [Selling](../2002/selling) | **4** |
 |  | [Tappers](../2002/tappers) | **0** |
+|  | [Hetairoi](../2002/hetairoi) | **14** |
 |  | [ACME](../2002/acme) | **32** |
 |  | [Wareham](../2002/wareham) | **21** |
 |  | [Streatham](../2002/streatham) | **12** |
@@ -317,6 +323,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Ockley](../1998/ockley) | **46**&#42; |
 | **1997** | [Reigate Pilgrims](../1997/reigate-pilgrims) | **7** |
 |  | [Slip End](../1997/slip-end) | **23**&#42; |
+|  | [Captain Scott XI](../1997/captain-scott-xi) | **14** |
 |  | [Farnborough](../1997/farnborough) | **42** |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | **15**&#42; |
 |  | [Wincanton Casuals](../1997/wincanton-casuals) | **19** |
@@ -354,13 +361,11 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Valley End](../1995/valley-end) | **1** |
 | **1994** | [Watton-at-Stone](../1994/watton-at-stone) | **14** |
 |  | [Hetairoi](../1994/hetairoi) | **55** |
-| **1984** | [Ealonian](../1984/ealonian) | **12** |
-| **1994** | [Farnborough](../1994/farnborough) | **9** |
+|  | [Farnborough](../1994/farnborough) | **9** |
 |  | [Horningsham](../1994/horningsham) | **0** |
 |  | [Broadway and Horton](../1994/broadway-and-horton) | **28** |
 |  | [Polytechnic III](../1994/polytechnic-iii) | **54**&#42; |
-| **1984** | [Sudbury Court](../1984/sudbury-court) | **20**&#42; |
-| **1994** | [Old Elthamians](../1994/old-elthamians) | **37** |
+|  | [Old Elthamians](../1994/old-elthamians) | **37** |
 |  | [Great Tew](../1994/great-tew) | **54**&#42; |
 |  | [Antilles](../1994/antilles) | **7** |
 | **1993** | [Watton-at-Stone](../1993/watton-at-stone) | **0** |
@@ -384,7 +389,8 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Antilles](../1992/antilles) | **9** |
 |  | [Yateley](../1992/yateley) | **55**&#42; |
 |  | [Old Elthamians](../1992/old-elthamians) | **4**&#42; |
-| **1991** | [Watton-at-Stone](../1991/watton-at-stone) | **43** |
+| **1991** | [Valley End](../1991/valley-end) | **36**&#42; |
+|  | [Watton-at-Stone](../1991/watton-at-stone) | **43** |
 |  | [Reigate Pilgrims](../1991/reigate-pilgrims) | **1** |
 |  | [Long Marston](../1991/long-marston) | **22** |
 |  | [Hetairoi](../1991/hetairoi) | **22**&#42; |
@@ -393,8 +399,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Old Tauntonians](../1991/old-tauntonians) | **17** |
 |  | [Old Texaconians](../1991/old-texaconians) | **25** |
 |  | [Hamsey Green](../1991/hamsey-green) | **13** |
-| **2009** | [Ockley](../2009/ockley) | **16** |
-| **1991** | [Hersham](../1991/hersham) | **20** |
+|  | [Hersham](../1991/hersham) | **20** |
 | **1990** | [Newdigate](../1990/newdigate) | **9**&#42; |
 |  | [T Calvert's Collection](../1990/t-calverts-collection) | **6** |
 |  | [Old Tauntonians](../1990/old-tauntonians) | **20** |
@@ -412,11 +417,12 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Hetairoi](../1989/hetairoi) | **24** |
 |  | [Newdigate](../1989/newdigate) | **24** |
 |  | [Barrow-boys](../1989/barrow-boys) | **0** |
-|  | [Valley End](../1989/valley-end) | **0** |
 |  | [Blindley Heath](../1989/blindley-heath) | **16** |
+|  | [Valley End](../1989/valley-end) | **0** |
 |  | [Limpsfield](../1989/limpsfield) | **0** |
 |  | [Durranti](../1989/durranti) | **25** |
 |  | [The Crocodiles](../1989/the-crocodiles) | **71**&#42; |
+|  | [Little Kingshill](../1989/little-kingshill) | **14** |
 |  | [Old Elthamians](../1989/old-elthamians) | **21** |
 |  | [Ockley](../1989/ockley) | **7** |
 |  | [Putney](../1989/putney) | **10** |
@@ -451,12 +457,14 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Harrow 3rd XI](../1986/harrow-3rd-xi) | **12** |
 |  | [Newdigate](../1986/newdigate) | **20** |
 |  | [Valley End](../1986/valley-end) | **2**&#42; |
+|  | [Godstone](../1986/godstone) | **7** |
 |  | [Brook](../1986/brook) | **2** |
 |  | [White City All Stars](../1986/white-city-all-stars) | **4** |
 |  | [Little Kingshill](../1986/little-kingshill) | **26**&#42; |
 |  | [Old Elthamians](../1986/old-elthamians) | **12** |
 |  | [Petts Wood](../1986/petts-wood) | **21** |
-| **1985** | [Hendon-Edgware](../1985/hendon-edgware) | **6** |
+| **1985** | [Lobsters](../1985/lobsters) | **1** |
+|  | [Hendon-Edgware](../1985/hendon-edgware) | **6** |
 |  | [Alex Beard's XI](../1985/alex-beards-xi) | **38** |
 |  | [Old Elthamians](../1985/old-elthamians) | **13** |
 |  | [Ealonian](../1985/ealonian) | **6** |
@@ -475,7 +483,9 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Old Elthamians](../1984/old-elthamians) | **9** |
 |  | [British Legion Rickmansworth](../1984/british-legion-rickmansworth) | **14**&#42; |
 |  | [Chiswick Flyovers](../1984/chiswick-flyovers) | **8** |
+|  | [Ealonian](../1984/ealonian) | **12** |
 |  | [Logica](../1984/logica) | **40** |
+|  | [Sudbury Court](../1984/sudbury-court) | **20**&#42; |
 |  | [Standard Bridge](../1984/standard-bridge) | **31** |
 |  | [Lobsters](../1984/lobsters) | **2** |
 |  | [Ealing Commoners](../1984/ealing-commoners) | **11** |
@@ -488,13 +498,14 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Lobsters](../1982/lobsters) | **9** |
 |  | [Bristol Young Solicitors](../1982/bristol-young-solicitors) | **42**&#42; |
 |  | [Leyhill](../1982/leyhill) | **5** |
+|  | [J Stimpfigs XI](../1982/j-stimfigs-xi) | **9** |
 |  | [Bristol Grammar School](../1982/bristol-grammar-school) | **19** |
 |  | [Another Man's Meat](../1982/another-mans-meat) | **0** |
 |  | [Clifton Hill House](../1982/clifton-hill-house) | **3** |
 
 
 **Highest Score**: 93 v [Kilmington and Stourton](../2009/kilmington-and-stourton)<br />
-**Fifties:** 8<br />
+**Fifties:** 38<br />
 **Hundreds:** 0
 
 
@@ -503,7 +514,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 397 | 2311.5 | 394 | 8747 | 486 | 18.00 | 28.54 |
+| 401 | 2331.5 | 395 | 8870 | 488 | 18.18 | 28.67 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -546,7 +557,8 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Banstead](../2020/banstead) | 5 | 2 | 24 | 4 |
 |  | [Railway Taverners](../2020/railway-taverners) | 7 | 2 | 13 | 2 |
 |  | [Kingstonian](../2020/kingstonian) | 2 | 1 | 3 | 2 |
-| **2019** | [Reigate Pilgrims](../2019/reigate-pilgrims) | 7.2 | 0 | 33 | 2 |
+| **2019** | [Kingstonian](../2019/kingstonian) | 5 | 1 | 13 | 0 |
+|  | [Reigate Pilgrims](../2019/reigate-pilgrims) | 7.2 | 0 | 33 | 2 |
 |  | [Railway Taverners](../2019/railway-taverners) | 7 | 1 | 29 | 0 |
 |  | [Broadway and Horton](../2019/broadway-and-horton) | 2 | 1 | 7 | 1 |
 |  | [Blagdon Hill](../2019/blagdon-hill) | 6 | 0 | 39 | 2 |
@@ -558,12 +570,12 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Reigate Pilgrims](../2018/reigate-pilgrims) | 3.5 | 1 | 19 | 1 |
 |  | [Broadway and Horton](../2018/broadway-and-horton) | 8 | 0 | 39 | 1 |
 |  | [Blagdon Hill](../2018/blagdon-hill) | 4 | 0 | 33 | 0 |
-| **1986** | [Godstone](../1986/godstone) | 5 | 0 | 17 | 0 |
-| **2018** | [Watton-at-Stone](../2018/watton-at-stone) | 5 | 0 | 27 | 1 |
+|  | [Watton-at-Stone](../2018/watton-at-stone) | 5 | 0 | 27 | 1 |
 |  | [Newington](../2018/newington) | 2 | 0 | 9 | 0 |
 |  | [Kingstonian](../2018/kingstonian) | 4 | 1 | 15 | 1 |
 |  | [Middleton Stoney](../2018/middleton-stoney) | 10 | 0 | 22 | 0 |
-| **2017** | [Reigate Pilgrims](../2017/reigate-pilgrims) | 5 | 0 | 18 | 2 |
+| **2017** | [Selling](../2017/selling) | 8 | 0 | 54 | 1 |
+|  | [Reigate Pilgrims](../2017/reigate-pilgrims) | 5 | 0 | 18 | 2 |
 |  | [Blagdon Hill](../2017/blagdon-hill) | 7 | 0 | 70 | 2 |
 |  | [Newdigate](../2017/newdigate) | 3 | 0 | 23 | 0 |
 |  | [Frensham](../2017/frensham) | 5 | 0 | 35 | 0 |
@@ -597,7 +609,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Exford](../2014/exford) | 2 | 0 | 22 | 0 |
 |  | [Kilmington and Stourton](../2014/kilmington-and-stourton) | 3.4 | 0 | 21 | 3 |
 |  | [Farningham](../2014/farningham) | 7 | 1 | 24 | 3 |
-|  | [Newington](../2014/newington) | 8 | 01 | 40 | 3 |
+|  | [Newington](../2014/newington) | 8 | 1 | 40 | 3 |
 |  | [Nightwatchman](../2014/nightwatchman) | 2 | 0 | 4 | 1 |
 |  | [Hook and Southborough](../2014/hook-and-southborough) | 3 | 0 | 10 | 1 |
 | **2013** | [Selling](../2013/selling) | 5 | 1 | 22 | 0 |
@@ -634,6 +646,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Kilmington and Stourton](../2010/kilmington-and-stourton) | 4 | 1 | 21 | 0 |
 |  | [Broadway and Horton](../2010/broadway-and-horton) | 4 | 0 | 11 | 0 |
 |  | [Stowting](../2010/stowting) | 12 | 3 | 33 | 5 |
+|  | [Watton-at-Stone](../2010/watton-at-stone) | 4 | 0 | 36 | 0 |
 |  | [Newdigate](../2010/newdigate) | 1.4 | 0 | 5 | 1 |
 |  | [Middleton Stoney](../2010/middleton-stoney) | 5 | 0 | 12 | 3 |
 |  | [ELCCC](../2010/elccc) | 6 | 0 | 18 | 3 |
@@ -644,7 +657,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Horningsham](../2009/horningsham) | 1 | 0 | 1 | 0 |
 |  | [Broadway and Horton](../2009/broadway-and-horton) | 8 | 0 | 45 | 2 |
 |  | [Stowting](../2009/stowting) | 3 | 0 | 19 | 3 |
-| **2010** | [Watton-at-Stone](../2010/watton-at-stone) | 4 | 0 | 36 | 0 |
+|  | [Ockley](../2009/ockley) | 1 | 1 | 0 | 2 |
 | **2008** | [Selling](../2008/selling) | 7 | 3 | 26 | 1 |
 |  | [Reigate Pilgrims](../2008/reigate-pilgrims) | 4 | 1 | 14 | 0 |
 |  | [Harrow St Mary's](../2008/harrow-st-marys) | 4 | 0 | 34 | 0 |
@@ -730,6 +743,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Hartswood Occasionals](../1998/hartswood-occasionals) | 1 | 0 | 9 | 0 |
 | **1997** | [Slip End](../1997/slip-end) | 3 | 0 | 15 | 1 |
 |  | [Hetairoi](../1997/hetairoi) | 4 | 1 | 9 | 0 |
+|  | [Captain Scott XI](../1997/captain-scott-xi) | 6 | 1 | 35 | 1 |
 |  | [Farnborough](../1997/farnborough) | 5 | 0 | 20 | 0 |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | 8 | 1 | 36 | 1 |
 |  | [Great Braxted](../1997/great-braxted) | 12 | 4 | 30 | 1 |
@@ -737,7 +751,6 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Stowting](../1997/stowting) | 10 | 2 | 45 | 1 |
 |  | [Ockley](../1997/ockley) | 6 | 0 | 18 | 1 |
 |  | [Valley End](../1997/valley-end) | 3 | 1 | 7 | 0 |
-|  | [Captain Scott XI](../1997/captain-scott) | 6 | 1 | 35 | 1 |
 | **1996** | [Watton-at-Stone](../1996/watton-at-stone) | 9 | 2 | 33 | 2 |
 |  | [Great Braxted](../1996/great-braxted) | 4 | 0 | 23 | 0 |
 |  | [Stonor](../1996/stonor) | 4 | 0 | 16 | 0 |
@@ -768,14 +781,12 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Valley End](../1995/valley-end) | 11 | 3 | 40 | 0 |
 | **1994** | [Watton-at-Stone](../1994/watton-at-stone) | 7 | 2 | 31 | 1 |
 |  | [Hetairoi](../1994/hetairoi) | 7 | 3 | 13 | 0 |
-| **1984** | [Ealonian](../1984/ealonian) | 7.2 | 0 | 39 | 1 |
-| **1994** | [Checkendon](../1994/checkendon) | 7 | 3 | 5 | 4 |
+|  | [Checkendon](../1994/checkendon) | 7 | 3 | 5 | 4 |
 |  | [Farnborough](../1994/farnborough) | 4.3 | 0 | 28 | 0 |
 |  | [Horningsham](../1994/horningsham) | 6 | 1 | 11 | 3 |
 |  | [Broadway and Horton](../1994/broadway-and-horton) | 8 | 3 | 23 | 1 |
 |  | [Polytechnic III](../1994/polytechnic-iii) | 13 | 5 | 29 | 2 |
-| **1984** | [Sudbury Court](../1984/sudbury-court) | 2 | 0 | 2 | 0 |
-| **1994** | [Old Elthamians](../1994/old-elthamians) | 4 | 0 | 16 | 1 |
+|  | [Old Elthamians](../1994/old-elthamians) | 4 | 0 | 16 | 1 |
 |  | [Great Tew](../1994/great-tew) | 11 | 2 | 29 | 1 |
 |  | [Antilles](../1994/antilles) | 5 | 0 | 38 | 1 |
 | **1993** | [Watton-at-Stone](../1993/watton-at-stone) | 7.4 | 1 | 28 | 3 |
@@ -807,8 +818,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Hamsey Green](../1991/hamsey-green) | 11 | 2 | 47 | 2 |
 |  | [Checkendon](../1991/checkendon) | 5 | 1 | 27 | 0 |
 |  | [Old Elthamians](../1991/old-elthamians) | 9 | 4 | 32 | 1 |
-| **2009** | [Ockley](../2009/ockley) | 1 | 1 | 0 | 2 |
-| **1991** | [Hersham](../1991/hersham) | 3 | 0 | 7 | 0 |
+|  | [Hersham](../1991/hersham) | 3 | 0 | 7 | 0 |
 | **1990** | [Watton-at-Stone](../1990/watton-at-stone) | 5 | 0 | 39 | 2 |
 |  | [Stowting](../1990/stowting) | 12 | 5 | 21 | 4 |
 |  | [Newdigate](../1990/newdigate) | 10 | 2 | 27 | 4 |
@@ -834,6 +844,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Limpsfield](../1989/limpsfield) | 13 | 2 | 38 | 1 |
 |  | [Durranti](../1989/durranti) | 10 | 1 | 37 | 2 |
 |  | [The Crocodiles](../1989/the-crocodiles) | 10 | 0 | 45 | 3 |
+|  | [Little Kingshill](../1989/little-kingshill) | 2 | 0 | 19 | 0 |
 |  | [Old Elthamians](../1989/old-elthamians) | 12.2 | 2 | 46 | 4 |
 |  | [Ockley](../1989/ockley) | 9 | 4 | 14 | 3 |
 |  | [Putney](../1989/putney) | 4 | 0 | 12 | 1 |
@@ -870,11 +881,13 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Harrow 3rd XI](../1986/harrow-3rd-xi) | 4 | 2 | 8 | 1 |
 |  | [Newdigate](../1986/newdigate) | 8 | 4 | 4 | 4 |
 |  | [Valley End](../1986/valley-end) | 11 | 0 | 48 | 2 |
+|  | [Godstone](../1986/godstone) | 5 | 0 | 17 | 0 |
 |  | [Horningsham](../1986/horningsham) | 4 | 1 | 6 | 0 |
 |  | [White City All Stars](../1986/white-city-all-stars) | 5 | 1 | 21 | 1 |
 |  | [Old Elthamians](../1986/old-elthamians) | 2 | 0 | 13 | 0 |
 |  | [Petts Wood](../1986/petts-wood) | 4 | 1 | 24 | 0 |
-| **1985** | [Hendon-Edgware](../1985/hendon-edgware) | 6 | 1 | 11 | 0 |
+| **1985** | [Lobsters](../1985/lobsters) | 5 | 0 | 37 | 1 |
+|  | [Hendon-Edgware](../1985/hendon-edgware) | 6 | 1 | 11 | 0 |
 |  | [Alex Beard's XI](../1985/alex-beards-xi) | 4 | 2 | 2 | 2 |
 |  | [Ealonian](../1985/ealonian) | 15 | 0 | 49 | 0 |
 |  | [Old Wilsonians](../1985/old-wilsonians) | 1 | 0 | 2 | 0 |
@@ -890,8 +903,10 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Old Elthamians](../1984/old-elthamians) | 1.1 | 1 | 0 | 2 |
 |  | [British Legion Rickmansworth](../1984/british-legion-rickmansworth) | 4 | 0 | 18 | 0 |
 |  | [Chiswick Flyovers](../1984/chiswick-flyovers) | 8 | 2 | 20 | 0 |
+|  | [Ealonian](../1984/ealonian) | 7.2 | 0 | 39 | 1 |
 |  | [Logica](../1984/logica) | 4.3 | 0 | 16 | 2 |
 |  | [Hendon-Edgware](../1984/hendon-edgware) | 3 | 1 | 10 | 2 |
+|  | [Sudbury Court](../1984/sudbury-court) | 2 | 0 | 2 | 0 |
 |  | [Standard Bridge](../1984/standard-bridge) | 7 | 3 | 5 | 2 |
 |  | [Harrowdene](../1984/harrowdene) | 5 | 2 | 7 | 1 |
 |  | [Lobsters](../1984/lobsters) | 4 | 2 | 11 | 2 |

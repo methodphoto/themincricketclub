@@ -19,7 +19,7 @@ R Earney and R Beswick partnership of 131
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Cook** | c J Stimfig | R Beswick | 7 |
+| **Cook** | c J Stimpfig | R Beswick | 7 |
 | **D Hodge** | c I Marshall | J Wright | 20 |
 | **Kemp** | b | I Marshall | 0 |
 | **Snodgrass** | c Ainger | A Gordon | 41 |
@@ -55,7 +55,7 @@ R Earney and R Beswick partnership of 131
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **J Stimfig &#8224;** | b | 2 | 11 |
+| **J Stimpfig &#8224;** | b | 2 | 11 |
 | **A Stitt** | c | 2 | 1 |
 | **R Earney** | c | 4 | 82 |
 | **R Beswick &#42;** | not out |  | 54 |

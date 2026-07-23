@@ -20,7 +20,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 94 | 94 | 9 | 2565 | 30.18 |
+| 102 | 96 | 10 | 2652 | 30.84 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -29,7 +29,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 |  | [Blagdon Hill](../2026/blagdon-hill) | **112** |
 |  | [Middleton Stoney](../2026/middleton-stoney) | **33** |
 |  | [Dead Bats](../2026/dead-bats) | **85** |
-|  | [The Mighty Wanderers](../2026/the-mighty-wanderers) | **54** |
+|  | [The Mighty Wandererss](../2026/the-mighty-wanderers) | **54** |
 | **2025** | [Reigate Pilgrims](../2025/reigate-pilgrims) | **52**&#42; |
 |  | [Railway Taverners](../2025/railway-taverners) | **36** |
 |  | [Broadway and Horton](../2025/broadway-and-horton) | **66** |
@@ -71,7 +71,8 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 |  | [Middleton Stoney](../2021/middleton-stoney) | **19** |
 | **2020** | [Banstead](../2020/banstead) | **47** |
 |  | [Railway Taverners](../2020/railway-taverners) | **29** |
-| **2019** | [Reigate Pilgrims](../2019/reigate-pilgrims) | **24** |
+| **2019** | [Kingstonian](../2019/kingstonian) | **86**&#42; |
+|  | [Reigate Pilgrims](../2019/reigate-pilgrims) | **24** |
 |  | [Railway Taverners](../2019/railway-taverners) | **50** |
 |  | [Broadway and Horton](../2019/broadway-and-horton) | **1** |
 |  | [Blagdon Hill](../2019/blagdon-hill) | **7** |
@@ -87,9 +88,10 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 | **2015** | [Brasted Invicta](../2015/brasted-invicta) | **12** |
 |  | [Stowting](../2015/stowting) | **3** |
 |  | [BGS Bedouins](../2015/bgs-bedouins) | **10** |
-|  | [Broadway and Horton](../2015/broadway-and-horton) | **41** |
 |  | [Blagdon Hill](../2015/blagdon-hill) | **8** |
+|  | [Broadway and Horton](../2015/broadway-and-horton) | **41** |
 |  | [Watton-at-Stone](../2015/watton-at-stone) | **43** |
+|  | [Newdigate](../2015/newdigate) | **1** |
 |  | [Frensham](../2015/frensham) | **9** |
 | **2014** | [Newdigate](../2014/newdigate) | **49** |
 | **2013** | [Selling](../2013/selling) | **17** |
@@ -121,7 +123,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 
 **Highest Score**: 112 v [Blagdon Hill](../2026/blagdon-hill)<br />
-**Fifties:** 22<br />
+**Fifties:** 20<br />
 **Hundreds:** 2
 
 
@@ -129,7 +131,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 27 | 56.4 | 6 | 293 | 13 | 22.54 | 26.15 |
+| 28 | 58.4 | 6 | 307 | 13 | 23.62 | 27.08 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -142,11 +144,12 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 |  | [Broadway and Horton](../2021/broadway-and-horton) | 2 | 0 | 6 | 0 |
 |  | [Bricklayer's Arms](../2021/bricklayers-arms) | 2 | 0 | 15 | 0 |
 |  | [Middleton Stoney](../2021/middleton-stoney) | 5 | 0 | 34 | 0 |
+| **2019** | [Kingstonian](../2019/kingstonian) | 2 | 0 | 14 | 0 |
 | **2016** | [Bristol 4th XI](../2016/bristol) | 1 | 0 | 2 | 1 |
 |  | [Broadway and Horton](../2016/broadway-and-horton) | 2 | 0 | 7 | 0 |
 | **2015** | [Brasted Invicta](../2015/brasted-invicta) | 2 | 0 | 7 | 0 |
-|  | [Broadway and Horton](../2015/broadway-and-horton) | 1 | 0 | 9 | 0 |
 |  | [Blagdon Hill](../2015/blagdon-hill) | 1 | 0 | 7 | 0 |
+|  | [Broadway and Horton](../2015/broadway-and-horton) | 1 | 0 | 9 | 0 |
 |  | [Watton-at-Stone](../2015/watton-at-stone) | 4 | 1 | 25 | 2 |
 |  | [Newdigate](../2015/newdigate) | 2 | 0 | 14 | 1 |
 | **2013** | [The Herd](../2013/the-herd) | 1 | 0 | 19 | 0 |

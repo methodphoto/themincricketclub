@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,11 +20,10 @@ Debut: [British Legion Rickmansworth 1984](../1984/british-legion-rickmansworth)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 43 | 43 | 9 | 235 | 6.91 |
+| 47 | 43 | 9 | 235 | 6.91 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
-| **1986** | [Godstone](../1986/godstone) | **5** |
 | **2004** | [Tappers](../2004/tappers) | **0** |
 | **2002** | [Selling](../2002/selling) | **2** |
 |  | [Watton-at-Stone](../2002/watton-at-stone) | **4**&#42; |
@@ -62,6 +61,7 @@ Debut: [British Legion Rickmansworth 1984](../1984/british-legion-rickmansworth)
 | **1987** | [Bose Wanderers](../1987/bose-wanderers) | **5** |
 |  | [Friar's Oak](../1987/friars-oak) | **5** |
 | **1986** | [Strenue](../1986/strenue) | **1** |
+|  | [Godstone](../1986/godstone) | **5** |
 | **1985** | [Ealonian](../1985/ealonian) | **5** |
 |  | [Petts Wood](../1985/petts-wood) | **7**&#42; |
 |  | [Red Bat](../1985/red-bat) | **0** |
@@ -78,7 +78,7 @@ Debut: [British Legion Rickmansworth 1984](../1984/british-legion-rickmansworth)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 3 | 2.1 | 0 | 15 | 0 | - | - |
+| 3 | 2.1 | 0 | 15 | 0 | 0 | 0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -87,7 +87,7 @@ Debut: [British Legion Rickmansworth 1984](../1984/british-legion-rickmansworth)
 | **1984** | [British Legion Rickmansworth](../1984/british-legion-rickmansworth) | 1 | 0 | 8 | 0 |
 
 
-**Best Bowling:**  v <br />
+**Best Bowling:** 1-0-3-0 v [Deando](../1992/deando)<br />
 **Athletics:** 0<br />
 **Michelles:** 0
 

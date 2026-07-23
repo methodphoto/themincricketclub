@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [South Nutfield 1988](../1988/south-nutfield)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 29 | 29 | 0 | 526 | 18.14 |
+| 34 | 30 | 0 | 530 | 17.67 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -31,7 +31,8 @@ Debut: [South Nutfield 1988](../1988/south-nutfield)
 | **1992** | [Shepton Beauchamp](../1992/shepton-beauchamp) | **4** |
 |  | [Antilles](../1992/antilles) | **32** |
 |  | [Old Elthamians](../1992/old-elthamians) | **2** |
-| **1991** | [Watton-at-Stone](../1991/watton-at-stone) | **0** |
+| **1991** | [Valley End](../1991/valley-end) | **4** |
+|  | [Watton-at-Stone](../1991/watton-at-stone) | **0** |
 |  | [Hamsey Green](../1991/hamsey-green) | **26** |
 |  | [The Crocodiles](../1991/the-crocodiles) | **42** |
 |  | [Antilles](../1991/antilles) | **53** |
@@ -64,7 +65,7 @@ Debut: [South Nutfield 1988](../1988/south-nutfield)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 33 | 347 | 66 | 1023 | 66 | 15.50 | 31.55 |
+| 34 | 358 | 70 | 1039 | 68 | 15.28 | 31.59 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -76,7 +77,8 @@ Debut: [South Nutfield 1988](../1988/south-nutfield)
 |  | [Shepton Beauchamp](../1992/shepton-beauchamp) | 8 | 0 | 18 | 1 |
 |  | [Antilles](../1992/antilles) | 4 | 0 | 26 | 0 |
 |  | [Old Elthamians](../1992/old-elthamians) | 14 | 1 | 54 | 0 |
-| **1991** | [Watton-at-Stone](../1991/watton-at-stone) | 13 | 0 | 34 | 4 |
+| **1991** | [Valley End](../1991/valley-end) | 11 | 4 | 16 | 2 |
+|  | [Watton-at-Stone](../1991/watton-at-stone) | 13 | 0 | 34 | 4 |
 |  | [Hamsey Green](../1991/hamsey-green) | 13 | 2 | 36 | 4 |
 |  | [The Crocodiles](../1991/the-crocodiles) | 7 | 5 | 6 | 3 |
 |  | [Antilles](../1991/antilles) | 7 | 1 | 16 | 1 |

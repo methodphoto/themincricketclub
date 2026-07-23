@@ -21,7 +21,7 @@ Debut: [Valley End 1986](../1986/valley-end)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 19 | 19 | 3 | 574 | 35.88 |
+| 20 | 20 | 3 | 578 | 34.0 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -35,6 +35,7 @@ Debut: [Valley End 1986](../1986/valley-end)
 |  | [Little Kingshill](../1990/little-kingshill) | **22** |
 | **1989** | [Eggington](../1989/eggington) | **16** |
 |  | [Stowting](../1989/stowting) | **48** |
+|  | [Little Kingshill](../1989/little-kingshill) | **4** |
 |  | [Wendover](../1989/wendover) | **48**&#42; |
 | **1988** | [Harpenden](../1988/harpenden) | **15** |
 |  | [Antillies](../1988/antilles) | **31** |
@@ -55,7 +56,7 @@ Debut: [Valley End 1986](../1986/valley-end)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 15 | 111.5 | 24 | 342 | 23 | 14.87 | 29.17 |
+| 16 | 120.5 | 26 | 373 | 23 | 16.22 | 31.52 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -66,6 +67,7 @@ Debut: [Valley End 1986](../1986/valley-end)
 |  | [Little Kingshill](../1990/little-kingshill) | 8 | 2 | 15 | 1 |
 | **1989** | [Eggington](../1989/eggington) | 3 | 2 | 5 | 1 |
 |  | [Stowting](../1989/stowting) | 5 | 4 | 4 | 0 |
+|  | [Little Kingshill](../1989/little-kingshill) | 9 | 2 | 31 | 0 |
 |  | [Wendover](../1989/wendover) | 11 | 3 | 37 | 2 |
 | **1988** | [Harpenden](../1988/harpenden) | 8 | 2 | 29 | 0 |
 |  | [Antillies](../1988/antilles) | 7 | 0 | 33 | 2 |

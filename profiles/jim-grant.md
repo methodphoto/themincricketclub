@@ -21,7 +21,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 338 | 338 | 55 | 4523 | 15.98 |
+| 431 | 346 | 56 | 4628 | 15.96 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -41,25 +41,25 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Stowting](../2023/stowting) | **0**&#42; |
 |  | [St Anne's Allstars](../2023/st-annes-allstars) | **4** |
 | **2022** | [Hornchurch Athletic](../2022/hornchurch-athletic) | **0**&#42; |
+|  | [Broadway and Horton](../2022/broadway-and-horton) | **0** |
 |  | [Frensham](../2022/frensham) | **8** |
 | **2021** | [Broadway and Horton](../2021/broadway-and-horton) | **9**&#42; |
-| **2022** | [Broadway and Horton](../2022/broadway-and-horton) | **0** |
-| **2021** | [Bricklayer's Arms](../2021/bricklayers-arms) | **0**&#42; |
+|  | [Bricklayer's Arms](../2021/bricklayers-arms) | **0**&#42; |
 |  | [Middleton Stoney](../2021/middleton-stoney) | **0**&#42; |
 | **2020** | [Reigate Pilgrims](../2020/reigate-pilgrims) | **20** |
 |  | [Railway Taverners](../2020/railway-taverners) | **24** |
-| **2019** | [Reigate Pilgrims](../2019/reigate-pilgrims) | **0** |
+| **2019** | [Kingstonian](../2019/kingstonian) | **7** |
+|  | [Reigate Pilgrims](../2019/reigate-pilgrims) | **0** |
 |  | [Newdigate](../2019/newdigate) | **2** |
 |  | [Newington](../2019/newington) | **0** |
 |  | [Watton-at-Stone](../2019/watton-at-stone) | **3** |
 |  | [Middleton Stoney](../2019/middleton-stoney) | **0**&#42; |
 | **2018** | [Stoke Dabernon](../2018/stoke-dabernon) | **0**&#42; |
 |  | [Selling](../2018/selling) | **4** |
+|  | [Broadway and Horton](../2018/broadway-and-horton) | **0**&#42; |
 |  | [Blagdon Hill](../2018/blagdon-hill) | **7** |
-| **1986** | [Godstone](../1986/godstone) | **4** |
-| **2018** | [Middleton Stoney](../2018/middleton-stoney) | **4**&#42; |
+|  | [Middleton Stoney](../2018/middleton-stoney) | **4**&#42; |
 | **2017** | [Reigate Pilgrims](../2017/reigate-pilgrims) | **0** |
-|  | [Broadway and Horton v The Min](../2017/broadway-and-horton) | **3** |
 |  | [Watton-at-Stone](../2017/watton-at-stone) | **20** |
 |  | [Newdigate](../2017/newdigate) | **5** |
 |  | [Kingstonian](../2017/kingstonian) | **8** |
@@ -121,6 +121,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Stowting](../2009/stowting) | **11** |
 |  | [Watton-at-Stone](../2009/watton-at-stone) | **43** |
 |  | [Newdigate](../2009/newdigate) | **2** |
+|  | [Ockley](../2009/ockley) | **0** |
 | **2008** | [Selling](../2008/selling) | **8** |
 |  | [Reigate Pilgrims](../2008/reigate-pilgrims) | **1** |
 |  | [Putney](../2008/putney) | **27** |
@@ -144,6 +145,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Old Mid-Whitgiftians](../2006/old-mid-whitgiftians) | **52** |
 |  | [Horningsham](../2006/horningsham) | **0** |
 |  | [Kilmington and Stourton](../2006/kilmington-and-stourton) | **21** |
+|  | [Broadway and Horton](../2006/broadway-and-horton) | **2** |
 |  | [Stowting](../2006/stowting) | **4** |
 |  | [HSBC](../2006/hsbc) | **17** |
 |  | [Newdigate](../2006/newdigate) | **5** |
@@ -169,6 +171,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Selling](../2003/selling) | **30** |
 |  | [Honor Oak](../2003/honor-oak) | **0** |
 |  | [Land Warfare XI](../2003/land-warfare-xi) | **19** |
+|  | [Broadway and Horton](../2003/broadway-and-horton) | **25** |
 |  | [Stowting](../2003/stowting) | **17** |
 |  | [Watton-at-Stone](../2003/watton-at-stone) | **27** |
 |  | [Newdigate](../2003/newdigate) | **82** |
@@ -177,6 +180,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Reigate Pilgrims](../2002/reigate-pilgrims) | **25**&#42; |
 |  | [North Holmwood](../2002/north-holmwood) | **54** |
 |  | [Selling](../2002/selling) | **26**&#42; |
+|  | [Hetairoi](../2002/hetairoi) | **13** |
 |  | [ACME](../2002/acme) | **0** |
 |  | [Wareham](../2002/wareham) | **0** |
 |  | [Streatham](../2002/streatham) | **4**&#42; |
@@ -215,13 +219,13 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Reigate Pilgrims](../1997/reigate-pilgrims) | **8** |
 |  | [Slip End](../1997/slip-end) | **26** |
 |  | [Hetairoi](../1997/hetairoi) | **87** |
+|  | [Captain Scott XI](../1997/captain-scott-xi) | **33** |
 |  | [Farnborough](../1997/farnborough) | **20** |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | **0** |
 |  | [Great Braxted](../1997/great-braxted) | **25**&#42; |
 |  | [Stowting](../1997/stowting) | **27** |
 |  | [Ockley](../1997/ockley) | **10** |
 |  | [Valley End](../1997/valley-end) | **20** |
-|  | [Captain Scott XI](../1997/captain-scott) | **33** |
 | **1996** | [Watton-at-Stone](../1996/watton-at-stone) | **3**&#42; |
 |  | [Great Braxted](../1996/great-braxted) | **13** |
 |  | [Stonor](../1996/stonor) | **38** |
@@ -245,12 +249,10 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Valley End](../1995/valley-end) | **9** |
 | **1994** | [Reigate Pilgrims](../1994/reigate-pilgrims) | **4** |
 |  | [Valley End](../1994/valley-end) | **46** |
-| **1984** | [Ealonian](../1984/ealonian) | **0** |
-| **1994** | [Farnborough](../1994/farnborough) | **24** |
+|  | [Farnborough](../1994/farnborough) | **24** |
 |  | [Horningsham](../1994/horningsham) | **27** |
 |  | [Broadway and Horton](../1994/broadway-and-horton) | **37** |
-| **1984** | [Sudbury Court](../1984/sudbury-court) | **5** |
-| **1994** | [Old Elthamians](../1994/old-elthamians) | **14** |
+|  | [Old Elthamians](../1994/old-elthamians) | **14** |
 |  | [Antilles](../1994/antilles) | **26**&#42; |
 | **1993** | [Watton-at-Stone](../1993/watton-at-stone) | **8** |
 |  | [Queen Camel](../1993/queen-camel) | **5** |
@@ -261,7 +263,8 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Broadway and Horton](../1992/broadway-and-horton) | **28** |
 |  | [Ockley Road, Bromley v The Min](../1992/ockley-road-bromley) | **0** |
 |  | [Old Elthamians](../1992/old-elthamians) | **25** |
-| **1991** | [Reigate Pilgrims](../1991/reigate-pilgrims) | **0** |
+| **1991** | [Valley End](../1991/valley-end) | **8** |
+|  | [Reigate Pilgrims](../1991/reigate-pilgrims) | **0** |
 |  | [Stowting](../1991/stowting) | **2** |
 |  | [Hetairoi](../1991/hetairoi) | **8** |
 |  | [Broadway and Horton](../1991/broadway-and-horton) | **26** |
@@ -269,8 +272,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Old Texaconians](../1991/old-texaconians) | **9** |
 |  | [Hamsey Green](../1991/hamsey-green) | **5** |
 |  | [Old Elthamians](../1991/old-elthamians) | **0** |
-| **2009** | [Ockley](../2009/ockley) | **0** |
-| **1991** | [Ockley](../1991/ockley) | **2** |
+|  | [Ockley](../1991/ockley) | **2** |
 |  | [Hersham](../1991/hersham) | **29** |
 | **1990** | [Watton-at-Stone](../1990/watton-at-stone) | **5** |
 |  | [Reigate Pilgrims](../1990/reigate-pilgrims) | **11** |
@@ -289,6 +291,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Barrow-boys](../1989/barrow-boys) | **5** |
 |  | [Blindley Heath](../1989/blindley-heath) | **0** |
 |  | [Limpsfield](../1989/limpsfield) | **2** |
+|  | [Little Kingshill](../1989/little-kingshill) | **43** |
 |  | [Old Elthamians](../1989/old-elthamians) | **13** |
 |  | [Ockley](../1989/ockley) | **20** |
 |  | [Wendover](../1989/wendover) | **60** |
@@ -323,13 +326,15 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Newdigate](../1986/newdigate) | **0** |
 |  | [Watton-at-Stone](../1986/watton-at-stone) | **1** |
 |  | [Valley End](../1986/valley-end) | **28** |
+|  | [Godstone](../1986/godstone) | **4** |
 |  | [Brook](../1986/brook) | **5** |
 |  | [White City All Stars](../1986/white-city-all-stars) | **1** |
 |  | [Little Kingshill](../1986/little-kingshill) | **16** |
 |  | [Old Elthamians](../1986/old-elthamians) | **63** |
 |  | [West Wickham](../1986/west-wickham) | **6** |
 |  | [Petts Wood](../1986/petts-wood) | **3** |
-| **1985** | [Hendon-Edgware](../1985/hendon-edgware) | **22** |
+| **1985** | [Lobsters](../1985/lobsters) | **3** |
+|  | [Hendon-Edgware](../1985/hendon-edgware) | **22** |
 |  | [Alex Beard's XI](../1985/alex-beards-xi) | **18** |
 |  | [Old Elthamians](../1985/old-elthamians) | **1** |
 |  | [Ealonian](../1985/ealonian) | **13** |
@@ -348,7 +353,9 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Old Elthamians](../1984/old-elthamians) | **2** |
 |  | [British Legion Rickmansworth](../1984/british-legion-rickmansworth) | **37** |
 |  | [Chiswick Flyovers](../1984/chiswick-flyovers) | **8** |
+|  | [Ealonian](../1984/ealonian) | **0** |
 |  | [Logica](../1984/logica) | **65**&#42; |
+|  | [Sudbury Court](../1984/sudbury-court) | **5** |
 |  | [Standard Bridge](../1984/standard-bridge) | **10** |
 |  | [Harrowdene](../1984/harrowdene) | **13**&#42; |
 |  | [Lobsters](../1984/lobsters) | **14** |
@@ -361,12 +368,13 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Lobsters](../1982/lobsters) | **0** |
 |  | [Bristol Young Solicitors](../1982/bristol-young-solicitors) | **3**&#42; |
 |  | [Leyhill](../1982/leyhill) | **0** |
+|  | [J Stimpfigs XI](../1982/j-stimfigs-xi) | **7** |
 |  | [Bristol Grammar School](../1982/bristol-grammar-school) | **0** |
 |  | [Another Man's Meat](../1982/another-mans-meat) | **19** |
 
 
-**Highest Score**: 63 v [Old Elthamians](../1986/old-elthamians)<br />
-**Fifties:** 1<br />
+**Highest Score**: 87 v [Hetairoi](../1997/hetairoi)<br />
+**Fifties:** 16<br />
 **Hundreds:** 0
 
 
@@ -374,7 +382,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 13 | 33.3 | 7 | 181 | 5 | 36.20 | 40.20 |
+| 13 | 33.3 | 7 | 181 | 5 | 36.2 | 40.2 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

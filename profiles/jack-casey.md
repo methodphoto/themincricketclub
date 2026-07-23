@@ -21,7 +21,7 @@ Debut: [Railway Taverners 2020](../2020/railway-taverners)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 16 | 16 | 2 | 137 | 9.79 |
+| 24 | 16 | 2 | 137 | 9.79 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|

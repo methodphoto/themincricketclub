@@ -21,7 +21,7 @@ Debut: [Ockley 1991](../1991/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 83 | 83 | 15 | 2057 | 30.25 |
+| 93 | 84 | 15 | 2075 | 30.07 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -49,6 +49,7 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Stowting](../2015/stowting) | **23** |
 |  | [Reigate Pilgrims](../2015/reigate-pilgrims) | **13** |
 |  | [Watton-at-Stone](../2015/watton-at-stone) | **0**&#42; |
+|  | [Newdigate](../2015/newdigate) | **18** |
 |  | [Nightwatchman](../2015/nightwatchman) | **8** |
 | **2014** | [Headley](../2014/headley) | **0** |
 |  | [Reigate Pilgrims](../2014/reigate-pilgrims) | **32** |
@@ -84,6 +85,7 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Reigate Pilgrims](../2010/reigate-pilgrims) | **43** |
 |  | [SB Exiles](../2010/sb-exiles) | **20** |
 |  | [Hampton Wick Royal](../2010/hampton-wick-royal) | **64** |
+|  | [Watton-at-Stone](../2010/watton-at-stone) | **24** |
 |  | [Middleton Stoney](../2010/middleton-stoney) | **19** |
 |  | [ELCCC](../2010/elccc) | **10**&#42; |
 |  | [Trafford Croydon](../2010/trafford-croydon) | **31** |
@@ -96,8 +98,9 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Islip](../2009/islip) | **0** |
 |  | [Stowting](../2009/stowting) | **4** |
 |  | [Watton-at-Stone](../2009/watton-at-stone) | **2** |
-| **2010** | [Watton-at-Stone](../2010/watton-at-stone) | **24** |
-| **2009** | [Newdigate](../2009/newdigate) | **73** |
+|  | [Newdigate](../2009/newdigate) | **73** |
+|  | [Ockley](../2009/ockley) | **79**&#42; |
+|  | [Britwell Salome](../2009/britwell-salome) | **40** |
 | **2008** | [Putney](../2008/putney) | **29** |
 |  | [Harrow St Mary's](../2008/harrow-st-marys) | **6**&#42; |
 |  | [Old Min Young Min](../2008/old-min-young-min) | **23** |
@@ -106,8 +109,6 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Britwell Salome](../2008/britwell-salome) | **15** |
 | **2007** | [Watton-at-Stone](../2007/watton-at-stone) | **18** |
 |  | [Grimsdyke CC](../2007/grimsdyke-cc) | **9** |
-| **2009** | [Ockley](../2009/ockley) | **79**&#42; |
-|  | [Britwell Salome](../2009/britwell-salome) | **40** |
 
 
 **Highest Score**: 100 v [Frensham](../2017/frensham)<br />
@@ -179,6 +180,7 @@ Debut: [Ockley 1991](../1991/ockley)
 | **2010** | [Spencer](../2010/spencer) | 7 | 1 | 36 | 1 |
 |  | [SB Exiles](../2010/sb-exiles) | 8 | 1 | 28 | 0 |
 |  | [Hampton Wick Royal](../2010/hampton-wick-royal) | 3 | 0 | 13 | 1 |
+|  | [Watton-at-Stone](../2010/watton-at-stone) | 8 | 1 | 25 | 1 |
 |  | [Middleton Stoney](../2010/middleton-stoney) | 3 | 0 | 11 | 0 |
 |  | [ELCCC](../2010/elccc) | 3 | 0 | 14 | 0 |
 |  | [Trafford Croydon](../2010/trafford-croydon) | 5 | 3 | 2 | 1 |
@@ -191,8 +193,9 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Islip](../2009/islip) | 4 | 2 | 2 | 1 |
 |  | [Stowting](../2009/stowting) | 11 | 1 | 41 | 5 |
 |  | [Watton-at-Stone](../2009/watton-at-stone) | 7 | 1 | 34 | 2 |
-| **2010** | [Watton-at-Stone](../2010/watton-at-stone) | 8 | 1 | 25 | 1 |
-| **2009** | [Newdigate](../2009/newdigate) | 6 | 1 | 17 | 2 |
+|  | [Newdigate](../2009/newdigate) | 6 | 1 | 17 | 2 |
+|  | [Ockley](../2009/ockley) | 6 | 1 | 9 | 1 |
+|  | [Britwell Salome](../2009/britwell-salome) | 10 | 1 | 21 | 2 |
 | **2008** | [Putney](../2008/putney) | 2 | 0 | 11 | 2 |
 |  | [Harrow St Mary's](../2008/harrow-st-marys) | 8 | 1 | 31 | 1 |
 |  | [Old Min Young Min](../2008/old-min-young-min) | 7 | 3 | 9 | 1 |
@@ -200,8 +203,6 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Britwell Salome](../2008/britwell-salome) | 8 | 3 | 15 | 2 |
 | **2007** | [Watton-at-Stone](../2007/watton-at-stone) | 8 | 1 | 33 | 0 |
 |  | [Grimsdyke CC](../2007/grimsdyke-cc) | 4 | 0 | 29 | 1 |
-| **2009** | [Ockley](../2009/ockley) | 6 | 1 | 9 | 1 |
-|  | [Britwell Salome](../2009/britwell-salome) | 10 | 1 | 21 | 2 |
 
 
 **Best Bowling:** 11-1-41-5 v [Stowting](../2009/stowting)<br />

@@ -21,7 +21,7 @@ parent: 2019 Fixtures
 | **S Hornsby** | retired out |  | 19 |
 | **A Munim** | c Chubb | M Penny | 19 |
 | **S Mohammed** | b | M Penny | 2 |
-| **J Stimfig** | b | C Daley | 6 |
+| **J Stimpfig** | b | C Daley | 6 |
 | **J Grant &#8224;** | not out | 13 |
 | **E Garland** | not out | | 3 |
 | **I Miah** | dnb | | |

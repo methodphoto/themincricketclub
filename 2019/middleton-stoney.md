@@ -62,7 +62,7 @@ parent: 2019 Fixtures
 | **A Gallagher** | b | J Moorman | 49 |
 | **W Calvert** | b | J Morris | 3 |
 | **R Beswick &#42;** | lbw b | J Williams | 5 |
-| **J Stimfig  &#8224;** | not out | | 12 |
+| **J Stimpfig  &#8224;** | not out | | 12 |
 | **J Grant &#8224;** | not out | | 0 |
 | **J Wright** | dnb | | |
 | **Extras** | | (4b 2lb 7w 2nb 0p) | **15** |

@@ -21,7 +21,7 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 37 | 37 | 16 | 177 | 8.43 |
+| 60 | 38 | 16 | 191 | 8.68 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -62,6 +62,7 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 |  | [Wendover](../1989/wendover) | **9** |
 | **1987** | [Little Kingshill](../1987/little-kingshill) | **0**&#42; |
 | **1986** | [Strenue](../1986/strenue) | **0** |
+| **1984** | [Old Elthamians](../1984/old-elthamians) | **14** |
 
 
 **Highest Score**: 31* v [Little Kingshill](../1990/little-kingshill)<br />
@@ -73,7 +74,7 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 48 | 334.4 | 56 | 1132 | 46 | 24.61 | 43.65 |
+| 47 | 334.4 | 56 | 1132 | 46 | 24.61 | 43.65 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -88,7 +89,6 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 |  | [Great Tew](../1993/great-tew) | 6 | 1 | 24 | 1 |
 |  | [Ockley](../1993/ockley) | 8 | 0 | 34 | 0 |
 | **1992** | [Watton-at-Stone](../1992/watton-at-stone) | 12 | 1 | 29 | 1 |
-|  | [Reigate Pilgrims](../1992/reigate-pilgrims) | 0 | 0 | 0 | 0 |
 |  | [Long Hanborough](../1992/long-hanborough) | 7 | 0 | 36 | 1 |
 |  | [Dowlish Wake](../1992/dowlish-wake) | 5 | 0 | 16 | 2 |
 |  | [Shepton Beauchamp](../1992/shepton-beauchamp) | 8 | 2 | 30 | 0 |

@@ -18,7 +18,7 @@ parent: 1996 Fixtures
 |:---|:---|---|---:|
 | **R Earney** | c D Young | T Snook | 32 |
 | **S Barrowcliff** | b | T Snook | 32 |
-| **J Stimfig** | b | S Snook | 46 |
+| **J Stimpfig** | b | S Snook | 46 |
 | **E Garland** | b | S Snook | 6 |
 | **R Beswick** | run out |  | 18 |
 | **P Grant** | run out |  | 2 |

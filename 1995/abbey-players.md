@@ -22,7 +22,7 @@ D Powell 106. Partnership of 106 between D Powell and S Wombwell<br />
 | **D Powell** | not out |  | 106 |
 | **J Mason** | lbw | J Wright | 18 |
 | **S Wombwell** | c T Horsey | S Speight | 44 |
-| **P Simpson** | c J Stimfig | S Speight | 8 |
+| **P Simpson** | c J Stimpfig | S Speight | 8 |
 | **G Lennox** | b | S Speight | 0 |
 | **B Roskrow** | not out |  | 20 |
 | **D Lennox** | dnb |  |  |
@@ -58,7 +58,7 @@ D Powell 106. Partnership of 106 between D Powell and S Wombwell<br />
 | **R Earney** | c Broad | Lennox | 7 |
 | **S Barrowcliff** | b | G Lennox | 74 |
 | **R Beswick** | run out |  | 68 |
-| **J Stimfig** | run out |  | 2 |
+| **J Stimpfig** | run out |  | 2 |
 | **P Grant** | lbw | G Lennox | 0 |
 | **T Horsey** | c D Lennox | G Lennox | 4 |
 | **S Speight** | b | G Lennox | 2 |

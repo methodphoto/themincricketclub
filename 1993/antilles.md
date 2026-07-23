@@ -26,7 +26,7 @@ parent: 1993 Fixtures
 | **R Colethorpe** | b | S Collins | 9 |
 | **D Young** | not out |  | 3 |
 | **D Ferguson** | not out |  | 1 |
-| **J Stimfig &#8224;** | dnb |  |  |
+| **J Stimpfig &#8224;** | dnb |  |  |
 | **Extras** | | (9b 6lb 2w 2nb) | **19** |
 | **Total** | | (33.5 overs) | **192 for 8 wkts** |
 

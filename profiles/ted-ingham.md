@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -35,14 +35,14 @@ Debut: [SAC XI 2011](../2011/sac-xi)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 1 | 3 | 0 | 22 | 0 | - | - |
+| 1 | 3 | 0 | 22 | 0 | 0 | 0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
 | **2011** | [SAC XI](../2011/sac-xi) | 3 | 0 | 22 | 0 |
 
 
-**Best Bowling:**  v <br />
+**Best Bowling:** 3-0-22-0 v [SAC XI](../2011/sac-xi)<br />
 **Athletics:** 0<br />
 **Michelles:** 0
 

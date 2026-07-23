@@ -24,7 +24,7 @@ parent: 1995 Fixtures
 | **R Beswick** | not out |  | 39 |
 | **M Gardiner** | c | C Lees | 3 |
 | **I Marshall** | c | P Paton | 0 |
-| **J Stimfig** | b | B Toleman | 12 |
+| **J Stimpfig** | b | B Toleman | 12 |
 | **N Beswick** | run out |  | 0 |
 | **P Beswick** | run out |  | 0 |
 | **Extras** | | (4b 4lb 2w 0nb) | **10** |

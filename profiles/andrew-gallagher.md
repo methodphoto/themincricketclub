@@ -21,7 +21,7 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 146 | 146 | 16 | 3017 | 23.21 |
+| 159 | 151 | 16 | 3122 | 23.13 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -48,12 +48,13 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 | **2020** | [Reigate Pilgrims](../2020/reigate-pilgrims) | **0** |
 |  | [Banstead](../2020/banstead) | **35** |
 |  | [Kingstonian](../2020/kingstonian) | **54**&#42; |
-| **2019** | [Railway Taverners](../2019/railway-taverners) | **35**&#42; |
+| **2019** | [Kingstonian](../2019/kingstonian) | **30** |
+|  | [Railway Taverners](../2019/railway-taverners) | **35**&#42; |
 |  | [Newington](../2019/newington) | **24** |
 |  | [Middleton Stoney](../2019/middleton-stoney) | **49** |
 | **2018** | [Selling](../2018/selling) | **25** |
-| **1986** | [Godstone](../1986/godstone) | **21** |
-| **2017** | [Reigate Pilgrims](../2017/reigate-pilgrims) | **21** |
+| **2017** | [Selling](../2017/selling) | **24** |
+|  | [Reigate Pilgrims](../2017/reigate-pilgrims) | **21** |
 |  | [Frensham](../2017/frensham) | **3**&#42; |
 |  | [Newington](../2017/newington) | **11** |
 |  | [Kingstonian](../2017/kingstonian) | **20** |
@@ -65,6 +66,7 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 |  | [Broadway and Horton](../2016/broadway-and-horton) | **27**&#42; |
 | **2015** | [Selling](../2015/selling) | **0** |
 |  | [Watton-at-Stone](../2015/watton-at-stone) | **5** |
+|  | [Newdigate](../2015/newdigate) | **26** |
 | **2014** | [Wimbledon United](../2014/wimbledon-united) | **0** |
 |  | [Newdigate](../2014/newdigate) | **45** |
 |  | [Horningsham](../2014/horningsham) | **13** |
@@ -96,8 +98,6 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 | **1996** | [Captain Scott](../1996/captain-scott) | **7** |
 |  | [Tappers](../1996/tappers) | **7** |
 | **1995** | [Watton-at-Stone](../1995/watton-at-stone) | **27** |
-| **1984** | [Ealonian](../1984/ealonian) | **17** |
-|  | [Sudbury Court](../1984/sudbury-court) | **84** |
 | **1992** | [Watton-at-Stone](../1992/watton-at-stone) | **0** |
 | **1990** | [Newdigate](../1990/newdigate) | **3** |
 |  | [The Crocodiles](../1990/the-crocodiles) | **19** |
@@ -140,11 +140,13 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 |  | [Watton-at-Stone](../1986/watton-at-stone) | **59** |
 |  | [Logica](../1986/logica) | **37**&#42; |
 |  | [Valley End](../1986/valley-end) | **10** |
+|  | [Godstone](../1986/godstone) | **21** |
 |  | [Horningsham](../1986/horningsham) | **13** |
 |  | [Old Elthamians](../1986/old-elthamians) | **1** |
 |  | [West Wickham](../1986/west-wickham) | **39** |
 |  | [Petts Wood](../1986/petts-wood) | **15** |
-| **1985** | [Hendon-Edgware](../1985/hendon-edgware) | **45** |
+| **1985** | [Lobsters](../1985/lobsters) | **1** |
+|  | [Hendon-Edgware](../1985/hendon-edgware) | **45** |
 |  | [Alex Beard's XI](../1985/alex-beards-xi) | **0** |
 |  | [Old Elthamians](../1985/old-elthamians) | **5** |
 |  | [Ealonian](../1985/ealonian) | **26** |
@@ -156,7 +158,9 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 |  | [West Green](../1985/west-green) | **8** |
 |  | [White City All Stars](../1985/white-city-all-stars) | **30** |
 | **1984** | [Chiswick Flyovers](../1984/chiswick-flyovers) | **6** |
+|  | [Ealonian](../1984/ealonian) | **17** |
 |  | [Logica](../1984/logica) | **0** |
+|  | [Sudbury Court](../1984/sudbury-court) | **84** |
 |  | [Standard Bridge](../1984/standard-bridge) | **0** |
 |  | [Harrowdene](../1984/harrowdene) | **17** |
 |  | [Lobsters](../1984/lobsters) | **34** |
@@ -170,6 +174,7 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 | **1982** | [A Good Length 2](../1982/a-good-length-2) | **20** |
 |  | [Bristol Young Solicitors](../1982/bristol-young-solicitors) | **0** |
 |  | [Leyhill](../1982/leyhill) | **1** |
+|  | [J Stimpfigs XI](../1982/j-stimfigs-xi) | **24** |
 |  | [Bristol Grammar School](../1982/bristol-grammar-school) | **7** |
 
 
@@ -183,7 +188,7 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 53 | 197 | 11 | 1032 | 38 | 27.16 | 31.11 |
+| 54 | 201 | 11 | 1066 | 39 | 27.33 | 30.92 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -230,7 +235,8 @@ Debut: [Bristol Grammar School 1982](../1982/bristol-grammar-school)
 |  | [Horningsham](../1986/horningsham) | 5 | 0 | 35 | 0 |
 |  | [Old Elthamians](../1986/old-elthamians) | 1 | 0 | 5 | 0 |
 |  | [West Wickham](../1986/west-wickham) | 2 | 0 | 10 | 0 |
-| **1985** | [Hendon-Edgware](../1985/hendon-edgware) | 2 | 0 | 16 | 1 |
+| **1985** | [Lobsters](../1985/lobsters) | 4 | 0 | 34 | 1 |
+|  | [Hendon-Edgware](../1985/hendon-edgware) | 2 | 0 | 16 | 1 |
 |  | [Old Elthamians](../1985/old-elthamians) | 2.2 | 1 | 9 | 1 |
 |  | [Ealonian](../1985/ealonian) | 3 | 0 | 9 | 0 |
 | **1984** | [Chiswick Flyovers](../1984/chiswick-flyovers) | 2.5 | 0 | 16 | 1 |

@@ -16,7 +16,7 @@ parent: 1995 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **D Allaway** | c J Stimfig | P Sayer | 5 |
+| **D Allaway** | c J Stimpfig | P Sayer | 5 |
 | **M Wickens** | b | P Bentley | 1 |
 | **L Powell** | c D Young | P Sayer | 0 |
 | **I Breakspear** | not out |  | 74 |
@@ -26,7 +26,7 @@ parent: 1995 Fixtures
 | **J Allaway** | c A Gordon | J Wright | 4 |
 | **P Holland** | b | J Wright | 7 |
 | **A Breakspear** | b | R Beswick | 0 |
-| **R Williams** | c J Stimfig | R Beswick | 4 |
+| **R Williams** | c J Stimpfig | R Beswick | 4 |
 | **Extras** | | (13b 0lb 4w 0nb) | **17** |
 | **Total** | | (35.4 overs) | **130 for 9 wkts** |
 
@@ -60,7 +60,7 @@ parent: 1995 Fixtures
 | **M Gardiner** | b | M Wickens | 1 |
 | **R Beswick &#42;** | lbw | R Williams | 2 |
 | **J Grant** | c D Allaway | R Williams | 11 |
-| **J Stimfig &#8224;** | b | M Wickens | 4 |
+| **J Stimpfig &#8224;** | b | M Wickens | 4 |
 | **J Wright** | not out |  | 0 |
 | **Extras** | | (6b 0lb 0w 0nb) | **6** |
 | **Total** | | (29.1 overs) | **54 all out** |

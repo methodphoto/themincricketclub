@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Ockley 1991](../1991/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 64 | 64 | 16 | 1012 | 21.08 |
+| 78 | 65 | 16 | 1012 | 20.65 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -30,8 +30,9 @@ Debut: [Ockley 1991](../1991/ockley)
 | **2016** | [Kilmington and Stourton](../2016/kilmington-and-stourton) | **12**&#42; |
 |  | [Bristol 4th XI](../2016/bristol) | **48** |
 | **2015** | [BGS Bedouins](../2015/bgs-bedouins) | **23**&#42; |
-|  | [Broadway and Horton](../2015/broadway-and-horton) | **5** |
 |  | [Blagdon Hill](../2015/blagdon-hill) | **11** |
+|  | [Broadway and Horton](../2015/broadway-and-horton) | **5** |
+|  | [Newdigate](../2015/newdigate) | **0** |
 |  | [Middleton Stoney](../2015/middleton-stoney) | **7** |
 | **2014** | [Reigate Pilgrims](../2014/reigate-pilgrims) | **9**&#42; |
 |  | [Newdigate](../2014/newdigate) | **0** |
@@ -56,6 +57,7 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Newdigate](../2010/newdigate) | **7** |
 | **2009** | [ELCCC](../2009/elccc) | **19** |
 |  | [Newdigate](../2009/newdigate) | **17** |
+|  | [Ockley](../2009/ockley) | **16**&#42; |
 | **2008** | [Reigate Pilgrims](../2008/reigate-pilgrims) | **4** |
 | **2007** | [Reigate Pilgrims](../2007/reigate-pilgrims) | **4** |
 |  | [Kilmington and Stourton](../2007/kilmington-and-stourton) | **27**&#42; |
@@ -87,7 +89,6 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Watton-at-Stone](../2003/watton-at-stone) | **12** |
 |  | [Newdigate](../2003/newdigate) | **5**&#42; |
 |  | [Old Colfeians](../2003/old-colfeians) | **1** |
-| **2009** | [Ockley](../2009/ockley) | **16**&#42; |
 
 
 **Highest Score**: 96* v [Watton-at-Stone](../2004/watton-at-stone)<br />
@@ -110,8 +111,8 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Bristol 4th XI](../2016/bristol) | 3 | 1 | 7 | 1 |
 | **2015** | [Reigate Pilgrims](../2015/reigate-pilgrims) | 6 | 1 | 18 | 2 |
 |  | [BGS Bedouins](../2015/bgs-bedouins) | 7 | 2 | 25 | 2 |
-|  | [Broadway and Horton](../2015/broadway-and-horton) | 6 | 0 | 24 | 1 |
 |  | [Blagdon Hill](../2015/blagdon-hill) | 5 | 1 | 11 | 2 |
+|  | [Broadway and Horton](../2015/broadway-and-horton) | 6 | 0 | 24 | 1 |
 |  | [Newdigate](../2015/newdigate) | 6 | 0 | 28 | 0 |
 |  | [Middleton Stoney](../2015/middleton-stoney) | 7 | 4 | 29 | 1 |
 | **2014** | [Reigate Pilgrims](../2014/reigate-pilgrims) | 6 | 3 | 10 | 1 |
@@ -145,6 +146,7 @@ Debut: [Ockley 1991](../1991/ockley)
 | **2009** | [Reigate Pilgrims](../2009/reigate-pilgrims) | 8 | 3 | 22 | 2 |
 |  | [ELCCC](../2009/elccc) | 7 | 0 | 37 | 3 |
 |  | [Newdigate](../2009/newdigate) | 5 | 0 | 29 | 2 |
+|  | [Ockley](../2009/ockley) | 7 | 2 | 12 | 1 |
 | **2008** | [Reigate Pilgrims](../2008/reigate-pilgrims) | 11 | 2 | 19 | 2 |
 | **2007** | [Reigate Pilgrims](../2007/reigate-pilgrims) | 11 | 1 | 40 | 1 |
 |  | [Kilmington and Stourton](../2007/kilmington-and-stourton) | 8 | 1 | 21 | 1 |
@@ -178,7 +180,6 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Watton-at-Stone](../2003/watton-at-stone) | 7 | 1 | 18 | 1 |
 |  | [Newdigate](../2003/newdigate) | 8 | 2 | 24 | 2 |
 |  | [Old Colfeians](../2003/old-colfeians) | 11 | 2 | 42 | 2 |
-| **2009** | [Ockley](../2009/ockley) | 7 | 2 | 12 | 1 |
 
 
 **Best Bowling:** 13-3-42-4 v [Brookwood](../2004/brookwood)<br />

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 9 | 9 | 2 | 261 | 37.29 |
+| 11 | 9 | 2 | 261 | 37.29 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -44,7 +44,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 1 | 2 | 0 | 12 | 1 | 12.00 | 12.00 |
+| 1 | 2 | 0 | 12 | 1 | 12.0 | 12.0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

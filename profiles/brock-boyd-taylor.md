@@ -46,7 +46,7 @@ Debut: [Railway Taverners 2019](../2019/railway-taverners)
 
 
 **Highest Score**: 73 v [Alaftar CC](../2025/alaftar-cc)<br />
-**Fifties:** 1<br />
+**Fifties:** 2<br />
 **Hundreds:** 0
 
 
@@ -54,7 +54,7 @@ Debut: [Railway Taverners 2019](../2019/railway-taverners)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 7 | 15.5 | 1 | 114 | 4 | 28.50 | 23.75 |
+| 7 | 15.5 | 1 | 114 | 4 | 28.5 | 23.75 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

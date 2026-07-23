@@ -26,7 +26,7 @@ parent: 1996 Fixtures
 | **D Young** | not out |  | 9 |
 | **J Wright** | c D Barbour | J Fleetwood | 4 |
 | **S Masterson** | lbw | J Fleetwood | 0 |
-| **J Stimfig &#8224;** | b | J Fleetwood | 9 |
+| **J Stimpfig &#8224;** | b | J Fleetwood | 9 |
 | **Extras** | | (6b 3lb 11w 2nb) | **22** |
 | **Total** | | (35.4 overs) | **144 all out** |
 

@@ -16,7 +16,7 @@ parent: 1995 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Reedman** | st J Stimfig | J Wright | 58 |
+| **Reedman** | st J Stimpfig | J Wright | 58 |
 | **Warburton** | b | J Wright | 42 |
 | **Frost** | not out |  | 42 |
 | **Sleep** | run out (I Marshall) |  | 31 |
@@ -60,7 +60,7 @@ parent: 1995 Fixtures
 | **E Garland** | run out |  | 15 |
 | **D Young** | b | Crawley | 8 |
 | **J Statham** | not out |  | 21 |
-| **J Stimfig &#8224;** | not out |  | 6 |
+| **J Stimpfig &#8224;** | not out |  | 6 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (5b 6lb 1w 0nb) | **12** |
 | **Total** | | (33.5 overs) | **153 for 8 wkts** |

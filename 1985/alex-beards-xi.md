@@ -24,7 +24,7 @@ parent: 1985 Fixtures
 | **G Palengort** | c | Atkinson | 2 |
 | **J Grant &#8224;** | c | Platt | 18 |
 | **A Noble** | c | 5 | 0 |
-| **J Stimfig** | not out |  | 19 |
+| **J Stimpfig** | not out |  | 19 |
 | **S Maynard** | c | 6 | 8 |
 | **J Wright** | not out |  | 1 |
 | **Extras** | | (20b 0lb 5w 0nb) | **25** |

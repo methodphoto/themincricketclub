@@ -24,7 +24,7 @@ parent: 1993 Fixtures
 | **R Beswick** | lbw | B Welch | 0 |
 | **M Gardiner** | b | M Tipper | 5 |
 | **P Grant** | lbw | M Tipper | 1 |
-| **J Stimfig &#8224;** | not out |  | 13 |
+| **J Stimpfig &#8224;** | not out |  | 13 |
 | **G Wright** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (4b 1lb 0w 0nb) | **5** |
@@ -81,7 +81,7 @@ parent: 1993 Fixtures
 | **E Garland** | 5 | 0 | 38 | 2 |
 | **P Grant** | 4 | 0 | 19 | 1 |
 | **I Marshall** | 2 | 1 | 2 | 0 |
-| **J Stimfig** | 1 | 0 | 9 | 0 |
+| **J Stimpfig** | 1 | 0 | 9 | 0 |
 | **E Harcourt** | 1 | 0 | 6 | 0 |
 
 ## Win/Loss Ratio

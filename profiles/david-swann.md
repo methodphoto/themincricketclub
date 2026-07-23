@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Abinger Hammer 1990](../1990/abinger-hammer)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 19 | 19 | 4 | 652 | 43.47 |
+| 20 | 19 | 4 | 652 | 43.47 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|

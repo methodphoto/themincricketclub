@@ -21,7 +21,7 @@ Debut: [Godstone 1989](../1989/godstone)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 96 | 96 | 8 | 2215 | 25.17 |
+| 105 | 102 | 10 | 2366 | 25.72 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -31,7 +31,8 @@ Debut: [Godstone 1989](../1989/godstone)
 | **2023** | [Broadway and Horton](../2023/broadway-and-horton) | **26** |
 | **2019** | [Reigate Pilgrims](../2019/reigate-pilgrims) | **0** |
 |  | [Newdigate](../2019/newdigate) | **5** |
-| **2018** | [Blagdon Hill](../2018/blagdon-hill) | **28** |
+| **2018** | [Broadway and Horton](../2018/broadway-and-horton) | **88**&#42; |
+|  | [Blagdon Hill](../2018/blagdon-hill) | **28** |
 |  | [Kingstonian](../2018/kingstonian) | **31** |
 |  | [Middleton Stoney](../2018/middleton-stoney) | **9** |
 | **2017** | [Middleton Stoney](../2017/middleton-stoney) | **23** |
@@ -49,13 +50,13 @@ Debut: [Godstone 1989](../1989/godstone)
 | **2010** | [Britwell Salome](../2010/britwell-salome) | **5** |
 | **2009** | [Kilmington and Stourton](../2009/kilmington-and-stourton) | **1** |
 |  | [Broadway and Horton](../2009/broadway-and-horton) | **10** |
+|  | [Britwell Salome](../2009/britwell-salome) | **24** |
 | **2008** | [Britwell Salome](../2008/britwell-salome) | **13** |
 | **2007** | [Britwell Salome](../2007/britwell-salome) | **42** |
 | **2006** | [Britwell Salome](../2006/britwell-salome) | **7** |
 | **2005** | [Kilmington and Stourton](../2005/kilmington-and-stourton) | **18** |
 |  | [Broadway and Horton](../2005/broadway-and-horton) | **0** |
-| **2009** | [Britwell Salome](../2009/britwell-salome) | **24** |
-| **2005** | [Britwell Salome](../2005/britwell-salome) | **67** |
+|  | [Britwell Salome](../2005/britwell-salome) | **67** |
 | **2004** | [The Gents](../2004/the-gents) | **19**&#42; |
 |  | [Kilmington and Stourton](../2004/kilmington-and-stourton) | **8** |
 |  | [Britwell Salome](../2004/britwell-salome) | **52** |
@@ -108,7 +109,8 @@ Debut: [Godstone 1989](../1989/godstone)
 |  | [Antilles](../1992/antilles) | **0** |
 |  | [Yateley](../1992/yateley) | **1** |
 |  | [Old Elthamians](../1992/old-elthamians) | **33** |
-| **1991** | [Watton-at-Stone](../1991/watton-at-stone) | **4** |
+| **1991** | [Valley End](../1991/valley-end) | **3** |
+|  | [Watton-at-Stone](../1991/watton-at-stone) | **4** |
 |  | [Reigate Pilgrims](../1991/reigate-pilgrims) | **0** |
 |  | [Long Marston](../1991/long-marston) | **0**&#42; |
 |  | [Stowting](../1991/stowting) | **3**&#42; |
@@ -119,12 +121,16 @@ Debut: [Godstone 1989](../1989/godstone)
 |  | [Hersham](../1991/hersham) | **1** |
 | **1990** | [Watton-at-Stone](../1990/watton-at-stone) | **46** |
 |  | [Reigate Pilgrims](../1990/reigate-pilgrims) | **1**&#42; |
+|  | [T Calvert's Collection](../1990/t-calverts-collection) | **0** |
 |  | [Brook](../1990/brook) | **2** |
-| **1989** | [Godstone](../1989/godstone) | **8** |
+| **1989** | [Flamingo](../1989/flamingo) | **31**&#42; |
+|  | [Barrow-boys](../1989/barrow-boys) | **12** |
+|  | [Godstone](../1989/godstone) | **8** |
+| **1988** | [Barrow-Boys](../1988/barrow-boys) | **17** |
 
 
 **Highest Score**: 117* v [Old Elthamians](../1993/old-elthamians)<br />
-**Fifties:** 16<br />
+**Fifties:** 18<br />
 **Hundreds:** 1
 
 

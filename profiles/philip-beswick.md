@@ -21,7 +21,7 @@ Debut: [White Lion 1995](../1995/white-lion)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 37 | 37 | 5 | 155 | 4.84 |
+| 57 | 39 | 6 | 156 | 4.73 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -32,14 +32,16 @@ Debut: [White Lion 1995](../1995/white-lion)
 | **2018** | [Reigate Pilgrims](../2018/reigate-pilgrims) | **12** |
 |  | [Watton-at-Stone](../2018/watton-at-stone) | **6** |
 |  | [Middleton Stoney](../2018/middleton-stoney) | **0** |
-| **2017** | [Brasted Invicta](../2017/brasted-invicta) | **27** |
+| **2017** | [Selling](../2017/selling) | **0** |
+|  | [Brasted Invicta](../2017/brasted-invicta) | **27** |
 |  | [Stowting](../2017/stowting) | **24** |
 |  | [Kingstonian](../2017/kingstonian) | **0** |
 | **2015** | [Nightwatchman](../2015/nightwatchman) | **2** |
 | **2014** | [Headley](../2014/headley) | **0** |
 |  | [Wimbledon United](../2014/wimbledon-united) | **6** |
 |  | [Nightwatchman](../2014/nightwatchman) | **3** |
-| **2013** | [Britwell Salome](../2013/britwell-salome) | **7**&#42; |
+| **2013** | [The Herd](../2013/the-herd) | **1**&#42; |
+|  | [Britwell Salome](../2013/britwell-salome) | **7**&#42; |
 | **2007** | [Selling](../2007/selling) | **0** |
 |  | [Tappers](../2007/tappers) | **1** |
 |  | [Old Colfeians](../2007/old-colfeians) | **0** |
@@ -74,7 +76,7 @@ Debut: [White Lion 1995](../1995/white-lion)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 33 | 139.1 | 6 | 754 | 35 | 21.54 | 23.86 |
+| 35 | 147.1 | 6 | 804 | 37 | 21.73 | 23.86 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -82,9 +84,11 @@ Debut: [White Lion 1995](../1995/white-lion)
 | **2025** | [Alaftar CC](../2025/alaftar-cc) | 3 | 0 | 26 | 1 |
 | **2024** | [Railway Taverners](../2024/railway-taverners) | 2 | 0 | 24 | 1 |
 | **2023** | [Stowting](../2023/stowting) | 5 | 1 | 22 | 0 |
+| **2019** | [Kingstonian](../2019/kingstonian) | 7 | 0 | 34 | 2 |
 | **2018** | [Kingstonian](../2018/kingstonian) | 4 | 1 | 7 | 6 |
 |  | [Middleton Stoney](../2018/middleton-stoney) | 2 | 0 | 16 | 0 |
-| **2017** | [Stowting](../2017/stowting) | 5 | 0 | 16 | 0 |
+| **2017** | [Selling](../2017/selling) | 1 | 0 | 16 | 0 |
+|  | [Stowting](../2017/stowting) | 5 | 0 | 16 | 0 |
 |  | [Kingstonian](../2017/kingstonian) | 5 | 0 | 29 | 2 |
 | **2016** | [Brasted Invicta](../2016/brasted-invicta) | 5 | 0 | 27 | 1 |
 |  | [Watton-at-Stone](../2016/watton-at-stone) | 5 | 0 | 27 | 3 |

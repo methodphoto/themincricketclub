@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Barrow-Boys 1988](../1988/barrow-boys)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 92 | 92 | 15 | 2905 | 37.73 |
+| 102 | 97 | 16 | 3104 | 38.32 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -32,7 +32,8 @@ Debut: [Barrow-Boys 1988](../1988/barrow-boys)
 |  | [Cerne Valley](../2019/cerne-valley) | **19** |
 | **2018** | [Watton-at-Stone](../2018/watton-at-stone) | **1** |
 |  | [Newington](../2018/newington) | **23** |
-| **2017** | [Reigate Pilgrims](../2017/reigate-pilgrims) | **4** |
+| **2017** | [Selling](../2017/selling) | **35** |
+|  | [Reigate Pilgrims](../2017/reigate-pilgrims) | **4** |
 |  | [Brasted Invicta](../2017/brasted-invicta) | **50**&#42; |
 |  | [Frensham](../2017/frensham) | **47**&#42; |
 | **2015** | [Selling](../2015/selling) | **18** |
@@ -61,6 +62,7 @@ Debut: [Barrow-Boys 1988](../1988/barrow-boys)
 | **2002** | [Britwell Salome](../2002/britwell-salome) | **0** |
 |  | [Reigate Pilgrims](../2002/reigate-pilgrims) | **83** |
 |  | [Tappers](../2002/tappers) | **86** |
+|  | [Hetairoi](../2002/hetairoi) | **67** |
 |  | [ACME](../2002/acme) | **6** |
 |  | [Players and Jesters](../2002/players-and-jesters) | **0** |
 |  | [Ockley](../2002/ockley) | **9** |
@@ -112,14 +114,17 @@ Debut: [Barrow-Boys 1988](../1988/barrow-boys)
 |  | [Brook](../1990/brook) | **58** |
 |  | [Limpsfield](../1990/limpsfield) | **4** |
 |  | [University College, Oxford v The Min](../1990/university-college-oxford) | **21** |
-| **1989** | [Eggington](../1989/eggington) | **42** |
+| **1989** | [Flamingo](../1989/flamingo) | **0** |
+|  | [Eggington](../1989/eggington) | **42** |
 |  | [Stowting](../1989/stowting) | **9** |
 |  | [Hetairoi](../1989/hetairoi) | **4** |
+|  | [Barrow-boys](../1989/barrow-boys) | **52**&#42; |
 |  | [Putney](../1989/putney) | **0** |
+| **1988** | [Barrow-Boys](../1988/barrow-boys) | **45** |
 
 
 **Highest Score**: 130* v [Wareham](../2000/wareham)<br />
-**Fifties:** 17<br />
+**Fifties:** 19<br />
 **Hundreds:** 4
 
 
@@ -127,7 +132,7 @@ Debut: [Barrow-Boys 1988](../1988/barrow-boys)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 49 | 239.5 | 20 | 1174 | 60 | 19.57 | 23.98 |
+| 50 | 239.5 | 20 | 1174 | 61 | 19.25 | 23.59 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -180,7 +185,7 @@ Debut: [Barrow-Boys 1988](../1988/barrow-boys)
 |  | [Stowting](../1989/stowting) | 8 | 1 | 31 | 3 |
 |  | [Barrow-boys](../1989/barrow-boys) | 7 | 0 | 33 | 1 |
 |  | [Putney](../1989/putney) | 3 | 0 | 22 | 0 |
-| **1988** | [Barrow-Boys](../1988/barrow-boys) |  |  |  | 1 |
+| **1988** | [Barrow-Boys](../1988/barrow-boys) |  | 0 | 0 | 1 |
 
 
 **Best Bowling:** 7.2-0-33-5 v [Hetairoi](../1991/hetairoi)<br />

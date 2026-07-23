@@ -21,7 +21,7 @@ Debut: [Middleton Stoney 2021](../2021/middleton-stoney)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 13 | 13 | 2 | 372 | 33.82 |
+| 14 | 13 | 2 | 372 | 33.82 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Newington 2018](../2018/newington)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 7 | 7 | 0 | 222 | 31.71 |
+| 8 | 7 | 0 | 222 | 31.71 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|

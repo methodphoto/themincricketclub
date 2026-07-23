@@ -20,10 +20,10 @@ R Earney first 5 wkt haul for The Min
 |:---|:---|---|---:|
 | **Kimber** | b | G Wright | 9 |
 | **Coswell** | c I Marshall | J Grant | 11 |
-| **Yeandle** | c J Stimfig | G Wright | 1 |
+| **Yeandle** | c J Stimpfig | G Wright | 1 |
 | **Dolton** | lbw | R Olver | 5 |
 | **Baker** | c S Barrowcliff | R Olver | 3 |
-| **Morris** | c J Stimfig | R Earney | 34 |
+| **Morris** | c J Stimpfig | R Earney | 34 |
 | **Garrett** | hit wkt | R Earney | 2 |
 | **Cooper** | lbw | R Earney | 0 |
 | **Bate** | c M Hyde | R Earney | 12 |
@@ -54,7 +54,7 @@ R Earney first 5 wkt haul for The Min
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **J Stimfig  &#8224;** | b | Bate | 22 |
+| **J Stimpfig  &#8224;** | b | Bate | 22 |
 | **M Hyde;** | b | Cooper | 0 |
 | **R Beswick &#42;** | c | Cooper | 23 |
 | **S Barrowcliff** | b | White | 12 |

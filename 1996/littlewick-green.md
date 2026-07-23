@@ -27,7 +27,7 @@ J Hylton first hundred.<br />
 | **P Grant** | c | Cox | 4 |
 | **J Grant &#8224;** | b | Cox | 1 |
 | **E Garland** | b | Wilson | 0 |
-| **J Stimfig** | b | Wilson | 0 |
+| **J Stimpfig** | b | Wilson | 0 |
 | **J Wright** | not out |  | 5 |
 | **I Marshall** | b | Cox | 3 |
 | **Extras** | | (8b 5lb 3w 1nb) | **17** |

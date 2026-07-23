@@ -21,7 +21,7 @@ Debut: [Brasted Invicta 2014](../2014/brasted-invicta)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 19 | 19 | 2 | 245 | 14.41 |
+| 26 | 20 | 2 | 252 | 14.0 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -42,6 +42,7 @@ Debut: [Brasted Invicta 2014](../2014/brasted-invicta)
 |  | [Newington](../2017/newington) | **0** |
 |  | [Middleton Stoney](../2017/middleton-stoney) | **7** |
 | **2015** | [Watton-at-Stone](../2015/watton-at-stone) | **6**&#42; |
+|  | [Newdigate](../2015/newdigate) | **7** |
 |  | [Nightwatchman](../2015/nightwatchman) | **32** |
 | **2014** | [Brasted Invicta](../2014/brasted-invicta) | **0** |
 

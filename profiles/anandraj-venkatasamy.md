@@ -35,7 +35,7 @@ Debut: [Middleton Stoney 2021](../2021/middleton-stoney)
 
 
 **Highest Score**: 88* v [Trinity Oxley CC](../2024/trinity-oxley-cc)<br />
-**Fifties:** 0<br />
+**Fifties:** 3<br />
 **Hundreds:** 0
 
 

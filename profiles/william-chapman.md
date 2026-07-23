@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [South Nutfield 1988](../1988/south-nutfield)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 23 | 23 | 4 | 304 | 16.00 |
+| 25 | 24 | 4 | 351 | 17.55 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -35,6 +35,7 @@ Debut: [South Nutfield 1988](../1988/south-nutfield)
 |  | [Blindley Heath](../1989/blindley-heath) | **11** |
 |  | [Limpsfield](../1989/limpsfield) | **0** |
 |  | [The Crocodiles](../1989/the-crocodiles) | **11** |
+|  | [Little Kingshill](../1989/little-kingshill) | **47** |
 |  | [Old Elthamians](../1989/old-elthamians) | **16** |
 |  | [Ockley](../1989/ockley) | **23** |
 |  | [Wendover](../1989/wendover) | **5** |

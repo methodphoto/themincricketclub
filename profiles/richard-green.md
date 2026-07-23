@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Old Colfeians 1999](../1999/old-colfeians)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 25 | 25 | 5 | 355 | 17.75 |
+| 37 | 26 | 5 | 359 | 17.1 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -49,6 +49,7 @@ Debut: [Old Colfeians 1999](../1999/old-colfeians)
 |  | [Stowting](../2000/stowting) | **14** |
 |  | [Ockley](../2000/ockley) | **1** |
 | **1999** | [Old Colfeians](../1999/old-colfeians) | **17** |
+| **1982** | [Bristol Grammar School](../1982/bristol-grammar-school) | **4** |
 
 
 **Highest Score**: 70 v [North Holmwood](../2002/north-holmwood)<br />

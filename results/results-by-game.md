@@ -758,7 +758,7 @@ parent: Results
 | 06/05/1982 | [A Good Length](../1982/a-good-length) | Drawn |
 | 08/05/1982 | [Another Man’s Meat](../1982/another-mans-meat) | **Won** |
 | 13/05/1982 | [Bristol Grammar School III](../1982/bristol-grammar-school) | **Won** |
-| 07/06/1982 | [J Stimfig’s XI](../1982/j-stimfigs-xi) | Lost |
+| 07/06/1982 | [J Stimpfig’s XI](../1982/j-stimfigs-xi) | Lost |
 | 10/06/1982 | [Wills Hall](../1982/wills-hall) | **Won** |
 | 12/06/1982 | [Leyhill](../1982/leyhill) | Lost |
 | 14/06/1982 | [Young Solicitors](../1982/bristol-young-solicitors) | **Won** |

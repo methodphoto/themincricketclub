@@ -16,7 +16,7 @@ After the defeat the skipper's 'lucky' underpants were burned and from now on th
 
 <img src="burn.png" width="660" height="462" alt="The burning of the underpants" />
 
-J Stimfig fielded and P Grant batted
+J Stimpfig fielded and P Grant batted
 
 ## Broadway and Horton Innings
 

@@ -17,7 +17,7 @@ parent: 1984 Fixtures
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | Khursheed | 7 |
-| **J Stimfig** | b | Gordon | 2 |
+| **J Stimpfig** | b | Gordon | 2 |
 | **A Lisser** | b | Gordon | 1 |
 | **S Watson** | not out | | 47 |
 | **W Calvert** | b | Gordon | 0 |

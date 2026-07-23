@@ -379,7 +379,7 @@ parent: Records
 | **1983** | A Gallagher | [A Good Length](../1983/a-good-length) | **50** |
 | **1982** | W Calvert | [Clifton Hill House](../1982/clifton-hill-house) | **57** |
 | **1982** | P Newcomb | [Bristol Grammar School](../1982/bristol-grammar-school) | **59** |
-| **1982** | J Booth | [J Stimfigs XI](../1982/j-stimfigs-xi) | **72** |
+| **1982** | J Booth | [J Stimpfigs XI](../1982/j-stimfigs-xi) | **72** |
 
 ## Century Scorers
 

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -61,7 +61,7 @@ Debut: [White Lion 1995](../1995/white-lion)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 2 | 3.2 | 0 | 24 | 1 | 24.00 | 20.00 |
+| 2 | 3.2 | 0 | 24 | 1 | 24.0 | 20.0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

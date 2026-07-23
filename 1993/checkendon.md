@@ -20,7 +20,7 @@ parent: 1993 Fixtures
 | **L Powell** | c E Harcourt | R Olver | 3 |
 | **S Wickens** | b | S Hornsby | 37 |
 | **A Breakspear** | b | S Hornsby | 10 |
-| **Seymour** | st J Stimfig | R Beswick | 41 |
+| **Seymour** | st J Stimpfig | R Beswick | 41 |
 | **J Green** | not out |  | 6 |
 | **J Spiers** | dnb |  |  | Paisley
 | **Potts** | dnb |  |  |
@@ -53,7 +53,7 @@ parent: 1993 Fixtures
 |:---|:---|---|---:|
 | **R Earney** | c Armitage | Petherick | 4 |
 | **A Fielding** | b | Petherick | 1 |
-| **J Stimfig &#8224;** | b | Spiers | 41 |
+| **J Stimpfig &#8224;** | b | Spiers | 41 |
 | **S Hornsby** | b | Petherick | 0 |
 | **A MacFarlane** | b | Petherick | 0 |
 | **R Beswick &#42;** | b | Petherick | 8 |

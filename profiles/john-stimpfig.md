@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [West Green 1984](../1984/west-green)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 25 | 25 | 4 | 275 | 13.10 |
+| 32 | 26 | 4 | 292 | 13.27 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -41,14 +41,15 @@ Debut: [West Green 1984](../1984/west-green)
 |  | [Valley End](../1995/valley-end) | **6**&#42; |
 | **1994** | [Reigate Pilgrims](../1994/reigate-pilgrims) | **41** |
 |  | [Hetairoi](../1994/hetairoi) | **0** |
-| **1984** | [Ealonian](../1984/ealonian) | **1** |
-| **1994** | [Polytechnic III](../1994/polytechnic-iii) | **11** |
+|  | [Polytechnic III](../1994/polytechnic-iii) | **11** |
 | **1993** | [Watton-at-Stone](../1993/watton-at-stone) | **13**&#42; |
 |  | [Checkendon](../1993/checkendon) | **41** |
 |  | [ICL Bracknell](../1993/icl-bracknell) | **22** |
 |  | [Old Elthamians](../1993/old-elthamians) | **13** |
 | **1985** | [Alex Beard's XI](../1985/alex-beards-xi) | **19**&#42; |
-| **1984** | [West Green](../1984/west-green) | **2** |
+| **1984** | [Ealonian](../1984/ealonian) | **1** |
+|  | [West Green](../1984/west-green) | **2** |
+| **1982** | [J Stimpfigs XI](../1982/j-stimfigs-xi) | **17** |
 
 
 **Highest Score**: 46 v [Kilmington and Stourton](../1996/kilmington-and-stourton)<br />
@@ -60,14 +61,14 @@ Debut: [West Green 1984](../1984/west-green)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 1 | 1 | 0 | 9 | 0 | - | - |
+| 1 | 1 | 0 | 9 | 0 | 0 | 0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
 | **1993** | [Watton-at-Stone](../1993/watton-at-stone) | 1 | 0 | 9 | 0 |
 
 
-**Best Bowling:**  v <br />
+**Best Bowling:** 1-0-9-0 v [Watton-at-Stone](../1993/watton-at-stone)<br />
 **Athletics:** 0<br />
 **Michelles:** 0
 

@@ -20,7 +20,7 @@ parent: Records
 | **S Barrowcliff** | 41      | 0         | 41    |
 | **A Beswick**     | 39      | 1         | 40    |
 | **A Slight**      | 27      | 6         | 33    |
-| **J Stimfig**     | 18      | 8         | 26    |
+| **J Stimpfig**     | 18      | 8         | 26    |
 | **A Gallagher**   | 26      | 0         | 26    |
 | **S Hornsby**     | 24      | 0         | 24    |
 | **M Gardiner**    | 24      | 0         | 24    |

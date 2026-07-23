@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [A Good Length 1982](../1982/a-good-length)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 36 | 36 | 3 | 384 | 11.64 |
+| 42 | 37 | 3 | 387 | 11.38 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -53,7 +53,8 @@ Debut: [A Good Length 1982](../1982/a-good-length)
 |  | [White City All Stars](../1986/white-city-all-stars) | **12** |
 |  | [West Wickham](../1986/west-wickham) | **0** |
 |  | [Petts Wood](../1986/petts-wood) | **36**&#42; |
-| **1985** | [Old Wilsonians](../1985/old-wilsonians) | **14** |
+| **1985** | [Lobsters](../1985/lobsters) | **3** |
+|  | [Old Wilsonians](../1985/old-wilsonians) | **14** |
 |  | [Koh-i-Noor](../1985/koh-i-noor) | **58** |
 |  | [Logica](../1985/logica) | **7** |
 |  | [Shamrock](../1985/shamrock) | **15** |
@@ -71,7 +72,7 @@ Debut: [A Good Length 1982](../1982/a-good-length)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 2 | 1.1 | 0 | 12 | 1 | 12.00 | 7.00 |
+| 2 | 1.1 | 0 | 12 | 1 | 12.0 | 7.0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

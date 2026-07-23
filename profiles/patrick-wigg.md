@@ -21,7 +21,7 @@ Debut: [Ockley 1991](../1991/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 133 | 133 | 44 | 1871 | 21.02 |
+| 174 | 135 | 45 | 1886 | 20.96 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -47,16 +47,16 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Stowting](../2023/stowting) | **8** |
 |  | [St Anne's Allstars](../2023/st-annes-allstars) | **22**&#42; |
 | **2022** | [Reigate Pilgrims](../2022/reigate-pilgrims) | **20** |
+|  | [Broadway and Horton](../2022/broadway-and-horton) | **51** |
+|  | [Blagdon Hill](../2022/blagdon-hill) | **40**&#42; |
 |  | [Frensham](../2022/frensham) | **7** |
 |  | [Bricklayer's Arms](../2022/bricklayers-arms) | **7** |
 |  | [Middleton Stoney](../2022/middleton-stoney) | **1**&#42; |
 | **2021** | [Reigate Pilgrims](../2021/reigate-pilgrims) | **1** |
 |  | [Banstead](../2021/banstead) | **19** |
 |  | [Broadway and Horton](../2021/broadway-and-horton) | **10** |
-| **2022** | [Broadway and Horton](../2022/broadway-and-horton) | **51** |
-| **2021** | [Blagdon Hill](../2021/blagdon-hill) | **14**&#42; |
-| **2022** | [Blagdon Hill](../2022/blagdon-hill) | **40**&#42; |
-| **2021** | [Newington](../2021/newington) | **1** |
+|  | [Blagdon Hill](../2021/blagdon-hill) | **14**&#42; |
+|  | [Newington](../2021/newington) | **1** |
 | **2020** | [Reigate Pilgrims](../2020/reigate-pilgrims) | **28** |
 |  | [Banstead](../2020/banstead) | **14** |
 |  | [Railway Taverners](../2020/railway-taverners) | **54** |
@@ -67,6 +67,7 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Frensham](../2019/frensham) | **10**&#42; |
 |  | [Middleton Stoney](../2019/middleton-stoney) | **0** |
 | **2018** | [Reigate Pilgrims](../2018/reigate-pilgrims) | **6** |
+|  | [Broadway and Horton](../2018/broadway-and-horton) | **11** |
 |  | [Blagdon Hill](../2018/blagdon-hill) | **14** |
 |  | [Middleton Stoney](../2018/middleton-stoney) | **39**&#42; |
 | **2017** | [Reigate Pilgrims](../2017/reigate-pilgrims) | **1** |
@@ -80,8 +81,9 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Blagdon Hill](../2016/blagdon-hill) | **0** |
 | **2015** | [Stowting](../2015/stowting) | **0** |
 |  | [BGS Bedouins](../2015/bgs-bedouins) | **14** |
-|  | [Broadway and Horton](../2015/broadway-and-horton) | **11** |
 |  | [Blagdon Hill](../2015/blagdon-hill) | **18** |
+|  | [Broadway and Horton](../2015/broadway-and-horton) | **11** |
+|  | [Newdigate](../2015/newdigate) | **4**&#42; |
 |  | [Frensham](../2015/frensham) | **31** |
 |  | [Middleton Stoney](../2015/middleton-stoney) | **1**&#42; |
 | **2014** | [Headley](../2014/headley) | **36** |
@@ -120,6 +122,7 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Horningsham](../2010/horningsham) | **5** |
 |  | [Kilmington and Stourton](../2010/kilmington-and-stourton) | **2**&#42; |
 |  | [Stowting](../2010/stowting) | **21** |
+|  | [Watton-at-Stone](../2010/watton-at-stone) | **13**&#42; |
 |  | [Newdigate](../2010/newdigate) | **1** |
 |  | [Middleton Stoney](../2010/middleton-stoney) | **16**&#42; |
 | **2009** | [Selling](../2009/selling) | **15**&#42; |
@@ -131,8 +134,8 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Broadway and Horton](../2009/broadway-and-horton) | **47** |
 |  | [Stowting](../2009/stowting) | **2** |
 |  | [Watton-at-Stone](../2009/watton-at-stone) | **13** |
-| **2010** | [Watton-at-Stone](../2010/watton-at-stone) | **13**&#42; |
-| **2009** | [Newdigate](../2009/newdigate) | **4** |
+|  | [Newdigate](../2009/newdigate) | **4** |
+|  | [Britwell Salome](../2009/britwell-salome) | **7**&#42; |
 | **2008** | [Selling](../2008/selling) | **13** |
 |  | [Harrow St Mary's](../2008/harrow-st-marys) | **0**&#42; |
 |  | [Old Min Young Min](../2008/old-min-young-min) | **3** |
@@ -157,11 +160,10 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Broadway and Horton](../2006/broadway-and-horton) | **9** |
 |  | [Stowting](../2006/stowting) | **9** |
 |  | [Newdigate](../2006/newdigate) | **7** |
-| **2009** | [Britwell Salome](../2009/britwell-salome) | **7**&#42; |
 
 
-**Highest Score**: 54* v [Exford](../2013/exford)<br />
-**Fifties:** 4<br />
+**Highest Score**: 54 v [Railway Taverners](../2020/railway-taverners)<br />
+**Fifties:** 5<br />
 **Hundreds:** 0
 
 
@@ -204,6 +206,8 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Stowting](../2023/stowting) | 6 | 0 | 20 | 0 |
 |  | [St Anne's Allstars](../2023/st-annes-allstars) | 7 | 4 | 10 | 4 |
 | **2022** | [Reigate Pilgrims](../2022/reigate-pilgrims) | 9 | 0 | 33 | 1 |
+|  | [Broadway and Horton](../2022/broadway-and-horton) | 5 | 0 | 46 | 0 |
+|  | [Blagdon Hill](../2022/blagdon-hill) | 7 | 1 | 29 | 3 |
 |  | [Frensham](../2022/frensham) | 7 | 0 | 30 | 1 |
 |  | [Bricklayer's Arms](../2022/bricklayers-arms) | 7 | 1 | 25 | 3 |
 |  | [Middleton Stoney](../2022/middleton-stoney) | 8 | 0 | 27 | 0 |
@@ -211,10 +215,8 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Banstead](../2021/banstead) | 7 | 1 | 18 | 3 |
 |  | [Kingstonian](../2021/kingstonian) | 8 | 5 | 9 | 0 |
 |  | [Broadway and Horton](../2021/broadway-and-horton) | 8 | 2 | 27 | 1 |
-| **2022** | [Broadway and Horton](../2022/broadway-and-horton) | 5 | 0 | 46 | 0 |
-| **2021** | [Blagdon Hill](../2021/blagdon-hill) | 6 | 4 | 7 | 1 |
-| **2022** | [Blagdon Hill](../2022/blagdon-hill) | 7 | 1 | 29 | 3 |
-| **2021** | [Newington](../2021/newington) | 8 | 3 | 16 | 2 |
+|  | [Blagdon Hill](../2021/blagdon-hill) | 6 | 4 | 7 | 1 |
+|  | [Newington](../2021/newington) | 8 | 3 | 16 | 2 |
 | **2020** | [Reigate Pilgrims](../2020/reigate-pilgrims) | 9.3 | 4 | 22 | 3 |
 |  | [Banstead](../2020/banstead) | 7 | 1 | 13 | 1 |
 |  | [Railway Taverners](../2020/railway-taverners) | 8 | 1 | 18 | 3 |
@@ -245,8 +247,8 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Reigate Pilgrims](../2015/reigate-pilgrims) | 10 | 4 | 20 | 4 |
 |  | [Headley](../2015/headley) | 10 | 2 | 23 | 1 |
 |  | [BGS Bedouins](../2015/bgs-bedouins) | 6 | 0 | 35 | 1 |
-|  | [Broadway and Horton](../2015/broadway-and-horton) | 5 | 2 | 12 | 0 |
 |  | [Blagdon Hill](../2015/blagdon-hill) | 8 | 3 | 10 | 3 |
+|  | [Broadway and Horton](../2015/broadway-and-horton) | 5 | 2 | 12 | 0 |
 |  | [Newdigate](../2015/newdigate) | 9 | 0 | 31 | 0 |
 |  | [Frensham](../2015/frensham) | 7 | 1 | 19 | 0 |
 |  | [Newington](../2015/newington) | 8 | 0 | 36 | 0 |
@@ -302,6 +304,7 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Kilmington and Stourton](../2010/kilmington-and-stourton) | 8 | 3 | 27 | 4 |
 |  | [Broadway and Horton](../2010/broadway-and-horton) | 6 | 1 | 18 | 2 |
 |  | [Stowting](../2010/stowting) | 12 | 0 | 36 | 1 |
+|  | [Watton-at-Stone](../2010/watton-at-stone) | 8 | 1 | 31 | 0 |
 |  | [Newdigate](../2010/newdigate) | 7 | 2 | 17 | 2 |
 |  | [Middleton Stoney](../2010/middleton-stoney) | 2 | 0 | 5 | 0 |
 |  | [Trafford Croydon](../2010/trafford-croydon) | 6 | 1 | 15 | 1 |
@@ -315,8 +318,9 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Broadway and Horton](../2009/broadway-and-horton) | 8 | 0 | 28 | 0 |
 |  | [Stowting](../2009/stowting) | 7 | 1 | 24 | 0 |
 |  | [Watton-at-Stone](../2009/watton-at-stone) | 7 | 0 | 33 | 0 |
-| **2010** | [Watton-at-Stone](../2010/watton-at-stone) | 8 | 1 | 31 | 0 |
-| **2009** | [Newdigate](../2009/newdigate) | 5 | 1 | 24 | 0 |
+|  | [Newdigate](../2009/newdigate) | 5 | 1 | 24 | 0 |
+|  | [Ockley](../2009/ockley) | 8 | 2 | 23 | 1 |
+|  | [Britwell Salome](../2009/britwell-salome) | 10 | 0 | 29 | 3 |
 | **2008** | [Selling](../2008/selling) | 6 | 1 | 31 | 1 |
 |  | [Putney](../2008/putney) | 4 | 0 | 31 | 1 |
 |  | [Harrow St Mary's](../2008/harrow-st-marys) | 8 | 0 | 35 | 2 |
@@ -345,8 +349,6 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Newdigate](../2006/newdigate) | 8 | 1 | 47 | 1 |
 |  | [Tappers](../2006/tappers) | 9 | 4 | 19 | 0 |
 |  | [Britwell Salome](../2006/britwell-salome) | 9 | 1 | 25 | 0 |
-| **2009** | [Ockley](../2009/ockley) | 8 | 2 | 23 | 1 |
-|  | [Britwell Salome](../2009/britwell-salome) | 10 | 0 | 29 | 3 |
 
 
 **Best Bowling:** 6-2-15-6 v [Stoneydown CC](../2025/stoneydown-cc)<br />

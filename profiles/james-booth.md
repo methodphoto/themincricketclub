@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 6 | 6 | 0 | 110 | 18.33 |
+| 9 | 8 | 0 | 215 | 26.88 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -29,11 +29,13 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [A Good Length 2](../1982/a-good-length-2) | **30** |
 |  | [Lobsters](../1982/lobsters) | **10** |
 |  | [Bristol Young Solicitors](../1982/bristol-young-solicitors) | **5** |
+|  | [Wills Hall](../1982/wills-hall) | **33** |
+|  | [J Stimpfigs XI](../1982/j-stimfigs-xi) | **72** |
 |  | [Clifton Hill House](../1982/clifton-hill-house) | **0** |
 
 
-**Highest Score**: 55 v [Bathurst Arms](../1983/bathurst-arms)<br />
-**Fifties:** 1<br />
+**Highest Score**: 72 v [J Stimpfigs XI](../1982/j-stimfigs-xi)<br />
+**Fifties:** 2<br />
 **Hundreds:** 0
 
 
@@ -41,7 +43,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 2 | 2.1 | 0 | 15 | 3 | 5.00 | 4.33 |
+| 2 | 2.1 | 0 | 15 | 3 | 5.0 | 4.33 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

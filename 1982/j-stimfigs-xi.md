@@ -1,11 +1,11 @@
 ---
 layout: default
-title: J Stimfigs XI
-game: The Min v J Stimfig's XI
+title: J Stimpfigs XI
+game: The Min v J Stimpfig's XI
 location: Coombe Dingle
 date: 07/06/1982
-report: The Min scored 183 all out. J Stimfig's XI replied with 184 for 5 wkts.
-result: J Stimfig's XI won by 5 wkts
+report: The Min scored 183 all out. J Stimpfig's XI replied with 184 for 5 wkts.
+result: J Stimpfig's XI won by 5 wkts
 next: wills-hall
 parent: 1982 Fixtures
 ---
@@ -22,12 +22,12 @@ JBooth's 1st 50<br />
 | **J Booth** | c Packham | Hunter | 72 |
 | **A Gallagher** | c Hill | Miller-Jarvis | 24 |
 | **D Mundy** | run out | | 36 |
-| **R Beswick &#42;** | c J Stimfig | Swift | 9 |
+| **R Beswick &#42;** | c J Stimpfig | Swift | 9 |
 | **W Calvert** | c King | Hunter | 16 |
 | **R Emanuel** | c Swift | Hunter | 0 |
 | **M Gardiner** | run out | | 4|
 | **J Grant &#8224;** | b | Swift | 7 |
-| **J Wright** | c J Stimfig | Miller-Jarvis | 0 |
+| **J Wright** | c J Stimpfig | Miller-Jarvis | 0 |
 | **M Kirwan** | lbw | Swift | 0 |
 | **A Sylvester** | not out | | 4 |
 | **Extras** | | (1b 5lb 3w 2nb) | **11** |
@@ -59,7 +59,7 @@ JBooth's 1st 50<br />
 | **S Sutherland** | not out | | 92 | |
 | **R Swift** | lbw | A Sylvester | 14 |
 | **R Hunter** | c & b | W Calvert | 28 |
-| **J Stimfig** | c Mundy | A Sylvester | 17 |
+| **J Stimpfig** | c Mundy | A Sylvester | 17 |
 | **S Miller-Jones** | not out | | 6 |
 | **King** | dnb | | | |
 |  |  |  |  |

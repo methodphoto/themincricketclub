@@ -20,7 +20,7 @@ parent: 1994 Fixtures
 | **Paul** | b | Abel | 15 |
 | **S Hornsby** | c | Abel | 0 |
 | **R Beswick &#42;** | run out |  | 55 |
-| **J Stimfig &#8224;** | b | Slade | 0 |
+| **J Stimpfig &#8224;** | b | Slade | 0 |
 | **W Calvert** | c | Franklin | 40 |
 | **A Stitt** | b | Portman | 12 |
 | **M Gardiner** | b | Portman | 0 |
@@ -52,7 +52,7 @@ parent: 1994 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Ball** | st J Stimfig | J Wright | 81 |
+| **Ball** | st J Stimpfig | J Wright | 81 |
 | **Rolfe** | b | J Wright | 41 |
 | **Oliver** | not out |  | 27 |
 | **Brown** | lbw | J Wright | 0 |

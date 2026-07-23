@@ -21,7 +21,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 21 | 21 | 11 | 52 | 5.20 |
+| 51 | 21 | 11 | 52 | 5.2 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -48,7 +48,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 | **2007** | [Selling](../2007/selling) | **0** |
 
 
-**Highest Score**: 7* v [Reigate Pilgrims](../2020/reigate-pilgrims)<br />
+**Highest Score**: 7* v [Easton Cowfolk](../2026/easton-cowfolk)<br />
 **Fifties:** 0<br />
 **Hundreds:** 0
 
@@ -58,7 +58,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 48 | 256.1 | 11 | 1548 | 54 | 28.67 | 28.46 |
+| 49 | 263.1 | 12 | 1571 | 56 | 28.05 | 28.2 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -96,7 +96,8 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 | **2020** | [Reigate Pilgrims](../2020/reigate-pilgrims) | 7 | 0 | 35 | 1 |
 |  | [Banstead](../2020/banstead) | 7 | 4 | 16 | 1 |
 |  | [Railway Taverners](../2020/railway-taverners) | 5 | 0 | 36 | 0 |
-| **2019** | [Reigate Pilgrims](../2019/reigate-pilgrims) | 9 | 1 | 39 | 2 |
+| **2019** | [Kingstonian](../2019/kingstonian) | 7 | 1 | 23 | 2 |
+|  | [Reigate Pilgrims](../2019/reigate-pilgrims) | 9 | 1 | 39 | 2 |
 |  | [Railway Taverners](../2019/railway-taverners) | 7 | 0 | 40 | 0 |
 |  | [Broadway and Horton](../2019/broadway-and-horton) | 2 | 0 | 5 | 2 |
 |  | [Newdigate](../2019/newdigate) | 1.4 | 0 | 17 | 0 |

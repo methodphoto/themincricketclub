@@ -21,7 +21,7 @@ Debut: [ELCCC 2011](../2011/elccc)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 57 | 57 | 7 | 1222 | 24.44 |
+| 62 | 60 | 7 | 1297 | 24.47 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -49,7 +49,8 @@ Debut: [ELCCC 2011](../2011/elccc)
 |  | [Newington](../2018/newington) | **12** |
 |  | [Kingstonian](../2018/kingstonian) | **21** |
 |  | [Middleton Stoney](../2018/middleton-stoney) | **11** |
-| **2017** | [Brasted Invicta](../2017/brasted-invicta) | **59**&#42; |
+| **2017** | [Selling](../2017/selling) | **39** |
+|  | [Brasted Invicta](../2017/brasted-invicta) | **59**&#42; |
 |  | [Frensham](../2017/frensham) | **4** |
 |  | [Newington](../2017/newington) | **36** |
 |  | [Middleton Stoney](../2017/middleton-stoney) | **29** |
@@ -65,6 +66,7 @@ Debut: [ELCCC 2011](../2011/elccc)
 |  | [Reigate Pilgrims](../2015/reigate-pilgrims) | **8** |
 |  | [Headley](../2015/headley) | **33**&#42; |
 |  | [Watton-at-Stone](../2015/watton-at-stone) | **27** |
+|  | [Newdigate](../2015/newdigate) | **21** |
 |  | [Frensham](../2015/frensham) | **16** |
 |  | [Newington](../2015/newington) | **35** |
 |  | [Nightwatchman](../2015/nightwatchman) | **11** |
@@ -82,6 +84,7 @@ Debut: [ELCCC 2011](../2011/elccc)
 | **2011** | [Reigate Pilgrims](../2011/reigate-pilgrims) | **28** |
 |  | [SB Exiles](../2011/sb-exiles) | **74** |
 |  | [SAC XI](../2011/sac-xi) | **36** |
+|  | [ELCCC](../2011/elccc) | **15** |
 
 
 **Highest Score**: 100* v [Frensham](../2013/frensham)<br />
@@ -93,7 +96,7 @@ Debut: [ELCCC 2011](../2011/elccc)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 8 | 16.2 | 2 | 117 | 3 | 39.00 | 32.67 |
+| 8 | 16.2 | 2 | 117 | 3 | 39.0 | 32.67 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

@@ -21,7 +21,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 390 | 390 | 31 | 9850 | 27.44 |
+| 404 | 394 | 31 | 9969 | 27.46 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -58,6 +58,8 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 | **2022** | [Hornchurch Athletic](../2022/hornchurch-athletic) | **1** |
 |  | [Reigate Pilgrims](../2022/reigate-pilgrims) | **34** |
 |  | [Banstead](../2022/banstead) | **0** |
+|  | [Broadway and Horton](../2022/broadway-and-horton) | **17** |
+|  | [Blagdon Hill](../2022/blagdon-hill) | **11** |
 |  | [St Anne's Allstars](../2022/st-annes-allstars) | **2** |
 |  | [Frensham](../2022/frensham) | **57** |
 |  | [Newington](../2022/newington) | **35**&#42; |
@@ -69,15 +71,14 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Wandering Maniacs](../2021/wandering-maniacs) | **1** |
 |  | [Kingstonian](../2021/kingstonian) | **33** |
 |  | [Broadway and Horton](../2021/broadway-and-horton) | **20** |
-| **2022** | [Broadway and Horton](../2022/broadway-and-horton) | **17** |
-| **2021** | [Blagdon Hill](../2021/blagdon-hill) | **3** |
-| **2022** | [Blagdon Hill](../2022/blagdon-hill) | **11** |
-| **2021** | [Newington](../2021/newington) | **1** |
+|  | [Blagdon Hill](../2021/blagdon-hill) | **3** |
+|  | [Newington](../2021/newington) | **1** |
 |  | [Middleton Stoney](../2021/middleton-stoney) | **4** |
 | **2020** | [Reigate Pilgrims](../2020/reigate-pilgrims) | **22** |
 |  | [Banstead](../2020/banstead) | **0** |
 |  | [Kingstonian](../2020/kingstonian) | **9** |
-| **2019** | [Reigate Pilgrims](../2019/reigate-pilgrims) | **24** |
+| **2019** | [Kingstonian](../2019/kingstonian) | **18** |
+|  | [Reigate Pilgrims](../2019/reigate-pilgrims) | **24** |
 |  | [Railway Taverners](../2019/railway-taverners) | **15** |
 |  | [Broadway and Horton](../2019/broadway-and-horton) | **43** |
 |  | [Blagdon Hill](../2019/blagdon-hill) | **47** |
@@ -87,6 +88,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Watton-at-Stone](../2019/watton-at-stone) | **24** |
 |  | [Middleton Stoney](../2019/middleton-stoney) | **16** |
 | **2018** | [Reigate Pilgrims](../2018/reigate-pilgrims) | **36** |
+|  | [Broadway and Horton](../2018/broadway-and-horton) | **5** |
 |  | [Blagdon Hill](../2018/blagdon-hill) | **1** |
 |  | [Newington](../2018/newington) | **16** |
 |  | [Kingstonian](../2018/kingstonian) | **56** |
@@ -109,6 +111,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Blagdon Hill](../2016/blagdon-hill) | **49** |
 |  | [Frensham](../2016/frensham) | **12** |
 |  | [Newington](../2016/newington) | **3** |
+|  | [Nightwatchman](../2016/nightwatchman) | **27** |
 |  | [Middleton Stoney](../2016/middleton-stoney) | **4** |
 | **2015** | [Selling](../2015/selling) | **29** |
 |  | [Brasted Invicta](../2015/brasted-invicta) | **72**&#42; |
@@ -116,8 +119,8 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Reigate Pilgrims](../2015/reigate-pilgrims) | **20** |
 |  | [Headley](../2015/headley) | **82** |
 |  | [BGS Bedouins](../2015/bgs-bedouins) | **66** |
-|  | [Broadway and Horton](../2015/broadway-and-horton) | **71** |
 |  | [Blagdon Hill](../2015/blagdon-hill) | **8** |
+|  | [Broadway and Horton](../2015/broadway-and-horton) | **71** |
 |  | [Watton-at-Stone](../2015/watton-at-stone) | **4** |
 |  | [Newington](../2015/newington) | **98** |
 |  | [Nightwatchman](../2015/nightwatchman) | **0** |
@@ -174,6 +177,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Kilmington and Stourton](../2010/kilmington-and-stourton) | **0** |
 |  | [Broadway and Horton](../2010/broadway-and-horton) | **7** |
 |  | [Stowting](../2010/stowting) | **21** |
+|  | [Watton-at-Stone](../2010/watton-at-stone) | **9** |
 |  | [ELCCC](../2010/elccc) | **16** |
 |  | [Trafford Croydon](../2010/trafford-croydon) | **26** |
 |  | [Britwell Salome](../2010/britwell-salome) | **36** |
@@ -188,7 +192,8 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Broadway and Horton](../2009/broadway-and-horton) | **0** |
 |  | [Stowting](../2009/stowting) | **53** |
 |  | [Watton-at-Stone](../2009/watton-at-stone) | **19** |
-| **2010** | [Watton-at-Stone](../2010/watton-at-stone) | **9** |
+|  | [Ockley](../2009/ockley) | **17** |
+|  | [Britwell Salome](../2009/britwell-salome) | **55** |
 | **2008** | [Selling](../2008/selling) | **10** |
 |  | [Reigate Pilgrims](../2008/reigate-pilgrims) | **29** |
 |  | [Harrow St Mary's](../2008/harrow-st-marys) | **95** |
@@ -239,8 +244,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Tappers](../2005/tappers) | **8** |
 |  | [Old Colfeians](../2005/old-colfeians) | **5** |
 |  | [Ockley](../2005/ockley) | **74** |
-| **2009** | [Britwell Salome](../2009/britwell-salome) | **55** |
-| **2005** | [Britwell Salome](../2005/britwell-salome) | **44** |
+|  | [Britwell Salome](../2005/britwell-salome) | **44** |
 | **2004** | [Iver Heath](../2004/iver-heath) | **8** |
 |  | [Reigate Pilgrims](../2004/reigate-pilgrims) | **6** |
 |  | [Temple Sheen](../2004/temple-sheen) | **0** |
@@ -271,6 +275,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [North Holmwood](../2002/north-holmwood) | **15** |
 |  | [Selling](../2002/selling) | **112**&#42; |
 |  | [Tappers](../2002/tappers) | **20** |
+|  | [Hetairoi](../2002/hetairoi) | **69** |
 |  | [ACME](../2002/acme) | **2** |
 |  | [Broadway and Horton](../2002/broadway-and-horton) | **8**&#42; |
 |  | [Wareham](../2002/wareham) | **1** |
@@ -326,6 +331,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Reigate Pilgrims](../1997/reigate-pilgrims) | **15** |
 |  | [Slip End](../1997/slip-end) | **1** |
 |  | [Hetairoi](../1997/hetairoi) | **21** |
+|  | [Captain Scott XI](../1997/captain-scott-xi) | **9** |
 |  | [Farnborough](../1997/farnborough) | **7** |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | **15** |
 |  | [Wincanton Casuals](../1997/wincanton-casuals) | **38** |
@@ -334,7 +340,6 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Players and Jesters](../1997/players-and-jesters) | **21** |
 |  | [Ockley](../1997/ockley) | **44** |
 |  | [Valley End](../1997/valley-end) | **7** |
-|  | [Captain Scott XI](../1997/captain-scott) | **9** |
 | **1996** | [Great Braxted](../1996/great-braxted) | **0** |
 |  | [Stonor](../1996/stonor) | **47** |
 |  | [Littlewick Green](../1996/littlewick-green) | **13** |
@@ -402,8 +407,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Old Tauntonians](../1991/old-tauntonians) | **8** |
 |  | [Old Texaconians](../1991/old-texaconians) | **27** |
 |  | [Antilles](../1991/antilles) | **49** |
-| **2009** | [Ockley](../2009/ockley) | **17** |
-| **1991** | [Hersham](../1991/hersham) | **3**&#42; |
+|  | [Hersham](../1991/hersham) | **3**&#42; |
 | **1990** | [Reigate Pilgrims](../1990/reigate-pilgrims) | **1** |
 |  | [Stowting](../1990/stowting) | **9** |
 |  | [Abinger Hammer](../1990/abinger-hammer) | **9** |
@@ -412,13 +416,13 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Old Elthamians](../1990/old-elthamians) | **0** |
 | **1989** | [South Nutfield](../1989/south-nutfield) | **0** |
 |  | [Godstone](../1989/godstone) | **20**&#42; |
-|  | [Valley End](../1989/valley-end) | **12** |
 |  | [Blindley Heath](../1989/blindley-heath) | **9**&#42; |
+|  | [Valley End](../1989/valley-end) | **12** |
 |  | [Limpsfield](../1989/limpsfield) | **1** |
 
 
 **Highest Score**: 122* v [SB Exiles](../2005/sb-exiles)<br />
-**Fifties:** 54<br />
+**Fifties:** 56<br />
 **Hundreds:** 7
 
 
@@ -426,7 +430,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 230 | 1255.2 | 110 | 5684 | 250 | 22.74 | 30.13 |
+| 231 | 1259.2 | 110 | 5715 | 251 | 22.77 | 30.1 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -454,6 +458,8 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Newington](../2023/newington) | 7 | 0 | 46 | 0 |
 | **2022** | [Hornchurch Athletic](../2022/hornchurch-athletic) | 4 | 0 | 25 | 0 |
 |  | [Banstead](../2022/banstead) | 5 | 0 | 32 | 0 |
+|  | [Broadway and Horton](../2022/broadway-and-horton) | 2 | 0 | 13 | 0 |
+|  | [Blagdon Hill](../2022/blagdon-hill) | 7 | 1 | 23 | 0 |
 |  | [St Anne's Allstars](../2022/st-annes-allstars) | 6 | 0 | 36 | 2 |
 |  | [Newington](../2022/newington) | 4 | 0 | 33 | 0 |
 |  | [Bricklayer's Arms](../2022/bricklayers-arms) | 5 | 0 | 43 | 0 |
@@ -461,10 +467,8 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Reigate Pilgrims](../2021/reigate-pilgrims) | 7 | 0 | 27 | 2 |
 |  | [Banstead](../2021/banstead) | 3 | 1 | 11 | 0 |
 |  | [Wandering Maniacs](../2021/wandering-maniacs) | 6.4 | 1 | 20 | 4 |
-| **2022** | [Broadway and Horton](../2022/broadway-and-horton) | 2 | 0 | 13 | 0 |
-| **2021** | [Blagdon Hill](../2021/blagdon-hill) | 8 | 1 | 29 | 1 |
-| **2022** | [Blagdon Hill](../2022/blagdon-hill) | 7 | 1 | 23 | 0 |
-| **2021** | [Middleton Stoney](../2021/middleton-stoney) | 3 | 0 | 19 | 0 |
+|  | [Blagdon Hill](../2021/blagdon-hill) | 8 | 1 | 29 | 1 |
+|  | [Middleton Stoney](../2021/middleton-stoney) | 3 | 0 | 19 | 0 |
 | **2020** | [Reigate Pilgrims](../2020/reigate-pilgrims) | 3 | 0 | 16 | 0 |
 | **2019** | [Railway Taverners](../2019/railway-taverners) | 6 | 0 | 27 | 5 |
 |  | [Blagdon Hill](../2019/blagdon-hill) | 6 | 0 | 63 | 0 |
@@ -508,6 +512,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Horningsham](../2010/horningsham) | 3 | 0 | 14 | 0 |
 |  | [Kilmington and Stourton](../2010/kilmington-and-stourton) | 1.4 | 0 | 5 | 1 |
 |  | [Broadway and Horton](../2010/broadway-and-horton) | 1 | 1 | 0 | 0 |
+|  | [Watton-at-Stone](../2010/watton-at-stone) | 1 | 0 | 13 | 0 |
 | **2009** | [Selling](../2009/selling) | 9 | 0 | 73 | 2 |
 |  | [SB Exiles](../2009/sb-exiles) | 6 | 0 | 42 | 1 |
 |  | [ELCCC](../2009/elccc) | 8 | 0 | 45 | 1 |
@@ -516,7 +521,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Kilmington and Stourton](../2009/kilmington-and-stourton) | 1.5 | 0 | 13 | 1 |
 |  | [Stowting](../2009/stowting) | 3 | 0 | 17 | 0 |
 |  | [Watton-at-Stone](../2009/watton-at-stone) | 2 | 1 | 2 | 1 |
-| **2010** | [Watton-at-Stone](../2010/watton-at-stone) | 1 | 0 | 13 | 0 |
+|  | [Ockley](../2009/ockley) | 7 | 1 | 15 | 5 |
 | **2008** | [Selling](../2008/selling) | 5 | 0 | 30 | 1 |
 |  | [Reigate Pilgrims](../2008/reigate-pilgrims) | 3 | 0 | 24 | 1 |
 |  | [Harrow St Mary's](../2008/harrow-st-marys) | 3 | 0 | 10 | 4 |
@@ -563,6 +568,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [North Holmwood](../2002/north-holmwood) | 9 | 2 | 29 | 0 |
 |  | [Selling](../2002/selling) | 8 | 2 | 26 | 4 |
 |  | [Tappers](../2002/tappers) | 5 | 2 | 15 | 1 |
+|  | [Hetairoi](../2002/hetairoi) | 4 | 0 | 31 | 1 |
 |  | [ACME](../2002/acme) | 4 | 0 | 10 | 0 |
 |  | [Broadway and Horton](../2002/broadway-and-horton) | 8 | 3 | 22 | 1 |
 |  | [Wareham](../2002/wareham) | 3 | 0 | 18 | 1 |
@@ -605,6 +611,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Reigate Pilgrims](../1997/reigate-pilgrims) | 10.1 | 2 | 34 | 4 |
 |  | [Slip End](../1997/slip-end) | 5 | 1 | 23 | 0 |
 |  | [Hetairoi](../1997/hetairoi) | 7.1 | 0 | 37 | 2 |
+|  | [Captain Scott XI](../1997/captain-scott-xi) | 6 | 0 | 21 | 1 |
 |  | [Farnborough](../1997/farnborough) | 8 | 2 | 23 | 3 |
 |  | [Kilmington and Stourton](../1997/kilmington-and-stourton) | 2 | 0 | 10 | 0 |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | 6 | 0 | 31 | 1 |
@@ -612,7 +619,6 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Tappers](../1997/tappers) | 5 | 1 | 16 | 5 |
 |  | [Stowting](../1997/stowting) | 7 | 0 | 38 | 1 |
 |  | [Players and Jesters](../1997/players-and-jesters) | 5 | 0 | 28 | 0 |
-|  | [Captain Scott XI](../1997/captain-scott) | 6 | 0 | 21 | 1 |
 | **1996** | [Great Braxted](../1996/great-braxted) | 5 | 2 | 16 | 0 |
 |  | [Stonor](../1996/stonor) | 7 | 0 | 32 | 2 |
 |  | [Littlewick Green](../1996/littlewick-green) | 4 | 0 | 29 | 0 |
@@ -648,8 +654,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 | **1992** | [Shepton Beauchamp](../1992/shepton-beauchamp) | 2 | 0 | 11 | 0 |
 | **1991** | [Antilles](../1991/antilles) | 2 | 0 | 21 | 0 |
 |  | [Checkendon](../1991/checkendon) | 2 | 0 | 15 | 0 |
-| **2009** | [Ockley](../2009/ockley) | 7 | 1 | 15 | 5 |
-| **1991** | [Hersham](../1991/hersham) | 1 | 0 | 4 | 0 |
+|  | [Hersham](../1991/hersham) | 1 | 0 | 4 | 0 |
 | **1990** | [Reigate Pilgrims](../1990/reigate-pilgrims) | 8 | 4 | 9 | 2 |
 |  | [Stowting](../1990/stowting) | 2 | 0 | 7 | 0 |
 |  | [The Crocodiles](../1990/the-crocodiles) | 4 | 0 | 29 | 1 |
@@ -657,15 +662,13 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Brook](../1990/brook) | 3 | 1 | 3 | 0 |
 |  | [Little Kingshill](../1990/little-kingshill) | 3 | 0 | 33 | 0 |
 | **1989** | [Godstone](../1989/godstone) | 3 | 0 | 24 | 2 |
-|  | [Valley End](../1989/valley-end) | 4 | 0 | 25 | 0 |
 |  | [Blindley Heath](../1989/blindley-heath) | 7 | 2 | 21 | 0 |
+|  | [Valley End](../1989/valley-end) | 4 | 0 | 25 | 0 |
 |  | [Limpsfield](../1989/limpsfield) | 7.4 | 0 | 52 | 1 |
-
 
 **Best Bowling:** 9.5-0-44-6 v [Reigate Pilgrims](../1994/reigate-pilgrims)<br />
 **Athletics:** 8<br />
 **Michelles:** 6
-
 
 ## Questions
 
@@ -696,4 +699,3 @@ Headingley 1981
 Marcus Trescothick
 
 **Favourite Cricketing Myth/Legend/Moment?**<br />
-Christopher Martin Jen

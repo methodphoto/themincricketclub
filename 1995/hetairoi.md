@@ -23,7 +23,7 @@ parent: 1995 Fixtures
 | **G Fenn** | b | J Wright | 53 |
 | **D Oliver** | b | W Calvert | 7 |
 | **W Jones** | b | J Wright | 54 |
-| **TW Greenwood** | c J Stimfig | R Earney | 4 |
+| **TW Greenwood** | c J Stimpfig | R Earney | 4 |
 | **A Bradley** | c D Young | J Wright | 8 |
 | **A Cunningham** | not out |  | 24 |
 | **D Greenwood** | b | P Bentley | 5 |
@@ -62,7 +62,7 @@ parent: 1995 Fixtures
 | **R Jaworski** | not out |  | 2 |
 | **P Maddison** | dnb |  |  |
 | **W Calvert** | dnb |  |  |
-| **J Stimfig &#8224;** | dnb |  |  |
+| **J Stimpfig &#8224;** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (6b 6lb 6w 4nb) | **22** |
 | **Total** | | (33.5 overs) | **193 for 5 wkts** |

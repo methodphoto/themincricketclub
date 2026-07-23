@@ -21,7 +21,7 @@ Debut: [Britwell Salome 2005](../2005/britwell-salome)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 41 | 41 | 13 | 463 | 16.54 |
+| 64 | 50 | 15 | 634 | 18.11 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -51,7 +51,8 @@ Debut: [Britwell Salome 2005](../2005/britwell-salome)
 |  | [Newington](../2018/newington) | **3** |
 |  | [Kingstonian](../2018/kingstonian) | **25**&#42; |
 |  | [Middleton Stoney](../2018/middleton-stoney) | **0** |
-| **2017** | [Brasted Invicta](../2017/brasted-invicta) | **3**&#42; |
+| **2017** | [Selling](../2017/selling) | **20**&#42; |
+|  | [Brasted Invicta](../2017/brasted-invicta) | **3**&#42; |
 |  | [Newington](../2017/newington) | **10** |
 |  | [Middleton Stoney](../2017/middleton-stoney) | **11** |
 | **2016** | [Selling](../2016/selling) | **20**&#42; |
@@ -59,17 +60,25 @@ Debut: [Britwell Salome 2005](../2005/britwell-salome)
 |  | [Watton-at-Stone](../2016/watton-at-stone) | **21** |
 |  | [Frensham](../2016/frensham) | **19** |
 |  | [Newington](../2016/newington) | **10**&#42; |
+|  | [Nightwatchman](../2016/nightwatchman) | **5** |
 | **2015** | [Newington](../2015/newington) | **0**&#42; |
+|  | [Nightwatchman](../2015/nightwatchman) | **38** |
 |  | [Britwell Salome](../2015/britwell-salome) | **38**&#42; |
-| **2009** | [SB Exiles](../2009/sb-exiles) | **14**&#42; |
-|  | [Watton-at-Stone](../2009/watton-at-stone) | **3** |
+| **2014** | [Nightwatchman](../2014/nightwatchman) | **31** |
+| **2013** | [Nightwatchmen](../2013/nightwatchman) | **67** |
+| **2012** | [ELCCC](../2012/elccc) | **0** |
+| **2011** | [ELCCC](../2011/elccc) | **1**&#42; |
 | **2010** | [Watton-at-Stone](../2010/watton-at-stone) | **3** |
+|  | [ELCCC](../2010/elccc) | **1** |
+| **2009** | [SB Exiles](../2009/sb-exiles) | **14**&#42; |
+|  | [ELCCC](../2009/elccc) | **8** |
+|  | [Watton-at-Stone](../2009/watton-at-stone) | **3** |
 | **2008** | [Old Min Young Min](../2008/old-min-young-min) | **5** |
 | **2007** | [Watton-at-Stone](../2007/watton-at-stone) | **0** |
 
 
-**Highest Score**: 38* v [Britwell Salome](../2015/britwell-salome)<br />
-**Fifties:** 0<br />
+**Highest Score**: 67 v [Nightwatchmen](../2013/nightwatchman)<br />
+**Fifties:** 1<br />
 **Hundreds:** 0
 
 
@@ -78,7 +87,7 @@ Debut: [Britwell Salome 2005](../2005/britwell-salome)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 59 | 358 | 34 | 1697 | 72 | 23.57 | 29.83 |
+| 60 | 365 | 34 | 1741 | 74 | 23.53 | 29.59 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -113,7 +122,8 @@ Debut: [Britwell Salome 2005](../2005/britwell-salome)
 |  | [Selling](../2018/selling) | 5 | 2 | 19 | 0 |
 |  | [Newington](../2018/newington) | 5 | 0 | 22 | 0 |
 |  | [Kingstonian](../2018/kingstonian) | 8 | 2 | 30 | 0 |
-| **2017** | [Newington](../2017/newington) | 6 | 1 | 21 | 0 |
+| **2017** | [Selling](../2017/selling) | 7 | 0 | 44 | 2 |
+|  | [Newington](../2017/newington) | 6 | 1 | 21 | 0 |
 |  | [Middleton Stoney](../2017/middleton-stoney) | 6 | 0 | 34 | 3 |
 | **2016** | [Selling](../2016/selling) | 3 | 1 | 5 | 0 |
 |  | [Brasted Invicta](../2016/brasted-invicta) | 5 | 1 | 7 | 1 |
@@ -132,15 +142,15 @@ Debut: [Britwell Salome 2005](../2005/britwell-salome)
 | **2011** | [SAC XI](../2011/sac-xi) | 4 | 0 | 25 | 0 |
 |  | [ELCCC](../2011/elccc) | 8 | 0 | 41 | 3 |
 | **2010** | [Spencer](../2010/spencer) | 5 | 0 | 29 | 0 |
+|  | [Watton-at-Stone](../2010/watton-at-stone) | 3 | 0 | 27 | 1 |
 |  | [ELCCC](../2010/elccc) | 5 | 1 | 11 | 0 |
 | **2009** | [SB Exiles](../2009/sb-exiles) | 2 | 0 | 28 | 0 |
 |  | [ELCCC](../2009/elccc) | 4 | 0 | 13 | 0 |
 |  | [Watton-at-Stone](../2009/watton-at-stone) | 6 | 0 | 34 | 0 |
-| **2010** | [Watton-at-Stone](../2010/watton-at-stone) | 3 | 0 | 27 | 1 |
+|  | [Britwell Salome](../2009/britwell-salome) | 9 | 0 | 44 | 2 |
 | **2008** | [Harrow St Mary's](../2008/harrow-st-marys) | 8 | 1 | 17 | 1 |
 |  | [Old Min Young Min](../2008/old-min-young-min) | 9 | 1 | 33 | 1 |
 | **2007** | [Watton-at-Stone](../2007/watton-at-stone) | 4.3 | 1 | 5 | 3 |
-| **2009** | [Britwell Salome](../2009/britwell-salome) | 9 | 0 | 44 | 2 |
 
 
 **Best Bowling:** 8-1-54-4 v [Watton-at-Stone](../2015/watton-at-stone)<br />

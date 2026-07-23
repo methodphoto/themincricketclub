@@ -21,29 +21,30 @@ Debut: [Greenford 1984](../1984/greenford)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 168 | 168 | 51 | 1608 | 13.74 |
+| 239 | 172 | 52 | 1665 | 13.88 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
 | **2023** | [Blagdon Hill](../2023/blagdon-hill) | **1** |
 |  | [St Anne's Allstars](../2023/st-annes-allstars) | **0** |
 | **2022** | [Banstead](../2022/banstead) | **0**&#42; |
+|  | [Broadway and Horton](../2022/broadway-and-horton) | **8** |
+|  | [Blagdon Hill](../2022/blagdon-hill) | **1** |
 |  | [Frensham](../2022/frensham) | **4** |
 | **2021** | [Reigate Pilgrims](../2021/reigate-pilgrims) | **14**&#42; |
 |  | [Banstead](../2021/banstead) | **2** |
 |  | [Broadway and Horton](../2021/broadway-and-horton) | **9**&#42; |
-| **2022** | [Broadway and Horton](../2022/broadway-and-horton) | **8** |
-|  | [Blagdon Hill](../2022/blagdon-hill) | **1** |
 | **2020** | [Reigate Pilgrims](../2020/reigate-pilgrims) | **4** |
-| **2019** | [Reigate Pilgrims](../2019/reigate-pilgrims) | **29** |
+| **2019** | [Kingstonian](../2019/kingstonian) | **16** |
+|  | [Reigate Pilgrims](../2019/reigate-pilgrims) | **29** |
 |  | [Broadway and Horton](../2019/broadway-and-horton) | **3**&#42; |
 |  | [Blagdon Hill](../2019/blagdon-hill) | **5** |
 |  | [Cerne Valley](../2019/cerne-valley) | **3**&#42; |
 |  | [Newdigate](../2019/newdigate) | **3** |
 | **2018** | [Reigate Pilgrims](../2018/reigate-pilgrims) | **15**&#42; |
+|  | [Broadway and Horton](../2018/broadway-and-horton) | **18** |
 |  | [Blagdon Hill](../2018/blagdon-hill) | **9**&#42; |
-| **1986** | [Godstone](../1986/godstone) | **4**&#42; |
-| **2018** | [Watton-at-Stone](../2018/watton-at-stone) | **0** |
+|  | [Watton-at-Stone](../2018/watton-at-stone) | **0** |
 | **2017** | [Reigate Pilgrims](../2017/reigate-pilgrims) | **7** |
 |  | [Stowting](../2017/stowting) | **0** |
 |  | [Newdigate](../2017/newdigate) | **4** |
@@ -54,6 +55,7 @@ Debut: [Greenford 1984](../1984/greenford)
 | **2015** | [Stowting](../2015/stowting) | **2**&#42; |
 |  | [BGS Bedouins](../2015/bgs-bedouins) | **5** |
 |  | [Blagdon Hill](../2015/blagdon-hill) | **13** |
+|  | [Newdigate](../2015/newdigate) | **1** |
 |  | [Frensham](../2015/frensham) | **12**&#42; |
 |  | [Nightwatchman](../2015/nightwatchman) | **0**&#42; |
 | **2014** | [Newdigate](../2014/newdigate) | **10** |
@@ -179,6 +181,7 @@ Debut: [Greenford 1984](../1984/greenford)
 |  | [Godstone](../1989/godstone) | **13** |
 |  | [Blindley Heath](../1989/blindley-heath) | **48**&#42; |
 |  | [Limpsfield](../1989/limpsfield) | **4** |
+|  | [Little Kingshill](../1989/little-kingshill) | **22**&#42; |
 |  | [Putney](../1989/putney) | **31** |
 |  | [Wendover](../1989/wendover) | **4** |
 | **1988** | [Ealonian](../1988/ealonian) | **5** |
@@ -190,6 +193,7 @@ Debut: [Greenford 1984](../1984/greenford)
 |  | [Old Elthamians](../1987/old-elthamians) | **5** |
 |  | [The Crocodiles](../1987/the-crocodiles) | **13** |
 | **1986** | [Stowting](../1986/stowting) | **12** |
+|  | [Godstone](../1986/godstone) | **4**&#42; |
 |  | [Brook](../1986/brook) | **0**&#42; |
 |  | [White City All Stars](../1986/white-city-all-stars) | **14**&#42; |
 | **1984** | [Greenford](../1984/greenford) | **3** |
@@ -204,7 +208,7 @@ Debut: [Greenford 1984](../1984/greenford)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 183 | 977.5 | 83 | 4778 | 257 | 18.59 | 22.83 |
+| 186 | 1007.5 | 88 | 4874 | 266 | 18.32 | 22.73 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -212,22 +216,22 @@ Debut: [Greenford 1984](../1984/greenford)
 |  | [Blagdon Hill](../2023/blagdon-hill) | 1 | 0 | 8 | 0 |
 |  | [St Anne's Allstars](../2023/st-annes-allstars) | 8 | 0 | 52 | 1 |
 | **2022** | [Banstead](../2022/banstead) | 4 | 0 | 32 | 1 |
+|  | [Broadway and Horton](../2022/broadway-and-horton) | 4 | 1 | 28 | 0 |
+|  | [Blagdon Hill](../2022/blagdon-hill) | 4 | 0 | 22 | 2 |
 |  | [Frensham](../2022/frensham) | 5 | 0 | 36 | 0 |
 | **2021** | [Reigate Pilgrims](../2021/reigate-pilgrims) | 7 | 0 | 41 | 2 |
 |  | [Banstead](../2021/banstead) | 2 | 0 | 17 | 0 |
 |  | [Kingstonian](../2021/kingstonian) | 8 | 1 | 31 | 5 |
 |  | [Broadway and Horton](../2021/broadway-and-horton) | 8 | 1 | 46 | 5 |
-| **2022** | [Broadway and Horton](../2022/broadway-and-horton) | 4 | 1 | 28 | 0 |
-| **2021** | [Blagdon Hill](../2021/blagdon-hill) | 2 | 0 | 6 | 0 |
-| **2022** | [Blagdon Hill](../2022/blagdon-hill) | 4 | 0 | 22 | 2 |
+|  | [Blagdon Hill](../2021/blagdon-hill) | 2 | 0 | 6 | 0 |
 | **2020** | [Reigate Pilgrims](../2020/reigate-pilgrims) | 1 | 0 | 10 | 0 |
-| **2019** | [Broadway and Horton](../2019/broadway-and-horton) | 2.3 | 0 | 3 | 2 |
+| **2019** | [Kingstonian](../2019/kingstonian) | 6 | 1 | 11 | 0 |
+|  | [Broadway and Horton](../2019/broadway-and-horton) | 2.3 | 0 | 3 | 2 |
 |  | [Cerne Valley](../2019/cerne-valley) | 3 | 1 | 17 | 0 |
 |  | [Frensham](../2019/frensham) | 4 | 1 | 17 | 2 |
 | **2018** | [Reigate Pilgrims](../2018/reigate-pilgrims) | 7 | 0 | 44 | 1 |
 |  | [Broadway and Horton](../2018/broadway-and-horton) | 8 | 2 | 41 | 2 |
-| **1986** | [Godstone](../1986/godstone) | 11 | 5 | 24 | 2 |
-| **2018** | [Watton-at-Stone](../2018/watton-at-stone) | 5 | 0 | 37 | 1 |
+|  | [Watton-at-Stone](../2018/watton-at-stone) | 5 | 0 | 37 | 1 |
 | **2017** | [Reigate Pilgrims](../2017/reigate-pilgrims) | 0.3 | 0 | 5 | 0 |
 |  | [Stowting](../2017/stowting) | 5 | 2 | 32 | 2 |
 |  | [Newdigate](../2017/newdigate) | 1 | 0 | 14 | 0 |
@@ -240,8 +244,8 @@ Debut: [Greenford 1984](../1984/greenford)
 | **2015** | [Stowting](../2015/stowting) | 10 | 1 | 52 | 1 |
 |  | [Reigate Pilgrims](../2015/reigate-pilgrims) | 0.5 | 0 | 0 | 1 |
 |  | [BGS Bedouins](../2015/bgs-bedouins) | 7 | 0 | 43 | 0 |
-|  | [Broadway and Horton](../2015/broadway-and-horton) | 5 | 1 | 14 | 1 |
 |  | [Blagdon Hill](../2015/blagdon-hill) | 7 | 1 | 33 | 1 |
+|  | [Broadway and Horton](../2015/broadway-and-horton) | 5 | 1 | 14 | 1 |
 |  | [Newdigate](../2015/newdigate) | 1 | 0 | 15 | 0 |
 |  | [Frensham](../2015/frensham) | 7 | 1 | 35 | 2 |
 |  | [Nightwatchman](../2015/nightwatchman) | 8 | 0 | 39 | 2 |
@@ -284,6 +288,7 @@ Debut: [Greenford 1984](../1984/greenford)
 |  | [Stowting](../2009/stowting) | 4 | 0 | 31 | 0 |
 |  | [Watton-at-Stone](../2009/watton-at-stone) | 5 | 0 | 33 | 0 |
 |  | [Newdigate](../2009/newdigate) | 10.3 | 1 | 44 | 6 |
+|  | [Britwell Salome](../2009/britwell-salome) | 4 | 1 | 18 | 1 |
 | **2008** | [Reigate Pilgrims](../2008/reigate-pilgrims) | 6 | 0 | 19 | 1 |
 |  | [Old Min Young Min](../2008/old-min-young-min) | 4 | 0 | 20 | 2 |
 |  | [Stowting](../2008/stowting) | 2 | 0 | 10 | 2 |
@@ -304,7 +309,6 @@ Debut: [Greenford 1984](../1984/greenford)
 |  | [Stowting](../2006/stowting) | 15 | 2 | 47 | 4 |
 |  | [HSBC](../2006/hsbc) | 8 | 1 | 21 | 2 |
 |  | [Ockley](../2006/ockley) | 6 | 1 | 26 | 1 |
-| **2009** | [Britwell Salome](../2009/britwell-salome) | 4 | 1 | 18 | 1 |
 | **2004** | [Iver Heath](../2004/iver-heath) | 8 | 0 | 36 | 2 |
 |  | [Reigate Pilgrims](../2004/reigate-pilgrims) | 0.4 | 0 | 10 | 0 |
 |  | [Tappers](../2004/tappers) | 2 | 0 | 7 | 2 |
@@ -318,6 +322,7 @@ Debut: [Greenford 1984](../1984/greenford)
 |  | [Reigate Pilgrims](../2002/reigate-pilgrims) | 7 | 0 | 61 | 0 |
 |  | [Selling](../2002/selling) | 11.4 | 1 | 64 | 4 |
 |  | [Tappers](../2002/tappers) | 2 | 0 | 20 | 0 |
+|  | [Hetairoi](../2002/hetairoi) | 15 | 2 | 51 | 6 |
 | **2001** | [Old Colfeians](../2001/old-colfeians) | 1 | 0 | 8 | 0 |
 |  | [Kilmington and Stourton](../2001/kilmington-and-stourton) | 4 | 0 | 22 | 3 |
 | **2000** | [Selling](../2000/selling) | 7 | 2 | 23 | 2 |
@@ -336,13 +341,13 @@ Debut: [Greenford 1984](../1984/greenford)
 |  | [Ockley](../1998/ockley) | 4 | 0 | 18 | 2 |
 | **1997** | [Slip End](../1997/slip-end) | 10 | 1 | 37 | 1 |
 |  | [Hetairoi](../1997/hetairoi) | 10 | 1 | 47 | 3 |
+|  | [Captain Scott XI](../1997/captain-scott-xi) | 5 | 0 | 16 | 1 |
 |  | [Farnborough](../1997/farnborough) | 4 | 1 | 17 | 0 |
 |  | [Kilmington and Stourton](../1997/kilmington-and-stourton) | 2 | 0 | 11 | 1 |
 |  | [Great Braxted](../1997/great-braxted) | 2 | 0 | 16 | 0 |
 |  | [Tappers](../1997/tappers) | 4 | 0 | 24 | 1 |
 |  | [Players and Jesters](../1997/players-and-jesters) | 7 | 0 | 36 | 4 |
 |  | [Ockley](../1997/ockley) | 7 | 0 | 31 | 4 |
-|  | [Captain Scott XI](../1997/captain-scott) | 5 | 0 | 16 | 1 |
 | **1996** | [Great Braxted](../1996/great-braxted) | 4 | 0 | 24 | 0 |
 |  | [Littlewick Green](../1996/littlewick-green) | 1 | 1 | 0 | 0 |
 |  | [Broadway and Horton](../1996/broadway-and-horton) | 2 | 0 | 15 | 0 |
@@ -375,6 +380,7 @@ Debut: [Greenford 1984](../1984/greenford)
 |  | [Hetairoi](../1989/hetairoi) | 4 | 0 | 30 | 1 |
 |  | [Blindley Heath](../1989/blindley-heath) | 5 | 1 | 19 | 2 |
 |  | [Limpsfield](../1989/limpsfield) | 5 | 0 | 52 | 0 |
+|  | [Little Kingshill](../1989/little-kingshill) | 9 | 2 | 34 | 3 |
 |  | [Putney](../1989/putney) | 7 | 0 | 27 | 1 |
 | **1988** | [Limpsfield](../1988/limpsfield) | 2 | 0 | 34 | 0 |
 |  | [Godstone](../1988/godstone) | 13 | 1 | 72 | 3 |
@@ -386,6 +392,7 @@ Debut: [Greenford 1984](../1984/greenford)
 |  | [Old Elthamians](../1987/old-elthamians) | 8 | 1 | 17 | 4 |
 |  | [The Crocodiles](../1987/the-crocodiles) | 7 | 2 | 17 | 3 |
 | **1986** | [Stowting](../1986/stowting) | 4 | 1 | 18 | 0 |
+|  | [Godstone](../1986/godstone) | 11 | 5 | 24 | 2 |
 |  | [Brook](../1986/brook) | 7.3 | 4 | 9 | 5 |
 |  | [White City All Stars](../1986/white-city-all-stars) | 8 | 0 | 47 | 3 |
 |  | [Petts Wood](../1986/petts-wood) | 5 | 0 | 24 | 0 |

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Reigate Pilgrims 1997](../1997/reigate-pilgrims)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 32 | 32 | 16 | 143 | 8.94 |
+| 51 | 32 | 16 | 143 | 8.94 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|

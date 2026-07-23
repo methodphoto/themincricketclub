@@ -17,14 +17,14 @@ parent: 1997 Fixtures
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Fogg** | c J Wright | I Marshall | 10 |
-| **Simpson** | c J Stimfig | I Marshall | 8 |
+| **Simpson** | c J Stimpfig | I Marshall | 8 |
 | **Watkins** | c R Earney | E Garland | 52 |
 | **Mason** | b | J Wright | 1 |
 | **Sutton** | c J Wright | P Bentley | 13 |
 | **Black** | b | E Garland | 25 |
 | **Broad** | c J Wright | E Garland | 20 |
 | **Lennox** | not out |  |  27|
-| **Palmer** | st J Stimfig | E Garland | 3 |
+| **Palmer** | st J Stimpfig | E Garland | 3 |
 | **Purkiss** | dnb |  | 2 |
 | **Roskrow** | dnb |  | 0 |
 | **Extras** | | (1b 8lb 0w 0nb) | **9** |
@@ -60,7 +60,7 @@ parent: 1997 Fixtures
 | **P Grant** | c & b | Black | 0 |
 | **I Marshall &#42;** | c | Black | 5 |
 | **E Garland** | c | Black | 11 |
-| **J Stimfig &#8224;** | b | Black | 0 |
+| **J Stimpfig &#8224;** | b | Black | 0 |
 | **J Wright** | not out |  | 1 |
 | **Extras** | | (0b 3lb 3w 0nb) | **6** |
 | **Total** | | (30 overs) | **91 all out** |

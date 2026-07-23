@@ -57,7 +57,7 @@ S Barrowcliff first Min century.<br />
 | **R Earney** | c | M White | 0 |
 | **S Barrowcliff** | not out |  | 117 |
 | **R Beswick &#42;** | c Jo Guthrie | J Rowlands | 20 |
-| **J Stimfig** | b | R Minto | 13 |
+| **J Stimpfig** | b | R Minto | 13 |
 | **W Wright** | run out |  | 53 |
 | **W Calvert** | not out |  | 9 |
 | **I Marshall** | dnb |  |  |

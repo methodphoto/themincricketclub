@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,11 +20,10 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 81 | 81 | 19 | 619 | 9.98 |
+| 103 | 84 | 19 | 632 | 9.72 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
-| **1986** | [Godstone](../1986/godstone) | **0** |
 | **2010** | [Islip](../2010/islip) | **0** |
 |  | [Newdigate](../2010/newdigate) | **52**&#42; |
 | **2008** | [Old Min Young Min](../2008/old-min-young-min) | **12**&#42; |
@@ -33,9 +32,9 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 | **1999** | [Tappers](../1999/tappers) | **0** |
 |  | [Players and Jesters](../1999/players-and-jesters) | **0** |
 | **1998** | [Hetairoi](../1998/hetairoi) | **2** |
-| **1997** | [Stowting](../1997/stowting) | **1**&#42; |
+| **1997** | [Captain Scott XI](../1997/captain-scott-xi) | **4**&#42; |
+|  | [Stowting](../1997/stowting) | **1**&#42; |
 |  | [Players and Jesters](../1997/players-and-jesters) | **2** |
-|  | [Captain Scott XI](../1997/captain-scott) | **4**&#42; |
 | **1996** | [Great Braxted](../1996/great-braxted) | **4** |
 |  | [Captain Scott](../1996/captain-scott) | **1** |
 |  | [Broadway and Horton](../1996/broadway-and-horton) | **1** |
@@ -50,10 +49,10 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Broadway and Horton](../1995/broadway-and-horton) | **2** |
 | **1994** | [Watton-at-Stone](../1994/watton-at-stone) | **0**&#42; |
 |  | [Hetairoi](../1994/hetairoi) | **0** |
-| **1984** | [Sudbury Court](../1984/sudbury-court) | **14** |
 | **1993** | [Watton-at-Stone](../1993/watton-at-stone) | **5** |
 | **1992** | [Antilles](../1992/antilles) | **4** |
-| **1991** | [Watton-at-Stone](../1991/watton-at-stone) | **4** |
+| **1991** | [Valley End](../1991/valley-end) | **9** |
+|  | [Watton-at-Stone](../1991/watton-at-stone) | **4** |
 |  | [Reigate Pilgrims](../1991/reigate-pilgrims) | **2** |
 |  | [Stowting](../1991/stowting) | **12**&#42; |
 |  | [Hetairoi](../1991/hetairoi) | **35**&#42; |
@@ -87,9 +86,11 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 | **1986** | [Stowting](../1986/stowting) | **0** |
 |  | [Harrow 3rd XI](../1986/harrow-3rd-xi) | **10** |
 |  | [Watton-at-Stone](../1986/watton-at-stone) | **23** |
+|  | [Godstone](../1986/godstone) | **0** |
 |  | [Brook](../1986/brook) | **15** |
 |  | [White City All Stars](../1986/white-city-all-stars) | **25** |
-| **1985** | [Hendon-Edgware](../1985/hendon-edgware) | **5** |
+| **1985** | [Lobsters](../1985/lobsters) | **0** |
+|  | [Hendon-Edgware](../1985/hendon-edgware) | **5** |
 |  | [Old Elthamians](../1985/old-elthamians) | **0** |
 |  | [Koh-i-Noor](../1985/koh-i-noor) | **17** |
 |  | [Logica](../1985/logica) | **0** |
@@ -99,9 +100,11 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [West Green](../1985/west-green) | **6**&#42; |
 |  | [White City All Stars](../1985/white-city-all-stars) | **0** |
 | **1984** | [Old Elthamians](../1984/old-elthamians) | **6** |
+|  | [Sudbury Court](../1984/sudbury-court) | **14** |
 |  | [Lobsters](../1984/lobsters) | **0** |
 | **1983** | [Bathurst Arms](../1983/bathurst-arms) | **1** |
 | **1982** | [Lobsters](../1982/lobsters) | **0** |
+|  | [J Stimpfigs XI](../1982/j-stimfigs-xi) | **4** |
 |  | [Bristol Grammar School](../1982/bristol-grammar-school) | **5** |
 |  | [Another Man's Meat](../1982/another-mans-meat) | **13** |
 |  | [Clifton Hill House](../1982/clifton-hill-house) | **2**&#42; |
@@ -116,11 +119,10 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 40 | 134.5 | 10 | 573 | 32 | 17.91 | 25.28 |
+| 41 | 139.5 | 11 | 591 | 32 | 18.47 | 26.22 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
-| **1986** | [Godstone](../1986/godstone) | 4 | 0 | 32 | 1 |
 | **2004** | [Britwell Salome](../2004/britwell-salome) | 1 | 0 | 9 | 0 |
 | **1999** | [Players and Jesters](../1999/players-and-jesters) | 0.5 | 0 | 11 | 0 |
 | **1996** | [Kilmington and Stourton](../1996/kilmington-and-stourton) | 4 | 0 | 18 | 1 |
@@ -143,8 +145,10 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Horningsham](../1987/horningsham) | 6 | 0 | 32 | 4 |
 |  | [The Crocodiles](../1987/the-crocodiles) | 3 | 1 | 6 | 0 |
 | **1986** | [Logica](../1986/logica) | 6 | 0 | 19 | 1 |
+|  | [Godstone](../1986/godstone) | 4 | 0 | 32 | 1 |
 |  | [White City All Stars](../1986/white-city-all-stars) | 3 | 0 | 18 | 0 |
-| **1985** | [Hendon-Edgware](../1985/hendon-edgware) | 3 | 0 | 8 | 0 |
+| **1985** | [Lobsters](../1985/lobsters) | 5 | 1 | 18 | 0 |
+|  | [Hendon-Edgware](../1985/hendon-edgware) | 3 | 0 | 8 | 0 |
 |  | [Old Wilsonians](../1985/old-wilsonians) | 4 | 0 | 18 | 0 |
 |  | [Koh-i-Noor](../1985/koh-i-noor) | 5 | 1 | 10 | 0 |
 |  | [Logica](../1985/logica) | 7 | 0 | 19 | 2 |

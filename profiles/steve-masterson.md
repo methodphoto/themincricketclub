@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Ockley 1996](../1996/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 15 | 15 | 4 | 72 | 6.55 |
+| 27 | 16 | 4 | 85 | 7.08 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -28,6 +28,7 @@ Debut: [Ockley 1996](../1996/ockley)
 | **2012** | [Stoke D'Abernon](../2012/stoke-dabernon) | **12** |
 | **2004** | [Iver Heath](../2004/iver-heath) | **21** |
 |  | [Britwell Salome](../2004/britwell-salome) | **3** |
+| **2001** | [ACME](../2001/acme) | **13** |
 | **2000** | [Stowting](../2000/stowting) | **2**&#42; |
 | **1998** | [Hetairoi](../1998/hetairoi) | **4** |
 |  | [Copdock & Old Ipswichian CC](../1998/copdock) | **1** |

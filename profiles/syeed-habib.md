@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [ELCCC 2009](../2009/elccc)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 5 | 5 | 1 | 204 | 51.00 |
+| 11 | 10 | 2 | 315 | 39.38 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -29,6 +29,11 @@ Debut: [ELCCC 2009](../2009/elccc)
 | **2015** | [Brasted Invicta](../2015/brasted-invicta) | **25**&#42; |
 |  | [Stowting](../2015/stowting) | **57** |
 |  | [Newington](../2015/newington) | **23** |
+|  | [Nightwatchman](../2015/nightwatchman) | **13** |
+| **2012** | [ELCCC](../2012/elccc) | **11** |
+| **2010** | [ELCCC](../2010/elccc) | **33** |
+| **2009** | [ELCCC](../2009/elccc) | **49**&#42; |
+| **2003** | [Spencer](../2003/spencer) | **5** |
 
 
 **Highest Score**: 91 v [Frensham](../2016/frensham)<br />
@@ -40,7 +45,7 @@ Debut: [ELCCC 2009](../2009/elccc)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 9 | 50 | 8 | 149 | 5 | 29.80 | 60.00 |
+| 9 | 50 | 8 | 149 | 5 | 29.8 | 60.0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

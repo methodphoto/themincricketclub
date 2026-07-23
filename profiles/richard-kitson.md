@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-02-09 07:58
+Last Updated: 2026-07-23
 
 <details open markdown="block">
 1. TOC
@@ -74,7 +74,7 @@ Debut: [Ockley 2000](../2000/ockley)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 4 | 23 | 2 | 85 | 4 | 21.25 | 34.50 |
+| 4 | 23 | 2 | 85 | 4 | 21.25 | 34.5 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|

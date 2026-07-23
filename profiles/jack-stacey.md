@@ -30,7 +30,7 @@ Last Updated: 2026-07-23
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 18 | 18 | 3 | 371 | 24.73 |
+| 19 | 18 | 3 | 371 | 24.73 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -56,7 +56,7 @@ Last Updated: 2026-07-23
 
 ## Bowling
 
-**Best Bowling:** 2-0-13-1 v [Frensham](../2024/frensham)<br />
+**Best Bowling:** 4-0-43-2 v [Blagdon Hill](../2026/blagdon-hill)<br />
 
 **Athletics:** 0<br />
 

@@ -86,7 +86,7 @@ M Griffiths 1st 100 and highest score for The Min.<br>
 |---|:---|:---|:---|:---|
 | **P Wigg** | 7 | 2 | 16 | 1 |
 | **J Casey** | 7 | 1 | 25 | 1 |
-| **C Wright** | 7 | 0 | 56 | 2 |
+| **C Wright** | 7 | 0 | 56 | 1 |
 | **R Beswick** | 7 | 0 | 41 | 2 |
 | **M Griffiths** | 3 | 0 | 18 | 2 |
 | **B Boyd-Tailor** | 2 | 0 | 3 | 0 |

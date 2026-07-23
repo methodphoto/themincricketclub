@@ -21,13 +21,14 @@ Debut: [Ockley 1991](../1991/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 63 | 63 | 14 | 338 | 6.90 |
+| 74 | 64 | 15 | 340 | 6.94 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
 | **2023** | [Newington](../2023/newington) | **12** |
 | **2017** | [Newington](../2017/newington) | **1** |
 | **2015** | [BGS Bedouins](../2015/bgs-bedouins) | **0** |
+|  | [Newdigate](../2015/newdigate) | **2**&#42; |
 |  | [Newington](../2015/newington) | **8**&#42; |
 | **2014** | [Exford](../2014/exford) | **12** |
 |  | [Broadway and Horton](../2014/broadway-and-horton) | **5** |
@@ -40,6 +41,7 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Stowting](../2010/stowting) | **1** |
 |  | [Newdigate](../2010/newdigate) | **0** |
 | **2009** | [SB Exiles](../2009/sb-exiles) | **9** |
+|  | [Ockley](../2009/ockley) | **0** |
 | **2008** | [Harrow St Mary's](../2008/harrow-st-marys) | **2** |
 |  | [Old Min Young Min](../2008/old-min-young-min) | **5** |
 |  | [Horningsham](../2008/horningsham) | **3**&#42; |
@@ -87,7 +89,6 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Old Colfeians](../2003/old-colfeians) | **1** |
 | **2002** | [North Holmwood](../2002/north-holmwood) | **0** |
 |  | [Players and Jesters](../2002/players-and-jesters) | **1** |
-| **2009** | [Ockley](../2009/ockley) | **0** |
 
 
 **Highest Score**: 42 v [Horningsham](../2005/horningsham)<br />
@@ -99,7 +100,7 @@ Debut: [Ockley 1991](../1991/ockley)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 3 | 7 | 0 | 44 | 0 | - | - |
+| 3 | 7 | 0 | 44 | 0 | 0 | 0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -108,7 +109,7 @@ Debut: [Ockley 1991](../1991/ockley)
 | **2002** | [Players and Jesters](../2002/players-and-jesters) | 3 | 0 | 18 | 0 |
 
 
-**Best Bowling:**  v <br />
+**Best Bowling:** 2-0-5-0 v [Broadway and Horton](../2010/broadway-and-horton)<br />
 **Athletics:** 0<br />
 **Michelles:** 0
 

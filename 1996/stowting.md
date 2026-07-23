@@ -23,7 +23,7 @@ parent: 1996 Fixtures
 | **R Beswick** | c | A Hambi | 8 |
 | **A Gordon** | b | A Cozen | 7 |
 | **S Masterson** | not out |  | 0 |
-| **J Stimfig** | dnb |  |  |
+| **J Stimpfig** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **M Wright** | dnb |  |  |
 |  |  |  |  |
