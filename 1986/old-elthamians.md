@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Elthamians
+homeTeam: Old Elthamians
+awayTeam: The Min
 game: Old Elthamians v The Min
 location: Foxbury
 date: 18/05/1986
@@ -14,7 +16,7 @@ parent: 1986 Fixtures
 
 J Grant's 3rd 50, T Purves's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ J Grant's 3rd 50, T Purves's 1st 50
 | **A Gallagher** | 1 | 0 | 5 | 0 |
 | **W Calvert** | 1 | 0 | 10 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

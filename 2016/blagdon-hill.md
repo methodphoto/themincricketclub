@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Blagdon Hill
+homeTeam: Blagdon Hill
+awayTeam: The Min
 game: Blagdon Hill v The Min
 location: Sellick's Green
 date: 07/07/2016
@@ -14,7 +16,7 @@ parent: 2016 Fixtures
 
 S Barrowcliff's 16th 50 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ S Barrowcliff's 16th 50
 | **C Wright** | 6 | 0 | 63 | 1 |
 | **E Garland** | 4 | 0 | 25 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Old Red Lion, Betchworth
 date: 11/09/2022
@@ -14,7 +16,7 @@ parent: 2022 Fixtures
 
 J Grant fielded, keeping wicket. R Earney batted
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ J Grant fielded, keeping wicket. R Earney batted
 | **L Horden** | 4.5 | 0 | 21 | 3 |
 | **V Dundigalla** | 1 | 1 | 0 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

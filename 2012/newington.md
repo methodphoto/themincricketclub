@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newington
+homeTeam: The Min
+awayTeam: Newington
 game: The Min v Newington
 location: Solefields
 date: 20/05/2012
@@ -15,7 +17,7 @@ parent: 2012 Fixtures
 R Earney's 43rd 50.<br />
 [Partnership](../records/partnerships) of 108 between R Earney and T Rutherford
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Earney's 43rd 50.<br />
 | **P Wigg** | 5 | 2 | 6 | 1 |
 | **H Ingham** | 4.4 | 0 | 10 | 1 |
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Grimsdyke CC
+homeTeam: Grimsdyke CC
+awayTeam: The Min
 game: Grimsdyke CC v The Min
 location: Mill Hill School
 date: 08/07/2007
@@ -14,7 +16,7 @@ parent: 2007 Fixtures
 
 P Wigg's first 50 and highest score
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ P Wigg's first 50 and highest score
 | **N Dobinson** | 8 | 1 | 37 | 2 |
 | **K Malling** | 4 | 0 | 28 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

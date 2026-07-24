@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ockley
+homeTeam: Ockley
+awayTeam: The Min
 game: Ockley v The Min
 location: Ockley Green
 date: 14/05/2000
@@ -13,7 +15,7 @@ parent: 2000 Fixtures
 {% include matchDetails %}
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2000 Fixtures
 | **L Figg** | 7 | 0 | 32 | 1 |
 | **D Mansel** | 7 | 0 | 32 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ealing Commoners
+homeTeam: Ealing Commoners
+awayTeam: The Min
 game: Ealing Commoners v The Min
 location: Ealing
 date: 13/05/1984
@@ -12,7 +14,7 @@ parent: 1984 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1984 Fixtures
 | **Astley** | 8 | 0 | 25 | 1 |
 | **Smith** | 6 | 2 | 24 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

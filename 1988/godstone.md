@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Godstone
+homeTeam: Godstone
+awayTeam: The Min
 game: Godstone v The Min
 location: Godstone
 date: 21/05/1988
@@ -12,7 +14,7 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
-## Godstone Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1988 Fixtures
 | **J Wright** | 13 | 2 | 37 | 2 |
 | **R Scotts** | 4 | 0 | 16 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

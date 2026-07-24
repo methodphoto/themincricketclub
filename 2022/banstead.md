@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Banstead
+homeTeam: Banstead
+awayTeam: The Min
 game: Banstead v The Min
 location: Banstead CC
 date: 28/08/2022
@@ -12,7 +14,7 @@ parent: 2022 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2022 Fixtures
 | **L Horden** | 8 | 0 | 50 | 0 |
 | **R Earney** | 5 | 0 | 32 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

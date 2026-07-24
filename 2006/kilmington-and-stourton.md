@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kilmington and Stourton
+homeTeam: Kilmington and Stourton
+awayTeam: The Min
 game: Kilmington and Stourton v The Min
 location: Stourhead
 date: 14/07/2006
@@ -12,7 +14,7 @@ parent: 2006 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 2006 Fixtures
 | **H Ingham** | 8 | 1 | 28 | 3 |
 | **I Marshall** | 8 | 1 | 62 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

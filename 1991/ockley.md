@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ockley
+homeTeam: Ockley
+awayTeam: The Min
 game: Ockley v The Min
 location: Ockley Green
 date: 12/05/1991
@@ -12,7 +14,7 @@ parent: 1991 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1991 Fixtures
 | **Mungavin** | 2 | 0 | 22 | 0 |
 | **D Swann** | 6 | 1 | 23 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

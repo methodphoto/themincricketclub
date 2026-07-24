@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Woking and Horsell
+homeTeam: Woking and Horsell
+awayTeam: The Min
 game: Woking and Horsell v The Min
 location: Woking and Horsell CC
 date: 13/06/1999
@@ -14,7 +16,7 @@ parent: 1999 Fixtures
 
 M Petre highest score for The Min
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ M Petre highest score for The Min
 | **A Ahmed** | 2 | 0 | 25 | 0 |
 | **C Dunbar** | 4 | 0 | 16 | 1 |
 
-## Woking and Horsell Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

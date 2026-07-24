@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Valley End
+homeTeam: Valley End
+awayTeam: The Min
 game: Valley End v The Min
 location: Valley End
 date: 05/07/1987
@@ -12,7 +14,7 @@ parent: 1987 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1987 Fixtures
 | **A Gallagher** | 5 | 0 | 23 | 3 |
 | **M Gardiner** | 2 | 0 | 4 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

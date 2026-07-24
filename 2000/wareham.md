@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Wareham
+homeTeam: Wareham
+awayTeam: The Min
 game: Wareham v The Min
 location: Wareham
 date: 20/07/2000
@@ -14,7 +16,7 @@ parent: 2000 Fixtures
 
 S Hornsby, 3rd century, highest score for the Min and club record. [Partnership](../records/partnerships) of 144 between R Beswick and S Hornsby
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ S Hornsby, 3rd century, highest score for the Min and club record. [Partnership]
 | **Thomas** | 6 | 0 | 29 | 2 |
 | **Smith** | 0.5 | 0 | 1 | 0 |
 
-## Wareham Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

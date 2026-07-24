@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hetairoi
+homeTeam: Hetairoi
+awayTeam: The Min
 game: Hetairoi v The Min
 location: Cranleigh School
 date: 20/08/1989
@@ -12,7 +14,7 @@ parent: 1989 Fixtures
 
 {% include matchDetails %}
 
-## Hetairoi Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1989 Fixtures
 | **W Calvert** | 5 | 0 | 33 | 1 |
 | **E Garland** | 4 | 0 | 30 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

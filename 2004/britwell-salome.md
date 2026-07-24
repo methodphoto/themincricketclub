@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Britwell Salome
+homeTeam: Britwell Salome
+awayTeam: The Min
 game: Britwell Salome v The Min
 location: Britwell Salome
 date: 24/04/2004
@@ -14,7 +16,7 @@ parent: 2004 Fixtures
 
 S Barrowcliff's 12th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ S Barrowcliff's 12th 50
 | **J Greenhart** | 2 | 1 | 4 | 0 |
 | **B Bilson** | 1.3 | 0 | 4 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 31/05/1998
@@ -12,7 +14,7 @@ parent: 1998 Fixtures
 
 {% include matchDetails %}
 
-## Stowting Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1998 Fixtures
 | **I Marshall** | 8 | 0 | 32 | 0 |
 | **R Earney** | 3 | 1 | 14 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

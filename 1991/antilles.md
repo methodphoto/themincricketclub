@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Antilles
+homeTeam: Antilles
+awayTeam: The Min
 game: Antilles v The Min
 location: Canon's Park
 date: 30/06/1991
@@ -12,7 +14,7 @@ parent: 1991 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1991 Fixtures
 | **S Collins** | 5 | 0 | 23 | 4 |
 | **H Cadogan** | 4 | 0 | 8 | 3 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

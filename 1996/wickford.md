@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Wickford
+homeTeam: Wickford
+awayTeam: The Min
 game: Wickford v The Min
 location: Wickford
 date: 12/05/1996
@@ -14,7 +16,7 @@ parent: 1996 Fixtures
 
 First Tied match in Min history
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ First Tied match in Min history
 | **R Earney** | 4 | 0 | 31 | 1 |
 | **I Marshall** | 2 | 0 | 9 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

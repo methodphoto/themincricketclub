@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 16/09/2012
@@ -12,7 +14,7 @@ parent: 2012 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2012 Fixtures
 | **E Garland** | 5 | 0 | 33 | 1 |
 | **J Wright** | 9.4 | 0 | 28 | 3 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tower of Dudes
+homeTeam: Tower of Dudes
+awayTeam: The Min
 game: Tower of Dudes v The Min
 location: Hampstead Heath Extension
 date: 06/09/2009
@@ -15,7 +17,7 @@ parent: 2009 Fixtures
 R Earney's 38th 50. M Gupta's 6th 50.<br />
 [Partnership](../records/partnerships) of 179&#42; between R Earney and M Gupta
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Earney's 38th 50. M Gupta's 6th 50.<br />
 | **E Garland** | 6 | 1 | 15 | 3 |
 | **A Beswick** | 1 | 0 | 2 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

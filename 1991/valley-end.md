@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Valley End
+homeTeam: Valley End
+awayTeam: The Min
 game: Valley End v The Min
 location: Valley End
 gameDate: 02/06/1991
@@ -12,7 +14,7 @@ parent: 1991 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1991 Fixtures
 | **J Wright** | 6.2 | 5 | 3 | 5 |
 | **W Calvert** | 1 | 0 | 2 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

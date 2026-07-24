@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 21/06/2009
@@ -30,7 +32,7 @@ Controversy continued. Mo entered to face the Badger, now returned, and still se
 
 Alas, one of the great face-offs in Min history was curtailed by Mo tamely offering a caught-and-bowled the next over to Rob Clayton, Watton's evergreen slow left-armer, a bowler who achieves the near-impossible by having an arm even slower and lower than Jel's.  He's been working on a sillier run-up, to no avail.  Mo's wicket was followed by a period of what is often referred to as "consolidation", but is more accurately described as "stagnation as the run-rate gets way from us and the game drifts towards a dull draw".  In the light of this, Jim's dismissal to the second big shooter of the day was a blessing in disguise, as it ushered Shaq to the wicket. With 90 still needed at nearly 7 an over, a win looked unlikely, but Watton had reckoned without Shaq in attack mode. A succession of blistering boundaries, including a brilliant clip off his legs, saw the Min through to a thrilling two-wicket victory with a ball to spare.
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -67,7 +69,7 @@ Alas, one of the great face-offs in Min history was curtailed by Mo tamely offer
 | **R Wilkinson** | 3 | 0 | 26 | 1 |
 | **R Earney** | 2 | 1 | 2 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

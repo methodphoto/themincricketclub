@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Rhinos
+homeTeam: Rhinos
+awayTeam: The Min
 game: Rhinos v The Min
 location: Emmanuel School
 date: 31/05/1987
@@ -14,7 +16,7 @@ parent: 1987 Fixtures
 
 R Beswick's 1st Michelle
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Beswick's 1st Michelle
 | **R Beswick** | 12.3 | 0 | 32 | 5 |
 | **J Wright** | 5 | 1 | 12 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

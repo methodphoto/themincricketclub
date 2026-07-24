@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Wilsonians
+homeTeam: Old Wilsonians
+awayTeam: The Min
 game: Old Wilsonians v The Min
 location: Bramley
 date: 18/08/1985
@@ -12,7 +14,7 @@ parent: 1985 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1985 Fixtures
 | **Barrowclough** | 3.5 | 2 | 9 | 2 |
 | **R Beswick** | 1 | 0 | 2 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

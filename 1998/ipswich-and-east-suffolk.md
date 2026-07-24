@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ipswich and East Suffolk
+homeTeam: Ipswich and East Suffolk
+awayTeam: The Min
 game: Ipswich and East Suffolk v The Min
 location: Chantry Park
 date: 07/08/1998
@@ -12,7 +14,7 @@ parent: 1998 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ parent: 1998 Fixtures
 | **Craig** | 4 | 0 | 34 | 1 |
 | **P Leach** | 2 | 0 | 15 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

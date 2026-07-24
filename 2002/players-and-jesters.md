@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Players and Jesters
+homeTeam: Players and Jesters
+awayTeam: The Min
 game: Players and Jesters v The Min
 location: Rothampstead Park
 date: 19/05/2002
@@ -12,7 +14,7 @@ parent: 2002 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 2002 Fixtures
 | **R Coyle** | 3 | 0 | 18 | 0 |
 | **S Hornsby** | 6 | 0 | 25 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

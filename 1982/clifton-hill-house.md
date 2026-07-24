@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Clifton Hill House
+homeTeam: Clifton Hill House
+awayTeam: The Min
 game: The Min v Clifton Hill House 
 location: Coombe Dingle
 date: 29/04/1982
@@ -14,7 +16,7 @@ parent: 1982 Fixtures
 
 William Calvert - Highest Score. James Booth - First duck. William Calvert - Best Bowling
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ William Calvert - Highest Score. James Booth - First duck. William Calvert - Bes
 | **K Crisp** | 4 | 0 | 22 | 2 |
 | **A Honeyman** | 4 | 0 | 29 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

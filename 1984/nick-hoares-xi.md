@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Nick Hoares XI
+homeTeam: Nick Hoares XI
+awayTeam: The Min
 game: Nick Hoare's XI v The Min
 location: Gravesend
 date: 19/09/1984
@@ -11,7 +13,7 @@ parent: 1984 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -45,7 +47,7 @@ parent: 1984 Fixtures
 | **J Wright** | 5 | 0 | 25 | 0 |
 | **R Beswick** | 4 | 0 | 9 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

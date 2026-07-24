@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Shamrock
+homeTeam: Shamrock
+awayTeam: The Min
 game: Shamrock v The Min
 location: Meridian Cricket Ground
 date: 24/06/1985
@@ -12,7 +14,7 @@ parent: 1985 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1985 Fixtures
 | **Cole** | 4 | 2 | 9 | 2 |
 | **Chase** | 1.5 | 0 | 3 | 4 |
  
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

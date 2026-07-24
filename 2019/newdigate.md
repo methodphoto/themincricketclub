@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newdigate
+homeTeam: Newdigate
+awayTeam: The Min
 game: Newdigate v The Min
 location: The Brocus
 date: 09/06/2019
@@ -12,7 +14,7 @@ parent: 2019 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2019 Fixtures
 | **I Kehl** | 4.2 | 0 | 16 | 5 |
 | **J Bowley** | 4 | 0 | 8 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

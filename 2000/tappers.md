@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tappers
+homeTeam: Tappers
+awayTeam: The Min
 game: Tappers v The Min
 location: Pembroke College, Oxford
 date: 06/08/2000
@@ -14,7 +16,7 @@ parent: 2000 Fixtures
 
 [Partnership](../records/partnerships) of 116 between R Earney and R Beswick
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2000 Fixtures
 | **R Green** | 12 | 2 | 37 | 2 |
 | **R Beswick** | 5.4 | 1 | 18 | 4 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

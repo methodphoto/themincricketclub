@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 21/06/1998
@@ -12,7 +14,7 @@ parent: 1998 Fixtures
 
 {% include matchDetails %}
 
-## Watton-at-Stone Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1998 Fixtures
 | **R Earney** | 12 | 2 | 36 | 4 |
 | **J Wright** | 7 | 2 | 17 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

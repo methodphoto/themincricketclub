@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kilmington and Stourton
+homeTeam: Kilmington and Stourton
+awayTeam: The Min
 game: Kilmington and Stourton v The Min
 location: Stourhead
 date: 10/07/2016
@@ -16,7 +18,7 @@ parent: 2016 Fixtures
 
 R Beswick's 32nd 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ R Beswick's 32nd 50
 | **B Vellacott** | 4 | 0 | 32 | 0 |
 | **T Barton** | 3 | 0 | 18 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

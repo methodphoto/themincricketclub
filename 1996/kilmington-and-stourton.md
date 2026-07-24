@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kilmington and Stourton
+homeTeam: Kilmington and Stourton
+awayTeam: The Min
 game: Kilmington and Stourton v The Min
 location: Stourhead
 date: 27/07/1996
@@ -12,7 +14,7 @@ parent: 1996 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1996 Fixtures
 | **T Snook** | 8 | 0 | 34 | 2 |
 | **J Rowe** | 8 | 1 | 34 | 0 |
 
-## Kilmington and Stourton Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

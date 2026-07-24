@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hetairoi
+homeTeam: Hetairoi
+awayTeam: The Min
 game: Hetairoi v The Min
 location: Cranleigh School
 date: 14/07/12
@@ -14,7 +16,7 @@ parent: 2002 Fixtures
 
 121 run partnership between S Hornsby and R Earney. E Garland's best bowling for The Min.
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2002 Fixtures
 | **K Whitehead** | 11 | 0 | 47 | 0 |
 | **M Siddle** | 9 | 0 | 41 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

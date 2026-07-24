@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Frensham
+homeTeam: Frensham
+awayTeam: The Min
 game: Frensham v The Min
 location: Hollowdene Recreation Ground
 date: 09/06/2013
@@ -17,7 +19,7 @@ R Damaze's 1st hundred and highest score. <br />
 
 ![Ray celebrating his 100](ray-frensham.webp "Ray celebrating his 100")
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ R Damaze's 1st hundred and highest score. <br />
 | **M Elwin** | 2 | 0 | 19 | 0 |
 | **R Beswick** | 2 | 0 | 12 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Middleton Stoney
+homeTeam: Middleton Stoney
+awayTeam: The Min
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 21/04/2019
@@ -14,7 +16,7 @@ parent: 2019 Fixtures
 
 [Match report](http://www.middletonstoneycc.co.uk/club-news/2019/mscc-vs-the-min-2019/)
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 2019 Fixtures
 | **J Wright** | 6 | 0 | 43 | 0 |
 | **R Beswick** | 4.4 | 0 | 39 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

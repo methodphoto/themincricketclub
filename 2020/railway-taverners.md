@@ -2,6 +2,7 @@
 layout: default
 title: Railway Taverners
 homeTeam: Railway Taverners
+awayTeam: The Min
 game: Railway Taverners v The Min
 location: Low Hall Sports Ground
 date: 02/08/2020
@@ -15,8 +16,7 @@ parent: 2020 Fixtures
 
 P Wigg's 3rd 50
 
-## The Min Innings
-
+## {{page.awayTeam}} Innings
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick** | b | D Geensen | 4 |
@@ -52,10 +52,7 @@ P Wigg's 3rd 50
 | **G Powles** | 6 | 0 | 43 | 2 |
 | **G Katakos** | 1 | 0 | 6 | 0 |
 
- ## {{page.homeTeam}} Innings
-## {{page.title}} Innings
-
-
+## {{page.homeTeam}} Innings
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **D Ewer** | c K Unsanga | M Carlton | 1 |

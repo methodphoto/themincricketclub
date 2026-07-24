@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Britwell Salome
+homeTeam: Britwell Salome
+awayTeam: The Min
 game: Britwell Salome v The Min
 location: Britwell Salome CC
 date: 24/04/2011
@@ -15,7 +17,7 @@ parent: 2010 Fixtures
 R Earney's 42nd 50. S Barrowcliff's 15th 50.<br />
 [Partnership](../records/partnerships) of 113 between R Earney and S Barrowcliff.
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Earney's 42nd 50. S Barrowcliff's 15th 50.<br />
 | **R Earney** | 6 | 3 | 17 | 1 |
 | **D Wigg** | 2 | 0 | 7 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 11/09/2011
@@ -12,7 +14,7 @@ parent: 2011 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2011 Fixtures
 | **D Baty** | 6 | 0 | 22 | 0 |
 | **S Burgess** | 1 | 0 | 7 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

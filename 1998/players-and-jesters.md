@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Players and Jesters
+homeTeam: Players and Jesters
+awayTeam: The Min
 game: Players and Jesters v The Min
 location: Rothamsted Park
 date: 17/05/1998
@@ -14,7 +16,7 @@ parent: 1998 Fixtures
 
 R Beswick retired hurt with the score on 100
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Beswick retired hurt with the score on 100
 | **Bussell** | 11 | 3 | 44 | 0 |
 | **Taylor** | 5 | 0 | 48 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newington
+homeTeam: Newington
+awayTeam: The Min
 game: Newington v The Min
 location: Bobbing Court
 date: 19/05/2019
@@ -14,7 +16,7 @@ parent: 2019 Fixtures
 
 J Stacey's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ J Stacey's 1st 50
 | **A Gallagher** | 5 | 0 | 34 | 0 |
 | **J Nisse** | 5 | 0 | 33 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

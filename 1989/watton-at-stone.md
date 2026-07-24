@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 24/09/1989
@@ -12,7 +14,7 @@ parent: 1989 Fixtures
 
 {% include matchDetails %}
 
-## Watton-at-Stone Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1989 Fixtures
 | **R Beswick** | 9 | 2 | 11 | 3 |
 | **E Garland* | 3 | 0 | 23 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

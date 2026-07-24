@@ -1,6 +1,8 @@
 ---
 layout: default
 title: The Crocodiles
+homeTeam: The Crocodiles
+awayTeam: The Min
 game: The Crocodiles v The Min
 location: Westerham
 date: 07/07/1991
@@ -12,7 +14,7 @@ parent: 1991 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1991 Fixtures
 | **Anderson** | 8 | 0 | 36 | 1 |
 | **Cooper** | 7 | 0 | 52 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

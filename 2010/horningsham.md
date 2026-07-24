@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Horningsham
+homeTeam: Horningsham
+awayTeam: The Min
 game: Horningsham v The Min
 location: Mere CC
 date: 10/07/2010
@@ -12,7 +14,7 @@ parent: 2010 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2010 Fixtures
 | **C O'Connor** | 4.5 | 0 | 15 | 1 |
 | **T Oborne** | 4 | 1 | 19 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

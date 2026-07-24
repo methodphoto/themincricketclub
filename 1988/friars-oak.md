@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Friar's Oak
+homeTeam: Friar's Oak
+awayTeam: The Min
 game: Friar's Oak v The Min
 location: Friar's Oak
 date: 30/07/1988
@@ -12,7 +14,7 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1988 Fixtures
 | **Smeed** | 5 | 0 | 31 | 0 |
 | **Clark** | 1.4 | 1 | 0 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

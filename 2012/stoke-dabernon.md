@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stoke D'Abernon
+homeTeam: Stoke D'Abernon
+awayTeam: The Min
 game: Stoke D'Abernon v The Min
 location: Stoke D'Abernon Recreation Ground
 date: 30/09/2012
@@ -11,7 +13,7 @@ parent: 2012 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2012 Fixtures
 | **D Brookfield** | 3 | 0 | 14 | 0 |
 | **M Gupta** | 3 | 1 | 5 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

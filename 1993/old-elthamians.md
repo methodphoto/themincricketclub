@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Elthamians
+homeTeam: Old Elthamians
+awayTeam: The Min
 game: Old Elthamians v The Min
 location: Foxbury
 date: 04/07/1993
@@ -15,7 +17,7 @@ parent: 1993 Fixtures
 S Barrowcliff first Min century.<br />
 [Partnership](../records/partnerships) of 135 between S Barrowcliff and W Wright
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ S Barrowcliff first Min century.<br />
 | **A Sylvester** | 7 | 0 | 55 | 1 |
 | **J Wright** | 8 | 0 | 50 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

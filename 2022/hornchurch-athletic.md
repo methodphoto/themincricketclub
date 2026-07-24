@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hornchurch Athletic
+homeTeam: Hornchurch Athletic
+awayTeam: The Min
 game: Hornchurch Athletic v The Min
 location: Hylands Park
 date: 18/09/2022
@@ -11,7 +13,7 @@ parent: 2022 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 2022 Fixtures
 | **R Beswick** | 4 | 1 | 15 | 0 |
 | **R Earney** | 4 | 0 | 25 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

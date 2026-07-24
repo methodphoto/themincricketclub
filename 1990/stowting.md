@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 02/09/1990
@@ -12,7 +14,7 @@ parent: 1990 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1990 Fixtures
 | **R Cozens** | 11 | 0 | 54 | 2 |
 | **P Lilley** | 8 | 0 | 54 | 0 |
 
-## Stowting Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

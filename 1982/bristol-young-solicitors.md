@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Bristol Young Solicitors 
+homeTeam: Bristol Young Solicitors
+awayTeam: The Min
 game: The Min v Bristol Young Solicitors
 location: Coombe Dingle
 date: 14/06/1982
@@ -12,7 +14,7 @@ parent: 1982 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ parent: 1982 Fixtures
 | **A Gallagher** | 1 | 0 | 4 | 0 |
 | **R Beswick** | 1 | 0 | 11 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

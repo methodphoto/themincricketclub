@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Elthamians
+homeTeam: Old Elthamians
+awayTeam: The Min
 game: Old Elthamians v The Min
 location: Foxbury
 date: 15/05/1988
@@ -12,7 +14,7 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1988 Fixtures
 | **A Gallagher** | 4 | 0 | 24 | 1 |
 | **W Calvert** | 4.3 | 0 | 17 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

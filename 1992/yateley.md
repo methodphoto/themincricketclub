@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Yateley
+homeTeam: Yateley
+awayTeam: The Min
 game: Yateley v The Min
 location: Bramshall Police College
 date: 21/06/1992
@@ -14,7 +16,7 @@ parent: 1992 Fixtures
 
 R Earney's 1st 50. R Beswick's 3rd 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Earney's 1st 50. R Beswick's 3rd 50
 | **Comer** | 9 | 1 | 41 | 3 |
 | **Atkins** | 2 | 0 | 19 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Bristol 4th XI
+homeTeam: Bristol 4th XI
+awayTeam: The Min
 game: Bristol CC v The Min
 location: Bristol Grammar School
 date: 09/07/2016
@@ -12,7 +14,7 @@ parent: 2016 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 2016 Fixtures
 | **7** | 2 | 0 | 11 | 1 |
 | **8** | 2 | 0 | 14 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

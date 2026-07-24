@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 04/06/2000
@@ -13,7 +15,7 @@ parent: 2000 Fixtures
 {% include matchDetails %}
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2000 Fixtures
 | **A Crush** | 7 | 1 | 15 | 4 |
 | **M Cox** | 3.3 | 0 | 16 | 2 |
 
-## Stowting Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

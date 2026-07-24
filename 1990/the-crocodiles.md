@@ -1,6 +1,8 @@
 ---
 layout: default
 title: The Crocodiles
+homeTeam: The Crocodiles
+awayTeam: The Min
 game: The Crocodiles v The Min
 location: Emmanuel School
 date: 22/07/1990
@@ -12,7 +14,7 @@ parent: 1990 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1990 Fixtures
 | **R Earney** | 4 | 0 | 29 | 1 |
 | **R Beswick** | 5 | 1 | 17 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

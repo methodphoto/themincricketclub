@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newington
+homeTeam: Newington
+awayTeam: The Min
 game: Newington v The Min
 location: Bobbing Court
 date: 20/05/2018
@@ -12,7 +14,7 @@ parent: 2018 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,8 +50,7 @@ parent: 2018 Fixtures
 | **P Settu** | 7 | 1 | 34 | 2 |
 | **C Carter** | 6 | 1 | 22 | 3 |
 
- ## {{page.title}} Innings
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 
 | Batsman | Dismissal |  | Runs |

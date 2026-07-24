@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hendon-Edgware
+homeTeam: Hendon-Edgware
+awayTeam: The Min
 game: Hendon-Edgware v The Min
 location: Mill Hill Park
 date: 15/09/1985
@@ -13,7 +15,7 @@ parent: 1985 Fixtures
 
 T Purves's 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ T Purves's
 | **T Purves** | 14 | 0 | 59 | 5 |
 | **A Gallagher** | 2 | 0 | 16 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

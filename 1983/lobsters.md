@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Lobsters
+homeTeam: Lobsters
+awayTeam: The Min
 game: Lobsters v The Min
 location: New Field, Clifton School
 date: 09/06/1983
@@ -12,7 +14,7 @@ parent: 1983 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ parent: 1983 Fixtures
 | **Milligan** | 1 | 0 | 6 | 0 |
 | **Cottrell** | 2 | 0 | 14| 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

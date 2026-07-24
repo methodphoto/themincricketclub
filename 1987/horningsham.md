@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Horningsham
+homeTeam: Horningsham
+awayTeam: The Min
 game: Horningsham v The Min
 location: Horningsham
 date: 20/06/1987
@@ -12,7 +14,7 @@ parent: 1987 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1987 Fixtures
 | **T Purves** | 10 | 0 | 56 | 4 |
 | **M Gardiner** | 6 | 0 | 32 | 4 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ockley
+homeTeam: Ockley
+awayTeam: The Min
 game: Ockley v The Min
 location: Ockley Green
 date: 09/05/1999
@@ -12,7 +14,7 @@ parent: 1999 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1999 Fixtures
 | **R Earney** | 12 | 2 | 51 | 2 |
 | **W Calvert** | 5 | 1 | 13 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

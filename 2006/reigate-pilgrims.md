@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 17/09/2006
@@ -12,7 +14,7 @@ parent: 2006 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 2006 Fixtures
 | **E Garland** | 8 | 0 | 36 | 1 |
 | **R Green** | 7 | 0 | 35 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

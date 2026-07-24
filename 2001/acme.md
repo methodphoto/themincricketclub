@@ -1,6 +1,8 @@
 ---
 layout: default
 title: ACME
+homeTeam: ACME
+awayTeam: The Min
 game: The Min v ACME
 location: Stourhead
 date: 14/07/2001
@@ -12,7 +14,7 @@ parent: 2001 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2001 Fixtures
 | **J Wright** | 7 | 0 | 38 | 1 |
 | **R Earney** | 5 | 0 | 20 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

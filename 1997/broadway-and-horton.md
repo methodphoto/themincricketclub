@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 25/07/1997
@@ -12,7 +14,7 @@ parent: 1997 Fixtures
 
 {% include matchDetails %}
 
-## Broadway and Horton Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1997 Fixtures
 | **R Earney** | 6 | 0 | 31 | 1 |
 | **W Calvert** | 2.5 | 0 | 4 | 4 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

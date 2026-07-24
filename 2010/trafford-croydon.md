@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Trafford Croydon
+homeTeam: The Min
+awayTeam: Trafford Croydon
 game: The Min v Trafford Croydon
 location: Solefields
 date: 16/05/2010
@@ -12,7 +14,7 @@ parent: 2010 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 2010 Fixtures
 | **T Carden** | 4 | 0 | 18 | 0 |
 
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newington
+homeTeam: Newington
+awayTeam: The Min
 game: Newington v The Min
 location: Bobbing Court
 date: 24/05/2021
@@ -14,7 +16,7 @@ parent: 2021 Fixtures
 
 Jim Carroll, 1st 50 and highest score for The Min
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ Jim Carroll, 1st 50 and highest score for The Min
 | **L Horden** | 4.4 | 0 | 14 | 1 |
 | **J Casey** | 3 | 2 | 6 | 4 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

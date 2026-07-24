@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 06/07/2008
@@ -14,7 +16,7 @@ parent: 2008 Fixtures
 
 R Earney's 35th 50. T Rutherford's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Earney's 35th 50. T Rutherford's 1st 50
 | **G Powell** | 7 | 1 | 30 | 1 |
 | **E Garland** | 2 | 0 | 10 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

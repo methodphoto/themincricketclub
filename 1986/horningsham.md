@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Horningsham
+homeTeam: Horningsham
+awayTeam: The Min
 game: Horningsham v The Min
 location: Horningsham
 date: 21/06/1986
@@ -14,7 +16,7 @@ parent: 1986 Fixtures
 
 S Watson's 1st 50. T Purves's 3rd 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ S Watson's 1st 50. T Purves's 3rd 50
 | **K Dix** | 6 | 0 | 39 | 0 |
 | **S Crossman** | 5 | 0 | 31 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

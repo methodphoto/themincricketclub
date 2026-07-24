@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 11/07/2013
@@ -17,7 +19,7 @@ parent: 2013 Fixtures
 <img src="broadway-trophy-2013.jpg" width="100%" alt="Trophy Presentation" />
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ parent: 2013 Fixtures
 | **D Lowman** | 5 | 0 | 33 | 1 |
 | **G Field** | 3 | 0 | 22 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

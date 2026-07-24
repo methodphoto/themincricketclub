@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Blindley Heath
+homeTeam: Blindley Heath
+awayTeam: The Min
 game: Blindley Heath v The Min
 location: Blindley Heath
 date: 09/07/1989
@@ -14,7 +16,7 @@ parent: 1989 Fixtures
 
 I Marshall hattrick off the last 3 balls of the game
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ I Marshall hattrick off the last 3 balls of the game
 | **V Jones** | 8 | 0 | 45 | 1 |
 | **R Edwards** | 2 | 0 | 11 | 0 |
 
-## Blindley Heath Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

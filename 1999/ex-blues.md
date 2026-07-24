@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ex-Blues
+homeTeam: Ex-Blues
+awayTeam: The Min
 game: Ex-Blues v The Min
 location: West Wickham
 date: 01/08/1999
@@ -13,7 +15,7 @@ parent: 1999 Fixtures
 {% include matchDetails %}
 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1999 Fixtures
 | **S Hornsby** | 2 | 0 | 11 | 0 |
 | **E Garland** | 2 | 0 | 17 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

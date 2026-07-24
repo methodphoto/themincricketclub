@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newington
+homeTeam: Newington
+awayTeam: The Min
 game: Newington v The Min
 location: Bobbing Court
 date: 17/05/2015
@@ -14,7 +16,7 @@ parent: 2015 Fixtures
 
 R Earney's 46th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Earney's 46th 50
 | **S James** | 7 | 0 | 22 | 1 |
 | **J Shersby** | 5 | 2 | 13 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

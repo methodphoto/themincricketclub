@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Great Braxted
+homeTeam: Great Braxted
+awayTeam: The Min
 game: Great Braxted v The Min
 location: Great Braxted
 date: 13/07/1997
@@ -12,7 +14,7 @@ parent: 1997 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1997 Fixtures
 | **E Garland** | 2 | 0 | 16 | 0 |
 | **P Grant** | 2 | 0 | 9 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

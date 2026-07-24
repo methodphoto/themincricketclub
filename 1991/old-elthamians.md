@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Elthamians
+homeTeam: Old Elthamians
+awayTeam: The Min
 game: Old Elthamians v The Min
 location: Foxbury
 date: 19/05/1991
@@ -12,7 +14,7 @@ parent: 1991 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1991 Fixtures
 | **A MacFarlane** | 10 | 3 | 21 | 3 |
 | **A Sylvester** | 7.1 | 2 | 19 | 4 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

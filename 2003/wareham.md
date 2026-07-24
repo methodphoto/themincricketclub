@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Wareham
+homeTeam: Wareham
+awayTeam: The Min
 game: Wareham v The Min
 location: Bovington Camp
 date: 10/07/2003
@@ -12,7 +14,7 @@ parent: 2003 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2003 Fixtures
 | **R Earney** | 5 | 0 | 55 | 1 |
 | **R Beswick** | 2 | 0 | 12 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

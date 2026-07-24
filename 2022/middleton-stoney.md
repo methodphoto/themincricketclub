@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Middleton Stoney
+homeTeam: Middleton Stoney
+awayTeam: The Min
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 24/04/2022
@@ -16,7 +18,7 @@ parent: 2022 Fixtures
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/899181831?h=3c62e62b85" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ parent: 2022 Fixtures
 | **I Miah** | 10 | 0 | 56 | 1 |
 | **J Carroll** | 2 | 0 | 13 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

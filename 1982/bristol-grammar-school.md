@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Bristol Grammar School
+homeTeam: Bristol Grammar School
+awayTeam: The Min
 game: Bristol Grammar School II XI v The Min
 location: Failand Road
 date: 13/05/1982
@@ -14,7 +16,7 @@ parent: 1982 Fixtures
 
 P Newcomb's 1st 50
  
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ P Newcomb's 1st 50
 | **T Hyatt** | 5 | 0 | 32 | 1 |
 | **T Cooper** | 5.1 | 0 | 24 | 3 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

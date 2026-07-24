@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 17/09/2017
@@ -14,7 +16,7 @@ parent: 2017 Fixtures
 
 R Kitson's 4th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ R Kitson's 4th 50
 | **V Kuttikara** | 4 | 0 | 27 | 1 |
 | **W Hodgeson** | 3 | 2 | 1 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

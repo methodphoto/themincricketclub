@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Middleton Stoney
+homeTeam: Middleton Stoney
+awayTeam: The Min
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 21/04/2013
@@ -12,7 +14,7 @@ parent: 2013 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2013 Fixtures
 | **R Beswick** | 1 | 0 | 10 | 0 |
 | **E Garland** | 9 | 0 | 40 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

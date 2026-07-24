@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ockley
+homeTeam: Ockley
+awayTeam: The Min
 game: Ockley v The Min
 location: Ockley Green
 date: 14/05/1995
@@ -14,7 +16,7 @@ parent: 1995 Fixtures
 
 R Earney highest score and first hundred for the Min.<br />Partnership of 154 between R Earney and S Barrowcliff
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Earney highest score and first hundred for the Min.<br />Partnership of 154 be
 | **R Beswick** | 10 | 2 | 41 | 1 |
 | **J Wright** | 1 | 0 | 4 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

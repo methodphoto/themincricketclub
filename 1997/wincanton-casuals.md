@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Wincanton Casuals
+homeTeam: Wincanton Casuals
+awayTeam: The Min
 game: Wincanton Casuals v The Min
 location: Wincanton
 date: 24/07/1997
@@ -12,7 +14,7 @@ parent: 1997 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1997 Fixtures
 | **Rendell** | 4 | 0 | 28 | 2 |
 | **Knight** | 4 | 0 | 33 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

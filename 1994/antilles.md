@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Antilles
+homeTeam: Antilles
+awayTeam: The Min
 game: Antilles v The Min
 location: Canon's Park
 date: 05/06/1994
@@ -12,7 +14,7 @@ parent: 1994 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1994 Fixtures
 | **E Garland** | 7 | 0 | 38 | 2 |
 | **W Calvert** | 2 | 0 | 31 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

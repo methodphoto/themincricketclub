@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Barrow-boys
+homeTeam: Barrow-boys
+awayTeam: The Min
 game: Barrow-boys v The Min
 location: Littlebredy
 date: 05/08/1989
@@ -12,7 +14,7 @@ parent: 1989 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1989 Fixtures
 | **Hyde** | 10 | 0 | 46 | 2 |
 | **S Hornsby** | 7 | 0 | 33 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tappers
+homeTeam: Tappers
+awayTeam: The Min
 game: Tappers v The Min
 location: Wadham College, Oxford
 date: 07/07/1996
@@ -12,7 +14,7 @@ parent: 1996 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1996 Fixtures
 | **J Evans** | 3 | 0 | 17 | 1 |
 | **J Fleetwood** | 2.4 | 0 | 6 | 3 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

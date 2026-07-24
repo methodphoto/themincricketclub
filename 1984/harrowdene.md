@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Harrowdene
+homeTeam: Harrowdene
+awayTeam: The Min
 game: Harrowdene v The Min
 location: Harrowdene
 date: 01/07/1984
@@ -14,7 +16,7 @@ parent: 1984 Fixtures
 
 P Clothier's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ P Clothier's 1st 50
 | **E Garland** | 5 | 0 | 20 | 1 |
 | **D Young** | 3 | 1 | 6 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

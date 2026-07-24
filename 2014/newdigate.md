@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newdigate
+homeTeam: Newdigate
+awayTeam: The Min
 game: Newdigate v The Min
 location: The Brocus
 date: 20/07/2014
@@ -12,7 +14,7 @@ parent: 2014 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 2014 Fixtures
 | **J Renwick** | 4 | 1 | 19 | 2 |
 | **A Moon** | 6 | 0 | 37 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

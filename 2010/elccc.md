@@ -1,6 +1,8 @@
 ---
 layout: default
 title: ELCCC
+homeTeam: ELCCC
+awayTeam: The Min
 game: ELCCC v The Min
 location: Spring Hill Recreation Ground
 date: 25/05/2010
@@ -12,7 +14,7 @@ parent: 2010 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2010 Fixtures
 | **T Carden** | 1 | 1 | 0 | 0 |
 | **Ijaz** | 0.4 | 0 | 0 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

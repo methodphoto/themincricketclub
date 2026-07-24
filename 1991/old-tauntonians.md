@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Tauntonians
+homeTeam: Old Tauntonians
+awayTeam: The Min
 game: Old Tauntonians v The Min
 location: Taunton School
 date: 02/08/1991
@@ -12,7 +14,7 @@ parent: 1991 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1991 Fixtures
 | **E Garland** | 1 | 0 | 7 | 0 |
 | **R Beswick** | 2 | 0 | 15 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

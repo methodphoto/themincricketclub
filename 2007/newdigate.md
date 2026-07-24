@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newdigate
+homeTeam: Newdigate
+awayTeam: The Min
 game: Newdigate v The Min
 location: The Brocus
 date: 17/06/2007
@@ -14,7 +16,7 @@ parent: 2007 Fixtures
 
 P Wigg best bowling
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ P Wigg best bowling
 | **M Jee** | 3 | 0 | 12 | 1 |
 | **J de Castro** | 4 | 0 | 28 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

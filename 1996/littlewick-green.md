@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Littlewick Green
+homeTeam: Littlewick Green
+awayTeam: The Min
 game: Littlewick Green v The Min
 location: Littlewick Green
 date: 17/08/1996
@@ -15,7 +17,7 @@ parent: 1996 Fixtures
 J Hylton first hundred.<br />
 [Partnership](../records/partnerships) of 102 between J Hylton and R Beswick
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ J Hylton first hundred.<br />
 | **Richardson** | 4 | 0 | 38 | 0 |
 | **Wilson** | 5 | 1 | 8 | 2 |
 
-## Littlewick Green Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

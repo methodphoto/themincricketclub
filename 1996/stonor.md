@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stonor
+homeTeam: Stonor
+awayTeam: The Min
 game: A Stonor XI v The Min
 location: Stonor CC
 date: 01/09/1996
@@ -12,7 +14,7 @@ parent: 1996 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1996 Fixtures
 | **Hayworth** | 3 | 0 | 25 | 1 |
 | **Bulmore** | 2 | 0 | 15 | 1 |
 
-## A Stonor XI Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

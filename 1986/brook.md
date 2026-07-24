@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Brook
+homeTeam: Brook
+awayTeam: The Min
 game: Brook v The Min
 location: The Pirrie Hall Recreation Ground
 date: 14/06/1986
@@ -15,7 +17,7 @@ parent: 1986 Fixtures
 E Garland's 1st Michelle and best bowling<br />
 T Purves' 3rd 50
  
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ T Purves' 3rd 50
 | **E Garland** | 7.3 | 4 | 9 | 5 |
 | **J Wright** | 3 | 1 | 8 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

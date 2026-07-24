@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Temple Sheen
+homeTeam: Temple Sheen
+awayTeam: The Min
 game: Temple Sheen v The Min
 location: Sheen Common
 date: 05/09/2004
@@ -14,7 +16,7 @@ parent: 2004 Fixtures
 
 R Beswick's 17th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Beswick's 17th 50
 | **J Wright** | 12 | 2 | 38 | 2 |
 | **R Earney** | 3 | 0 | 13 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

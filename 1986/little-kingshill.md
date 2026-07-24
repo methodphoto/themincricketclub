@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Little Kingshill
+homeTeam: Little Kingshill
+awayTeam: The Min
 game: Little Kingshill v The Min
 location: Little Kingshill CC
 date: 26/05/1986
@@ -14,7 +16,7 @@ parent: 1986 Fixtures
 
 M Lawrence's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ M Lawrence's 1st 50
 | **J Wright** | 9 | 0 | 43 | 1 |
 | **W Calvert** | 6 | 0 | 30 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 30/07/1993
@@ -12,7 +14,7 @@ parent: 1993 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1993 Fixtures
 | **S Rendall** | 13 | 3 | 51 | 3 |
 | **T Baigent** | 8 | 0 | 45 | 0 |
 
-## Broadway and Horton Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

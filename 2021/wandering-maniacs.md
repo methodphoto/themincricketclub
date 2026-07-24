@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Wandering Maniacs
+homeTeam: Wandering Maniacs
+awayTeam: The Min
 game: Wandering Maniacs v The Min
 location: Dulwich Sports Ground
 date: 15/08/2021
@@ -14,7 +16,7 @@ parent: 2021 Fixtures
 
 R Damaze 3rd 50 (35 balls)
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ R Damaze 3rd 50 (35 balls)
 | **Jory** | 1 | 0 | 5 | 0 |
 | **Edwards** | 1.2 | 0 | 23 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

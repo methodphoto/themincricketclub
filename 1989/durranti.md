@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Durranti
+homeTeam: The Min
+awayTeam: Durranti
 game: The Min v Durranti
 location: Toddington Manor
 date: 18/06/1989
@@ -12,7 +14,7 @@ parent: 1989 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1989 Fixtures
 | **Remphrey** | 9 | 3 | 24 | 3 |
 | **Frape** | 5.4 | 0 | 16 | 2 |
 
-## Durranti Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

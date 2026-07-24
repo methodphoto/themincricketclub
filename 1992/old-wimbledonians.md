@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Wimbledonians
+homeTeam: Old Wimbledonians
+awayTeam: The Min
 game: Old Wimbledonians v The Min
 location: Old Wimbledonians
 date: 06/09/1992
@@ -12,7 +14,7 @@ parent: 1992 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1992 Fixtures
 | **Curtis** | 13 | 1 | 25 | 4 |
 | **Taylor** | 7 | 1 | 33 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

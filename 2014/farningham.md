@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Farningham
+homeTeam: Farningham
+awayTeam: The Min
 game: Farningham v The Min
 location: Farningham
 date: 01/06/2014
@@ -14,7 +16,7 @@ parent: 2014 Fixtures
 
 R Beswick's 27th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ R Beswick's 27th 50
 | **R Beswick** | 7 | 1 | 24 | 3 |
 | **F Clarke** | 1 | 0 | 10 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

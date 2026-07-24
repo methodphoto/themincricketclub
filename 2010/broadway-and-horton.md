@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 08/07/2010
@@ -15,7 +17,7 @@ parent: 2010 Fixtures
 T Hammond 1st 100. W Calvert's 8th 50.<br />
 [Partnership](../records/partnerships) of 172 between T Hammond and W Calvert
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ T Hammond 1st 100. W Calvert's 8th 50.<br />
 | **G Field** | 8 | 1 | 56 | 0 |
 | **T Baigent** | 1 | 0 | 7 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

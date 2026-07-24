@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 24/06/2018
@@ -12,7 +14,7 @@ parent: 2018 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2018 Fixtures
 | **R Beswick** | 5 | 0 | 27 | 1 |
 | **B Coffer** | 2 | 0 | 19 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

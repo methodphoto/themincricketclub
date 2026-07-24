@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Mid-Whitgiftians
+homeTeam: Old Mid-Whitgiftians
+awayTeam: The Min
 game: Old Mid-Whitgiftians v The Min
 location: Trinity Sanderstead Sports Club
 date: 16/07/2006
@@ -12,7 +14,7 @@ parent: 2006 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 2006 Fixtures
 | **D Magill** | 2 | 0 | 25 | 0 |
 | **P Beswick** | 2.1 | 0 | 9 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

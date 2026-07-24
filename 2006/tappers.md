@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tappers
+homeTeam: The Min
+awayTeam: Tappers
 game: The Min v Tappers
 location: Solefields
 date: 04/06/2006
@@ -12,7 +14,7 @@ parent: 2006 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 J Wright's 6th Michelle and best bowling. R Earney's 31st 50.<br />
 [Partnership](../records/partnerships) of 129 between R Earney and M Goff
@@ -50,7 +52,7 @@ J Wright's 6th Michelle and best bowling. R Earney's 31st 50.<br />
 | **J Wright** | 10.4 | 1 | 32 | 6 |
 | **I Marshall** | 4 | 1 | 11 | 0 |
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

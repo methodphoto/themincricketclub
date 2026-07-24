@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Harpenden
+homeTeam: The Min
+awayTeam: Harpenden
 game: The Min v Harpenden
 location: Toddington Manor
 date: 11/09/1988
@@ -12,7 +14,7 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1988 Fixtures
 | **Deverill** | 9 | 1 | 42 | 0 |
 | **Scrannage** | 3 | 0 | 21 | 0 |
 
-## Harpenden Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

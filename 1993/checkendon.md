@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Checkendon
+homeTeam: Checkendon
+awayTeam: The Min
 game: Checkendon v The Min
 location: Checkendon
 date: 08/08/1993
@@ -12,7 +14,7 @@ parent: 1993 Fixtures
 
 {% include matchDetails %}
 
-## Checkendon Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1993 Fixtures
 | **R Beswick** | 11.4 | 0 | 51 | 2 |
 | **E Garland** | 3 | 0 | 39 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

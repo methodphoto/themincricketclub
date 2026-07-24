@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Clifton College
+homeTeam: Clifton College
+awayTeam: The Min
 game: A Clifton College XI v The Min
 location: The Close
 date: 17/06/1982
@@ -16,7 +18,7 @@ parent: 1982 Fixtures
 <p class="caption">Left to right: J Wright, M Kirwan, W Calvert, xx, R Beswick, J Grant, A Sylvester, J Booth, P Newcombe</p>
 
 
-## A Clifton College XI Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ parent: 1982 Fixtures
 | **J Wright** | 5 | 1 | 30 | 0 |
 | **R Beswick** | 1 | 0 | 5 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

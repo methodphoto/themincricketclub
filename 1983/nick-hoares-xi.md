@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Nick Hoares XI
+homeTeam: Nick Hoares XI
+awayTeam: The Min
 game: The Min v Nick Hoare's XI
 location: Coombe Dingle
 date: 12/06/1983
@@ -14,7 +16,7 @@ parent: 1983 Fixtures
 
 A Gallagher's 1st 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ A Gallagher's 1st 50
 | **H Sallitt** | 3 | 0 | 20 | 0 |
 | **P Wakefield** | 2 | 0 | 14 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

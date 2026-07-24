@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ealonian
+homeTeam: Ealonian
+awayTeam: The Min
 game: Ealonian v The Min
 location: Ealonian
 date: 25/08/1985
@@ -12,7 +14,7 @@ parent: 1985 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1985 Fixtures
 | **J Wright** | 17 | 0 | 57 | 1 |
 | **A Gallagher** | 3 | 0 | 9 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

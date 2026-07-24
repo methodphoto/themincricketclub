@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 31/07/1992
@@ -14,7 +16,7 @@ parent: 1992 Fixtures
 
 <img src="min-broadway-1992.jpg" width="100%" alt="Team Photo" />
 
-## Broadway and Horton Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 1992 Fixtures
 | **W Calvert** | 7 | 2 | 29 | 5 |
 | **R Beswick** | 0.2 | 0 | 4 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

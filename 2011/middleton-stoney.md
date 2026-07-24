@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Middleton Stoney
+homeTeam: Middleton Stoney
+awayTeam: The Min
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 17/04/2011
@@ -13,7 +15,7 @@ parent: 2011 Fixtures
 {% include matchDetails %}
 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2011 Fixtures
 | **R Beswick** | 11 | 3 | 24 | 4 |
 | **T Rutherford** | 5 | 0 | 44 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

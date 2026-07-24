@@ -1,6 +1,8 @@
 ---
 layout: default
 title: ELCCC
+homeTeam: ELCCC
+awayTeam: The Min
 game: ELCCC v The Min
 location: Victoria Park
 date: 13/05/2012
@@ -12,7 +14,7 @@ parent: 2012 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2012 Fixtures
 | **D Brookfield** | 4 | 0 | 21 | 0 |
 | **A Slight** | 3 | 0 | 16 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

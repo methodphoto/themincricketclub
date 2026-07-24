@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ockley
+homeTeam: Ockley
+awayTeam: The Min
 game: Ockley v The Min
 location: Ockley Green
 date: 08/05/2005
@@ -14,7 +16,7 @@ parent: 2005 Fixtures
 
 R Earney's 25th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Earney's 25th 50
 | **R Earney** | 5.1 | 2 | 14 | 3 |
 | **R Beswick** | 3 | 1 | 5 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

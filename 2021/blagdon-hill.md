@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Blagdon Hill
+homeTeam: Blagdon Hill
+awayTeam: The Min
 game: Blagdon Hill v The Min
 location: Sellick's Green
 date: 08/07/2021
@@ -17,7 +19,7 @@ M Goff's 8th 50. J Carroll's 2nd 50.<br />
 
 J Carroll, 2nd 50 and a hattrick (over two overs)
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ J Carroll, 2nd 50 and a hattrick (over two overs)
 | **R Knight** | 6 | 0 | 33 | 3 |
 | **A Hannam** | 8 | 0 | 57 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

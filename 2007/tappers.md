@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tappers
+homeTeam: The Min
+awayTeam: Tappers
 game: The Min v Tappers
 location: Solefields
 date: 03/06/2007
@@ -12,7 +14,7 @@ parent: 2007 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2007 Fixtures
 | **Drew** | 3 | 0 | 3 | 0 |
 | **A Pedrette** | 6 | 0 | 17 | 3 |
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

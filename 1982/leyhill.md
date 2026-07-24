@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Leyhill
+homeTeam: Leyhill
+awayTeam: The Min
 game: Leyhill v The Min
 location: Leyhill
 date: 12/06/1982
@@ -14,7 +16,7 @@ parent: 1982 Fixtures
 
 M Kirwan's 1st Michelle
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ M Kirwan's 1st Michelle
 | **L Sheridan** | 3 | 0| 14 | 1 |
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

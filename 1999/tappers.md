@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tappers
+homeTeam: Tappers
+awayTeam: The Min
 game: Tappers v The Min
 location: Pembroke College, Oxford
 date: 22/08/1999
@@ -12,7 +14,7 @@ parent: 1999 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1999 Fixtures
 | **A Pedrette** | 12 | 4 | 33 | 2 |
 | **S Turner** | 7.5 | 1 | 27 | 4 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

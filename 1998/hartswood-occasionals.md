@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hartswood Occasionals
+homeTeam: Hartswood Occasionals
+awayTeam: The Min
 game: The Min v Hartswood Occasionals
 location: Reigate Grammar School
 date: 25/07/1998
@@ -12,7 +14,7 @@ parent: 1998 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1998 Fixtures
 | **R Earney** | 2 | 0 | 18 | 0 |
 | **R Beswick** | 1 | 0 | 9 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

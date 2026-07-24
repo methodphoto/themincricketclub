@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Colfeians
+homeTeam: Old Colfeians
+awayTeam: The Min
 game: Old Colfeians v The Min
 location: Horn Park
 date: 09/09/2001
@@ -12,7 +14,7 @@ parent: 2001 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2001 Fixtures
 | **E Garland** | 1 | 0 | 8 | 0 |
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hook and Southborough
+homeTeam: Hook and Southborough
+awayTeam: The Min
 game: Hook and Southborough v The Min
 location: Hook & Southborough CC
 date: 26/04/2014
@@ -12,7 +14,7 @@ parent: 2014 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2014 Fixtures
 | **P Beswick** | 8 | 1 | 28 | 1 |
 | **R Beswick** | 3 | 0 | 10 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

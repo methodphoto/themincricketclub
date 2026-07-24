@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 10/07/2008
@@ -18,7 +20,7 @@ The Ashes retained
 
 <img src="broadway-trophy.jpg" width="100%" alt="Tim presenting the Ashes to Ian" />
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -54,7 +56,7 @@ The Ashes retained
 | **C Medland** | 6 | 0 | 19 | 3 |
 | **G Field** | 4 | 0 | 15 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Captain Scott XI
+homeTeam: The Min
+awayTeam: Captain Scott XI
 game: The Min v Captain Scott XI
 location: Reigate Grammar School
 date: 10/08/1997
@@ -14,7 +16,7 @@ parent: 1997 Fixtures
 
 [Partnership](../records/partnerships)  of 102 between J Grant and P Sayer
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ parent: 1997 Fixtures
 | **Chattergee** | 1 | 0 | 4 | 0 |
 | **Bickerdike** | 1 | 0 | 2 | 0 |
 
-## Captain Scott XI Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

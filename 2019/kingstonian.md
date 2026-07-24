@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kingstonian
+homeTeam: Kingstonian
+awayTeam: The Min
 game: Kingstonian v The Min
 location: Old Tiffinians Association Sports Ground
 gameDate: 21/07/2019
@@ -14,7 +16,7 @@ parent: 2019 Fixtures
 
 A Beswick's 10th 50 and highest score
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,8 +54,7 @@ A Beswick's 10th 50 and highest score
 | **Callum** | 4 | 0 | 27 | 0 |
 | **Khalid** | 2 | 0 | 14 | 0 |
 
- ## {{page.title}} Innings
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 
 | Batsman | Dismissal |  | Runs |

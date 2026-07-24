@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 28/08/2017
@@ -12,7 +14,7 @@ parent: 2017 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2017 Fixtures
 | **P Beswick** | 5 | 0 | 16 | 0 |
 | **E Garland** | 5 | 2 | 32 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

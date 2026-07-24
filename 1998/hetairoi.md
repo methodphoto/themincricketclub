@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hetairoi
+homeTeam: Hetairoi
+awayTeam: The Min
 game: Hetairoi v The Min
 location: Cranleigh School
 date: 16/08/1998
@@ -12,7 +14,7 @@ parent: 1998 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1998 Fixtures
 | **Ball** | 5 | 0 | 26 | 0 |
 | **Dixon** | 6 | 0 | 14 | 2 |
 
-## Hetairoi Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

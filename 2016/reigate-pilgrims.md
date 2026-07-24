@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 11/09/2016
@@ -15,7 +17,7 @@ parent: 2016 Fixtures
 R Earney's 51st 50. <br />
 [Partnership](../records/partnerships) of 108 between R Earney and M Gupta
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Earney's 51st 50. <br />
 | **D Batey** | 3 | 0 | 43 | 0 |
 | **G Mitchell** | 2 | 0 | 5 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

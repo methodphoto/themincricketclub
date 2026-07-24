@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Britwell Salome
+homeTeam: Britwell Salome
+awayTeam: The Min
 game: Britwell Salome v The Min
 location: Britwell Salome
 date: 26/04/2008
@@ -12,7 +14,7 @@ parent: 2008 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2008 Fixtures
 | **A Worman** | 6 | 0 | 19 | 1 |
 | **B Tyler** | 6 | 1 | 35 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 20/09/1992
@@ -13,7 +15,7 @@ parent: 1992 Fixtures
 
 Cakebread Hat-trick
 
-## Watton-at-Stone Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ Cakebread Hat-trick
 | **S Hornsby** | 9 | 1 | 45 | 1 |
 | **R Beswick** | 10 | 1 | 44 | 3 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

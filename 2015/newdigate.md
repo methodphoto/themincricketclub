@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newdigate
+homeTeam: Newdigate
+awayTeam: The Min
 game: Newdigate v The Min
 location: The Brocus
 date: 14/06/2015
@@ -12,7 +14,7 @@ parent: 2015 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2015 Fixtures
 | **A Beswick** | 2 | 0 | 14 | 1 |
 | **E Garland** | 1 | 0 | 15 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Town Cryers
+homeTeam: Town Cryers
+awayTeam: The Min
 game: Town Cryers v The Min
 location: Wandsworth Park
 date: 19/05/1985
@@ -12,7 +14,7 @@ parent: 1985 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1985 Fixtures
 | **M Gardiner** | 4 | 1 | 6 | 0 |
 | **E Harcourt** | 2 | 0 | 5 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

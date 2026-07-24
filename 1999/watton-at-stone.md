@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 20/06/1999
@@ -14,7 +16,7 @@ parent: 1999 Fixtures
 
 E Garland highest score for The Min
 
-## Watton-at-Stone Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ E Garland highest score for The Min
 | **R Earney** | 6 | 1 | 29 | 1 |
 | **R Beswick** | 3 | 1 | 6 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

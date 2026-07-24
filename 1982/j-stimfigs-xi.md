@@ -1,6 +1,8 @@
 ---
 layout: default
 title: J Stimpfigs XI
+homeTeam: J Stimpfigs XI
+awayTeam: The Min
 game: The Min v J Stimpfig's XI
 location: Coombe Dingle
 date: 07/06/1982
@@ -15,8 +17,7 @@ parent: 1982 Fixtures
 JBooth's 1st 50<br />
 [Partnership](../records/partnerships) of 100 between J Booth and D Mundy
 
-## The Min Innings
-
+## {{page.awayTeam}} Innings
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
 | **J Booth** | c Packham | Hunter | 72 |
@@ -50,8 +51,7 @@ JBooth's 1st 50<br />
 | **King** | 3 | 0 | 26 | 0 |
 | **R Swift** | 8 | 1 | 30 | 3 |
 
-## {{page.title}} Innings
-
+## {{page.homeTeam}} Innings
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
 | **T.Packham** | b | J Wright | 42 | |

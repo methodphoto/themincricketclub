@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Erratics
+homeTeam: The Min
+awayTeam: Erratics
 game: The Min v Erratics
 location: Reigate Grammar School
 date: 14/07/1996
@@ -12,7 +14,7 @@ parent: 1996 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1996 Fixtures
 | **Rivington** | 2 | 0 | 14 | 2 |
 | **Meller** | 1 | 0 | 12 | 0 |
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

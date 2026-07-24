@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 07/07/2005
@@ -17,7 +19,7 @@ The Min regained the Ashes
 <img src="broadway2005.jpg" width="100%" alt="The Ashes regained" />
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -54,7 +56,7 @@ The Min regained the Ashes
 | **A Hughes** | 1 | 0 | 7 | 0 |
 | **L Watkins** | 3 | 2 | 1 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 22/09/1996
@@ -11,7 +13,7 @@ parent: 1996 Fixtures
 
 {% include matchDetails %}
 
-## Watton-at-Stone Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -45,7 +47,7 @@ parent: 1996 Fixtures
 | **R Beswick** | 9 | 2 | 33 | 2 |
 | **J Wright** | 7 | 0 | 41 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

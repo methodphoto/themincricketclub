@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ballinger Waggoners
+homeTeam: Ballinger Waggoners
+awayTeam: The Min
 game: Ballinger Waggoners v The Min
 location: Ballinger Common
 date: 21/08/2005
@@ -12,7 +14,7 @@ parent: 2005 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2005 Fixtures
 | **T Riley** | 1 | 0 | 4 | 0 |
 | **C Gallagher** | 1 | 0 | 15 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

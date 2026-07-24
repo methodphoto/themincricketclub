@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Britwell Salome
+homeTeam: Britwell Salome
+awayTeam: The Min
 game: Britwell Salome v The Min
 location: Britwell Salome CC
 date: 28/04/2007
@@ -17,7 +19,7 @@ R Earney's 34th 50.<br />
 
 <img src="britwell-team.jpg" width="100%" alt="Team against Britwell" />
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -54,7 +56,7 @@ R Earney's 34th 50.<br />
 | **A Bloomfield** | 3 | 0 | 14 | 1 |
 | **B Tyler** | 2 | 0 | 19 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

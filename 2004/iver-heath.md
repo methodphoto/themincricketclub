@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Iver Heath
+homeTeam: Iver Heath
+awayTeam: The Min
 game: Iver Heath v The Min
 location: Farnham Royal Cricket Club
 date: 26/09/2004
@@ -11,7 +13,7 @@ parent: 2004 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 2004 Fixtures
 | **R Beswick** | 8 | 0 | 31 | 0 |
 | **R Earney** | 8 | 0 | 40 | 3 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

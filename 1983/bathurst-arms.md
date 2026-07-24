@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Bathurst Arms
+homeTeam: Bathurst Arms
+awayTeam: The Min
 game: Bathurst Arms v The Min
 location: North Cerney CC
 date: 17/06/1983
@@ -13,7 +15,7 @@ parent: 1983 Fixtures
 
 J Booth's 2nd 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ J Booth's 2nd 50
 | **A Gallagher** | 1 | 0 | 7 | 0 |
 | **J Booth** | 0.1 | 0 | 0 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

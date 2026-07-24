@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 14/09/2003
@@ -13,7 +15,7 @@ parent: 2003 Fixtures
 
 J Wright's 4th 5 wkt haul
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ J Wright's 4th 5 wkt haul
 | **J Wright** | 16 | 1 | 53 | 5 |
 | **I Marshall** | 15 | 4 | 36 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

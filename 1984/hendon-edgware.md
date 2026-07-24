@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hendon-Edgware
+homeTeam: Hendon-Edgware
+awayTeam: The Min
 game: Hendon-Edgware v The Min
 location: Mill Hill Park
 date: 22/07/1984
@@ -12,7 +14,7 @@ parent: 1984 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 1984 Fixtures
 | **J Wright** | 3 | 2 | 6 | 2 |
 | **D Newman** | 1 | 0 | 3 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

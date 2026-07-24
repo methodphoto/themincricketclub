@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Railway Taverners
+homeTeam: Railway Taverners
+awayTeam: The Min
 game: Railway Taverners v The Min
 location: North Middlesex CC
 date: 01/09/2019
@@ -16,7 +18,7 @@ R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 
 A Beswick's 8th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ A Beswick's 8th 50
 | **A Gallagher** | 1 | 0 | 12 | 0 |
 | **B Boyd-Taylor** | 0.1 | 0 | 0 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Nightwatchmen
+homeTeam: The Min
+awayTeam: Nightwatchmen
 game: The Min v Nightwatchman
 location: Solefields
 date: 12/05/2013
@@ -12,7 +14,7 @@ parent: 2013 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 2013 Fixtures
 | **T Carden** | 1 | 0 | 11 | 0 |
 | **R Damaze** | 1 | 0 | 15 | 0 |
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: West Green
+homeTeam: West Green
+awayTeam: The Min
 game: West Green v The Min
 location: Belmont Recreation Ground
 date: 12/05/1984
@@ -12,7 +14,7 @@ parent: 1984 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1984 Fixtures
 | **J Harvey** | 3 | 1 | 5 | 1 |
 | **Winston** | 2 | 0 | 20 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

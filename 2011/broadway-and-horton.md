@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 07/07/2011
@@ -15,7 +17,7 @@ parent: 2011 Fixtures
 R Beswick's 24th 50<br />
 [Partnership](../records/partnerships) of 107 between R Beswick and A Slight
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ R Beswick's 24th 50<br />
 | **M Grabham** | 4 | 0 | 39 | 0 |
 | **R Young** | 5 | 0 | 28 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

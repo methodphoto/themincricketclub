@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 03/07/2005
@@ -14,7 +16,7 @@ parent: 2005 Fixtures
 
 R Earney's 27th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ R Earney's 27th 50
 | **I Crichton** | 16 | 3 | 51 | 4 |
 | **I Marshall** | 9 | 2 | 51 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

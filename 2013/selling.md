@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Selling
+homeTeam: Selling
+awayTeam: The Min
 game: Selling v The Min
 location: Cadman's Meadow
 date: 22/09/2013
@@ -11,7 +13,7 @@ parent: 2013 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2013 Fixtures
 | **T Ahmed** | 4 | 1 | 9 | 1 |
 | **J Wright** | 5 | 0 | 39 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

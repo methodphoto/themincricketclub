@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ealonian
+homeTeam: Ealonian
+awayTeam: The Min
 game: Ealonian v The Min
 location: Gunnersbury Park
 date: 12/08/1994
@@ -12,7 +14,7 @@ parent: 1984 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1984 Fixtures
 | **Mayhew** | 10 | 3 | 23 | 3 |
 | **Joyce** | 9 | 2 | 24 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

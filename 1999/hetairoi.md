@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hetairoi
+homeTeam: Hetairoi
+awayTeam: The Min
 game: Hetairoi v The Min
 location: Cranleigh School
 date: 15/08/1999
@@ -13,7 +15,7 @@ parent: 1999 Fixtures
 {% include matchDetails %}
 
 
-## Hetairoi Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1999 Fixtures
 | **P O'Mahony** | 7 | 0 | 32 | 1 |
 | **P O'Brien** | 1 | 0 | 10 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

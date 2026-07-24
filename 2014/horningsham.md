@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Horningsham
+homeTeam: Horningsham
+awayTeam: The Min
 game: Horningsham v The Min
 location: Horningsham
 date: 13/07/2014
@@ -14,7 +16,7 @@ parent: 2014 Fixtures
 R Earney's 45th 50. S Hornsby's 13th 50.<br />
 [Partnership](../records/partnerships) of 112 between R Earney and S Hornsby
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -54,7 +56,7 @@ R Earney's 45th 50. S Hornsby's 13th 50.<br />
 | **M Gupta** | 1 | 0 | 11 | 0 |
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

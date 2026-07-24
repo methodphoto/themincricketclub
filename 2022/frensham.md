@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Frensham
+homeTeam: Frensham
+awayTeam: The Min
 game: Frensham v The Min
 location: Hollowdene Recreation Ground
 date: 19/06/2022
@@ -16,7 +18,7 @@ R Earney's 54th 50
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/881420933?h=eb5eee721c" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -54,7 +56,7 @@ R Earney's 54th 50
 | **A Casali** | 4 | 0 | 36 | 1 |
 | **M Taylor** | 0.5 | 0 | 5 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

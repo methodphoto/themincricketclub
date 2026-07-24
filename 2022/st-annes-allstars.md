@@ -1,6 +1,8 @@
 ---
 layout: default
 title: St Anne's Allstars
+homeTeam: St Anne's Allstars
+awayTeam: The Min
 game: St Anne's Allstars v The Min
 location: Joseph Hood Recreation Ground
 date: 26/06/2022
@@ -15,7 +17,7 @@ parent: 2022 Fixtures
 R Beswick's 36th 50. B Boyd-Taylor's 1st 50<br />
 [Partnership](/records/partnerships) of 119 between R Beswick and B Boyd-Taylor
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Beswick's 36th 50. B Boyd-Taylor's 1st 50<br />
 | **C Wright** | 5 | 0 | 39 | 0 |
 | **R Earney** | 6 | 0 | 36 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

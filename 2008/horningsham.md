@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Horningsham
+homeTeam: Horningsham
+awayTeam: The Min
 game: Horningsham v The Min
 location: Horningsham
 date: 12/07/2008
@@ -16,7 +18,7 @@ parent: 2008 Fixtures
 
 <img src="team-horningsham.jpg" width="100%" alt="Team against Horningsham" />
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ parent: 2008 Fixtures
 | **A Reeves** | 6 | 2 | 15 | 2 |
 | **D Ware** | 5 | 0 | 28 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

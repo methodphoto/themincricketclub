@@ -1,6 +1,8 @@
 ---
 layout: default
 title: White City All Stars
+homeTeam: White City All Stars
+awayTeam: The Min
 game: White City All Stars v The Min
 location: Gunnersbury Park
 date: 07/06/1986
@@ -12,7 +14,7 @@ parent: 1986 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1986 Fixtures
 | **J Wright** | 6.3 | 1 | 20 | 3 |
 | **T Purves** | 4 | 1 | 14 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

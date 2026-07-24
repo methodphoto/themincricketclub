@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Checkendon
+homeTeam: Checkendon
+awayTeam: The Min
 game: Checkendon v The Min
 location: Checkendon
 date: 09/08/1992
@@ -12,7 +14,7 @@ parent: 1992 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -45,7 +47,7 @@ parent: 1992 Fixtures
 | **A Breakspear** | 6 | 2 | 8 | 2 |
 | **L Powell** | 4 | 3 | 1 | 0 |
 
-## Checkendon Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

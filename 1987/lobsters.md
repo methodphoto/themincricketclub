@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Lobsters
+homeTeam: Lobsters
+awayTeam: The Min
 game: Lobsters v The Min
 location: New Field, Bristol
 date: 12/07/1987
@@ -14,7 +16,7 @@ parent: 1987 Fixtures
 
 R Beswick's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ R Beswick's 1st 50
 | **N Fincham** | 2 | 0 | 17 | 0 |
 | **D Newman** | 1 | 0 | 11 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

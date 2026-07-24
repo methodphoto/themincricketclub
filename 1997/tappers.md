@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tappers
+homeTeam: Tappers
+awayTeam: The Min
 game: Tappers v The Min
 location: Pembroke College, Oxford
 date: 06/07/1997
@@ -14,7 +16,7 @@ parent: 1997 Fixtures
 
 R Earney 3rd 5 wkt haul for The Min
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Earney 3rd 5 wkt haul for The Min
 | **A Pedrette** | 7 | 0 | 38 | 1 |
 | **S Lovegrove** | 7 | 0 | 37 | 4 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

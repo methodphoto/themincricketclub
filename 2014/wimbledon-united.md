@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Wimbledon United
+homeTeam: Wimbledon United
+awayTeam: The Min
 game: Wimbledon United v The Min
 location: Cottenham Park
 date: 24/08/2014 
@@ -14,7 +16,7 @@ parent: 2014 Fixtures
 
 S Hornsby's 14th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ S Hornsby's 14th 50
 | **A Gallagher** | 8 | 0 | 30 | 1 |
 | **C Wright** | 4 | 0 | 24 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

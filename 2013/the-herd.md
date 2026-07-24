@@ -1,6 +1,8 @@
 ---
 layout: default
 title: The Herd
+homeTeam: The Herd
+awayTeam: The Min
 game: The Herd v The Min
 location: Barn Elms
 date: 16/06/2013
@@ -12,7 +14,7 @@ parent: 2013 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2013 Fixtures
 | **A Butel** | 7 | 0 | 21 | 0 |
 | **B Coffer** | 6 | 2 | 9 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

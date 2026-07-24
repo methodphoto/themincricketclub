@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 18/09/1994
@@ -13,7 +15,7 @@ parent: 1994 Fixtures
 
 [Partnership](../records/partnerships) of 109 between M Tipper and W Emsley
 
-## Watton-at-Stone  Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1994 Fixtures
 | **E Garland** | 5 | 0 | 24 | 0 |
 | **R Earney** | 6 | 1 | 38 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

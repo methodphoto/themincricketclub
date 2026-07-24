@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newington
+homeTeam: Newington
+awayTeam: The Min
 game: Newington v The Min
 location: Bobbing Court
 date: 22/05/2022
@@ -15,7 +17,7 @@ parent: 2022 Fixtures
 J Stacey's 2nd 50 and highest score. Amazing catch by A Beswick.<br />
 [Partnership](../records/partnerships) of 106 between J Stacey and R Earney
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ J Stacey's 2nd 50 and highest score. Amazing catch by A Beswick.<br />
 | **AJ Rasheed** | 4 | 0 | 42 | 0 |
 | **J Ventress** | 1 | 0 | 16 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

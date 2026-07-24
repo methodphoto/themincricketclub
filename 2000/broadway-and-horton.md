@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 21/07/2000
@@ -14,7 +16,7 @@ parent: 2000 Fixtures
 
 The Min regained the Ashes
 
-## Broadway and Horton Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ The Min regained the Ashes
 | **R Earney** | 8 | 1 | 44 | 1 |
 | **P O'Brien** | 8 | 0 | 31 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

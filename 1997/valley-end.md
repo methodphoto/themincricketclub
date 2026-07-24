@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Valley End
+homeTeam: Valley End
+awayTeam: The Min
 game: Valley End v The Min
 location: Valley End Cricket Club
 date: 04/05/1997
@@ -12,7 +14,7 @@ parent: 1997 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1997 Fixtures
 | **C Stuart** | 3 | 0 | 17 | 1 |
 | **M Henwick** | 5.4 | 0 | 26 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

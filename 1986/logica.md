@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Logica
+homeTeam: Logica
+awayTeam: The Min
 game: Logica v The Min
 location: Wimbledon Park
 date: 13/07/1986
@@ -12,7 +14,7 @@ parent: 1986 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1986 Fixtures
 | **M Gardiner** | 6 | 0 | 19 | 1 |
 | **T Purves** | 3.1 | 1 | 17 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

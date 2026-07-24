@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newdigate
+homeTeam: Newdigate
+awayTeam: The Min
 game: Newdigate v The Min
 location: The Brocus
 date: 13/06/2010
@@ -18,7 +20,7 @@ T Rutherford's 2nd 50. M Gardiner's 1st 50.
 
 <iframe src="https://player.vimeo.com/video/678415752?h=dde036c04e" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -55,7 +57,7 @@ T Rutherford's 2nd 50. M Gardiner's 1st 50.
 | **Penfold** | 7.4 | 1 | 14 | 3 |
 | **Peters** | 1 | 0 | 2 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

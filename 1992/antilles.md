@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Antilles
+homeTeam: Antilles
+awayTeam: The Min
 game: Antilles v The Min
 location: Canon's Park
 date: 28/06/1992
@@ -12,7 +14,7 @@ parent: 1992 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1992 Fixtures
 | **W Calvert** | 2 | 0 | 23 | 0 |
 | **J Wright** | 7 | 0 | 28 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

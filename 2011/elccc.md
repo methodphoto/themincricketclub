@@ -1,6 +1,8 @@
 ---
 layout: default
 title: ELCCC
+homeTeam: The Min
+awayTeam: ELCCC
 game: The Min v ELCCC
 location: Solefields
 date: 22/05/2011
@@ -12,7 +14,7 @@ parent: 2011 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 2011 Fixtures
 | **S Bali** | 5 | 0 | 22 | 2 |
 | **V Kuchu** | 4 | 0 | 43 | 2 |
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

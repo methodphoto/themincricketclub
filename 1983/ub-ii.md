@@ -1,6 +1,8 @@
 ---
 layout: default
 title: UB II
+homeTeam: UB II
+awayTeam: The Min
 game: The Min v UB II
 location: Coombe Dingle
 date: 17/06/1983
@@ -12,7 +14,7 @@ parent: 1983 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1983 Fixtures
 | **P Challoner** | 8 | 0 | 25 | 1 |
 | **D Young** | 3 | 0 | 21 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

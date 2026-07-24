@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 28/07/1996
@@ -18,7 +20,7 @@ After the defeat the skipper's 'lucky' underpants were burned and from now on th
 
 J Stimpfig fielded and P Grant batted
 
-## Broadway and Horton Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -55,7 +57,7 @@ J Stimpfig fielded and P Grant batted
 | **W Calvert** | 5 | 0 | 57 | 2 |
 | **J Grant** | 1 | 0 | 5 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

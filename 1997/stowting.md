@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 01/06/1997
@@ -12,7 +14,7 @@ parent: 1997 Fixtures
 
 {% include matchDetails %}
 
-## Stowting Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1997 Fixtures
 | **R Earney** | 7 | 0 | 38 | 1 |
 | **T Fearn** | 3 | 0 | 7 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

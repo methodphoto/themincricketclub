@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Godstone
+homeTeam: Godstone
+awayTeam: The Min
 game: Godstone v The Min
 location: Godstone
 date: 28/06/1987
@@ -14,7 +16,7 @@ parent: 1987 Fixtures
 
 J Packenham-Walsh's 2nd 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ J Packenham-Walsh's 2nd 50
 | **W Calvert** | 3 | 0 | 12 | 1 |
 | **M Wright** | 6 | 2 | 16 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

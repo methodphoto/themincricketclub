@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newington
+homeTeam: The Min
+awayTeam: Newington
 game: The Min v Newington
 location: Solefields
 date: 15/05/2011
@@ -14,7 +16,7 @@ parent: 2011 Fixtures
 
 T Rutherford's 3rd 50 and highest score. A Beswick's 1st 50 and highest score.
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ T Rutherford's 3rd 50 and highest score. A Beswick's 1st 50 and highest score.
 | **L Adgie** | 2 | 0 | 27 | 0 |
 | **P Morley** | 7.2 | 0 | 39 | 3 |
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

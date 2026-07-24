@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Frensham
+homeTeam: Frensham
+awayTeam: The Min
 game: Frensham v The Min
 location: Hollowdene Recreation Ground
 date: 05/06/2016
@@ -15,7 +17,7 @@ parent: 2016 Fixtures
 S Habib's 2nd 50. J Grant 4 stumpings in an innings.<br />
 [Partnership](../records/partnerships) of 140 between S Habib and W Calvert
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ S Habib's 2nd 50. J Grant 4 stumpings in an innings.<br />
 | **S Lyford** | 7 | 2 | 37 | 0 |
 | **C Howard** | 8 | 1 | 34 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

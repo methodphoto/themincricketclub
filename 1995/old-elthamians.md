@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Elthamians
+homeTeam: Old Elthamians
+awayTeam: The Min
 game: Old Elthamians v The Min
 location: Foxbury
 date: 09/07/1995
@@ -12,7 +14,7 @@ parent: 1995 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1995 Fixtures
 | **R Earney** | 11 | 0 | 72 | 1 |
 | **E Garland** | 3 | 0 | 24 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

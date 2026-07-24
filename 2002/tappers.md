@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tappers
+homeTeam: Tappers
+awayTeam: The Min
 game: Tappers v The Min
 location: Wadham College Sports Ground
 date: 28/07/2002
@@ -14,7 +16,7 @@ parent: 2002 Fixtures
 
 R Green, second 5 wkt haul for The Min
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Green, second 5 wkt haul for The Min
 | **M Rowden** | 8 | 2 | 40 | 1 |
 | **R Brittain** | 7 | 0 | 38 | 3 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ealonian
+homeTeam: Ealonian
+awayTeam: The Min
 game: Ealonian v The Min
 location: Gunnersbury Park
 date: 09/07/1988
@@ -12,7 +14,7 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
-## Ealonian Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1988 Fixtures
 | **J Wright** | 7.3 | 2 | 10 | 2 |
 | **R Olver** | 2 | 0 | 2 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Colfeians
+homeTeam: Old Colfeians
+awayTeam: The Min
 game: Old Colfeians v The Min
 location: Horn Park
 date: 10/09/2000
@@ -12,7 +14,7 @@ parent: 2000 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 2000 Fixtures
 | **R Green** | 11 | 2 | 26 | 2 |
 | **T Riley** | 4 | 0 | 25 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

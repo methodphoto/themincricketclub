@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Selling
+homeTeam: Selling
+awayTeam: The Min
 game: Selling v The Min
 location: Cadman's Meadow
 date: 31/07/2005
@@ -12,7 +14,7 @@ parent: 2005 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2005 Fixtures
 | **R Green** | 8 | 0 | 45 | 2 |
 | *I Marshall** | 4 | 0 | 20 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

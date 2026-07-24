@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Logica
+homeTeam: Logica
+awayTeam: The Min
 game: Logica v The Min
 location: Wimbledon Park
 date: 05/08/1984
@@ -15,7 +17,7 @@ parent: 1984 Fixtures
 J Grant's 1st 50<br />
 M Kirwan's 3rd Michelle
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ M Kirwan's 3rd Michelle
 | **A Gallagher** | 10 | 2 | 18 | 0 |
 | **W Calvert** | 4 | 0 | 32 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

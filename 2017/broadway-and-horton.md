@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton v The Min
+homeTeam: Broadway and Horton v The Min
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 07/07/2017
@@ -12,7 +14,7 @@ parent: 2017 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2017 Fixtures
 | **M Griffith** | 4 | 1 | 18 | 1 |
 | **I Muntakim** | 2 | 0 | 6 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

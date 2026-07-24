@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Barrow Hospital
+homeTeam: Barrow Hospital
+awayTeam: The Min
 game: Barrow Hospital v The Min
 location: Barro Hospital
 date: 27/07/1995
@@ -12,7 +14,7 @@ parent: 1995 Fixtures
 
 {% include matchDetails %}
 
-## Barrow Hospital Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1995 Fixtures
 | **A Dent** | 2 | 0 | 22 | 0 |
 | **R Earney** | 4 | 1 | 21 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

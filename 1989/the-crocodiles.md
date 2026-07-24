@@ -1,6 +1,8 @@
 ---
 layout: default
 title: The Crocodiles
+homeTeam: The Min
+awayTeam: The Crocodiles
 game: The Min v The Crocodiles
 location: Toddington Manor
 date: 11/06/1989
@@ -14,7 +16,7 @@ parent: 1989 Fixtures
 
 R Beswick's 2nd 50
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ R Beswick's 2nd 50
 | **Anderson** | 8 | 0 | 36 | 1 |
 | **Cooper** | 12 | 0 | 70 | 1 |
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

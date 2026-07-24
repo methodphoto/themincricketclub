@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Alex Beard's XI
+homeTeam: Alex Beard's XI
+awayTeam: The Min
 game: Alex Beard's XI v The Min
 location: Regent's Park
 date: 08/09/1985
@@ -12,7 +14,7 @@ parent: 1985 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,8 +51,7 @@ parent: 1985 Fixtures
 | **6** | 1 | 0 | 5 | 1 |
 
 
- ## {{page.title}} Innings
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 
 | Batsman | Dismissal |  | Runs |

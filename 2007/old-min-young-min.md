@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Min Young Min
+homeTeam: The Old Min
+awayTeam: The Young Min
 game: The Old Min v the Young Min
 location: Barnes
 date: 15/07/2007
@@ -18,8 +20,7 @@ parent: 2007 Fixtures
 
 <img src="anniversary-9.jpg" width="100%" alt="Tom and Jel chew the fat" />
 
-## The Young Min Innings
-
+## {{page.awayTeam}} Innings
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **T Rutherford &#42;** | run out |  | 5 |
@@ -51,8 +52,7 @@ parent: 2007 Fixtures
 | **R Earney** | 4 | 0 | 14 | 1 |
 | **J Wright** | 0.2 | 0 | 3 | 0 |
 
-## The Old Min Innings
-
+## {{page.homeTeam}} Innings
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Earney** | dnb |  |  |

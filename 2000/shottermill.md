@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Shottermill
+homeTeam: Shottermill
+awayTeam: The Min
 game: Shottermill v The Min
 location: Woolmer Hill Sports Ground
 date: 23/07/2000
@@ -14,7 +16,7 @@ parent: 2000 Fixtures
 
 P Grant first 50. R Green best bowling for The Min
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ P Grant first 50. R Green best bowling for The Min
 | **Howard** | 3 | 0 | 31 | 1 |
 | **Brooks** | 1.5 | 0 | 10 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

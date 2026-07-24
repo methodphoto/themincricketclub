@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Nightwatchman
+homeTeam: The Min
+awayTeam: Nightwatchman
 game: The Min v Nightwatchman
 location: Solefields
 date: 08/05/2016
@@ -12,7 +14,7 @@ parent: 2016 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Batting
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2016 Fixtures
 | **R Damaze** | 6 | 0 | 36 | 0 |
 | **J Wright** | 5 | 0 | 26 | 1 |
 
-## Min Batting
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Horningsham
+homeTeam: Horningsham
+awayTeam: The Min
 game: Horningsham v The Min
 location: Horningsham
 date: 15/07/2012
@@ -26,7 +28,7 @@ So to splashing in the shallows of the outfield post tea, where we fared reasona
 
 Still we took the positives; that we played at all and that we didn't drown.
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -65,7 +67,7 @@ Still we took the positives; that we played at all and that we didn't drown.
 | **M Brumble** | 4 | 1 | 5 | 0 |
 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

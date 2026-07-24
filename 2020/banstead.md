@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Banstead
+homeTeam: Banstead
+awayTeam: The Min
 game: Banstead v The Min
 location: Banstead
 date: 09/08/2020
@@ -12,7 +14,7 @@ parent: 2020 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2020 Fixtures
 | **K Gallagher** | 7 | 0 | 50 | 0 |
 | **J Casey** | 5 | 1 | 24 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

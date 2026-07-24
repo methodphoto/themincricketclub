@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 03/06/2001
@@ -14,7 +16,7 @@ parent: 2001 Fixtures
 
 I Marshall's 7th five wkt haul
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ I Marshall's 7th five wkt haul
 | **M Medhurst** | 7 | 0 | 30 | 0 |
 | **M Cox** | 5 | 0 | 17 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

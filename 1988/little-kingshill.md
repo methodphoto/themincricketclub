@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Little Kingshill
+homeTeam: Little Kingshill
+awayTeam: The Min
 game: Little Kingshill v The Min
 location: Little Kingshill
 date: 20/05/1988
@@ -12,7 +14,7 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -45,7 +47,7 @@ parent: 1988 Fixtures
 | **DM Chandler** | 8 | 1 | 34 | 0 |
 | **DO Chandler** | 12.3 | 6 | 19 | 6 |
 
-## Little Kingshill Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

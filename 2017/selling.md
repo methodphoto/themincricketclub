@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Selling
+homeTeam: Selling
+awayTeam: The Min
 game: Selling v The Min
 location: Cadman's Meadow
 gameDate: 24/09/2017
@@ -11,7 +13,7 @@ parent: 2017 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2017 Fixtures
 | **I Miah** | 7 | 0 | 44 | 2 |
 | **S Islam** | 3 | 0 | 16 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

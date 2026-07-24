@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Exford
+homeTeam: Exford
+awayTeam: The Min
 game: Exford v The Min
 location: Exford
 date: 12/07/2014
@@ -14,7 +16,7 @@ parent: 2014 Fixtures
 
 A Gallagher's 13th 50. H Ingham hat trick
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -55,7 +57,7 @@ A Gallagher's 13th 50. H Ingham hat trick
 | **J Williamson** | 1 | 0 | 5 | 0 |
 | **I Whybrow** | 1 | 0 | 12 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

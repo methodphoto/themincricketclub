@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Limpsfield
+homeTeam: Limpsfield
+awayTeam: The Min
 game: Limpsfield v The Min
 location: Limpsfield
 date: 19/06/1988
@@ -12,7 +14,7 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1988 Fixtures
 | **J Wright** | 4 | 0 | 13 | 2 |
 | **E Garland** | 2 | 0 | 34 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

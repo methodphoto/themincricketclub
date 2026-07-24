@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Wills Hall
+homeTeam: Wills Hall
+awayTeam: The Min
 game: The Min v Wills Hall
 location: Coombe Dingle
 date: 10/06/1982
@@ -12,8 +14,7 @@ parent: 1982 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
-
+## {{page.awayTeam}} Innings
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
 | **J Booth** | c & b | Abrahams | 33 |
@@ -47,8 +48,7 @@ parent: 1982 Fixtures
 | **Shearing** | 3 | 0 | 38 | 1 |
 | **Mason** | 3 | 0 | 19 | 2 |
 
-## {{page.title}} Innings
-
+## {{page.homeTeam}} Innings
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
 | **Emmott** | b | L Sheridan | 0 |

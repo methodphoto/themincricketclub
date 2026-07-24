@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Selling
+homeTeam: Selling
+awayTeam: The Min
 game: Selling v The Min
 location: Cadman's Meadow
 date: 06/08/2006
@@ -12,7 +14,7 @@ parent: 2006 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2006 Fixtures
 | **D King** | 8 | 1 | 51 | 2 |
 | **T Honesham** | 0.3 | 0 | 6 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

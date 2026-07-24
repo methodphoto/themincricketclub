@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Putney
+homeTeam: Putney
+awayTeam: The Min
 game: Putney v The Min
 location: Putney CC
 date: 17/08/2008
@@ -12,7 +14,7 @@ parent: 2008 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2008 Fixtures
 |  | 3 | 0 | 28 | 0 |
 | **S Iqbal** | 2 | 0 | 25 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

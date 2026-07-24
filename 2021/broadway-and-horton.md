@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 09/07/2021
@@ -14,7 +16,7 @@ parent: 2021 Fixtures
 
 E Garland 5 wkts
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ E Garland 5 wkts
 | **E Garland** | 8 | 1 | 46 | 5 |
 | **A Beswick** | 2 | 0 | 6 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

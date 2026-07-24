@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Red Bat
+homeTeam: Red Bat
+awayTeam: The Min
 game: Red Bat v The Min
 location: Dulwich Park
 date: 26/05/1985
@@ -12,7 +14,7 @@ parent: 1985 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1985 Fixtures
 | **Hamid** | 5 | 2 | 16 | 3 |
 | **Wellbrock** | 1 | 0 | 5 | 1 |
  
-## West Wickham Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

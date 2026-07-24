@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Britwell Salome
+homeTeam: Britwell Salome
+awayTeam: The Min
 game: Britwell Salome v The Min
 location: Britwell Salome CC
 date: 27/04/2013
@@ -15,7 +17,7 @@ parent: 2013 Fixtures
 S Hornsby's 4th 100. R Beswick's 26th 50.<br />
 [Partnership](../records/partnerships) of 133 between S Hornsby and R Beswick
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ S Hornsby's 4th 100. R Beswick's 26th 50.<br />
 | **Ali** | 4 | 0 | 28 | 1 |
 | **Prior** | 5 | 1 | 23 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

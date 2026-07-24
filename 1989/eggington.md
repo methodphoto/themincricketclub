@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Eggington
+homeTeam: The Min
+awayTeam: Eggington
 game: The Min v Eggington
 location: Toddington Manor
 date: 17/09/1989
@@ -12,7 +14,7 @@ parent: 1989 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1989 Fixtures
 | **Cardon** | 9 | 0 | 60 | 3 |
 | **Daines** | 1 | 0 | 6 | 0 |
 
-## Eggington Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

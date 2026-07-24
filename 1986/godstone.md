@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Godstone
+homeTeam: Godstone
+awayTeam: The Min
 game: Godstone v The Min
 location: Godstone
 date: 29/06/2018
@@ -12,7 +14,7 @@ parent: 1986 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1986 Fixtures
 | **T Purves** | 6 | 1 | 29 | 3 |
 | **M Gardiner** | 4 | 0 | 32 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 30/08/1987
@@ -14,7 +16,7 @@ parent: 1987 Fixtures
 
 R Olver's 1st Michelle
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Olver's 1st Michelle
 | **J Wright** | 8 | 3 | 13 | 0 |
 | **E Garland** | 2.1 | 1 | 2 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

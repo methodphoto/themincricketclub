@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Honor Oak
+homeTeam: Honor Oak
+awayTeam: The Min
 game: Honor Oak v The Min
 location: Southwark Sports Ground
 date: 13/07/2003
@@ -12,7 +14,7 @@ parent: 2003 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2003 Fixtures
 | **R Earney** | 4 | 0 | 19 | 0 |
 | **R Beswick** | 3 | 0 | 12 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

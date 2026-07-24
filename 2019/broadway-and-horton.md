@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 05/07/2019
@@ -16,7 +18,7 @@ S Hornsby's 16th 50
 
 P Wigg's 1st Michelle
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -54,8 +56,7 @@ P Wigg's 1st Michelle
 | **A Dummet** | 4 | 0 | 39 | 1 |
 | **H Payne** | 3 | 0 | 10 | 1 |
 
- ## {{page.title}} Innings
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 
 | Batsman | Dismissal |  | Runs |

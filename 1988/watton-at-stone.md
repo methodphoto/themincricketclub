@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 18/09/1988
@@ -13,7 +15,7 @@ parent: 1988 Fixtures
 
 Phil Bentley, first centurion
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ Phil Bentley, first centurion
 | **Harris** | 4 | 0 | 22 | 4 |
 | **I Fursland** | 2 | 0 | 17 | 0 |
 
-## Watton-at-Stone Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kilmington and Stourton
+homeTeam: Kilmington and Stourton
+awayTeam: The Min
 game: Kilmington and Stourton v The Min
 location: Stourhead
 date: 26/07/1997
@@ -12,7 +14,7 @@ parent: 1997 Fixtures
 
 {% include matchDetails %}
 
-## Kilmington and Stourton Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 1997 Fixtures
 | **D Young** | 2 | 0 | 7 | 1 |
 | **P Grant** | 0.2 | 0 | 2 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

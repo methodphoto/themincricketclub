@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Greenford
+homeTeam: Greenford
+awayTeam: The Min
 game: Greenford v The Min
 location: Perivale
 date: 13/05/1984
@@ -15,7 +17,7 @@ parent: 1984 Fixtures
 Tony Purves: best bowling<br /> 
 E Bishop's 1st 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ E Bishop's 1st 50
 | **Bowler 5** | 8.5 | 0 | 36 | 1 |
 | **Bowler 6** | 2 | 0 | 23 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

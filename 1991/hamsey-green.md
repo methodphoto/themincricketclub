@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hamsey Green
+homeTeam: Hamsey Green
+awayTeam: The Min
 game: Hamsey Green v The Min
 location: Hamsey Green
 date: 14/07/1991
@@ -12,7 +14,7 @@ parent: 1991 Fixtures
 
 {% include matchDetails %}
 
-## Hamsey Green Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1991 Fixtures
 | **S Hornsby** | 4 | 0 | 34 | 1 |
 | **D Swann** | 1 | 0 | 10 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Brook
+homeTeam: Brook
+awayTeam: The Min
 game: Brook v The Min
 location: The Pirrie Hall Recreation Ground
 date: 08/07/1990
@@ -12,7 +14,7 @@ parent: 1990 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1990 Fixtures
 | **R Earney** | 3 | 1 | 3 | 0 |
 | **S Hornsby** | 2.3 | 0 | 14 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

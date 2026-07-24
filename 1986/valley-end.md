@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Valley End
+homeTeam: Valley End
+awayTeam: The Min
 game: Valley End v The Min
 location: Valley End
 date: 06/07/1986
@@ -14,7 +16,7 @@ parent: 1986 Fixtures
 
 M Taylor's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ M Taylor's 1st 50
 | **R Beswick** | 11 | 0 | 48 | 2 |
 | **J Wright** | 11 | 1 | 39 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: British Legion Rickmansworth
+homeTeam: British Legion Rickmansworth
+awayTeam: The Min
 game: British Legion Rickmansworth v The Min
 location: Scotsridge Field
 date: 18/08/1984
@@ -14,7 +16,7 @@ parent: 1984 Fixtures
 
 A Lisser's 1st 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ A Lisser's 1st 50
 | **A Gravestock** | 5 | 0 | 28 | 0 |
 | **Naughton** | 6 | 1 | 18 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

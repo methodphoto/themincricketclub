@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Brookwood
+homeTeam: Brookwood
+awayTeam: The Min
 game: Brookwood v The Min
 location: Brookwood
 date: 11/07/2004
@@ -18,7 +20,7 @@ R Earney becomes the leading run scorer for The Min<br />
 
 <img src="brookwood_two_2004.jpg" width="100%" alt="Jim and Bes" />
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -54,7 +56,7 @@ R Earney becomes the leading run scorer for The Min<br />
 | **Hobbs** | 3 | 0 | 20 | 2 |
 | **Powell** | 0.5 | 0 | 12 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tappers
+homeTeam: The Min
+awayTeam: Tappers
 game: The Min v Tappers
 location: Solefields
 date: 18/05/2008
@@ -18,7 +20,7 @@ M Gupta's 1st 50
 
 <img src="20080518.jpg" width="100%" alt="Team against Tappers" />
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ M Gupta's 1st 50
 | **J Wright** | 10 | 1 | 32 | 4 |
 | **R Green** | 7.5 | 1 | 23 | 3 |
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

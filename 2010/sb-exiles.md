@@ -1,6 +1,8 @@
 ---
 layout: default
 title: SB Exiles
+homeTeam: SB Exiles
+awayTeam: The Min
 game: SB Exiles v The Min
 location: Hampstead Heath Extension
 date: 05/09/2010
@@ -12,7 +14,7 @@ parent: 2010 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2010 Fixtures
 | **G Weekes** | 8 | 0 | 42 | 2 |
 | **I Majid** | 2 | 0 | 16 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

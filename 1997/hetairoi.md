@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hetairoi
+homeTeam: Hetairoi
+awayTeam: The Min
 game: Hetairoi v The Min
 location: Cranleigh School
 date: 17/08/1997
@@ -15,7 +17,7 @@ parent: 1997 Fixtures
 J Grant's highest score for The Min.<br />
 [Partnership](../records/partnerships) of 116 between J Grant and J Hylton. 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ J Grant's highest score for The Min.<br />
 | **C McKintosh** | 3 | 0 | 23 | 1 |
 
 
-## Hetairoi Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

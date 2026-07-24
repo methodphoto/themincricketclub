@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Bricklayer's Arms
+homeTeam: Bricklayer's Arms
+awayTeam: The Min
 game: Bricklayer's Arms v The Min
 location: Abbey Recreation Ground, Merton
 date: 15/05/2022
@@ -14,7 +16,7 @@ parent: 2022 Fixtures
 
 J Carroll's 3rd 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ J Carroll's 3rd 50
 | **S Lall** | 2.5 | 0 | 13 | 2 |
 | **J Day** | 1 | 0 | 10 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

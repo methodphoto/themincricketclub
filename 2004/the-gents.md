@@ -1,6 +1,8 @@
 ---
 layout: default
 title: The Gents
+homeTeam: The Gents
+awayTeam: The Min
 game: The Gents v The Min
 location: University of Bath Sports Ground
 date: 10/07/2004
@@ -14,7 +16,7 @@ parent: 2004 Fixtures
 
 R Earney's 22nd 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Earney's 22nd 50
 | **B Jennings** | 4 | 0 | 38 | 1 |
 | **S Wilson** | 4 | 0 | 48 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

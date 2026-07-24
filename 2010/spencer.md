@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Spencer
+homeTeam: Spencer
+awayTeam: The Min
 game: Spencer v The Min
 location: Spencer CC
 date: 26/09/2010
@@ -11,7 +13,7 @@ parent: 2010 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 2010 Fixtures
 | **S Sindhu** | 9 | 2 | 45 | 3 |
 | **I Brown** | 6 | 1 | 43 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

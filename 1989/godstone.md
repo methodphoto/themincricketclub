@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Godstone
+homeTeam: Godstone
+awayTeam: The Min
 game: Godstone v The Min
 location: Godstone
 date: 30/07/1989
@@ -14,7 +16,7 @@ parent: 1989 Fixtures
 
 A Gallagher 4 catches in an innings
 
-## Godstone Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ A Gallagher 4 catches in an innings
 | **R Earney** | 3 | 0 | 24 | 2 |
 | **J Mizel** | 7.1 | 1 | 35 | 4 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Valley End
+homeTeam: Valley End
+awayTeam: The Min
 game: Valley End v The Min
 location: Valley End
 date: 09/07/1989
@@ -12,7 +14,7 @@ parent: 1989 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1989 Fixtures
 | **J Wright** | 10 | 0 | 40 | 0 |
 | **A Gallagher** | 4 | 0 | 26 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

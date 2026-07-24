@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 06/07/2018
@@ -14,7 +16,7 @@ parent: 2018 Fixtures
 
 S Barrowcliff 50 off 68 balls
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ S Barrowcliff 50 off 68 balls
 | **R Beswick** | 8 | 0 | 39 | 1 |
 | **R Earney** | 1.2 | 1 | 0 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

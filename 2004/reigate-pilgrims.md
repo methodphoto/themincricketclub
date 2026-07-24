@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 12/09/2004
@@ -14,7 +16,7 @@ parent: 2004 Fixtures
 
 M Goff's 2nd 50 and highest score
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ M Goff's 2nd 50 and highest score
 | **K Copestake** | 6 | 1 | 26 | 1 |
 | **S Hawkins** | 1.1 | 0 | 6 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

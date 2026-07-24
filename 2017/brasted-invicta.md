@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Brasted Invicta
+homeTeam: Brasted Invicta
+awayTeam: The Min
 game: Brasted Invicta v The Min
 location: Upper Neville Ground, Tunbridge Wells
 date: 10/09/2017
@@ -17,7 +19,7 @@ S Hornsby's 17th 50. R Damaze's 2nd 50.<br />
 
 S Amin best bowling for The Min.
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -54,7 +56,7 @@ S Amin best bowling for The Min.
 | **Baker** | 3 | 0 | 20 | 0 |
 | **Campbell** | 2 | 0 | 22 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

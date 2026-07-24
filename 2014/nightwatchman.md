@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Nightwatchman
+homeTeam: The Min
+awayTeam: Nightwatchman
 game: The Min v Nightwatchman
 location: Solefields
 date: 11/05/2014
@@ -12,7 +14,7 @@ parent: 2014 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 2014 Fixtures
 | **S Schumann** | 7 | 0 | 32 | 2 |
 | **M Elwin** | 7 | 0 | 32 | 1 |
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

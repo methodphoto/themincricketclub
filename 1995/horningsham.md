@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Horningsham
+homeTeam: Horningsham
+awayTeam: The Min
 game: Horningsham v The Min
 location: Horningsham
 date: 29/07/1995
@@ -12,7 +14,7 @@ parent: 1995 Fixtures
 
 {% include matchDetails %}
 
-## Horningsham Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1995 Fixtures
 | **J Wright** | 12 | 3 | 34 | 5 |
 | **R Beswick** | 5 | 0 | 38 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

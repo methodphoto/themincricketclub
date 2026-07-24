@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Abbey Players
+homeTeam: Abbey Players
+awayTeam: The Min
 game: Abbey Players v The Min
 location: Aldenham School
 date: 02/07/1995
@@ -15,7 +17,7 @@ parent: 1995 Fixtures
 D Powell 106. Partnership of 106 between D Powell and S Wombwell<br />
 [Partnership](../records/partnerships) of 129 between S Barrowcliff and R Beswick
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ D Powell 106. Partnership of 106 between D Powell and S Wombwell<br />
 | **R Earney** | 9 | 0 | 52 | 0 |
 | **S Speight** | 8 | 1 | 47 | 3 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hampton Wick Royal
+homeTeam: Hampton Wick Royal
+awayTeam: The Min
 game: Hampton Wick Royal v The Min
 location: Hampton Wick Royal CC
 date: 22/08/2010
@@ -12,7 +14,7 @@ parent: 2010 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2010 Fixtures
 | **M Gupta** | 3 | 0 | 13 | 1 |
 | **S Sorsa** | 1 | 0 | 10 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

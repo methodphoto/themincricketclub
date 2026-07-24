@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Brook
+homeTeam: Brook
+awayTeam: The Min
 game: Brook 2nd XI v The Min
 location: The Pirrie Hall Recreation Ground
 date: 15/05/1985
@@ -14,7 +16,7 @@ parent: 1985 Fixtures
 
 A Sylvester's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ A Sylvester's 1st 50
 | **W Calvert** | 3 | 0 | 33 | 0 |
 | **J Wright** | 13 | 0 | 53 | 3 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

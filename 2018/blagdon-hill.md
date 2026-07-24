@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Blagdon Hill
+homeTeam: Blagdon Hill
+awayTeam: The Min
 game: Blagdon Hill v The Min
 location: Blagdon Hill
 date: 05/07/2018
@@ -12,7 +14,7 @@ parent: 2018 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2018 Fixtures
 | **D Wright** | 8 | 1 | 27 | 3 |
 | **A Davidson** | 5 | 0 | 15 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

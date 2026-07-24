@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Warminster Garrison
+homeTeam: Warminster Garrison
+awayTeam: The Min
 game: Warminster Garrison v The Min
 location: Bishopstrow
 date: 09/07/2005
@@ -12,7 +14,7 @@ parent: 2005 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2005 Fixtures
 | **A Coombe** | 2 | 0 | 14 | 0 |
 | **J Cushnir** | 4 | 0 | 23 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

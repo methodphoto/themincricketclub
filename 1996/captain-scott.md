@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Captain Scott
+homeTeam: The Min
+awayTeam: Captain Scott
 game: The Min v Captain Scott
 location: Reigate Grammar School
 date: 10/08/1996
@@ -12,7 +14,7 @@ parent: 1996 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1996 Fixtures
 | **Allen** | 7 | 0 | 32 | 2 |
 | **Sychoff** | 7 | 0 | 32 | 1 |
 
-## Captain Scott XI Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

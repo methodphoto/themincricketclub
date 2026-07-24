@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Lobsters
+homeTeam: Lobsters
+awayTeam: The Min
 game: Lobsters v The Min
 location: New Field, Clifton School
 date: 15/06/1982
@@ -12,7 +14,7 @@ parent: 1982 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 1982 Fixtures
 | **R Beswick** | 2 | 0 | 11 | 0 |
 | **R Emanuel** | 1 | 0 | 15 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

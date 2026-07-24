@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Flying Wickets
+homeTeam: The Min
+awayTeam: Flying Wickets
 game: The Min v Flying Wickets
 location: Toddington Manor
 date: 12/09/1987
@@ -14,7 +16,7 @@ parent: 1987 Fixtures
 J Grant's 6th 50<br />
 E Garland's 2nd Michelle
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ E Garland's 2nd Michelle
 | **Rathod** | 4 | 0 | 28 | 0 |
 | **Ruparelia** | 8 | 0 | 47 | 4 |
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

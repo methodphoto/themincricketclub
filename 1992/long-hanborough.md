@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Long Hanborough
+homeTeam: Long Hanborough
+awayTeam: The Min
 game: Long Hanborough v The Min
 location: Long Hanborough
 date: 23/08/1992
@@ -12,7 +14,7 @@ parent: 1992 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1992 Fixtures
 | **P liver** | 6 | 0 | 42 | 2 |
 | **D Simpson** | 5 | 0 | 29 | 0 |
 
-## Long Hanborough Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

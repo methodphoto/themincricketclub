@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tatsfield
+homeTeam: Tatsfield
+awayTeam: The Min
 game: Tatsfield v The Min
 location: Tatsfield Village CC
 date: 02/07/2000
@@ -13,7 +15,7 @@ parent: 2000 Fixtures
 {% include matchDetails %}
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2000 Fixtures
 | **Mortimer** | 7 | 0 | 30 | 2 |
 | **Clark** | 1.1 | 0 | 4 | 3 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

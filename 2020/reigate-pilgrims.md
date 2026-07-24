@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 13/09/2020
@@ -15,7 +17,7 @@ parent: 2020 Fixtures
 
 M Wright batted, Charlotte Wright and Harry Earney fielded
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ M Wright batted, Charlotte Wright and Harry Earney fielded
 | **M Nathavani** | 7 | 0 | 30 | 1 |
 | **L Marsh** | 1.1 | 0 | 8 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

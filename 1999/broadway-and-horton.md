@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 25/07/1999
@@ -14,7 +16,7 @@ parent: 1999 Fixtures
 
 Broadway and Horton regained The Ashes
 
-## Broadway and Horton Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ Broadway and Horton regained The Ashes
 | **R Beswick** | 8 | 1 | 25 | 0 |
 | **E Garland** | 6 | 0 | 28 | 3 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

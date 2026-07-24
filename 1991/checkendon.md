@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Checkendon
+homeTeam: Checkendon
+awayTeam: The Min
 game: Checkendon v The Min
 location: Checkendon
 date: 09/06/1991
@@ -12,7 +14,7 @@ parent: 1991 Fixtures
 
 {% include matchDetails %}
 
-## Checkendon Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1991 Fixtures
 | **R Earney** | 2 | 0 | 15 | 0 |
 | **D Swann** | 0.1 | 0 | 0 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

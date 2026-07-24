@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Exford
+homeTeam: Exford
+awayTeam: The Min
 game: Exford v The Min
 location: Exford
 date: 13/07/2013
@@ -12,7 +14,7 @@ parent: 2013 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 2013 Fixtures
 | **C North** | 2 | 0 | 33 | 0 |
 | **J Dus** | 2 | 0 | 21 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

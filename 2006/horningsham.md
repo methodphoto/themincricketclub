@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Horningsham
+homeTeam: Horningsham
+awayTeam: The Min
 game: Horningsham v The Min
 location: Horningsham
 date: 15/07/2006
@@ -18,7 +20,7 @@ R Earney's 33rd 50. R Beswick's 20th 50. P O'Mahony 45 off 18 balls for his high
 
 <img src="horningsham2006.jpg" width="100%" alt="The 3 Wise Monkeys" />
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ R Earney's 33rd 50. R Beswick's 20th 50. P O'Mahony 45 off 18 balls for his high
 | **S Burgoyne-Lock** | 6 | 0 | 44 | 0 |
 | **Stern** | 2 | 0 | 26 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

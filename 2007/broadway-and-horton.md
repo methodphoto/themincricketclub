@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 12/07/2007
@@ -14,7 +16,7 @@ parent: 2007 Fixtures
 
 <img src="broadway-team-2007.jpg" width="100%" alt="Team against Broadway" />
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 2007 Fixtures
 | **T Knight** | 6 | 0 | 47 | 4 |
 | **J Pike** | 2 | 0 | 5 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

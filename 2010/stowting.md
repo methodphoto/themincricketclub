@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 04/07/2010
@@ -14,7 +16,7 @@ parent: 2010 Fixtures
 
 R Beswick's 4th Michelle.
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ R Beswick's 4th Michelle.
 | **R Beswick** | 12 | 3 | 33 | 5 |
 | **J Wright** | 9 | 0 | 47 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tappers
+homeTeam: The Min
+awayTeam: Tappers
 game: The Min v Tappers 
 location: Solefields
 date: 05/06/2005
@@ -12,7 +14,7 @@ parent: 2005 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 2005 Fixtures
 | **S Wilkin** | 8 | 1 | 47 | 3 |
 | **J Wright** | 0.1 | 0 | 0 | 1 |
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

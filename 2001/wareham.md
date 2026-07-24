@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Wareham
+homeTeam: Wareham
+awayTeam: The Min
 game: Wareham v The Min
 location: Wareham CC
 date: 12/07/2001
@@ -15,7 +17,7 @@ parent: 2001 Fixtures
 R Earney's 2nd Century.<br />
 [Partnership](../records/partnerships) of 151 between R Earney and R Beswick
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ R Earney's 2nd Century.<br />
 | **D Munns** | 2 | 0 | 16 | 0 |
 | **N Nye** | 5 | 0 | 42 | 4 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

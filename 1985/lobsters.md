@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Lobsters
+homeTeam: Lobsters
+awayTeam: The Min
 game: Lobsters v The Min
 location: New Field, Clifton School
-gameDate: "14/07.1985"
+gameDate: 14/07.1985
 report: Lobsters batted first made 183 for 7 wkts. The Min replied with 164 all out.
 result: Lobsters won by 19 runs
 next: old-wilsonians
@@ -14,7 +16,7 @@ parent: 1985 Fixtures
 
 M Kirwan's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ M Kirwan's 1st 50
 | **D Newman** | 1 | 0 | 9 | 0 |
 | **A Gallagher** | 4 | 0 | 34 | 1 |  
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

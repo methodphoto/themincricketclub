@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Farnborough
+homeTeam: Farnborough
+awayTeam: The Min
 game: Farnborough v The Min
 location: Farnborough
 date: 27/07/1997
@@ -12,7 +14,7 @@ parent: 1997 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1997 Fixtures
 | **I Pryor** | 10 | 0 | 37 | 1 |
 | **A Howard** | 7 | 1 | 32 | 1 |
 
-## Farnborough Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

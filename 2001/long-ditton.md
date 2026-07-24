@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Long Ditton
+homeTeam: Long Ditton
+awayTeam: The Min
 game: Long Ditton v The Min
 location: Long Ditton CC
 date: 13/05/2001
@@ -13,7 +15,7 @@ parent: 2001 Fixtures
 {% include matchDetails %}
 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2001 Fixtures
 | **R Beswick** | 4 | 1 | 4 | 0 |
 | **P Beswick** | 3 | 0 | 9 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

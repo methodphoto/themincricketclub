@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Farnborough
+homeTeam: Farnborough
+awayTeam: The Min
 game: Farnborough v The Min
 location: Farnborough
 date: 30/07/1995
@@ -12,7 +14,7 @@ parent: 1995 Fixtures
 
 {% include matchDetails %}
 
-## Farnborough Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1995 Fixtures
 | **E Garland** | 4 | 1 | 21 | 0 |
 | **W Calvert** | 3 | 0 | 22 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

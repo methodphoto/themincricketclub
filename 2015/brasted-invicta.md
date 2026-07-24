@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Brasted Invicta
+homeTeam: Brasted Invicta
+awayTeam: The Min
 game: Brasted Invicta v The Min
 location: Hawkenbury Recreation Ground
 date: 06/09/2015
@@ -14,7 +16,7 @@ parent: 2015 Fixtures
 
 R Earney's 50th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ R Earney's 50th 50
 | **B Young** | 10 | 0 | 60 | 4 |
 | **Howlett** | 3 | 0 | 27 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

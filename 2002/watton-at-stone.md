@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 21/06/2002
@@ -15,7 +17,7 @@ parent: 2002 Fixtures
 R Earney's third century for The Min.<br />
 [Partnership](../records/partnerships) of 158 between R Earney and R Kitson
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ R Earney's third century for The Min.<br />
 | **Harvey** | 10 | 0 | 47 | 0 |
 | **M Tipper** | 7 | 0 | 37 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

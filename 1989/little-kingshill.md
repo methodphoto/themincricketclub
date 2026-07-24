@@ -1,6 +1,8 @@
 +---
 layout: default
 title: Little Kingshill
+homeTeam: Little Kingshill
+awayTeam: The Min
 game: Little Kingshill v The Min
 location: Little Kingshill
 date: 29/05/1989
@@ -12,7 +14,7 @@ parent: 1989 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1989 Fixtures
 | **M Skinner** | 14 | 1 | 70 | 3 |
 | **G Lee** | 4 | 0 | 23 | 2 |
 
-## Little Kingshill Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

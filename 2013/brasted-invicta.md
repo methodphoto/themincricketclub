@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Brasted Invicta
+homeTeam: Brasted Invicta
+awayTeam: The Min
 game: Brasted Invicta v The Min
 location: Hawkenbury Recreation Ground
 date: 08/09/2013
@@ -14,7 +16,7 @@ parent: 2013 Fixtures
 
 R Earney's 44th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ R Earney's 44th 50
 | **B Young** | 10 | 1 | 58 | 2 |
 | **J Wilson** | 7 | 1 | 28 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

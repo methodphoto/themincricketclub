@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Colfeians
+homeTeam: Old Colfeians
+awayTeam: The Min
 game: Old Colfeians v The Min
 location: Horn Park
 date: 05/09/1999
@@ -13,7 +15,7 @@ parent: 1999 Fixtures
 {% include matchDetails %}
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1999 Fixtures
 | **D Blackwell** | 7 | 0 | 45 | 2 |
 | **Pye** | 11 | 3 | 44 | 3 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

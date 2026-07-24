@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Addington 1743
+homeTeam: Addington 1743
+awayTeam: The Min
 game: Addington 1743 v The Min
 location: Addington 1743 CC
 date: 11/08/2013
@@ -11,7 +13,7 @@ parent: 2013 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 2013 Fixtures
 | **R Shafi** | 4 | 0 | 22 | 2 |
 | **C McDowell** | 4 | 0 | 34 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 11/07/2003
@@ -14,7 +16,7 @@ parent: 2003 Fixtures
 
 Broadway and Horton regained the Ashes
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ Broadway and Horton regained the Ashes
 | **I Marshall** | 8 | 0 | 37 | 2 |
 | **R Earney** | 5 | 0 | 34 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

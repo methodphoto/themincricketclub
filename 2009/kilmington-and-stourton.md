@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kilmington and Stourton
+homeTeam: Kilmington and Stourton
+awayTeam: The Min
 game: Kilmington and Stourton v The Min
 location: Stourhead
 date: 10/07/2009
@@ -14,7 +16,7 @@ parent: 2009 Fixtures
 
 R Beswick's 22nd 50 and highest score
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ R Beswick's 22nd 50 and highest score
 | **Knapp** | 5 | 0 | 29 | 1 |
 | **Cheal** | 5 | 1 | 19 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

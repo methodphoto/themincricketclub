@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Friar's Oak
+homeTeam: Friar's Oak
+awayTeam: The Min
 game: Friar's Oak v The Min
 location: Friar's Oak
 date: 26/07/1987
@@ -12,7 +14,7 @@ parent: 1987 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1987 Fixtures
 | **E Garland** | 4 | 0 | 22 | 3 |
 | **M Gardiner** | 4 | 1 | 14 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

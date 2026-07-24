@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 30/08/2015
@@ -14,7 +16,7 @@ parent: 2015 Fixtures
 
 S Habib's 1st 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ S Habib's 1st 50
 | **S Thompson** | 5 | 1 | 36 | 2 |
 | **C Jackson** | 1.5 | 0 | 7 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

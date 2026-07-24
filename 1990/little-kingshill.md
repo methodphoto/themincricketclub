@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Little Kingshill
+homeTeam: Little Kingshill
+awayTeam: The Min
 game: Little Kingshill v The Min
 location: Little Kingshill CC
 date: 25/05/1990
@@ -13,7 +15,7 @@ parent: 1990 Fixtures
 {% include matchDetails %}
 
  
-## Little Kingshill Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 1990 Fixtures
 | **A Gallagher** | 2 | 0 | 15 | 0 |
 | **R Earney** | 3 | 0 | 33 | 0 |  
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

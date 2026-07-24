@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ballinger Waggoners
+homeTeam: Ballinger Waggoners
+awayTeam: The Min
 game: Ballinger Waggoners v The Min
 location: Ballinger Waggoners CC
 date: 06/06/2004
@@ -14,7 +16,7 @@ parent: 2004 Fixtures
 
 R Earney’s 19th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Earney’s 19th 50
 | **J Lacey** | 2 | 1 | 5 | 0 |
 | **T Hardy** | 1.3 | 1 | 0 | 3 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

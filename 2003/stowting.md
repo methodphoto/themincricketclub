@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 06/07/2003
@@ -12,11 +14,9 @@ parent: 2003 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
-
 J Wright, 3rd 5 wkt haul
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +52,7 @@ J Wright, 3rd 5 wkt haul
 | **A Harrison** | 9 | 4 | 23 | 4 |
 | **M Jackson** | 3 | 1 | 22 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Frensham
+homeTeam: Frensham
+awayTeam: The Min
 game: Frensham v The Min
 location: Hollowdene Recreation Ground
 date: 04/06/2017
@@ -15,7 +17,7 @@ parent: 2017 Fixtures
 M Gupta's 1st 100.<br />
 [Partnership](../records/partnerships) of 101 between M Gupta and S Hornsby
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ M Gupta's 1st 100.<br />
 | **J Wright** | 9 | 0 | 52 | 2 |
 | **R Beswick** | 5 | 0 | 35 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

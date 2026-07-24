@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Polytechnic III
+homeTeam: Polytechnic III
+awayTeam: The Min
 game: Polytechnic III XI v The Min
 location: Quintin Hogg Memorial Ground
 date: 17/07/1994
@@ -15,7 +17,7 @@ parent: 1994 Fixtures
 R Earney highest score..<br />
 R Earney and R Beswick partnership of 131
 
-## Polytechnic III Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Earney and R Beswick partnership of 131
 | **R Colethorpe** | 3 | 0 | 9 | 0 |
 | **R Earney** | 5 | 1 | 21 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

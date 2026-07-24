@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Selling
+homeTeam: Selling
+awayTeam: The Min
 game: Selling v The Min
 location: Cadman's Meadow
 date: 20/09/2015
@@ -11,7 +13,7 @@ parent: 2015 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ parent: 2015 Fixtures
 | **D King** | 1 | 0 | 7 | 1 |
 | **B Sweeting** | 1 | 0 | 8 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

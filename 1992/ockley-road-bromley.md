@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ockley Road, Bromley v The Min
+homeTeam: Ockley Road, Bromley v The Min
+awayTeam: The Min
 game: Ockley Road, Bromley
 location: Ockley Road, Bromley
 date: 11/07/1992
@@ -12,7 +14,7 @@ parent: 1992 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1992 Fixtures
 | **Kennedy** | 3 | 2 | 10 | 0 |
 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

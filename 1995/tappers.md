@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tappers
+homeTeam: The Min
+awayTeam: Tappers
 game: The Min v Tappers
 location: Reigate Grammar School
 date: 16/07/1995
@@ -12,7 +14,7 @@ parent: 1995 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1995 Fixtures
 | **W Calvert** | 2 | 0 | 19 | 0 |
 | **R Kotecha** | 2 | 0 | 30 | 0 |
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Bricklayer's Arms
+homeTeam: Bricklayer's Arms
+awayTeam: The Min
 game: Bricklayer's Arms v The Min
 location: Abbey Recreation Ground, Merton
 date: 06/06/2021
@@ -14,7 +16,7 @@ parent: 2021 Fixtures
 
 A Beswick's 9th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ A Beswick's 9th 50
 | **B Boyd-Taylor** | 4 | 0 | 26 | 2 |
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

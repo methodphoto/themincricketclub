@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newington
+homeTeam: Newington
+awayTeam: The Min
 game: Newington v The Min
 location: Upchurch Cricket Club
 date: 15/05/2016
@@ -14,7 +16,7 @@ parent: 2016 Fixtures
 
 M Bowerman 50 on debut
  
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ M Bowerman 50 on debut
 | **J Wright** | 5 | 0 | 19 | 1 |
 | **M Gupta** | 2 | 0 | 8 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Checkendon
+homeTeam: Checkendon
+awayTeam: The Min
 game: Checkendon v The Min
 location: Checkendon
 date: 07/08/1994
@@ -12,7 +14,7 @@ parent: 1994 Fixtures
 
 {% include matchDetails %}
 
-## Checkendon Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1994 Fixtures
 | **R Beswick** | 7 | 3 | 5 | 4 |
 | **J Wright** | 3.5 | 1 | 7 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Sudbury Court
+homeTeam: Sudbury Court
+awayTeam: The Min
 game: Sudbury Court v The Min
 location: Sudbury Court
 date: 15/07/1994
@@ -14,7 +16,7 @@ parent: 1984 Fixtures
 
 A Gallagher's 3rd 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ A Gallagher's 3rd 50
 | **Gibbs** | 7 | 1 | 39 | 3 |
 | **Benning-Syngh** | 4 | 1 | 27 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

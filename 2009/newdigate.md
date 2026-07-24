@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newdigate
+homeTeam: Newdigate
+awayTeam: The Min
 game: Newdigate v The Min
 location: The Brocus
 date: 14/06/2009
@@ -30,7 +32,7 @@ Mo also picked up two wickets in a game where everyone, including debutant Raf w
 
 M Gupta's 3rd 50. E Garland's 6th Michelle and best bowling
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -66,7 +68,7 @@ M Gupta's 3rd 50. E Garland's 6th Michelle and best bowling
 | **J Penfold** | 5 | 1 | 33 | 1 |
 | **C Perrin** | 4 | 1 | 6 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

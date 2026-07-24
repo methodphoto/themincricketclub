@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newdigate
+homeTeam: Newdigate
+awayTeam: The Min
 game: Newdigate v The Min
 location: The Brocus
 date: 13/06/2004
@@ -14,7 +16,7 @@ parent: 2004 Fixtures
 
 M Goff's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 
 | Batsman | Dismissal |  | Runs |
@@ -50,7 +52,7 @@ M Goff's 1st 50
 | **J Wright** | 4 | 0 | 47 | 0 |
 | **M Lockyear** | 2 | 0 | 25 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

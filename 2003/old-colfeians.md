@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Colfeians
+homeTeam: Old Colfeians
+awayTeam: The Min
 game: Old Colfeians v The Min
 location: Horn Park
 date: 18/05/2003
@@ -12,7 +14,7 @@ parent: 2003 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 2003 Fixtures
 | **J Wright** | 11 | 1 | 46 | 2 |
 | **J Smith** | 9 | 0 | 45 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

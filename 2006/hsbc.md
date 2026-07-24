@@ -1,6 +1,8 @@
 ---
 layout: default
 title: HSBC
+homeTeam: HSBC
+awayTeam: The Min
 game: HSBC v The Min
 location: HSBC London Sports & Social Club
 date: 02/07/2006
@@ -12,7 +14,7 @@ parent: 2006 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2006 Fixtures
 | **E Garland** | 8 | 1 | 21 | 2 |
 | **G Powell** | 4 | 0 | 18 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

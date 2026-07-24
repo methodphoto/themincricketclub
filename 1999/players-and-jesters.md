@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Players and Jesters
+homeTeam: Players and Jesters
+awayTeam: The Min
 game: Players and Jesters v The Min
 location: Rothhamstead Park
 date: 16/05/1999
@@ -13,7 +15,7 @@ parent: 1999 Fixtures
 {% include matchDetails %}
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1999 Fixtures
 | **Hopkins** | 6 | 1 | 41 | 3 |
 | **Gray** | 3 | 0 | 17 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

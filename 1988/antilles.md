@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Antillies
+homeTeam: Antillies
+awayTeam: The Min
 game: Antillies v The Min
 location: Canon's Park
 date: 12/06/1988
@@ -12,7 +14,7 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1988 Fixtures
 | **R Olver** | 7 | 0 | 36 | 0 |
 | **J Wright** | 7 | 0 | 37 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

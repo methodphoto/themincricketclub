@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Mihir Bose's XI
+homeTeam: Mihir Bose's XI
+awayTeam: The Min
 game: Mihir Bose's XI v The Min
 location: Springview Mental Hospital
 date: 28/08/1988
@@ -12,7 +14,7 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1988 Fixtures
 | **P Oborne** | 9 | 1 | 27 | 2 |
 | **M Bose** | 7.1 | 1 | 23 | 3 |
 
-## Mihir Bose's XI Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

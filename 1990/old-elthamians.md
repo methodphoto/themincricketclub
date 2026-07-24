@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Elthamians
+homeTeam: Old Elthamians
+awayTeam: The Min
 game: Old Elthamians v The Min
 location: Foxbury
 date: 20/05/1990
@@ -12,7 +14,7 @@ parent: 1990 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,8 +51,7 @@ parent: 1990 Fixtures
 | **Malkin** | 4 | 3 | 5 | 0 |
 | **Pearce** | 1.2 | 1 | 0 | 1 |
 
- ## {{page.title}} Innings
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 
 | Batsman | Dismissal |  | Runs |

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: White Lion
+homeTeam: White Lion
+awayTeam: The Min
 game: White Lion v The Min
 location: St Albans
 date: 03/09/1995
@@ -12,7 +14,7 @@ parent: 1995 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1995 Fixtures
 | **P Paton** | 8 | 1 | 17 | 1 |
 | **B Toleman** | 5 | 0 | 28 | 2 |
 
-## White Lion Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

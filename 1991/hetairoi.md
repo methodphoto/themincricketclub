@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hetairoi
+homeTeam: Hetairoi
+awayTeam: The Min
 game: Hetairoi v The Min
 location: Hetairoi
 date: 18/08/1991
@@ -14,7 +16,7 @@ parent: 1991 Fixtures
 
 Steven Hornsby first 5 wkt haul for The Min
 
-## Hetairoi Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ Steven Hornsby first 5 wkt haul for The Min
 | **G Wright** | 5 | 0 | 39 | 0 |
 | **S Hornsby** | 7.2 | 0 | 33 | 5 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

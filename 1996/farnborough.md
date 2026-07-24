@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Farnborough
+homeTeam: Farnborough
+awayTeam: The Min
 game: Farnborough v The Min
 location: Farnborough
 date: 28/07/1996
@@ -12,7 +14,7 @@ parent: 1996 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1996 Fixtures
 | **M Hare** | 8 | 2 | 30 | 1 |
 | **T Syrett** | 3 | 0 | 19 | 0 |
 
-## Farnborough Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

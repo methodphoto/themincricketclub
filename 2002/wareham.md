@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Wareham
+homeTeam: Wareham
+awayTeam: The Min
 game: Wareham v The Min
 location: Wareham
 date: 11/07/2002
@@ -12,7 +14,7 @@ parent: 2002 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2002 Fixtures
 | **Durrell** | 4 | 0 | 7 | 0 |
 | **7** | 3 | 0 | 20 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

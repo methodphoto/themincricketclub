@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Middleton Stoney
+homeTeam: Middleton Stoney
+awayTeam: The Min
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 08/06/2008
@@ -12,7 +14,7 @@ parent: 2008 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2008 Fixtures
 | **J Wright** | 5 | 1 | 7 | 2 |
 | **R Green** | 3 | 0 | 6 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

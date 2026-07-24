@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Abinger Hammer
+homeTeam: Abinger Hammer
+awayTeam: The Min
 game: Abinger Hammer v The Min
 location: Abinger Hammer
 date: 15/07/1990
@@ -12,7 +14,7 @@ parent: 1990 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1990 Fixtures
 | **Coplestone** | 2 | 0 | 6 | 0 |
 | **C Waller** | 2.3 | 0 | 16 | 2 |  
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

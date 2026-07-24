@@ -1,6 +1,8 @@
 ---
 layout: default
 title: ICL Bracknell
+homeTeam: ICL Bracknell
+awayTeam: The Min
 game: ICL Bracknell v The Min
 location: Holme Park
 date: 18/07/1993
@@ -14,7 +16,7 @@ parent: 1993 Fixtures
 
 R Earney first 5 wkt haul for The Min
 
-## ICL Bracknell Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ R Earney first 5 wkt haul for The Min
 | **J Grant** | 5 | 1 | 30 | 1 |
 | **I Marshall** | 3 | 2 | 1 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

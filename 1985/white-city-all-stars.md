@@ -1,6 +1,8 @@
 ---
 layout: default
 title: White City All Stars
+homeTeam: White City All Stars
+awayTeam: The Min
 game: White City All Stars v The Min
 location: Gunnersbury Park
 date: 27/04/1985
@@ -12,7 +14,7 @@ parent: 1985 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1985 Fixtures
 | **J Wright** | 5 | 1 | 26 | 3 |
 | **M Gardiner** | 3 | 0 | 14 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Frensham
+homeTeam: Frensham
+awayTeam: The Min
 game: Frensham v The Min
 location: Hollowdene Recreation Ground
 date: 02/06/2019
@@ -18,7 +20,7 @@ parent: 2019 Fixtures
 
 I Matvad's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -55,7 +57,7 @@ I Matvad's 1st 50
 | **E Garland** | 4 | 1 | 17 | 2 |
 | **S Amin** | 2 | 0 | 13 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

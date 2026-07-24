@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hornchurch
+homeTeam: Hornchurch
+awayTeam: The Min
 game: Hornchurch v The Min
 location: Fielder's Sports Ground
 date: 25/09/2005
@@ -13,7 +15,7 @@ parent: 2005 Fixtures
 
 G Powell best bowling. R Beswick's 18th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ G Powell best bowling. R Beswick's 18th 50
 | **R Earney** | 1 | 0 | 4 | 0 |
 | **C Wright** | 2 | 0 | 11 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

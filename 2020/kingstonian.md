@@ -2,6 +2,7 @@
 layout: default
 title: Kingstonian
 homeTeam: Kingstonian
+awayTeam: The Min
 game: Kingstonian v The Min
 location: Old Tiffinians Association Sports Ground
 date: 10/07/2020
@@ -15,8 +16,7 @@ parent: 2020 Fixtures
 
 A Gallagher's 14th 50 off 45 balls
 
-## The Min Innings
-
+## {{page.awayTeam}} Innings
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Earney &#8224;** | b | Kashif | 9 |
@@ -53,10 +53,7 @@ A Gallagher's 14th 50 off 45 balls
 | **Sharu** | 3 | 0 | 27 | 0 |
 | **Dhruv** | 2 | 0 | 7 | 0 |
 
- ## {{page.homeTeam}} Innings
-## {{page.title}} Innings
-
-
+## {{page.homeTeam}} Innings
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Dhruv** | c R Earney | A Munim | 15 |

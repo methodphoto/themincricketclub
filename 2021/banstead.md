@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Banstead
+homeTeam: Banstead
+awayTeam: The Min
 game: Banstead v The Min
 location: Banstead CC
 date: 05/09/2021
@@ -15,7 +17,7 @@ parent: 2021 Fixtures
 R Beswick's 35th 50 (66 balls).<br />
 R Beswick 8000 runs for The Min
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Beswick 8000 runs for The Min
 | **C Estall** | 6 | 0 | 16 | 1 |
 | **M Rasool** | 3 | 0 | 18 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

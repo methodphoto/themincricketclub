@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kingstonian
+homeTeam: Kingstonian
+awayTeam: The Min
 game: Kingstonian v The Min
 location: King's College Sport's Ground
 date: 18/07/2021
@@ -15,7 +17,7 @@ parent: 2021 Fixtures
 E Garland 5 wkts (2nd match in a row). A Beswick's 10th 50<br />
 [Partnership](../records/partnerships) of 103 between A Beswick and R Earney
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ E Garland 5 wkts (2nd match in a row). A Beswick's 10th 50<br />
 | **C Wright** | 5.3 | 1 | 29 | 1 |
 | **A Beswick** | 3 | 0 | 12 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

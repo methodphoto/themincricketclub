@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Petts Wood
+homeTeam: Petts Wood
+awayTeam: The Min
 game: Petts Wood CC v The Min
 location: Willett Recreation Ground
 date: 26/04/1986
@@ -12,7 +14,7 @@ parent: 1986 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1986 Fixtures
 | **E Garland** | 5 | 0 | 24 | 0 |
 | **R Beswick** | 4 | 1 | 24 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

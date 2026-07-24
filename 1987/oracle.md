@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Oracle
+homeTeam: Oracle
+awayTeam: The Min
 game: Oracle v The Min
 location: Bishop's Park
 date: 15/08/1987
@@ -14,7 +16,7 @@ parent: 1987 Fixtures
 
 A Gallagher's 7th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ A Gallagher's 7th 50
 | **A Gallagher** | 3 | 0 | 19 | 1 |
 | **S Sagar** | 1.4 | 0 | 12 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

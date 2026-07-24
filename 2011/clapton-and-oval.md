@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Clapton & Oval
+homeTeam: Clapton & Oval
+awayTeam: The Min
 game: Clapton & Oval v The Min
 location: Hampstead Heath Extension
 date: 21/08/2011
@@ -12,7 +14,7 @@ parent: 2011 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 2011 Fixtures
 | **E Henson** | 8 | 0 | 34 | 0 |
 | **R Beswick** | 4 | 1 | 7 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

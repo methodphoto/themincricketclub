@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Brasted Invicta
+homeTeam: Brasted Invicta
+awayTeam: The Min
 game: Brasted Invicta v The Min
 location: Hawkenbury Recreation Ground
 date: 07/09/2014
@@ -11,7 +13,7 @@ parent: 2014 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2014 Fixtures
 | **E Garland** | 4 | 2 | 6 | 1 |
 | **E Ingham** | 1 | 0 | 2 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

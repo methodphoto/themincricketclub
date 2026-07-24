@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kingstonian
+homeTeam: Kingstonian
+awayTeam: The Min
 game: Kingstonian v The Min
 location: KCL Sports Ground
 date: 06/05/2018
@@ -14,7 +16,7 @@ parent: 2018 Fixtures
 
 R Earney's 53rd 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Earney's 53rd 50
 | **C Wright** | 4 | 0 | 35 | 2 |
 | **P Beswick** | 4 | 1 | 7 | 6 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

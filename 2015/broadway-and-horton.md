@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 09/07/2015
@@ -15,7 +17,7 @@ parent: 2015 Fixtures
 R Beswick's 29th 50. R Earney's 47th 50.<br />
 [Partnership](../records/partnerships) of 122 between R Beswick and R Earney
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ R Beswick's 29th 50. R Earney's 47th 50.<br />
 | **I Watkins** | 3 | 0 | 21 | 0 |
 | **R Young** | 3 | 0 | 26 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

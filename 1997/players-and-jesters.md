@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Players and Jesters
+homeTeam: Players and Jesters
+awayTeam: The Min
 game: Players and Jesters v The Min
 location: Rothamsted Park
 date: 18/05/1997
@@ -12,7 +14,7 @@ parent: 1997 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1997 Fixtures
 | **R Earney** | 5 | 0 | 28 | 0 |
 | **E Garland** | 7 | 0 | 36 | 4 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

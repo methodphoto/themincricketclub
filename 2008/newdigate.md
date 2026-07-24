@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newdigate
+homeTeam: Newdigate
+awayTeam: The Min
 game: Newdigate v The Min
 location: The Brocus
 date: 16/06/2008
@@ -14,7 +16,7 @@ parent: 2008 Fixtures
 
 R Beswick's 21st 50. W Calvert's 7th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Beswick's 21st 50. W Calvert's 7th 50
 | **D Keating** | 6 | 0 | 32 | 1 |
 | **M Dilger** | 2.5 | 0 | 18 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

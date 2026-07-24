@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ockley
+homeTeam: Ockley
+awayTeam: The Min
 game: Ockley v The Min
 location: Ockley Green
 date: 13/05/1990
@@ -13,7 +15,7 @@ parent: 1990 Fixtures
 {% include matchDetails %}
 
  
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1990 Fixtures
 | **R Beswick** | 7 | 1 | 34 | 0 |
 | **R Howcroft** | 4 | 0 | 25 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

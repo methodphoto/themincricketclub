@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 04/07/2004
@@ -14,7 +16,7 @@ parent: 2004 Fixtures
 
 R Earney's 20th 50. R Green's 2nd 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Earney's 20th 50. R Green's 2nd 50
 | **R Earney** | 8 | 0 | 35 | 2 |
 | **D James** | 2 | 0 | 19 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

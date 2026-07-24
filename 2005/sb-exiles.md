@@ -1,6 +1,8 @@
 ---
 layout: default
 title: SB Exiles
+homeTeam: SB Exiles
+awayTeam: The Min
 game: SB Exiles v The Min
 location: Abingdon Vale CC
 date: 04/09/2005
@@ -16,7 +18,7 @@ R Earney's 6th Hundred and highest score. A Slight's 3rd 50.<br />
 [Partnership](../records/partnerships) of 165 between R Earney and A Slight<br />
 J Wright's 5th Michelle
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ J Wright's 5th Michelle
 | **Black** | 4 | 0 | 28 | 0 |
 | **Clements** | 2 | 0 | 32 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ballinger Waggoners
+homeTeam: Ballinger Waggoners
+awayTeam: The Min
 game: Ballinger Waggoners v The Min
 location: Ballinger Waggoners CC
 date: 04/07/1992
@@ -12,7 +14,7 @@ parent: 1992 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1992 Fixtures
 | **S McGowan** | 7 | 0 | 41 | 1 |
 | **W McGowan** | 4 | 0 | 32 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

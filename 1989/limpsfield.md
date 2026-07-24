@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Limpsfield
+homeTeam: Limpsfield
+awayTeam: The Min
 game: Limpsfield v The Min
 location: Limpsfield
 date: 25/06/1989
@@ -12,7 +14,7 @@ parent: 1989 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1989 Fixtures
 | **E Garland** | 5 | 0 | 52 | 0 |
 | **R Earney** | 7.4 | 0 | 52 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

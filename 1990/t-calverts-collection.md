@@ -1,6 +1,8 @@
 ---
 layout: default
 title: T Calvert's Collection
+homeTeam: T Calvert's Collection
+awayTeam: The Min
 game: T Calvert's Collection v The Min
 location: Aberley
 date: 04/08/1990
@@ -12,7 +14,7 @@ parent: 1990 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ parent: 1990 Fixtures
 | **R Hopewell** | 2 | 0 | 7 | 0 |
 | **S Barrowcliff** | 2 | 0 | 10 | 0 |  
 
-## T Calvert's Collection Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

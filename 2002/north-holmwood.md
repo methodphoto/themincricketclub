@@ -1,6 +1,8 @@
 ---
 layout: default
 title: North Holmwood
+homeTeam: North Holmwood
+awayTeam: The Min
 game: North Holmwood v The Min
 location: North Holmwood CC
 date: 01/09/2002
@@ -12,7 +14,7 @@ parent: 2002 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 2002 Fixtures
 | **N Claassen** | 6 | 1 | 61 | 0 |
 | **P Grant** | 10 | 0 | 58 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

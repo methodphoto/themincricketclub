@@ -1,6 +1,8 @@
 ---
 layout: default
 title: ELCCC
+homeTeam: ELCCC
+awayTeam: The Min
 game: ELCCC v The Min
 location: Victoria Park
 date: 16/08/2009
@@ -14,7 +16,7 @@ parent: 2009 Fixtures
 
 M Gupta's 2nd Michelle and a Hat trick and 4th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ M Gupta's 2nd Michelle and a Hat trick and 4th 50
 | **T Carden** | 6 | 0 | 52 | 0 |
 | **A Slight** | 2 | 0 | 20 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

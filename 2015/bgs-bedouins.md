@@ -1,6 +1,8 @@
 ---
 layout: default
 title: BGS Bedouins
+homeTeam: BGS Bedouins
+awayTeam: The Min
 game: BGS Bedouins v The Min
 location: Bristol Grammar School, Failand
 date: 11/07/2015
@@ -14,7 +16,7 @@ parent: 2015 Fixtures
 
 R Earney's 48th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ R Earney's 48th 50
 | **R Beswick** | 7 | 2 | 24 | 4 |
 | **J Wright** | 5 | 1 | 28 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

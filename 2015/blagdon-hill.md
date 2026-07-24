@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Blagdon Hill
+homeTeam: Blagdon Hill
+awayTeam: The Min
 game: Blagdon Hill v The Min
 location: Sellick's Green
 date: 09/07/2015
@@ -12,7 +14,7 @@ parent: 2015 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2015 Fixtures
 | **M Tuffill** | 8 | 1 | 28 | 3 |
 | **A Free** | 4 | 0 | 13 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

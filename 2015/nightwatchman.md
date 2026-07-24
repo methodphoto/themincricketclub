@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Nightwatchman
+homeTeam: The Min
+awayTeam: Nightwatchman
 game: The Min v Nightwatchman
 location: Solefields
 date: 10/05/2015
@@ -14,7 +16,7 @@ parent: 2015 Fixtures
 
 S Habib, first handled the ball in any Min game
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ S Habib, first handled the ball in any Min game
 | **E Garland** | 8 | 0 | 39 | 2 |
 | **E Ingham** | 2 | 0 | 13 | 0 |
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

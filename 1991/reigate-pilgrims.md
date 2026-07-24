@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 16/09/1991
@@ -14,7 +16,7 @@ parent: 1991 Fixtures
 
 [Partnership](../records/partnerships) of 123 between D Swann and S Hornsby
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1991 Fixtures
 | **S Hornsby** | 7 | 0 | 50 | 1 |
 | **W Calvert** | 9 | 1 | 51 | 4 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

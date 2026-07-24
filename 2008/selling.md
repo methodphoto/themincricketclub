@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Selling
+homeTeam: Selling
+awayTeam: The Min
 game: Selling v The Min
 location: Cadman's Meadow
 date: 21/09/2008
@@ -13,7 +15,7 @@ parent: 2008 Fixtures
 
 M Goff's 7th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ M Goff's 7th 50
 | **T Homersham** | 7 | 0 | 31 | 3 |
 | **B Sweeting** | 4 | 0 | 25 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

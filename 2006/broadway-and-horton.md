@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 13/07/2006
@@ -17,7 +19,7 @@ R Earney's 32nd 50. R Beswick's 19th 50. <br />
 
 <img src="broadway2006.jpg" width="100%" alt="Winning the Ashes" />
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -54,7 +56,7 @@ R Earney's 32nd 50. R Beswick's 19th 50. <br />
 | **M Grabham** | 7 | 0 | 44 | 5 |
 | **M Guest** | 4 | 0 | 28 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

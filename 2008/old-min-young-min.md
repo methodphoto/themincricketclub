@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Min Young Min
+homeTeam: The Old Min
+awayTeam: The Young Min
 game: The Old Min v The Young Min
 location: Solefields
 date: 13/07/2008
@@ -18,8 +20,7 @@ Brother fought brother for the second year in a row, but they could not be separ
 
 <img src="tom-joy.jpg" width="100%" alt="Tom Joy - Bes Rueful" />
 
-## The Old Min Innings
-
+## {{page.homeTeam}} Innings
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Earney** | c A Slight | P O'Mahony | 16 |
@@ -55,8 +56,7 @@ Brother fought brother for the second year in a row, but they could not be separ
 | **T Rutherford** | 6 | 0 | 37 | 1 |
 | **A Beswick** | 4 | 0 | 26 | 0 |
 
-## The Young Min Innings
-
+## {{page.awayTeam}} Innings
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **T Rutherford &#8224;** | b | J Wright | 32 |

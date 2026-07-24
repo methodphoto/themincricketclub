@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kingstonian
+homeTeam: Kingstonian
+awayTeam: The Min
 game: Kingstonian v The Min
 location: KCL
 date: 07/05/2017
@@ -14,7 +16,7 @@ parent: 2017 Fixtures
 
 R Beswick's 33rd 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Beswick's 33rd 50
 | **Score** | 48 | 109 | 147 | 157 | 167 | 190 | 190 | 200 |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 | 6 | 5 | 7 | 9 |  |  |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

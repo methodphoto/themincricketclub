@@ -1,6 +1,8 @@
 ---
 layout: default
 title: West Green
+homeTeam: West Green
+awayTeam: The Min
 game: West Green v The Min
 location: Wood Green
 date: 05/05/1985
@@ -12,7 +14,7 @@ parent: 1985 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1985 Fixtures
 | **M Gardiner** | 3 | 0 | 21 | 1 |
 | **R Scotts** | 2 | 0 | 11 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

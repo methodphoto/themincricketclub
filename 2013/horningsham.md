@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Horningsham
+homeTeam: Horningsham
+awayTeam: The Min
 game: Horningsham v The Min
 location: Horningsham
 date: 14/07/2013
@@ -15,7 +17,7 @@ parent: 2013 Fixtures
 T Rutherford's 7th 50. <br />
 Second ever 4 win Tour
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ Second ever 4 win Tour
 | **E Garland** | 2 | 0 | 22 | 1 |
 | **A Slight** | 3 | 0 | 20 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

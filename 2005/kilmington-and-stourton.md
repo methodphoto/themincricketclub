@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kilmington and Stourton
+homeTeam: Kilmington and Stourton
+awayTeam: The Min
 game: Kilmington and Stourton v The Min
 location: Stourhead
 date: 08/07/2005
@@ -16,7 +18,7 @@ R Earney's 28th 50
 
 <img src="kilmington2005.jpg" width="100%" alt="At Stourhead" />
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ R Earney's 28th 50
 | **J Kenny** | 3 | 0 | 22 | 0 |
 | **R Earney** | 5 | 0 | 28 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

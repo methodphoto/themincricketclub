@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Blagdon Hill
+homeTeam: Blagdon Hill
+awayTeam: The Min
 game: Blagdon Hill v The Min
 location: Sellick's Green
 date: 07/07/2021
@@ -14,7 +16,7 @@ parent: 2022 Fixtures
 
 A Beswick's 11th 50 and highest score.
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ A Beswick's 11th 50 and highest score.
 | **H Welch** | 3 | 0 | 34 | 0 |
 | **S Tarr** | 2 | 0 | 26 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Middleton Stoney
+homeTeam: Middleton Stoney
+awayTeam: The Min
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 22/04/2018
@@ -14,7 +16,7 @@ parent: 2018 Fixtures
 
 [Match report](https://www.middletonstoneycc.co.uk/club-news/2018/mscc-vs-the-min-2018/)
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 2018 Fixtures
 | **Score** | 77 | 95 | 120 | 138 | 175 | 175 | 182 |  |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 | 5 | 7 | 8 |  |  |  |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

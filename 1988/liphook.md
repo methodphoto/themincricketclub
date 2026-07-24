@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Liphook
+homeTeam: Liphook
+awayTeam: The Min
 game: Liphook v The Min
 location: Liphook
 date: 17/07/1988
@@ -12,7 +14,7 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1988 Fixtures
 | **A Hilton** | 6 | 0 | 26 | 1 |
 | **M Harding** | 2 | 0 | 9 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

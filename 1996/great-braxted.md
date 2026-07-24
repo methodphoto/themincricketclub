@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Great Braxted
+homeTeam: Great Braxted
+awayTeam: The Min
 game: Great Braxted v The Min
 location: Great Braxted
 date: 15/09/1996
@@ -14,7 +16,7 @@ parent: 1996 Fixtures
 
 P Bentley best bowling
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ P Bentley best bowling
 | **E Garland** | 4 | 0 | 24 | 0 |
 | **W Calvert** | 7 | 1 | 35 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

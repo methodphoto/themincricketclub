@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Blindley Heath
+homeTeam: Blindley Heath
+awayTeam: The Min
 game: Blindley Heath v The Min
 location: Blindley Heath
 date: 26/06/1988
@@ -12,7 +14,7 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1988 Fixtures
 | **V Jones** | 7 | 0 | 44 | 1 |
 | **Freeman** | 6 | 0 | 25 | 3 |
 
-## Blindley Heath Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

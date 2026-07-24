@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Dowlish Wake
+homeTeam: Dowlish Wake
+awayTeam: The Min
 game: Dowlish Wake v The Min
 location: Lawrence Kellett Playing Field, Dowlish Wake
 date: 02/08/1992
@@ -15,7 +17,7 @@ parent: 1992 Fixtures
 I Marshall first century.<br />
 [Partnership](../records/partnerships) of 160 between I Marshall and S Barrowcliff
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ I Marshall first century.<br />
 | **M George** | 7 | 0 | 43 | 1 |
 | **D Grinter** | 2 | 0 | 17 | 0 |
 
-## Dowlish Wake Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Headley
+homeTeam: Headley
+awayTeam: The Min
 game: Headley v The Min
 location: Headley CC
 date: 21/09/2014 
@@ -11,7 +13,7 @@ parent: 2014 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 2014 Fixtures
 | **C Woodall** | 2 | 1 | 4 | 2 |
 | **A Pickering** | 2 | 0 | 12 | 3 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

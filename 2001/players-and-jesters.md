@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Players and Jesters
+homeTeam: Players and Jesters
+awayTeam: The Min
 game: Players and Jesters v The Min
 location: Rothampstead Park
 date: 20/05/2001
@@ -13,7 +15,7 @@ parent: 2001 Fixtures
 {% include matchDetails %}
 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2001 Fixtures
 | **R Beswick** | 8 | 3 | 14 | 1 |
 | **J Wright** | 0.4 | 0 | 2 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

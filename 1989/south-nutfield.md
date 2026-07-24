@@ -1,6 +1,8 @@
 ---
 layout: default
 title: South Nutfield
+homeTeam: South Nutfield
+awayTeam: The Min
 game: South Nutfield v The Min
 location: South Nutfield
 date: 10/09/1989
@@ -12,7 +14,7 @@ parent: 1989 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1989 Fixtures
 | **M Hickman** | 5 | 0 | 37 | 0 |
 | **J Mizel** | 3 | 0 | 19 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

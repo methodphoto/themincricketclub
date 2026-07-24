@@ -1,6 +1,8 @@
 ---
 layout: default
 title: SB Exiles
+homeTeam: SB Exiles
+awayTeam: The Min
 game: SB Exiles v The Min
 location: Greenwich Park
 date: 04/09/2011
@@ -12,7 +14,7 @@ parent: 2011 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2011 Fixtures
 | **S Morgan** | 3 | 0 | 25 | 0 |
 | **Arjuna** | 6 | 0 | 49 | 4 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

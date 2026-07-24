@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Koh-i-Noor
+homeTeam: Koh-i-Noor
+awayTeam: The Min
 game: Koh-i-Noor v The Min
 location: Cowgate Lane
 date: 07/07/1985
@@ -15,7 +17,7 @@ parent: 1985 Fixtures
 J Grant's 2nd 50. A Fielding's 1st 50.<br />
 [Partnership](../records/partnerships) of 106 between J Grant and A Fielding
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ J Grant's 2nd 50. A Fielding's 1st 50.<br />
 | **3** | 11 | 0 | 79 | 3 |
 | **4** | 5 | 0 | 45 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

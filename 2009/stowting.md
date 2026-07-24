@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 05/07/2009
@@ -14,7 +16,7 @@ parent: 2009 Fixtures
 
 M Gupta's 1st Michelle. R Earney's 41st 50.
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ M Gupta's 1st Michelle. R Earney's 41st 50.
 | **R Earney** | 3 | 0 | 17 | 0 |
 | **R Beswick** | 3 | 0 | 19 | 3 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

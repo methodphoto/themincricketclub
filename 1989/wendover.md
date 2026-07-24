@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Wendover
+homeTeam: Wendover
+awayTeam: The Min
 game: Wendover v The Min
 location: Wendover
 date: 30/04/1989
@@ -12,7 +14,7 @@ parent: 1989 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1989 Fixtures
 | **A Gallagher** | 1 | 0 | 13 | 0 |
 | **G Wright** | 5 | 1 | 22 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

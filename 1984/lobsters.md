@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Lobsters
+homeTeam: Lobsters
+awayTeam: The Min
 game: Lobsters v The Min
 location: New Field, Clifton School
 date: 24/06/1984
@@ -12,7 +14,7 @@ parent: 1984 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ parent: 1984 Fixtures
 | **T Cottrell** | 2 | 0 | 9 | 2 |
 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

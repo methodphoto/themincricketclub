@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Middleton Stoney
+homeTeam: Middleton Stoney
+awayTeam: The Min
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 17/04/2016
@@ -14,7 +16,7 @@ parent: 2016 Fixtures
 
 S Barrowcliff's 14th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ S Barrowcliff's 14th 50
 | **I Miah** | 5 | 1 | 31 | 2 |
 | **S Pitcher** | 4 | 0 | 5 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

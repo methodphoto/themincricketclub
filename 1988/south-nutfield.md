@@ -1,6 +1,8 @@
 ---
 layout: default
 title: South Nutfield
+homeTeam: South Nutfield
+awayTeam: The Min
 game: South Nutfield v The Min
 location: South Nutfield
 date: 03/06/1988
@@ -14,7 +16,7 @@ parent: 1988 Fixtures
 
 [Partnership](../records/partnerships) of 106 between A Gallagher and A MacFarlane
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1988 Fixtures
 | **B Mills** | 3.5 | 0 | 49 | 1 |
 | **W Finch** | 1 | 0 | 8 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

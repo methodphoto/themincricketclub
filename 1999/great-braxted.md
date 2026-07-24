@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Great Braxted
+homeTeam: Great Braxted
+awayTeam: The Min
 game: Great Braxted v The Min
 location: Great Braxted
 date: 11/07/1999
@@ -13,7 +15,7 @@ parent: 1999 Fixtures
 {% include matchDetails %}
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1999 Fixtures
 | **Croxon** | 9 | 4 | 21 | 1 |
 | **C Allcock** | 7 | 0 | 28 | 4 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 13/09/1998
@@ -13,7 +15,7 @@ parent: 1998 Fixtures
 
 N Bezodis, sixfer on debut
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ N Bezodis, sixfer on debut
 | **J Wright** | 5 | 0 | 27 | 1 |
 | **N Bezodis** | 7 | 1 | 18 | 6 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

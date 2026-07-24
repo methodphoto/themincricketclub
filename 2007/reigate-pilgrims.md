@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 16/09/2007
@@ -14,7 +16,7 @@ parent: 2007 Fixtures
 
 E Garland's 4th Michelle. R Earney's 35th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ E Garland's 4th Michelle. R Earney's 35th 50
 | **E Garland** | 9.1 | 1 | 30 | 5 |
 | **R Green** | 3 | 0 | 15 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

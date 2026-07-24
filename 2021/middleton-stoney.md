@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Middleton Stoney
+homeTeam: Middleton Stoney
+awayTeam: The Min
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 25/04/2021
@@ -14,7 +16,7 @@ parent: 2021 Fixtures
 
 [Match Report](https://www.middletonstoneycc.co.uk/club-news/2021/mscc-v-the-min-2021/)
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 2021 Fixtures
 | **J Morris** | 4 | 0 | 14 | 1 |
 | **T Riley** | 4 | 1 | 14 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

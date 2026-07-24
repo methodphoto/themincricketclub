@@ -1,6 +1,8 @@
 ---
 layout: default
 title: SB Exiles
+homeTeam: SB Exiles
+awayTeam: The Min
 game: SB Exiles v The Min
 location: Greenwich Park
 date: 23/08/2009
@@ -12,7 +14,7 @@ parent: 2009 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2009 Fixtures
 | **Henderson** | 7.3 | 0 | 27 | 2 |
 | **M Boteju** | 8 | 0 | 39 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

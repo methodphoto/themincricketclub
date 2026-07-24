@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Spencer
+homeTeam: Spencer
+awayTeam: The Min
 game: Spencer v The Min
 location: Spencer CC
 date: 31/08/2003
@@ -12,7 +14,7 @@ parent: 2003 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 2003 Fixtures
 | **G Powell** | 8 | 3 | 13 | 2 |
 | **J Wright** | 8 | 0 | 31 | 3 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

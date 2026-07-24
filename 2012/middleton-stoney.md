@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Middleton Stoney
+homeTeam: Middleton Stoney
+awayTeam: The Min
 game: Middleton Stoney v The Min
 location: Middleton Park 
 date: 22/04/2012
@@ -36,7 +38,7 @@ And so it proved as the old maestro rolled around his arm for the 30th Min year 
 Joint Min of the Match: Goffy and Earn. Honourable mention for Slighty who though unable to locate the flight path of the ball, did at least prevent the skip from trying to drive home via Birmingham.
 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -70,7 +72,7 @@ Joint Min of the Match: Goffy and Earn. Honourable mention for Slighty who thoug
 | **J Wright** | 9.3 | 1 | 24 | 4 |
 | **E Garland** | 8 | 0 | 30 | 3 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

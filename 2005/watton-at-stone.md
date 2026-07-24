@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 26/06/2005
@@ -15,7 +17,7 @@ parent: 2005 Fixtures
 R Earney's 26th 50. M Goff's 3rd 50.<br />
 [Partnership](../records/partnerships) of 140 between R Earney and M Goff
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ R Earney's 26th 50. M Goff's 3rd 50.<br />
 | **J Wright** | 7 | 0 | 58 | 0 |
 | **T Riley** | 1 | 0 | 12 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

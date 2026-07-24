@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Tauntonians
+homeTeam: Old Tauntonians
+awayTeam: The Min
 game: Old Tauntonians v The Min
 location: Taunton School
 date: 03/08/1990
@@ -12,7 +14,7 @@ parent: 1990 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1990 Fixtures
 | **W Calvert** | 6 | 1 | 47 | 4 |
 | **R Beswick** | 4 | 0 | 29 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

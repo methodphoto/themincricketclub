@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Flamingo
+homeTeam: Flamingo
+awayTeam: The Min
 game: Flamingo v The Min
 location: The Holt
 date: 30/09/1989
@@ -11,7 +13,7 @@ parent: 1989 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1989 Fixtures
 | **S Hornsby** | 8 | 1 | 38 | 3 |
 | **S Barrowcliff** | 3 | 0 | 13 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

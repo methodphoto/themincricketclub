@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Valley End
+homeTeam: Valley End
+awayTeam: The Min
 game: Valley End v The Min
 location: Valley End Cricket Club
 date: 04/09/1994
@@ -14,7 +16,7 @@ parent: 1994 Fixtures
 
 [Partnership](../records/partnerships) of 133 for Valley End between M Aggar and Chadwich 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 1994 Fixtures
 | **A Gordon** | 4 | 0 | 19 | 0 |
 | **P Grant** | 4 | 0 | 17 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

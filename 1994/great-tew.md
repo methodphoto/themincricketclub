@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Great Tew
+homeTeam: Great Tew
+awayTeam: The Min
 game: Great Tew v The Min
 location: Great Tew
 date: 19/06/1994
@@ -12,7 +14,7 @@ parent: 1994 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1994 Fixtures
 | **S Hornsby** | 2 | 0 | 28 | 2 |
 | **D Young** | 1 | 0 | 11 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Farnborough
+homeTeam: Farnborough
+awayTeam: The Min
 game: Farnborough v The Min
 location: Farnborough
 date: 31/07/1994
@@ -12,7 +14,7 @@ parent: 1994 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1994 Fixtures
 | **J Forfar** | 7 | 0 | 55 | 2 |
 | **A Forfar** | 1 | 0 | 12 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

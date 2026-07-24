@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Britwell Salome
+homeTeam: Britwell Salome
+awayTeam: The Min
 game: Britwell Salome v The Min
 location: Britwell Salome
 date: 25/04/2005
@@ -30,7 +32,7 @@ Pickled Egg - Richard Beswick for a dropped catch.
 
 R Earney's 40th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -66,7 +68,7 @@ R Earney's 40th 50
 | **D Bloomfield** | 6 | 0 | 42 | 0 |
 | **Penny** | 8 | 1 | 35 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

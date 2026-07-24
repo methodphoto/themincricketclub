@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kilmington and Stourton
+homeTeam: Kilmington and Stourton
+awayTeam: The Min
 game: Kilmington and Stourton v The Min
 location: Stourhead
 date: 09/07/2004
@@ -16,7 +18,7 @@ R Earney's 21st 50
 
 <img src="kands2004.jpg" width="100%" alt="At Stourhead" />
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ R Earney's 21st 50
 | **K Dix** | 7 | 0 | 32 | 1 |
 | **C Spencer** | 7 | 0 | 32 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

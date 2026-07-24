@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Elthamians
+homeTeam: Old Elthamians
+awayTeam: The Min
 game: Old Elthamians v The Min
 location: Foxbury
 date: 01/09/1985
@@ -14,7 +16,7 @@ parent: 1985 Fixtures
 
 W Calvert's 2nd 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,8 +53,7 @@ W Calvert's 2nd 50
 | **R Minto** | 4 | 4 | 0 | 3 |
 | **T Manchip** | 3 | 2 | 12 | 1 |
 
- ## {{page.title}} Innings
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 
 | Batsman | Dismissal |  | Runs |

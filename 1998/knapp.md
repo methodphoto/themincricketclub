@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Knapp
+homeTeam: Knapp
+awayTeam: The Min
 game: Knapp v The Min
 location: Knapp
 date: 04/07/1998
@@ -12,7 +14,7 @@ parent: 1998 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1998 Fixtures
 | **D Parsons** | 5 | 0 | 15 | 2 |
 | **J Wadham** | 4 | 0 | 17 | 2 |
 
-## Knapp Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

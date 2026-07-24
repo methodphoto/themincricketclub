@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newdigate
+homeTeam: Newdigate
+awayTeam: The Min
 game: Newdigate v The Min
 location: The Brocus
 date: 15/06/2003
@@ -14,7 +16,7 @@ parent: 2003 Fixtures
 
 [Partnership](../records/partnerships) of 134 between R Beswick and J Grant
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2003 Fixtures
 | **T Penfold** | 6 | 0 | 42 | 0 |
 | **A Posner** | 3 | 0 | 19 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

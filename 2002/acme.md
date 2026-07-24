@@ -1,6 +1,8 @@
 ---
 layout: default
 title: ACME
+homeTeam: The Min
+awayTeam: ACME
 game: ACME v The Min
 location: Dinder Cricket Ground
 date: 13/07/2002
@@ -12,7 +14,7 @@ parent: 2002 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2002 Fixtures
 | **S Masterson** | 2 | 0 | 7 | 1 |
 | **7** | 2 | 0 | 7 | 1 |
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

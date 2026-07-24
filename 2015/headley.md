@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Headley
+homeTeam: Headley
+awayTeam: The Min
 game: Headley v The Min
 location: Headley Down
 date: 19/07/2015
@@ -16,7 +18,7 @@ J Wright's 500th Dismissal.<br />
 S Hornsby's 16th 50. R Earney's 49th 50.<br />
 [Partnership](../records/partnerships) of 155 between S Hornsby and R Earney
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ S Hornsby's 16th 50. R Earney's 49th 50.<br />
 | **J Wright** | 8 | 0 | 43 | 2 |
 | **R Damaze** | 2 | 0 | 32 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

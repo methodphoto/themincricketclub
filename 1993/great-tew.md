@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Great Tew
+homeTeam: Great Tew
+awayTeam: The Min
 game: Great Tew v The Min
 location: Great Tew
 date: 23/05/1993
@@ -14,7 +16,7 @@ parent: 1993 Fixtures
 
 [Partnership](../records/partnerships) of 109 between S Hornsby and R Beswick
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1993 Fixtures
 | **Arbour** | 7 | 0 | 35 | 1 |
 | **Lithgow** | 5 | 1 | 29 | 3 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

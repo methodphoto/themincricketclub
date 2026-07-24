@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hersham
+homeTeam: Hersham
+awayTeam: The Min
 game: Hersham v The Min
 location: Hersham
 date: 28/04/1991
@@ -17,7 +19,7 @@ parent: 1991 Fixtures
 <p class="caption">Left to right: I Marshall, A MacFarlane</p>
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -53,7 +55,7 @@ parent: 1991 Fixtures
 | **S Bolton** | 6.1 | 0 | 24 | 3 |
 | **M Summers** | 6 | 1 | 28 | 2 |
 
-## Hersham Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

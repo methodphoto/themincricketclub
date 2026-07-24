@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Harrow St Mary's
+homeTeam: Harrow St Mary's
+awayTeam: The Min
 game: Harrow St Marys v The Min
 location: Harrow Recreation Ground
 date: 27/07/2008
@@ -14,7 +16,7 @@ parent: 2008 Fixtures
 
 R Earney's 35th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ R Earney's 35th 50
 | **R Beswick** | 4 | 0 | 34 | 0 |
 | **R Earney** | 3 | 0 | 10 | 4 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

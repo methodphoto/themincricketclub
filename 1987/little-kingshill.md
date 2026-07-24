@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Little Kingshill
+homeTeam: Little Kingshill
+awayTeam: The Min
 game: Little Kingshill v The Min
 location: Little Kingshill CC
 date: 25/05/1987
@@ -12,7 +14,7 @@ parent: 1987 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1987 Fixtures
 | **J Wright** | 13 | 4 | 36 | 3 |
 | **T Purves** | 3 | 0 | 22 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

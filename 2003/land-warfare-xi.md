@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Land Warfare XI
+homeTeam: Land Warfare XI
+awayTeam: The Min
 game: Land Warfare XI v The Min
 location: Warminster
 date: 12/07/2003
@@ -14,7 +16,7 @@ parent: 2003 Fixtures
 
 R Earney, 5th Century
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Earney, 5th Century
 | **G Barron** | 7 | 0 | 32 | 1 |
 | **G Honey** | 7 | 0 | 32 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

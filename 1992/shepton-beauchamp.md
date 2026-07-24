@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Shepton Beauchamp
+homeTeam: Shepton Beauchamp
+awayTeam: The Min
 game: Shepton Beauchamp v The Min
 location: Shepton Beauchamp
 date: 01/08/1992
@@ -12,7 +14,7 @@ parent: 1992 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1992 Fixtures
 | **W Hawkins** | 10 | 0 | 52 | 3 |
 | **Taylor** | 3 | 0 | 20 | 0 |
 
-## Shepton Beauchamp Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

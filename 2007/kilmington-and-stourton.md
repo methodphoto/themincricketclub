@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kilmington and Stourton
+homeTeam: Kilmington and Stourton
+awayTeam: The Min
 game: Kilmington and Stourton v The Min
 location: Stourhead
 date: 13/07/2007
@@ -14,7 +16,7 @@ parent: 2007 Fixtures
 
 Grandstand finish by H Ingham and P O'Mahony
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ Grandstand finish by H Ingham and P O'Mahony
 | **P Wigg** | 5 | 0 | 36 | 1 |
 | **T Rutherford** | 4 | 0 | 25 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

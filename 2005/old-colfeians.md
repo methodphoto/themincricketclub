@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Colfeians
+homeTeam: Old Colfeians
+awayTeam: The Min
 game: Old Colfeians v The Min
 location: Horn Park
 date: 15/05/2005
@@ -12,7 +14,7 @@ parent: 2005 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2005 Fixtures
 | **R O'Hagan** | 4 | 0 | 32 | 1 |
 | **R Green** | 4 | 0 | 38 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

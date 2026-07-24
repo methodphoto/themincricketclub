@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Wonersh
+homeTeam: Wonersh
+awayTeam: The Min
 game: Wonersh v The Min
 location: 
 date: 02/09/2012
@@ -12,7 +14,7 @@ parent: 2012 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 2012 Fixtures
 | **R Beswick** | 4 | 2 | 7 | 1 |
 | **K Gallagher** | 7 | 1 | 28 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

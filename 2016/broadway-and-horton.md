@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 08/07/2016
@@ -14,7 +16,7 @@ parent: 2016 Fixtures
 
 S Barrowcliff's 17th 50. A Beswick's 4th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ S Barrowcliff's 17th 50. A Beswick's 4th 50
 | **I Watkins** | 5 | 0 | 42 | 2 |
 | **J Smith** | 3 | 0 | 10 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newington
+homeTeam: Newington
+awayTeam: The Min
 game: Newington v The Min
 location: Bobbing Court
 date: 21/05/2017
@@ -12,7 +14,7 @@ parent: 2017 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2017 Fixtures
 | **Score** | 13 | 63 | 79 | 88 | 107 | 111 | 117 | 129 | 103 |  |
 | **Batsman** | 1 | 2 | 4 | 5 | 6 | 7 | 8 | 9 | 3 |  |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Deando
+homeTeam: Deando
+awayTeam: The Min
 game: Deando v The Min
 location: Tolworth Court Sports Ground
 date: 14/07/1992
@@ -12,7 +14,7 @@ parent: 1992 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1992 Fixtures
 | **Beeching** | 12 | 1 | 37 | 3 |
 | **Matthews** | 6 | 0 | 33 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

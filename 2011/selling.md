@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Selling
+homeTeam: Selling
+awayTeam: The Min
 game: Selling v The Min
 location: Cadman's Meadow
 date: 18/09/2011
@@ -13,7 +15,7 @@ parent: 2011 Fixtures
 
 <video src="selling.mp4" controls type="video/mp4" width="100%"></video>
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2011 Fixtures
 | **J Wright** | 6 | 2 | 17 | 1 |
 | **R Beswick** | 2 | 0 | 5 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

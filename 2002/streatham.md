@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Streatham
+homeTeam: Streatham
+awayTeam: The Min
 game: Streatham v The Min
 location: Streatham
 date: 09/06/2002
@@ -12,7 +14,7 @@ parent: 2002 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2002 Fixtures
 | **M Woods** | 2 | 0 | 6 | 0 |
 | **T Dasandi** | 1 | 0 | 6 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

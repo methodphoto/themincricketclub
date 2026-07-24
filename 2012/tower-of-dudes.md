@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Tower of Dudes
+homeTeam: Tower of Dudes
+awayTeam: The Min
 game: Tower of Dudes v The Min
 location: Wandsworth Park
 date: 05/08/2012
@@ -12,7 +14,7 @@ parent: 2012 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 2012 Fixtures
 | **A Beswick** | 3 | 0 | 17 | 2 |
 | **J Grant** | 1 | 0 | 5 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

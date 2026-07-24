@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Bovington Occasionals
+homeTeam: Bovington Occasionals
+awayTeam: The Min
 game: Bovington Occasionals v The Min
 location: Bovington Camp
 date: 22/07/1999
@@ -13,7 +15,7 @@ parent: 1999 Fixtures
 {% include matchDetails %}
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ parent: 1999 Fixtures
 | **Roker** | 3 | 0 | 20 | 0 |
 | **Dale** | 4 | 0 | 31 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 10/07/2014
@@ -17,7 +19,7 @@ parent: 2014 Fixtures
 
 M Gupta's 10th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -57,7 +59,7 @@ M Gupta's 10th 50
 | **J Norman** | 3 | 0 | 17 | 1 |
 | **M Derham** | 2 | 0 | 9 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

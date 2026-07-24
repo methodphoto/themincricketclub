@@ -1,6 +1,8 @@
 ---
 layout: default
 title: The Artisans
+homeTeam: The Artisans
+awayTeam: The Min
 game: The Artisans v The Min
 location: Surbiton
 date: 11/05/1985
@@ -15,7 +17,7 @@ parent: 1985 Fixtures
 A Gallagher's 4th 50<br />
 [Partnership](../records/partnerships) of 108 between A Gallagher and J Grant
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ A Gallagher's 4th 50<br />
 | **Sullivan** | 9 | 0 | 33 | 1 |
 | **Teahan** | 3 | 0 | 15 | 1 |
  
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Kilmington and Stourton
+homeTeam: Kilmington and Stourton
+awayTeam: The Min
 game: Kilmington and Stourton v The Min
 location: Stourhead
 date: 11/07/2014
@@ -13,7 +15,7 @@ parent: 2014 Fixtures
 
 [Partnership](../records/partnerships) of 115 between R Beswick and R Earney
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ parent: 2014 Fixtures
 | **R Beswick** | 3.4 | 0 | 21 | 3 |
 | **H Ingham** | 3 | 0 | 16 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

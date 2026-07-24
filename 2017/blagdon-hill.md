@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Blagdon Hill
+homeTeam: Blagdon Hill
+awayTeam: The Min
 game: Blagdon Hill v The Min
 location: Blagdon Hill
 date: 06/07/2017
@@ -14,7 +16,7 @@ parent: 2017 Fixtures
 
 R Earney's 52nd 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  |  Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ R Earney's 52nd 50
 | **R Beswick** | 7 | 0 | 70 | 2 |
 | **J Wright** | 5 | 0 | 35 | 2 |
 
-##  The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  |  Runs |
 |:---|:---|---|---:|

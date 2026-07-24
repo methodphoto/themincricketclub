@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Slip End
+homeTeam: Slip End
+awayTeam: The Min
 game: Slip End v The Min
 location: 
 date: 31/08/1997
@@ -12,7 +14,7 @@ parent: 1997 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1997 Fixtures
 | **R Earney** | 5 | 1 | 23 | 0 |
 | **R Beswick** | 3 | 0 | 15 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

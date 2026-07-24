@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 03/07/1998
@@ -14,7 +16,7 @@ parent: 1998 Fixtures
 
 The Min gained the Ashes for the first time
 
-## Broadway and Horton Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ The Min gained the Ashes for the first time
 | **M Belfrage** | 4 | 0 | 17 | 1 |
 | **E Garland** | 2 | 1 | 7 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Barrow Hospital
+homeTeam: Barrow Hospital
+awayTeam: The Min
 game: Barrow Hospital v The Min
 location: Barrow Hospital
 date: 25/07/1996
@@ -12,7 +14,7 @@ parent: 1996 Fixtures
 
 {% include matchDetails %}
 
-## Barrow Hospital Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1996 Fixtures
 | **R Beswick** | 4 | 0 | 28 | 2 |
 | **E Garland** | 4 | 0 | 19 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Long Marston
+homeTeam: Long Marston
+awayTeam: The Min
 game: Long Marston v The Min
 location: Long Marston
 date: 08/09/1991
@@ -12,7 +14,7 @@ parent: 1991 Fixtures
 
 {% include matchDetails %}
 
-## Long Marston Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 1991 Fixtures
 | **P Grant** | 3 | 0 | 13 | 0 |
 | **M Gardiner** | 4 | 0 | 9 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

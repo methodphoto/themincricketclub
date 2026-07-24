@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 26/06/2016
@@ -14,7 +16,7 @@ parent: 2016 Fixtures
 
 D Brookfield's 1st 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ D Brookfield's 1st 50
 | **B Taylor** | 7 | 0 | 33 | 2 |
 | **F Kennedy** | 4 | 0 | 25 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

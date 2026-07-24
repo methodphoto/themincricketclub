@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Standard Bridge
+homeTeam: Standard Bridge
+awayTeam: The Min
 game: Standard Bridge v The Min
 location: Bishop's Park
 date: 08/07/1984
@@ -12,7 +14,7 @@ parent: 1984 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1984 Fixtures
 | **Quinn** | 2.3 | 0 | 13 | 2 |
 | **S Foster** | 1 | 1 | 0 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

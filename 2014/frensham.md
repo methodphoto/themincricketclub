@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Frensham
+homeTeam: Frensham
+awayTeam: The Min
 game: Frensham v The Min
 location: Hollowdene Recreation Ground
 date: 08/06/2014
@@ -15,7 +17,7 @@ parent: 2014 Fixtures
 R Beswick's 28th 50. M Breddy's 5th 50. A Butel 1st 50<br />
 Parnership of 133 between R Beswick and M Breddy.
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ Parnership of 133 between R Beswick and M Breddy.
 | **A Page** | 8 | 0 | 53 | 3 |
 | **P Travers** | 7 | 0 | 57 | 3 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

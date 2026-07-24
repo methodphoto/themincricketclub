@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Limpsfield
+homeTeam: Limpsfield
+awayTeam: The Min
 game: Limpsfield v The Min
 location: Limpsfield
 date: 23/06/1990
@@ -12,7 +14,7 @@ parent: 1990 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1990 Fixtures
 | **R Beswick** | 7 | 0 | 41 | 0 |
 | **G Wright** | 7| 0 | 41 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

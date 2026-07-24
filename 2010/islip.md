@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Islip
+homeTeam: Islip
+awayTeam: The Min
 game: Islip v The Min
 location: Islip CC
 date: 11/07/2010
@@ -11,7 +13,7 @@ parent: 2010 Fixtures
 ---
 
 {% include matchDetails %}
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -45,7 +47,7 @@ parent: 2010 Fixtures
 | **Mishra** | 8 | 1 | 26 | 3 |
 | **L Price** | 8 | 4 | 45 | 4 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

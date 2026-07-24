@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stowting
+homeTeam: Stowting
+awayTeam: The Min
 game: Stowting v The Min
 location: Dawes Field
 date: 01/09/1991
@@ -14,7 +16,7 @@ parent: 1991 Fixtures
 
 D Swann 74 off 47 balls (50 off 31)
 
-## Stowting Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ D Swann 74 off 47 balls (50 off 31)
 | **R Beswick** | 7 | 1 | 25 | 1 |
 | **D Swann** | 5 | 2 | 19 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

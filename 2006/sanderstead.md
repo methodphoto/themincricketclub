@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Sanderstead
+homeTeam: Sanderstead
+awayTeam: The Min
 game: Sanderstead v The Min
 location: Sanderstead CC
 date: 24/09/2006
@@ -14,7 +16,7 @@ parent: 2006 Fixtures
 M Goff's 5th 50.<br />
 [Partnership](../records/partnerships) of 113 between M Goff and R Beswick
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ M Goff's 5th 50.<br />
 | **R Rushforth** | 6 | 0 | 46 | 0 |
 | **M Coates** | 4 | 0 | 28 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 25/06/2017
@@ -12,7 +14,7 @@ parent: 2017 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  |  Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2017 Fixtures
 | **A Gundy**  | 1 | 0 | 2 | 0 |
 | **B Taylor**  | 0.5 | 0 | 4 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  |  Runs |
 |:---|:---|---|---:|

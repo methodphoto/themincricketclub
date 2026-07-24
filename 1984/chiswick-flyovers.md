@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Chiswick Flyovers
+homeTeam: Chiswick Flyovers
+awayTeam: The Min
 game: Chiswick Flyovers v The Min
 location: Chiswick
 date: 12/08/1984
@@ -14,7 +16,7 @@ parent: 1984 Fixtures
 
 W Calvert's 1st Michelle and best bowling
  
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ W Calvert's 1st Michelle and best bowling
 | **A Gallagher** | 2.5 | 0 | 16 | 1 |
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

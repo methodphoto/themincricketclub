@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Knapp
+homeTeam: Knapp
+awayTeam: The Min
 game: Knapp v The Min
 location: Knapp
 date: 24/07/1999
@@ -13,7 +15,7 @@ parent: 1999 Fixtures
 {% include matchDetails %}
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ parent: 1999 Fixtures
 | **J Wadham** | 6 | 1 | 31 | 3 |
 | **A Gould** | 0.5 | 0 | 4 | 1 |
 
-## Knapp Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

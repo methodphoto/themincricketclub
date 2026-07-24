@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Old Texaconians
+homeTeam: Old Texaconians
+awayTeam: The Min
 game: Old Texaconians v The Min
 location: Quintin Hogg Memorial Ground
 date: 21/07/1991
@@ -12,7 +14,7 @@ parent: 1991 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1991 Fixtures
 | **Clarke** | 8 | 1 | 32 | 2 |
 | **Wallace** | 2 | 0 | 8 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

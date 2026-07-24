@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Harrow 3rd XI
+homeTeam: Harrow 3rd XI
+awayTeam: The Min
 game: Harrow 3rd XI v The Min
 location: Harrow
 date: 17/08/1986
@@ -14,7 +16,7 @@ parent: 1986 Fixtures
 
 J Grant's 4th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ J Grant's 4th 50
 | **O'Sullivan** | 3 | 0 | 17 | 0 |
 
  
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

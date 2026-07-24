@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Queen Camel
+homeTeam: Queen Camel
+awayTeam: The Min
 game: Queen Camel v The Min
 location: Queen Camel Playing Field
 date: 31/07/1993
@@ -12,7 +14,7 @@ parent: 1993 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 1993 Fixtures
 | **A Jardine** | 4 | 0 | 23 | 4 |
 
 
-## Queen Camel Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

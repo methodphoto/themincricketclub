@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Brockham Green
+homeTeam: Brockham Green
+awayTeam: The Min
 game: Brockham Green v The Min
 location: Brockham Green
 date: 21/08/1988
@@ -12,7 +14,7 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1988 Fixtures
 | **Farmer** | 4.4 | 1 | 24 | 1 |
 | **Oakley** | 3 | 0 | 15 | 1 |
 
-## Brockham Green Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

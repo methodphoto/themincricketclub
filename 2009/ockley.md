@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ockley
+homeTeam: Ockley
+awayTeam: The Min
 game: Ockley v The Min
 location: Ockley
 date: 12/05/1991
@@ -30,7 +32,7 @@ Pickled Egg - Richard Beswick for a dropped catch.
 
 M Gupta's 2nd 50. R Earney'5 5th Michelle
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -66,7 +68,7 @@ M Gupta's 2nd 50. R Earney'5 5th Michelle
 | **M Houghton** | 3 | 0 | 11 | 0 |
 | **A Gunner** | 3 | 0 | 17 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

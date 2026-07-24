@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 16/09/2018
@@ -14,7 +16,7 @@ parent: 2018 Fixtures
 
 I Marshall's 8th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ I Marshall's 8th 50
 | **J Hoy** | 3 | 0 | 17 | 0 |
 | **A Periasoamy** | 2 | 0 | 20 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

@@ -1,8 +1,10 @@
 ---
 layout: default
 title: The Crocodiles
+homeTeam: The Min
+awayTeam: The Crocodiles
 game: The Crocodiles v The Min
-location: Toddington
+location: Toddington Manor
 date: 09/05/1987
 report: The Min batted first and scored 206 for 7 wkts. The Crocodiles were 115 for 8 wkts when time ran out
 result: Match Drawn
@@ -14,7 +16,7 @@ parent: 1987 Fixtures
 
 A Gallagher's 6th 50, J Grant's 5th 50
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ A Gallagher's 6th 50, J Grant's 5th 50
 | **J Pemberton** | 3 | 0 | 14 | 2 |
 | **Bickford** | 1 | 0 | 10 | 0 |
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Putney
+homeTeam: Putney
+awayTeam: The Min
 game: Putney v The Min
 location: Putney
 date: 06/05/1989
@@ -12,7 +14,7 @@ parent: 1989 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1989 Fixtures
 | **5** | 8 | 1 | 21 | 2 |
 | **6** | 2 | 0 | 15 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

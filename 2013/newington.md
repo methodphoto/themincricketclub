@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Newington
+homeTeam: The Min
+awayTeam: Newington
 game:  The Min v Newington
 location: Solefields
 date: 19/05/2013
@@ -14,7 +16,7 @@ parent: 2013 Fixtures
 
 C Martin 1st Michelle and best bowling
 
-## {{page.title}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ C Martin 1st Michelle and best bowling
 | **R Beswick** | 10.3 | 1 | 25 | 3 |
 | **A Slight** | 3 | 0 | 32 | 0 |
 
-## The Min Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

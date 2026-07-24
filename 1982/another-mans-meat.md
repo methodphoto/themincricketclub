@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Another Man's Meat
+homeTeam: Another Man's Meat
+awayTeam: The Min
 game: The Min v Another Man's Meat
 location: Coombe Dingle
 date: 08/05/1982
@@ -12,7 +14,7 @@ parent: 1982 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings 
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ parent: 1982 Fixtures
 | **C Miller** | 2 | 0 | 10 | 0 |
 | **A Sitwell** | 2 | 0 | 8 | 0 |
 
-## {{page.title}} Innings 
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

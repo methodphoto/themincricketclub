@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Selling
+homeTeam: Selling
+awayTeam: The Min
 game: Selling v The Min
 location: Cadman's Meadow
 date: 20/08/2000
@@ -14,7 +16,7 @@ parent: 2000 Fixtures
 
 P O'Mahony's best bowling for The Min
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ P O'Mahony's best bowling for The Min
 | **R Green** | 8 | 1 | 20 | 4 |
 | **E Garland** | 7 | 2 | 23 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

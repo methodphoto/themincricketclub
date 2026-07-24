@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Godstone
+homeTeam: Godstone
+awayTeam: The Min
 game: Godstone v The Min
 location: Godstone
 date: 29/07/1990
@@ -12,7 +14,7 @@ parent: 1990 Fixtures
 
 {% include matchDetails %}
 
-## Godstone Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1990 Fixtures
 | **M Gardiner** | 2 | 0 | 22 | 1 |
 | **R Beswick** | 1.1 | 0 | 1 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

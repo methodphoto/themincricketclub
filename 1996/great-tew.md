@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Great Tew
+homeTeam: Great Tew
+awayTeam: The Min
 game: Great Tew v The Min
 location: Great Tew
 date: 16/06/1996
@@ -15,7 +17,7 @@ parent: 1996 Fixtures
 R Beswick best bowling<br />
 [Partnership](../records/partnerships) of 109 between J Grant and D Swann
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Beswick best bowling<br />
 | **R Beswick** | 12 | 0 | 61 | 6 |
 | **J Wright** | 10 | 3 | 29 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

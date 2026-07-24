@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Antilles
+homeTeam: Antilles
+awayTeam: The Min
 game: Antilles v The Min
 location: Canon's Park
 date: 27/06/1993
@@ -12,7 +14,7 @@ parent: 1993 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 1993 Fixtures
 | **M Boyce** | 4 | 0 | 18 | 2 |
 | **S Collins** | 4 | 0 | 15 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

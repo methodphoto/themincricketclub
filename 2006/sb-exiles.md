@@ -1,6 +1,8 @@
 ---
 layout: default
 title: SB Exiles
+homeTeam: SB Exiles
+awayTeam: The Min
 game: SB Exiles v The Min
 location: Greenwich Park
 date: 03/09/2006
@@ -15,7 +17,7 @@ parent: 2006 Fixtures
 R Earney's 7th century. M Goff's 1st century.<br />
 [Partnership](../records/partnerships) of 179 between R Earney and M Goff.
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ R Earney's 7th century. M Goff's 1st century.<br />
 | **Breitmeyer** | 6 | 0 | 65 | 1 |
 | **Bruton** | 6 | 0 | 38 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

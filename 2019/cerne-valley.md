@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Cerne Valley
+homeTeam: Cerne Valley
+awayTeam: The Min
 game: Cerne Valley v The Min
 location: Cerne Abbas
 date: 03/07/2019
@@ -12,7 +14,7 @@ parent: 2019 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 2019 Fixtures
 | **C Daley** | 3 | 0 | 15 | 1 |
 | **K Peet**| 1 | 0 | 3 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

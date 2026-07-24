@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Barrow-Boys
+homeTeam: Barrow-Boys
+awayTeam: The Min
 game: Barrow-Boys v The Min
 location: Little Bredy
 date: 06/08/1988
@@ -12,7 +14,7 @@ parent: 1988 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ parent: 1988 Fixtures
 | **A Sylvester** | 2 | 1 | 4 | 1 |
 | **A Fielding** | 0.1 | 0 | 0 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 game: Reigate Pilgrims v The Min
 location: The Red Lion, Betchworth
 date: 12/09/2010
@@ -15,7 +17,7 @@ parent: 2010 Fixtures
 T Hammond's 2nd 50.<br />
 [Partnership](../records/partnerships) of 109 between T Hammond and M Gupta
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ T Hammond's 2nd 50.<br />
 | **A Tomes** | 4 | 0 | 23 | 0 |
 | **D Baty** | 3 | 0 | 23 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

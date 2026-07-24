@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Wareham
+homeTeam: Wareham
+awayTeam: The Min
 game: Wareham v The Min
 location: Wareham
 date: 23/07/1999
@@ -13,7 +15,7 @@ parent: 1999 Fixtures
 {% include matchDetails %}
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ parent: 1999 Fixtures
 | **W Smith** | 2 | 0 | 13 | 1 |
 | **M Tulloch** | 2.4 | 0 | 14 | 1 |
 
-## Wareham Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

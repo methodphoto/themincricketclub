@@ -1,6 +1,8 @@
 ---
 layout: default
 title: West Wickham
+homeTeam: West Wickham
+awayTeam: The Min
 game: West Wickham v The Min
 location: West Wickham
 date: 12/05/1986
@@ -15,7 +17,7 @@ parent: 1986 Fixtures
 P Gault's 1st 50
 139 partnership between A Gallagher and P Gault
  
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ P Gault's 1st 50
 | **W Wright** | 8.5 | 2 | 15 | 4 |
 | **A Gallagher** | 2 | 0 | 10 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: SAC XI
+homeTeam: SAC XI
+awayTeam: The Min
 game: SAC XI v The Min
 location: 
 date: 14/08/2011
@@ -12,7 +14,7 @@ parent: 2011 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 2011 Fixtures
 | **R Beswick** | 8 | 1 | 39 | 3 |
 | **A Slight** | 3.2 | 0 | 23 | 3 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

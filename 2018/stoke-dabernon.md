@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stoke Dabernon
+homeTeam: Stoke Dabernon
+awayTeam: The Min
 game: Stoke D'Abernon v The Min
 location: The Brocus
 date: 30/09/2018
@@ -13,7 +15,7 @@ parent: 2018 Fixtures
 
 S Ahmed's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ S Ahmed's 1st 50
 | **Parvez** | 6 | 1 | 29 | 1 |
 | **J Wright** | 6 | 0 | 34 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

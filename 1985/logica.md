@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Logica
+homeTeam: Logica
+awayTeam: The Min
 game: Logica v The Min
 location: Dundonald Recreation Ground
 date: 30/06/1985
@@ -14,7 +16,7 @@ parent: 1985 Fixtures
 
 W Calvert's 2nd 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ W Calvert's 2nd 50
 | **Walker** | 8 | 1 | 27 | 1 |
 
  
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

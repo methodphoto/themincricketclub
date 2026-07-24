@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Brasted Invicta
+homeTeam: Brasted Invicta
+awayTeam: The Min
 game: Brasted Invicta v The Min
 location: Upper Nevill Ground
 date: 04/09/2016
@@ -14,7 +16,7 @@ parent: 2016 Fixtures
 
 M Gupta's 12th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ M Gupta's 12th 50
 | **A Molui** | 6 | 0 | 13 | 2 |
 | **R Ambookan** | 4 | 1 | 5 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Horningsham
+homeTeam: Horningsham
+awayTeam: The Min
 game: Horningsham v The Min
 location: Horningsham
 date: 10/07/2005
@@ -15,7 +17,7 @@ parent: 2005 Fixtures
 R Earney's 29th 50. A Slight Best Bowling.<br />
 The second ever 4 win Tour
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ The second ever 4 win Tour
 | **R Gunning** | 2 | 0 | 16 | 0 |
 | **Simpson** | 3 | 0 | 27 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

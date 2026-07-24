@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Middleton Stoney
+homeTeam: Middleton Stoney
+awayTeam: The Min
 game: Middleton Stoney v The Min
 location: Middleton Park
 date: 19/04/2015
@@ -14,7 +16,7 @@ parent: 2015 Fixtures
 
 R Simpson was dropped several times. S Hornsby's 15th 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Simpson was dropped several times. S Hornsby's 15th 50
 | **J Wright** | 5 | 0 | 45 | 1 |
 | **R Beswick** | 3 | 0 | 25 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

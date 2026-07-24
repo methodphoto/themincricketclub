@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Selling
+homeTeam: Selling
+awayTeam: The Min
 game: Selling v The Min
 location: Cadman's Meadow
 date: 18/08/2002
@@ -14,7 +16,7 @@ parent: 2002 Fixtures
 
 R Earney second century in the season and fourth overall and his highest score for The Min
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ R Earney second century in the season and fourth overall and his highest score f
 | **J Gower** | 5 | 0 | 43 | 1 |
 | **D Bushell** | 2 | 0 | 13 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

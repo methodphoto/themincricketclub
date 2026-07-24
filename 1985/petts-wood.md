@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Petts Wood
+homeTeam: Petts Wood
+awayTeam: The Min
 game: Petts Wood v The Min
 location: Willett Recreation Ground
 date: 02/06/1985
@@ -15,7 +17,7 @@ parent: 1985 Fixtures
 A Sylvester's 1st Michelle<br />
 J Packenham-Walsh's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ J Packenham-Walsh's 1st 50
 | **A Sylvester** | 10 | 4 | 32 | 5 |
 | **W Calvert** | 15 | 1 | 65 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

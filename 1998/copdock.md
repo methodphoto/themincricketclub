@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Copdock & Old Ipswichian CC
+homeTeam: Copdock & Old Ipswichian CC
+awayTeam: The Min
 game: Copdock & Old Ipswichian CC v The Min
 location: Copdock
 date: 06/08/1998
@@ -14,7 +16,7 @@ parent: 1998 Fixtures
 
 R Earney, 4th 5 wicket haul for The Min
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ R Earney, 4th 5 wicket haul for The Min
 | **R Earney** | 6.5 | 1 | 41 | 5 |
 | **I Marshall** | 6 | 0 | 18 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

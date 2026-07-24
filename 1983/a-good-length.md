@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A Good Length
+homeTeam: A Good Length
+awayTeam: The Min
 game: A Good Length v The Min
 location: Bramley
 date: 25/06/1982
@@ -14,7 +16,7 @@ parent: 1983 Fixtures
 
 A Gallagher's 2nd 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ A Gallagher's 2nd 50
 | **T Purvis** | 1 | 0 | 7 | 0 |
 | **J Grant** | 0.3 | 0 | 0 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

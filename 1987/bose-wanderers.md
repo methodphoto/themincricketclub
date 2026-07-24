@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Bose Wanderers
+homeTeam: Bose Wanderers
+awayTeam: The Min
 game: Bose Wanderers v The Min
 location: 
 date: 23/08/1987
@@ -14,7 +16,7 @@ parent: 1987 Fixtures
 
 M Taylor's 2nd 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ M Taylor's 2nd 50
 | **M Bose** | 1 | 0 | 20 | 0 |
 | **Gordon** | 3 | 1 | 18 | 2 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

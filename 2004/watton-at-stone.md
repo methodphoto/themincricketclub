@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 27/06/2004
@@ -15,7 +17,7 @@ parent: 2004 Fixtures
 R Beswick's 15th 50. H Ingham's first 50.<br />
 [Partnership](../records/partnerships) of 186 between R Beswick and H Ingham. Highest Min Partnership.
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ R Beswick's 15th 50. H Ingham's first 50.<br />
 | **J Wright** | 15 | 2 | 62 | 4 |
 | **N Putt** | 10 | 2 | 37 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

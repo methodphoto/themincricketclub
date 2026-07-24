@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ballinger Waggoners
+homeTeam: Ballinger Waggoners
+awayTeam: The Min
 game: Ballinger v The Min
 location: Ballinger Waggoners CC
 date: 08/06/2003
@@ -12,7 +14,7 @@ parent: 2003 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -43,7 +45,7 @@ parent: 2003 Fixtures
 |---|:---|:---|:---|:---|
 | |  |  |  |  |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

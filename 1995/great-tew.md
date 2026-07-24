@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Great Tew
+homeTeam: Great Tew
+awayTeam: The Min
 game: Great Tew v The Min
 location: Great Tew
 date: 18/06/1995
@@ -12,7 +14,7 @@ parent: 1995 Fixtures
 
 {% include matchDetails %}
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1995 Fixtures
 | **Crisp** | 11 | 1 | 43 | 2 |
 | **Griffin** | 8.5 | 0 | 36 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

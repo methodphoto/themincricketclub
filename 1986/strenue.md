@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Strenue
+homeTeam: Strenue
+awayTeam: The Min
 game: Strenue v The Min
 location: 
 date: 27/07/1986
@@ -14,7 +16,7 @@ parent: 1986 Fixtures
 
 S Foster's 1st 50
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ S Foster's 1st 50
 | **S Mears** | 5 | 0 | 28 | 0 |
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

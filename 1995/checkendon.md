@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Checkendon
+homeTeam: Checkendon
+awayTeam: The Min
 game: Checkendon v The Min
 location: Checkendon
 date: 13/08/1995
@@ -12,7 +14,7 @@ parent: 1995 Fixtures
 
 {% include matchDetails %}
 
-## Checkendon Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -47,7 +49,7 @@ parent: 1995 Fixtures
 | **R Earney** | 5 | 1 | 33 | 0 |
 | **R Beswick** | 6.4 | 1 | 20 | 3 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

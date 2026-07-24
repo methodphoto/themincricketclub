@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Broadway and Horton
+homeTeam: Broadway and Horton
+awayTeam: The Min
 game: Broadway and Horton v The Min
 location: The Pound
 date: 08/07/2021
@@ -16,7 +18,7 @@ P Wigg's 4th 50 off 28 balls (the fastest since we recorded balls)
 
 <iframe src="https://player.vimeo.com/video/902317240?h=9a6eb19a52" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -54,7 +56,7 @@ P Wigg's 4th 50 off 28 balls (the fastest since we recorded balls)
 | **C Lant** | 1 | 0 | 13 | 0 |
 | **D Grabham** | 0.1 | 0 | 0 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

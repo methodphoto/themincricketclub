@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Islip
+homeTeam: Islip
+awayTeam: The Min
 game: Islip v The Min
 location: Islip
 date: 12/07/2009
@@ -14,7 +16,7 @@ parent: 2009 Fixtures
 
 D Wigg highest score. A Beswick best bowling
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ D Wigg highest score. A Beswick best bowling
 | **S Nelson** | 1 | 0 | 10 | 0 |
 | **R Henshaw** | 1 | 0 | 17 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

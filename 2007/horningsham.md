@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Horningsham
+homeTeam: Horningsham
+awayTeam: The Min
 game: Horningsham v The Min
 location: Horningsham
 date: 14/07/2007
@@ -15,7 +17,7 @@ parent: 2007 Fixtures
 <img src="coyley.jpg" width="100%" alt="Richard Coyle's birthday" />
 
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -52,7 +54,7 @@ parent: 2007 Fixtures
 | **D Ware** | 4 | 0 | 18 | 0 |
 | **R Stern** | 1 | 0 | 8 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

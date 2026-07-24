@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Woodlawn CC
+homeTeam: Woodlawn CC
+awayTeam: The Min
 game: Woodlawn CC v The Min
 location: Carlisle Park, Hampton
 date: 21/09/1997
@@ -11,7 +13,7 @@ parent: 1997 Fixtures
 
 {% include matchDetails %}
 
-## Woodlawn Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -46,7 +48,7 @@ parent: 1997 Fixtures
 | **P O'Mahony** | 13 | 3 | 35 | 2 |
 | **J Wright** | 4 | 0 | 20 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

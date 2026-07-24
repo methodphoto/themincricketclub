@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Britwell Salome
+homeTeam: Britwell Salome
+awayTeam: The Min
 game: Britwell Salome v The Min
 location: Britwell Salome CC
 date: 24/04/2010
@@ -33,7 +35,7 @@ An excellent victory was followed by something very strange: a curry in Watlingt
 One seems a little more likely than the other…
 
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -68,7 +70,7 @@ One seems a little more likely than the other…
 | **M Gupta** | 7 | 2 | 32 | 0 |
 | **E Garland** | 4.4 | 0 | 28 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

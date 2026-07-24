@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Selling
+homeTeam: Selling
+awayTeam: The Min
 game: Selling Cavaliers v The Min
 location: Cadman's Meadow
 date: 01/08/2004
@@ -15,7 +17,7 @@ parent: 2004 Fixtures
 R Earney's 24th 50. R Beswick's 16th 50.<br />
 [Partnership](../records/partnerships) of 126 between R Earney and R Beswick
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 
 | Batsman | Dismissal |  | Runs |
@@ -50,7 +52,7 @@ R Earney's 24th 50. R Beswick's 16th 50.<br />
 | **J Wright** | 13 | 3 | 54 | 3 |
 | **E Garland** | 5 | 0 | 23 | 1 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

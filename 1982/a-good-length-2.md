@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A Good Length 2
+homeTeam: A Good Length 2
+awayTeam: The Min
 game: The Min v A Good Length 
 location: Coombe Dingle
 date: 16/06/1982
@@ -14,7 +16,7 @@ parent: 1982 Fixtures
 
 M Kirwan's 2nd Michelle
 
-## A Good Length Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -49,7 +51,7 @@ M Kirwan's 2nd Michelle
 | **S Sutherland** | 7 | 4 | 7 | 2 |
 | **S Beavis** | 4 | 1 | 17 | 2 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

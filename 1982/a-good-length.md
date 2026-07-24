@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A Good Length
+homeTeam: A Good Length
+awayTeam: The Min
 game: The Min v A Good Length
 location: Coombe Dingle
 date: 06/05/1982
@@ -14,7 +16,7 @@ parent: 1982 Fixtures
 
 Ken Sullivan - Best Bowling by The Min
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ Ken Sullivan - Best Bowling by The Min
 | **J Wright** | 9 | 1 | 37 | 3 |
 | **K Sullivan** | 7.1 | 0 | 36 | 4 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

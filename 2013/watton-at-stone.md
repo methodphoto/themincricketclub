@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Watton-at-Stone
+homeTeam: Watton-at-Stone
+awayTeam: The Min
 game: Watton-at-Stone v The Min
 location: The Meadow
 date: 30/06/2013
@@ -14,7 +16,7 @@ parent: 2013 Fixtures
 
 A Beswick's 2nd 50. T Rutherford's 5th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -51,7 +53,7 @@ A Beswick's 2nd 50. T Rutherford's 5th 50
 | **Taylor** | 2 | 0 | 20 | 0 |
 | **Miller** | 3 | 0 | 45 | 1 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

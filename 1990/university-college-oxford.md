@@ -1,6 +1,8 @@
 ---
 layout: default
 title: University College, Oxford v The Min
+homeTeam: University College, Oxford v The Min
+awayTeam: The Min
 game: University College, Oxford
 location: University College Sports Ground
 date: 10/06/1990
@@ -12,7 +14,7 @@ parent: 1990 Fixtures
 
 {% include matchDetails %}
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -48,7 +50,7 @@ parent: 1990 Fixtures
 | **E Garland** | 4 | 0 | 35 | 0 |
 | **S Hornsby** | 4 | 0 | 29 | 0 |
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

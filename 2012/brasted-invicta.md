@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Brasted Invicta
+homeTeam: Brasted Invicta
+awayTeam: The Min
 game: Brasted Invicta v The Min
 location: Bayham Road Football Ground
 date: 09/09/2012
@@ -14,7 +16,7 @@ parent: 2012 Fixtures
 
 T Rutherford's 4th 50
 
-## The Min Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -50,7 +52,7 @@ T Rutherford's 4th 50
 | **Pearce** | 3 | 0 | 20 | 0 |
 | **Fishley** | 3 | 0 | 29 | 0 |
 
-## {{page.title}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
