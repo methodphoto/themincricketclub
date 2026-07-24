@@ -685,7 +685,7 @@ Defending 106 against Watton-at-Stone, we got them out for 103. I took a one-han
 Lamb Dopiaza with a Garlic Naan
 
 **Favourite Min Tea or Min Tea item?**<br />
-Egg Sandwich
+Egg Mayo Sandwich
 
 **Favourite Batsman of all time?**<br />
 Viv Richards

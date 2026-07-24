@@ -11,7 +11,7 @@ parent: 2020 Fixtures
 
 {% include matchDetails %}
 
-The Jerry Wright and Pete Grant Memorial Match
+**The Jerry Wright and Pete Grant Memorial Match**
 
 M Wright batted, Charlotte Wright and Harry Earney fielded
 
