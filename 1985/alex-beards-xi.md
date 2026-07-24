@@ -50,6 +50,8 @@ parent: 1985 Fixtures
 
 
  ## {{page.title}} Innings
+## {{page.title}} Innings
+
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

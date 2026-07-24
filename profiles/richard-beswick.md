@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -21,7 +21,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 538 | 477 | 76 | 8764 | 21.86 |
+| 537 | 476 | 76 | 8750 | 21.88 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -323,7 +323,6 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Ockley](../1998/ockley) | **46**&#42; |
 | **1997** | [Reigate Pilgrims](../1997/reigate-pilgrims) | **7** |
 |  | [Slip End](../1997/slip-end) | **23**&#42; |
-|  | [Captain Scott XI](../1997/captain-scott-xi) | **14** |
 |  | [Farnborough](../1997/farnborough) | **42** |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | **15**&#42; |
 |  | [Wincanton Casuals](../1997/wincanton-casuals) | **19** |
@@ -514,7 +513,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 401 | 2331.5 | 395 | 8870 | 488 | 18.18 | 28.67 |
+| 400 | 2325.5 | 394 | 8835 | 487 | 18.14 | 28.66 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -743,7 +742,6 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Hartswood Occasionals](../1998/hartswood-occasionals) | 1 | 0 | 9 | 0 |
 | **1997** | [Slip End](../1997/slip-end) | 3 | 0 | 15 | 1 |
 |  | [Hetairoi](../1997/hetairoi) | 4 | 1 | 9 | 0 |
-|  | [Captain Scott XI](../1997/captain-scott-xi) | 6 | 1 | 35 | 1 |
 |  | [Farnborough](../1997/farnborough) | 5 | 0 | 20 | 0 |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | 8 | 1 | 36 | 1 |
 |  | [Great Braxted](../1997/great-braxted) | 12 | 4 | 30 | 1 |

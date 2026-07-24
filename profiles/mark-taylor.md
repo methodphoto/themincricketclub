@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -21,15 +21,10 @@ Debut: [Valley End 1986](../1986/valley-end)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 20 | 20 | 3 | 578 | 34.0 |
+| 15 | 15 | 3 | 495 | 41.25 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
-| **2024** | [Frensham](../2024/frensham) | **19** |
-| **2022** | [Frensham](../2022/frensham) | **19** |
-| **2017** | [Frensham](../2017/frensham) | **30** |
-| **2016** | [Frensham](../2016/frensham) | **12** |
-| **2007** | [SB Exiles](../2007/sb-exiles) | **3** |
 | **1991** | [Watton-at-Stone](../1991/watton-at-stone) | **18** |
 | **1990** | [Watton-at-Stone](../1990/watton-at-stone) | **45** |
 |  | [Little Kingshill](../1990/little-kingshill) | **22** |
@@ -56,12 +51,10 @@ Debut: [Valley End 1986](../1986/valley-end)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 16 | 120.5 | 26 | 373 | 23 | 16.22 | 31.52 |
+| 14 | 111 | 25 | 318 | 22 | 14.45 | 30.27 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
-| **2022** | [Frensham](../2022/frensham) | 0.5 | 0 | 5 | 0 |
-| **2016** | [Frensham](../2016/frensham) | 9 | 1 | 50 | 1 |
 | **1991** | [Watton-at-Stone](../1991/watton-at-stone) | 9 | 2 | 24 | 2 |
 | **1990** | [Watton-at-Stone](../1990/watton-at-stone) | 10 | 2 | 18 | 2 |
 |  | [Little Kingshill](../1990/little-kingshill) | 8 | 2 | 15 | 1 |

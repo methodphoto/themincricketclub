@@ -49,6 +49,8 @@ parent: 2018 Fixtures
 | **C Carter** | 6 | 1 | 22 | 3 |
 
  ## {{page.title}} Innings
+## {{page.title}} Innings
+
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

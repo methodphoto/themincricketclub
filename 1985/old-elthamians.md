@@ -52,6 +52,8 @@ W Calvert's 2nd 50
 | **T Manchip** | 3 | 2 | 12 | 1 |
 
  ## {{page.title}} Innings
+## {{page.title}} Innings
+
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [West Green 1984](../1984/west-green)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 32 | 26 | 4 | 292 | 13.27 |
+| 31 | 25 | 4 | 275 | 13.1 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -49,7 +49,6 @@ Debut: [West Green 1984](../1984/west-green)
 | **1985** | [Alex Beard's XI](../1985/alex-beards-xi) | **19**&#42; |
 | **1984** | [Ealonian](../1984/ealonian) | **1** |
 |  | [West Green](../1984/west-green) | **2** |
-| **1982** | [J Stimpfigs XI](../1982/j-stimfigs-xi) | **17** |
 
 
 **Highest Score**: 46 v [Kilmington and Stourton](../1996/kilmington-and-stourton)<br />

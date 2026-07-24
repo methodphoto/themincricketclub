@@ -49,7 +49,7 @@ parent: 2015 Fixtures
 | **A Beswick** | 2 | 0 | 14 | 1 |
 | **E Garland** | 1 | 0 | 15 | 0 |
 
-## The Min Batting 
+## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

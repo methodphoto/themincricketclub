@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -14,18 +14,17 @@ Last Updated: 2026-07-23
 </details>
 
 
-Debut: [Old Elthamians 1984](../1984/old-elthamians)
+Debut: [Strenue 1986](../1986/strenue)
 
 ## Batting
 
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 60 | 38 | 16 | 191 | 8.68 |
+| 57 | 36 | 16 | 177 | 8.85 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
-| **2015** | [Blagdon Hill](../2015/blagdon-hill) | **0** |
 | **2004** | [Britwell Salome](../2004/britwell-salome) | **1** |
 | **1997** | [Farnborough](../1997/farnborough) | **1**&#42; |
 | **1994** | [Farnborough](../1994/farnborough) | **3**&#42; |
@@ -62,7 +61,6 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 |  | [Wendover](../1989/wendover) | **9** |
 | **1987** | [Little Kingshill](../1987/little-kingshill) | **0**&#42; |
 | **1986** | [Strenue](../1986/strenue) | **0** |
-| **1984** | [Old Elthamians](../1984/old-elthamians) | **14** |
 
 
 **Highest Score**: 31* v [Little Kingshill](../1990/little-kingshill)<br />
@@ -74,7 +72,7 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 47 | 334.4 | 56 | 1132 | 46 | 24.61 | 43.65 |
+| 46 | 330.4 | 56 | 1110 | 45 | 24.67 | 44.09 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -124,7 +122,6 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 |  | [Putney](../1989/putney) | 6 | 0 | 12 | 2 |
 |  | [Wendover](../1989/wendover) | 5 | 1 | 22 | 2 |
 | **1987** | [Old Elthamians](../1987/old-elthamians) | 1.2 | 1 | 4 | 0 |
-| **1984** | [Old Elthamians](../1984/old-elthamians) | 4 | 0 | 22 | 1 |
 
 
 **Best Bowling:** 12.2-0-29-5 v [Yateley](../1992/yateley)<br />

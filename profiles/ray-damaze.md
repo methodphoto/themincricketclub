@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -14,14 +14,14 @@ Last Updated: 2026-07-23
 </details>
 
 
-Debut: [ELCCC 2011](../2011/elccc)
+Debut: [SAC XI 2011](../2011/sac-xi)
 
 ## Batting
 
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 62 | 60 | 7 | 1297 | 24.47 |
+| 61 | 59 | 7 | 1282 | 24.65 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -84,7 +84,6 @@ Debut: [ELCCC 2011](../2011/elccc)
 | **2011** | [Reigate Pilgrims](../2011/reigate-pilgrims) | **28** |
 |  | [SB Exiles](../2011/sb-exiles) | **74** |
 |  | [SAC XI](../2011/sac-xi) | **36** |
-|  | [ELCCC](../2011/elccc) | **15** |
 
 
 **Highest Score**: 100* v [Frensham](../2013/frensham)<br />
@@ -96,7 +95,7 @@ Debut: [ELCCC 2011](../2011/elccc)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 8 | 16.2 | 2 | 117 | 3 | 39.0 | 32.67 |
+| 7 | 14.2 | 2 | 98 | 2 | 49.0 | 43.0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -107,7 +106,6 @@ Debut: [ELCCC 2011](../2011/elccc)
 | **2013** | [Addington 1743](../2013/addington-1743) | 0.3 | 0 | 2 | 1 |
 |  | [Nightwatchmen](../2013/nightwatchman) | 1 | 0 | 15 | 0 |
 | **2012** | [Newdigate](../2012/newdigate) | 0.5 | 0 | 7 | 0 |
-| **2011** | [ELCCC](../2011/elccc) | 2 | 0 | 19 | 1 |
 
 
 **Best Bowling:** 0.3-0-2-1 v [Addington 1743](../2013/addington-1743)<br />

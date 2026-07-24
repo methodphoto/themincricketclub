@@ -50,7 +50,7 @@ S Barrowcliff 50 off 68 balls
 | **R Beswick** | 8 | 0 | 39 | 1 |
 | **R Earney** | 1.2 | 1 | 0 | 2 |
 
-##  Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

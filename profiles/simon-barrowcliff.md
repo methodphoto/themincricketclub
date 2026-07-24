@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -21,7 +21,7 @@ Debut: [Godstone 1989](../1989/godstone)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 105 | 102 | 10 | 2366 | 25.72 |
+| 101 | 98 | 9 | 2306 | 25.91 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -121,12 +121,8 @@ Debut: [Godstone 1989](../1989/godstone)
 |  | [Hersham](../1991/hersham) | **1** |
 | **1990** | [Watton-at-Stone](../1990/watton-at-stone) | **46** |
 |  | [Reigate Pilgrims](../1990/reigate-pilgrims) | **1**&#42; |
-|  | [T Calvert's Collection](../1990/t-calverts-collection) | **0** |
 |  | [Brook](../1990/brook) | **2** |
-| **1989** | [Flamingo](../1989/flamingo) | **31**&#42; |
-|  | [Barrow-boys](../1989/barrow-boys) | **12** |
-|  | [Godstone](../1989/godstone) | **8** |
-| **1988** | [Barrow-Boys](../1988/barrow-boys) | **17** |
+| **1989** | [Godstone](../1989/godstone) | **8** |
 
 
 **Highest Score**: 117* v [Old Elthamians](../1993/old-elthamians)<br />
@@ -138,7 +134,7 @@ Debut: [Godstone 1989](../1989/godstone)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 9 | 17.2 | 1 | 101 | 3 | 33.67 | 34.67 |
+| 7 | 12.2 | 1 | 78 | 2 | 39.0 | 37.0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -149,8 +145,6 @@ Debut: [Godstone 1989](../1989/godstone)
 | **1993** | [Queen Camel](../1993/queen-camel) | 2 | 0 | 7 | 1 |
 | **1992** | [Yateley](../1992/yateley) | 2 | 1 | 7 | 0 |
 | **1991** | [Long Marston](../1991/long-marston) | 3 | 0 | 20 | 0 |
-| **1990** | [T Calvert's Collection](../1990/t-calverts-collection) | 2 | 0 | 10 | 0 |
-| **1989** | [Flamingo](../1989/flamingo) | 3 | 0 | 13 | 1 |
 
 
 **Best Bowling:** 0.2-0-2-1 v [Broadway and Horton](../2014/broadway-and-horton)<br />

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -14,13 +14,13 @@ Last Updated: 2026-07-23
 </details>
 
 
-Debut: [Old Elthamians 1984](../1984/old-elthamians)
+Debut: [Petts Wood 1986](../1986/petts-wood)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 26 | 24 | 2 | 622 | 28.27 |
+| 24 | 23 | 2 | 600 | 28.57 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -47,7 +47,6 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 |  | [Old Elthamians](../1986/old-elthamians) | **45**&#42; |
 |  | [West Wickham](../1986/west-wickham) | **16** |
 |  | [Petts Wood](../1986/petts-wood) | **45** |
-| **1984** | [Old Elthamians](../1984/old-elthamians) | **22** |
 
 
 **Highest Score**: 91 v [Old Elthamians](../1995/old-elthamians)<br />
@@ -59,7 +58,7 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 8 | 37 | 7 | 122 | 7 | 17.43 | 31.71 |
+| 7 | 34 | 7 | 109 | 6 | 18.17 | 34.0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -70,7 +69,6 @@ Debut: [Old Elthamians 1984](../1984/old-elthamians)
 |  | [Old Elthamians](../1986/old-elthamians) | 12 | 3 | 46 | 2 |
 |  | [West Wickham](../1986/west-wickham) | 8.5 | 2 | 15 | 4 |
 |  | [Petts Wood](../1986/petts-wood) | 5 | 0 | 14 | 0 |
-| **1984** | [Old Elthamians](../1984/old-elthamians) | 3 | 0 | 13 | 1 |
 
 
 **Best Bowling:** 8.5-2-15-4 v [West Wickham](../1986/west-wickham)<br />

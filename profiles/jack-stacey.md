@@ -6,7 +6,7 @@ parent: Profiles
 
 # {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 **Debut:** [Newdigate 2013](../2013/newdigate)
 

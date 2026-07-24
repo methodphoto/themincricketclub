@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -21,11 +21,10 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 98 | 72 | 16 | 501 | 8.95 |
+| 96 | 70 | 16 | 497 | 9.2 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
-| **2006** | [Sanderstead](../2006/sanderstead) | **4** |
 | **1997** | [Farnborough](../1997/farnborough) | **13** |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | **0** |
 |  | [Wincanton Casuals](../1997/wincanton-casuals) | **12**&#42; |
@@ -33,7 +32,6 @@ Debut: [Lobsters 1983](../1983/lobsters)
 | **1996** | [Stonor](../1996/stonor) | **11** |
 |  | [Broadway and Horton](../1996/broadway-and-horton) | **5** |
 |  | [Farnborough](../1996/farnborough) | **0** |
-|  | [Kilmington and Stourton](../1996/kilmington-and-stourton) | **0** |
 |  | [Tappers](../1996/tappers) | **9**&#42; |
 | **1995** | [Watton-at-Stone](../1995/watton-at-stone) | **0** |
 |  | [Hetairoi](../1995/hetairoi) | **9** |
@@ -108,11 +106,10 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 15 | 37 | 4 | 179 | 10 | 17.9 | 22.2 |
+| 14 | 30 | 4 | 163 | 9 | 18.11 | 20.0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
-| **2006** | [Sanderstead](../2006/sanderstead) | 7 | 0 | 16 | 1 |
 | **1997** | [Kilmington and Stourton](../1997/kilmington-and-stourton) | 2 | 0 | 7 | 1 |
 |  | [Wincanton Casuals](../1997/wincanton-casuals) | 1 | 0 | 12 | 1 |
 | **1994** | [Great Tew](../1994/great-tew) | 1 | 0 | 11 | 0 |

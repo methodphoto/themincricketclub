@@ -50,6 +50,8 @@ parent: 1990 Fixtures
 | **Pearce** | 1.2 | 1 | 0 | 1 |
 
  ## {{page.title}} Innings
+## {{page.title}} Innings
+
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

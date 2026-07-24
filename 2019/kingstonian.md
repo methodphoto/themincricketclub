@@ -53,6 +53,8 @@ A Beswick's 10th 50 and highest score
 | **Khalid** | 2 | 0 | 14 | 0 |
 
  ## {{page.title}} Innings
+## {{page.title}} Innings
+
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

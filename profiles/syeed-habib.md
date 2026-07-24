@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -14,13 +14,13 @@ Last Updated: 2026-07-23
 </details>
 
 
-Debut: [ELCCC 2009](../2009/elccc)
+Debut: [Newington 2015](../2015/newington)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 11 | 10 | 2 | 315 | 39.38 |
+| 6 | 5 | 1 | 204 | 51.0 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -29,11 +29,6 @@ Debut: [ELCCC 2009](../2009/elccc)
 | **2015** | [Brasted Invicta](../2015/brasted-invicta) | **25**&#42; |
 |  | [Stowting](../2015/stowting) | **57** |
 |  | [Newington](../2015/newington) | **23** |
-|  | [Nightwatchman](../2015/nightwatchman) | **13** |
-| **2012** | [ELCCC](../2012/elccc) | **11** |
-| **2010** | [ELCCC](../2010/elccc) | **33** |
-| **2009** | [ELCCC](../2009/elccc) | **49**&#42; |
-| **2003** | [Spencer](../2003/spencer) | **5** |
 
 
 **Highest Score**: 91 v [Frensham](../2016/frensham)<br />
@@ -45,7 +40,7 @@ Debut: [ELCCC 2009](../2009/elccc)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 9 | 50 | 8 | 149 | 5 | 29.8 | 60.0 |
+| 6 | 40 | 7 | 91 | 3 | 30.33 | 80.0 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -55,9 +50,6 @@ Debut: [ELCCC 2009](../2009/elccc)
 | **2015** | [Brasted Invicta](../2015/brasted-invicta) | 2 | 0 | 2 | 0 |
 |  | [Stowting](../2015/stowting) | 9 | 6 | 4 | 1 |
 |  | [Newington](../2015/newington) | 6 | 0 | 19 | 2 |
-|  | [Nightwatchman](../2015/nightwatchman) | 1 | 0 | 14 | 0 |
-| **2010** | [ELCCC](../2010/elccc) | 4 | 1 | 10 | 1 |
-| **2009** | [ELCCC](../2009/elccc) | 5 | 0 | 34 | 1 |
 
 
 **Best Bowling:** 6-0-19-2 v [Newington](../2015/newington)<br />

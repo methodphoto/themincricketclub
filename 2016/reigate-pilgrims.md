@@ -51,7 +51,7 @@ R Earney's 51st 50. <br />
 | **D Batey** | 3 | 0 | 43 | 0 |
 | **G Mitchell** | 2 | 0 | 5 | 2 |
 
-## {{page.title}} nnings
+## {{page.title}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

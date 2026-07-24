@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -14,13 +14,13 @@ Last Updated: 2026-07-23
 </details>
 
 
-Debut: [UB II 1983](../1983/ub-ii)
+Debut: [Logica 1985](../1985/logica)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 47 | 32 | 17 | 305 | 20.33 |
+| 46 | 32 | 17 | 305 | 20.33 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -67,7 +67,7 @@ Debut: [UB II 1983](../1983/ub-ii)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 46 | 300 | 71 | 907 | 49 | 18.51 | 36.73 |
+| 45 | 294 | 69 | 900 | 48 | 18.75 | 36.75 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -116,7 +116,6 @@ Debut: [UB II 1983](../1983/ub-ii)
 | **1985** | [Lobsters](../1985/lobsters) | 5 | 2 | 8 | 1 |
 |  | [Hendon-Edgware](../1985/hendon-edgware) | 9 | 0 | 46 | 1 |
 |  | [Logica](../1985/logica) | 8 | 2 | 11 | 0 |
-| **1983** | [UB II](../1983/ub-ii) | 6 | 2 | 7 | 1 |
 
 
 **Best Bowling:** 10-4-14-5 v [Stowting](../1987/stowting)<br />

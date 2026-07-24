@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -21,7 +21,7 @@ Debut: [Blagdon Hill 2016](../2016/blagdon-hill)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 12 | 12 | 3 | 498 | 55.33 |
+| 11 | 11 | 2 | 478 | 53.11 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -36,7 +36,6 @@ Debut: [Blagdon Hill 2016](../2016/blagdon-hill)
 | **2021** | [Broadway and Horton](../2021/broadway-and-horton) | **44** |
 | **2017** | [Blagdon Hill](../2017/blagdon-hill) | **21** |
 | **2016** | [Blagdon Hill](../2016/blagdon-hill) | **8** |
-| **2002** | [Britwell Salome](../2002/britwell-salome) | **20**&#42; |
 
 
 **Highest Score**: 117* v [Broadway and Horton](../2026/broadway-and-horton)<br />

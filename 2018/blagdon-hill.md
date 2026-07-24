@@ -41,12 +41,12 @@ parent: 2018 Fixtures
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **P Wigg** | 7 | 1 | 21 | 1 |
-| **R Earney** | 6 | 1 | 39 | 1 |
-| **I Muntakim** | 6 | 0 | 21 | 2 |
-| **R Beswick** | 4 | 0 | 33 | 0 |
-| **J Wright** | 2 | 0 | 22 | 0 |
-| **S Noble** | 1 | 0 | 4 | 1 |
+| **G Williams** | 7 | 0 | 39 | 2 |
+| **R Neale** | 8 | 2 | 27 | 0 |
+| **A Hannam** | 8 | 2 | 18 | 2 |
+| **A Hotham** | 4 | 2 | 9 | 0 |
+| **D Wright** | 8 | 1 | 27 | 3 |
+| **A Davidson** | 5 | 0 | 15 | 1 |
 
 ## {{page.title}} Innings
 
@@ -77,12 +77,12 @@ parent: 2018 Fixtures
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **G Williams** | 7 | 0 | 39 | 2 |
-| **R Neale** | 8 | 2 | 27 | 0 |
-| **A Hannam** | 8 | 2 | 18 | 2 |
-| **A Hotham** | 4 | 2 | 9 | 0 |
-| **D Wright** | 8 | 1 | 27 | 3 |
-| **A Davidson** | 5 | 0 | 15 | 1 |
+| **P Wigg** | 7 | 1 | 21 | 1 |
+| **R Earney** | 6 | 1 | 39 | 1 |
+| **I Muntakim** | 6 | 0 | 21 | 2 |
+| **R Beswick** | 4 | 0 | 33 | 0 |
+| **J Wright** | 2 | 0 | 22 | 0 |
+| **S Noble** | 1 | 0 | 4 | 1 |
 
 ## Season Win/Loss Record
 

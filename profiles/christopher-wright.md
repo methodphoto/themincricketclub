@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -58,12 +58,12 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 49 | 263.1 | 12 | 1571 | 56 | 28.05 | 28.2 |
+| 49 | 263.1 | 12 | 1571 | 55 | 28.56 | 28.71 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
 | **2026** | [Easton Cowfolk](../2026/easton-cowfolk) | 7 | 0 | 24 | 3 |
-|  | [Broadway and Horton](../2026/broadway-and-horton) | 7 | 0 | 56 | 2 |
+|  | [Broadway and Horton](../2026/broadway-and-horton) | 7 | 0 | 56 | 1 |
 |  | [Dead Bats](../2026/dead-bats) | 7 | 0 | 53 | 2 |
 |  | [The Mighty Wandererss](../2026/the-mighty-wanderers) | 7 | 0 | 24 | 3 |
 | **2025** | [Railway Taverners](../2025/railway-taverners) | 5 | 0 | 42 | 1 |

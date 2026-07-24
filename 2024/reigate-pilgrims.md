@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Reigate Pilgrims
-homeTeam: The Min
-awayTeam: Reigate Pilgrims
+homeTeam: Reigate Pilgrims
+awayTeam: The Min
 location: The Red Lion, Betchworth 
 date: 15/09/2024
 report: Pilgrims won the toss and inserted The Min who made 193 for 8 wkts in 40.2 overs. Reigate were 129 for 7 wkts when time ran out.

@@ -55,6 +55,8 @@ P Wigg's 1st Michelle
 | **H Payne** | 3 | 0 | 10 | 1 |
 
  ## {{page.title}} Innings
+## {{page.title}} Innings
+
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

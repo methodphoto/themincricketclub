@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 58 | 37 | 17 | 406 | 20.3 |
+| 57 | 36 | 17 | 365 | 19.21 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -49,7 +49,6 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Brook](../1985/brook) | **56**&#42; |
 | **1984** | [Nick Hoares XI](../1984/nick-hoares-xi) | **48**&#42; |
 |  | [Old Elthamians](../1984/old-elthamians) | **35** |
-|  | [Logica](../1984/logica) | **41** |
 |  | [Sudbury Court](../1984/sudbury-court) | **1** |
 |  | [Lobsters](../1984/lobsters) | **7**&#42; |
 | **1983** | [UB II](../1983/ub-ii) | **19** |
@@ -72,7 +71,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 53 | 390.1 | 72 | 1449 | 77 | 18.82 | 30.4 |
+| 52 | 380.1 | 68 | 1430 | 75 | 19.07 | 30.41 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -108,7 +107,6 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Brook](../1985/brook) | 15 | 1 | 53 | 2 |
 | **1984** | [Nick Hoares XI](../1984/nick-hoares-xi) | 9 | 1 | 39 | 3 |
 |  | [Old Elthamians](../1984/old-elthamians) | 8 | 3 | 37 | 2 |
-|  | [Logica](../1984/logica) | 10 | 4 | 19 | 2 |
 |  | [Hendon-Edgware](../1984/hendon-edgware) | 3 | 0 | 7 | 3 |
 |  | [Sudbury Court](../1984/sudbury-court) | 13 | 6 | 23 | 3 |
 |  | [Lobsters](../1984/lobsters) | 4 | 1 | 13 | 0 |

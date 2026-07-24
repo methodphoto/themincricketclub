@@ -14,6 +14,8 @@ parent: 2007 Fixtures
 
 E Garland's 4th Michelle. R Earney's 35th 50
 
+## {{page.title}} Innings
+
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **S Hawkins** | b | H Ingham | 3 |

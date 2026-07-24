@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -14,13 +14,13 @@ Last Updated: 2026-07-23
 </details>
 
 
-Debut: [Barrow-Boys 1988](../1988/barrow-boys)
+Debut: [Putney 1989](../1989/putney)
 
 ## Batting
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 102 | 97 | 16 | 3104 | 38.32 |
+| 99 | 94 | 15 | 3007 | 38.06 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -114,17 +114,14 @@ Debut: [Barrow-Boys 1988](../1988/barrow-boys)
 |  | [Brook](../1990/brook) | **58** |
 |  | [Limpsfield](../1990/limpsfield) | **4** |
 |  | [University College, Oxford v The Min](../1990/university-college-oxford) | **21** |
-| **1989** | [Flamingo](../1989/flamingo) | **0** |
-|  | [Eggington](../1989/eggington) | **42** |
+| **1989** | [Eggington](../1989/eggington) | **42** |
 |  | [Stowting](../1989/stowting) | **9** |
 |  | [Hetairoi](../1989/hetairoi) | **4** |
-|  | [Barrow-boys](../1989/barrow-boys) | **52**&#42; |
 |  | [Putney](../1989/putney) | **0** |
-| **1988** | [Barrow-Boys](../1988/barrow-boys) | **45** |
 
 
 **Highest Score**: 130* v [Wareham](../2000/wareham)<br />
-**Fifties:** 19<br />
+**Fifties:** 18<br />
 **Hundreds:** 4
 
 
@@ -132,7 +129,7 @@ Debut: [Barrow-Boys 1988](../1988/barrow-boys)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 50 | 239.5 | 20 | 1174 | 61 | 19.25 | 23.59 |
+| 47 | 224.5 | 19 | 1103 | 56 | 19.7 | 24.09 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -180,12 +177,9 @@ Debut: [Barrow-Boys 1988](../1988/barrow-boys)
 |  | [T Calvert's Collection](../1990/t-calverts-collection) | 5 | 0 | 35 | 2 |
 |  | [Brook](../1990/brook) | 2.3 | 0 | 14 | 0 |
 |  | [University College, Oxford v The Min](../1990/university-college-oxford) | 4 | 0 | 29 | 0 |
-| **1989** | [Flamingo](../1989/flamingo) | 8 | 1 | 38 | 3 |
-|  | [Eggington](../1989/eggington) | 9 | 2 | 20 | 3 |
+| **1989** | [Eggington](../1989/eggington) | 9 | 2 | 20 | 3 |
 |  | [Stowting](../1989/stowting) | 8 | 1 | 31 | 3 |
-|  | [Barrow-boys](../1989/barrow-boys) | 7 | 0 | 33 | 1 |
 |  | [Putney](../1989/putney) | 3 | 0 | 22 | 0 |
-| **1988** | [Barrow-Boys](../1988/barrow-boys) |  | 0 | 0 | 1 |
 
 
 **Best Bowling:** 7.2-0-33-5 v [Hetairoi](../1991/hetairoi)<br />

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -14,14 +14,14 @@ Last Updated: 2026-07-23
 </details>
 
 
-Debut: [Britwell Salome 2005](../2005/britwell-salome)
+Debut: [Watton-at-Stone 2007](../2007/watton-at-stone)
 
 ## Batting
 
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 64 | 50 | 15 | 634 | 18.11 |
+| 55 | 42 | 14 | 483 | 17.25 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -60,25 +60,17 @@ Debut: [Britwell Salome 2005](../2005/britwell-salome)
 |  | [Watton-at-Stone](../2016/watton-at-stone) | **21** |
 |  | [Frensham](../2016/frensham) | **19** |
 |  | [Newington](../2016/newington) | **10**&#42; |
-|  | [Nightwatchman](../2016/nightwatchman) | **5** |
 | **2015** | [Newington](../2015/newington) | **0**&#42; |
-|  | [Nightwatchman](../2015/nightwatchman) | **38** |
 |  | [Britwell Salome](../2015/britwell-salome) | **38**&#42; |
-| **2014** | [Nightwatchman](../2014/nightwatchman) | **31** |
-| **2013** | [Nightwatchmen](../2013/nightwatchman) | **67** |
-| **2012** | [ELCCC](../2012/elccc) | **0** |
-| **2011** | [ELCCC](../2011/elccc) | **1**&#42; |
 | **2010** | [Watton-at-Stone](../2010/watton-at-stone) | **3** |
-|  | [ELCCC](../2010/elccc) | **1** |
 | **2009** | [SB Exiles](../2009/sb-exiles) | **14**&#42; |
-|  | [ELCCC](../2009/elccc) | **8** |
 |  | [Watton-at-Stone](../2009/watton-at-stone) | **3** |
 | **2008** | [Old Min Young Min](../2008/old-min-young-min) | **5** |
 | **2007** | [Watton-at-Stone](../2007/watton-at-stone) | **0** |
 
 
-**Highest Score**: 67 v [Nightwatchmen](../2013/nightwatchman)<br />
-**Fifties:** 1<br />
+**Highest Score**: 38* v [Britwell Salome](../2015/britwell-salome)<br />
+**Fifties:** 0<br />
 **Hundreds:** 0
 
 
@@ -87,7 +79,7 @@ Debut: [Britwell Salome 2005](../2005/britwell-salome)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 60 | 365 | 34 | 1741 | 74 | 23.53 | 29.59 |
+| 53 | 332 | 31 | 1594 | 68 | 23.44 | 29.29 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -130,22 +122,15 @@ Debut: [Britwell Salome 2005](../2005/britwell-salome)
 |  | [Watton-at-Stone](../2016/watton-at-stone) | 2 | 0 | 24 | 0 |
 |  | [Frensham](../2016/frensham) | 6 | 0 | 23 | 1 |
 |  | [Newington](../2016/newington) | 8 | 0 | 51 | 0 |
-|  | [Nightwatchman](../2016/nightwatchman) | 3 | 0 | 23 | 2 |
 |  | [Middleton Stoney](../2016/middleton-stoney) | 5 | 1 | 31 | 2 |
 | **2015** | [Selling](../2015/selling) | 8 | 0 | 50 | 1 |
 |  | [Headley](../2015/headley) | 10 | 0 | 54 | 3 |
 |  | [Watton-at-Stone](../2015/watton-at-stone) | 8 | 1 | 54 | 4 |
 |  | [Newington](../2015/newington) | 8 | 0 | 42 | 3 |
-|  | [Nightwatchman](../2015/nightwatchman) | 2 | 0 | 11 | 0 |
 |  | [Britwell Salome](../2015/britwell-salome) | 15 | 1 | 61 | 2 |
-| **2014** | [Nightwatchman](../2014/nightwatchman) | 7 | 2 | 23 | 1 |
-| **2011** | [SAC XI](../2011/sac-xi) | 4 | 0 | 25 | 0 |
-|  | [ELCCC](../2011/elccc) | 8 | 0 | 41 | 3 |
 | **2010** | [Spencer](../2010/spencer) | 5 | 0 | 29 | 0 |
 |  | [Watton-at-Stone](../2010/watton-at-stone) | 3 | 0 | 27 | 1 |
-|  | [ELCCC](../2010/elccc) | 5 | 1 | 11 | 0 |
 | **2009** | [SB Exiles](../2009/sb-exiles) | 2 | 0 | 28 | 0 |
-|  | [ELCCC](../2009/elccc) | 4 | 0 | 13 | 0 |
 |  | [Watton-at-Stone](../2009/watton-at-stone) | 6 | 0 | 34 | 0 |
 |  | [Britwell Salome](../2009/britwell-salome) | 9 | 0 | 44 | 2 |
 | **2008** | [Harrow St Mary's](../2008/harrow-st-marys) | 8 | 1 | 17 | 1 |

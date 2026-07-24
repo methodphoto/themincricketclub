@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Ockley 1996](../1996/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 27 | 16 | 4 | 85 | 7.08 |
+| 25 | 15 | 4 | 72 | 6.55 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -28,7 +28,6 @@ Debut: [Ockley 1996](../1996/ockley)
 | **2012** | [Stoke D'Abernon](../2012/stoke-dabernon) | **12** |
 | **2004** | [Iver Heath](../2004/iver-heath) | **21** |
 |  | [Britwell Salome](../2004/britwell-salome) | **3** |
-| **2001** | [ACME](../2001/acme) | **13** |
 | **2000** | [Stowting](../2000/stowting) | **2**&#42; |
 | **1998** | [Hetairoi](../1998/hetairoi) | **4** |
 |  | [Copdock & Old Ipswichian CC](../1998/copdock) | **1** |
@@ -51,7 +50,7 @@ Debut: [Ockley 1996](../1996/ockley)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 26 | 234.5 | 49 | 759 | 40 | 18.98 | 35.23 |
+| 24 | 225.1 | 46 | 732 | 36 | 20.33 | 37.53 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -60,8 +59,6 @@ Debut: [Ockley 1996](../1996/ockley)
 | **2012** | [Stoke D'Abernon](../2012/stoke-dabernon) | 8 | 0 | 36 | 3 |
 | **2004** | [Iver Heath](../2004/iver-heath) | 8 | 1 | 60 | 1 |
 |  | [Britwell Salome](../2004/britwell-salome) | 11 | 1 | 23 | 2 |
-| **2002** | [ACME](../2002/acme) | 2 | 0 | 7 | 1 |
-| **2001** | [ACME](../2001/acme) | 7.4 | 3 | 20 | 3 |
 | **2000** | [Reigate Pilgrims](../2000/reigate-pilgrims) | 10 | 2 | 24 | 1 |
 |  | [Stowting](../2000/stowting) | 6 | 1 | 10 | 1 |
 | **1998** | [Hetairoi](../1998/hetairoi) | 11 | 2 | 36 | 1 |

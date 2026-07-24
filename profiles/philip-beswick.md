@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -21,7 +21,7 @@ Debut: [White Lion 1995](../1995/white-lion)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 57 | 39 | 6 | 156 | 4.73 |
+| 56 | 38 | 5 | 155 | 4.7 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -40,8 +40,7 @@ Debut: [White Lion 1995](../1995/white-lion)
 | **2014** | [Headley](../2014/headley) | **0** |
 |  | [Wimbledon United](../2014/wimbledon-united) | **6** |
 |  | [Nightwatchman](../2014/nightwatchman) | **3** |
-| **2013** | [The Herd](../2013/the-herd) | **1**&#42; |
-|  | [Britwell Salome](../2013/britwell-salome) | **7**&#42; |
+| **2013** | [Britwell Salome](../2013/britwell-salome) | **7**&#42; |
 | **2007** | [Selling](../2007/selling) | **0** |
 |  | [Tappers](../2007/tappers) | **1** |
 |  | [Old Colfeians](../2007/old-colfeians) | **0** |

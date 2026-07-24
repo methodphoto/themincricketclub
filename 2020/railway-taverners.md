@@ -53,6 +53,8 @@ P Wigg's 3rd 50
 | **G Katakos** | 1 | 0 | 6 | 0 |
 
  ## {{page.homeTeam}} Innings
+## {{page.title}} Innings
+
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

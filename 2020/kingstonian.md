@@ -54,6 +54,8 @@ A Gallagher's 14th 50 off 45 balls
 | **Dhruv** | 2 | 0 | 7 | 0 |
 
  ## {{page.homeTeam}} Innings
+## {{page.title}} Innings
+
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
