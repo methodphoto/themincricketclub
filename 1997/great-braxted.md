@@ -51,7 +51,7 @@ parent: 1997 Fixtures
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Earney** | c Milne | N Webb | 3 |
+| **R Earney** | c Milne | N Webb | 3 |
 | **S Barrowcliff** | c N Webb | Yelland | 45 |
 | **E Garland** | b | Innes | 1 |
 | **R Beswick &#42;** | b | T Croxon | 48 |

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-24
 
 <details open markdown="block">
 1. TOC
@@ -21,7 +21,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 404 | 394 | 31 | 9969 | 27.46 |
+| 404 | 395 | 31 | 9972 | 27.4 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -335,6 +335,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Farnborough](../1997/farnborough) | **7** |
 |  | [Broadway and Horton](../1997/broadway-and-horton) | **15** |
 |  | [Wincanton Casuals](../1997/wincanton-casuals) | **38** |
+|  | [Great Braxted](../1997/great-braxted) | **3** |
 |  | [Tappers](../1997/tappers) | **2** |
 |  | [Stowting](../1997/stowting) | **25** |
 |  | [Players and Jesters](../1997/players-and-jesters) | **21** |
