@@ -3,7 +3,7 @@ layout: default
 title: Easton Cowfolk
 homeTeam: Easton Cowfolk
 awayTeam: The Min
-location: Clifton College Sports Ground
+location: Chellaram Sports Ground
 date: 18/07/2025
 report: Easton Cowfolk won the toss and inserted The Min. The Min scored 207 for 7 wkts in 35 overs. Easton Cowfolk replied with 191 for 9 wkts in 35 overs
 result: The Min won by 16 runs
