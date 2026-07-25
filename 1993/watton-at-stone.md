@@ -10,6 +10,7 @@ report: The Min batted first and made 195 for 8 wkts. Watton-at-Stone replied wi
 result: The Min won by 46 runs
 next: 
 parent: 1993 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

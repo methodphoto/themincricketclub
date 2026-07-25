@@ -10,6 +10,7 @@ report: The Min batted first and made 106 all out. Knapp replied with 107 for 8 
 result: Knapp won by 2 wkts
 next: broadway-and-horton
 parent: 1999 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

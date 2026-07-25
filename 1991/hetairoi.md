@@ -10,6 +10,7 @@ report: Hetairoi batted first and made 185 for 9 wkts. The Min replied with 188 
 result: The Min won by 4 wkts
 next: stowting
 parent: 1991 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

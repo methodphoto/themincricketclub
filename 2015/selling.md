@@ -9,6 +9,7 @@ date: 20/09/2015
 report: The Min batted first and made 209 for 6 wkts in 40 overs. Selling replied with 194 for 9 wkts in 40 overs
 result: The Min won by 15 runs
 parent: 2015 Fixtures
+nav_order: 15
 ---
 
 {% include matchDetails %}

@@ -9,6 +9,7 @@ report: The Min won the toss and inserted St Anne's who made 169 for 9 wkts. The
 result: St Anne's Allstars won by 8 wkts
 next: blagdon-hill
 parent: 2023 Fixtures
+nav_order: 3
 ---
 
 {% include newMatchDetails %}

@@ -9,6 +9,7 @@ date: 30/09/2007
 report: The Min batted first and made 168 for 9 wkts. Watton-at-Stone replied with 111 all out
 result: The Min won by 57 runs
 parent: 2007 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

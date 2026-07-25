@@ -10,6 +10,7 @@ report: The Min batted first and made 160 all out. Kilmington and Stourton repli
 result: The Min won by 65 runs
 next: exford
 parent: 2013 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

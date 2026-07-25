@@ -10,6 +10,7 @@ report: Players and Jesters batted first and made 170 for 9 wkts. The Min replie
 result: Players and Jesters won by 79 runs
 next: stowting
 parent: 1997 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

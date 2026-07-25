@@ -10,6 +10,7 @@ report: Hook and Southborough batted first and made 159 for 6 wkts in 40 overs. 
 result: Hook and Southborough won by 2 runs
 next: nightwatchman
 parent: 2014 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

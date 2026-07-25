@@ -10,6 +10,7 @@ report: The Min batted first and made 152 for 8 wkts (all out). Friar's Oak repl
 result: The Min won by 26 runs
 next: barrow-boys
 parent: 1988 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 187 all out in 39.4 overs. Broadway and Ho
 result:  The Min won by 31 runs
 next: kilmington-and-stourton
 parent: 2011 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

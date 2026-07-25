@@ -10,6 +10,7 @@ report: Old Elthamians batted first and made 190 all out. The Min replied with 1
 result: The Min won by 6 wkts
 next: godstone
 parent: 1988 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

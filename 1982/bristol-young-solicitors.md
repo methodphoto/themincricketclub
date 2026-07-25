@@ -10,6 +10,7 @@ report: Bristol Young Solicitors batted first and scored 103 for 9 wkts. The Min
 result: The Min won by 5 wkts
 next: lobsters
 parent: 1982 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

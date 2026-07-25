@@ -10,6 +10,7 @@ report: Harrowdene batted first and made 85 all out. The Min replied with 86 for
 result: The Min won by 9 wkts
 next: standard-bridge
 parent: 1984 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

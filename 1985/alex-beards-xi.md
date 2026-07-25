@@ -10,6 +10,7 @@ report: The Min batted first and made 124 all out. Brook replied with 163 all ou
 result: The Min won by 84 runs
 next: hendon-edgware
 parent: 1985 Fixtures
+nav_order: 15
 ---
 
 {% include matchDetails %}

@@ -9,6 +9,7 @@ report: The Min won the toss and batted first making 252 for 7 wkts in 33 overs.
 result: The Min won by 93 runs
 next: blagdon-hill
 parent: 2025 Fixtures
+nav_order: 5
 ---
 
 {% include newMatchDetails %}

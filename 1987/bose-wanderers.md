@@ -10,6 +10,7 @@ report: The Min batted first and made 166 all out. Bose Wanderers were all out f
 result: The Min won by 88 runs
 next: stowting
 parent: 1987 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

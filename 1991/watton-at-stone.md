@@ -9,6 +9,7 @@ date: 22/09/1991
 report: The Min batted first and made 106 all out. Watton-at-Stone replied with 103 all out
 result: The Min won by 3 runs
 parent: 1991 Fixtures
+nav_order: 17
 ---
 
 {% include matchDetails %}

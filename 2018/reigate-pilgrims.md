@@ -10,6 +10,7 @@ report: Reigate Pilgrims won the toss and inserted The Min, who made 184 for 6 w
 result: Reigate Pilgrims won by 5 wkts
 next: stoke-dabernon
 parent: 2018 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

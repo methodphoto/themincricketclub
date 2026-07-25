@@ -10,6 +10,7 @@ report: The Min scored 171 all out. Bristol Grammar School made 129 all out in r
 result: The Min won by 42 runs
 next: j-stimfigs-xi
 parent: 1982 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

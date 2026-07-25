@@ -10,6 +10,7 @@ report: Kilmington and Stourton batted first and made 195 for 7 wkts in 40 overs
 result: Kilmington and Stourton won by 74 runs
 next: horningsham
 parent: 2006 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

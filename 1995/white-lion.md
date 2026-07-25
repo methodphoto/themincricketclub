@@ -10,6 +10,7 @@ report: The Min batted first and made 136 all out. White Lion replied with 137 f
 result: White Lion won by 1 wkt
 next: watton-at-stone
 parent: 1995 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

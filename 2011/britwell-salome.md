@@ -10,6 +10,7 @@ report: Britwell Salome batted first and made 158 for 8 wkts. The Min replied wi
 result: The Min won by 6 wkts
 next: newington
 parent: 2010 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

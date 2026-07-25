@@ -10,6 +10,7 @@ report: The Min batted first and made 103 all out. Ockley made 107 for 4 wkts in
 result: Ockley won by 6 wkts
 next: stowting
 parent: 2000 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

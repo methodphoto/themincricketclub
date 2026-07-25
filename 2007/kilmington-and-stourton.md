@@ -10,6 +10,7 @@ report: Kilmington and Stourton batted first and made 180 for 6 wkts. The Min re
 result: The Min won by 1 wkt
 next: horningsham
 parent: 2007 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

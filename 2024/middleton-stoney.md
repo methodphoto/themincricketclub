@@ -9,6 +9,7 @@ report: Middleton Stoney won the toss and batted, making 121 for 7 wkts in 42 ov
 result: The Min won by 7 wkts
 next: trinity-oxley-cc
 parent: 2024 Fixtures
+nav_order: 1
 ---
 
 {% include newMatchDetails %}

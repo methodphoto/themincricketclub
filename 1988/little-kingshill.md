@@ -10,6 +10,7 @@ report: The Min batted first and were all out for 103. Little Kingshill made 104
 result: Little Kingshill won by 4 wkts
 next: south-nutfield
 parent: 1988 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

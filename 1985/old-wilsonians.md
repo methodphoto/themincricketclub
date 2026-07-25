@@ -10,6 +10,7 @@ report: Old Wilsonians batted first made 94 all out. The Min replied with 95 for
 result: The Min won by 6 wkts
 next: ealonian
 parent: 1985 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

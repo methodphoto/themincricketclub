@@ -10,6 +10,7 @@ report: The Min batted first and made 124 for 9 wkts (all out). Players and Jest
 result: Players and Jesters won by 9 wkts
 next: stowting
 parent: 1999 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

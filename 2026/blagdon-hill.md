@@ -9,6 +9,7 @@ report: The Min won the toss and batted first. They made 255 for 6 wkts in 35 ov
 result: The Min  won by 67 runs
 next: broadway-and-horton
 parent: 2026 Fixtures
+nav_order: 5
 ---
 
 {% include newMatchDetails %}

@@ -10,6 +10,7 @@ report: Reigate Pilgrims batted first and were all out for 104. The Min replied 
 result: The Min won by 2 wkts
 next: selling
 parent: 2009 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

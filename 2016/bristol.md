@@ -10,6 +10,7 @@ report: The Min batted first and made 142 for 9 wkts. Bristol 4th XI replied wit
 result: The Min won by 80 runs
 next: kilmington-and-stourton
 parent: 2016 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

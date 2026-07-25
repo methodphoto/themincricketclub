@@ -9,6 +9,7 @@ gameDate: 24/09/2017
 report: Selling won the toss and batted first scoring 248 for 6 wkts in 40 overs  The Min made 159 for 9 wkts (all out) in 32 overs
 result: Selling won by 89 runs
 parent: 2017 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

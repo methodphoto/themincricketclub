@@ -10,6 +10,7 @@ report: Great Tew batted first and made 240 for 8 wkts. The Min replied with 232
 result: Match Drawn
 next: old-elthamians
 parent: 1994 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

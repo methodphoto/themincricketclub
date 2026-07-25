@@ -10,6 +10,7 @@ report: The Min batted first and made 191 for 8 wkts. Newdigate replied with 138
 result: Match Drawn
 next: wimbledon-united
 parent: 2014 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

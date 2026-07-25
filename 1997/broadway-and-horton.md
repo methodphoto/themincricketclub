@@ -10,6 +10,7 @@ report: Broadway and Horton batted first and made 165 all out. The Min replied w
 result: Broadway and Horton won by 68 runs and retained the Ashes
 next: kilmington-and-stourton
 parent: 1997 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

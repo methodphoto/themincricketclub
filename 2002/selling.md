@@ -10,6 +10,7 @@ report: The Min batted first and made 200 for 4 wkts. Selling replied with 150 a
 result: The Min won by 50 runs
 next: north-holmwood
 parent: 2002 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

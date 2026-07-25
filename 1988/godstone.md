@@ -10,6 +10,7 @@ report: Godstone batted first and scored 211 for 7 wkts. The Min replied with 16
 result: Match Drawn
 next: little-kingshill
 parent: 1988 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

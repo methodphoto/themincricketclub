@@ -10,6 +10,7 @@ report: Abbey Players batted first and made 211 for 4 wkts. The Min replied with
 result: Match Drawn
 next: old-elthamians
 parent: 1995 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

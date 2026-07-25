@@ -9,6 +9,7 @@ date: 26/09/2004
 report: Iver Heath batted first and made 193 for 7 wkts in 40 overs. The Min replied with 133 all out in 38.1 overs
 result: Iver Heath won by 60 runs
 parent: 2004 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Watton-at-Stone batted firstg and made 135 all out. The Min replied with
 result: The Min won by 4 wkts
 next: blagdon-hill
 parent: 2015 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

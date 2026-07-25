@@ -9,6 +9,7 @@ date: 20/09/2009
 report:  Selling batted first and made 283 for 6 wkts in 40 overs. The Min replied with 277 for 8 wkts in 40 overs
 result: Selling won by 6 runs
 parent: 2009 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

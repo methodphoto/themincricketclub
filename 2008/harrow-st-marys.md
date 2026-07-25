@@ -10,6 +10,7 @@ report: Harrow St Mary's batted first and made 146 for 9 wkts (all out). The Min
 result: The Min won by 2 wkts
 next: putney
 parent: 2008 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

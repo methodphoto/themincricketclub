@@ -10,6 +10,7 @@ report: Newdigate batted first and made 184 for 3 wkts. The Min replied with 185
 result: The Min won by 5 wkts
 next: watton-at-stone
 parent: 2004 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

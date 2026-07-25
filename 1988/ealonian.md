@@ -10,6 +10,7 @@ report: Ealonian batted first and were all out for 70. The Min replied with 71 f
 result: The Min won by 3 wkts
 next: liphook
 parent: 1988 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

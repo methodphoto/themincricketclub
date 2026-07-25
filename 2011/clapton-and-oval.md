@@ -10,6 +10,7 @@ report: Clapton & Oval batted first and made 137 all out. The Min replied with 4
 result: Clapton & Oval won by 92 runs
 next: sb-exiles
 parent: 2011 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

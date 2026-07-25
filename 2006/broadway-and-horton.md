@@ -10,6 +10,7 @@ report: The Min batted first and made 223 for 10 wkts in 40 overs. Broadway and 
 result: The Min won by 35 runs
 next: kilmington-and-stourton
 parent: 2006 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

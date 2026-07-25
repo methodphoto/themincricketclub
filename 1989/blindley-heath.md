@@ -10,6 +10,7 @@ report: The Min batted first and made 170 for 8 wkts. Blindley Heath replied wit
 result: Match Drawn
 next: valley-end
 parent: 1989 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

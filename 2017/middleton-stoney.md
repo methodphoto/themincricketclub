@@ -10,6 +10,7 @@ report: Middleton Stoney won the toss and batted first. They were all out for 22
 result: Middleton Stoney won by 43 runs
 next: kingstonian
 parent: 2017 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

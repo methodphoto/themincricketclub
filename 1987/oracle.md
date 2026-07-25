@@ -10,6 +10,7 @@ report: Oracle batted first and made 91 for 8 wkts (all out). The Min made 95 fo
 result: The Min won by 7 wkts
 next: bose-wanderers
 parent: 1987 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

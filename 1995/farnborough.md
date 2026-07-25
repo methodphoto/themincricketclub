@@ -10,6 +10,7 @@ report: Farnborough batted first and made 155 all out. The Min replied with 156 
 result: The Min won by 4 wkts
 next: checkendon
 parent: 1995 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and scored 200-8 (all out). Kingstonian replied wit
 result: Kingstonian won by 6 wkts
 next: newington
 parent: 2017 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

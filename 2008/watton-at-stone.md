@@ -10,6 +10,7 @@ report: The Min batted first and made 206 for 8 wkts. Watton-at-Stone replied wi
 result: Watton-at-Stone won by 7 wkts
 next: stowting
 parent: 2008 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

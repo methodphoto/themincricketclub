@@ -9,6 +9,7 @@ report: Blagdon Hill won the toss and inserted The Min who made 226 akk out in 3
 result: The Min won by 96 runs
 next: broadway-and-horton
 parent: 2025 Fixtures
+nav_order: 6
 ---
 
 {% include newMatchDetails %}

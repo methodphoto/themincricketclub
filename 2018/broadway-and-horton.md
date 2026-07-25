@@ -10,6 +10,7 @@ report: Broadway and Horton won the toss and batted first making 184 all out in 
 result: The Min won by 4 wkts and regained The Ashes
 next: selling
 parent: 2018 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

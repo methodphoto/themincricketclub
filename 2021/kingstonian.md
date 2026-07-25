@@ -10,6 +10,7 @@ report: Kingstonian won the toss and batted first and scored 137 all out. The Mi
 result: The Min won by 7 wkts
 next: wandering-maniacs
 parent: 2021 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

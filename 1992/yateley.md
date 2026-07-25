@@ -10,6 +10,7 @@ report: The Min batted first scoring 189 for 7 wkts. Yateley replied with 121 fo
 result: The Min won by 68 runs
 next: antilles
 parent: 1992 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

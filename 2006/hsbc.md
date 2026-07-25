@@ -10,6 +10,7 @@ report: HSBC batted first and made 191 for 9 wkts in 40 overs. The Min replied w
 result: HSBC won by 5 runs
 next: stowting
 parent: 2006 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

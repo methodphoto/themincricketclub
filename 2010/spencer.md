@@ -9,6 +9,7 @@ date: 26/09/2010
 report: The Min batted first and made 188 for 4 wkts. Spencer replied with 189 for 2 wkts
 result: Spencer won by 8 wkts
 parent: 2010 Fixtures
+nav_order: 15
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Valley End batted first and were bowled out for 88. The Min replied with
 result: The Min won by 4 wkts
 next: checkendon
 parent: 1991 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

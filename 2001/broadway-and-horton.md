@@ -10,6 +10,7 @@ report: Broadway and Horton batted first and made 129 for 9 wkts. The Min replie
 result: The Min won by 4 wkts
 next: acme
 parent: 2001 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

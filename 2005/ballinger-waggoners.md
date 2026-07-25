@@ -10,6 +10,7 @@ report: Ballinger Waggoners batted first and made 240 for 3 wkts. The Min replie
 result: Match Drawn
 next: sb-exiles
 parent: 2005 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

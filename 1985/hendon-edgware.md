@@ -9,6 +9,7 @@ date: 15/09/1985
 report: Hendon-Edgware batted first made 184 for 8 wkts. The Min replied with 164 all out.
 result: Hendon-Edgware won by 20 runs
 parent: 1985 Fixtures
+nav_order: 16
 ---
 
 {% include matchDetails %}

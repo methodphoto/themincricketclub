@@ -10,6 +10,7 @@ report: The Min batted first and made 209 for 8 wkts. Erratics replied with 117 
 result: Match Drawn
 next: barrow-hospital
 parent: 1996 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

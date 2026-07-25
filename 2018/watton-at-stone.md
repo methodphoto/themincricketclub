@@ -10,6 +10,7 @@ report: The Min won the toss and inserted Watton who made a rather large 295-3 i
 result: Watton won by 127 runs
 next: blagdon-hill
 parent: 2018 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

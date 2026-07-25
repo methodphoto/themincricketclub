@@ -10,6 +10,7 @@ report: Tower of Dudes batted first and made 175 for 9 wkts (all out). The Min r
 result: The Min won by 1 wkt
 next: wonersh
 parent: 2012 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

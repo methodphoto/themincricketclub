@@ -10,6 +10,7 @@ report: Checkendon batted first and were bowled out for 45. The Min replied with
 result: The Min won by 10 wkts
 next: hetairoi
 parent: 1994 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

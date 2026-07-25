@@ -9,6 +9,7 @@ date: 22/09/2013
 report: Selling batted first and made 159 for 9 wkts in 40 overs. The Min replied with 143 all out in 33 overs
 result: Selling won by 16 runs
 parent: 2013 Fixtures
+nav_order: 16
 ---
 
 {% include matchDetails %}

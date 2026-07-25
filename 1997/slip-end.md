@@ -10,6 +10,7 @@ report: Slip End batted first and made 157 for 7 wkts. The Min replied with 81 a
 result: Slip End won by 76 runs
 next: reigate-pilgrims
 parent: 1997 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

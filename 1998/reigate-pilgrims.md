@@ -9,6 +9,7 @@ date: 13/09/1998
 report: Reigate Pilgrims batted first and made 124 all out. The Min replied with 129 for 2 wkts
 result: The Min won by 8 wkts
 parent: 1998 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Logica batted first and scored 153 all out. The Min replied with 154 for
 result: The Min won by 3 wkts
 next: chiswick-flyovers
 parent: 1984 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

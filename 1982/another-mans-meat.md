@@ -10,6 +10,7 @@ report: The Min scored 134 all out and had Another Man's Meat all out for 100
 result: The Min won by 34 runs
 next: bristol-grammar-school
 parent: 1982 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

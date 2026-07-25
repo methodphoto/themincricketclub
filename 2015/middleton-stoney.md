@@ -10,6 +10,7 @@ report: Middleton Stoney were inserted by The Min and made 206 for 8 wkts  The M
 result: Middleton Stoney won by 89 runs
 next: britwell-salome
 parent: 2015 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

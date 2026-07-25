@@ -10,6 +10,7 @@ report: The Min won the toss and inserted St Anne's who made 178 for 7 wkts in 3
 result: The Min won by 7 wkts
 next: blagon-hill
 parent: 2022 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 234 for 6 wkts. Watton-at-Stone replied wi
 result: The Min won by 100 runs
 next: stowting
 parent: 2013 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

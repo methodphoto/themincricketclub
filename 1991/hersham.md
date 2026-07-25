@@ -10,6 +10,7 @@ report: The Min batted first and made 161 all out. Hersham were bowled out for 9
 result: The Min won by 69 runs
 next: ockley
 parent: 1991 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

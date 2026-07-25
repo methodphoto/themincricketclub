@@ -10,6 +10,7 @@ report: Ockley batted first and made 190 for 5 wkts. The Min replied with 191 fo
 result: The Min won by 8 wkts
 next: great-tew
 parent: 1995 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

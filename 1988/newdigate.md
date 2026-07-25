@@ -10,6 +10,7 @@ report: Newdigate batted first and scored 203 for 9 wkts. The Min were bowled ou
 result: Newdigate won by 17 runs
 next: brockham-green
 parent: 1988 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

@@ -9,6 +9,7 @@ date: 16/09/2001
 report: Reigate Pilgrims batted first and made 182 all out. The Min replied with 154 all out
 result: Reigate Pilgrims won by 28 runs
 parent: 2001 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

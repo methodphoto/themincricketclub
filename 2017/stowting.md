@@ -10,6 +10,7 @@ report: Stowting won the toss and batted scoring 166 for 9 wkts. The Min made 15
 result: Stowting won by 13 runs
 next: brasted-invicta
 parent: 2017 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

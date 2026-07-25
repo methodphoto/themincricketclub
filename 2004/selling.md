@@ -10,6 +10,7 @@ report: Selling Cavaliers batted first and made 177 for 6 wkts. The Min replied 
 result: The Min won by 7 wkts
 next: tappers
 parent: 2004 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Valley End batted first and made 181 for 9 wkts in 45 overs. The Min rep
 result: The Min won by 6 wkts
 next: great-tew
 parent: 1996 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Long Marston batted first and made 123 for 5 wkts. The Min replied with 
 result: The Min won by 5 wkts
 next: reigate-pilgrims
 parent: 1991 Fixtures
+nav_order: 15
 ---
 
 {% include matchDetails %}

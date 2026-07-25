@@ -10,6 +10,7 @@ report: Tappers batted first and were all out for 115. The Min replied with 116 
 result: The Min won by 9 wkts
 next: selling
 parent: 2000 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

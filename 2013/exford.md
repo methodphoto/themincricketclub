@@ -10,6 +10,7 @@ report: The Min batted first and made 259 for 9 wkts (all out). Exford replied w
 result: The Min won by 109 runs
 next: horningsham
 parent: 2013 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

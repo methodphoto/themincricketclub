@@ -10,6 +10,7 @@ report: Broadway and Horton batted first and made 157 for 9 wkts. The Min replie
 result: The Min won by 6 wkts 
 next: kilmington-and-stourton
 parent: 2000 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

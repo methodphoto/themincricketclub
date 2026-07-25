@@ -10,6 +10,7 @@ report: The Min won the toss and batted first scoring 215 for 5 wkts in 35 overs
 result: The Min won by 185 runs
 next: reigate-pilgrims
 parent: 2017 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

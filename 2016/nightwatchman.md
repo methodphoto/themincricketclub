@@ -10,6 +10,7 @@ report: The Min won the toss and inserted Nightwatchman, who made 242 for 5 wkts
 result: Nightwatchman won by 57 runs
 next: newington
 parent: 2016 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

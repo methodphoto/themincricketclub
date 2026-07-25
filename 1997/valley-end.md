@@ -10,6 +10,7 @@ report: The Min batted first and made 167 all out. Valley End replied with 168 f
 result: Valley End won by 8 wkts
 next: ockley
 parent: 1997 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

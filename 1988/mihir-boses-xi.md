@@ -10,6 +10,7 @@ report: The Min batted first and made 149 all out. Mihir Bose's XI were all out 
 result: The Min won by 23 runs
 next: stowting
 parent: 1988 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

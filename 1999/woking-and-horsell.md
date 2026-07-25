@@ -10,6 +10,7 @@ report: The Min batted first and made 223 all out (in 39.5 overs). Woking and Ho
 result: The Min won by 85 runs
 next: watton-at-stone
 parent: 1999 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

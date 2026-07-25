@@ -10,6 +10,7 @@ report: The Min batted first and made 176 for 6 wkts. Kingstonian made 143 all o
 result: The Min won by 33 runs
 next: railway-taverners
 parent: 2020 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: SAC XI batted first and made 208 for 8 wkts. The Min replied with 210 fo
 result: The Min won by 3 wkts
 next: clapton-and-oval
 parent: 2011 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

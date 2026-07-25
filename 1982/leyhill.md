@@ -10,6 +10,7 @@ report: Leyhill batted first and scored 175 all out. The Min replied with 82 all
 result: Leyhill won by 93 runs
 next: bristol-young-solicitors
 parent: 1982 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

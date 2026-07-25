@@ -10,6 +10,7 @@ report: The Min batted first and made 143 all out. Bovington Occasionals replied
 result: Bovington Occasionals won by 3 wkts
 next: wareham
 parent: 1999 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

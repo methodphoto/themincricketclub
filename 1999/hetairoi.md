@@ -10,6 +10,7 @@ report: Hetairoi batted first and made 161 for 4 wkts. The Min replied with 93 a
 result: Hetairoi won by 68 runs
 next: tappers
 parent: 1999 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

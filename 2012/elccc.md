@@ -10,6 +10,7 @@ report: ELCCC batted first and made 147 all out in 38 overs. The Min replied wit
 result: ELCCC won by 3 runs
 next: newington
 parent: 2012 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

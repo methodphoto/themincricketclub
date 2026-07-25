@@ -10,6 +10,7 @@ report: In a 35 over game, Antillies batted first scoring 162 for 7 wkts. The Mi
 result: The Min won by 5 wkts
 next: limpsfield
 parent: 1988 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

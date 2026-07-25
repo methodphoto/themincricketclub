@@ -10,6 +10,7 @@ report: The Min scored 183 all out. J Stimpfig's XI replied with 184 for 5 wkts.
 result: J Stimpfig's XI won by 5 wkts
 next: wills-hall
 parent: 1982 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

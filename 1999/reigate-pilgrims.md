@@ -9,6 +9,7 @@ date: 12/09/1999
 report: Reigate Pilgrims batted first and made 242 for 6 wkts. The Min replied with 160 all out
 result: Reigate Pilgrims won by 82 runs
 parent: 1999 Fixtures
+nav_order: 15
 ---
 
 {% include matchDetails %}

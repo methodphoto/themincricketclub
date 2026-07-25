@@ -10,6 +10,7 @@ report: Players and Jesters batted first and made 190 for 6 wkts. The Min replie
 result: Players and Jesters won by 87 runs
 next: 
 parent: 2002 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

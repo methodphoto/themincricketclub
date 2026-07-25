@@ -10,6 +10,7 @@ report: Logica batted first and were all out for 102. The Min replied with 103 f
 result: The Min won by 8 wkts
 next: watton-at-stone
 parent: 1986 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

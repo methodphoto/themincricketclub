@@ -10,6 +10,7 @@ report: ELCCC batted first and made 253 all out. The Min replied with 186 all ou
 result: ELCCC won by 67 runs
 next: frensham
 parent: 2011 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

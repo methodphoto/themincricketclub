@@ -10,6 +10,7 @@ report: Brasted won the toss and batted first, they made 109 for 7 in their 35 o
 result: The Min won by 5 wkts
 next: reigate-pilgrims
 parent: 2016 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

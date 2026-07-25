@@ -10,6 +10,7 @@ report: The Min batted first and made 205 all out in 39.3 overs. Selling replied
 result: Selling won by 6 wkts
 next: sb-exiles
 parent: 2006 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

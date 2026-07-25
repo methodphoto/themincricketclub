@@ -10,6 +10,7 @@ report: The Min batted first and were all out for 75. Islip replied with 78 for 
 result: Islip won by 7 wkts
 next: hampton-wick-royal
 parent: 2010 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

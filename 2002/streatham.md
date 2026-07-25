@@ -10,6 +10,7 @@ report: The Min batted first and were 79 for 5 wkts when rain stopped play
 result: Match Abandoned as a Draw
 next: watton-at-stone
 parent: 2002 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

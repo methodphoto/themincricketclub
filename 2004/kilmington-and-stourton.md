@@ -10,6 +10,7 @@ report: The Min batted first and made 173 for 6 wkts. Kilmington and Stourton re
 result: The Min won on D/L Method
 next: the-gents
 parent: 2004 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

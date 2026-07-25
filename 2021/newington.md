@@ -10,6 +10,7 @@ report: Newington won the toss and batted first making 126 for 9 wkts (all out).
 result: The Min won by 5 wkts
 next: bricklayers'arms
 parent: 2021 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

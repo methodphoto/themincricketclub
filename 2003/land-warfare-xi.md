@@ -10,6 +10,7 @@ report: The Min batted first and made 204 for 8 wkts. Land Warfare XI replied wi
 result: The Min won by 92 runs
 next: honor-oak
 parent: 2003 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

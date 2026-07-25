@@ -10,6 +10,7 @@ report: Old Colfeians batted first and made 97 all out. The Min replied with 98 
 result: The Min won by 5 wkts
 next: ballinger-waggoners
 parent: 2004 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

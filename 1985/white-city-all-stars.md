@@ -10,6 +10,7 @@ report: White City All Stars batted first and made 163 for 9 wkts. The Min repli
 result: White City All Stars won by 55 runs
 next: west-green
 parent: 1985 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

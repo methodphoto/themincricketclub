@@ -10,6 +10,7 @@ report: A Good Length scored 134 all out. The Min were 44-0 when Rain Stopped Pl
 result: Match Drawn
 next: another-mans-meat
 parent: 1982 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

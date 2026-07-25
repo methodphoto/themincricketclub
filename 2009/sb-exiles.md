@@ -10,6 +10,7 @@ report: The Min batted first and made 203 all out in 33.5 overs. SB Exiles repli
 result: SB Exiles won by 3 wkts
 next: tower-of-dudes
 parent: 2009 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

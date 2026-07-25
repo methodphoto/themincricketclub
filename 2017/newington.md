@@ -10,6 +10,7 @@ report: Newington won the toss and inserted The Min who made 130 for 9 wkts (all
 result: Newington won by 7 wkts
 next: 
 parent: 2017 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

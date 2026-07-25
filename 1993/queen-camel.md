@@ -10,6 +10,7 @@ report: The Min batted first and made 225 for 7 wkts in 40 overs. Queen Camel re
 result: The Min won by 99 runs
 next: checkendon
 parent: 1993 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

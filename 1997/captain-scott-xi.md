@@ -10,6 +10,7 @@ report: The Min batted first and made 172 for 5 wkts. Captain Scott XI replied w
 result: Match Drawn
 next: hetairoi
 parent: 1997 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

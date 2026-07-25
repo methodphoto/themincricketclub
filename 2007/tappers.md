@@ -10,6 +10,7 @@ report: The Min batted first and made 164 all out. Tappers replied with 165 for 
 result: Tappers won by 3 wkts
 next: newdigate
 parent: 2007 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

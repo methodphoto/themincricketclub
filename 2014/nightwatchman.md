@@ -10,6 +10,7 @@ report: The Min batted first and made 182 all out in 39.4 overs. Nightwatchman r
 result: The Min won by 88 runs
 next: newington
 parent: 2014 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

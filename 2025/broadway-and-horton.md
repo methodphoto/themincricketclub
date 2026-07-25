@@ -9,6 +9,7 @@ report: Broadway and Horton won the toss and batted first scoring 209 all out in
 result: The Min won by 8 wkts
 next: 
 parent: 2025 Fixtures
+nav_order: 7
 ---
 
 {% include newMatchDetails %}

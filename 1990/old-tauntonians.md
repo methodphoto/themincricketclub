@@ -10,6 +10,7 @@ report: Old Tauntonians baatted first and scored 203 for 9 wkts. The Min replied
 result: Old Tauntonians won by 65 runs
 next: t-calverts-collection
 parent: 1990 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

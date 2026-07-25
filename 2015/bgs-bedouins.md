@@ -10,6 +10,7 @@ report: Bedouins won the toss and batted first, scoring 192-9 in 35 overs. The M
 result: BGS Bedouins won by 1 run
 next: headley
 parent: 2015 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

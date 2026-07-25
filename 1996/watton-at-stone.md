@@ -9,6 +9,7 @@ date: 22/09/1996
 report: Watton-at-Stone batted first and made 197 for 8 wkts. The Min replied with 159 for 9 wkts
 result: Match Drawn
 parent: 1996 Fixtures
+nav_order: 16
 ---
 
 {% include matchDetails %}

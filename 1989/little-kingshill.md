@@ -1,4 +1,4 @@
-+---
+---
 layout: default
 title: Little Kingshill
 homeTeam: Little Kingshill
@@ -10,6 +10,7 @@ report: The Min batted first and made 215 for 8 wkts. Little Kingshill replied w
 result: Match Drawn
 next: the-crocodiles
 parent: 1989 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

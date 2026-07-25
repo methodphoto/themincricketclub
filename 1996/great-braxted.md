@@ -10,6 +10,7 @@ report: Great Braxted batted first and made 168 for 7 wkts. The Min replied with
 result: The Min won by 3 wkts
 next: watton-at-stone
 parent: 1996 Fixtures
+nav_order: 15
 ---
 
 {% include matchDetails %}

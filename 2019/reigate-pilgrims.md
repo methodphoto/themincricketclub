@@ -9,6 +9,7 @@ date: 15/09/2019
 report: Reigate won the toss and batted first, making 151 for 9 wkts. The Min replied with 146 for 8 wkts before time ran out. 
 result: Match Drawn
 parent: 2019 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

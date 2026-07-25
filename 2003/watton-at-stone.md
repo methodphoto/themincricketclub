@@ -10,6 +10,7 @@ report: The Min batted first and made 194 for 9 wkts. Watton-at-Stone replied wi
 result: Match Drawn
 next: stowting
 parent: 2003 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

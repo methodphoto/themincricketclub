@@ -10,6 +10,7 @@ report: The Min batted first and made 160 for 6 wkts. Long Hanborough were 54 fo
 result: Match Abandoned
 next: old-wimbledonians
 parent: 1992 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

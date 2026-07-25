@@ -10,6 +10,7 @@ report: Checkendon batted first and made 130 for 7 wkts
 result: Match Abandoned
 next: antilles
 parent: 1991 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

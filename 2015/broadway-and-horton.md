@@ -10,6 +10,7 @@ report: The Min batted first and made 256 for 6 wkts. Broadway and Horton replie
 result: The Min won by 79 runs
 next: bgs-bedouins
 parent: 2015 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

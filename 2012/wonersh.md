@@ -10,6 +10,7 @@ report: Wonersh batted first and made 111 for 7 wkts. The Min replied with 112 f
 result: The Min won by 4 wkts
 next: brasted-invicta
 parent: 2012 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

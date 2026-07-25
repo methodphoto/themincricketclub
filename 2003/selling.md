@@ -10,6 +10,7 @@ report: The Min batted first and made 113 all out in 29.2 overs. Selling replied
 result: Selling won by 4 wkts
 next: spencer
 parent: 2003 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

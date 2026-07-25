@@ -10,6 +10,7 @@ report: The Min won the toss and batted first scoring 188 all out in 34 overs. S
 result: The Min won by 55 runs
 next: reigate-pilgrims
 parent: 2018 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

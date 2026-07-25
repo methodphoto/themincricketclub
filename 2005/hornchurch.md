@@ -9,6 +9,7 @@ date: 25/09/2005
 report: Hornchurch batted first and made 119 for 8 wkts in 35 overs. The Min replied with 120 for 3 wkts in 24.5 overs
 result: The Min won by 7 wkts
 parent: 2005 Fixtures
+nav_order: 16
 ---
 
 {% include matchDetails %}

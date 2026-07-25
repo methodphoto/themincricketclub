@@ -10,6 +10,7 @@ report: The Min batted first and scored 156 for 9 wkts. Putney made 129 for 7 wk
 result: Match Drawn
 next: ockley
 parent: 1989 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

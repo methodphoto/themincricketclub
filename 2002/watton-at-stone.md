@@ -10,6 +10,7 @@ report: The Min batted first and made 249 for 4 wkts. Watton-at-Stone replied wi
 result: Match Drawn
 next: wareham
 parent: 2002 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

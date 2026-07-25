@@ -10,6 +10,7 @@ report: Railway Taverners scored 178 all out. The Min replied with 180 for 7 wkt
 result: The Min won by 3 wkts
 next: reigate-pilgrims
 parent: 2019 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

@@ -9,6 +9,7 @@ date: 28/09/2002
 report: Britwell Salome batted first and made 195 for 6 wkts. The Min replied with 198 for 7 wkts
 result: The Min won by 3 wkts
 parent: 2002 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

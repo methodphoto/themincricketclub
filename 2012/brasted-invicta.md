@@ -10,6 +10,7 @@ report: The Min batted first and made 219 for 6 wkts. Brasted Invicta replied wi
 result: The Min won by 129 runs
 next: reigate-pilgrims
 parent: 2012 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

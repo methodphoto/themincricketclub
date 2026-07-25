@@ -10,6 +10,7 @@ report: The Min batted first and made 184 for 4 wkts. Britwell Salome replied wi
 result: Britwell Salome won by 6 wkts
 next: nightwatchman
 parent: 2013 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

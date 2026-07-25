@@ -10,6 +10,7 @@ report: The Min batted first and made 201 for 6 wkts. Reigate Pilgrims replied w
 result: Reigate Pilgrims won by 6 wkts
 next: britwell-salome
 parent: 2002 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

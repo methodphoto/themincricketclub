@@ -10,6 +10,7 @@ report: The Min batted first made 182 for 8 wkts. Harrow 3rd XI replied with 143
 result: Match Drawn
 next: stowting
 parent: 1986 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

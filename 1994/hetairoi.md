@@ -10,6 +10,7 @@ report: The Min batted first and made 184 for 8 wkts. Hetairoi replied with 185 
 result: Hetairoi won by 7 wkts
 next: valley-end
 parent: 1994 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Stowting batted first and were all out
 result: Rain stopped play, match drawn
 next: flying-wickets
 parent: 1987 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

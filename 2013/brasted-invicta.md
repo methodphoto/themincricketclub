@@ -10,6 +10,7 @@ report: The Min batted first and made 201 for 7 wkts. Brasted Invicta replied wi
 result: Match Abandoned as a Draw
 next: selling
 parent: 2013 Fixtures
+nav_order: 15
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 260 for 4 wkts. Kilmington and Stourton re
 result: Kilmington and Stourton won by 6 wkts
 next: brasted-invicta
 parent: 2016 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

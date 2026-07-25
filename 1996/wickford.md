@@ -10,6 +10,7 @@ report: Wickford batted first and made 152 all out. The Min replied with 152 for
 result: Match Tied
 next: tappers
 parent: 1996 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

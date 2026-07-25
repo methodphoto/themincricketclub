@@ -10,6 +10,7 @@ report: Copdock & Old Ipswichian CC batted first and made 187 for 7 wkts. The Mi
 result: Copdock & Old Ipswichian CC won by 55 runs
 next: ipswich-and-east-suffolk
 parent: 1998 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

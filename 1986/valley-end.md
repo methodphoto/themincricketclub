@@ -10,6 +10,7 @@ report: Valley End batted first and made 167 for 8 wkts. The Min replied with 13
 result: Match Drawn
 next: logica
 parent: 1986 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

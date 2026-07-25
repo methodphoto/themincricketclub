@@ -9,6 +9,7 @@ date: 29/06/2014
 report: The Min batted first and were 111 for 2 wkts when rain stopped play. 
 result: Match Abandoned as a Draw
 parent: 2014 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

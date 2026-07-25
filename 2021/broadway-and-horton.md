@@ -10,6 +10,7 @@ report: The Min won the toss and inserted Broadway and Horton who scored 209 all
 result: Broadway and Horton regained The Ashes by 23 runs
 next: kingstonian
 parent: 2021 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

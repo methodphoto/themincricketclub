@@ -10,6 +10,7 @@ report: Old Elthamians batted first making 236 for 1 wkt. The Min replied with 1
 result: Match Drawn
 next: tappers
 parent: 1995 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

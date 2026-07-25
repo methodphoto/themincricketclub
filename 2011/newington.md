@@ -10,6 +10,7 @@ report: The Min batted first and made 223 for 6 wkts. Newington replied with 225
 result: Newington won by 1 wkt
 next: elccc
 parent: 2011 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

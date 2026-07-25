@@ -10,6 +10,7 @@ report: Ockely batted first and made 144 for 8 wkts. The Min replied with 119 al
 result: Ockely won by 25 runs
 next: players-and-jesters
 parent: 1997 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

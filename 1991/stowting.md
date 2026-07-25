@@ -10,6 +10,7 @@ report: Stowing batted first and made 152 all out. The Min replied with 153 for 
 result: The Min won by 6 wkts
 next: long-marston
 parent: 1991 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

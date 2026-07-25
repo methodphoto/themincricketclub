@@ -10,6 +10,7 @@ report: Kilmington and Stourton batted first and made 176 for 4 wkts in 35 overs
 result: The Min won by 2 wkts
 next: warminster-garrison
 parent: 2005 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

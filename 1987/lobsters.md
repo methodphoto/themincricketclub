@@ -10,6 +10,7 @@ report: Lobsters batted first and scored 199 for 5 wkts. The Min were 98 all out
 result: Lobsters won by 101 runs
 next: friars-oak
 parent: 1987 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

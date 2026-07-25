@@ -10,6 +10,7 @@ report: The Min batted first and made 208 for 7 wkts. Newdigate replied with 135
 result: Match Drawn
 next: watton-at-stone
 parent: 2003 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Valley End batted first and made 207 for 4 wkts. The Min replied with 19
 result: Valley End won by 13 runs
 next: reigate-pilgrims
 parent: 1994 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

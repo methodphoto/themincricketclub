@@ -10,6 +10,7 @@ report: The Min batted first and made 212 for 7 wkts. Britwell Salome replied wi
 result: The Min won by 7 runs
 next: old-colfeians
 parent: 2007 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

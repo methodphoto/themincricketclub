@@ -10,6 +10,7 @@ report: The Min won the toss, batted first and scored 237 for 5. Brasted were 65
 result: Match Drawn
 next: reigate-pilgrims
 parent: 2015 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

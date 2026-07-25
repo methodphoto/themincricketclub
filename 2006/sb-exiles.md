@@ -10,6 +10,7 @@ report: The Min batted first and made 293 for 2 wkts in 35 overs. SB Exiles repl
 result: The Min won by 123 runs
 next: reigate-pilgrims
 parent: 2006 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

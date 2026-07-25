@@ -10,6 +10,7 @@ report: The Min batted first and made 202 for 8 wkts. Newdigate replied with 66 
 result: The Min won by 136 runs
 next: watton-at-stone
 parent: 2008 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 184 all out. Stowting replied with 138 for
 result: Match Drawn
 next: brasted-invicta
 parent: 2015 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

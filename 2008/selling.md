@@ -9,6 +9,7 @@ date: 21/09/2008
 report: The Min batted first and made 179 for 9 wkts in 40 overs. Selling replied with 177 for 9 wkts in 40 overs
 result: The Min won by 2 runs
 parent: 2008 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

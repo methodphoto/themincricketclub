@@ -10,6 +10,7 @@ report: Lobsters batted first made 183 for 7 wkts. The Min replied with 164 all 
 result: Lobsters won by 19 runs
 next: old-wilsonians
 parent: 1985 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

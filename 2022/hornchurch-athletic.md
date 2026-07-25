@@ -9,6 +9,7 @@ date: 18/09/2022
 report: Hornchurch Athletic won the toss and batted first. They made 184 for 6 wkts in 40 overs. The Min replied with 171 for 8 wkts
 result: Hornchurch Athletic won by 13 runs
 parent: 2022 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

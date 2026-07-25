@@ -10,6 +10,7 @@ report: Selling batted first and were all out for 65. The Min replied with 71 fo
 result: The Min won by 5 wkts
 next: old-colfeians
 parent: 2000 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

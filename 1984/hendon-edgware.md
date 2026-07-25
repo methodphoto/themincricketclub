@@ -10,6 +10,7 @@ report: Hendon-Edgware batted first and were bowled out for 62. The Min replied 
 result: The Min won by 8 wkts
 next: logica
 parent: 1984 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

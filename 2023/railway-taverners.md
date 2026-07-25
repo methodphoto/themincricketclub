@@ -9,6 +9,7 @@ report: Railway Taverners won the toss and inserted The Min, who made 227 for 6 
 result: The Min won by 43 runs
 next: reigate-pilgrims
 parent: 2023 Fixtures
+nav_order: 8
 ---
 
 {% include newMatchDetails %}

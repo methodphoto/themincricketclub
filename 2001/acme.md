@@ -10,6 +10,7 @@ report: ACME batted first and made 157 for 9 wkts. The Min replied with 143 all 
 result: ACME won by 14 runs
 next: kilmington-and-stourton
 parent: 2001 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min made 213 for 7 wkts. Stowting replied with 122 for 8 wkts when t
 result: Match Drawn
 next: reigate-pilgrims
 parent: 1990 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

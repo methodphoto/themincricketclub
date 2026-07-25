@@ -9,6 +9,7 @@ date: 21/09/1997
 report: Woodlawn batted first and made 174 for 9 wkts. The Min replied with 73 for 9 wkts
 result: Match Drawn
 parent: 1997 Fixtures
+nav_order: 15
 ---
 
 {% include matchDetails %}

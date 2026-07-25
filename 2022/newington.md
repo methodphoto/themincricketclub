@@ -10,6 +10,7 @@ report: The Min won the toss and batted first scoring 237 for 4 wkts in 35 overs
 result: Newington won by 7 wkts
 next: frensham
 parent: 2022 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

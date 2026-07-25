@@ -9,6 +9,7 @@ date: 11/07/2014
 report: Kilmington and Stourton batted first and made 275 all out (39.4 overs). The Min replied with 253 for 7 wkts (40 overs) 
 result: Kilmington and Stourton won by 22 runs
 parent: 2014 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

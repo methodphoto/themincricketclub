@@ -9,6 +9,7 @@ report: Middleton Stoney won the toss and batted first making 219 for 1 wkts. Th
 result: Match Drawn (scores level)
 next: st-annes-allstars
 parent: 2025 Fixtures
+nav_order: 4
 ---
 
 {% include newMatchDetails %}

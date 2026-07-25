@@ -10,6 +10,7 @@ report: Reigate Pilgrims batted first and made 198 for 5 wkts. The Min replied w
 result: Reigate Pilgrims won by 49 runs
 next: sanderstead
 parent: 2006 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

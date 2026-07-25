@@ -9,6 +9,7 @@ report: The  Min won the toss and inserted Reigate Pilgrims who made 173 for 7 W
 result: Match Drawn
 next: hornchurch-athletic
 parent: 2023 Fixtures
+nav_order: 9
 ---
 
 {% include newMatchDetails %}

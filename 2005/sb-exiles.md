@@ -10,6 +10,7 @@ report: The Min batted first and made 241 for 2 wkts. SB Exiles replied with 199
 result: The Min won by 42 runs
 next: reigate-pilgrims
 parent: 2005 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

@@ -9,6 +9,7 @@ date: 18/09/1988
 report: The Min batted first, scoring 237 for 9 wkts. Watton-at-Stone were 111 for 8 wkts when time ran out
 result: Match Drawn
 parent: 1988 Fixtures
+nav_order: 17
 ---
 
 {% include matchDetails %}

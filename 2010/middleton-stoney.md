@@ -10,6 +10,7 @@ report: The Min batted first and made 135 for 7 wkts. Middleton Stoney replied w
 result: Match Drawn
 next: newdigate
 parent: 2010 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

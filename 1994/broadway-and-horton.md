@@ -10,6 +10,7 @@ report: The Min batted first and made 182 for 8 wkts in 40 overs. Broadway and H
 result: The Min won by 39 runs
 next: horningsham
 parent: 1994 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

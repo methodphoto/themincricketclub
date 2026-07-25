@@ -10,6 +10,7 @@ report: The Min batted first and made 212 for 6 wkts. A Stonor XI replied with 1
 result: The Min won by 98 runs
 next: great-braxted
 parent: 1996 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

@@ -9,6 +9,7 @@ report: The Min won the toss and batted first making 231 for 7 wkts in 35 overs.
 result: The Min retained The Ashes by 48 runs
 next: easton-cowfolk
 parent: 2026 Fixtures
+nav_order: 6
 ---
 
 {% include newMatchDetails %}

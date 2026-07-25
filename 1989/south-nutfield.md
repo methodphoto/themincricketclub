@@ -10,6 +10,7 @@ report: South Nutfield batted first and scored 175 for 1 wkt. The Min replied wi
 result: The Min won by 1 wkt
 next: eggington
 parent: 1989 Fixtures
+nav_order: 16
 ---
 
 {% include matchDetails %}

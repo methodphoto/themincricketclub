@@ -10,6 +10,7 @@ report: The Min scored 136 all out. Old Elthamians replied with 137 for 4 wkts
 result: Old Elthamians won by 6 wkts
 next: little-kingshill
 parent: 1987 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

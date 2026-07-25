@@ -9,6 +9,7 @@ report: Reigate Pilgrims won the toss and decided to bat. They made 126 for 7 wk
 result: The Min won by 5 wickets
 next: 
 parent: 2025 Fixtures
+nav_order: 9
 ---
 
 {% include newMatchDetails %}

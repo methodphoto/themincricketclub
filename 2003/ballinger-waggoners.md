@@ -10,6 +10,7 @@ report: The Min batted first and were 17 for 2 wkts when rain stopped play
 result: Match abandoned as a Draw
 next: newdigate
 parent: 2003 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

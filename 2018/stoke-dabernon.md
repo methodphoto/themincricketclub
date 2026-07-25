@@ -9,6 +9,7 @@ date: 30/09/2018
 report: In a 35 over game Stoke D'Abernon batted first and scored 251-6. The Min replied with 196 all out
 result: Stoke D'Abernon won by 55 runs
 parent: 2018 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 170 for 8 wkts. Watton-at-Stone replied wi
 result: The Min won by 28 runs
 next: 
 parent: 2016 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

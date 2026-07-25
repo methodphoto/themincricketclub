@@ -10,6 +10,7 @@ report: Horningsham batted first and made 206 for 4 wkts. The Min replied with 2
 result: The Min won by 5 wkts
 next: newdigate
 parent: 2013 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

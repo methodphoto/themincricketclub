@@ -9,6 +9,7 @@ date: 12/09/1987
 report: The Min batted first and scored 186 all out. Flying Wickets were dismissed for 43 for 8 wkts (all out))
 result: The Min won by 143 runs
 parent: 1987 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

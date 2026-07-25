@@ -10,6 +10,7 @@ report:  The Min batted first and made 108 all out. Britwell Salome replied with
 result: Britwell Salome won by 6 wkts
 next: old-colfeians
 parent: 2004 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

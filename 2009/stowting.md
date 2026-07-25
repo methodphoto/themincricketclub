@@ -10,6 +10,7 @@ report: Stowting batted first and made 197 all out. The Min replied with 167 for
 result: Match Drawn
 next: broadway-and-horton
 parent: 2009 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

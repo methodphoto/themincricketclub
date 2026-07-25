@@ -10,6 +10,7 @@ report: Godstone batted first and made 170 for 9 wkts. The Min replied with 67 f
 result: Godstone won by 103 runs
 next: valley-end
 parent: 1986 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

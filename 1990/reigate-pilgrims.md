@@ -10,6 +10,7 @@ report: Reigate Pilgrims were 142 all out. The Min were 128 for 9 wkts when time
 result: Match Drawn
 next: watton-at-stone
 parent: 1990 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

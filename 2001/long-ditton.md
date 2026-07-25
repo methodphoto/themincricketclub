@@ -10,6 +10,7 @@ report: Long Ditton batted first and made 150 for 6 wkts. The Min replied with 1
 result: The Min won by 9 wkts
 next: players-and-jesters
 parent: 2001 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

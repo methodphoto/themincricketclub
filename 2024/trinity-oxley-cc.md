@@ -9,6 +9,7 @@ report: Trinity Oxley CC won the toss and batted first, making 192 for 5 wkts in
 result: The Min won by 4 wkts
 next: highgate-irregulars
 parent: 2024 Fixtures
+nav_order: 2
 ---
 
 {% include newMatchDetails %}

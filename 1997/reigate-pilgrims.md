@@ -10,6 +10,7 @@ report: The Min batted first and made 135 for 9 wkts. Reigate Pilgrims replied w
 result: The Min won by 41 runs
 next: woodlawn-cc
 parent: 1997 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

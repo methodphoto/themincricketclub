@@ -10,6 +10,7 @@ report: The Min batted first and made 131 all out in 33 overs. Kilmington and St
 result: Kilmington and Stourton won by 1 wkt
 next: horningsham
 parent: 2011 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

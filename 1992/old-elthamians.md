@@ -10,6 +10,7 @@ report: Old Elthamians batted first and made 187 all out. The Min replied with 1
 result: Match Drawn
 next: deando
 parent: 1992 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

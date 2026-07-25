@@ -10,6 +10,7 @@ report: The Min batted first and made 162 for 8 wkts. Farnborough replied with 1
 result: Farnborough won by 2 wkts
 next: checkendon
 parent: 1994 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

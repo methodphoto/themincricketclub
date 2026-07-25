@@ -10,6 +10,7 @@ report: The Min batted first and scored 248 for 7 wkts. Old Elthamians were bowl
 result: The Min won by 40 runs
 next: little-kingshill
 parent: 1989 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

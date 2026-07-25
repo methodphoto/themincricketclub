@@ -10,6 +10,7 @@ report: The Min batted first and made 180 for 9 wkts. Ockley replied with 118 fo
 result: Match Drawn
 next: stowting
 parent: 1996 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

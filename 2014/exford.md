@@ -10,6 +10,7 @@ report: The Min batted first and made 156 for 7 wkts in 20 overs. Exford replied
 result: The Min won by 8 runs
 next: horningsham
 parent: 2014 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

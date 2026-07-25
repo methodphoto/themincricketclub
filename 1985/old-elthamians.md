@@ -10,6 +10,7 @@ report: The Min batted first and made 104 all out. Old Elthamians made with 108 
 result: Old Elthamians won by 3 wkts
 next: alex-beards-xi
 parent: 1985 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

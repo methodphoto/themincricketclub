@@ -10,6 +10,7 @@ report: The Min batted first and made 156 all out. Wareham replied with 160 for 
 result: Wareham won by 5 wkts
 next: broadway-and-horton
 parent: 2002 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

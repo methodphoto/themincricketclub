@@ -10,6 +10,7 @@ report: Middleton Stoney batted first and made 97 all out. The Min replied with 
 result: The Min won by 5 wkts
 next: newdigate
 parent: 2008 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

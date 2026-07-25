@@ -10,6 +10,7 @@ report: The Min batted first and scored 199 for 6 wkts. Harpenden were 197 for 9
 result: Match Drawn
 next: watton-at-stone
 parent: 1988 Fixtures
+nav_order: 16
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Wandering Maniacs won the toss and inserted The Min who made 211 all out
 result: The Min won by 113 runs
 next: banstead
 parent: 2021 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

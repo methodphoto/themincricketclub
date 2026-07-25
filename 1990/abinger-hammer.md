@@ -10,6 +10,7 @@ report: The Min  batted first and were all out for 116. Abinger Hammer replied w
 result: Abinger Hammer won by 5 wkts
 next: the-crocodiles
 parent: 1990 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

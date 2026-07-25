@@ -9,6 +9,7 @@ report: Stowting won the toss and inserted The Min who made 120 for 9 wkts (all 
 result: Stowting won by 8 wkts
 next: st-annes-allstars
 parent: 2023 Fixtures
+nav_order: 2
 ---
 
 {% include newMatchDetails %}

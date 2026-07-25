@@ -10,6 +10,7 @@ report: Strenue batted first and made 186 for 2 wkts. The Min were all out for 1
 result: Strenue won by 33 runs
 next: newdigate
 parent: 1986 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first, scoring 137 for 7 wkts. Ealing Commoners made 72 f
 result: Match Drawn
 next: lobsters
 parent: 1984 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

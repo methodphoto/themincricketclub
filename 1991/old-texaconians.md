@@ -10,6 +10,7 @@ report: The Min batted first and made 128 for 9 wkts (all out). Old Texaconians 
 result: The Min won by 40 runs
 next: old-tauntonians
 parent: 1991 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

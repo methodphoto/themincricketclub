@@ -9,6 +9,7 @@ date: 13/07/2014
 report: Horningsham batted first and made 259 for 4 wkts. The Min replied with 157 for 5 wkts, when time ran out
 result: Match Drawn
 parent: 2014 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

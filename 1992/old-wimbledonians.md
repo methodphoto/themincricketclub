@@ -10,6 +10,7 @@ report: The Min batted first and made 151 for 8 wkts. Old Wimbledonians replied 
 result: Match Drawn
 next: reigate-pilgrims
 parent: 1992 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

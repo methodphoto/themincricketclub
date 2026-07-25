@@ -10,6 +10,7 @@ report: The Min batted first and made 209 all out. Tatsfield replied with 92 all
 result: The Min won by 117 runs
 next: wareham
 parent: 2000 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

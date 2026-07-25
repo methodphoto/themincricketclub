@@ -10,6 +10,7 @@ report: Petts Wood batted first made 146 all out. The Min replied with 145 for 5
 result: The Min won by 5 wkts
 next: brook
 parent: 1985 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

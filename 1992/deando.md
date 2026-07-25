@@ -10,6 +10,7 @@ report: The Min batted first and scored 163 all out. Deando replied with 155 for
 result: Deando won by 7 wkts
 next: yateley
 parent: 1992 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Watton-at-Stone batted first and made 237 for 5 wkts. The Min replied wi
 result: Watton-at-Stone won by 95 runs
 next: strenue
 parent: 1986 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

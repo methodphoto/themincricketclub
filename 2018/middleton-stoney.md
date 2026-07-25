@@ -10,6 +10,7 @@ report: The Min won the toss and inserted Middleton Stoney who scored 188 for 7 
 result: Match Drawn
 next: kingstonian
 parent: 2018 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Stowting batted first and made 197 for 8 wkts. The Min replied with 120 
 result: Match Drawn
 next: broadway-and-horton
 parent: 2013 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

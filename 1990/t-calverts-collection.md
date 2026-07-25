@@ -10,6 +10,7 @@ report: The Min batted first and scored 170 for 8 wkts. T Calvert's Collection m
 result: The Min won by 16 runs
 next: newdigate
 parent: 1990 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

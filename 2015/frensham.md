@@ -10,6 +10,7 @@ report: The Min batted first and made 163 all out. Frensham replied with 167 for
 result: Frensham won by 7 wkts
 next: newdigate
 parent: 2015 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

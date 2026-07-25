@@ -10,6 +10,7 @@ report: Newdigate batted first and made 195 for 3 wkts. The Min replied with 172
 result: Match Drawn
 next: oracle
 parent: 1987 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

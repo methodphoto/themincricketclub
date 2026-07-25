@@ -10,6 +10,7 @@ report: Broadway won the toss and batted first scoring 164 all out in 35 overs. 
 result: Broadway retained The Ashes by 32 runs
 next: stowting
 parent: 2017 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

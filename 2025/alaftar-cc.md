@@ -9,6 +9,7 @@ report: Alaftar won the toss and batted first making 149 for 8 wkts in 35 overs.
 result: Alaftar CC won by 20 runs
 next: middleton-stoney
 parent: 2025 Fixtures
+nav_order: 3
 ---
 
 {% include newMatchDetails %}

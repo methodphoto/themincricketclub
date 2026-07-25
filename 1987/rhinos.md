@@ -10,6 +10,7 @@ report: Rhinos batted first and were all out for 142. The Min replied with 143 f
 result: The Min won by 5 wkts
 next: horningsham
 parent: 1987 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

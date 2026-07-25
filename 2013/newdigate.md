@@ -10,6 +10,7 @@ report: Newdigate batted first and made 222 for 7 wkts. The Min replied with 135
 result: Newdigate won by 93 runs
 next: addington-1743
 parent: 2013 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

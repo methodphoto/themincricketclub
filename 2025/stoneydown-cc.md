@@ -9,6 +9,7 @@ report: The Min won the toss and batted first on an unpredictable pitch and made
 result: The Min won by 118 runs
 next: highgate-irregulars
 parent: 2025 Fixtures
+nav_order: 1
 ---
 
 {% include newMatchDetails %}

@@ -10,6 +10,7 @@ report: Blagdon Hill won the toss and batted first. They made 213 for 9 wkts in 
 result: Blagdon Hill won by 11 runs
 next: broadway-and-horton
 parent: 2019 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

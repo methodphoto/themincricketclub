@@ -10,6 +10,7 @@ report: The Min won the toss and batted first in a 35 over game, scored 192 all 
 result: Broadway and Horton won by 9 wkts
 next: banstead
 parent: 2022 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

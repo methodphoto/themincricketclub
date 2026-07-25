@@ -10,6 +10,7 @@ report: Stowting batted first and made 176 all out. The Min replied with 177 for
 result: The Min won by 5 wkts
 next: tappers
 parent: 1997 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

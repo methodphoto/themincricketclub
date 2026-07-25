@@ -10,6 +10,7 @@ report: The Min batted first and made 190 for 5 wkts. Stowting replied with 163 
 result: Match Drawn
 next: valley-end
 parent: 1996 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Blagdon Hill batted first and made 246 for 4 wkts. The Min replied with 
 result: Blagdon Hill won by 73 runs
 next: broadway-and-horton
 parent: 2016 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

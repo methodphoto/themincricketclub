@@ -10,6 +10,7 @@ report: Old Mid-Whitgiftians batted first and made 231 for 5 wkts. The Min repli
 result: Old Mid-Whitgiftians won by 78 runs
 next: selling
 parent: 2006 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

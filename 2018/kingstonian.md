@@ -10,6 +10,7 @@ report: The Min won the toss and inserted Kingstonian who made 171 all out in 32
 result: THe Min won by 6 wkts
 next: newington
 parent: 2018 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

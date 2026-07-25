@@ -10,6 +10,7 @@ report: Nightwatchman batted first and made 192 for 6 wkts in 40 overs. The Min 
 result: Nightwatchman won by 53 runs
 next: newington
 parent: 2015 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

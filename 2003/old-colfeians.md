@@ -10,6 +10,7 @@ report: Old Colfeians batted first and made 175 for 6 wkts. The Min replied with
 result: Old Colfeians won by 47 runs
 next: ballinger-waggoners
 parent: 2003 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

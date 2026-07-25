@@ -10,6 +10,7 @@ report: The Min batted first and made 192 for 6 wkts. Kilmington and Stourton re
 result: The Min won by 62 runs
 next: old-colfeians
 parent: 2001 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Brook batted first and all out for 123. The Min replied with 125 for 6 w
 result: The Min won by 4 wkts
 next: horningsham
 parent: 1986 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

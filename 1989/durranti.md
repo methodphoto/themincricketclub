@@ -10,6 +10,7 @@ report: The Min batted first and were all out for 119. Durranti made 120 for 5 w
 result: Durranti won by 5 wkts
 next: limpsfield
 parent: 1989 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

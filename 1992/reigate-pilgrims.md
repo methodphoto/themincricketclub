@@ -10,6 +10,7 @@ report: Reigate Pilgrims batted first and made 30 for 1 wkt, when rain stopped p
 result: Match Abandoned
 next: watton-at-stone
 parent: 1992 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

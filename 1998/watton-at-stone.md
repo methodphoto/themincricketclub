@@ -10,6 +10,7 @@ report: Watton-at-Stone batted first and made 150 for 9 wkts. The Min replied wi
 result: The Min won by 6 wkts
 next: broadway-and-horton
 parent: 1998 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

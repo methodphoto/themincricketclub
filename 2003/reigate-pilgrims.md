@@ -9,6 +9,7 @@ date: 14/09/2003
 report: Reigate Pilgrims batted first and made 156 all out. The Min replied with 141 for 8 wkts when time ran out
 result: Match Drawn
 parent: 2003 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

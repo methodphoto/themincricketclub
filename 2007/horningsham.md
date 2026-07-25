@@ -10,6 +10,7 @@ report: The Min batted first and made 159 for 9 wkts. Horningsham replied with 9
 result: Match Drawn
 next: old-min-young-min
 parent: 2007 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

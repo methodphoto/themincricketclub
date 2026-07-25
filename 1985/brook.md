@@ -10,6 +10,7 @@ report: Brook batted first made 217 all out. The Min replied with 163 all out.
 result: Brook won by 64 runs
 next: shamrock
 parent: 1985 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

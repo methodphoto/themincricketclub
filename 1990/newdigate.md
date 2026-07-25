@@ -10,6 +10,7 @@ report: The Min batted first and made 203 for 6 wkts. Newdigate were 150 for 9 w
 result: Match Drawn
 next: stowting
 parent: 1990 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

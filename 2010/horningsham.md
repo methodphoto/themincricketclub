@@ -10,6 +10,7 @@ report: The Min batted first and made 114 all out. Horningsham replied with 97 a
 result: The Min won by 17 runs
 next: islip
 parent: 2010 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

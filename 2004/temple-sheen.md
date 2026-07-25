@@ -10,6 +10,7 @@ report: Temple Sheen batted first and made 173 for 5 wkts. The Min replied with 
 result: Match Drawn
 next: reigate-pilgrims
 parent: 2004 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Middleton Stoney won the toss and batted, scoring 229-6. The Min replied
 result: Match Drawn
 next: watton-at-stone
 parent: 2019 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 217 all out. Koh-i-noor replied with 71 fo
 result: The Min won by 146 runs
 next: lobsters
 parent: 1985 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

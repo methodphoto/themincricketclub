@@ -10,6 +10,7 @@ report: The Min batted first and made 200 for 7 wkts. Wareham replied with 176 a
 result: The Min won by 24 runs
 next: knapp
 parent: 1999 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and scored 172 for 9 wkts. Middleton Stoney made 17
 result: Middleton Stoney won by 6 wkts
 next: newington
 parent: 2021 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

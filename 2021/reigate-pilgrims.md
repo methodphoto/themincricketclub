@@ -10,6 +10,7 @@ report: The Min won the toss and bowled first. Reigate Pilgrims made 150 for 9 w
 result: Reigate Pilgrims won by 31 runs
 next: selling
 parent: 2021 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

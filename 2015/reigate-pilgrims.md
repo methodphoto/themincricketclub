@@ -10,6 +10,7 @@ report: Reigate Pilgrims were bowled out for 65 runs. The Min replied with 66 fo
 result: The Min won by 7 wkts
 next: selling
 parent: 2015 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

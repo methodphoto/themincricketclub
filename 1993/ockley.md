@@ -10,6 +10,7 @@ report: The Min batted first and made 146 all out. Ockley replied with 106 all o
 result: The Min won by 40 runs
 next: great-tew
 parent: 1993 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

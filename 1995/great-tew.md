@@ -10,6 +10,7 @@ report: The Min batted first and made 187 for 9 wkts. Great Tew replied with 189
 result: Great Tew won by 4 wkts
 next: abbey-players
 parent: 1995 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 162 for 8 wkts in 40 overs. Grimsdyke CC r
 result: The Min won by 2 runs
 next: broadway-and-horton
 parent: 2007 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

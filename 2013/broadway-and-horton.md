@@ -10,6 +10,7 @@ report: The Min batted first and made 209 for 6 wkts. Broadway and Horton replie
 result: The Min won by 23 runs
 next: kilmington-and-stourton
 parent: 2013 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

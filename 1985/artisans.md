@@ -10,6 +10,7 @@ report: The Min batted first and made 181 for 4 wkts. The Artisans replied with 
 result: The Min won by 122 runs
 next: town-cryers
 parent: 1985 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

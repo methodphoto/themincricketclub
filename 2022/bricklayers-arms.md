@@ -10,6 +10,7 @@ report: Bricklayer's Arms won the toss and inserted The Min who made 166 all out
 result: Bricklayer's Arms won by 5 wkts
 next: newington
 parent: 2022 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

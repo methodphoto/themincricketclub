@@ -10,6 +10,7 @@ report: The Min batted first and made 225 for 5 wkts. Stowting were 151 for 9 wk
 result: Match Drawn
 next: south-nutfield
 parent: 1989 Fixtures
+nav_order: 15
 ---
 
 {% include matchDetails %}

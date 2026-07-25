@@ -10,6 +10,7 @@ report: Headley batted first and made 203 for 7 wkts. The Min replied with 205 f
 result: The Min won by 9 wkts
 next: stowting
 parent: 2015 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

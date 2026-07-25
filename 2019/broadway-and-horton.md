@@ -10,6 +10,7 @@ report: The Min won the tosss and batted first making 197 for 6 in 35 overs. Bro
 result: The Min won by 164 runs
 next: kingstonian
 parent: 2019 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

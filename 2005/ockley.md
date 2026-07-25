@@ -10,6 +10,7 @@ report: Ockley batted first and made 153 for 8 wkts. The Min replied with 154 fo
 result: The Min won by 5 wkts
 next: old-colfeians
 parent: 2005 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

@@ -9,6 +9,7 @@ report: The Min won the toss and inserted Frensham who made 170 for 9 wkts in 25
 result: The Min won by 6 wkts
 next: 
 parent: 2024 Fixtures
+nav_order: 4
 ---
 
 {% include newMatchDetails %}

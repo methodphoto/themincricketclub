@@ -10,6 +10,7 @@ report: Hampton Wick Royal batted first and made 162 all out. The Min replied wi
 result: Hampton Wick Royal won by 23 runs
 next: sb-exiles
 parent: 2010 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

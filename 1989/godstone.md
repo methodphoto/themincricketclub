@@ -10,6 +10,7 @@ report: Godstone batted first and were bowled out for 140. The Min replied with 
 result: The Min won by 4 wkts
 next: barrow-boys
 parent: 1989 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

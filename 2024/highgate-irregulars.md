@@ -9,6 +9,7 @@ report: The Min won the toss and fielded first, Highgate Irregulars made 176 all
 result: The Min won by 1 wkt
 next: 
 parent: 2024 Fixtures
+nav_order: 3
 ---
 
 {% include newMatchDetails %}

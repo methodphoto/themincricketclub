@@ -10,6 +10,7 @@ report: The Min batted first and scored 123 for 8 wkts. Red Bat replied with 82 
 result: The Min won by 41 runs
 next: petts-wood
 parent: 1985 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

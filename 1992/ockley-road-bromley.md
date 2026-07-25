@@ -10,6 +10,7 @@ report: The Min batted first and scraped to 69 all out. Ockley Road replied with
 result: Ockley Road, Bromley won by 5 wkts
 next: broadway-and-horton
 parent: 1992 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

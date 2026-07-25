@@ -9,6 +9,7 @@ date: 19/09/1984
 report: Nick Hoare's XI batted first and made 154 for 5 wkts. The Min replied with 158 for 5 wkts.
 result: The Min won by 5 wkts
 parent: 1984 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

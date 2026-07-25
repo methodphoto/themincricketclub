@@ -10,6 +10,7 @@ report: Friar's Oak batted first and scored 113 for 9 wkts. The Min were all out
 result: Friar's Oak won by 9 runs
 next: newdigate
 parent: 1987 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

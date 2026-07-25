@@ -9,6 +9,7 @@ date: 11/08/2013
 report: The Min batted first and made 199 for 9 wkts in 40 overs. Addington 1743 replied with 130 all out in 36 overs
 result: The Min won by 69 runs
 parent: 2013 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

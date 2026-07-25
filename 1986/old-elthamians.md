@@ -10,6 +10,7 @@ report: Old Elthamians batted first and scored 200 for 7 wkts. The Min replied w
 result: The Min won by 6 wkts
 next: little-kingshill
 parent: 1986 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

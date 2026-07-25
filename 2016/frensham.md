@@ -10,6 +10,7 @@ report: The Min batted first and made 250 for 6 wkts. Frensham replied with 211 
 result: The Min won by 39 runs
 next: watton-at-stone
 parent: 2016 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 170 for 7 wkts. Newdigate were bowled out 
 result: The Min won by 89 runs
 next: grimsdyke-cc
 parent: 2007 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

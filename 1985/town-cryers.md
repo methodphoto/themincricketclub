@@ -10,6 +10,7 @@ report: Town Cryers batted first but made 51 for 8 (all out). The Min replied wi
 result: The Min won by 4 wkts
 next: red-bat
 parent: 1985 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

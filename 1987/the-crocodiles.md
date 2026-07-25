@@ -10,6 +10,7 @@ report: The Min batted first and scored 206 for 7 wkts. The Crocodiles were 115 
 result: Match Drawn
 next: old-elthamians
 parent: 1987 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

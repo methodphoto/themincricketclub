@@ -10,6 +10,7 @@ report: Limpsfield batted first and scored 246 for 3 wkts. The Min replied with 
 result: Limpsfield won by 59 runs
 next: blindley-heath
 parent: 1989 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

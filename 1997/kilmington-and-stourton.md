@@ -10,6 +10,7 @@ report: Kilmington and Stourton made 69 for 5 wkts of 12.2 overs (out of 20), be
 result: Match Abandoned
 next: farnborough
 parent: 1997 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

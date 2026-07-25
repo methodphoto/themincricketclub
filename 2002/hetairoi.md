@@ -10,6 +10,7 @@ report: The Min batted first and made 209 for 6 wkts. Hetairoi replied with 168 
 result: Match Drawn
 next: tappers
 parent: 2002 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

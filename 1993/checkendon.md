@@ -10,6 +10,7 @@ report: Checkendon batted first and scored 240 for 5 wkts. The Min were 96 for 8
 result: Match Drawn
 next: watton-at-stone
 parent: 1993 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

@@ -9,6 +9,7 @@ date: 18/09/2016
 report: Selling batted first and made 118 all out in 34.4 overs. The Min replied with 119 for 5 wkts in 26.2 overs
 result: The Min won by 5 wkts
 parent: 2016 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

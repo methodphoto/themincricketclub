@@ -10,6 +10,7 @@ report: The Min batted first, scoring 192 for 6 wkts. Greenford were dismissed f
 result: The Min won by 107 runs
 next: ealing-commoners
 parent: 1984 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

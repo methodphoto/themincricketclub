@@ -9,6 +9,7 @@ report: The Min won the toss and batted first making 149 for 9 wkts in 35 overs.
 result: Highgate Irregulars won by 5 wkts
 next: 
 parent: 2026 Fixtures
+nav_order: 3
 ---
 
 {% include newMatchDetails %}

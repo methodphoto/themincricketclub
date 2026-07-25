@@ -10,6 +10,7 @@ report: The Min batted first and made 131 for 8 wkts. Broadway and Horton replie
 result: The Min won by 7 runs
 next: horningsham
 parent: 2008 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

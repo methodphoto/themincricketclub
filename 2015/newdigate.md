@@ -10,6 +10,7 @@ report: Newdigate batted first and scored 226 for 7 wkts. The Min replied with 1
 result: Match Drawn
 next: 
 parent: 2015 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

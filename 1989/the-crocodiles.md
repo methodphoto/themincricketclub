@@ -10,6 +10,7 @@ report: The Min batted first and made 171 for 8 wkts. The Crocodiles replied wit
 result: The Crocodiles won by 4 wkts
 next: durranti
 parent: 1989 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

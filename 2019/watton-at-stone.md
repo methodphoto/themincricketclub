@@ -10,6 +10,7 @@ report: The Min won the toss and batted first in a 35 over game. The Min made 15
 result: Watton-at-Stone won by 8 wkts
 next: newington
 parent: 2019 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

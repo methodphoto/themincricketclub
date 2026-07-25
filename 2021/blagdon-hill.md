@@ -10,6 +10,7 @@ report: The Min batted first and scored 187 for 5 wkts. Blagdon Hill were all ou
 result: The Min won by 78 runs
 next: broadway-and-horton
 parent: 2021 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

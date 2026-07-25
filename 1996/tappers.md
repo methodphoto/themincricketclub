@@ -10,6 +10,7 @@ report: The Min batted first and made 144 all out. Tappers replied with 128 all 
 result: The Min won by 16 runs
 next: erratics
 parent: 1996 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

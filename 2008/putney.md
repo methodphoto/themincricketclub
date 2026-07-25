@@ -10,6 +10,7 @@ report: The Min batted first and made 158 for 5 wkts in 20 over. Putney replied 
 result: The Min won by 41 runs
 next: reigate-pilgrims
 parent: 2008 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Stowting batted first and made 145 all out. The Min replied with 126 all
 result:  Stowting won by 19 runs
 next: broadway-and-horton
 parent: 2011 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

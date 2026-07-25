@@ -10,6 +10,7 @@ report: The Min batted first and made 216 for 7 wkts. Kilmington and Stourton re
 result: The Min won by 71 runs
 next: shottermill
 parent: 2000 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

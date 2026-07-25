@@ -10,6 +10,7 @@ report: Wendover batted first and made 203 for 8 wkts. The Min replied with 175 
 result: Wendover won by 28 runs
 next: putney
 parent: 1989 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

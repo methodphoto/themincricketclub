@@ -10,6 +10,7 @@ report: Wimbledon United batted first and made 201 for 7 wkts. The Min replied w
 result: Wimbledon United won by 30 runs
 next: brasted-invicta
 parent: 2014 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

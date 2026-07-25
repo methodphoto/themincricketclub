@@ -10,6 +10,7 @@ report: Newington batted first and made 172 all out. The Min replied with 173 fo
 result: The Min won by 2 wkts
 next: farningham
 parent: 2014 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

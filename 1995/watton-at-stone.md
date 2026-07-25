@@ -9,6 +9,7 @@ date: 24/09/1995
 report: The Min batted first and made 90 for 9 wkts (all out). Watton-at-Stone replied with 91 for 0 wkts
 result: Watton-at-Stone won by 10 wkts
 parent: 1995 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

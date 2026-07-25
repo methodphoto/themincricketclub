@@ -10,6 +10,7 @@ report: Old Colfeians batted first and made 121 for 8 wkts. The Min replied with
 result: The Min won by 3 wkts
 next: reigate-pilgrims
 parent: 2000 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

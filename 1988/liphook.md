@@ -10,6 +10,7 @@ report: The Min batted first and scored 154 all out. Liphook were 111 all out in
 result: The Min won by 43 runs
 next: friars-oak
 parent: 1988 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

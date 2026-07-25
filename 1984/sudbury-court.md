@@ -10,6 +10,7 @@ report: The Min batted first, scoring 184 for 9 wkts. Sudbury Court replied with
 result: The Min won by 69 runs
 next: hendon-edgware
 parent: 1984 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

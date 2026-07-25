@@ -10,6 +10,7 @@ report: The Min batted first and made 249 for 4 wkts. Hetairoi replied with 165 
 result: The Min won by 84 runs
 next: slip-end
 parent: 1997 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

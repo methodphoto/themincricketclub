@@ -10,6 +10,7 @@ report: Newington won the toss and inserted The Min who made 201 for 9 wkts in 4
 result: The Min won by 3 runs
 next: watton-at-stone
 parent: 2018 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

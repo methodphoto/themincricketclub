@@ -10,6 +10,7 @@ report: The Min batted first and scored 163 for 7 wkts. Blindley Heath were all 
 result: The Min won by 29 runs
 next: ealonian
 parent: 1988 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

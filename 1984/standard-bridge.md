@@ -10,6 +10,7 @@ report: The Min batted first, scoring 103 for 8 wkts all out. Standard Bridge sc
 result: Standard Bridge won by 6 wkts
 next: sudbury-court
 parent: 1984 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

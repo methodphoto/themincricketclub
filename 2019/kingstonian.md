@@ -10,6 +10,7 @@ report: Kingstonian won the toss and inserted The Min who scored 198 for 9 wkts 
 result: The Min won by 59 runs
 next: railway-taverners
 parent: 2019 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

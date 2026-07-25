@@ -10,6 +10,7 @@ report: Tappers batted first and made 192 all out. The Min replied with 73 for 8
 result: Tappers won by 119 runs
 next: temple-sheen
 parent: 2004 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

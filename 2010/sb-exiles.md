@@ -10,6 +10,7 @@ report: SB Exiles batted first and made 212 for 7 wkts. The Min replied with 122
 result: Match Drawn
 next: reigate-pilgrims
 parent: 2010 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

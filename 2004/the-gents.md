@@ -10,6 +10,7 @@ report: The Min batted first and made 211 for 2 wkts in 31 overs (out of 35). Th
 result: Match abandoned as a Draw
 next: brookwood
 parent: 2004 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

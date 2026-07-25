@@ -10,6 +10,7 @@ report: The Min batted first and scored 201 for 6 wkts. South Nutfield were 175 
 result: Match Drawn
 next: antilles
 parent: 1988 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

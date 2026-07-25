@@ -9,6 +9,7 @@ report: The Min batted first and made 220 for 7 wkts. Blagdon were all out for 1
 result: The Min won by 51 runs
 next: broadway-and-horton
 parent: 2024 Fixtures
+nav_order: 5
 ---
 
 {% include newMatchDetails %}

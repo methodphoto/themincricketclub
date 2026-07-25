@@ -10,6 +10,7 @@ report: Stowting batted first and made 207 for 3 wkts. The Min replied with 165 
 result: Match Drawn
 next: kilmington-and-stourton
 parent: 2004 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

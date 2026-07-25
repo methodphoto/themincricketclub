@@ -10,6 +10,7 @@ report: The Min won the toss and for some reason batted first on a sticky wicket
 result: Newdigate won by 8 wkts
 next: cerne-valley
 parent: 2019 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

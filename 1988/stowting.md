@@ -10,6 +10,7 @@ report: The Min batted first and made 200 for 7 wkts. Stowting replied with 109 
 result: The Min won by 89 runs
 next: harpenden
 parent: 1988 Fixtures
+nav_order: 15
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Limpsfield batted first and made 251 for 3 wkts. The Min were all out fo
 result: Limpsfield won by 128 runs
 next: brook
 parent: 1990 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Newington batted first and made 147 all out. The Min replied with 151 fo
 result: The Min won by 7 wkts
 next: horningsham
 parent: 2012 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Watton-at-Stone batted first and were all out for 139. The Min made 143 
 result: The Min won by 1 wkt
 next: flamingo
 parent: 1989 Fixtures
+nav_order: 18
 ---
 
 {% include matchDetails %}

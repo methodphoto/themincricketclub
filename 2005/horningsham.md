@@ -10,6 +10,7 @@ report: The Min batted first and made 228 for 6 wkts. Horningsham replied with 1
 result: The Min won by 117 runs
 next: selling
 parent: 2005 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

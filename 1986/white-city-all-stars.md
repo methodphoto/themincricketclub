@@ -10,6 +10,7 @@ report: White City All Stars batted first and were bowled out for 161. The Min r
 result: White City All Stars won by 17 runs
 next: brook
 parent: 1986 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

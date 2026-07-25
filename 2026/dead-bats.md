@@ -9,6 +9,7 @@ report: Dead Bats won the toss and inserted The Min who made 235 for 7 wkts in 3
 result: The Min won by 43 runs
 next: 
 parent: 2026 Fixtures
+nav_order: 2
 ---
 
 {% include newMatchDetails %}

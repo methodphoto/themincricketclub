@@ -10,6 +10,7 @@ report: West Green batted first and scored 130 for 6 wkts. The Min were bowled o
 result: West Green won by 41 runs
 next: artisans
 parent: 1985 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

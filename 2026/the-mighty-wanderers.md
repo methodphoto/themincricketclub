@@ -9,6 +9,7 @@ report: The Min won the toss and inserted The Mighty Wanderers who made 118 all 
 result: The Min won by 7 wkts
 next: 
 parent: 2026 Fixtures
+nav_order: 1
 ---
 
 {% include newMatchDetails %}

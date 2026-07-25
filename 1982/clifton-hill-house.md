@@ -10,6 +10,7 @@ report: The Min scored 111-5 in their 20 overs. Clifton Hill House were 83-9 aft
 result: The Min won by 28 runs
 next: a-good-length
 parent: 1982 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

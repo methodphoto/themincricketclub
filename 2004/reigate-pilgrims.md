@@ -10,6 +10,7 @@ report: The Min batted first and made 169 for 9 wkts (all out) . Reigate Pilgrim
 result: Reigate Pilgrims won by 7 wkts
 next: iver-heath
 parent: 2004 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

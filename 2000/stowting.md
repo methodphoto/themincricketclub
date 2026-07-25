@@ -10,6 +10,7 @@ report: The Min batted first and made 109 all out
 result: The Min won by 44 runs
 next: watton-at-stone
 parent: 2000 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

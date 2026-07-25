@@ -10,6 +10,7 @@ report: The Min won the toss and inserted Frensham, who made 198 for 7 wkts. The
 result: The Min won by 7 wkts
 next: newdigate
 parent: 2017 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

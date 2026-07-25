@@ -10,6 +10,7 @@ report: Horningsham batted first and scored 168 for 9 wkts. The Min replied with
 result: Horningsham won by 116 runs
 next: godstone
 parent: 1987 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

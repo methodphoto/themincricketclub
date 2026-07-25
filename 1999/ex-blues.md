@@ -10,6 +10,7 @@ report: Ex-Blues batted first and made 221 for 3 wkts. The Min replied with 147 
 result: Ex Blues won by 74 runs
 next: hetairoi
 parent: 1999 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

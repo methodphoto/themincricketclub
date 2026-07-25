@@ -10,6 +10,7 @@ report: The Min batted first and were all out for 53. Shamrock were 33 for 1 whe
 result: Match Drawn
 next: logica
 parent: 1985 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

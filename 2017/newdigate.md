@@ -10,6 +10,7 @@ report: The Min won the toss and inserted Newdigate who made 196 for 7 wkts  The
 result: Match Drawn
 next: watton-at-stone
 parent: 2017 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

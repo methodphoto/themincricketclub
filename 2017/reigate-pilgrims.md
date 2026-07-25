@@ -10,6 +10,7 @@ report: Reigate won the toss and inserted The Min, who made 140-9 (all out)  Rei
 result: Reigate Pilgrims won by 5 wkts
 next: selling
 parent: 2017 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

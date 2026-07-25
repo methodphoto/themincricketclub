@@ -9,6 +9,7 @@ report: Highgate won the toss and batted first making 149 for 8 wkts in 35 overs
 result: Highgate Irregulars won by 14 runs
 next: 
 parent: 2025 Fixtures
+nav_order: 2
 ---
 
 {% include newMatchDetails %}

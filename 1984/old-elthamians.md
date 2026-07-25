@@ -10,6 +10,7 @@ report: Old Elthamians batted first and were bowled out for 157. The Min replied
 result: The Min won by 2 wkts
 next: nick-hoares-xi
 parent: 1984 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

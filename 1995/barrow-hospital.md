@@ -10,6 +10,7 @@ report: Barrow Hospital batted first and made 119 for 6 wkts in 20 overs. The Mi
 result: The Min won by 4 wkts
 next: broadway-and-horton
 parent: 1995 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

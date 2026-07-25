@@ -10,6 +10,7 @@ report: Great Tew batted first and made 184 for 9 wkts. The Min replied with 118
 result: The Min won by 4 wkts
 next: wickford
 parent: 1996 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

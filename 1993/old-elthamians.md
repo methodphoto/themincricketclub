@@ -10,6 +10,7 @@ report: Old Elthamians batted first and made 238 for 4 wkts. The Min replied wit
 result: The Min won by 6 wkts
 next: icl-bracknell
 parent: 1993 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

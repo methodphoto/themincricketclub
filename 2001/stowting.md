@@ -10,6 +10,7 @@ report: The Min batted first and made 204 for 8 wkts. Stowting replied with 208 
 result: Stowting won by 1 wkt
 next: watton-at-stone
 parent: 2001 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

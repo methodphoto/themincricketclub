@@ -10,6 +10,7 @@ report: The Min batted first and made 193 for 9 wkts. Ockley replied with 119 fo
 result: Match Drawn
 next: old-elthamians
 parent: 1989 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

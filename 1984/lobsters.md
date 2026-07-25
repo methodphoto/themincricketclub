@@ -10,6 +10,7 @@ report: The Min batted first and made 142 all out. Lobsters were all out for 136
 result: The Min won by 6 runs
 next: harrowdene
 parent: 1984 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 157 for 8 wkts. Farnborough replied with 1
 result: The Min won by 35 runs
 next: captain-scott
 parent: 1996 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Broadway and Horton batted first and made 204 for 7 wkts in 40 overs. Th
 result: Broadway and Horton won by 21 runs
 next: land-warfare-xi
 parent: 2003 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

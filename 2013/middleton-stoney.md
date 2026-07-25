@@ -10,6 +10,7 @@ report: Middleton Stoney batted first and made 162 for 6 wkts. The Min replied w
 result: Match Drawn
 next: britwell-salome
 parent: 2013 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

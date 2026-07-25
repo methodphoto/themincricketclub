@@ -9,6 +9,7 @@ date: 19/09/2021
 report: Selling won the toss and batted first, scoring 110 for 9 wkts (all out). The Min made 113 for 6 wkts in reply.
 result: The Min won by 6 wkts
 parent: 2021 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

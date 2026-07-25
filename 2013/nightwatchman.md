@@ -10,6 +10,7 @@ report: Nightwatchman batted first and made 196 for 7 wkts. The Min replied with
 result: The Min won by 6 wkts
 next: newington
 parent: 2013 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 178 for 9 wkts. Great Tew replied with 153
 result: Match Drawn
 next: antilles
 parent: 1993 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

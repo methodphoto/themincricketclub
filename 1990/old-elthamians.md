@@ -10,6 +10,7 @@ report: The Min batted first and made 112 all out. Old Elthamians replied with 8
 result: Match Drawn
 next: little-kingshill
 parent: 1990 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

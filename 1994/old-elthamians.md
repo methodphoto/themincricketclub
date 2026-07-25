@@ -10,6 +10,7 @@ report: The Min batted first and were all out for 130. Old Elthamiansreplied wit
 result: Old Elthamians won by 4 wkts
 next: polytechnic-iii
 parent: 1994 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

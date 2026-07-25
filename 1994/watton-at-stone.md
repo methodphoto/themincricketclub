@@ -9,6 +9,7 @@ date: 18/09/1994
 report: Watton-at-Stone batted first and made 230 for 5 wkts. The Min replied with 127 all out
 result: Watton-at-Stone won by 103 runs
 parent: 1994 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

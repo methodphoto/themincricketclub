@@ -10,6 +10,7 @@ report: Barrow-Boys batted first and were all out for 105. The Min replied with 
 result: The Min won by 5 wkts
 next: newdigate
 parent: 1988 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

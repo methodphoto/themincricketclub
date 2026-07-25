@@ -10,6 +10,7 @@ report: The Min batted first and made 216 for 8 wkts. Brookwood replied with 149
 result: Match Drawn
 next: selling
 parent: 2004 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

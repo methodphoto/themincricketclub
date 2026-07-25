@@ -10,6 +10,7 @@ report: SB Exiles batted first and made 201 for 9 wkts. The Min replied with 71 
 result: SB Exiles won by 138 runs
 next: reigate-pilgrims
 parent: 2007 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

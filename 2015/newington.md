@@ -10,6 +10,7 @@ report: The Min batted first and made 183 for 6 wkts in 40 overs. Newington repl
 result: The Min won by 25 runs
 next: frensham
 parent: 2015 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

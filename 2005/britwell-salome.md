@@ -10,6 +10,7 @@ report: The Min batted first and made 206 for 6 wkts. Britwell Salome replied wi
 result: Match Drawn
 next: ockley
 parent: 2005 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

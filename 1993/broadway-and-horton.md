@@ -10,6 +10,7 @@ report: The Min batted first and made 184 for 5 wkts. Broadway and Horton replie
 result: Match Drawn
 next: queen-camel
 parent: 1993 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

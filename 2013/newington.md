@@ -10,6 +10,7 @@ report: Newington batted first and made 148 all out. The Min replied with 78 for
 result: Newington won by 70 runs
 next: frensham
 parent: 2013 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

@@ -9,6 +9,7 @@ date: 17/06/1982
 report: A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 94 for 9 wkts.
 result: Match Drawn
 parent: 1982 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

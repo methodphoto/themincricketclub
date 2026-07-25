@@ -10,6 +10,7 @@ report: The Min batted first and made 202 all out. Broadway and Horton replied w
 result: The Min won by 95 runs
 next: kilmington-and-stourton
 parent: 2005 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

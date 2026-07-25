@@ -10,6 +10,7 @@ report: The Min batted first and made 143 for 8 wkts
 result: Antilles won by 6 wkts
 next: the-crocodiles
 parent: 1991 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

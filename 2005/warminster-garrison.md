@@ -10,6 +10,7 @@ report: The Min batted first and made 168 for 8 wkts. Warminster Garrison replie
 result: The Min won by 44 runs
 next: horningsham
 parent: 2005 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

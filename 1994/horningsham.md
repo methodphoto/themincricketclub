@@ -10,6 +10,7 @@ report: The Min batted first and made 157 all out. Horningsham replied with 123 
 result: Match Drawn
 next: farnborough
 parent: 1994 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

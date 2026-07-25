@@ -10,6 +10,7 @@ report: Old Tauntonians batted first and made 278 for 6 wkts. The Min replied wi
 result: Old Tauntonians won by 147 runs
 next: broadway-and-horton
 parent: 1991 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

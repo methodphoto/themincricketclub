@@ -10,6 +10,7 @@ report: Ealonian batted first made 182 for 4 wkts. The Min replied with 116 for 
 result: Match Drawn
 next: old-elthamians
 parent: 1985 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

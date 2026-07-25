@@ -10,6 +10,7 @@ report: The Min batted first and made 196 for 8 wkts in 40 overs. Horningsham re
 result: The Min won by 56 runs
 next: islip
 parent: 2009 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

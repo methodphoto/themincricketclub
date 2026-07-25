@@ -9,6 +9,7 @@ date: 07/09/2014
 report: Brasted Invicta batted first and made 115 for 9 wkts. The Min replied with 116 for 5 wkts
 result: The Min won by 5 wkts
 parent: 2014 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

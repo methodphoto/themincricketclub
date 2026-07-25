@@ -10,6 +10,7 @@ report: The Min won the toss and inserted Blagdon Hill who scored 256-6 in their
 result: Blagdon Hill won by 39 runs
 next: broadway-and-horton
 parent: 2017 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

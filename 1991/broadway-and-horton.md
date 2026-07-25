@@ -10,6 +10,7 @@ report: The Min batted first and made 174 for 6 wkts. Broadway and Horton were 1
 result: Match Drawn
 next: newdigate
 parent: 1991 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

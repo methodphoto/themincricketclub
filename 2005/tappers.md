@@ -10,6 +10,7 @@ report: Tappers batted first and made 159 all out. The Min replied with 113 all 
 result: Tappers won by 46 runs
 next: newdigate
 parent: 2005 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

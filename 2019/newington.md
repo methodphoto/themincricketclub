@@ -10,6 +10,7 @@ report: Newington won the toss and batted first in a 35 over game. They scored 2
 result: Newington won by 20 runs
 next: frensham
 parent: 2019 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

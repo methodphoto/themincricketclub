@@ -10,6 +10,7 @@ report: Hetairoi batted first and scored 225 for 6 wkts. The Min replied with 22
 result: Hetairoi won by 4 runs
 next: stowting
 parent: 1989 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

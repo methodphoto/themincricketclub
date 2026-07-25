@@ -10,6 +10,7 @@ report: A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 result: The Min won by 4 wkts
 next: clifton-college
 parent: 1982 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Tappers batted first and made 117 all out. The Min replied with 118 for 
 result: The Min won by 4 wkts
 next: middleton-stoney
 parent: 2008 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

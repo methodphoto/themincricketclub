@@ -10,6 +10,7 @@ report: The Min batted first and made 259 for 3 wkts. Wareham replied with 119 f
 result: The Min won by 140 runs
 next: broadway-and-horton
 parent: 2001 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

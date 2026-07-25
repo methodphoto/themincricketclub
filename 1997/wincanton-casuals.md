@@ -10,6 +10,7 @@ report: The Min batted first and made 134 for 7 wkts in 16 overs. Wincanton Casu
 result: The Min won by 46 runs
 next: broadway-and-horton
 parent: 1997 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

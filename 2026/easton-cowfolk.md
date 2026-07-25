@@ -9,6 +9,7 @@ report: Easton Cowfolk won the toss and inserted The Min. The Min scored 207 for
 result: The Min won by 16 runs
 next: 
 parent: 2026 Fixtures
+nav_order: 7
 ---
 
 {% include newMatchDetails %}

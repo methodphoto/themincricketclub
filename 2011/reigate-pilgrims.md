@@ -10,6 +10,7 @@ report: The Min batted first and made 156 for 9 wkts. Reigate Pilgrims replied w
 result:  Reigate Pilgrims won by 3 wkts
 next: selling
 parent: 2011 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

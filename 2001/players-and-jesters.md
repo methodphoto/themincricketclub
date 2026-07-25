@@ -10,6 +10,7 @@ report: Players and Jesters batted first and made 145 for 9 wkts (all out). The 
 result: Players and Jesters won by 35 runs
 next: stowting
 parent: 2001 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Bricklayer's Arms batted first and scored 216 for 8 wkts in 35 overs. Th
 result: Bricklayer's Arms won by 43 runs
 next: blagdon-hill
 parent: 2021 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

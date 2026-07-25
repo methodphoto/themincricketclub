@@ -10,6 +10,7 @@ report: The Min batted first and scored 174 all out in 39.5 overs. Blagdon Hill 
 result: The Min won by 49 runs
 next: broadway-and-horton
 parent: 2015 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

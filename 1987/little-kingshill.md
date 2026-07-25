@@ -10,6 +10,7 @@ report: Little Kingshill batted first and made 170 all out. The Min were bowled 
 result: Little Kingshill won by 118 runs
 next: rhinos
 parent: 1987 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

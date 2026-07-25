@@ -9,6 +9,7 @@ report: Pilgrims won the toss and inserted The Min who made 193 for 8 wkts in 40
 result: Match Drawn
 next: 
 parent: 2024 Fixtures
+nav_order: 9
 ---
 
 {% include newMatchDetails %}

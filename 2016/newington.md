@@ -10,6 +10,7 @@ report: Newington batted first and made 194 for 3 wkts in 40 overs. The Min repl
 result: The Min won by 3 wkts
 next: frensham
 parent: 2016 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 158 all out. Rain started at tea and did n
 result: Match Abandoned
 next: littlewick-green
 parent: 1996 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

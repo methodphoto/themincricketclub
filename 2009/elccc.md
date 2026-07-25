@@ -10,6 +10,7 @@ report: ELCCC batted first and made 282 all out in 38.3 overs. The Min replied w
 result: ELCCC won by 67 runs
 next: sb-exiles
 parent: 2009 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

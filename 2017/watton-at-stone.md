@@ -10,6 +10,7 @@ report: Watton-at-Stone won the toss and inserted The Min who made 107 all out. 
 result: Watton-at-Stone won by 7 wkts
 next: blagdon-hill
 parent: 2017 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

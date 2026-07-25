@@ -10,6 +10,7 @@ report: Hetairoi batted first and made 191 for 8 wkts. The Min replied with 195 
 result: The Min won by 5 wkts
 next: white-lion
 parent: 1995 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

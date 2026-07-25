@@ -10,6 +10,7 @@ report: Reigate Pilgrims batted first and scored 224 for 7 wkts. The Min replied
 result: The Min won by 1 wkt
 next: watton-at-stone
 parent: 1991 Fixtures
+nav_order: 16
 ---
 
 {% include matchDetails %}

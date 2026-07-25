@@ -10,6 +10,7 @@ report: The Min batted first and scored 175 for 6 wkts. Ockley were 93 for 9 wkt
 result: Match Drawn
 next: newdigate
 parent: 2009 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

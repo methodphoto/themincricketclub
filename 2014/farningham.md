@@ -10,6 +10,7 @@ report: Farningham batted first and made 142 for 8 wkts in 40 overs. The Min rep
 result: The Min won by 3 wkts
 next: 
 parent: 2014 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Tappers batted first and made 230 for 8 wkts. The Min replied with 165 f
 result: Match Drawn
 next: barrow-hospital
 parent: 1995 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

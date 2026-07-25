@@ -10,6 +10,7 @@ report: The Min batted first and made 166 for 8 wkts. Tappers replied with 140 f
 result: Match Drawn
 next: selling
 parent: 2002 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

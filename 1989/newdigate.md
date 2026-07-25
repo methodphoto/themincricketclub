@@ -10,6 +10,7 @@ report: Newdigate batted first and made 165 all out. The Min replied with 138 fo
 result: Match Drawn
 next: hetairoi
 parent: 1989 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

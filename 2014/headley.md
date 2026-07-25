@@ -9,6 +9,7 @@ date: 21/09/2014
 report: The Min batted first and made 142 all out. Headley replied with 147 for 4 wkts
 result: Headley won by 6 wkts
 parent: 2014 Fixtures
+nav_order: 15
 ---
 
 {% include matchDetails %}

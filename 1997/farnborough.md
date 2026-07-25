@@ -10,6 +10,7 @@ report: The Min batted first and made 168 for 8 wkts. Farnborough replied with 1
 result: The Min won by 57 runs
 next: captain-scott
 parent: 1997 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

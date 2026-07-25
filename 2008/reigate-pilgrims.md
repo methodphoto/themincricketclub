@@ -10,6 +10,7 @@ report: Reigate Pilgrims batted first and made 166 for 8 wkts. The Min replied w
 result: Match Drawn
 next: selling
 parent: 2008 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

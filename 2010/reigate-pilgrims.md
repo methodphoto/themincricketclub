@@ -10,6 +10,7 @@ report: The Min batted first and made 173 for 8 wkts. Reigate Pilgrims replied w
 result: The Min won by 69 runs
 next: spencer
 parent: 2010 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

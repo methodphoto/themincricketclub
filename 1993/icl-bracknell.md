@@ -10,6 +10,7 @@ report: ICL Bracknell batted first and made 95 all out. The Min replied with 99 
 result: The Min won by 4 wkts
 next: broadway-and-horton
 parent: 1993 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 185 for 5 wkts. Reigate replied with 123 f
 result: Match Drawn
 next: selling
 parent: 2016 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

@@ -9,6 +9,7 @@ report: The Min batted first and made 236 for 7 wkts. Broadway were all out for 
 result: The Min won by 26 runs
 next: hornchurch-athletic
 parent: 2024 Fixtures
+nav_order: 6
 ---
 
 {% include newMatchDetails %}

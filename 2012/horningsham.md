@@ -10,6 +10,7 @@ report: The Min batted first and were all out for 58. Horningsham replied with 6
 result: Horningsham won by 5 wkts
 next: newdigate
 parent: 2012 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

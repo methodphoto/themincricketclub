@@ -10,6 +10,7 @@ report: Tower of Dudes batted first and made 179 all out. The Min replied with 1
 result: The Min won by 9 wkts
 next: reigate-pilgrims
 parent: 2009 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

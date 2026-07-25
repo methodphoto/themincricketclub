@@ -10,6 +10,7 @@ report: The Min batted first and made 225 all out. Shepton Beauchamp replied wit
 result: The Min won by 98 runs
 next: dowlish-wake
 parent: 1992 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

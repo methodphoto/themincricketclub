@@ -10,6 +10,7 @@ report: Broadway and Horton batted first and made 148 for 7 wkts (40 overs). The
 result: Match Abandoned as a Draw
 next: acme
 parent: 2002 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

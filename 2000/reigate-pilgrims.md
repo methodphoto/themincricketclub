@@ -9,6 +9,7 @@ date: 17/09/2000
 report: Reigate Pilgrims batted first and made 143 for 7 wkts. The Min replied with 146 for 5 wkts
 result: The Min won by 5 wkts
 parent: 2000 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

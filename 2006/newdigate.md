@@ -10,6 +10,7 @@ report: Newdigate batted first and made 92 all out. The Min replied with 47 for 
 result: Newdigate won by 45 runs
 next: hsbc
 parent: 2006 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

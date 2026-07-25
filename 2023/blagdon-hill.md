@@ -9,6 +9,7 @@ report: Blagdon Hill won the toss and batted first scoring 232 for 8 wkts in 35 
 result: Blagdon Hill won by 8 wkts
 next: broadway-and-horton
 parent: 2023 Fixtures
+nav_order: 4
 ---
 
 {% include newMatchDetails %}

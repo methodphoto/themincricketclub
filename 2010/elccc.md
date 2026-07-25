@@ -10,6 +10,7 @@ report: ELCCC batted first and made 96 for 9 wkts (all out). The Min replied wit
 result: The Min won by 5 wkts
 next: middleton-stoney
 parent: 2010 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

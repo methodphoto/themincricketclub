@@ -10,6 +10,7 @@ report: Banstead won the toss and batted first making 270 for 3 wkts in 40 overs
 result: Banstead won by 142 runs
 next: reigate-pilgrims
 parent: 2022 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

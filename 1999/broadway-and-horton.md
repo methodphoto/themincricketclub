@@ -10,6 +10,7 @@ report: Broadway and Horton batted first and made 141 for 8 wkts (40 overs). The
 result: Broadway and Horton won by 28 runs
 next: ex-blues
 parent: 1999 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

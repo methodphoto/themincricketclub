@@ -10,6 +10,7 @@ report: Chiswick Flyovers batted first and made 135 for 8 wkts. The Min were bun
 result: Chiswick Flyovers won by 75 runs
 next: ealonian
 parent: 1984 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

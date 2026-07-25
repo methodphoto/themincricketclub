@@ -10,6 +10,7 @@ report: Britwell Salome batted first and made 161 for 4 wkts. The Min were 55 fo
 result: Match Abandoned as a Draw
 next: nightwatchman
 parent: 2015 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 114 all out. Tappers replied with 117 for 
 result: Tappers won by 4 wkts
 next: old-colfeians
 parent: 1999 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

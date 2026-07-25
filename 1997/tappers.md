@@ -10,6 +10,7 @@ report: The Min batted first and made 155 all out. Tappers replied with 156 for 
 result: Tappers won by 2 wkts
 next: great-braxted
 parent: 1997 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

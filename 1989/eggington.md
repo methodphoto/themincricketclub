@@ -10,6 +10,7 @@ report: The Min batted first and made 189 for 5 wkts. Eggington replied with 120
 result: Match Drawn
 next: watton-at-stone
 parent: 1989 Fixtures
+nav_order: 17
 ---
 
 {% include matchDetails %}

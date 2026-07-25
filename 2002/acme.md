@@ -10,6 +10,7 @@ report: The Min batted first and made 73 all out. ACME replied with 74 for 2 wkt
 result: ACME won by 8 wkts
 next: hetairoi
 parent: 2002 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

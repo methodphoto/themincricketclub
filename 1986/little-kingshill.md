@@ -10,6 +10,7 @@ report: Little Kingshill batted first and scored 177 for 4 wkts. The Min replied
 result: The Min won by 6 wkts
 next: white-city-all-stars
 parent: 1986 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

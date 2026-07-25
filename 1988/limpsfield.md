@@ -10,6 +10,7 @@ report: Limpsfield batted first scoring 210 for 6 wkts. The Min replied with 211
 result: The Min won by 3 wkts
 next: blindley-heath
 parent: 1988 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

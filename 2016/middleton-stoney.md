@@ -10,6 +10,7 @@ report: Middleton Stoney won the toss and batted first, making 119 for 7. The Mi
 result: The Min won by 5 wkts
 next: nightwatchman
 parent: 2016 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

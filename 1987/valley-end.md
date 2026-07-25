@@ -10,6 +10,7 @@ report: Valley End batted first and scored 146 all out. The Min replied with 150
 result: The Min won by 5 wkts
 next: lobsters
 parent: 1987 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

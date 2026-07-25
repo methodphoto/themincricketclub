@@ -9,6 +9,7 @@ report: Belhus won the toss and batted first and made 129 fo 9 wkts in 35 overs.
 result: The Min won by 7 wkts
 next: railway-taverners
 parent: 2023 Fixtures
+nav_order: 7
 ---
 
 {% include newMatchDetails %}

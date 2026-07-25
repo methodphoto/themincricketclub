@@ -10,6 +10,7 @@ report: Reigate Pilgrims batted first and made 195 for 3 wkts. The Min replied w
 result: Match Drawn
 next: hornchurch
 parent: 2005 Fixtures
+nav_order: 15
 ---
 
 {% include matchDetails %}

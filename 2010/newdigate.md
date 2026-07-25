@@ -10,6 +10,7 @@ report: The Min batted first and made 165 all out. Newdigate replied with 94 all
 result: The Min won by 71 runs
 next: watton-at-stone
 parent: 2010 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

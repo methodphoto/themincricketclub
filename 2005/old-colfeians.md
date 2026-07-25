@@ -10,6 +10,7 @@ report: Old Colfeians batted first and made 157 all out. The Min replied with 10
 result: Old Colfeians won by 54 runs
 next: tappers
 parent: 2005 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

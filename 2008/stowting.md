@@ -10,6 +10,7 @@ report: Stowting batted first and made 146 for 8 wkts. The Min replied with 147 
 result: The Min won by 8 wkts
 next: broadway-and-horton
 parent: 2008 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

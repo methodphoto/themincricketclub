@@ -10,6 +10,7 @@ report: Broadway and Horton batted first and made 147 for 9 wkts in 40 overs. Th
 result: The Min won by 3 wkts
 next: horningsham
 parent: 1995 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

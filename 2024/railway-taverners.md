@@ -9,6 +9,7 @@ report: The Min won the toss and inserted Railway Taverners who made 237 for 7 w
 result: Railway Taverners won by 70 runs
 next: reigate-pilgrims
 parent: 2024 Fixtures
+nav_order: 8
 ---
 
 {% include newMatchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and were bowled out for 126. British Legion Rickman
 result: British Legion Rickmansworth won by 8 wkts
 next: old-elthamians
 parent: 1984 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

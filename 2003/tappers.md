@@ -10,6 +10,7 @@ report: Tappers batted first and made 179 all out. The Min replied with 107 for 
 result: Tappers won by 72 runs
 next: selling
 parent: 2003 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

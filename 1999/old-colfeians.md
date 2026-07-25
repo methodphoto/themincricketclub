@@ -10,6 +10,7 @@ report: The Min batted first and made 196 for 7 wkts. Old Colfeians replied with
 result: The Min won by 81 runs
 next: reigate-pilgrims
 parent: 1999 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

@@ -9,6 +9,7 @@ date: 20/09/1992
 report: Watton-at-Stone batted firsdt and made 165 for 7 wkts. The Min replied with 69 all out
 result: Watton-at-Stone won by 96 runs
 parent: 1992 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

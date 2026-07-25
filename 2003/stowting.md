@@ -10,6 +10,7 @@ report: The Min batted first and made 191 for 9 wkts. Stowting replied with 136 
 result: Match Drawn
 next: wareham
 parent: 2003 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

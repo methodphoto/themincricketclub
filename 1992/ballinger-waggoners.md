@@ -10,6 +10,7 @@ report: The Min batted first and made193 for 9 wkts (all out). Ballinger Waggone
 result: Match Drawn
 next: ockley-road-bromley
 parent: 1992 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

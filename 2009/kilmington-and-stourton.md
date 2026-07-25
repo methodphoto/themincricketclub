@@ -10,6 +10,7 @@ report: The Min batted first and made 215 all out in 33.5 overs. Kilmington and 
 result: Match abandoned as a Draw
 next: horningsham
 parent: 2009 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

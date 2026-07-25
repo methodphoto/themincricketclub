@@ -10,6 +10,7 @@ report: The Min batted first and made 193 for 7 wkts. Knapp replied with 145 all
 result: The Min won by 48 runs
 next: hartswood-occasionals
 parent: 1998 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

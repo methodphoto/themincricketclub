@@ -10,6 +10,7 @@ report: The Min scored 103 for 4 wkts. Wills Hall were 56 for 7 when time ran ou
 result: The Min won by 47 runs
 next: leyhill
 parent: 1982 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

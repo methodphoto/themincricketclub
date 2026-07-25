@@ -10,6 +10,7 @@ report: Broadway and Horton batted first and made 111 for 9 wkts (all out). The 
 result: The Min won by 8 wkts
 next: knapp
 parent: 1998 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

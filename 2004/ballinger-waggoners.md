@@ -10,6 +10,7 @@ report: The Min batted first and made 129 all out. Ballinger Waggoners replied w
 result: Ballinger Waggoners won by 3 wkts
 next: newdigate
 parent: 2004 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

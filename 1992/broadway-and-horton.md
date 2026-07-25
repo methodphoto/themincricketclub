@@ -10,6 +10,7 @@ report: Broadway and Horton batted first and made 163 all out. The Min replied w
 result: Broadway and Horton won by 17 runs
 next: shepton-beauchamp
 parent: 1992 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

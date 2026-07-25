@@ -10,6 +10,7 @@ report: The Min batted first and made 228 for 1 wkt. Dowlish Wake were bowled ou
 result: The Min won by 159 runs
 next: checkendon
 parent: 1992 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

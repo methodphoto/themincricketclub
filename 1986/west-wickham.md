@@ -10,6 +10,7 @@ report: West Wickham batted first made 162 all out. The Min replied with 163 for
 result: The Min won by 2 wkts
 next: old-elthamians
 parent: 1986 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

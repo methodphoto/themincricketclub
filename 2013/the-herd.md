@@ -10,6 +10,7 @@ report: The Min batted first and made 103 for 9 wkts (all out). The Herd replied
 result: The Herd won by 4 wkts
 next: watton-at-stone
 parent: 2013 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Stowting batted first and made 177 for 7 wkts. The Min replied with 119 
 result: Match Drawn
 next: watton-at-stone
 parent: 1998 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

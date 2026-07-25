@@ -10,6 +10,7 @@ report: The Min batted first and made 173 for 9 wkts (all out). Reigate Pilgrims
 result: Reigate Pilgrims won by 2 wkts
 next: watton-at-stone
 parent: 1994 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

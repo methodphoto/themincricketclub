@@ -10,6 +10,7 @@ report: The Min won the toss and inserted Middleton Stoney who made 205 for 3 wk
 result: Match Drawn
 next: bricklayers-arms
 parent: 2022 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

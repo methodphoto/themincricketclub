@@ -10,6 +10,7 @@ report: The Min batted first and made 192 for 8 wkts. Antilles replied with 193 
 result: Antilles won by 2 wkts
 next: old-elthamians
 parent: 1993 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Kilmington and Stourton batted first and made 152 all out. The Min repli
 result: Kilmington and Stourton won by 52 runs
 next: horningsham
 parent: 2010 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

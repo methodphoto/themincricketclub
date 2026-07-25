@@ -10,6 +10,7 @@ report: Lobsters batted first and scored 125 for 7 wkts. The Min replied with 97
 result: Lobsters won by 28 runs
 next: a-good-length-2
 parent: 1982 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

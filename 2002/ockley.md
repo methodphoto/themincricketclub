@@ -10,6 +10,7 @@ report: Ockley batted first and made 91 all out. The Min replied with 94 for 5 w
 result: The Min won by 5 wkts
 next: players-and-jesters
 parent: 2002 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

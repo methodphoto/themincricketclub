@@ -10,6 +10,7 @@ report: Old Elthamians batted first and scored 102 for 11 wkts (all out). The Mi
 result: The Min won by 3 wkts
 next: valley-end
 parent: 1991 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

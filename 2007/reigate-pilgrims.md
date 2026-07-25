@@ -10,6 +10,7 @@ report: Reigate Pilgrims batted first and made 160 all out. The Min replied with
 result: Match Drawn
 next: watton-at-stone
 parent: 2007 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

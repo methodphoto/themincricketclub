@@ -10,6 +10,7 @@ report: The Min batted first and made 186 for 6 wkts. Newdigate were 35 for 5 wk
 result: Match Abandoned as a Draw
 next: hetairoi
 parent: 1991 Fixtures
+nav_order: 12
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: University College, Oxford batted first and made 198 for 7 wkts. The Min
 result: University College, Oxford won by 24 runs
 next: limpsfield
 parent: 1990 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

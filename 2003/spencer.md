@@ -10,6 +10,7 @@ report: Spencer batted first and made 76 all out. The Min replied with 78 for 4 
 result: The Min won by 6 wkts
 next: reigate-pilgrims
 parent: 2003 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

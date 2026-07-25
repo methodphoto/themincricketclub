@@ -10,6 +10,7 @@ report: Antilles batted first and made 210 for 8 wkts in 40 overs. The Min repli
 result: Antilles won by 11 runs
 next: ballinger-waggoners
 parent: 1992 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 135 all out. Hetairoi replied with 139 for
 result: Hetairoi won by 1 wkt
 next: reigate-pilgrims
 parent: 1998 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

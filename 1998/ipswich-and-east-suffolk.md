@@ -10,6 +10,7 @@ report: The Min batted first and made 206 for 4 wkts Ipswich and East Suffolk re
 result: Ipswich and East Suffolk won by 2 wkts
 next: hetairoi
 parent: 1998 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

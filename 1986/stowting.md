@@ -10,6 +10,7 @@ report: Stowting batted first made 170 all out. The Min were all out for 96 in r
 result: Stowting won by 74 runs
 next: 
 parent: 1986 Fixtures
+nav_order: 15
 ---
 
 {% include matchDetails %}

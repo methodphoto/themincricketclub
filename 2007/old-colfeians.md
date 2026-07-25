@@ -10,6 +10,7 @@ report: The Min batted first and made 122 all out. Old Colfeians replied with 12
 result: Old Colfeians won by 1 wkt
 next: tappers
 parent: 2007 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

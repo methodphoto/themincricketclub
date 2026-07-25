@@ -10,6 +10,7 @@ report: The Min won the toss and fielded first, bowling Middleton Stoney out for
 result: The Min won by 9 wkts
 next: elccc
 parent: 2012 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 179 all out in 38.3 overs. Railway Taverne
 result: The Min won by 31 runs
 next: banstead
 parent: 2020 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

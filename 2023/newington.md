@@ -9,6 +9,7 @@ report: Newington won the toss and batted first scoring 272 for 8 wkts in 35 ove
 result: Newington won by 62 runs
 next: stowting
 parent: 2023 Fixtures
+nav_order: 1
 ---
 
 {% include newMatchDetails %}

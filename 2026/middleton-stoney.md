@@ -9,6 +9,7 @@ report: The Min won the toss and inserted Middleton Stoney who made 166 for 8 wk
 result: Middleton Stoney won by 15 runs
 next: blagdon-hill
 parent: 2026 Fixtures
+nav_order: 4
 ---
 
 {% include newMatchDetails %}

@@ -10,6 +10,7 @@ report: Wareham batted first and made 254 for 7 wkts (all out). The Min replied 
 result: Match Drawn
 next: broadway-and-horton
 parent: 2003 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

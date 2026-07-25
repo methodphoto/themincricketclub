@@ -10,6 +10,7 @@ report: Horningsham batted first and made 177 for 8 wkts. The Min replied with 1
 result: The Min won by 2 wkts
 next: farnborough
 parent: 1995 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

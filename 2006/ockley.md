@@ -10,6 +10,7 @@ report: Ockley batted first and made 104 all out. The Min replied with 109 for 5
 result: The Min won by 5 wkts
 next: tappers
 parent: 2006 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

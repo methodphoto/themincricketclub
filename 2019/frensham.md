@@ -10,6 +10,7 @@ report: Frensham batted first and made 192 for 9 wkts. The Min replied with 196 
 result: The Min won by 4 wkts
 next: newdigate
 parent: 2019 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

@@ -9,6 +9,7 @@ date: 13/09/2020
 report: The Min batted first and made 144 for 9 wkts. The Reigate Piligims replied with 145 for 7 wickets
 result: Reigate Pilgrims won by 3 wkts
 parent: 2020 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

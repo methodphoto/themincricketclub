@@ -10,6 +10,7 @@ report: Godstone batted first and were 132 all out. The Min made 133 for 2 wkts 
 result: The Min won by 8 wts
 next: valley-end
 parent: 1987 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

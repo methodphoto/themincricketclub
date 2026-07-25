@@ -9,6 +9,7 @@ date: 24/09/2006
 report: The Min batted first and made 159 for 8 wkts in 35 overs. Sanderstead replied with 140 for 9 wkts in 35 overs
 result: The Min won by 19 runs
 parent: 2006 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

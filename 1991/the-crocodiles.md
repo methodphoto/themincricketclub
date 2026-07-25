@@ -10,6 +10,7 @@ report: The Min batted first and made 178 for 6 wkts. The Crocodiles were bowled
 result: The Min won by 26 runs
 next: hamsey-green
 parent: 1991 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

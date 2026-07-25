@@ -10,6 +10,7 @@ report: Newdigate batted first made 54 all out. The Min replied with 57 for 5 wk
 result: The Min won by 5 wkts
 next: harrow-3rd-xi
 parent: 1986 Fixtures
+nav_order: 13
 ---
 
 {% include matchDetails %}

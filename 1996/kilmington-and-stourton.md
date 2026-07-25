@@ -10,6 +10,7 @@ report: The Min batted first and made 163 for 8 wkts. Kilmington and Stourton re
 result: Match Drawn
 next: farnborough
 parent: 1996 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

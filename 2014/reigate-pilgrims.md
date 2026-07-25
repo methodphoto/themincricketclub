@@ -10,6 +10,7 @@ report: The Min batted first and made 164 for 6 wkts. Reigate Pilgrims replied w
 result: Match Drawn
 next: headley
 parent: 2014 Fixtures
+nav_order: 14
 ---
 
 {% include matchDetails %}

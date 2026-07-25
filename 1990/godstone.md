@@ -10,6 +10,7 @@ report: Godstone batted first and made 60 all out. The Min made 61 for 5 wkts in
 result: The Min won by 5 wkts
 next: old-tauntonians
 parent: 1990 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

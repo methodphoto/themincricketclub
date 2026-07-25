@@ -9,6 +9,7 @@ date: 10/07/2014
 report: The Min batted first and made 198 for 7 wkts in 40 overs. Broadway and Horton replied with 102 all out in 23.2 overs
 result: The Min won by 96 runs
 parent: 2014 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

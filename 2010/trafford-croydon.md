@@ -10,6 +10,7 @@ report: Trafford Croydon batted first and made 115 all out. The Min replied with
 result: The Min won by 5 wkts
 next: elccc
 parent: 2010 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

@@ -9,6 +9,7 @@ report: Broadway and Horton won the toss and batted first scoring 194 for 8 wkts
 result: The Min regained The Ashes by 3 wkts
 next: banstead
 parent: 2023 Fixtures
+nav_order: 5
 ---
 
 {% include newMatchDetails %}

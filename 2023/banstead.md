@@ -9,6 +9,7 @@ report: Banstead won the toss and batted first but were all out for 75 in 28.1 o
 result: The Min won by 5 wkts
 next: belhus
 parent: 2023 Fixtures
+nav_order: 6
 ---
 
 {% include newMatchDetails %}

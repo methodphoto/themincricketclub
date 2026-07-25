@@ -10,6 +10,7 @@ report: Reigate Pilgrims batted first and made 183 all out. The Min replied with
 result: Match Drawn
 next: stoke-dabernon
 parent: 2012 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and made 232 for 8 wkts. Horningsham replied with 2
 result: Match Drawn
 next: old-mid-whitgiftians
 parent: 2006 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

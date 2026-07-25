@@ -10,6 +10,7 @@ report: The Min batted first and made 166 all out. Horningsham replied with 113 
 result: Match Drawn
 next: sac-xi
 parent: 2011 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

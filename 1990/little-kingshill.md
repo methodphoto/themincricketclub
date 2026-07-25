@@ -10,6 +10,7 @@ report: Little Kingshill batted first made 235 for 3 wkts. The Min replied with 
 result: Match Drawn
 next: university-college-oxford
 parent: 1990 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

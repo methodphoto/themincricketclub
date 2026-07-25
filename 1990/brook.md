@@ -10,6 +10,7 @@ report: Brook scored 241 for 1 wkt. The Min replied with 170 for 9 wkts (all out
 result: Brook won by 71 runs
 next: abinger-hammer
 parent: 1990 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

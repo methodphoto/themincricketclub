@@ -9,6 +9,7 @@ report: Railway Taverners won the toss and inserted The Min, who made 266 for 8 
 result: The Min won by 25 runs
 next: 
 parent: 2025 Fixtures
+nav_order: 8
 ---
 
 {% include newMatchDetails %}

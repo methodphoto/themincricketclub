@@ -10,6 +10,7 @@ report: The Min batted first and made 191 for 3 wkts. Players and Jesters replie
 result: Match Drawn
 next: stowting
 parent: 1998 Fixtures
+nav_order: 2
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: Watton-at-Stone batted first and made 204 for 5 wkts. The Min replied wi
 result: The Min won by 2 wkts
 next: stowting
 parent: 2009 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

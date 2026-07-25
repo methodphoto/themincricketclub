@@ -10,6 +10,7 @@ report: The Min batted first and made 203 for 6 wkts. Shottermill were all out f
 result: The Min won by 49 runs
 next: tappers
 parent: 2000 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Min batted first and were dismissed for 26. Checkendon replied with 
 result: Checkendon won by 9 wkts
 next: long-hanborough
 parent: 1992 Fixtures
+nav_order: 10
 ---
 
 {% include matchDetails %}

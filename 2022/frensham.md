@@ -10,6 +10,7 @@ report: Fresham won the toss and inserted The Min who made 217 all out in 33.5 o
 result: Frensham won by 5 wkts
 next: st-annes-allstars
 parent: 2022 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}

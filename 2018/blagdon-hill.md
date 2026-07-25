@@ -10,6 +10,7 @@ report: The Min won the toss and batted first but only made 139 for 8 wkts in th
 result: Blagdon Hill won by 5 wkts
 next: broadway-and-horton
 parent: 2018 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

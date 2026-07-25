@@ -10,6 +10,7 @@ report: The Min batted first and were all out for 117. Newdigate replied with 11
 result: Newdigate won by 2 wkts
 next: tower-of-dudes
 parent: 2012 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

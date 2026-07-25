@@ -10,6 +10,7 @@ report: Blagdon Hill won the toss and inserted The Min in a 40 over game. The Mi
 result: The Min won by 84 runs
 next: broadway-and-horton
 parent: 2022 Fixtures
+nav_order: 6
 ---
 
 {% include matchDetails %}

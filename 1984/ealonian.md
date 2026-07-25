@@ -10,6 +10,7 @@ report: The Min batted first and were bowled out for 107. Ealonians replied with
 result: Ealonians won by 4 wkts
 next: british-legion-rickmansworth
 parent: 1984 Fixtures
+nav_order: 11
 ---
 
 {% include matchDetails %}

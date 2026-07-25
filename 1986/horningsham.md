@@ -10,6 +10,7 @@ report: The Min batted first and scored 187 for 2 wkts. Horningsham replied with
 result: Horningsham won by 1 wkt
 next: godstone
 parent: 1986 Fixtures
+nav_order: 7
 ---
 
 {% include matchDetails %}

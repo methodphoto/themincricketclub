@@ -10,6 +10,7 @@ report: The Min batted first and made 243 for 8 wkts in 40 overs. Broadway and H
 result: Broadway and Horton won by 5 wkts
 next: bristol
 parent: 2016 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

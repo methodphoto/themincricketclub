@@ -10,6 +10,7 @@ report: The Min batted first and scored 123 for 9 wkts (all out). Logica were bo
 result: The Min won by 45 runs
 next: koh-i-noor
 parent: 1985 Fixtures
+nav_order: 9
 ---
 
 {% include matchDetails %}

@@ -10,6 +10,7 @@ report: The Crocodiles batted first and scored 143 for 7 wkts. The Min replied w
 result: The Min won by 8 wkts
 next: godstone
 parent: 1990 Fixtures
+nav_order: 8
 ---
 
 {% include matchDetails %}

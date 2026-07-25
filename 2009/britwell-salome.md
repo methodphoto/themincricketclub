@@ -10,6 +10,7 @@ report: The Min batted first and made 235 for 6 wkts. Britwell Salome replied wi
 result: The Min won by 46 runs
 next: ockley
 parent: 2009 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

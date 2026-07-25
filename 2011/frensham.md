@@ -10,6 +10,7 @@ report: Frensham batted first and made 201 all out. The Min replied with 23 for 
 result:  Match Abandoned as a Draw
 next: watton-at-stone
 parent: 2011 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}
