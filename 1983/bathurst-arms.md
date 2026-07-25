@@ -9,6 +9,7 @@ date: 17/06/1983
 report: Bathurst Arms batted first scoring 85 all out. The Min replied with 89 for 6 wkts.
 result: The Min won by 4 wkts
 parent: 1983 Fixtures
+nav_order: 5
 ---
 
 {% include matchDetails %}

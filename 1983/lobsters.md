@@ -10,6 +10,7 @@ report: The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8
 result: The Min won by 29 runs
 next: nick-hoares-xi
 parent: 1983 Fixtures
+nav_order: 1
 ---
 
 {% include matchDetails %}

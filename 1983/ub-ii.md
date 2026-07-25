@@ -10,6 +10,7 @@ report: UB II batted first and scored 155 for 5 wkts. The Min scored 147 for 9 w
 result: Match Drawn
 next: a-good-length
 parent: 1983 Fixtures
+nav_order: 3
 ---
 
 {% include matchDetails %}

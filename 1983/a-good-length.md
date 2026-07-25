@@ -10,6 +10,7 @@ report: A Good Length batted first and were bowled out for 81. The Min knocked o
 result: The Min won by 10 wkts
 next: bathurst-arms
 parent: 1983 Fixtures
+nav_order: 4
 ---
 
 {% include matchDetails %}
