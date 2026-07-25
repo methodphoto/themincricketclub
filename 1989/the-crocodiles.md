@@ -60,7 +60,7 @@ R Beswick's 2nd 50
 | **D Evans** | not out |  | 92 |
 | **P Rowley** | c R Beswick | M Gardiner | 28 |
 | **J King** | c | R Beswick | 2 |
-| **J Critchley;** | c D Mundy | R Beswick | 2 |
+| **J Critchley** | c D Mundy | R Beswick | 2 |
 | **A Holgate** | run out |  | 0 |
 | **S Lethbridge** | not out |  | 15 |
 | **T Anderson** | dnb |  |  |

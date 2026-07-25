@@ -25,11 +25,11 @@ nav_order: 6
 | **A Sylvester** | b | Mason | 0 |
 | **W Calvert** | b | Mason | 0 |
 | **R Emanuel** | not out | | 19 |
-| **J Wright** | dnb | |
-| **M Gardiner** | dnb | |
-| **A Gallagher** | dnb | |
-| **J Grant &#8224;** | dnb | |
-| **L Sheridan** | dnb | |
+| **J Wright** | dnb |  |  |
+| **M Gardiner** | dnb |  |  |
+| **A Gallagher** | dnb |  |  |
+| **J Grant &#8224;** | dnb |  |  |
+| **L Sheridan** | dnb |  |  |
 | **Extras** | | (1b 2lb 6w 0nb) | **9** |
 | **Total** | | (15 overs) | **103 for 4 wkts** |
 
@@ -62,9 +62,9 @@ nav_order: 6
 | **Abrahams** | run out | | 15 |
 | **Maynard** | st J Grant | A Gallagher | 6 |
 | **Ellis** | not out | | 0 |
-| **Scanlon** | dnb | |
-| **Shearing** | dnb | |
-| **Reid** | dnb | |
+| **Scanlon** | dnb |  |  |
+| **Shearing** | dnb |  |  |
+| **Reid** | dnb |  |  |
 | **Extras** | | (4b 0lb 3w 0nb) | **7** |
 | **Total** | | (38 overs) | **56 for 7 wkts** |
 

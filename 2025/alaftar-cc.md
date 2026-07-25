@@ -68,7 +68,7 @@ Batting subs: P Beswick for I Miah and H Earney for S Mohammed
 | **P Wigg** | not out |  | 43 |
 | **J Grant &#8224;** | b | I Rafiq | 1 |
 | **R Beswick &#42;** | not out |   | 1 |
-| **H Earney;** | dnb |  |  |
+| **H Earney** | dnb |  |  |
 | **Extras** | | 4b 0lb 8w 1nb 0p) | **13** |
 | **Total** | | (35 overs) | **163 for 8 wkts** |
 

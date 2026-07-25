@@ -48,7 +48,7 @@ nav_order: 8
 | **H Ingham** | 5 | 0 | 26 | 0 |
 | **J Wright** | 8 | 0 | 49 | 5 |
 | **M Gupta** | 8 | 0 | 26 | 1 |
-| **M Griffith** | 4 | 1 | 18 | 1 |
+| **M Griffiths** | 4 | 1 | 18 | 1 |
 | **I Muntakim** | 2 | 0 | 6 | 1 |
 
 ## {{page.awayTeam}} Innings
@@ -57,7 +57,7 @@ nav_order: 8
 |:---|:---|---|---:|
 | **R Earney** | c S Driskell | Norman | 0 |
 | **A Beswick** | lbw | Larkman | 2 |
-| **M Griffith** | lbw | Norman | 2 |
+| **M Griffiths** | lbw | Norman | 2 |
 | **J Stacey** | b | Norman | 0 |
 | **M Gupta** | c; | C Lant | 10 |
 | **I Muntakim** | run out |  |  35 |

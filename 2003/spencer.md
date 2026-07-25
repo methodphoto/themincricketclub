@@ -62,7 +62,7 @@ nav_order: 13
 | **J Grant &#8224;** | dnb |  |  |
 | **A Slight** | dnb |  |  |
 | **R Osbourne** | dnb |  |  |
-| **G Powell** | dnb |  |  ||
+| **G Powell** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (1b 0lb 0w 0nb) | **1** |
 | **Total** | | (29.4 overs) | **78 for 4 wkts** |

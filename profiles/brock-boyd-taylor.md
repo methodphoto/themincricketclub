@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -21,11 +21,13 @@ Debut: [Railway Taverners 2019](../2019/railway-taverners)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 18 | 18 | 2 | 468 | 29.25 |
+| 20 | 20 | 2 | 475 | 26.39 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
-| **2026** | [The Mighty Wandererss](../2026/the-mighty-wanderers) | **23** |
+| **2026** | [Easton Cowfolk](../2026/easton-cowfolk) | **4** |
+|  | [Broadway and Horton](../2026/broadway-and-horton) | **3** |
+|  | [The Mighty Wandererss](../2026/the-mighty-wanderers) | **23** |
 | **2025** | [Railway Taverners](../2025/railway-taverners) | **11** |
 |  | [Alaftar CC](../2025/alaftar-cc) | **73** |
 | **2024** | [Broadway and Horton](../2024/broadway-and-horton) | **13** |
@@ -54,10 +56,11 @@ Debut: [Railway Taverners 2019](../2019/railway-taverners)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 7 | 15.5 | 1 | 114 | 4 | 28.5 | 23.75 |
+| 8 | 17.5 | 1 | 117 | 4 | 29.25 | 26.75 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
+| **2026** | [Broadway and Horton](../2026/broadway-and-horton) | 2 | 0 | 3 | 0 |
 | **2023** | [Railway Taverners](../2023/railway-taverners) | 1 | 0 | 8 | 0 |
 |  | [Belhus](../2023/belhus) | 2 | 1 | 17 | 0 |
 |  | [Stowting](../2023/stowting) | 0.4 | 0 | 4 | 0 |

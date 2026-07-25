@@ -25,7 +25,7 @@ nav_order: 3
 | **E Garland** | b | J Dowsett | 7 |
 | **P Grant** | run out |  | 1 |
 | **J Grant &#8224;** | not out |  | 4 |
-| **R Green** | not out |   4 |
+| **R Green** | not out |  | 4 |
 | **P Grant** | dnb |  |  |
 | **I Marshall** | dnb |  |  |
 | **A Slight** | dnb |  |  |

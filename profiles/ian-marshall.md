@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Putney 1989](../1989/putney)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 206 | 153 | 30 | 2587 | 21.03 |
+| 206 | 155 | 30 | 2588 | 20.7 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -35,6 +35,7 @@ Debut: [Putney 1989](../1989/putney)
 |  | [Newdigate](../2017/newdigate) | **0** |
 |  | [Newington](../2017/newington) | **3** |
 | **2016** | [Frensham](../2016/frensham) | **21**&#42; |
+|  | [Nightwatchman](../2016/nightwatchman) | **1** |
 | **2014** | [Headley](../2014/headley) | **14** |
 |  | [Reigate Pilgrims](../2014/reigate-pilgrims) | **6** |
 | **2012** | [Reigate Pilgrims](../2012/reigate-pilgrims) | **14** |
@@ -121,6 +122,7 @@ Debut: [Putney 1989](../1989/putney)
 | **1995** | [Watton-at-Stone](../1995/watton-at-stone) | **0** |
 |  | [White Lion](../1995/white-lion) | **0** |
 |  | [Horningsham](../1995/horningsham) | **2** |
+|  | [Barrow Hospital](../1995/barrow-hospital) | **0** |
 |  | [Tappers](../1995/tappers) | **44** |
 |  | [Great Tew](../1995/great-tew) | **18** |
 |  | [Valley End](../1995/valley-end) | **7** |

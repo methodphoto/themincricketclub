@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -21,12 +21,13 @@ Debut: [Ockley 1991](../1991/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 74 | 64 | 15 | 340 | 6.94 |
+| 74 | 66 | 16 | 380 | 7.6 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
 | **2023** | [Newington](../2023/newington) | **12** |
 | **2017** | [Newington](../2017/newington) | **1** |
+| **2016** | [Nightwatchman](../2016/nightwatchman) | **21** |
 | **2015** | [BGS Bedouins](../2015/bgs-bedouins) | **0** |
 |  | [Newdigate](../2015/newdigate) | **2**&#42; |
 |  | [Newington](../2015/newington) | **8**&#42; |
@@ -42,7 +43,8 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Newdigate](../2010/newdigate) | **0** |
 | **2009** | [SB Exiles](../2009/sb-exiles) | **9** |
 |  | [Ockley](../2009/ockley) | **0** |
-| **2008** | [Harrow St Mary's](../2008/harrow-st-marys) | **2** |
+| **2008** | [Putney](../2008/putney) | **19**&#42; |
+|  | [Harrow St Mary's](../2008/harrow-st-marys) | **2** |
 |  | [Old Min Young Min](../2008/old-min-young-min) | **5** |
 |  | [Horningsham](../2008/horningsham) | **3**&#42; |
 |  | [Ockley](../2008/ockley) | **4**&#42; |

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -20,12 +20,13 @@ Debut: [Britwell Salome 2010](../2010/britwell-salome)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 8 | 8 | 1 | 334 | 47.71 |
+| 9 | 9 | 2 | 336 | 48.0 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
 | **2011** | [Reigate Pilgrims](../2011/reigate-pilgrims) | **8** |
 |  | [Kilmington and Stourton](../2011/kilmington-and-stourton) | **46** |
+|  | [Frensham](../2011/frensham) | **2**&#42; |
 |  | [Middleton Stoney](../2011/middleton-stoney) | **8** |
 | **2010** | [Reigate Pilgrims](../2010/reigate-pilgrims) | **81** |
 |  | [Kilmington and Stourton](../2010/kilmington-and-stourton) | **48** |

@@ -62,8 +62,8 @@ S Barrowcliff's 14th 50
 | **R Damaze** | c S Vadivale | T Cranston | 6 |
 | **S Barrowcliff** | lbw | R Simpson | 53 |
 | **S Pitcher** | c N Moorman | R Simpson | 38 |
-| **M Gupta** | not out | 0 |
-| **S Amin** | not out | 6 |
+| **M Gupta** | not out |  | 0 |
+| **S Amin** | not out |  | 6 |
 | **S Habib** | dnb |  |  |
 | **W Calvert &#8224;** | dnb |  |  |
 | **I Miah** | dnb |  |  |

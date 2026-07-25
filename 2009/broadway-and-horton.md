@@ -29,7 +29,7 @@ nav_order: 6
 | **R Young** | not out |  | 19 |
 | **T Hill** | dnb |  |  |
 | **H Payne** | dnb |  |  |
-| **C MacHattie** | dnb |  |  ||
+| **C MacHattie** | dnb |  |  |
 | **Extras** | | (2b 3lb 11w 0nb 0p) | **16** |
 | **Total** | | (40 overs) | **202 for 6 wkts** |
 

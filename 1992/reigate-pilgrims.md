@@ -44,8 +44,8 @@ nav_order: 13
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **R Beswick** | 0 | 0 | 0 | 1 |
-| **G wright** | 0 | 0 | 0 | 0 |
+| **R Beswick** | 1	 | 0 | 2 | 1 |
+| **G Wright** | 0 | 0 | 0 | 0 |
 
 
 ## {{page.awayTeam}} Innings
@@ -77,7 +77,7 @@ nav_order: 13
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **R Beswick** | 1	 | 0 | 2 | 1 |
+
 
 
 ## Win/Loss Ratio

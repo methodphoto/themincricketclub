@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -21,7 +21,7 @@ Debut: [Godstone 1989](../1989/godstone)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 101 | 98 | 9 | 2306 | 25.91 |
+| 102 | 99 | 9 | 2312 | 25.69 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -70,6 +70,7 @@ Debut: [Godstone 1989](../1989/godstone)
 |  | [Great Braxted](../1997/great-braxted) | **45** |
 |  | [Tappers](../1997/tappers) | **28** |
 |  | [Stowting](../1997/stowting) | **55** |
+|  | [Players and Jesters](../1997/players-and-jesters) | **6** |
 | **1996** | [Stonor](../1996/stonor) | **53** |
 |  | [Captain Scott](../1996/captain-scott) | **7** |
 |  | [Broadway and Horton](../1996/broadway-and-horton) | **3** |

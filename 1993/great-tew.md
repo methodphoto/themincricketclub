@@ -29,7 +29,7 @@ nav_order: 2
 | **R Beswick** | c | Arbour | 37 |
 | **E Harcourt** | c Hambridge | Lithgow | 8 |
 | **A MacFarlane** | b | Jones | 2 |
-| **W Calvert** | not out |   7 |
+| **W Calvert** | not out |  | 7 |
 | **D Ferguson** | c M Hicks | Lithgow | 0 |
 | **G Wright** | not out |  | 0 |
 | **Extras** | | (3b 1lb 8w 0nb) | **12** |

@@ -64,7 +64,7 @@ nav_order: 5
 | **R Earney** | dnb |  |  |
 | **A MacFarlane** | dnb |  |  |
 | **S Barrowcliff** | dnb |  |  |
-| **A Fielding** | dnb |  |  ||
+| **A Fielding** | dnb |  |  |
 | **The Boy John** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **0** |
 | **Total** | | (0 overs) | **0** |

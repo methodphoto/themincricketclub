@@ -56,7 +56,7 @@ nav_order: 5
 |:---|:---|---|---:|
 | **D Pathak** | not out |  | 3 |
 | **T Rutherford &#42;** | b | C Herrington | 17 |
-| **T Hammomnd** | not out |  | 2 |
+| **T Hammond** | not out |  | 2 |
 | **R Beswick** | dnb |  |  |
 | **M Gupta** | dnb |  |  |
 | **H Ingham** | dnb |  |  |

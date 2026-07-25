@@ -24,7 +24,7 @@ M Griffiths 1st 100 and highest score for The Min.<br>
 |:---|:---|---|---:|
 | **J Stacey** | b | T Pawley | 27 |
 | **J Casey** | b | L Bradshaw | 8 |
-| **B Boyd-Tailor** | c | A Hanhem | 3 |
+| **B Boyd-Taylor** | c | A Hanhem | 3 |
 | **M Griffiths** | not out |  | 117 |
 | **A Gallagher** | c D Cook | H Harrison | 0 |
 | **A Beswick &#42;** | b | H Harrison | 0 |
@@ -90,7 +90,7 @@ M Griffiths 1st 100 and highest score for The Min.<br>
 | **C Wright** | 7 | 0 | 56 | 1 |
 | **R Beswick** | 7 | 0 | 41 | 2 |
 | **M Griffiths** | 3 | 0 | 18 | 2 |
-| **B Boyd-Tailor** | 2 | 0 | 3 | 0 |
+| **B Boyd-Taylor** | 2 | 0 | 3 | 0 |
 | **A Gallagher** | 2 | 0 | 17 | 1 |
 
 ## Win/Loss Ratio

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [White Lion 1995](../1995/white-lion)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 26 | 26 | 3 | 389 | 16.91 |
+| 27 | 27 | 3 | 427 | 17.79 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -36,7 +36,8 @@ Debut: [White Lion 1995](../1995/white-lion)
 |  | [Stowting](../1999/stowting) | **23**&#42; |
 |  | [Players and Jesters](../1999/players-and-jesters) | **61** |
 |  | [Ockley](../1999/ockley) | **5** |
-| **1998** | [Ipswich and East Suffolk](../1998/ipswich-and-east-suffolk) | **46**&#42; |
+| **1998** | [Reigate Pilgrims](../1998/reigate-pilgrims) | **38** |
+|  | [Ipswich and East Suffolk](../1998/ipswich-and-east-suffolk) | **46**&#42; |
 |  | [Copdock & Old Ipswichian CC](../1998/copdock) | **6** |
 |  | [Broadway and Horton](../1998/broadway-and-horton) | **0** |
 |  | [Stowting](../1998/stowting) | **16** |

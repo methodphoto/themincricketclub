@@ -26,7 +26,7 @@ nav_order: 9
 | **M Nathavani** | c & b | M Gupta | 14 |
 | **O Pickup** | b  | R Earney | 0 |
 | **M Pickup &#8224;** | b | E Garland | 30 |
-| **P Saikia;** | b | M Gupta | 20 |
+| **P Saikia** | b | M Gupta | 20 |
 | **N Sharma** | b | E Garland | 10 |
 | **G Mitchell** | not out |  | 13 |
 | **M Wood** | not out |  | 5 |

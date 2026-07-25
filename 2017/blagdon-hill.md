@@ -66,7 +66,7 @@ R Earney's 52nd 50
 | **H Ingham** | c G Higgins | L Vickery-Whitworth | 17 |
 | **I Muntakim** | c A Hotham | R Jennings | 8 |
 | **M Gupta** | c; | L Vickery-Whitworth | 8 |
-| **J Grant &#8224;**| not out | 2 |
+| **J Grant &#8224;** | not out |  | 2 |
 | **J Wright** | b | R Jennings | 1 |
 | **Extras** | | (4b 2lb 10w 3nb 0p) | **19** |
 | **Total** | | (36.5 overs) | **217 all out** |

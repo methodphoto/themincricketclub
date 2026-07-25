@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -21,7 +21,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 431 | 346 | 56 | 4628 | 15.96 |
+| 431 | 350 | 59 | 4662 | 16.02 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -50,6 +50,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Railway Taverners](../2020/railway-taverners) | **24** |
 | **2019** | [Kingstonian](../2019/kingstonian) | **7** |
 |  | [Reigate Pilgrims](../2019/reigate-pilgrims) | **0** |
+|  | [Cerne Valley](../2019/cerne-valley) | **13**&#42; |
 |  | [Newdigate](../2019/newdigate) | **2** |
 |  | [Newington](../2019/newington) | **0** |
 |  | [Watton-at-Stone](../2019/watton-at-stone) | **3** |
@@ -60,6 +61,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Blagdon Hill](../2018/blagdon-hill) | **7** |
 |  | [Middleton Stoney](../2018/middleton-stoney) | **4**&#42; |
 | **2017** | [Reigate Pilgrims](../2017/reigate-pilgrims) | **0** |
+|  | [Blagdon Hill](../2017/blagdon-hill) | **2**&#42; |
 |  | [Watton-at-Stone](../2017/watton-at-stone) | **20** |
 |  | [Newdigate](../2017/newdigate) | **5** |
 |  | [Kingstonian](../2017/kingstonian) | **8** |
@@ -69,6 +71,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [Broadway and Horton](../2016/broadway-and-horton) | **1** |
 |  | [Blagdon Hill](../2016/blagdon-hill) | **0** |
 |  | [Watton-at-Stone](../2016/watton-at-stone) | **3**&#42; |
+|  | [Nightwatchman](../2016/nightwatchman) | **0** |
 | **2015** | [Stowting](../2015/stowting) | **1** |
 |  | [Blagdon Hill](../2015/blagdon-hill) | **11** |
 |  | [Frensham](../2015/frensham) | **2** |
@@ -371,6 +374,7 @@ Debut: [Another Man's Meat 1982](../1982/another-mans-meat)
 |  | [J Stimpfigs XI](../1982/j-stimfigs-xi) | **7** |
 |  | [Bristol Grammar School](../1982/bristol-grammar-school) | **0** |
 |  | [Another Man's Meat](../1982/another-mans-meat) | **19** |
+|  | [A Good Length](../1982/a-good-length) | **19**&#42; |
 
 
 **Highest Score**: 87 v [Hetairoi](../1997/hetairoi)<br />

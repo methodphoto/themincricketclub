@@ -65,7 +65,7 @@ nav_order: 2
 | **A Gordon** | b | Darby | 0 |
 | **E Garland** | b | Darby | 1 |
 | **D Young** | c Catling | Parker | 1 |
-| **J Wright** | not out |   1 |
+| **J Wright** | not out |  | 1 |
 |  |  |  |  |
 | **Extras** | | (4b 2lb 1w 0nb) | **9** |
 | **Total** | | (41 overs) | **232 for 9 wkts** |

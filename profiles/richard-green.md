@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Old Colfeians 1999](../1999/old-colfeians)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 35 | 25 | 5 | 355 | 17.75 |
+| 35 | 26 | 6 | 359 | 17.95 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -38,6 +38,7 @@ Debut: [Old Colfeians 1999](../1999/old-colfeians)
 | **2002** | [North Holmwood](../2002/north-holmwood) | **70** |
 |  | [Tappers](../2002/tappers) | **21**&#42; |
 |  | [ACME](../2002/acme) | **4** |
+|  | [Streatham](../2002/streatham) | **4**&#42; |
 | **2001** | [Reigate Pilgrims](../2001/reigate-pilgrims) | **7** |
 |  | [Stowting](../2001/stowting) | **5** |
 |  | [Players and Jesters](../2001/players-and-jesters) | **5** |

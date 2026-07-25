@@ -28,7 +28,7 @@ M Lawrence's 1st 50
 | **N Chapman &#8224;** | c M Lawrence | J Wright | 1 |
 | **M Skinner** | not out |  | 10 |
 | **S Doughty** | dnb |  |  |
-| **J Gear** | dnb |  |  ||
+| **J Gear** | dnb |  |  |
 | **G Lee** | dnb |  |  |
 |  |  |  |  |
 | **Extras** | | (11b 1lb 4w 2nb) | **5** |

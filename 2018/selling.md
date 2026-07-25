@@ -87,7 +87,7 @@ nav_order: 7
 | **A Munim** | 5 | 0 | 16 | 1 |
 | **R Damaze** | 2 | 0 | 6 | 1 |
 | **I Matvad** | 3.3 | 0 | 15 | 1 |
-| **R Beswickd** | 3 | 0 | 15 | 1 |
+| **R Beswick** | 3 | 0 | 15 | 1 |
 
 ## Season Win/Loss Record
 

@@ -55,8 +55,8 @@ Ken Sullivan - Best Bowling by The Min
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **J Booth** | not out | 20 |
-| **J Grant &#8224;** | not out | 19 |
+| **J Booth** | not out |  | 20 |
+| **J Grant &#8224;** | not out |  | 19 |
 | **D Mundy** | dnb |  |  |
 | **W Calvert** | dnb |  |  |
 | **R Beswick &#42;** | dnb |  |  |

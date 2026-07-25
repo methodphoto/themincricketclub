@@ -64,7 +64,7 @@ A Beswick's 20th 50, scored of 23 balls – fastests since we bagan recording ba
 | **P Wigg** | dnb |  |  |
 | **J Casey** | dnb |  |  |
 | **C Wright** | dnb |  |  |
-| **R Beswick &#42;k** | dnb |  |  |
+| **R Beswick &#42;** | dnb |  |  |
 | **W Calvert &#8224;** | dnb |  |  |
 | **Extras** | | (6b 1lb 2w 1nb 0p) | **10** |
 | **Total** | | (11.2 overs) | **123 for 3 wkts** |

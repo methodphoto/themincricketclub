@@ -60,7 +60,7 @@ nav_order: 13
 | **R Damaze** | c B Wretham | B Sweeting | 19 |
 | **A Gallagher** | b | B Carter | 24 |
 | **I Miah** | not out |   | 20 |
-| **M Guptaa** | b | W Hinkley | 5 |
+| **M Gupta** | b | W Hinkley | 5 |
 | **R Beswick &#42;** | not out |  | 1 |
 | **W Calvert &#8224;** | dnb  |  |  |
 | **S Mohammed** | dnb  |  |  |

@@ -45,7 +45,7 @@ nav_order: 8
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
 | **I Marshall** | 13 | 4 | 30 | 1 |
-| **A Swan** | 10 | 2 | 22 | 2 |
+| **A Swann** | 10 | 2 | 22 | 2 |
 | **J Skarbek** | 11 | 1 | 41 | 1 |
 | **R Earney** | 4 | 0 | 29 | 1 |
 | **R Beswick** | 5 | 1 | 17 | 2 |
@@ -56,13 +56,13 @@ nav_order: 8
 |:---|:---|---|---:|
 | **A Mills &#8224;** | b | Jones | 16 |
 | **A Gallagher** | c Ritchie | Morrish | 19 |
-| **D Swan** | not out |  | 81 |
+| **D Swann** | not out |  | 81 |
 | **R Beswick &#42;** | not out |  | 26 |
 | **I Marshall** | dnb |  |  |
 | **W Chapman** | dnb |  |  |  
 | **M Gardiner** | dnb |  |  |  
 | **D Young** | dnb |  |  |  
-| **A Swan** | dnb |  |  |  
+| **A Swann** | dnb |  |  |  
 | **J Skarbek** | dnb |  |  |  
 | **R Earney** | dnb |  |  |
 | **Extras** | | (9b 2lb 4w 0nb) | **15** |

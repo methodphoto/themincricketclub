@@ -25,7 +25,7 @@ nav_order: 7
 | **J Grant &#8224;** | b | Houghton | 24 |
 | **D Young** | b | Houghton | 0 |
 | **S Hornsby** | not out |  | 64 |
-| **E Garland;** | c McLaurin | Houghton | 13 |
+| **E Garland** | c McLaurin | Houghton | 13 |
 | **R Beswick &#42;** | lbw | J Forfar | 9 |
 | **I Marshall** | b | J Forfar | 5 |
 | **G Wright** | not out |  | 3 |

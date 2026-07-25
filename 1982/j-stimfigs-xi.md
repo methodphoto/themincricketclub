@@ -64,7 +64,7 @@ JBooth's 1st 50<br />
 | **R Hunter** | c & b | W Calvert | 28 |
 | **J Stimpfig** | c Mundy | A Sylvester | 17 |
 | **S Miller-Jones** | not out | | 6 |
-| **King** | dnb | | | |
+| **King** | dnb |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |

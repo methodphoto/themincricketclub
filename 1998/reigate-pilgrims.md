@@ -56,7 +56,7 @@ N Bezodis, sixfer on debut
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick** | c K Copestake |  | 19 |
-| **M Petre;** | c |  | 38 |
+| **M Petre** | c |  | 38 |
 | **J Hylton** | not out |  | 59 |
 | **E Garland** | not out |  | 8 |
 | **A Stitt** | dnb |  |  |

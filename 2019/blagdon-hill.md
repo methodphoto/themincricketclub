@@ -47,7 +47,7 @@ nav_order: 8
 | **S Mohammed** | 7 | 0 | 20 | 0 |
 | **R Earney** | 6 | 0 | 63 | 0 |
 | **P Wigg** | 7 | 0 | 44 | 3 |
-| **R Beswick** | 6 | 0 | 39 | 2 |
+| **R Beswick** | 6 | 0 | 39 | 1 |
 | **A Munim** | 4.3 | 0 | 39 | 2 |
 | **I Miah** | 4 | 0 | 25 | 1 |
 

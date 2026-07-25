@@ -28,8 +28,8 @@ nav_order: 6
 | **J Wheran** | not out | 31 |
 | **C Wylie** | run out | 3 |
 | **R Flower** | not out | 1 |
-| **W Bowley** | dnb |
-| **C Moon** | dnb |
+| **W Bowley** | dnb |  |  |
+| **C Moon** | dnb |  |  |
 | **Extras** | | (8b 8lb 17w 5nb 0p) | **38** |
 | **Total** | | (38 overs) | **226 for 8 wkts** |
 
@@ -66,7 +66,7 @@ nav_order: 6
 | **R Coyle** | not out |  | 2 |
 | **H Ingham** | c | Moon | 0 |
 | **P Wigg** | not out |  | 4 |
-| **W Calvert** | dnb  | |
+| **W Calvert** | dnb |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | **29** |
 | **Total** | | (41 overs) | **158 for 8 wkts** |
 

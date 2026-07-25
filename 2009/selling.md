@@ -63,7 +63,7 @@ nav_order: 14
 | **A Beswick** | c & b | W Hinkley | 0 |
 | **T Carden** | run out |  | 45 |
 | **P Wigg** | not out |  | 15 |
-| **J Wright &#42;t** | not out |  | 0 |
+| **J Wright &#42;** | not out |  | 0 |
 |  |  |  |  |
 | **Extras** | | (4b 4lb 17w 3nb 0p) | **28** |
 | **Total** | | (40 overs) | **277 for 8 wkts** |

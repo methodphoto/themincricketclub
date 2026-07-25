@@ -58,14 +58,14 @@ nav_order: 3
 |:---|:---|---|---:|
 | **R Earney** | b | A Asmal | 27 |
 | **R Beswick &#42;** | run out |  | 37 |
-| **M Gupta** | lbw b I Miah | 65 |
-| **I Marshall** | b I Miah | 1 |
-| **R Coyle** | c S Ahmed b M Elwin | 21 |
-| **R.Damaze** | run out | 1 |
-| **S Amin** | b Pav | 22 |
-| **J Grant &#8224;** | b Maruf | 0 |
+| **M Gupta** | lbw | I Miah | 65 |
+| **I Marshall** | b | I Miah | 1 |
+| **R Coyle** | c S Ahmed | M Elwin | 21 |
+| **R Damaze** | run out |  | 1 |
+| **S Amin** | b | Pav | 22 |
+| **J Grant &#8224;** | b | Maruf | 0 |
 | **S Mohammed** | not out | 23 |
-| **J Wright** | b Pav 2 |
+| **J Wright** | b | Pav | 2 |
 |  |  |  |  |
 | **Extras** | | (5b 5lb 5w 2nb 0p) | **17** |
 | **Total** | | (37 overs) | **207 for 9 wkts (all out)** |

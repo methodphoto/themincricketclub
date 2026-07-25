@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -21,7 +21,7 @@ Debut: [Brasted Invicta 2014](../2014/brasted-invicta)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 26 | 20 | 2 | 252 | 14.0 |
+| 26 | 22 | 3 | 280 | 14.74 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -41,6 +41,8 @@ Debut: [Brasted Invicta 2014](../2014/brasted-invicta)
 | **2017** | [Stowting](../2017/stowting) | **27** |
 |  | [Newington](../2017/newington) | **0** |
 |  | [Middleton Stoney](../2017/middleton-stoney) | **7** |
+| **2016** | [Nightwatchman](../2016/nightwatchman) | **22** |
+|  | [Middleton Stoney](../2016/middleton-stoney) | **6**&#42; |
 | **2015** | [Watton-at-Stone](../2015/watton-at-stone) | **6**&#42; |
 |  | [Newdigate](../2015/newdigate) | **7** |
 |  | [Nightwatchman](../2015/nightwatchman) | **32** |

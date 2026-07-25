@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Abinger Hammer 1990](../1990/abinger-hammer)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 20 | 19 | 4 | 652 | 43.47 |
+| 21 | 20 | 5 | 733 | 48.87 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -42,11 +42,12 @@ Debut: [Abinger Hammer 1990](../1990/abinger-hammer)
 | **1990** | [Stowting](../1990/stowting) | **6** |
 |  | [Newdigate](../1990/newdigate) | **47** |
 |  | [Godstone](../1990/godstone) | **8** |
+|  | [The Crocodiles](../1990/the-crocodiles) | **81**&#42; |
 |  | [Abinger Hammer](../1990/abinger-hammer) | **10** |
 
 
 **Highest Score**: 87 v [Reigate Pilgrims](../1991/reigate-pilgrims)<br />
-**Fifties:** 5<br />
+**Fifties:** 6<br />
 **Hundreds:** 0
 
 

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -72,7 +72,7 @@ Debut: [Strenue 1986](../1986/strenue)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 46 | 330.4 | 56 | 1110 | 45 | 24.67 | 44.09 |
+| 47 | 330.4 | 56 | 1110 | 45 | 24.67 | 44.09 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -87,6 +87,7 @@ Debut: [Strenue 1986](../1986/strenue)
 |  | [Great Tew](../1993/great-tew) | 6 | 1 | 24 | 1 |
 |  | [Ockley](../1993/ockley) | 8 | 0 | 34 | 0 |
 | **1992** | [Watton-at-Stone](../1992/watton-at-stone) | 12 | 1 | 29 | 1 |
+|  | [Reigate Pilgrims](../1992/reigate-pilgrims) | 0 | 0 | 0 | 0 |
 |  | [Long Hanborough](../1992/long-hanborough) | 7 | 0 | 36 | 1 |
 |  | [Dowlish Wake](../1992/dowlish-wake) | 5 | 0 | 16 | 2 |
 |  | [Shepton Beauchamp](../1992/shepton-beauchamp) | 8 | 2 | 30 | 0 |

@@ -51,7 +51,7 @@ R Earney's 45th 50. S Hornsby's 13th 50.<br />
 | **R Earney** | 6 | 2 | 14 | 0 |
 | **T Rutherford** | 5 | 0 | 27 | 0 |
 | **J Wright** | 8 | 0 | 50 | 0 |
-| **R Beswick** | 5.2 | 0 | 31 | 0 |
+| **R Beswick** | 5.2 | 0 | 31 | 1 |
 | **A Gallagher** | 6 | 0 | 53 | 1 |
 | **E Garland** | 5 | 1 | 27 | 1 |
 | **M Gupta** | 1 | 0 | 11 | 0 |

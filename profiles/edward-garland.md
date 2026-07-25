@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -21,7 +21,7 @@ Debut: [Greenford 1984](../1984/greenford)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 239 | 172 | 52 | 1665 | 13.88 |
+| 239 | 174 | 52 | 1694 | 13.89 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -161,6 +161,7 @@ Debut: [Greenford 1984](../1984/greenford)
 | **1994** | [Watton-at-Stone](../1994/watton-at-stone) | **24** |
 |  | [Valley End](../1994/valley-end) | **14** |
 |  | [Hetairoi](../1994/hetairoi) | **0**&#42; |
+|  | [Farnborough](../1994/farnborough) | **13** |
 |  | [Horningsham](../1994/horningsham) | **20** |
 |  | [Great Tew](../1994/great-tew) | **1** |
 |  | [Antilles](../1994/antilles) | **33** |
@@ -190,6 +191,7 @@ Debut: [Greenford 1984](../1984/greenford)
 | **1987** | [Flying Wickets](../1987/flying-wickets) | **13** |
 |  | [Bose Wanderers](../1987/bose-wanderers) | **7** |
 |  | [Friar's Oak](../1987/friars-oak) | **17** |
+|  | [Little Kingshill](../1987/little-kingshill) | **16** |
 |  | [Old Elthamians](../1987/old-elthamians) | **5** |
 |  | [The Crocodiles](../1987/the-crocodiles) | **13** |
 | **1986** | [Stowting](../1986/stowting) | **12** |

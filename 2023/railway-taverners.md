@@ -28,9 +28,9 @@ R Earney's 56th 50
 | **J Parsloe** | c | J Mulligan | 0 |
 | **B Boyd-Taylor** | not out |  | 35 |
 | **R Beswick** | not out |  | 9 |
-| **J Grant** | dnb |  |  | |
-| **C Wright** | dnb |  |  | |
-| **J Wu** | dnb |  |  | |
+| **J Grant** | dnb |  |  |
+| **C Wright** | dnb |  |  |
+| **J Wu** | dnb |  |  |
 | **Extras** | | (0b 0lb 16w 2nb 0p) | **18** |
 | **Total** | | (35 overs) | **227 for 3 wkts** |
 

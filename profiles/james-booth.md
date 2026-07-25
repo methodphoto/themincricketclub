@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 9 | 8 | 0 | 215 | 26.88 |
+| 9 | 9 | 1 | 235 | 29.38 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -31,6 +31,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Bristol Young Solicitors](../1982/bristol-young-solicitors) | **5** |
 |  | [Wills Hall](../1982/wills-hall) | **33** |
 |  | [J Stimpfigs XI](../1982/j-stimfigs-xi) | **72** |
+|  | [A Good Length](../1982/a-good-length) | **20**&#42; |
 |  | [Clifton Hill House](../1982/clifton-hill-house) | **0** |
 
 

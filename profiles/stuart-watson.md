@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 12 | 12 | 3 | 314 | 34.89 |
+| 13 | 13 | 4 | 344 | 38.22 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -28,6 +28,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [White City All Stars](../1986/white-city-all-stars) | **27** |
 |  | [Little Kingshill](../1986/little-kingshill) | **24** |
 | **1985** | [Shamrock](../1985/shamrock) | **0** |
+|  | [The Artisans](../1985/artisans) | **30**&#42; |
 |  | [White City All Stars](../1985/white-city-all-stars) | **1** |
 | **1984** | [Old Elthamians](../1984/old-elthamians) | **19** |
 |  | [Lobsters](../1984/lobsters) | **39** |

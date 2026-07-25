@@ -55,7 +55,7 @@ nav_order: 3
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Earney** | c Fogg | Black | 21 |
-| **S Barrowcliff;** | c & b | Lennox | 6 |
+| **S Barrowcliff** | c & b | Lennox | 6 |
 | **P Bentley** | c Simpson | Roskrow | 26 |
 | **D Jones** | c Sutton | Roskrow | 11 |
 | **M Petre** | c | Roskrow | 2 |

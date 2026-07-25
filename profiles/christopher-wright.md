@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -21,7 +21,7 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 51 | 21 | 11 | 52 | 5.2 |
+| 51 | 22 | 12 | 52 | 5.2 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -38,7 +38,8 @@ Debut: [Hornchurch 2005](../2005/hornchurch)
 |  | [Bricklayer's Arms](../2021/bricklayers-arms) | **5** |
 | **2020** | [Reigate Pilgrims](../2020/reigate-pilgrims) | **7**&#42; |
 |  | [Railway Taverners](../2020/railway-taverners) | **0** |
-| **2019** | [Newington](../2019/newington) | **2** |
+| **2019** | [Newdigate](../2019/newdigate) | **0**&#42; |
+|  | [Newington](../2019/newington) | **2** |
 |  | [Watton-at-Stone](../2019/watton-at-stone) | **1**&#42; |
 | **2016** | [Broadway and Horton](../2016/broadway-and-horton) | **0**&#42; |
 |  | [Blagdon Hill](../2016/blagdon-hill) | **0** |

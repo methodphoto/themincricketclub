@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -507,13 +507,11 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 **Fifties:** 38<br />
 **Hundreds:** 0
 
-
 ## Bowling
-
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 400 | 2325.5 | 394 | 8835 | 487 | 18.14 | 28.66 |
+| 401 | 2329.5 | 394 | 8852 | 488 | 18.14 | 28.65 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -560,13 +558,14 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Reigate Pilgrims](../2019/reigate-pilgrims) | 7.2 | 0 | 33 | 2 |
 |  | [Railway Taverners](../2019/railway-taverners) | 7 | 1 | 29 | 0 |
 |  | [Broadway and Horton](../2019/broadway-and-horton) | 2 | 1 | 7 | 1 |
-|  | [Blagdon Hill](../2019/blagdon-hill) | 6 | 0 | 39 | 2 |
+|  | [Blagdon Hill](../2019/blagdon-hill) | 6 | 0 | 39 | 1 |
 |  | [Cerne Valley](../2019/cerne-valley) | 1 | 0 | 2 | 1 |
 |  | [Newington](../2019/newington) | 6 | 0 | 46 | 1 |
 |  | [Watton-at-Stone](../2019/watton-at-stone) | 4 | 0 | 20 | 0 |
 |  | [Middleton Stoney](../2019/middleton-stoney) | 4.4 | 0 | 39 | 2 |
 | **2018** | [Stoke Dabernon](../2018/stoke-dabernon) | 1 | 0 | 18 | 0 |
 |  | [Reigate Pilgrims](../2018/reigate-pilgrims) | 3.5 | 1 | 19 | 1 |
+|  | [Selling](../2018/selling) | 3 | 0 | 15 | 1 |
 |  | [Broadway and Horton](../2018/broadway-and-horton) | 8 | 0 | 39 | 1 |
 |  | [Blagdon Hill](../2018/blagdon-hill) | 4 | 0 | 33 | 0 |
 |  | [Watton-at-Stone](../2018/watton-at-stone) | 5 | 0 | 27 | 1 |
@@ -604,7 +603,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Brasted Invicta](../2014/brasted-invicta) | 5 | 0 | 11 | 1 |
 |  | [Wimbledon United](../2014/wimbledon-united) | 8 | 0 | 41 | 2 |
 |  | [Newdigate](../2014/newdigate) | 2 | 1 | 1 | 0 |
-|  | [Horningsham](../2014/horningsham) | 5.2 | 0 | 31 | 0 |
+|  | [Horningsham](../2014/horningsham) | 5.2 | 0 | 31 | 1 |
 |  | [Exford](../2014/exford) | 2 | 0 | 22 | 0 |
 |  | [Kilmington and Stourton](../2014/kilmington-and-stourton) | 3.4 | 0 | 21 | 3 |
 |  | [Farningham](../2014/farningham) | 7 | 1 | 24 | 3 |
@@ -795,7 +794,6 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Great Tew](../1993/great-tew) | 5 | 0 | 26 | 1 |
 |  | [Ockley](../1993/ockley) | 1 | 0 | 1 | 1 |
 | **1992** | [Watton-at-Stone](../1992/watton-at-stone) | 10 | 1 | 44 | 3 |
-|  | [Reigate Pilgrims](../1992/reigate-pilgrims) | 0 | 0 | 0 | 1 |
 |  | [Reigate Pilgrims](../1992/reigate-pilgrims) | 1 | 0 | 2 | 1 |
 |  | [Old Wimbledonians](../1992/old-wimbledonians) | 10 | 2 | 18 | 1 |
 |  | [Shepton Beauchamp](../1992/shepton-beauchamp) | 10 | 3 | 13 | 3 |
@@ -824,6 +822,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Old Tauntonians](../1990/old-tauntonians) | 4 | 0 | 29 | 0 |
 |  | [Godstone](../1990/godstone) | 1.1 | 0 | 1 | 1 |
 |  | [The Crocodiles](../1990/the-crocodiles) | 5 | 1 | 17 | 2 |
+|  | [Abinger Hammer](../1990/abinger-hammer) | 1 | 0 | 2 | 1 |
 |  | [Brook](../1990/brook) | 9 | 2 | 48 | 1 |
 |  | [Limpsfield](../1990/limpsfield) | 7 | 0 | 41 | 0 |
 |  | [University College, Oxford v The Min](../1990/university-college-oxford) | 6 | 1 | 18 | 4 |

@@ -28,10 +28,10 @@ nav_order: 1
 | **J Mumtaz** | run out |  | 12 |
 | **S Petit** | b | R Beswick | 52 |
 | **J Morris** | not out | |  |
-| **J Williams** | dnb | |
-| **AK Kamal** | dnb | |
-| **E Barton** | dnb | |
-| **M Ford-Langstaff** | dnb | |
+| **J Williams** | dnb |  |  |
+| **AK Kamal** | dnb |  |  |
+| **E Barton** | dnb |  |  |
+| **M Ford-Langstaff** | dnb |  |  |
 | **Extras** | | (5b 6lb 10w 3nb 0p) | **24** |
 | **Total** | | (38 overs) | **229 for 6 wkts** |
 

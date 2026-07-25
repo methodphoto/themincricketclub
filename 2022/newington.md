@@ -31,7 +31,7 @@ J Stacey's 2nd 50 and highest score. Amazing catch by A Beswick.<br />
 | **K Usanga** | dnb |  |  |
 | **C Etheridge** | dnb |  |  |
 | **M Gupta** | dnb |  |  |
-| **Mik Gupta** | dnb |  |  ||
+| **Mik Gupta** | dnb |  |  |
 | **C Wright** | dnb |  |  |
 | **Extras** | | (11b 1lb 8w 2nb 0p) | **22** |
 | **Total** | | (35 overs) | **227 for 4 wkts** |
@@ -65,7 +65,7 @@ J Stacey's 2nd 50 and highest score. Amazing catch by A Beswick.<br />
 | **J Ventress** | b | C Wright | 0 |
 | **M Greenway** | not out |  | 6 |
 | **D Patel** | dnb | |  |
-| **C Carter** | dnb | |  ||
+| **C Carter** | dnb |  |  |
 | **L Morgan &#42;** | dnb | |  |
 | **T Bond** | dnb | |  |
 | **AS Rasheed** | dnb |  |  |

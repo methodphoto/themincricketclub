@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -52,7 +52,7 @@ Debut: [Lobsters 1983](../1983/lobsters)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 16 | 114.2 | 14 | 482 | 36 | 13.39 | 19.06 |
+| 17 | 115.2 | 14 | 489 | 36 | 13.58 | 19.22 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -70,7 +70,8 @@ Debut: [Lobsters 1983](../1983/lobsters)
 |  | [West Green](../1985/west-green) | 9 | 3 | 21 | 3 |
 | **1984** | [Ealing Commoners](../1984/ealing-commoners) | 8 | 1 | 18 | 2 |
 |  | [Greenford](../1984/greenford) | 5.3 | 1 | 14 | 6 |
-| **1983** | [UB II](../1983/ub-ii) | 7 | 1 | 36 | 1 |
+| **1983** | [A Good Length](../1983/a-good-length) | 1 | 0 | 7 | 0 |
+|  | [UB II](../1983/ub-ii) | 7 | 1 | 36 | 1 |
 |  | [Lobsters](../1983/lobsters) | 2 | 0 | 13 | 1 |
 
 

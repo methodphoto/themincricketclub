@@ -86,7 +86,7 @@ nav_order: 7
 | **S Griffiths** | 5 | 2 | 4 | 0 |
 | **W Calvert** | 5 | 0 | 16 | 2 |
 | **R Earney** | 3 | 1 | 11 | 0 |
-| **R Beswickt** | 1 | 0 | 2 | 1 |
+| **R Beswick** | 1 | 0 | 2 | 1 |
 
 ## Win/Loss Ratio
 

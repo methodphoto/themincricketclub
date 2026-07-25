@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -67,7 +67,7 @@ Debut: [Logica 1985](../1985/logica)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 45 | 294 | 69 | 900 | 48 | 18.75 | 36.75 |
+| 46 | 302 | 71 | 925 | 50 | 18.5 | 36.24 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -85,6 +85,7 @@ Debut: [Logica 1985](../1985/logica)
 | **1989** | [Flamingo](../1989/flamingo) | 4 | 0 | 16 | 0 |
 |  | [Eggington](../1989/eggington) | 5 | 1 | 7 | 1 |
 |  | [Hetairoi](../1989/hetairoi) | 6 | 0 | 29 | 0 |
+|  | [Newdigate](../1989/newdigate) | 8 | 2 | 25 | 2 |
 |  | [Godstone](../1989/godstone) | 9 | 2 | 25 | 3 |
 |  | [Durranti](../1989/durranti) | 6 | 4 | 10 | 1 |
 |  | [Old Elthamians](../1989/old-elthamians) | 7 | 1 | 22 | 3 |

@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -21,7 +21,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 337 | 303 | 35 | 3898 | 14.54 |
+| 337 | 304 | 36 | 3905 | 14.57 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -209,6 +209,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Broadway and Horton](../1993/broadway-and-horton) | **20**&#42; |
 |  | [Old Elthamians](../1993/old-elthamians) | **9**&#42; |
 |  | [Antilles](../1993/antilles) | **30** |
+|  | [Great Tew](../1993/great-tew) | **7**&#42; |
 | **1992** | [Watton-at-Stone](../1992/watton-at-stone) | **0** |
 |  | [Old Wimbledonians](../1992/old-wimbledonians) | **1** |
 |  | [Long Hanborough](../1992/long-hanborough) | **2** |

@@ -61,7 +61,7 @@ nav_order: 7
 | **R Beswick &#42;** | c | Redfern | 7 |
 | **W Calvert** | c | Knight | 13 |
 | **A Dent** | b | Knight | 5 |
-| **I Marshall;** | c | Knight | 0 |
+| **I Marshall** | c | Knight | 0 |
 | **J Grant &#8224;** | not out |  | 8 |
 | **D Young** | dnb |  |  |
 | **J Wright** | dnb |  |  |

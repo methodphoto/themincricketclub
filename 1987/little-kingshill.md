@@ -60,7 +60,7 @@ nav_order: 3
 | **R Beswick &#42;** | c Borkett | Doughty | 0 |
 | **J Packenham-Walsh** | b  | Doughty | 0 |
 | **A Sylvester** | b | Doughty | 0 |
-| **E Garland;** | c Borkett | Howard | 16 |
+| **E Garland** | c Borkett | Howard | 16 |
 | **S Maynard** | b | Doughty | 1 |
 | **D Newman** | b | Doughty | 11 |
 | **G Wright** | not out |  | 0 |

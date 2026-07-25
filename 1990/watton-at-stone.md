@@ -47,7 +47,7 @@ nav_order: 15
 | **M Taylor** | 10 | 2 | 18 | 2 |
 | **I Marshall** | 8.5 | 0 | 36 | 4 |
 | **R Beswick** | 5 | 0 | 39 | 2 |
-| **Wright** | 4 | 0 | 23 | 1 |
+| **J Wright** | 4 | 0 | 23 | 1 |
 | **S Griffiths** | 3 | 0 | 7 | 0 |
 
 ## {{page.awayTeam}} Innings

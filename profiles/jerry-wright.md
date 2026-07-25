@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -20,7 +20,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 383 | 178 | 74 | 979 | 9.41 |
+| 383 | 183 | 77 | 985 | 9.29 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -37,6 +37,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Middleton Stoney](../2017/middleton-stoney) | **0**&#42; |
 | **2016** | [Bristol 4th XI](../2016/bristol) | **1** |
 |  | [Blagdon Hill](../2016/blagdon-hill) | **1**&#42; |
+|  | [Nightwatchman](../2016/nightwatchman) | **2** |
 | **2015** | [BGS Bedouins](../2015/bgs-bedouins) | **2** |
 |  | [Blagdon Hill](../2015/blagdon-hill) | **12** |
 |  | [Frensham](../2015/frensham) | **4** |
@@ -69,7 +70,8 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Kilmington and Stourton](../2010/kilmington-and-stourton) | **0** |
 |  | [Watton-at-Stone](../2010/watton-at-stone) | **3**&#42; |
 |  | [Newdigate](../2010/newdigate) | **13** |
-| **2009** | [Reigate Pilgrims](../2009/reigate-pilgrims) | **0** |
+| **2009** | [Selling](../2009/selling) | **0**&#42; |
+|  | [Reigate Pilgrims](../2009/reigate-pilgrims) | **0** |
 |  | [Kilmington and Stourton](../2009/kilmington-and-stourton) | **6** |
 |  | [Broadway and Horton](../2009/broadway-and-horton) | **9**&#42; |
 |  | [Stowting](../2009/stowting) | **0**&#42; |
@@ -148,7 +150,9 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Reigate Pilgrims](../1994/reigate-pilgrims) | **0** |
 |  | [Valley End](../1994/valley-end) | **2** |
 |  | [Farnborough](../1994/farnborough) | **17** |
+|  | [Horningsham](../1994/horningsham) | **2**&#42; |
 |  | [Old Elthamians](../1994/old-elthamians) | **0**&#42; |
+|  | [Great Tew](../1994/great-tew) | **1**&#42; |
 |  | [Antilles](../1994/antilles) | **15** |
 | **1992** | [Shepton Beauchamp](../1992/shepton-beauchamp) | **1** |
 |  | [Broadway and Horton](../1992/broadway-and-horton) | **0** |
@@ -189,7 +193,8 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Brook](../1985/brook) | **1** |
 |  | [West Green](../1985/west-green) | **5** |
 |  | [White City All Stars](../1985/white-city-all-stars) | **13** |
-| **1984** | [Chiswick Flyovers](../1984/chiswick-flyovers) | **0** |
+| **1984** | [British Legion Rickmansworth](../1984/british-legion-rickmansworth) | **1** |
+|  | [Chiswick Flyovers](../1984/chiswick-flyovers) | **0** |
 |  | [Ealonian](../1984/ealonian) | **0** |
 |  | [Sudbury Court](../1984/sudbury-court) | **4** |
 |  | [Lobsters](../1984/lobsters) | **8** |
@@ -213,7 +218,7 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 
 | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| 369 | 2725.4 | 365 | 10532 | 538 | 19.58 | 30.4 |
+| 370 | 2729.4 | 365 | 10555 | 539 | 19.58 | 30.39 |
 
 | Year | Opp | O | M | R | W |
 |:---|:---|:---|:---|:---|:---|
@@ -493,7 +498,8 @@ Debut: [Clifton Hill House 1982](../1982/clifton-hill-house)
 |  | [Yateley](../1992/yateley) | 4 | 0 | 9 | 2 |
 | **1991** | [Valley End](../1991/valley-end) | 6.2 | 5 | 3 | 5 |
 |  | [Watton-at-Stone](../1991/watton-at-stone) | 7 | 0 | 24 | 1 |
-| **1990** | [Reigate Pilgrims](../1990/reigate-pilgrims) | 10 | 2 | 44 | 1 |
+| **1990** | [Watton-at-Stone](../1990/watton-at-stone) | 4 | 0 | 23 | 1 |
+|  | [Reigate Pilgrims](../1990/reigate-pilgrims) | 10 | 2 | 44 | 1 |
 |  | [Stowting](../1990/stowting) | 6 | 3 | 10 | 0 |
 |  | [Ockley](../1990/ockley) | 6 | 0 | 36 | 0 |
 | **1989** | [Watton-at-Stone](../1989/watton-at-stone) | 14 | 4 | 28 | 2 |

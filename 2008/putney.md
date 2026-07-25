@@ -24,7 +24,7 @@ nav_order: 12
 | **M Gupta** | c J Peters | R Leighton | 29 |
 | **W Calvert** | c D Hadaway | B Perinparaja | 42 |
 | **A Slight** | c O Rose | S Iqbal | 11 |
-| **R Coyle** | not out |   19 |
+| **R Coyle** | not out |  | 19 |
 | **R O'Hagan** | not out |  | 0 |
 | **A Beswick** | dnb |  |  |
 | **P Wigg** | dnb |  |  |

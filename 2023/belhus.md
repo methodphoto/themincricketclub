@@ -66,10 +66,10 @@ R Earney's 55th 50
 | **A Beswick &#42;** | not out |  | 13 |
 | **C Wright** | dnb |  |  |
 | **L Baker** | dnb |  |  |
-| **A Said** | dnb |  |  | |
+| **A Said** | dnb |  |  |
 | **J Carroll** | dnb |  |  |
-| **J Grant  &#8224;** | dnb |  |  | |
-| **R Beswick** | dnb |  |  | |
+| **J Grant  &#8224;** | dnb |  |  |
+| **R Beswick** | dnb |  |  |
 | **Extras** | | (10b 1lb 1w 3nb 0p) | **15** |
 | **Total** | | (27.4 overs) | **132 for 3 wkts** |
 

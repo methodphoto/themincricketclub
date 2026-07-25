@@ -62,10 +62,10 @@ nav_order: 6
 | **A Gallagher** | c L Marsh | M Al-Azzawi | 0 |
 | **A Fox** | b | M Al-Azzawi | 25 |
 | **R Beswick** | not out |  | 6 |
-| **P Wigg** | dnb |  |  | |
-| **J Grant &#8224;** | dnb |  |  | |
-| **J Casey** | dnb |  |  | |
-| **C Wright** | dnb |  |  | |
+| **P Wigg** | dnb |  |  |
+| **J Grant &#8224;** | dnb |  |  |
+| **J Casey** | dnb |  |  |
+| **C Wright** | dnb |  |  |
 | **Extras** | | (3b 1lb 6w 3nb 0p) | **13** |
 | **Total** | | (18.2 overs) | **76 for 5 wkts** |
 

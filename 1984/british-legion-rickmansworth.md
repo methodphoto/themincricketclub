@@ -29,7 +29,7 @@ A Lisser's 1st 50
 | **D Wilson** | b | Edwards | 1 |
 | **S Maynard** | b | Naughton | 1 |
 | **R Beswick &#42;** | not out |  | 14 |
-| **J Wright** | run out | 1 |
+| **J Wright** | run out |  | 1 |
 |  |  |  |  |
 | **Extras** | | (0b 1lb 11w 0nb) | **12** |
 | **Total** | | (36.1 overs) | **126 for 8 wkts (all out)** |

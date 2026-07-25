@@ -24,7 +24,7 @@ A Beswick's 22st 50.
 | **R Beswick &#42;** | c F Richardson | L Jillings | 26 |
 | **A Beswick** | c J Reilly | L Jillings | 52 |
 | **M Griffiths** | b | H Griffiths | 30 |
-| **B Boyd-Tailor** | c | L Jillings | 4 |
+| **B Boyd-Taylor** | c | L Jillings | 4 |
 | **A Gallagher** | b | H Mendiratta | 29 |
 | **W Calvert** | c Ussman | H Mendiratt | 5 |
 | **P Wigg** | not out |  | 18 |

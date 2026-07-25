@@ -25,7 +25,7 @@ A Gallagher's 4th 50<br />
 | **A Gallagher** | c Bane | Middleton | 85 |
 | **J Grant &#8224;** | c & b | Sullivan | 31 |
 | **D Mundy** | b | Teahan | 0 |
-| **S Waston** | not out |  | 30 |
+| **S Watson** | not out |  | 30 |
 | **R Beswick &#42;** | c Oakley  | Middleton | 6 |
 | **W Calvert** | not out |  | 25 |
 | **R Scotts** | dnb |  |  |

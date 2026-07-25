@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -21,7 +21,7 @@ Debut: [SAC XI 2011](../2011/sac-xi)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 61 | 59 | 7 | 1282 | 24.65 |
+| 61 | 60 | 7 | 1283 | 24.21 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -59,6 +59,7 @@ Debut: [SAC XI 2011](../2011/sac-xi)
 |  | [Brasted Invicta](../2016/brasted-invicta) | **12** |
 |  | [Watton-at-Stone](../2016/watton-at-stone) | **13** |
 |  | [Frensham](../2016/frensham) | **4** |
+|  | [Nightwatchman](../2016/nightwatchman) | **1** |
 |  | [Middleton Stoney](../2016/middleton-stoney) | **6** |
 | **2015** | [Selling](../2015/selling) | **20**&#42; |
 |  | [Brasted Invicta](../2015/brasted-invicta) | **20** |

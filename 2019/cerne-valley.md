@@ -25,7 +25,7 @@ nav_order: 7
 | **A Munim** | c Chubb | M Penny | 19 |
 | **S Mohammed** | b | M Penny | 2 |
 | **J Stimpfig** | b | C Daley | 6 |
-| **J Grant &#8224;** | not out | 13 |
+| **J Grant &#8224;** | not out |  | 13 |
 | **E Garland** | not out | | 3 |
 | **I Miah** | dnb | | |
 | **J Grant &#8224;** | dnb | | |

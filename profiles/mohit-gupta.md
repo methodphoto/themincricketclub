@@ -6,7 +6,7 @@ parent: Profiles
 
 # **{{page.parent}}:** {{page.title}}
 
-Last Updated: 2026-07-24
+Last Updated: 2026-07-25
 
 <details open markdown="block">
 1. TOC
@@ -21,7 +21,7 @@ Debut: [Ockley 1991](../1991/ockley)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 93 | 84 | 15 | 2075 | 30.07 |
+| 93 | 87 | 16 | 2145 | 30.21 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -36,7 +36,8 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Watton-at-Stone](../2017/watton-at-stone) | **2** |
 |  | [Frensham](../2017/frensham) | **100** |
 |  | [Middleton Stoney](../2017/middleton-stoney) | **6** |
-| **2016** | [Reigate Pilgrims](../2016/reigate-pilgrims) | **33** |
+| **2016** | [Selling](../2016/selling) | **5** |
+|  | [Reigate Pilgrims](../2016/reigate-pilgrims) | **33** |
 |  | [Brasted Invicta](../2016/brasted-invicta) | **50**&#42; |
 |  | [Kilmington and Stourton](../2016/kilmington-and-stourton) | **28** |
 |  | [Bristol 4th XI](../2016/bristol) | **2**&#42; |
@@ -44,6 +45,8 @@ Debut: [Ockley 1991](../1991/ockley)
 |  | [Blagdon Hill](../2016/blagdon-hill) | **15** |
 |  | [Watton-at-Stone](../2016/watton-at-stone) | **21** |
 |  | [Newington](../2016/newington) | **6** |
+|  | [Nightwatchman](../2016/nightwatchman) | **65** |
+|  | [Middleton Stoney](../2016/middleton-stoney) | **0**&#42; |
 | **2015** | [Selling](../2015/selling) | **27** |
 |  | [Brasted Invicta](../2015/brasted-invicta) | **18**&#42; |
 |  | [Stowting](../2015/stowting) | **23** |
@@ -112,7 +115,7 @@ Debut: [Ockley 1991](../1991/ockley)
 
 
 **Highest Score**: 100 v [Frensham](../2017/frensham)<br />
-**Fifties:** 10<br />
+**Fifties:** 11<br />
 **Hundreds:** 1
 
 

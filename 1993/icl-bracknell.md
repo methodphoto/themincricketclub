@@ -58,7 +58,7 @@ R Earney first 5 wkt haul for The Min
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Stimpfig  &#8224;** | b | Bate | 22 |
-| **M Hyde;** | b | Cooper | 0 |
+| **M Hyde** | b | Cooper | 0 |
 | **R Beswick &#42;** | c | Cooper | 23 |
 | **S Barrowcliff** | b | White | 12 |
 | **R Olver** | b | White | 14 |

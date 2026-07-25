@@ -65,7 +65,7 @@ P Clothier's 1st 50
 | **R Beswick** | dnb | | |
 | **D Young** | dnb | | |
 | **M Gardiner** | dnb | | |
-| **E Garland** | dnb | | ||
+| **E Garland** | dnb |  |  |
 | **J Wright** | dnb | | |
 | | | | |
 | **Extras** | | (1b 0lb 2w 0nb) | **3** |

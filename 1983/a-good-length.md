@@ -49,7 +49,7 @@ A Gallagher's 2nd 50
 | **M Kirwan** | 8 | 1 | 27 | 3 |
 | **A Sylvester** | 7 | 1 | 26 | 2 |
 | **J Wright** | 2 | 0 | 5 | 3 |
-| **T Purvis** | 1 | 0 | 7 | 0 |
+| **T Purves** | 1 | 0 | 7 | 0 |
 | **J Grant** | 0.3 | 0 | 0 | 1 |
 
 ## {{page.awayTeam}} Innings

@@ -29,7 +29,7 @@ nav_order: 6
 | **W Calvert** | c & b | S Dix | 2 |
 | **I Marshall** | b | A Trollope | 25 |
 | **G Wright** | b | A Trollope | 10 |
-| **JWright** | not out |  | 2 |
+| **J Wright** | not out |  | 2 |
 | **Extras** | | (1b 4lb 1w 1nb) | **7** |
 | **Total** | | (40.3 overs) | **157 all out** |
 
