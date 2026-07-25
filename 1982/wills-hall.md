@@ -15,6 +15,7 @@ parent: 1982 Fixtures
 {% include matchDetails %}
 
 ## {{page.awayTeam}} Innings
+
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
 | **J Booth** | c & b | Abrahams | 33 |
@@ -49,6 +50,7 @@ parent: 1982 Fixtures
 | **Mason** | 3 | 0 | 19 | 2 |
 
 ## {{page.homeTeam}} Innings
+
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
 | **Emmott** | b | L Sheridan | 0 |

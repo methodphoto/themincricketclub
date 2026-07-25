@@ -18,6 +18,7 @@ JBooth's 1st 50<br />
 [Partnership](../records/partnerships) of 100 between J Booth and D Mundy
 
 ## {{page.awayTeam}} Innings
+
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
 | **J Booth** | c Packham | Hunter | 72 |
@@ -52,6 +53,7 @@ JBooth's 1st 50<br />
 | **R Swift** | 8 | 1 | 30 | 3 |
 
 ## {{page.homeTeam}} Innings
+
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
 | **T.Packham** | b | J Wright | 42 | |

@@ -43,10 +43,10 @@ parent: 1982 Fixtures
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **R Crombie** | 8 | 3 | 19 | 1 |
-| **B Colethorpe** | 8.3 | 3 | 25 | 4 |
+| **R Crombie** | 8 | 3 | 19 | 0 |
+| **B Colethorpe** | 8.3 | 3 | 25 | 6 |
 | **S Chambers** | 7 | 0 | 28 | 1 |
-| **A Ruhtman** | 4 | 1 | 10 | 2 |
+| **A Ruhtman** | 4 | 1 | 10 | 1 |
 | **S Boyle** | 2 | 0 | 7 | 0 |
 | **M Sallitt** | 2 | 1 | 4 | 0 |
 | **N Hoare** | 1 | 0 | 8 | 0 |
