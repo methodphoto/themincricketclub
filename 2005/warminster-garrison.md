@@ -26,7 +26,7 @@ nav_order: 10
 | **P Beswick** | c | Kevin | 5 |
 | **H Ingham** | c | J Cushnir | 32 |
 | **N Beswick** | run out (R Beswick!) |  | 1 |
-| **R Earney** | b | J Cushnir | 0 |
+| **R Earney** | b | J Cushnir | 1 |
 | **R Beswick &#42;** | not out |  | 4 |
 | **G Powell** | not out |  | 3 |
 |  |  |  |  |

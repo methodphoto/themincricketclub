@@ -54,7 +54,7 @@ nav_order: 8
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | run out |  | 2 |
+| **R Earney** | run out |  | 23 |
 | **R Beswick** | c S Snook | J Cosby | 0 |
 | **E Garland** | c | S Snook | 20 |
 | **W Calvert** | c | D Lapham | 2 |

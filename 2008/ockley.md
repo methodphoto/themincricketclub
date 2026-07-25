@@ -55,7 +55,7 @@ nav_order: 2
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | c D Pavey | Owen | 2 |
+| **R Earney** | c D Pavey | Owen | 19 |
 | **R Beswick** | b | Belfridge | 0 |
 | **P O'Mahony** | b | Belfridge | 20 |
 | **A Slight &#8224;** | b | Belfridge | 2 |

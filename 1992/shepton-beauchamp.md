@@ -19,8 +19,8 @@ nav_order: 8
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | c & b | Jennings | 9|
-| **I Marshall** | b | Jennings | 11 |
+| **R Earney** | c & b | Jennings | 11 |
+| **I Marshall** | b | Jennings | 9 |
 | **S Barrowcliff** | c Jennings | W Hawkins | 32 |
 | **S Hornsby** | st | W Hawkins | 111 |
 | **R Beswick &#42;** | b | Jennings | 21 |

@@ -21,7 +21,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 
 | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| 404 | 395 | 31 | 9972 | 27.4 |
+| 404 | 395 | 31 | 10021 | 27.53 |
 
 | Year | Opponent | Score |
 |:---|:---|:---|
@@ -162,7 +162,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Horningsham](../2011/horningsham) | **69** |
 |  | [Kilmington and Stourton](../2011/kilmington-and-stourton) | **13** |
 |  | [Broadway and Horton](../2011/broadway-and-horton) | **13** |
-|  | [Stowting](../2011/stowting) | **5** |
+|  | [Stowting](../2011/stowting) | **13** |
 |  | [Watton-at-Stone](../2011/watton-at-stone) | **6** |
 |  | [ELCCC](../2011/elccc) | **13** |
 |  | [Newington](../2011/newington) | **4** |
@@ -205,7 +205,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Newdigate](../2008/newdigate) | **8** |
 |  | [Middleton Stoney](../2008/middleton-stoney) | **10** |
 |  | [Tappers](../2008/tappers) | **24** |
-|  | [Ockley](../2008/ockley) | **2** |
+|  | [Ockley](../2008/ockley) | **19** |
 |  | [Britwell Salome](../2008/britwell-salome) | **29** |
 | **2007** | [Watton-at-Stone](../2007/watton-at-stone) | **6** |
 |  | [Reigate Pilgrims](../2007/reigate-pilgrims) | **63** |
@@ -224,7 +224,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Selling](../2006/selling) | **26** |
 |  | [Old Mid-Whitgiftians](../2006/old-mid-whitgiftians) | **24** |
 |  | [Horningsham](../2006/horningsham) | **56** |
-|  | [Kilmington and Stourton](../2006/kilmington-and-stourton) | **2** |
+|  | [Kilmington and Stourton](../2006/kilmington-and-stourton) | **23** |
 |  | [Broadway and Horton](../2006/broadway-and-horton) | **80** |
 |  | [Stowting](../2006/stowting) | **49** |
 |  | [HSBC](../2006/hsbc) | **29** |
@@ -236,7 +236,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [SB Exiles](../2005/sb-exiles) | **122**&#42; |
 |  | [Selling](../2005/selling) | **17** |
 |  | [Horningsham](../2005/horningsham) | **52** |
-|  | [Warminster Garrison](../2005/warminster-garrison) | **0** |
+|  | [Warminster Garrison](../2005/warminster-garrison) | **1** |
 |  | [Kilmington and Stourton](../2005/kilmington-and-stourton) | **55** |
 |  | [Broadway and Horton](../2005/broadway-and-horton) | **32** |
 |  | [Stowting](../2005/stowting) | **98** |
@@ -392,7 +392,7 @@ Debut: [Limpsfield 1989](../1989/limpsfield)
 |  | [Long Hanborough](../1992/long-hanborough) | **23** |
 |  | [Checkendon](../1992/checkendon) | **6** |
 |  | [Dowlish Wake](../1992/dowlish-wake) | **29** |
-|  | [Shepton Beauchamp](../1992/shepton-beauchamp) | **9** |
+|  | [Shepton Beauchamp](../1992/shepton-beauchamp) | **11** |
 |  | [Broadway and Horton](../1992/broadway-and-horton) | **9** |
 |  | [Deando](../1992/deando) | **7** |
 |  | [Ockley Road, Bromley v The Min](../1992/ockley-road-bromley) | **17** |

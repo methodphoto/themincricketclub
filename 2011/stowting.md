@@ -55,7 +55,7 @@ nav_order: 7
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **R Earney** | c M Jackson | C Harding | 5 |
+| **R Earney** | c M Jackson | C Harding | 13 |
 | **J Grant** | lbw | C Harding | 2 |
 | **G Daley** | lbw | D Bland | 4 |
 | **A Narula** | lbw | M Jackson | 56 |
