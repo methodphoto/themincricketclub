@@ -8,6 +8,8 @@ nav_order: 2
 
 **29th April [44th Anniversary of The Min](/1982/clifton-hill-house)**
 
+change of location for St Anne's Allstars
+
 | May |  |  |  |
 |:---|:---|:---|
 | 17th<br/>13:00 | [The&nbsp;Mighty&nbsp;Wanderers](the-mighty-wanderers) | [SW18&nbsp;2SL](https://maps.app.goo.gl/QTzMLYBkNvDx5LwG7) | ⚪️ |
@@ -22,7 +24,7 @@ nav_order: 2
 | 18th<br/>13:00 | [Easton&nbsp;Cowfolk&nbsp;CC](easton-cowfolk) | [BS8&nbsp;3QD](https://maps.app.goo.gl/JsvpX1MzYaWturpo8) | ⚪️ |
 | Aug |  |  |  |
 |:---|:---|:---|
-| 16th<br/>13:00 | St&nbsp;Anne's&nbsp;Allstars | [N22&nbsp;7AX](https://maps.app.goo.gl/wuhYQfawQnkMXxeY9) | ⚪️ |
+| 16th<br/>13:00 | St&nbsp;Anne's&nbsp;Allstars | SW13 | ⚪️ |
 | Sep |  |  |  |
 |:---|:---|:---|
 | 6th<br/>13:00 | Railway&nbsp;Taverners | [N8&nbsp;8JJ](https://maps.app.goo.gl/AY6YGTFG9fLaRCCk6) | ⚪️ |
