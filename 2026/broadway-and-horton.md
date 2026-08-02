@@ -4,7 +4,7 @@ title: Broadway and Horton
 homeTeam: Broadway and Horton
 awayTeam: The Min
 location: The Fusion Fostering Ground
-date: 17/07/2025
+date: 17/07/2026
 report: The Min won the toss and batted first making 231 for 7 wkts in 35 overs. Broadway replied with 183 all out.
 result: The Min retained The Ashes by 48 runs
 next: easton-cowfolk
