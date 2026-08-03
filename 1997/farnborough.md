@@ -28,7 +28,7 @@ nav_order: 10
 | **D Young** | run out |  | 13 |
 | **E Garland** | lbw | A Howard | 1 |
 | **J Wright** | not out |  | 16 |
-| **G Wright** | not out |  | 1 |
+| **Ge Wright** | not out |  | 1 |
 |  |  |  |  |
 | **Extras** | | (4b 6lb 3w 5nb) | **18** |
 | **Total** | | (42 overs) | **168 for 8 wkts** |
