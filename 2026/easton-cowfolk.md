@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Easton Cowfolk
-homeTeam: Easton Cowfolk
-awayTeam: The Min
+homeTeam: The Min
+awayTeam: Easton Cowfolk
 location: Chellaram Sports Ground
 date: 18/07/2026
 report: Easton Cowfolk won the toss and inserted The Min. The Min scored 207 for 7 wkts in 35 overs. Easton Cowfolk replied with 191 for 9 wkts in 35 overs
@@ -16,7 +16,7 @@ nav_order: 7
 
 A Beswick's 22st 50.
 
-## {{page.awayTeam}} Innings
+## {{page.homeTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -55,7 +55,7 @@ A Beswick's 22st 50.
 | **Sabor** | 3 | 0 | 20 | 0 |
 | **D Lewis** | 3 | 0 | 12 | 0 |
 
-## {{page.homeTeam}} Innings
+## {{page.awayTeam}} Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
