@@ -16,6 +16,7 @@ parent: Results
 ## 2026
 
 |:---|:---|:---|
+| 16/08/2026 | [St Anne's Allstars](../2026/st-annes-allstars) | Won |
 | 18/07/2026 | [Easton Cowfolk CC](../2026/easton-cowfolk) | Won |
 | 17/07/2026 | [Broadway and Horton](../2026/broadway-and-horton) | Won |
 | 16/07/2026 | [Blagdon Hill](../2026/blagdon-hill) | Won |
