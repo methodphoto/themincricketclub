@@ -5,7 +5,7 @@ homeTeam: St Anne's Allstars
 awayTeam: The Min
 location: Barnes Sports Club
 date: 16/08/2026
-report: The Min won the toss and inserted St Anne's, who made 143 for 8 wkts in 35 overs. The Min The Min replied with 144 for 4 wkts in 21.2 overs
+report: The Min won the toss and inserted St Anne's, who made 143 for 8 wkts in 35 overs. The Min replied with 144 for 4 wkts in 21.2 overs
 result: The Min won by 6 wkts
 next: 
 parent: 2026 Fixtures
@@ -25,7 +25,7 @@ P Grappy's highest score.
 | **S Pererra** | run our |  | 45 |
 | **A Foster** | run out (R Beswick) |  | 5 |
 | **L Dooley** | b | A Gauhar | 4 |
-| **F Haddo-Allen** | not out | 5 |
+| **F Haddo-Allen** | not out |  | 5 |
 | **P Sigh** | c & b | P Beswick | 2 |
 | **E Haddo-Allen** | run out |  | 0 |
 | **G Duncan** | c J Stacey | C Etheridge | 5 |
@@ -39,7 +39,7 @@ P Grappy's highest score.
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 15 | 105 | 110 | 117 | 130 | 133 | 136 | 143 |  |  |
-| **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | 8 |  |  |  |
+| **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | 8 | 9 |  |  |
 
 ## Bowling
 

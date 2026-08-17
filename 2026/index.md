@@ -24,7 +24,7 @@ change of location for St Anne's Allstars
 | 18th<br/>13:00 | [Easton&nbsp;Cowfolk&nbsp;CC](easton-cowfolk) | [BS8&nbsp;3QD](https://maps.app.goo.gl/JsvpX1MzYaWturpo8) | ⚪️ |
 | Aug |  |  |  |
 |:---|:---|:---|
-| 16th<br/>13:00 | St&nbsp;Anne's&nbsp;Allstars | [SW13 0DG](https://maps.app.goo.gl/MAxS2Ft7h6TE8muw5?g_st=ac) | ⚪️ |
+| 16th<br/>13:00 | [St&nbsp;Anne's&nbsp;Allstars](st-annes-allstars) | [SW13 0DG](https://maps.app.goo.gl/MAxS2Ft7h6TE8muw5?g_st=ac) | ⚪️ |
 | Sep |  |  |  |
 |:---|:---|:---|
 | 6th<br/>13:00 | Railway&nbsp;Taverners | [N8&nbsp;8JJ](https://maps.app.goo.gl/AY6YGTFG9fLaRCCk6) | ⚪️ |
