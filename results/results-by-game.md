@@ -7,7 +7,7 @@ parent: Results
 
 # {{page.title}}
 
-<details open markdown="block">
+<details closed markdown="block">
   {: .text-delta }
 1. TOC
 {:toc}
