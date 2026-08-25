@@ -27,5 +27,5 @@ change of location for St Anne's Allstars
 | 16th<br/>13:00 | [St&nbsp;Anne's&nbsp;Allstars](st-annes-allstars) | [SW13 0DG](https://maps.app.goo.gl/MAxS2Ft7h6TE8muw5?g_st=ac) | ⚪️ |
 | Sep |  |  |  |
 |:---|:---|:---|
-| 6th<br/>13:00 | Railway&nbsp;Taverners | [N8&nbsp;8JJ](https://maps.app.goo.gl/AY6YGTFG9fLaRCCk6) | ⚪️ |
+| 6th<br/>13:00 | Railway&nbsp;Taverners | [N8&nbsp;8RL](https://maps.app.goo.gl/rYAgAGWpxAtCvzEC6) | ⚪️ |
 | 13th<br/>13:00 | Reigate&nbsp;Pilgrims| [RH3&nbsp;7DS](https://goo.gl/maps/APtKSjuaQ5v) | 🥪 |
