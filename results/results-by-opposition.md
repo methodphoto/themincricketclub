@@ -16,7 +16,7 @@ parent: Results
 | **Ashes Matches** | 27 | 18 | 8 | 1 | 0 | 66.66 | +10 |
 | **Middleton Stoney** | 15 | 4 | 4 | 7 | 0 | 26.66 | 0 |
 | **Blagdon Hill** | 11 | 6 | 5 | 0 | 0 | 54.54 | 1 |
-| **Railway Taverners** | 6 | 5 | 1 | 0 | 0 | 88.33 | 4 |
+| **Railway Taverners** | 7 | 5 | 2 | 0 | 0 | 71.42 | 3 |
 | **St Anne's Allstars** | 4 | 3 | 1 | 0 | 0 | 75.00 | 2 |
 
 ## No longer playing

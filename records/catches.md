@@ -9,7 +9,7 @@ parent: Records
 
 | Player            | Catches | Stumpings | Total |
 |-------------------|---------|-----------|-------|
-| **J Grant**       | 268     | 131       | 398   |
+| **J Grant**       | 269     | 131       | 399   |
 | **R Beswick**     | 127     | 0         | 127   |
 | **R Earney**      | 121     | 0         | 121   |
 | **J Wright**      | 118     | 0         | 118   |
@@ -20,7 +20,7 @@ parent: Records
 | **S Barrowcliff** | 41      | 0         | 41    |
 | **A Beswick**     | 39      | 1         | 40    |
 | **A Slight**      | 27      | 6         | 33    |
-| **J Stimpfig**     | 18      | 8         | 26    |
+| **J Stimpfig**    | 18      | 8         | 26    |
 | **A Gallagher**   | 26      | 0         | 26    |
 | **S Hornsby**     | 24      | 0         | 24    |
 | **M Gardiner**    | 24      | 0         | 24    |

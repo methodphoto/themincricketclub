@@ -58,42 +58,44 @@ P Wigg's highest score.
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **B Boyd-Taylor** | b | R Hampton | 0 |
-| **C Etheridge** | b | A Foster | 3 |
-| **P Grappy** | c P Sigh | I Wilson | 42 |
-| **D Baker** | b | I Wilson | 25 |
-| **M Rodgers** | not out | | 27 |
-| **J Stacey &#8224;** | not out | | 31 |
-| **S Amin** | dnb |  |  |
-| **R Beswick &#42;** | dnb |  |  |
-| **P Beswick ** | dnb |  |  |
-| **J Casey** | dnb |  |  |
-| **C Wright** | dnb |  |  |
-| **Extras** | | (0b 0lb 12w 4nb 0p) | **16** |
-| **Total** | | (21.2 overs) | **144 for 4 wkts** |
+| **S Wildy** | c J Grant | P Wigg | 47 |
+| **R Dean &#8224;** | lbw | I Miah | 48 |
+| **D Moger** | c P Wigg | S Yaseen | 37 |
+| **J Mulligan** | c M Yaseen | C Wright | 6 |
+| **C Ives** | b |I Miah | 1 |
+| **J Thexton** | not out | | 13 |
+| **E Reilly &#42;** | not out |  | 13 |
+| **G Gibbs** | dnb |  |  |
+| **D Vale** | dnb |  |  |
+| **C Dobson** | dnb |  |  |
+| **M Winter** | dnb |  |  |
+| **Extras** | | (1b 2lb 6w 2nb 0p) | **11** |
+| **Total** | | (33.3 overs) | **176 for 5 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 1 | 13 | 51 | 82 |  |  |  |  |  |  |
-| **Batsman** | 1 | 2 | 3 | 4 |  |  |  |  |  |  | 
+| **Score** | 78 | 124 | 139 | 140 | 157 |  |  |  |  |  |
+| **Batsman** | 1 | 2 | 4 | 5 | 3 |  |  |  |  |  | 
 
 ## Bowling
 
 | | O | M | R | W |
 |---|:---|:---|:---|:---|
-| **M Rodgers** | 5 | 1 | 12 | 0 |
-| **S Amin** | 5 | 1 | 15 | 1 |
-| **C Wright** | 6 | 0 | 33 | 0 |
-| **R Beswick** | 7 | 0 | 26 | 0 |
-| **A Gauhar** | 4 | 0 | 18 | 1 |
-| **C Etheridge** | 2 | 0 | 8 | 1 |
+| **I Ali** | 7 | 2 | 13 | 0 |
+| **M Rodgers** | 3 | 0 | 23 | 0 |
+| **M Yaseen** | 5 | 0 | 25 | 0 |
+| **P Wigg** | 5 | 0 | 25 | 1 |
+| **I Miah** | 7 | 0 | 31 | 2 |
+| **S Amin** | 2 | 0 | 16 | 0 |
+| **C Wright** | 3 | 0 | 20 | 1 |
+| **S Yaseen** | 1.3 | 0 | 20 | 1 |
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|:---|
-| 6 | 2 | 0 | 0 |
+| 6 | 3 | 0 | 0 |
 
 {% include nextGame %}
