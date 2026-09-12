@@ -64,8 +64,8 @@ P Grappy's highest score.
 | **J Stacey &#8224;** | not out | | 31 |
 | **S Amin** | dnb |  |  |
 | **R Beswick &#42;** | dnb |  |  |
-| **P Beswick ** | dnb |  |  |
-| **J Casey** | dnb |  |  |
+| **P Beswick** | dnb |  |  |
+| **A Gauhar** | dnb |  |  |
 | **C Wright** | dnb |  |  |
 | **Extras** | | (0b 0lb 12w 4nb 0p) | **16** |
 | **Total** | | (21.2 overs) | **144 for 4 wkts** |
